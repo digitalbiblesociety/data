@@ -1,4 +1,10 @@
 {
+  "organizations": [
+    {
+      "organization_id": "the-seed-company",
+      "relationship_type": "publisher"
+    }
+  ],
   "questionable": false,
   "country_id": "NG",
   "iso": "abm",
@@ -7,7 +13,18 @@
   "date": "2022",
   "reviewed": false,
   "title": "The Gospel of Luke in Abanyom",
-  "links": [],
+  "links": [
+    {
+      "visible": true,
+      "url": "https://www.bible.com/bible/3421/LUK.1.ABM",
+      "title": "Youversion",
+      "scope": "P",
+      "type\"": "web",
+      "organization_id": "youversion",
+      "filesize\"": "",
+      "response_code": 200
+    }
+  ],
   "description_reviewed": false,
   "id": "ABMLIST"
 }
