@@ -1,1 +1,234 @@
-{"iso":"gym","glotto_id":"ngab1239","glotto_family":null,"iso1":null,"name":"Ngäbere","autonym":"Movere","macroarea":null,"level":"L","development":null,"use":null,"location":"Costa Rica","area":"Northeastern Chiriqui, Bocas del Toro, western Veraguas, western provinces. Also in Costa Rica.","progress":"New Testament\r","typology":null,"writing":null,"description":null,"country_id":"PA","latitude":"8.825105","longitude":"-82.391125","population":171840,"status_id":"5","status_notes":null,"redirect_to_iso":null,"bibles_count":1,"films_count":2,"resources_count":2,"translations_count":5,"country":{"id":"PA","name":"Panama","name_long":"The Republic of Panamá","population":3928646,"official_language":"Spanish","official_language_iso":"spa","url_wiki":"https://en.wikipedia.org/wiki/Panama","hidden":0,"autonym":null,"fips":"PM","iso_a3":"PAN","continent_id":"NA","iso_num":591,"religion_primary":"Christianity","introduction":"Explored and settled by the Spanish in the 16th century Panama broke with Spain in 1821 and joined a union of Colombia Ecuador and Venezuela - named the Republic of Gran Colombia. When the latter dissolved in 1830 Panama remained part of Colombia. With US backing Panama seceded from Colombia in 1903 and promptly signed a treaty with the US allowing for the construction of a canal and US sovereignty over a strip of land on either side of the structure (the Panama Canal Zone). The Panama Canal was built by the US Army Corps of Engineers between 1904 and 1914. In 1977 an agreement was signed for the complete transfer of the Canal from the US to Panama by the end of the century. Certain portions of the Zone and increasing responsibility over the Canal were turned over in the subsequent decades. With US help dictator Manuel NORIEGA was deposed in 1989. The entire Panama Canal the area supporting the Canal and remaining US military bases were transferred to Panama by the end of 1999. An ambitious expansion project to more than double the Canal's capacity - by allowing for more Canal transits and larger ships - was carried out between 2007 and 2016.","overview":"Panama is a country on the isthmus linking Central and South America. The Panama Canal a famous feat of human engineering cuts through its center linking the Atlantic and Pacific oceans to create an essential shipping route. In the capital Panama City modern skyscrapers casinos and nightclubs contrast with colonial buildings in the Casco Viejo district and the rainforest of Natural Metropolitan Park.","independent":1,"wfb":1,"wfb_pdf":1,"sil_language_count":28,"land_mass_km":74340,"population_christian":3057000,"population_christian_percentage":92,"population_catholic_percentage":80,"population_protestant_percentage":12,"population_refugee":2557,"population_migration":11200,"population_year_change":1.61,"population_density_km":58,"population_average_age":30,"population_urban_percentage":68,"population_literacy_percentage":"94.00","landmass":null,"region_code":11,"region_id":"419","region_name":"Latin America and the Caribbean"},"translations":[{"source_iso":"gym","translation_iso":"gym","dialect_id":null,"name":"Chiriqui"},{"source_iso":"gym","translation_iso":"gym","dialect_id":null,"name":"Guaymí"},{"source_iso":"gym","translation_iso":"gym","dialect_id":null,"name":"Ngäbere"},{"source_iso":"gym","translation_iso":"gym","dialect_id":null,"name":"Ngobere"},{"source_iso":"gym","translation_iso":"gym","dialect_id":null,"name":"Valiente"}],"bibles":[{"id":"GYMWBT","parent_bible_id":null,"gbc":null,"date":"2004","iso":"gym","title":"Ngäbere New Testament","title_vernacular":"Kukwe kuin ngöbökwe","copyright":"© 2004 Wycliffe Bible Translators, Inc.","guid":null,"description":"New Testament in Ngäbere (PM:gym:Ngäbere)","description_short":null,"description_vernacular":null,"description_reviewed":3,"script":"Latn","versification":"Default","numeral_system_id":"default","country_id":"PA","copyright_type":null,"reviewed":0,"isbn13":"978-1-5313-0275-7","back_text":null,"cover":null,"questionable":null}],"resources":[{"iso":"gym","fab_view":"1","type":"audio","cover":"","title":"Words of Life","title_vernacular":null,"description":"","url_source":"https://globalrecordings.net/en/program/4271","url":"https://globalrecordings.net/en/program/4271","author":"Global Recordings Network","organization_id":"global-recordings-network","date":""},{"iso":"gym","fab_view":"1","type":"audio","cover":"","title":"Words of Life","title_vernacular":null,"description":"","url_source":"https://globalrecordings.net/en/program/4260","url":"https://globalrecordings.net/en/program/4260","author":"Global Recordings Network","organization_id":"global-recordings-network","date":""}],"films":[{"iso":"gym","organization_id":"the-jesus-film-project","title":"JESUS","title_vernacular":null,"description":"Jesus constantly surprises and confounds people, from His miraculous birth to His rise from the grave. Follow His life through excerpts from the Book of Luke, all the miracles, the teachings, and the passion.","url":"https://arc.gt/qwtai?apiSessionId=5f875640cc0b13.38336405","url_youtube":null,"img_thumb":"https://d1wl257kev7hsz.cloudfront.net/cinematics/1_jf-0-0.thumbnail.jpg","img_poster":"https://d1wl257kev7hsz.cloudfront.net/cinematics/Classic_art_HD.jpg","duration_ms":7673754,"fab_view":1},{"iso":"gym","organization_id":"mars-hill","title":"The Ngäbere HOPE","title_vernacular":"Tödekakrä - Voice Only Version","description":null,"url":"https://www.mars-hill.org/the-hope/store/the-ng%C3%A4bere-hope-t%C3%B6dekakr%C3%A4-voice-only-version\r","url_youtube":null,"img_thumb":null,"img_poster":null,"duration_ms":0,"fab_view":1}]}
+{
+    "iso": "gym",
+    "glotto_id": "ngab1239",
+    "glotto_family": null,
+    "iso1": null,
+    "name": "Ngäbere",
+    "autonym": "Movere",
+    "macroarea": null,
+    "level": "L",
+    "development": null,
+    "use": null,
+    "location": "Costa Rica",
+    "area": "Northeastern Chiriqui, Bocas del Toro, western Veraguas, western provinces. Also in Costa Rica.",
+    "progress": "New Testament\r",
+    "typology": null,
+    "writing": null,
+    "description": null,
+    "country_id": "PA",
+    "latitude": "8.825105",
+    "longitude": "-82.391125",
+    "population": 171840,
+    "status_id": "5",
+    "status_notes": null,
+    "redirect_to_iso": null,
+    "bibles_count": 1,
+    "films_count": 2,
+    "resources_count": 2,
+    "translations_count": 5,
+    "country": {
+        "id": "PA",
+        "name": "Panama",
+        "name_long": "The Republic of Panamá",
+        "population": 3928646,
+        "official_language": "Spanish",
+        "official_language_iso": "spa",
+        "url_wiki": "https://en.wikipedia.org/wiki/Panama",
+        "hidden": 0,
+        "autonym": null,
+        "fips": "PM",
+        "iso_a3": "PAN",
+        "continent_id": "NA",
+        "iso_num": 591,
+        "religion_primary": "Christianity",
+        "introduction": "Explored and settled by the Spanish in the 16th century Panama broke with Spain in 1821 and joined a union of Colombia Ecuador and Venezuela - named the Republic of Gran Colombia. When the latter dissolved in 1830 Panama remained part of Colombia. With US backing Panama seceded from Colombia in 1903 and promptly signed a treaty with the US allowing for the construction of a canal and US sovereignty over a strip of land on either side of the structure (the Panama Canal Zone). The Panama Canal was built by the US Army Corps of Engineers between 1904 and 1914. In 1977 an agreement was signed for the complete transfer of the Canal from the US to Panama by the end of the century. Certain portions of the Zone and increasing responsibility over the Canal were turned over in the subsequent decades. With US help dictator Manuel NORIEGA was deposed in 1989. The entire Panama Canal the area supporting the Canal and remaining US military bases were transferred to Panama by the end of 1999. An ambitious expansion project to more than double the Canal's capacity - by allowing for more Canal transits and larger ships - was carried out between 2007 and 2016.",
+        "overview": "Panama is a country on the isthmus linking Central and South America. The Panama Canal a famous feat of human engineering cuts through its center linking the Atlantic and Pacific oceans to create an essential shipping route. In the capital Panama City modern skyscrapers casinos and nightclubs contrast with colonial buildings in the Casco Viejo district and the rainforest of Natural Metropolitan Park.",
+        "independent": 1,
+        "wfb": 1,
+        "wfb_pdf": 1,
+        "sil_language_count": 28,
+        "land_mass_km": 74340,
+        "population_christian": 3057000,
+        "population_christian_percentage": 92,
+        "population_catholic_percentage": 80,
+        "population_protestant_percentage": 12,
+        "population_refugee": 2557,
+        "population_migration": 11200,
+        "population_year_change": 1.61,
+        "population_density_km": 58,
+        "population_average_age": 30,
+        "population_urban_percentage": 68,
+        "population_literacy_percentage": 94,
+        "landmass": null,
+        "region_code": 11,
+        "region_id": "419",
+        "region_name": "Latin America and the Caribbean"
+    },
+    "codes": [
+        {
+            "iso": "gym",
+            "source": "GRN",
+            "code": "1151"
+        },
+        {
+            "iso": "gym",
+            "source": "GRN",
+            "code": "1557"
+        },
+        {
+            "iso": "gym",
+            "source": "arclight",
+            "code": "10597"
+        }
+    ],
+    "classifications": [
+        {
+            "iso": "gym",
+            "class_id": "chib1249",
+            "class_order": 0,
+            "name": "Chibchan"
+        },
+        {
+            "iso": "gym",
+            "class_id": "core1252",
+            "class_order": 1,
+            "name": "Chibchan A"
+        },
+        {
+            "iso": "gym",
+            "class_id": "isth1243",
+            "class_order": 2,
+            "name": "Guaymiíc"
+        },
+        {
+            "iso": "gym",
+            "class_id": "east2569",
+            "class_order": 3,
+            "name": "Eastern Isthmic [east2569]"
+        },
+        {
+            "iso": "gym",
+            "class_id": "guay1266",
+            "class_order": 4,
+            "name": "Guaymiic [guay1266]"
+        }
+    ],
+    "dialects": [],
+    "translations": [
+        {
+            "source_iso": "gym",
+            "translation_iso": "gym",
+            "name": "Chiriqui"
+        },
+        {
+            "source_iso": "gym",
+            "translation_iso": "gym",
+            "name": "Guaymí"
+        },
+        {
+            "source_iso": "gym",
+            "translation_iso": "gym",
+            "name": "Ngäbere"
+        },
+        {
+            "source_iso": "gym",
+            "translation_iso": "gym",
+            "name": "Ngobere"
+        },
+        {
+            "source_iso": "gym",
+            "translation_iso": "gym",
+            "name": "Valiente"
+        }
+    ],
+    "bibles": [
+        {
+            "id": "3a79b798-5a0b-4664-882d-f3e0f2286631",
+            "abbr": "GYMWBT",
+            "parent_bible_id": null,
+            "title": "Ngäbere New Testament",
+            "title_vernacular": "Kukwe kuin ngöbökwe",
+            "description": "New Testament in Ngäbere (PM:gym:Ngäbere)",
+            "description_short": null,
+            "description_vernacular": null,
+            "description_reviewed": 0,
+            "iso": "gym",
+            "script": "Latn",
+            "versification": null,
+            "numeral_system_id": "default",
+            "year": 2004,
+            "country_id": "PA",
+            "copyright": "© 2004 Wycliffe Bible Translators, Inc.",
+            "copyright_type": null,
+            "reviewed": 0,
+            "isbn13": null,
+            "back_text": null,
+            "cover": null,
+            "questionable": 0
+        }
+    ],
+    "resources": [
+        {
+            "iso": "gym",
+            "type": "audio",
+            "cover": "",
+            "title": "Words of Life",
+            "title_vernacular": "",
+            "description": "",
+            "url": "https://globalrecordings.net/en/program/4271",
+            "url_source": "",
+            "author": "Global Recordings Network",
+            "author_slug": "global-recordings-network",
+            "organization_slug": "global-recordings-network",
+            "date": "",
+            "visible": 1,
+            "collection": null,
+            "section": null
+        },
+        {
+            "iso": "gym",
+            "type": "audio",
+            "cover": "",
+            "title": "Words of Life",
+            "title_vernacular": "",
+            "description": "",
+            "url": "https://globalrecordings.net/en/program/4260",
+            "url_source": "",
+            "author": "Global Recordings Network",
+            "author_slug": "global-recordings-network",
+            "organization_slug": "global-recordings-network",
+            "date": "",
+            "visible": 1,
+            "collection": null,
+            "section": null
+        }
+    ],
+    "films": [
+        {
+            "iso": "gym",
+            "organization_id": "f89269a7-da1f-42a8-be77-69124ae38021",
+            "title": "JESUS",
+            "title_vernacular": null,
+            "description": "Jesus constantly surprises and confounds people, from His miraculous birth to His rise from the grave. Follow His life through excerpts from the Book of Luke, all the miracles, the teachings, and the passion.",
+            "url": "https://arc.gt/qwtai?apiSessionId=5f875640cc0b13.38336405",
+            "url_youtube": null,
+            "img_thumb": "https://d1wl257kev7hsz.cloudfront.net/cinematics/1_jf-0-0.thumbnail.jpg",
+            "img_poster": "https://d1wl257kev7hsz.cloudfront.net/cinematics/Classic_art_HD.jpg",
+            "duration_ms": 7673754,
+            "fab_view": 1
+        },
+        {
+            "iso": "gym",
+            "organization_id": "d267fb7d-c2bf-495a-9695-732e09c530c4",
+            "title": "The Ngäbere HOPE",
+            "title_vernacular": "Tödekakrä - Voice Only Version",
+            "description": null,
+            "url": "https://www.mars-hill.org/the-hope/store/the-ng%C3%A4bere-hope-t%C3%B6dekakr%C3%A4-voice-only-version",
+            "url_youtube": null,
+            "img_thumb": null,
+            "img_poster": null,
+            "duration_ms": 0,
+            "fab_view": 1
+        }
+    ]
+}

@@ -1,1 +1,262 @@
-{"iso":"bbk","glotto_id":"baba1266","glotto_family":null,"iso1":null,"name":"Babanki","autonym":"Finge","macroarea":null,"level":"L","development":null,"use":null,"location":"Southwestern Cameroon, Enlarged Area","area":"North West Province, Mezam Division, Tuba Subdivision, villages of Kejom-Ketingo and Kejom-Keku.","progress":"New Testament\r","typology":null,"writing":null,"description":null,"country_id":"CM","latitude":"5.978630","longitude":"10.286920","population":39000,"status_id":"5","status_notes":null,"redirect_to_iso":null,"bibles_count":1,"films_count":1,"resources_count":3,"translations_count":6,"country":{"id":"CM","name":"Cameroon","name_long":"The Republic of Cameroon","population":28524175,"official_language":"French","official_language_iso":"fra","url_wiki":"https://en.wikipedia.org/wiki/Cameroon","hidden":0,"autonym":null,"fips":"CM","iso_a3":"CMR","continent_id":"AF","iso_num":120,"religion_primary":"Christianity","introduction":"French Cameroon became independent in 1960 as the Republic of Cameroon. The following year the southern portion of neighboring British Cameroon voted to merge with the new country to form the Federal Republic of Cameroon. In 1972 a new constitution replaced the federation with a unitary state the United Republic of Cameroon. The country has generally enjoyed stability which has enabled the development of agriculture roads and railways as well as a petroleum industry. Despite slow movement toward democratic reform political power remains firmly in the hands of President Paul BIYA.","overview":"Cameroon on the Gulf of Guinea is a Central African country of varied terrain and wildlife. Its inland capital Yaoundé and its biggest city the seaport Douala are transit points to ecotourism sites as well as beach resorts like Kribi – near the Chutes de la Lobé waterfalls which plunge directly into the sea – and Limbe where the Limbe Wildlife Centre houses rescued primates.","independent":1,"wfb":1,"wfb_pdf":0,"sil_language_count":304,"land_mass_km":472710,"population_christian":13390000,"population_christian_percentage":65,"population_catholic_percentage":38.4,"population_protestant_percentage":26.3,"population_refugee":406260,"population_migration":-4800,"population_year_change":2.59,"population_density_km":56,"population_average_age":19,"population_urban_percentage":56,"population_literacy_percentage":"75.00","landmass":null,"region_code":8,"region_id":"202","region_name":"Sub-Saharan Africa"},"translations":[{"source_iso":"bbk","translation_iso":"bbk","dialect_id":null,"name":"Finge"},{"source_iso":"bbk","translation_iso":"bbk","dialect_id":null,"name":"Kedjom"},{"source_iso":"bbk","translation_iso":"bbk","dialect_id":null,"name":"Kejeng"},{"source_iso":"bbk","translation_iso":"bbk","dialect_id":null,"name":"Kejom"},{"source_iso":"bbk","translation_iso":"bbk","dialect_id":null,"name":"Kidzem"},{"source_iso":"bbk","translation_iso":"bbk","dialect_id":null,"name":"Kidzom"}],"bibles":[{"id":"BBKWBT","parent_bible_id":null,"gbc":null,"date":"2017","iso":"bbk","title":"Babanki New Testament","title_vernacular":"Ŋwàʼlə̀ Məkàyn Mə Mfimə̀","copyright":"© 2017 CABTAL","guid":null,"description":null,"description_short":null,"description_vernacular":"Babanki: Ŋwàʼlə̀ Məkàyn Mə Mfimə̀ New Testament","description_reviewed":3,"script":"Latn","versification":"Default","numeral_system_id":"default","country_id":"CM","copyright_type":null,"reviewed":0,"isbn13":"978-1-5313-1002-8","back_text":null,"cover":null,"questionable":null}],"resources":[{"iso":"bbk","fab_view":"1","type":"audio","cover":"","title":"Becoming a Friend of God","title_vernacular":null,"description":"","url_source":"https://globalrecordings.net/en/program/30211","url":"https://globalrecordings.net/en/program/30211","author":"Global Recordings Network","organization_id":"global-recordings-network","date":""},{"iso":"bbk","fab_view":"1","type":"audio","cover":"","title":"Luke 1-3","title_vernacular":null,"description":"","url_source":"https://globalrecordings.net/en/program/65767","url":"https://globalrecordings.net/en/program/65767","author":"Global Recordings Network","organization_id":"global-recordings-network","date":""},{"iso":"bbk","fab_view":null,"type":"audio","cover":"","title":"Words of Life 1","title_vernacular":null,"description":"","url_source":null,"url":"https://globalrecordings.net/en/program/7870","author":"Global Recordings Network","organization_id":"global-recordings-network","date":""}],"films":[{"iso":"bbk","organization_id":"the-jesus-film-project","title":"JESUS","title_vernacular":null,"description":"Jesus constantly surprises and confounds people, from His miraculous birth to His rise from the grave. Follow His life through excerpts from the Book of Luke, all the miracles, the teachings, and the passion.","url":"https://arc.gt/73vjk?apiSessionId=5f874a14ba1341.71052394","url_youtube":null,"img_thumb":"https://d1wl257kev7hsz.cloudfront.net/cinematics/1_jf-0-0.thumbnail.jpg","img_poster":"https://d1wl257kev7hsz.cloudfront.net/cinematics/Classic_art_HD.jpg","duration_ms":7673754,"fab_view":1}]}
+{
+    "iso": "bbk",
+    "glotto_id": "baba1266",
+    "glotto_family": null,
+    "iso1": null,
+    "name": "Babanki",
+    "autonym": "Finge",
+    "macroarea": null,
+    "level": "L",
+    "development": null,
+    "use": null,
+    "location": "Southwestern Cameroon, Enlarged Area",
+    "area": "North West Province, Mezam Division, Tuba Subdivision, villages of Kejom-Ketingo and Kejom-Keku.",
+    "progress": "New Testament\r",
+    "typology": null,
+    "writing": null,
+    "description": null,
+    "country_id": "CM",
+    "latitude": "5.978630",
+    "longitude": "10.286920",
+    "population": 39000,
+    "status_id": "5",
+    "status_notes": null,
+    "redirect_to_iso": null,
+    "bibles_count": 1,
+    "films_count": 1,
+    "resources_count": 3,
+    "translations_count": 6,
+    "country": {
+        "id": "CM",
+        "name": "Cameroon",
+        "name_long": "The Republic of Cameroon",
+        "population": 28524175,
+        "official_language": "French",
+        "official_language_iso": "fra",
+        "url_wiki": "https://en.wikipedia.org/wiki/Cameroon",
+        "hidden": 0,
+        "autonym": null,
+        "fips": "CM",
+        "iso_a3": "CMR",
+        "continent_id": "AF",
+        "iso_num": 120,
+        "religion_primary": "Christianity",
+        "introduction": "French Cameroon became independent in 1960 as the Republic of Cameroon. The following year the southern portion of neighboring British Cameroon voted to merge with the new country to form the Federal Republic of Cameroon. In 1972 a new constitution replaced the federation with a unitary state the United Republic of Cameroon. The country has generally enjoyed stability which has enabled the development of agriculture roads and railways as well as a petroleum industry. Despite slow movement toward democratic reform political power remains firmly in the hands of President Paul BIYA.",
+        "overview": "Cameroon on the Gulf of Guinea is a Central African country of varied terrain and wildlife. Its inland capital Yaoundé and its biggest city the seaport Douala are transit points to ecotourism sites as well as beach resorts like Kribi – near the Chutes de la Lobé waterfalls which plunge directly into the sea – and Limbe where the Limbe Wildlife Centre houses rescued primates.",
+        "independent": 1,
+        "wfb": 1,
+        "wfb_pdf": 0,
+        "sil_language_count": 304,
+        "land_mass_km": 472710,
+        "population_christian": 13390000,
+        "population_christian_percentage": 65,
+        "population_catholic_percentage": 38.4,
+        "population_protestant_percentage": 26.3,
+        "population_refugee": 406260,
+        "population_migration": -4800,
+        "population_year_change": 2.59,
+        "population_density_km": 56,
+        "population_average_age": 19,
+        "population_urban_percentage": 56,
+        "population_literacy_percentage": 75,
+        "landmass": null,
+        "region_code": 8,
+        "region_id": "202",
+        "region_name": "Sub-Saharan Africa"
+    },
+    "codes": [
+        {
+            "iso": "bbk",
+            "source": "GRN",
+            "code": "2629"
+        },
+        {
+            "iso": "bbk",
+            "source": "arclight",
+            "code": "139635"
+        }
+    ],
+    "classifications": [
+        {
+            "iso": "bbk",
+            "class_id": "atla1278",
+            "class_order": 0,
+            "name": "Niger-Congo"
+        },
+        {
+            "iso": "bbk",
+            "class_id": "volt1241",
+            "class_order": 1,
+            "name": "Atlantic-Congo"
+        },
+        {
+            "iso": "bbk",
+            "class_id": "benu1247",
+            "class_order": 2,
+            "name": "Volta-Congo"
+        },
+        {
+            "iso": "bbk",
+            "class_id": "bant1294",
+            "class_order": 3,
+            "name": "Benue-Congo"
+        },
+        {
+            "iso": "bbk",
+            "class_id": "sout3152",
+            "class_order": 4,
+            "name": "Bantoid"
+        },
+        {
+            "iso": "bbk",
+            "class_id": "wide1239",
+            "class_order": 5,
+            "name": "Southern"
+        },
+        {
+            "iso": "bbk",
+            "class_id": "narr1282",
+            "class_order": 6,
+            "name": "Wide Grassfields"
+        },
+        {
+            "iso": "bbk",
+            "class_id": "ring1243",
+            "class_order": 7,
+            "name": "Narrow Grassfields"
+        },
+        {
+            "iso": "bbk",
+            "class_id": "cent2275",
+            "class_order": 8,
+            "name": "Ring"
+        }
+    ],
+    "dialects": [],
+    "translations": [
+        {
+            "source_iso": "bbk",
+            "translation_iso": "bbk",
+            "name": "Finge"
+        },
+        {
+            "source_iso": "bbk",
+            "translation_iso": "bbk",
+            "name": "Kedjom"
+        },
+        {
+            "source_iso": "bbk",
+            "translation_iso": "bbk",
+            "name": "Kejeng"
+        },
+        {
+            "source_iso": "bbk",
+            "translation_iso": "bbk",
+            "name": "Kejom"
+        },
+        {
+            "source_iso": "bbk",
+            "translation_iso": "bbk",
+            "name": "Kidzem"
+        },
+        {
+            "source_iso": "bbk",
+            "translation_iso": "bbk",
+            "name": "Kidzom"
+        }
+    ],
+    "bibles": [
+        {
+            "id": "ae775f9b-d86a-4282-942c-dc9e6b1b124f",
+            "abbr": "BBKWBT",
+            "parent_bible_id": null,
+            "title": "Babanki New Testament",
+            "title_vernacular": "Ŋwàʼlə̀ Məkàyn Mə Mfimə̀",
+            "description": null,
+            "description_short": null,
+            "description_vernacular": "Babanki: Ŋwàʼlə̀ Məkàyn Mə Mfimə̀ New Testament",
+            "description_reviewed": 0,
+            "iso": "bbk",
+            "script": "Latn",
+            "versification": null,
+            "numeral_system_id": "default",
+            "year": 2017,
+            "country_id": "CM",
+            "copyright": "© 2017 CABTAL",
+            "copyright_type": null,
+            "reviewed": 0,
+            "isbn13": null,
+            "back_text": null,
+            "cover": null,
+            "questionable": 0
+        }
+    ],
+    "resources": [
+        {
+            "iso": "bbk",
+            "type": "audio",
+            "cover": "",
+            "title": "Becoming a Friend of God",
+            "title_vernacular": "",
+            "description": "",
+            "url": "https://globalrecordings.net/en/program/30211",
+            "url_source": "",
+            "author": "Global Recordings Network",
+            "author_slug": "global-recordings-network",
+            "organization_slug": "global-recordings-network",
+            "date": "",
+            "visible": 1,
+            "collection": null,
+            "section": null
+        },
+        {
+            "iso": "bbk",
+            "type": "audio",
+            "cover": "",
+            "title": "Luke 1-3",
+            "title_vernacular": "",
+            "description": "",
+            "url": "https://globalrecordings.net/en/program/65767",
+            "url_source": "",
+            "author": "Global Recordings Network",
+            "author_slug": "global-recordings-network",
+            "organization_slug": "global-recordings-network",
+            "date": "",
+            "visible": 1,
+            "collection": null,
+            "section": null
+        },
+        {
+            "iso": "bbk",
+            "type": "audio",
+            "cover": "",
+            "title": "Words of Life 1",
+            "title_vernacular": "",
+            "description": "",
+            "url": "https://globalrecordings.net/en/program/7870",
+            "url_source": "",
+            "author": "Global Recordings Network",
+            "author_slug": "global-recordings-network",
+            "organization_slug": "global-recordings-network",
+            "date": "",
+            "visible": 1,
+            "collection": null,
+            "section": null
+        }
+    ],
+    "films": [
+        {
+            "iso": "bbk",
+            "organization_id": "f89269a7-da1f-42a8-be77-69124ae38021",
+            "title": "JESUS",
+            "title_vernacular": null,
+            "description": "Jesus constantly surprises and confounds people, from His miraculous birth to His rise from the grave. Follow His life through excerpts from the Book of Luke, all the miracles, the teachings, and the passion.",
+            "url": "https://arc.gt/73vjk?apiSessionId=5f874a14ba1341.71052394",
+            "url_youtube": null,
+            "img_thumb": "https://d1wl257kev7hsz.cloudfront.net/cinematics/1_jf-0-0.thumbnail.jpg",
+            "img_poster": "https://d1wl257kev7hsz.cloudfront.net/cinematics/Classic_art_HD.jpg",
+            "duration_ms": 7673754,
+            "fab_view": 1
+        }
+    ]
+}

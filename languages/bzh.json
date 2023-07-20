@@ -1,1 +1,295 @@
-{"iso":"bzh","glotto_id":"mapo1242","glotto_family":null,"iso1":null,"name":"Mapos Buang","autonym":"Central Buang","macroarea":null,"level":"L","development":null,"use":null,"location":"Papua New Guinea, Map 15","area":"Morobe Province, Mumeng District, middle Snake River area. 10 villages.","progress":"New Testament\r","typology":null,"writing":null,"description":null,"country_id":"PG","latitude":"-6.866720","longitude":"146.774130","population":7000,"status_id":"5","status_notes":null,"redirect_to_iso":null,"bibles_count":3,"films_count":1,"resources_count":2,"translations_count":4,"country":{"id":"PG","name":"Papua New Guinea","name_long":"The Independent State of Papua New Guinea","population":7399757,"official_language":"English","official_language_iso":"eng","url_wiki":"https://en.wikipedia.org/wiki/Papua_New_Guinea","hidden":0,"autonym":null,"fips":"PP","iso_a3":"PNG","continent_id":"OC","iso_num":598,"religion_primary":"Christianity","introduction":"The eastern half of the island of New Guinea - second largest in the world - was divided between Germany (north) and the UK (south) in 1885. The latter area was transferred to Australia in 1902 which occupied the northern portion during World War I and continued to administer the combined areas until independence in 1975. A nine-year secessionist revolt on the island of Bougainville ended in 1997 after claiming some 20000 lives.","overview":"Papua New Guinea in the southwestern Pacific encompasses the eastern half of New Guinea and its offshore islands. A country of immense cultural and biological diversity it’s known for its beaches and coral reefs. Inland are active volcanoes granite Mt. Wilhelm dense rainforest and hiking routes like the Kokoda Trail. There are also traditional tribal villages many with their own languages.","independent":1,"wfb":1,"wfb_pdf":0,"sil_language_count":864,"land_mass_km":452860,"population_christian":6800000,"population_christian_percentage":97,"population_catholic_percentage":27,"population_protestant_percentage":70,"population_refugee":9707,"population_migration":-800,"population_year_change":1.95,"population_density_km":20,"population_average_age":22,"population_urban_percentage":13,"population_literacy_percentage":"72.00","landmass":null,"region_code":1,"region_id":"54","region_name":"Melanesia"},"translations":[{"source_iso":"bzh","translation_iso":"bzh","dialect_id":null,"name":"Buang, Central"},{"source_iso":"bzh","translation_iso":"bzh","dialect_id":null,"name":"Buang, Central/Mapos"},{"source_iso":"bzh","translation_iso":"bzh","dialect_id":null,"name":"Central Buang"},{"source_iso":"bzh","translation_iso":"bzh","dialect_id":null,"name":"Mapos"}],"bibles":[{"id":"BZHPNG","parent_bible_id":null,"gbc":null,"date":"2003","iso":"bzh","title":"Buang New Testament","title_vernacular":"Ġaġek Mewis","copyright":"© 2003 The Bible Society of Papua New Guinea","guid":null,"description":"The New Testament in the Central/Mapos dialect of the Buang language of Papua New Guinea","description_short":null,"description_vernacular":"Nupela Testamen long tokples Buang Mapos long Niugini","description_reviewed":3,"script":"Latn","versification":"Default","numeral_system_id":"default","country_id":"PG","copyright_type":null,"reviewed":0,"isbn13":"978-1-5313-0117-0","back_text":null,"cover":null,"questionable":null},{"id":"BZHSIL","parent_bible_id":null,"gbc":null,"date":null,"iso":"bzh","title":"Bible Portions in Mapos Buang","title_vernacular":null,"copyright":null,"guid":null,"description":null,"description_short":null,"description_vernacular":null,"description_reviewed":0,"script":"Latn","versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":null,"reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":null},{"id":"BZHWBT","parent_bible_id":null,"gbc":null,"date":"2013","iso":"bzh","title":"Central/Mapos Buang New Testament","title_vernacular":"Mehöböp Yesu Kerisi yi GAGEK MEWIS sën vong yam vu hil","copyright":"© 2003, Wycliffe Bible Translators, Inc.","guid":null,"description":null,"description_short":null,"description_vernacular":null,"description_reviewed":2,"script":"Latn","versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":null,"reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":null}],"resources":[{"iso":"bzh","fab_view":null,"type":"audio","cover":"","title":"Words of Life 1","title_vernacular":null,"description":"","url_source":null,"url":"https://globalrecordings.net/en/program/16271","author":"Global Recordings Network","organization_id":"global-recordings-network","date":""},{"iso":"bzh","fab_view":null,"type":"audio","cover":"","title":"Words of Life 2","title_vernacular":null,"description":"","url_source":null,"url":"https://globalrecordings.net/en/program/16270","author":"Global Recordings Network","organization_id":"global-recordings-network","date":""}],"films":[{"iso":"bzh","organization_id":"the-jesus-film-project","title":"JESUS","title_vernacular":null,"description":"Jesus constantly surprises and confounds people, from His miraculous birth to His rise from the grave. Follow His life through excerpts from the Book of Luke, all the miracles, the teachings, and the passion.","url":"https://arc.gt/91xvt?apiSessionId=5f875151eab411.69298490","url_youtube":null,"img_thumb":"https://d1wl257kev7hsz.cloudfront.net/cinematics/1_jf-0-0.thumbnail.jpg","img_poster":"https://d1wl257kev7hsz.cloudfront.net/cinematics/Classic_art_HD.jpg","duration_ms":7673754,"fab_view":1}]}
+{
+    "iso": "bzh",
+    "glotto_id": "mapo1242",
+    "glotto_family": null,
+    "iso1": null,
+    "name": "Mapos Buang",
+    "autonym": "Central Buang",
+    "macroarea": null,
+    "level": "L",
+    "development": null,
+    "use": null,
+    "location": "Papua New Guinea, Map 15",
+    "area": "Morobe Province, Mumeng District, middle Snake River area. 10 villages.",
+    "progress": "New Testament\r",
+    "typology": null,
+    "writing": null,
+    "description": null,
+    "country_id": "PG",
+    "latitude": "-6.866720",
+    "longitude": "146.774130",
+    "population": 7000,
+    "status_id": "5",
+    "status_notes": null,
+    "redirect_to_iso": null,
+    "bibles_count": 3,
+    "films_count": 1,
+    "resources_count": 2,
+    "translations_count": 4,
+    "country": {
+        "id": "PG",
+        "name": "Papua New Guinea",
+        "name_long": "The Independent State of Papua New Guinea",
+        "population": 7399757,
+        "official_language": "English",
+        "official_language_iso": "eng",
+        "url_wiki": "https://en.wikipedia.org/wiki/Papua_New_Guinea",
+        "hidden": 0,
+        "autonym": null,
+        "fips": "PP",
+        "iso_a3": "PNG",
+        "continent_id": "OC",
+        "iso_num": 598,
+        "religion_primary": "Christianity",
+        "introduction": "The eastern half of the island of New Guinea - second largest in the world - was divided between Germany (north) and the UK (south) in 1885. The latter area was transferred to Australia in 1902 which occupied the northern portion during World War I and continued to administer the combined areas until independence in 1975. A nine-year secessionist revolt on the island of Bougainville ended in 1997 after claiming some 20000 lives.",
+        "overview": "Papua New Guinea in the southwestern Pacific encompasses the eastern half of New Guinea and its offshore islands. A country of immense cultural and biological diversity it’s known for its beaches and coral reefs. Inland are active volcanoes granite Mt. Wilhelm dense rainforest and hiking routes like the Kokoda Trail. There are also traditional tribal villages many with their own languages.",
+        "independent": 1,
+        "wfb": 1,
+        "wfb_pdf": 0,
+        "sil_language_count": 864,
+        "land_mass_km": 452860,
+        "population_christian": 6800000,
+        "population_christian_percentage": 97,
+        "population_catholic_percentage": 27,
+        "population_protestant_percentage": 70,
+        "population_refugee": 9707,
+        "population_migration": -800,
+        "population_year_change": 1.95,
+        "population_density_km": 20,
+        "population_average_age": 22,
+        "population_urban_percentage": 13,
+        "population_literacy_percentage": 72,
+        "landmass": null,
+        "region_code": 1,
+        "region_id": "54",
+        "region_name": "Melanesia"
+    },
+    "codes": [
+        {
+            "iso": "bzh",
+            "source": "GRN",
+            "code": "429"
+        },
+        {
+            "iso": "bzh",
+            "source": "arclight",
+            "code": "159546"
+        }
+    ],
+    "classifications": [
+        {
+            "iso": "bzh",
+            "class_id": "aust1307",
+            "class_order": 0,
+            "name": "Austronesian"
+        },
+        {
+            "iso": "bzh",
+            "class_id": "nucl1752",
+            "class_order": 1,
+            "name": "Malayo-Polynesian"
+        },
+        {
+            "iso": "bzh",
+            "class_id": "mala1545",
+            "class_order": 2,
+            "name": "Central-Eastern Malayo-Polynesian"
+        },
+        {
+            "iso": "bzh",
+            "class_id": "cent2237",
+            "class_order": 3,
+            "name": "Eastern Malayo-Polynesian"
+        },
+        {
+            "iso": "bzh",
+            "class_id": "east2712",
+            "class_order": 4,
+            "name": "Oceanic"
+        },
+        {
+            "iso": "bzh",
+            "class_id": "ocea1241",
+            "class_order": 5,
+            "name": "Western Oceanic"
+        },
+        {
+            "iso": "bzh",
+            "class_id": "west2818",
+            "class_order": 6,
+            "name": "North New Guinea"
+        },
+        {
+            "iso": "bzh",
+            "class_id": "nort3206",
+            "class_order": 7,
+            "name": "Huon Gulf"
+        },
+        {
+            "iso": "bzh",
+            "class_id": "huon1245",
+            "class_order": 8,
+            "name": "South"
+        },
+        {
+            "iso": "bzh",
+            "class_id": "sout2878",
+            "class_order": 9,
+            "name": "Hote-Buang"
+        },
+        {
+            "iso": "bzh",
+            "class_id": "buan1245",
+            "class_order": 10,
+            "name": "Buang"
+        }
+    ],
+    "dialects": [],
+    "translations": [
+        {
+            "source_iso": "bzh",
+            "translation_iso": "bzh",
+            "name": "Buang, Central"
+        },
+        {
+            "source_iso": "bzh",
+            "translation_iso": "bzh",
+            "name": "Buang, Central/Mapos"
+        },
+        {
+            "source_iso": "bzh",
+            "translation_iso": "bzh",
+            "name": "Central Buang"
+        },
+        {
+            "source_iso": "bzh",
+            "translation_iso": "bzh",
+            "name": "Mapos"
+        }
+    ],
+    "bibles": [
+        {
+            "id": "08e0c42f-9280-4aec-8718-777c3c8a6abf",
+            "abbr": "BZHPNG",
+            "parent_bible_id": null,
+            "title": "Buang New Testament",
+            "title_vernacular": "Ġaġek Mewis",
+            "description": "The New Testament in the Central/Mapos dialect of the Buang language of Papua New Guinea",
+            "description_short": null,
+            "description_vernacular": "Nupela Testamen long tokples Buang Mapos long Niugini",
+            "description_reviewed": 0,
+            "iso": "bzh",
+            "script": "Latn",
+            "versification": null,
+            "numeral_system_id": "default",
+            "year": 2003,
+            "country_id": "PG",
+            "copyright": "© 2003 The Bible Society of Papua New Guinea",
+            "copyright_type": null,
+            "reviewed": 0,
+            "isbn13": null,
+            "back_text": null,
+            "cover": null,
+            "questionable": 0
+        },
+        {
+            "id": "a8161b08-c462-42a3-a7d9-59fd53d8577d",
+            "abbr": "BZHWBT",
+            "parent_bible_id": null,
+            "title": "Central/Mapos Buang New Testament",
+            "title_vernacular": "Mehöböp Yesu Kerisi yi GAGEK MEWIS sën vong yam vu hil",
+            "description": null,
+            "description_short": null,
+            "description_vernacular": null,
+            "description_reviewed": null,
+            "iso": "bzh",
+            "script": "Latn",
+            "versification": null,
+            "numeral_system_id": "default",
+            "year": 2013,
+            "country_id": null,
+            "copyright": "© 2003, Wycliffe Bible Translators, Inc.",
+            "copyright_type": null,
+            "reviewed": 0,
+            "isbn13": null,
+            "back_text": null,
+            "cover": null,
+            "questionable": 0
+        },
+        {
+            "id": "f08a7a9f-0618-4b82-9940-beec7e112844",
+            "abbr": "BZHSIL",
+            "parent_bible_id": null,
+            "title": "Bible Portions in Mapos Buang",
+            "title_vernacular": null,
+            "description": null,
+            "description_short": null,
+            "description_vernacular": null,
+            "description_reviewed": null,
+            "iso": "bzh",
+            "script": "Latn",
+            "versification": null,
+            "numeral_system_id": "default",
+            "year": null,
+            "country_id": null,
+            "copyright": null,
+            "copyright_type": null,
+            "reviewed": 0,
+            "isbn13": null,
+            "back_text": null,
+            "cover": null,
+            "questionable": 0
+        }
+    ],
+    "resources": [
+        {
+            "iso": "bzh",
+            "type": "audio",
+            "cover": "",
+            "title": "Words of Life 1",
+            "title_vernacular": "",
+            "description": "",
+            "url": "https://globalrecordings.net/en/program/16271",
+            "url_source": "",
+            "author": "Global Recordings Network",
+            "author_slug": "global-recordings-network",
+            "organization_slug": "global-recordings-network",
+            "date": "",
+            "visible": 1,
+            "collection": null,
+            "section": null
+        },
+        {
+            "iso": "bzh",
+            "type": "audio",
+            "cover": "",
+            "title": "Words of Life 2",
+            "title_vernacular": "",
+            "description": "",
+            "url": "https://globalrecordings.net/en/program/16270",
+            "url_source": "",
+            "author": "Global Recordings Network",
+            "author_slug": "global-recordings-network",
+            "organization_slug": "global-recordings-network",
+            "date": "",
+            "visible": 1,
+            "collection": null,
+            "section": null
+        }
+    ],
+    "films": [
+        {
+            "iso": "bzh",
+            "organization_id": "f89269a7-da1f-42a8-be77-69124ae38021",
+            "title": "JESUS",
+            "title_vernacular": null,
+            "description": "Jesus constantly surprises and confounds people, from His miraculous birth to His rise from the grave. Follow His life through excerpts from the Book of Luke, all the miracles, the teachings, and the passion.",
+            "url": "https://arc.gt/91xvt?apiSessionId=5f875151eab411.69298490",
+            "url_youtube": null,
+            "img_thumb": "https://d1wl257kev7hsz.cloudfront.net/cinematics/1_jf-0-0.thumbnail.jpg",
+            "img_poster": "https://d1wl257kev7hsz.cloudfront.net/cinematics/Classic_art_HD.jpg",
+            "duration_ms": 7673754,
+            "fab_view": 1
+        }
+    ]
+}

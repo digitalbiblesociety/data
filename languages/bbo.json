@@ -1,1 +1,231 @@
-{"iso":"bbo","glotto_id":"nort2819","glotto_family":null,"iso1":null,"name":"Northern Bobo Madaré","autonym":"Bobo Fing","macroarea":null,"level":"L","development":null,"use":null,"location":"Burkina Faso","area":"Banwa Province. Tansilla is center, with a 25 km radius. Also in Mali.","progress":"Full Bible\r","typology":null,"writing":null,"description":null,"country_id":"BF","latitude":"12.418220","longitude":"-4.475375","population":60000,"status_id":"6a","status_notes":null,"redirect_to_iso":null,"bibles_count":2,"films_count":0,"resources_count":2,"translations_count":7,"country":{"id":"BF","name":"Burkina Faso","name_long":"Burkina Faso","population":21382659,"official_language":"French","official_language_iso":"fra","url_wiki":"https://en.wikipedia.org/wiki/Burkina_Faso","hidden":0,"autonym":null,"fips":"UV","iso_a3":"BFA","continent_id":"AF","iso_num":854,"religion_primary":"Islam","introduction":"Burkina Faso (formerly Upper Volta) achieved independence from France in 1960. Repeated military coups during the 1970s and 1980s were followed by multiparty elections in the early 1990s. Current President Blaise COMPAORE came to power in a 1987 military coup and has won every election since then. There have been increasing protests over the belief that the president may try to run for a currently unconstitutional third term in the 2015 presidential elections. Burkina Faso's high population growth and limited natural resources result in poor economic prospects for the majority of its citizens.","overview":"Burkina Faso is a landlocked country in West Africa. It covers an area of around 274200 square kilometres and is surrounded by six countries: Mali to the north; Niger to the east; Benin to the southeast.","independent":1,"wfb":1,"wfb_pdf":1,"sil_language_count":85,"land_mass_km":273600,"population_christian":3746000,"population_christian_percentage":22,"population_catholic_percentage":18,"population_protestant_percentage":4,"population_refugee":25868,"population_migration":-25000,"population_year_change":2.86,"population_density_km":76,"population_average_age":18,"population_urban_percentage":31,"population_literacy_percentage":"36.00","landmass":null,"region_code":8,"region_id":"202","region_name":"Sub-Saharan Africa"},"translations":[{"source_iso":"bbo","translation_iso":"bbo","dialect_id":null,"name":"Black Bobo"},{"source_iso":"bbo","translation_iso":"bbo","dialect_id":null,"name":"Bobo"},{"source_iso":"bbo","translation_iso":"bbo","dialect_id":null,"name":"Bobo Fi"},{"source_iso":"bbo","translation_iso":"bbo","dialect_id":null,"name":"Bobo Fign"},{"source_iso":"bbo","translation_iso":"bbo","dialect_id":null,"name":"Bobo Fing"},{"source_iso":"bbo","translation_iso":"bbo","dialect_id":null,"name":"Bobo Madaré, Northern"},{"source_iso":"bbo","translation_iso":"bbo","dialect_id":null,"name":"Northern Bobo Madare"}],"bibles":[{"id":"BBOBSB","parent_bible_id":null,"gbc":null,"date":"1981","iso":"bbo","title":"Northern Bobo Madaré 1981 Edition","title_vernacular":null,"copyright":null,"guid":null,"description":null,"description_short":null,"description_vernacular":null,"description_reviewed":0,"script":"Latn","versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":null,"reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":null},{"id":"BBOBSM","parent_bible_id":null,"gbc":null,"date":"2017","iso":"bbo","title":"Northern Bobo Madaré 2017 Edition","title_vernacular":null,"copyright":null,"guid":null,"description":null,"description_short":null,"description_vernacular":null,"description_reviewed":0,"script":"Latn","versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":null,"reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":null}],"resources":[{"iso":"bbo","fab_view":"1","type":"audio","cover":"","title":"Good News","title_vernacular":null,"description":"","url_source":"https://globalrecordings.net/en/program/37711","url":"https://globalrecordings.net/en/program/37711","author":"Global Recordings Network","organization_id":"global-recordings-network","date":""},{"iso":"bbo","fab_view":"1","type":"audio","cover":"","title":"Words of Life","title_vernacular":null,"description":"","url_source":"https://globalrecordings.net/en/program/9120","url":"https://globalrecordings.net/en/program/9120","author":"Global Recordings Network","organization_id":"global-recordings-network","date":""}],"films":[]}
+{
+    "iso": "bbo",
+    "glotto_id": "nort2819",
+    "glotto_family": null,
+    "iso1": null,
+    "name": "Northern Bobo Madaré",
+    "autonym": "Bobo Fing",
+    "macroarea": null,
+    "level": "L",
+    "development": null,
+    "use": null,
+    "location": "Burkina Faso",
+    "area": "Banwa Province. Tansilla is center, with a 25 km radius. Also in Mali.",
+    "progress": "Full Bible\r",
+    "typology": null,
+    "writing": null,
+    "description": null,
+    "country_id": "BF",
+    "latitude": "12.418220",
+    "longitude": "-4.475375",
+    "population": 60000,
+    "status_id": "6a",
+    "status_notes": null,
+    "redirect_to_iso": null,
+    "bibles_count": 2,
+    "films_count": 0,
+    "resources_count": 2,
+    "translations_count": 7,
+    "country": {
+        "id": "BF",
+        "name": "Burkina Faso",
+        "name_long": "Burkina Faso",
+        "population": 21382659,
+        "official_language": "French",
+        "official_language_iso": "fra",
+        "url_wiki": "https://en.wikipedia.org/wiki/Burkina_Faso",
+        "hidden": 0,
+        "autonym": null,
+        "fips": "UV",
+        "iso_a3": "BFA",
+        "continent_id": "AF",
+        "iso_num": 854,
+        "religion_primary": "Islam",
+        "introduction": "Burkina Faso (formerly Upper Volta) achieved independence from France in 1960. Repeated military coups during the 1970s and 1980s were followed by multiparty elections in the early 1990s. Current President Blaise COMPAORE came to power in a 1987 military coup and has won every election since then. There have been increasing protests over the belief that the president may try to run for a currently unconstitutional third term in the 2015 presidential elections. Burkina Faso's high population growth and limited natural resources result in poor economic prospects for the majority of its citizens.",
+        "overview": "Burkina Faso is a landlocked country in West Africa. It covers an area of around 274200 square kilometres and is surrounded by six countries: Mali to the north; Niger to the east; Benin to the southeast.",
+        "independent": 1,
+        "wfb": 1,
+        "wfb_pdf": 1,
+        "sil_language_count": 85,
+        "land_mass_km": 273600,
+        "population_christian": 3746000,
+        "population_christian_percentage": 22,
+        "population_catholic_percentage": 18,
+        "population_protestant_percentage": 4,
+        "population_refugee": 25868,
+        "population_migration": -25000,
+        "population_year_change": 2.86,
+        "population_density_km": 76,
+        "population_average_age": 18,
+        "population_urban_percentage": 31,
+        "population_literacy_percentage": 36,
+        "landmass": null,
+        "region_code": 8,
+        "region_id": "202",
+        "region_name": "Sub-Saharan Africa"
+    },
+    "codes": [
+        {
+            "iso": "bbo",
+            "source": "GRN",
+            "code": "3016"
+        }
+    ],
+    "classifications": [
+        {
+            "iso": "bbo",
+            "class_id": "mand1469",
+            "class_order": 0,
+            "name": "Niger-Congo"
+        },
+        {
+            "iso": "bbo",
+            "class_id": "west2780",
+            "class_order": 1,
+            "name": "Mande"
+        },
+        {
+            "iso": "bbo",
+            "class_id": "samo1308",
+            "class_order": 2,
+            "name": "Western"
+        },
+        {
+            "iso": "bbo",
+            "class_id": "duun1243",
+            "class_order": 3,
+            "name": "Northwestern"
+        },
+        {
+            "iso": "bbo",
+            "class_id": "bobo1253",
+            "class_order": 4,
+            "name": "Soninke-Bobo"
+        }
+    ],
+    "dialects": [],
+    "translations": [
+        {
+            "source_iso": "bbo",
+            "translation_iso": "bbo",
+            "name": "Black Bobo"
+        },
+        {
+            "source_iso": "bbo",
+            "translation_iso": "bbo",
+            "name": "Bobo"
+        },
+        {
+            "source_iso": "bbo",
+            "translation_iso": "bbo",
+            "name": "Bobo Fi"
+        },
+        {
+            "source_iso": "bbo",
+            "translation_iso": "bbo",
+            "name": "Bobo Fign"
+        },
+        {
+            "source_iso": "bbo",
+            "translation_iso": "bbo",
+            "name": "Bobo Fing"
+        },
+        {
+            "source_iso": "bbo",
+            "translation_iso": "bbo",
+            "name": "Bobo Madaré, Northern"
+        },
+        {
+            "source_iso": "bbo",
+            "translation_iso": "bbo",
+            "name": "Northern Bobo Madare"
+        }
+    ],
+    "bibles": [
+        {
+            "id": "4d75319c-b530-49f5-8cd2-82e732f9603a",
+            "abbr": "BBOBSB",
+            "parent_bible_id": null,
+            "title": "Northern Bobo Madaré 1981 Edition",
+            "title_vernacular": null,
+            "description": null,
+            "description_short": null,
+            "description_vernacular": null,
+            "description_reviewed": null,
+            "iso": "bbo",
+            "script": "Latn",
+            "versification": null,
+            "numeral_system_id": "default",
+            "year": 1981,
+            "country_id": null,
+            "copyright": null,
+            "copyright_type": null,
+            "reviewed": 0,
+            "isbn13": null,
+            "back_text": null,
+            "cover": null,
+            "questionable": 0
+        },
+        {
+            "id": "9e12a01e-e309-46b5-b654-5500c86cc255",
+            "abbr": "BBOBSM",
+            "parent_bible_id": null,
+            "title": "Northern Bobo Madaré 2017 Edition",
+            "title_vernacular": null,
+            "description": null,
+            "description_short": null,
+            "description_vernacular": null,
+            "description_reviewed": null,
+            "iso": "bbo",
+            "script": "Latn",
+            "versification": null,
+            "numeral_system_id": "default",
+            "year": 2017,
+            "country_id": null,
+            "copyright": null,
+            "copyright_type": null,
+            "reviewed": 0,
+            "isbn13": null,
+            "back_text": null,
+            "cover": null,
+            "questionable": 0
+        }
+    ],
+    "resources": [
+        {
+            "iso": "bbo",
+            "type": "audio",
+            "cover": "",
+            "title": "Good News",
+            "title_vernacular": "",
+            "description": "",
+            "url": "https://globalrecordings.net/en/program/37711",
+            "url_source": "",
+            "author": "Global Recordings Network",
+            "author_slug": "global-recordings-network",
+            "organization_slug": "global-recordings-network",
+            "date": "",
+            "visible": 1,
+            "collection": null,
+            "section": null
+        },
+        {
+            "iso": "bbo",
+            "type": "audio",
+            "cover": "",
+            "title": "Words of Life",
+            "title_vernacular": "",
+            "description": "",
+            "url": "https://globalrecordings.net/en/program/9120",
+            "url_source": "",
+            "author": "Global Recordings Network",
+            "author_slug": "global-recordings-network",
+            "organization_slug": "global-recordings-network",
+            "date": "",
+            "visible": 1,
+            "collection": null,
+            "section": null
+        }
+    ],
+    "films": []
+}

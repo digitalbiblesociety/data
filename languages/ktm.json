@@ -1,1 +1,273 @@
-{"iso":"ktm","glotto_id":"kurt1250","glotto_family":null,"iso1":null,"name":"Kurti","autonym":"Ndrukul","macroarea":null,"level":"L","development":null,"use":null,"location":"Papua New Guinea, Map 1","area":"Manus Province, north central coast.","progress":"Portions\r","typology":null,"writing":null,"description":null,"country_id":"PG","latitude":"-2.011870","longitude":"147.036080","population":3000,"status_id":"4","status_notes":null,"redirect_to_iso":null,"bibles_count":1,"films_count":0,"resources_count":4,"translations_count":4,"country":{"id":"PG","name":"Papua New Guinea","name_long":"The Independent State of Papua New Guinea","population":7399757,"official_language":"English","official_language_iso":"eng","url_wiki":"https://en.wikipedia.org/wiki/Papua_New_Guinea","hidden":0,"autonym":null,"fips":"PP","iso_a3":"PNG","continent_id":"OC","iso_num":598,"religion_primary":"Christianity","introduction":"The eastern half of the island of New Guinea - second largest in the world - was divided between Germany (north) and the UK (south) in 1885. The latter area was transferred to Australia in 1902 which occupied the northern portion during World War I and continued to administer the combined areas until independence in 1975. A nine-year secessionist revolt on the island of Bougainville ended in 1997 after claiming some 20000 lives.","overview":"Papua New Guinea in the southwestern Pacific encompasses the eastern half of New Guinea and its offshore islands. A country of immense cultural and biological diversity it’s known for its beaches and coral reefs. Inland are active volcanoes granite Mt. Wilhelm dense rainforest and hiking routes like the Kokoda Trail. There are also traditional tribal villages many with their own languages.","independent":1,"wfb":1,"wfb_pdf":0,"sil_language_count":864,"land_mass_km":452860,"population_christian":6800000,"population_christian_percentage":97,"population_catholic_percentage":27,"population_protestant_percentage":70,"population_refugee":9707,"population_migration":-800,"population_year_change":1.95,"population_density_km":20,"population_average_age":22,"population_urban_percentage":13,"population_literacy_percentage":"72.00","landmass":null,"region_code":1,"region_id":"54","region_name":"Melanesia"},"translations":[{"source_iso":"ktm","translation_iso":"ktm","dialect_id":null,"name":"Kurti"},{"source_iso":"ktm","translation_iso":"ktm","dialect_id":null,"name":"Kuruti"},{"source_iso":"ktm","translation_iso":"ktm","dialect_id":null,"name":"Kuruti-Pare"},{"source_iso":"ktm","translation_iso":"ktm","dialect_id":null,"name":"Ndrugul"}],"bibles":[{"id":"KTMWBT","parent_bible_id":null,"gbc":null,"date":"2011","iso":"ktm","title":"Kurti Scripture Portions","title_vernacular":"Kurti Baibel","copyright":"© 2011 Wycliffe Bible Translators, Inc.","guid":null,"description":"Genesis, Mark, Galatians, and 1 Timothy in the Kurti Language of Manus Province, Papua New Guinea","description_short":null,"description_vernacular":"Buk Baibel long tok ples Kurti long Niugini","description_reviewed":3,"script":"Latn","versification":"Default","numeral_system_id":"default","country_id":"PG","copyright_type":null,"reviewed":0,"isbn13":"978-1-5313-0829-2","back_text":null,"cover":null,"questionable":null}],"resources":[{"iso":"ktm","fab_view":"1","type":"audio","cover":"","title":"Words of Life","title_vernacular":null,"description":"","url_source":"https://globalrecordings.net/en/program/80064","url":"https://globalrecordings.net/en/program/80064","author":"Global Recordings Network","organization_id":"global-recordings-network","date":""},{"iso":"ktm","fab_view":"1","type":"audio","cover":"","title":"Good News","title_vernacular":null,"description":"","url_source":"https://globalrecordings.net/en/program/23040","url":"https://globalrecordings.net/en/program/23040","author":"Global Recordings Network","organization_id":"global-recordings-network","date":""},{"iso":"ktm","fab_view":"1","type":"audio","cover":"","title":"Songs","title_vernacular":null,"description":"","url_source":"https://globalrecordings.net/en/program/75322","url":"https://globalrecordings.net/en/program/75322","author":"Global Recordings Network","organization_id":"global-recordings-network","date":""},{"iso":"ktm","fab_view":"1","type":"audio","cover":"","title":"Words of Life","title_vernacular":null,"description":"","url_source":"https://globalrecordings.net/en/program/80064","url":"https://globalrecordings.net/en/program/80064","author":"Global Recordings Network","organization_id":"global-recordings-network","date":""}],"films":[]}
+{
+    "iso": "ktm",
+    "glotto_id": "kurt1250",
+    "glotto_family": null,
+    "iso1": null,
+    "name": "Kurti",
+    "autonym": "Ndrukul",
+    "macroarea": null,
+    "level": "L",
+    "development": null,
+    "use": null,
+    "location": "Papua New Guinea, Map 1",
+    "area": "Manus Province, north central coast.",
+    "progress": "Portions\r",
+    "typology": null,
+    "writing": null,
+    "description": null,
+    "country_id": "PG",
+    "latitude": "-2.011870",
+    "longitude": "147.036080",
+    "population": 3000,
+    "status_id": "4",
+    "status_notes": null,
+    "redirect_to_iso": null,
+    "bibles_count": 1,
+    "films_count": 0,
+    "resources_count": 4,
+    "translations_count": 4,
+    "country": {
+        "id": "PG",
+        "name": "Papua New Guinea",
+        "name_long": "The Independent State of Papua New Guinea",
+        "population": 7399757,
+        "official_language": "English",
+        "official_language_iso": "eng",
+        "url_wiki": "https://en.wikipedia.org/wiki/Papua_New_Guinea",
+        "hidden": 0,
+        "autonym": null,
+        "fips": "PP",
+        "iso_a3": "PNG",
+        "continent_id": "OC",
+        "iso_num": 598,
+        "religion_primary": "Christianity",
+        "introduction": "The eastern half of the island of New Guinea - second largest in the world - was divided between Germany (north) and the UK (south) in 1885. The latter area was transferred to Australia in 1902 which occupied the northern portion during World War I and continued to administer the combined areas until independence in 1975. A nine-year secessionist revolt on the island of Bougainville ended in 1997 after claiming some 20000 lives.",
+        "overview": "Papua New Guinea in the southwestern Pacific encompasses the eastern half of New Guinea and its offshore islands. A country of immense cultural and biological diversity it’s known for its beaches and coral reefs. Inland are active volcanoes granite Mt. Wilhelm dense rainforest and hiking routes like the Kokoda Trail. There are also traditional tribal villages many with their own languages.",
+        "independent": 1,
+        "wfb": 1,
+        "wfb_pdf": 0,
+        "sil_language_count": 864,
+        "land_mass_km": 452860,
+        "population_christian": 6800000,
+        "population_christian_percentage": 97,
+        "population_catholic_percentage": 27,
+        "population_protestant_percentage": 70,
+        "population_refugee": 9707,
+        "population_migration": -800,
+        "population_year_change": 1.95,
+        "population_density_km": 20,
+        "population_average_age": 22,
+        "population_urban_percentage": 13,
+        "population_literacy_percentage": 72,
+        "landmass": null,
+        "region_code": 1,
+        "region_id": "54",
+        "region_name": "Melanesia"
+    },
+    "codes": [
+        {
+            "iso": "ktm",
+            "source": "GRN",
+            "code": "1484"
+        },
+        {
+            "iso": "ktm",
+            "source": "GRN",
+            "code": "4177"
+        }
+    ],
+    "classifications": [
+        {
+            "iso": "ktm",
+            "class_id": "aust1307",
+            "class_order": 0,
+            "name": "Austronesian"
+        },
+        {
+            "iso": "ktm",
+            "class_id": "nucl1752",
+            "class_order": 1,
+            "name": "Malayo-Polynesian"
+        },
+        {
+            "iso": "ktm",
+            "class_id": "mala1545",
+            "class_order": 2,
+            "name": "Central-Eastern Malayo-Polynesian"
+        },
+        {
+            "iso": "ktm",
+            "class_id": "cent2237",
+            "class_order": 3,
+            "name": "Eastern Malayo-Polynesian"
+        },
+        {
+            "iso": "ktm",
+            "class_id": "east2712",
+            "class_order": 4,
+            "name": "Oceanic"
+        },
+        {
+            "iso": "ktm",
+            "class_id": "ocea1241",
+            "class_order": 5,
+            "name": "Admiralty Islands"
+        },
+        {
+            "iso": "ktm",
+            "class_id": "admi1239",
+            "class_order": 6,
+            "name": "Eastern"
+        },
+        {
+            "iso": "ktm",
+            "class_id": "east2459",
+            "class_order": 7,
+            "name": "Manus"
+        },
+        {
+            "iso": "ktm",
+            "class_id": "manu1262",
+            "class_order": 8,
+            "name": "East"
+        },
+        {
+            "iso": "ktm",
+            "class_id": "east2460",
+            "class_order": 9,
+            "name": "East Manus [east2460]"
+        },
+        {
+            "iso": "ktm",
+            "class_id": "kurt1251",
+            "class_order": 10,
+            "name": "Kurti-Kele-Ere [kurt1251]"
+        },
+        {
+            "iso": "ktm",
+            "class_id": "kurt1252",
+            "class_order": 11,
+            "name": "Kurti-Elu [kurt1252]"
+        }
+    ],
+    "dialects": [],
+    "translations": [
+        {
+            "source_iso": "ktm",
+            "translation_iso": "ktm",
+            "name": "Kurti"
+        },
+        {
+            "source_iso": "ktm",
+            "translation_iso": "ktm",
+            "name": "Kuruti"
+        },
+        {
+            "source_iso": "ktm",
+            "translation_iso": "ktm",
+            "name": "Kuruti-Pare"
+        },
+        {
+            "source_iso": "ktm",
+            "translation_iso": "ktm",
+            "name": "Ndrugul"
+        }
+    ],
+    "bibles": [
+        {
+            "id": "6e1bf5fd-8e11-4e54-afd1-998724a61885",
+            "abbr": "KTMWBT",
+            "parent_bible_id": null,
+            "title": "Kurti Scripture Portions",
+            "title_vernacular": "Kurti Baibel",
+            "description": "Genesis, Mark, Galatians, and 1 Timothy in the Kurti Language of Manus Province, Papua New Guinea",
+            "description_short": null,
+            "description_vernacular": "Buk Baibel long tok ples Kurti long Niugini",
+            "description_reviewed": 0,
+            "iso": "ktm",
+            "script": "Latn",
+            "versification": null,
+            "numeral_system_id": "default",
+            "year": 2011,
+            "country_id": "PG",
+            "copyright": "© 2011 Wycliffe Bible Translators, Inc.",
+            "copyright_type": null,
+            "reviewed": 0,
+            "isbn13": null,
+            "back_text": null,
+            "cover": null,
+            "questionable": 0
+        }
+    ],
+    "resources": [
+        {
+            "iso": "ktm",
+            "type": "audio",
+            "cover": "",
+            "title": "Words of Life",
+            "title_vernacular": "",
+            "description": "",
+            "url": "https://globalrecordings.net/en/program/80064",
+            "url_source": "",
+            "author": "Global Recordings Network",
+            "author_slug": "global-recordings-network",
+            "organization_slug": "global-recordings-network",
+            "date": "",
+            "visible": 1,
+            "collection": null,
+            "section": null
+        },
+        {
+            "iso": "ktm",
+            "type": "audio",
+            "cover": "",
+            "title": "Good News",
+            "title_vernacular": "",
+            "description": "",
+            "url": "https://globalrecordings.net/en/program/23040",
+            "url_source": "",
+            "author": "Global Recordings Network",
+            "author_slug": "global-recordings-network",
+            "organization_slug": "global-recordings-network",
+            "date": "",
+            "visible": 1,
+            "collection": null,
+            "section": null
+        },
+        {
+            "iso": "ktm",
+            "type": "audio",
+            "cover": "",
+            "title": "Songs",
+            "title_vernacular": "",
+            "description": "",
+            "url": "https://globalrecordings.net/en/program/75322",
+            "url_source": "",
+            "author": "Global Recordings Network",
+            "author_slug": "global-recordings-network",
+            "organization_slug": "global-recordings-network",
+            "date": "",
+            "visible": 1,
+            "collection": null,
+            "section": null
+        },
+        {
+            "iso": "ktm",
+            "type": "audio",
+            "cover": "",
+            "title": "Words of Life",
+            "title_vernacular": "",
+            "description": "",
+            "url": "https://globalrecordings.net/en/program/80064",
+            "url_source": "",
+            "author": "Global Recordings Network",
+            "author_slug": "global-recordings-network",
+            "organization_slug": "global-recordings-network",
+            "date": "",
+            "visible": 1,
+            "collection": null,
+            "section": null
+        }
+    ],
+    "films": []
+}

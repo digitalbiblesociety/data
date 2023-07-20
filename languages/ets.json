@@ -1,1 +1,239 @@
-{"iso":"ets","glotto_id":"yekh1238","glotto_family":null,"iso1":null,"name":"Yekhee","autonym":"AfenmaiKukuruku (outdated)","macroarea":null,"level":"L","development":null,"use":null,"location":"Nigeria, Map 6","area":"Edo state, Etsako, Agbako, and Okpebho LGAs.","progress":"New Testament\r","typology":null,"writing":null,"description":null,"country_id":"NG","latitude":"7.102040","longitude":"6.449190","population":486000,"status_id":"5","status_notes":null,"redirect_to_iso":null,"bibles_count":2,"films_count":0,"resources_count":2,"translations_count":5,"country":{"id":"NG","name":"Nigeria","name_long":"The Federal Republic of Nigeria","population":219463862,"official_language":"English","official_language_iso":"eng","url_wiki":"https://en.wikipedia.org/wiki/Nigeria","hidden":0,"autonym":null,"fips":"NI","iso_a3":"NGA","continent_id":"AF","iso_num":566,"religion_primary":"Christianity","introduction":"British influence and control over what would become Nigeria and Africa's most populous country grew through the 19th century. A series of constitutions after World War II granted Nigeria greater autonomy. After independence in 1960 politics were marked by coups and mostly military rule until the death of a military head of state in 1998 allowed for a political transition. In 1999 a new constitution was adopted and a peaceful transition to civilian government was completed. The government continues to face the daunting task of institutionalizing democracy and reforming a petroleum-based economy whose revenues have been squandered through corruption and mismanagement. In addition Nigeria continues to experience longstanding ethnic and religious tensions. Although both the 2003 and 2007 presidential elections were marred by significant irregularities and violence Nigeria is currently experiencing its longest period of civilian rule since independence. The general elections of April 2007 marked the first civilian-to-civilian transfer of power in the country's history and the elections of 2011 were generally regarded as credible. The 2015 election is considered the most well run in Nigeria since the return to civilian rule with the umbrella opposition party the All Progressives Congress defeating the long-ruling People's Democratic Party that had governed since 1999.","overview":"Nigeria an African country on the Gulf of Guinea has many natural landmarks and wildlife reserves. Protected areas such as Cross River National Park and Yankari National Park have waterfalls dense rainforest savanna and rare primate habitats. One of the most recognizable sites is Zuma Rock a 725m-tall monolith outside the capital of Abuja that’s pictured on the national currency.","independent":1,"wfb":1,"wfb_pdf":1,"sil_language_count":550,"land_mass_km":910770,"population_christian":107000000,"population_christian_percentage":58,"population_catholic_percentage":14.5,"population_protestant_percentage":43,"population_refugee":54166,"population_migration":-60000,"population_year_change":2.58,"population_density_km":226,"population_average_age":18,"population_urban_percentage":52,"population_literacy_percentage":"60.00","landmass":null,"region_code":8,"region_id":"202","region_name":"Sub-Saharan Africa"},"translations":[{"source_iso":"ets","translation_iso":"ets","dialect_id":null,"name":"“Kukuruku”"},{"source_iso":"ets","translation_iso":"ets","dialect_id":null,"name":"Afenmai"},{"source_iso":"ets","translation_iso":"ets","dialect_id":null,"name":"Etsako"},{"source_iso":"ets","translation_iso":"ets","dialect_id":null,"name":"Etsakor"},{"source_iso":"ets","translation_iso":"ets","dialect_id":null,"name":"Iyekhee"}],"bibles":[{"id":"ETSPORT","parent_bible_id":null,"gbc":null,"date":"1980","iso":"ets","title":"The Gospel of Mark in Yekhee","title_vernacular":null,"copyright":null,"guid":null,"description":null,"description_short":null,"description_vernacular":null,"description_reviewed":0,"script":"Latn","versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":null,"reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":null},{"id":"ETSTYPE","parent_bible_id":null,"gbc":null,"date":"2016","iso":"ets","title":"Etsako First New Testament and Psalms","title_vernacular":null,"copyright":null,"guid":null,"description":null,"description_short":null,"description_vernacular":null,"description_reviewed":0,"script":"Latn","versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":null,"reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":null}],"resources":[{"iso":"ets","fab_view":"1","type":"audio","cover":"","title":"Words of Life w/ UZAIRUE","title_vernacular":null,"description":"","url_source":"https://globalrecordings.net/en/program/14131","url":"https://globalrecordings.net/en/program/14131","author":"Global Recordings Network","organization_id":"global-recordings-network","date":""},{"iso":"ets","fab_view":"1","type":"audio","cover":"","title":"Message w/ IBIE: Southern","title_vernacular":null,"description":"","url_source":"https://globalrecordings.net/en/program/1601","url":"https://globalrecordings.net/en/program/1601","author":"Global Recordings Network","organization_id":"global-recordings-network","date":""}],"films":[]}
+{
+    "iso": "ets",
+    "glotto_id": "yekh1238",
+    "glotto_family": null,
+    "iso1": null,
+    "name": "Yekhee",
+    "autonym": "AfenmaiKukuruku (outdated)",
+    "macroarea": null,
+    "level": "L",
+    "development": null,
+    "use": null,
+    "location": "Nigeria, Map 6",
+    "area": "Edo state, Etsako, Agbako, and Okpebho LGAs.",
+    "progress": "New Testament\r",
+    "typology": null,
+    "writing": null,
+    "description": null,
+    "country_id": "NG",
+    "latitude": "7.102040",
+    "longitude": "6.449190",
+    "population": 486000,
+    "status_id": "5",
+    "status_notes": null,
+    "redirect_to_iso": null,
+    "bibles_count": 2,
+    "films_count": 0,
+    "resources_count": 2,
+    "translations_count": 5,
+    "country": {
+        "id": "NG",
+        "name": "Nigeria",
+        "name_long": "The Federal Republic of Nigeria",
+        "population": 219463862,
+        "official_language": "English",
+        "official_language_iso": "eng",
+        "url_wiki": "https://en.wikipedia.org/wiki/Nigeria",
+        "hidden": 0,
+        "autonym": null,
+        "fips": "NI",
+        "iso_a3": "NGA",
+        "continent_id": "AF",
+        "iso_num": 566,
+        "religion_primary": "Christianity",
+        "introduction": "British influence and control over what would become Nigeria and Africa's most populous country grew through the 19th century. A series of constitutions after World War II granted Nigeria greater autonomy. After independence in 1960 politics were marked by coups and mostly military rule until the death of a military head of state in 1998 allowed for a political transition. In 1999 a new constitution was adopted and a peaceful transition to civilian government was completed. The government continues to face the daunting task of institutionalizing democracy and reforming a petroleum-based economy whose revenues have been squandered through corruption and mismanagement. In addition Nigeria continues to experience longstanding ethnic and religious tensions. Although both the 2003 and 2007 presidential elections were marred by significant irregularities and violence Nigeria is currently experiencing its longest period of civilian rule since independence. The general elections of April 2007 marked the first civilian-to-civilian transfer of power in the country's history and the elections of 2011 were generally regarded as credible. The 2015 election is considered the most well run in Nigeria since the return to civilian rule with the umbrella opposition party the All Progressives Congress defeating the long-ruling People's Democratic Party that had governed since 1999.",
+        "overview": "Nigeria an African country on the Gulf of Guinea has many natural landmarks and wildlife reserves. Protected areas such as Cross River National Park and Yankari National Park have waterfalls dense rainforest savanna and rare primate habitats. One of the most recognizable sites is Zuma Rock a 725m-tall monolith outside the capital of Abuja that’s pictured on the national currency.",
+        "independent": 1,
+        "wfb": 1,
+        "wfb_pdf": 1,
+        "sil_language_count": 550,
+        "land_mass_km": 910770,
+        "population_christian": 107000000,
+        "population_christian_percentage": 58,
+        "population_catholic_percentage": 14.5,
+        "population_protestant_percentage": 43,
+        "population_refugee": 54166,
+        "population_migration": -60000,
+        "population_year_change": 2.58,
+        "population_density_km": 226,
+        "population_average_age": 18,
+        "population_urban_percentage": 52,
+        "population_literacy_percentage": 60,
+        "landmass": null,
+        "region_code": 8,
+        "region_id": "202",
+        "region_name": "Sub-Saharan Africa"
+    },
+    "codes": [
+        {
+            "iso": "ets",
+            "source": "GRN",
+            "code": "2199"
+        }
+    ],
+    "classifications": [
+        {
+            "iso": "ets",
+            "class_id": "atla1278",
+            "class_order": 0,
+            "name": "Niger-Congo"
+        },
+        {
+            "iso": "ets",
+            "class_id": "volt1241",
+            "class_order": 1,
+            "name": "Atlantic-Congo"
+        },
+        {
+            "iso": "ets",
+            "class_id": "benu1247",
+            "class_order": 2,
+            "name": "Volta-Congo"
+        },
+        {
+            "iso": "ets",
+            "class_id": "akpe1249",
+            "class_order": 3,
+            "name": "Benue-Congo"
+        },
+        {
+            "iso": "ets",
+            "class_id": "edoi1239",
+            "class_order": 4,
+            "name": "Edoid"
+        },
+        {
+            "iso": "ets",
+            "class_id": "nort3182",
+            "class_order": 5,
+            "name": "North-Central"
+        },
+        {
+            "iso": "ets",
+            "class_id": "afen1234",
+            "class_order": 6,
+            "name": "Ghotuo-Uneme-Yekhee"
+        },
+        {
+            "iso": "ets",
+            "class_id": "unem1239",
+            "class_order": 7,
+            "name": "Uneme-Yekhee [unem1239]"
+        }
+    ],
+    "dialects": [],
+    "translations": [
+        {
+            "source_iso": "ets",
+            "translation_iso": "ets",
+            "name": "“Kukuruku”"
+        },
+        {
+            "source_iso": "ets",
+            "translation_iso": "ets",
+            "name": "Afenmai"
+        },
+        {
+            "source_iso": "ets",
+            "translation_iso": "ets",
+            "name": "Etsako"
+        },
+        {
+            "source_iso": "ets",
+            "translation_iso": "ets",
+            "name": "Etsakor"
+        },
+        {
+            "source_iso": "ets",
+            "translation_iso": "ets",
+            "name": "Iyekhee"
+        }
+    ],
+    "bibles": [
+        {
+            "id": "4843e1a5-d9dd-4aa5-84ca-055e31a885bf",
+            "abbr": "ETSPORT",
+            "parent_bible_id": null,
+            "title": "The Gospel of Mark in Yekhee",
+            "title_vernacular": null,
+            "description": null,
+            "description_short": null,
+            "description_vernacular": null,
+            "description_reviewed": null,
+            "iso": "ets",
+            "script": "Latn",
+            "versification": null,
+            "numeral_system_id": "default",
+            "year": 1980,
+            "country_id": null,
+            "copyright": null,
+            "copyright_type": null,
+            "reviewed": 0,
+            "isbn13": null,
+            "back_text": null,
+            "cover": null,
+            "questionable": 0
+        },
+        {
+            "id": "f185a1ff-a561-43ed-93b3-522850309230",
+            "abbr": "ETSTYPE",
+            "parent_bible_id": null,
+            "title": "Etsako First New Testament and Psalms",
+            "title_vernacular": null,
+            "description": null,
+            "description_short": null,
+            "description_vernacular": null,
+            "description_reviewed": null,
+            "iso": "ets",
+            "script": "Latn",
+            "versification": null,
+            "numeral_system_id": "default",
+            "year": 2016,
+            "country_id": null,
+            "copyright": null,
+            "copyright_type": null,
+            "reviewed": 0,
+            "isbn13": null,
+            "back_text": null,
+            "cover": null,
+            "questionable": 0
+        }
+    ],
+    "resources": [
+        {
+            "iso": "ets",
+            "type": "audio",
+            "cover": "",
+            "title": "Words of Life w/ UZAIRUE",
+            "title_vernacular": "",
+            "description": "",
+            "url": "https://globalrecordings.net/en/program/14131",
+            "url_source": "",
+            "author": "Global Recordings Network",
+            "author_slug": "global-recordings-network",
+            "organization_slug": "global-recordings-network",
+            "date": "",
+            "visible": 1,
+            "collection": null,
+            "section": null
+        },
+        {
+            "iso": "ets",
+            "type": "audio",
+            "cover": "",
+            "title": "Message w/ IBIE: Southern",
+            "title_vernacular": "",
+            "description": "",
+            "url": "https://globalrecordings.net/en/program/1601",
+            "url_source": "",
+            "author": "Global Recordings Network",
+            "author_slug": "global-recordings-network",
+            "organization_slug": "global-recordings-network",
+            "date": "",
+            "visible": 1,
+            "collection": null,
+            "section": null
+        }
+    ],
+    "films": []
+}
