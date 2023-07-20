@@ -1,1 +1,88 @@
-{"id":"QUZQCB","parent_bible_id":null,"gbc":null,"date":"1988","iso":"quz","title":"Quechua Cuzco Bible 1988","title_vernacular":"Quechua Cuzco Bible 1988 Diospa simin qelqa","copyright":"© Peruvian Bible Society","guid":null,"description":"","description_short":null,"description_vernacular":"","description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":"","reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"QUZQCB","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/2392-quecuz88-quechua-cuzco-bible-1988","title":"Quechua Cuzco Bible 1988","scope":null,"type":"web","provider":"Peruvian Bible Society","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"QUZQCB","bible_size_id":"FB","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=ece37f606ae9bb88","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null}],"pod":[],"alphabet":null,"children":[],"language":{"iso":"quz","glotto_id":"cusc1236","glotto_family":null,"iso1":null,"name":"Cusco Quechua","autonym":"Qosqo runasimi","macroarea":null,"level":"L","development":null,"use":null,"location":"Peru","area":"Departments of Cusco, half of Puno, and northeast Arequipa.","progress":"Full Bible\r","typology":null,"writing":null,"description":null,"country_id":"PE","latitude":"-14.085270","longitude":"-71.766250","population":1500000,"status_id":"3","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "QUZQCB",
+    "parent_bible_id": "",
+    "uuid": "ab49c3b2-e842-4857-9672-cb4f5bfcc37e",
+    "iso": "quz",
+    "language": {
+        "name": "Cusco Quechua"
+    },
+    "title": "Quechua Cuzco Bible 1988",
+    "title_vernacular": "Quechua Cuzco Bible 1988 Diospa simin qelqa",
+    "description": null,
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": "© Peruvian Bible Society",
+    "copyright_type": "",
+    "date": null,
+    "country_id": "PE",
+    "country": {
+        "name": "Peru"
+    },
+    "alphabet": {
+        "name": "Latin",
+        "script": "Latn",
+        "fonts": []
+    },
+    "pod": [],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/2392-quecuz88-quechua-cuzco-bible-1988",
+            "title": "Quechua Cuzco Bible 1988",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Peruvian Bible Society",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=ece37f606ae9bb88",
+            "title": "Bible For Developers",
+            "scope": "FB",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://bible.com/versions/2392",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "ece37f606ae9bb88",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=ece37f606ae9bb88"
+        },
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "ece37f606ae9bb88",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=ece37f606ae9bb88"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "2392",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/2392"
+        }
+    ],
+    "books": null
+}

@@ -1,1 +1,80 @@
-{"id":"AHRWFW","parent_bible_id":null,"gbc":null,"date":"2020","iso":"ahr","title":"Khandeshi Ahirani Bible (Matthew, Mark)","title_vernacular":"प्रेम संदेश","copyright":"© The Word for the World International and Ahirani Christi Iswari Mandli, Sakri, Dhule, Maharashtra 2020","guid":null,"description":"","description_short":null,"description_vernacular":"","description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":"","reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"AHRWFW","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/2776-ntaii20-","title":"प्रेम संदेश","scope":null,"type":"web","provider":"The Word for the World International","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"AHRWFW","bible_size_id":"FB","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=472735b48a27b402","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null}],"pod":[],"alphabet":null,"children":[],"language":{"iso":"ahr","glotto_id":"ahir1243","glotto_family":null,"iso1":null,"name":"Ahirani","autonym":"Ahirani","macroarea":null,"level":"L","development":null,"use":null,"location":"India, Map 6","area":"Gujarat and Maharashtra states. In Maharashtra: Dhulia, Jalgaon, Nandurbar, Nasik, and Aurangabad districts.","progress":"New Testament\r","typology":null,"writing":null,"description":null,"country_id":"IN","latitude":"21.552000","longitude":"73.685000","population":1640000,"status_id":"6a","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "AHRWFW",
+    "parent_bible_id": null,
+    "uuid": "eb45671c-7909-4fa5-a14f-0fa4ee18a18f",
+    "iso": "ahr",
+    "language": {
+        "name": "Ahirani"
+    },
+    "title": "Khandeshi Ahirani Bible (Matthew, Mark)",
+    "title_vernacular": "प्रेम संदेश",
+    "description": null,
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": "© The Word for the World International and Ahirani Christi Iswari Mandli, Sakri, Dhule, Maharashtra 2020",
+    "copyright_type": null,
+    "date": null,
+    "country_id": "IN",
+    "country": {
+        "name": "India"
+    },
+    "alphabet": {
+        "name": "Devanagari (Nagari)",
+        "script": "Deva",
+        "fonts": []
+    },
+    "pod": [],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/2776-ntaii20-",
+            "title": "प्रेम संदेश",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "The Word for the World International",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=472735b48a27b402",
+            "title": "Bible For Developers",
+            "scope": "FB",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://bible.com/versions/2776",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "472735b48a27b402",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=472735b48a27b402"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "2776",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/2776"
+        }
+    ],
+    "books": null
+}

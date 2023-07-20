@@ -1,1 +1,80 @@
-{"id":"JABWBT","parent_bible_id":null,"gbc":null,"date":"2017","iso":"jab","title":"Hyam Bible (New Testament)","title_vernacular":"Mbyeny Jok Nom di ho Hyam Ham ma̱","copyright":"© 2017 The Nigeria Bible Translation Trust and Wycliffe Bible Translators","guid":null,"description":"","description_short":null,"description_vernacular":"","description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":"","reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"JABWBT","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/2521-hyamnt-mbyeny-jok-nom-di-ho-hyam-ham-ma","title":"Mbyeny Jok Nom di ho Hyam Ham ma̱","scope":null,"type":"web","provider":"Nigeria Bible Translation Trust","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"JABWBT","bible_size_id":"NT","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=c336fb9bc6a64750","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null}],"pod":[],"alphabet":null,"children":[],"language":{"iso":"jab","glotto_id":"hyam1245","glotto_family":null,"iso1":null,"name":"Hyam","autonym":"Jabba","macroarea":null,"level":"L","development":null,"use":null,"location":"Nigeria, Map 2","area":"Kaduna state, Kachia and Jema’a LGAs.","progress":"New Testament\r","typology":null,"writing":null,"description":null,"country_id":"NG","latitude":"9.378320","longitude":"7.951630","population":300000,"status_id":"6a","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "JABWBT",
+    "parent_bible_id": null,
+    "uuid": "a956f429-1b26-40aa-a248-8b6e9c203b99",
+    "iso": "jab",
+    "language": {
+        "name": "Hyam"
+    },
+    "title": "Hyam Bible (New Testament)",
+    "title_vernacular": "Mbyeny Jok Nom di ho Hyam Ham ma̱",
+    "description": null,
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": "© 2017 The Nigeria Bible Translation Trust and Wycliffe Bible Translators",
+    "copyright_type": null,
+    "date": null,
+    "country_id": "NG",
+    "country": {
+        "name": "Nigeria"
+    },
+    "alphabet": {
+        "name": "Latin",
+        "script": "Latn",
+        "fonts": []
+    },
+    "pod": [],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/2521-hyamnt-mbyeny-jok-nom-di-ho-hyam-ham-ma",
+            "title": "Mbyeny Jok Nom di ho Hyam Ham ma̱",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Nigeria Bible Translation Trust",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=c336fb9bc6a64750",
+            "title": "Bible For Developers",
+            "scope": "NT",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://bible.com/versions/2521",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "c336fb9bc6a64750",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=c336fb9bc6a64750"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "2521",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/2521"
+        }
+    ],
+    "books": null
+}

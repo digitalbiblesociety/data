@@ -1,1 +1,80 @@
-{"id":"INDPBTB","parent_bible_id":null,"gbc":null,"date":"1997, 2018","iso":"ind","title":"Indonesian PBTBE NewTestament","title_vernacular":"Perjanjian Baru Terjemahan Baru Edisi 2","copyright":"© Indonesian Bible Society","guid":null,"description":"","description_short":null,"description_vernacular":"","description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":"","reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"INDPBTB","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/2863-pbtb2-perjanjian-baru-terjemahan-baru-edisi-2","title":"Perjanjian Baru Terjemahan Baru Edisi 2","scope":null,"type":"web","provider":"Indonesian Bible Society","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"INDPBTB","bible_size_id":"NT","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=f5a49c9ba8b87806","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null}],"pod":[],"alphabet":null,"children":[],"language":{"iso":"ind","glotto_id":"indo1316","glotto_family":null,"iso1":"id","name":"Indonesian","autonym":"bahasa Indonesia","macroarea":null,"level":"L","development":null,"use":null,"location":null,"area":"Widespread in Indonesia. Also in Netherlands, Philippines, Saudi Arabia, Singapore, United States.","progress":"Full Bible\r","typology":null,"writing":null,"description":null,"country_id":"ID","latitude":"-7.334580","longitude":"109.715720","population":43000000,"status_id":"1","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "INDPBTB",
+    "parent_bible_id": null,
+    "uuid": "c0d52c69-893a-49ad-8239-02e56229d7c7",
+    "iso": "ind",
+    "language": {
+        "name": "Indonesian"
+    },
+    "title": "Indonesian PBTBE NewTestament",
+    "title_vernacular": "Perjanjian Baru Terjemahan Baru Edisi 2",
+    "description": null,
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": "© Indonesian Bible Society",
+    "copyright_type": null,
+    "date": null,
+    "country_id": "ID",
+    "country": {
+        "name": "Indonesia"
+    },
+    "alphabet": {
+        "name": "Latin",
+        "script": "Latn",
+        "fonts": []
+    },
+    "pod": [],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/2863-pbtb2-perjanjian-baru-terjemahan-baru-edisi-2",
+            "title": "Perjanjian Baru Terjemahan Baru Edisi 2",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Indonesian Bible Society",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=f5a49c9ba8b87806",
+            "title": "Bible For Developers",
+            "scope": "NT",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://bible.com/versions/2863",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "f5a49c9ba8b87806",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=f5a49c9ba8b87806"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "2863",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/2863"
+        }
+    ],
+    "books": null
+}

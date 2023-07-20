@@ -1,1 +1,80 @@
-{"id":"FUTBSP","parent_bible_id":null,"gbc":null,"date":"2020","iso":"fut","title":"Aniwa Original Version (New Testament)","title_vernacular":"Aniwa Niu Testamen","copyright":"© Bible Society of the South Pacific","guid":null,"description":"","description_short":null,"description_vernacular":"","description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":"","reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"FUTBSP","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/2732-ant-niu-testamen","title":"Niu Testamen","scope":null,"type":"web","provider":"Bible Society of the South Pacific","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"FUTBSP","bible_size_id":"NT","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=1ed2a4ed138cae95","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null}],"pod":[],"alphabet":null,"children":[],"language":{"iso":"fut","glotto_id":"futu1245","glotto_family":null,"iso1":null,"name":"Futuna-Aniwa","autonym":"Erronan","macroarea":null,"level":"L","development":null,"use":null,"location":"Vanuatu","area":"(West) Futuna and Aniwa Islands, east of Tanna.","progress":"New Testament\r","typology":null,"writing":null,"description":null,"country_id":"VU","latitude":"-19.530330","longitude":"170.215180","population":1500,"status_id":"5","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "FUTBSP",
+    "parent_bible_id": null,
+    "uuid": "d535714d-e8d4-4559-af78-034e68a65583",
+    "iso": "fut",
+    "language": {
+        "name": "Futuna-Aniwa"
+    },
+    "title": "Aniwa Original Version (New Testament)",
+    "title_vernacular": "Aniwa Niu Testamen",
+    "description": null,
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": "© Bible Society of the South Pacific",
+    "copyright_type": null,
+    "date": null,
+    "country_id": "VU",
+    "country": {
+        "name": "Vanuatu"
+    },
+    "alphabet": {
+        "name": "Latin",
+        "script": "Latn",
+        "fonts": []
+    },
+    "pod": [],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/2732-ant-niu-testamen",
+            "title": "Niu Testamen",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Bible Society of the South Pacific",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=1ed2a4ed138cae95",
+            "title": "Bible For Developers",
+            "scope": "NT",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://bible.com/versions/2732",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "1ed2a4ed138cae95",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=1ed2a4ed138cae95"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "2732",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/2732"
+        }
+    ],
+    "books": null
+}

@@ -1,1 +1,80 @@
-{"id":"KFWWFW","parent_bible_id":null,"gbc":null,"date":"2021","iso":"kfw","title":"New Testament in Kharam (Bible)","title_vernacular":"Bible Inzootna Kathar","copyright":"© The Word for the World International and NECTAR, 2021.","guid":null,"description":"","description_short":null,"description_vernacular":"","description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":"","reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"KFWWFW","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/2786-khmnt-bible-inzootna-kathar","title":"Bible Inzootna Kathar","scope":null,"type":"web","provider":"The Word for the World International","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"KFWWFW","bible_size_id":"FB","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=f258cb39615c351d","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null}],"pod":[],"alphabet":null,"children":[],"language":{"iso":"kfw","glotto_id":"khar1288","glotto_family":null,"iso1":null,"name":"Kharam Naga","autonym":"Duisalongmei","macroarea":null,"level":"L","development":null,"use":null,"location":"India, Map 5","area":"Manipur, Senapati District, Phaijol, Laikot, Thuisenpai villages, Kharam Pallen village.","progress":"New Testament\r","typology":null,"writing":null,"description":null,"country_id":"IN","latitude":"26.148770","longitude":"87.917330","population":1400,"status_id":"6a","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "KFWWFW",
+    "parent_bible_id": null,
+    "uuid": "d405959f-9bba-4357-bb51-0c940d84708f",
+    "iso": "kfw",
+    "language": {
+        "name": "Kharam Naga"
+    },
+    "title": "New Testament in Kharam (Bible)",
+    "title_vernacular": "Bible Inzootna Kathar",
+    "description": null,
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": "© The Word for the World International and NECTAR, 2021.",
+    "copyright_type": null,
+    "date": null,
+    "country_id": "IN",
+    "country": {
+        "name": "India"
+    },
+    "alphabet": {
+        "name": "Latin",
+        "script": "Latn",
+        "fonts": []
+    },
+    "pod": [],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/2786-khmnt-bible-inzootna-kathar",
+            "title": "Bible Inzootna Kathar",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "The Word for the World International",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=f258cb39615c351d",
+            "title": "Bible For Developers",
+            "scope": "FB",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://bible.com/versions/2786",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "f258cb39615c351d",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=f258cb39615c351d"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "2786",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/2786"
+        }
+    ],
+    "books": null
+}

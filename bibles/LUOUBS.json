@@ -1,1 +1,110 @@
-{"id":"LUOUBS","parent_bible_id":null,"gbc":null,"date":"2015","iso":"luo","title":"Dholuo (DC) Bible ","title_vernacular":"MUMA MALER 2015","copyright":"© Bible Society of Kenya and Bible Society of Tanzania","guid":null,"description":null,"description_short":null,"description_vernacular":null,"description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":null,"reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"LUOUBS","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/1810-dho15-muma-maler-2015","title":"MUMA MALER 2015","scope":null,"type":"web","provider":"Bible Society of Tanzania","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"LUOUBS","bible_size_id":"FBD","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=e4be884e82a429bb","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null},{"bible_id":"LUOUBS","bible_size_id":null,"bible_link_type":"audio","url":"https://www.bible.com/sr/audio-bible-app-versions/1810","title":"Luo - 1978 Edition (NT)","scope":null,"type":"audio","provider":"Youversion","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"LUOUBS","bible_size_id":"NT","bible_link_type":"archiveaudio","url":"https://app.thedigitalbiblelibrary.org/entry?id=29af0fd2376111e7","title":"Luo - 1978 Edition (NT) Drama","scope":null,"type":"archiveaudio","provider":"Digital Bible Library","organization_id":"faith-comes-by-hearing","filesize":null,"response_code":null},{"bible_id":"LUOUBS","bible_size_id":"OT","bible_link_type":"archiveaudio","url":"https://app.thedigitalbiblelibrary.org/entry?id=83c00d9dc9dd4a77","title":"The Old Testament in Dholuo","scope":null,"type":"archiveaudio","provider":"Digital Bible Library","organization_id":"davar-partners-international","filesize":null,"response_code":null}],"pod":[],"alphabet":null,"children":[],"language":{"iso":"luo","glotto_id":"luok1236","glotto_family":null,"iso1":null,"name":"Luo (Kenya and Tanzania)","autonym":"Dholuo","macroarea":null,"level":"L","development":null,"use":null,"location":"Kenya","area":"Nyanza Province. Also in Tanzania.","progress":"Full Bible\r","typology":null,"writing":null,"description":null,"country_id":"KE","latitude":"-0.932960","longitude":"34.489600","population":5255000,"status_id":"5","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "LUOUBS",
+    "parent_bible_id": null,
+    "uuid": "1dcd5305-b4fe-4c63-8c02-08dacf04c5e8",
+    "iso": "luo",
+    "language": {
+        "name": "Luo (Kenya and Tanzania)"
+    },
+    "title": "Dholuo (DC) Bible ",
+    "title_vernacular": "MUMA MALER 2015",
+    "description": null,
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": "© Bible Society of Kenya and Bible Society of Tanzania",
+    "copyright_type": null,
+    "date": null,
+    "country_id": "KE",
+    "country": {
+        "name": "Kenya"
+    },
+    "alphabet": {
+        "name": "Latin",
+        "script": "Latn",
+        "fonts": []
+    },
+    "pod": [],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/1810-dho15-muma-maler-2015",
+            "title": "MUMA MALER 2015",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Bible Society of Tanzania",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=e4be884e82a429bb",
+            "title": "Bible For Developers",
+            "scope": "FBD",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://www.bible.com/sr/audio-bible-app-versions/1810",
+            "title": "Luo - 1978 Edition (NT)",
+            "scope": "",
+            "type": "audio",
+            "filesize": "0",
+            "provider": "Youversion",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=29af0fd2376111e7",
+            "title": "Luo - 1978 Edition (NT) Drama",
+            "scope": "NT",
+            "type": "archiveaudio",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "2c3d2807-1559-4187-a15e-c8bb07ba3c7a",
+            "publisher": "Faith Comes By Hearing"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=83c00d9dc9dd4a77",
+            "title": "The Old Testament in Dholuo",
+            "scope": "OT",
+            "type": "archiveaudio",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "55fdebf1-84a2-49c7-8820-e29fe9925fc8",
+            "publisher": "Davar Partners International"
+        },
+        {
+            "url": "https://bible.com/versions/1810",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "e4be884e82a429bb",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=e4be884e82a429bb"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "1810",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/1810"
+        }
+    ],
+    "books": null
+}

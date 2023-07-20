@@ -1,1 +1,138 @@
-{"id":"HEBMOD","parent_bible_id":null,"gbc":null,"date":"2010","iso":"heb","title":"Modern Hebrew New Testament","title_vernacular":"עברית New Testament","copyright":"© 1976 / 2010 Bible Society in Israel","guid":null,"description":"Modern Hebrew New Testament\nThis translation, published by the Bible Society in Israel, was published in 2010.\nIf you are interested in obtaining a printed copy, please contact the Bible Society in Israel at www.biblesocietyinisrael.com.","description_short":null,"description_vernacular":null,"description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":null,"reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"HEBMOD","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/380-hrnt-modern-hebrew-new-testament","title":"Modern Hebrew New Testament","scope":null,"type":"web","provider":"Bible Society in Israel","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"HEBMOD","bible_size_id":"NT","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=ee31843f596a9302","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null},{"bible_id":"HEBMOD","bible_size_id":"FB","bible_link_type":"archiveaudio","url":"https://app.thedigitalbiblelibrary.org/entry?id=b4460672ee240d7f","title":"BSI Hebrew Old Testament and Modern Hebrew New Testament","scope":null,"type":"archiveaudio","provider":"Digital Bible Library","organization_id":"bible-society-of-israel","filesize":null,"response_code":null},{"bible_id":"HEBMOD","bible_size_id":"NT","bible_link_type":"archiveaudio","url":"https://app.thedigitalbiblelibrary.org/entry?id=e7162ae6553c11e5","title":"Hebrew - 1995 Modern Hebrew (NT) Drama","scope":null,"type":"archiveaudio","provider":"Digital Bible Library","organization_id":"bible-society-of-israel","filesize":null,"response_code":null},{"bible_id":"HEBMOD","bible_size_id":"NT","bible_link_type":"archiveaudio","url":"https://app.thedigitalbiblelibrary.org/entry?id=9085f9602f3111e7","title":"Hebrew - 1995 Modern Hebrew (NT) Non-Drama","scope":null,"type":"archiveaudio","provider":"Digital Bible Library","organization_id":"faith-comes-by-hearing","filesize":null,"response_code":null},{"bible_id":"HEBMOD","bible_size_id":null,"bible_link_type":"web","url":"https://ebible.org/find/details.php?id=hebmod","title":"Simple HTML Bibles","scope":null,"type":"web","provider":"ebible.org","organization_id":"ebible","filesize":null,"response_code":null}],"pod":[],"alphabet":null,"children":[],"language":{"iso":"heb","glotto_id":"hebr1245","glotto_family":null,"iso1":"he","name":"Hebrew","autonym":"Israeli Hebrew","macroarea":null,"level":"L","development":null,"use":null,"location":null,"area":"Also in Australia, Canada, Germany, Palestinian West Bank and Gaza, Panama, United Kingdom, United States.","progress":"New Testament\r","typology":null,"writing":null,"description":null,"country_id":"IL","latitude":"31.105650","longitude":"35.017880","population":5000000,"status_id":"1","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "HEBMOD",
+    "parent_bible_id": null,
+    "uuid": "d9006015-56a9-4aed-81d9-41a1a08b3433",
+    "iso": "heb",
+    "language": {
+        "name": "Hebrew"
+    },
+    "title": "Modern Hebrew New Testament",
+    "title_vernacular": "עברית New Testament",
+    "description": "Modern Hebrew New Testament This translation, published by the Bible Society in Israel, was published in 2010. If you are interested in obtaining a printed copy, please contact the Bible Society in Israel at www.biblesocietyinisrael.com.",
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": "© 1976 / 2010 Bible Society in Israel",
+    "copyright_type": null,
+    "date": null,
+    "country_id": "IL",
+    "country": {
+        "name": "Israel"
+    },
+    "alphabet": {
+        "name": "Hebrew",
+        "script": "Hebr",
+        "fonts": []
+    },
+    "pod": [],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/380-hrnt-modern-hebrew-new-testament",
+            "title": "Modern Hebrew New Testament",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Bible Society in Israel",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=ee31843f596a9302",
+            "title": "Bible For Developers",
+            "scope": "NT",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=b4460672ee240d7f",
+            "title": "BSI Hebrew Old Testament and Modern Hebrew New Testament",
+            "scope": "FB",
+            "type": "archiveaudio",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "7825857b-8f8f-457f-9182-16967ea96ff3",
+            "publisher": "Bible Society of Israel"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=e7162ae6553c11e5",
+            "title": "Hebrew - 1995 Modern Hebrew (NT) Drama",
+            "scope": "NT",
+            "type": "archiveaudio",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "7825857b-8f8f-457f-9182-16967ea96ff3",
+            "publisher": "Bible Society of Israel"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=9085f9602f3111e7",
+            "title": "Hebrew - 1995 Modern Hebrew (NT) Non-Drama",
+            "scope": "NT",
+            "type": "archiveaudio",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "2c3d2807-1559-4187-a15e-c8bb07ba3c7a",
+            "publisher": "Faith Comes By Hearing"
+        },
+        {
+            "url": "https://ebible.org/find/details.php?id=hebmod",
+            "title": "Simple HTML Bibles",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "ebible.org",
+            "publisher_id": "583342a6-6914-4401-b670-83924dd3a1ae",
+            "publisher": "eBible"
+        },
+        {
+            "url": "https://bible.com/versions/380",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://www.crosswire.org/sword/modules/ModInfo.jsp?modName=HebModern",
+            "title": "Crosswire Module",
+            "scope": null,
+            "type": null,
+            "filesize": null,
+            "provider": "The Sword Project",
+            "publisher_id": "dde7cec9-f63e-4370-b4b6-a841c44adda2",
+            "publisher": "CrossWire"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "ee31843f596a9302",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=ee31843f596a9302"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "380",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/380"
+        },
+        {
+            "organization_id": "dde7cec9-f63e-4370-b4b6-a841c44adda2",
+            "equivalent_id": "HebModern",
+            "site": null,
+            "suffix": null,
+            "type": null,
+            "url": null
+        }
+    ],
+    "books": null
+}

@@ -1,1 +1,80 @@
-{"id":"BDVWFW","parent_bible_id":null,"gbc":null,"date":"2020","iso":"bdv","title":"New Testament in Bodo Parja (Bible)","title_vernacular":"ସଃର୍ଗାର୍‌ ବାଟ୍‌ ନଃଉଁଆ ନିଅମ୍‌","copyright":"© The Word for the World International and Bodo Parja Translation Samithi, Dasamanthpur, Odisha, 2020.","guid":null,"description":"","description_short":null,"description_vernacular":"","description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":"","reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"BDVWFW","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/2777-ntbpl20-","title":"ସଃର୍ଗାର୍‌ ବାଟ୍‌ ନଃଉଁଆ ନିଅମ୍‌","scope":null,"type":"web","provider":"The Word for the World International","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"BDVWFW","bible_size_id":"FB","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=7b1975ae4d11d931","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null}],"pod":[],"alphabet":null,"children":[],"language":{"iso":"bdv","glotto_id":"bodo1266","glotto_family":null,"iso1":null,"name":"Bodo Parja","autonym":"Jharia","macroarea":null,"level":"L","development":null,"use":null,"location":"India, Map 7","area":"Orissa, Koraput District.","progress":"New Testament\r","typology":null,"writing":null,"description":null,"country_id":"IN","latitude":"19.074500","longitude":"82.877420","population":50000,"status_id":"5","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "BDVWFW",
+    "parent_bible_id": null,
+    "uuid": "2f396dde-be84-4159-bf0f-228a2a93f4af",
+    "iso": "bdv",
+    "language": {
+        "name": "Bodo Parja"
+    },
+    "title": "New Testament in Bodo Parja (Bible)",
+    "title_vernacular": "ସଃର୍ଗାର୍‌ ବାଟ୍‌ ନଃଉଁଆ ନିଅମ୍‌",
+    "description": null,
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": "© The Word for the World International and Bodo Parja Translation Samithi, Dasamanthpur, Odisha, 2020.",
+    "copyright_type": null,
+    "date": null,
+    "country_id": "IN",
+    "country": {
+        "name": "India"
+    },
+    "alphabet": {
+        "name": "Oriya (Odia)",
+        "script": "Orya",
+        "fonts": []
+    },
+    "pod": [],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/2777-ntbpl20-",
+            "title": "ସଃର୍ଗାର୍‌ ବାଟ୍‌ ନଃଉଁଆ ନିଅମ୍‌",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "The Word for the World International",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=7b1975ae4d11d931",
+            "title": "Bible For Developers",
+            "scope": "FB",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://bible.com/versions/2777",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "7b1975ae4d11d931",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=7b1975ae4d11d931"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "2777",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/2777"
+        }
+    ],
+    "books": null
+}

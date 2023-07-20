@@ -1,1 +1,80 @@
-{"id":"SWCDRC","parent_bible_id":null,"gbc":null,"date":"2002","iso":"swc","title":"Kiswahili Congo Bible","title_vernacular":"BIBLIA ﻿Maandiko Matakatifu Kwa Watu Wote 2002","copyright":"© Bible Society of the Democratic Republic of Congo (DRC), 2002.","guid":null,"description":"","description_short":null,"description_vernacular":"","description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":"","reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"SWCDRC","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/2921-swc02-biblia-maandiko-matakatifu-kwa-watu-wote-2002","title":"BIBLIA ﻿Maandiko Matakatifu Kwa Watu Wote 2002","scope":null,"type":"web","provider":"Bible Society of the Democratic Republic of Congo","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"SWCDRC","bible_size_id":"FB","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=17c24f52fc047c73","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null}],"pod":[],"alphabet":null,"children":[],"language":{"iso":"swc","glotto_id":"cong1236","glotto_family":null,"iso1":null,"name":"Congo Swahili","autonym":"Kiswahili","macroarea":null,"level":"L","development":null,"use":null,"location":null,"area":"Widespread in Katanga, Nord-Kivu, Sud-Kivu, and Maniema provinces; southeast Orientale Province.","progress":"Full Bible\r","typology":null,"writing":null,"description":null,"country_id":"CD","latitude":"-7.269200","longitude":"27.419580","population":2043000,"status_id":"2","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "SWCDRC",
+    "parent_bible_id": "",
+    "uuid": "b5a06dc9-2321-40f6-8514-4f155db3d7a4",
+    "iso": "swc",
+    "language": {
+        "name": "Congo Swahili"
+    },
+    "title": "Kiswahili Congo Bible",
+    "title_vernacular": "BIBLIA ﻿Maandiko Matakatifu Kwa Watu Wote 2002",
+    "description": null,
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": "© Bible Society of the Democratic Republic of Congo (DRC), 2002.",
+    "copyright_type": "",
+    "date": null,
+    "country_id": "CD",
+    "country": {
+        "name": "DR Congo"
+    },
+    "alphabet": {
+        "name": "Latin",
+        "script": "Latn",
+        "fonts": []
+    },
+    "pod": [],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/2921-swc02-biblia-maandiko-matakatifu-kwa-watu-wote-2002",
+            "title": "BIBLIA ﻿Maandiko Matakatifu Kwa Watu Wote 2002",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Bible Society of the Democratic Republic of Congo",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=17c24f52fc047c73",
+            "title": "Bible For Developers",
+            "scope": "FB",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://bible.com/versions/2921",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "17c24f52fc047c73",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=17c24f52fc047c73"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "2921",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/2921"
+        }
+    ],
+    "books": null
+}

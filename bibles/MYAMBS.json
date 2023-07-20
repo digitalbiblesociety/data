@@ -1,1 +1,90 @@
-{"id":"MYAMBS","parent_bible_id":null,"gbc":null,"date":"2020","iso":"mya","title":"Judson Bible Myanmar Zawgyi Version","title_vernacular":"ျမန္မာေဇာ္ဂ်ီ  Myanmar Burmese (Zawgyi) Bible","copyright":"© Bible Society of Myanmar, 2020.","guid":null,"description":"Judson Bible Myanmar Language Edition Zawgyi Version © Bible Society of Myanmar, 2020.","description_short":null,"description_vernacular":"","description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":"","reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"MYAMBS","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/2760-jbzv-judson-bible-in-zawgyi-version","title":"Judson Bible in Zawgyi Version","scope":null,"type":"web","provider":"Bible Society of Myanmar","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"MYAMBS","bible_size_id":"FB","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=4af8a4e0440dd4aa","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null},{"bible_id":"MYAMBS","bible_size_id":"FB","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=c9c7ae29c036ae4e","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null}],"pod":[],"alphabet":null,"children":[],"language":{"iso":"mya","glotto_id":"nucl1310","glotto_family":null,"iso1":"my","name":"Burmese","autonym":"Myanmar","macroarea":null,"level":"L","development":null,"use":null,"location":"Central Myanmar","area":"South, central, and adjacent areas. Also in Bangladesh, Malaysia (Peninsular), Thailand, United States.","progress":"Full Bible\r","typology":null,"writing":null,"description":null,"country_id":"MM","latitude":"20.792575","longitude":"93.966490","population":32900000,"status_id":"1","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "MYAMBS",
+    "parent_bible_id": "",
+    "uuid": "fa96daa3-3418-4921-9e32-5f5cd26702d5",
+    "iso": "mya",
+    "language": {
+        "name": "Burmese"
+    },
+    "title": "Judson Bible Myanmar Zawgyi Version",
+    "title_vernacular": "ျမန္မာေဇာ္ဂ်ီ  Myanmar Burmese (Zawgyi) Bible",
+    "description": "Judson Bible Myanmar Language Edition Zawgyi Version © Bible Society of Myanmar, 2020.",
+    "description_short": "",
+    "description_vernacular": "",
+    "copyright": "© Bible Society of Myanmar, 2020.",
+    "copyright_type": "",
+    "date": null,
+    "country_id": "MM",
+    "country": {
+        "name": "Myanmar"
+    },
+    "alphabet": {
+        "name": "Myanmar (Burmese)",
+        "script": "Mymr",
+        "fonts": []
+    },
+    "pod": [],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/2760-jbzv-judson-bible-in-zawgyi-version",
+            "title": "Judson Bible in Zawgyi Version",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Bible Society of Myanmar",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=4af8a4e0440dd4aa",
+            "title": "Bible For Developers",
+            "scope": "FB",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=c9c7ae29c036ae4e",
+            "title": "Bible For Developers",
+            "scope": "FB",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://bible.com/versions/2760",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "c9c7ae29c036ae4e",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=c9c7ae29c036ae4e"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "2760",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/2760"
+        }
+    ],
+    "books": null
+}

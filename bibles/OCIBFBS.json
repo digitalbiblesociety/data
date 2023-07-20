@@ -1,1 +1,80 @@
-{"id":"OCIBFBS","parent_bible_id":null,"gbc":null,"date":"1903","iso":"oci","title":"Porvencal Gospels (Occitan)","title_vernacular":"Lis Evangèli 1903 (Provençal)","copyright":"Public Domain","guid":null,"description":null,"description_short":null,"description_vernacular":null,"description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":null,"reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"OCIBFBS","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/2698-prov-lis-evangeli-1903-provencal","title":"Lis Evangèli 1903 (Provençal)","scope":null,"type":"web","provider":"British &amp; Foreign Bible Society","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"OCIBFBS","bible_size_id":"P","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=7760c91b161fa1f6","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null}],"pod":[],"alphabet":null,"children":[],"language":{"iso":"oci","glotto_id":"occi1239","glotto_family":null,"iso1":"oc","name":"Occitan (post 1500)","autonym":" lenga d'òc","macroarea":null,"level":"L","development":null,"use":null,"location":"Andorra and France","area":"Auvergne, Gascogne, Languedoc, Limousin, and Provence provinces. Also in Italy, Monaco, Spain.","progress":"Full Bible\r","typology":null,"writing":null,"description":null,"country_id":"FR","latitude":"44.141547","longitude":"6.829787","population":218310,"status_id":"4","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "OCIBFBS",
+    "parent_bible_id": "",
+    "uuid": "29b651d5-7cc2-40c8-9ae9-33690f421a9a",
+    "iso": "oci",
+    "language": {
+        "name": "Occitan (post 1500)"
+    },
+    "title": "Porvencal Gospels (Occitan)",
+    "title_vernacular": "Lis Evangèli 1903 (Provençal)",
+    "description": null,
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": "Public Domain",
+    "copyright_type": "",
+    "date": null,
+    "country_id": "FR",
+    "country": {
+        "name": "France"
+    },
+    "alphabet": {
+        "name": "Latin",
+        "script": "Latn",
+        "fonts": []
+    },
+    "pod": [],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/2698-prov-lis-evangeli-1903-provencal",
+            "title": "Lis Evangèli 1903 (Provençal)",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "British &amp; Foreign Bible Society",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=7760c91b161fa1f6",
+            "title": "Bible For Developers",
+            "scope": "P",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://bible.com/versions/2698",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "7760c91b161fa1f6",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=7760c91b161fa1f6"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "2698",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/2698"
+        }
+    ],
+    "books": null
+}

@@ -1,1 +1,100 @@
-{"id":"PNBPBS","parent_bible_id":null,"gbc":null,"date":"2020","iso":"pnb","title":"Punjabi New Testament, Revised 2020","title_vernacular":"پنجابی نواں عہد نامہ نظرثانی شدہ چھپائی","copyright":"© 2020 The Pakistan Bible Society","guid":null,"description":"Revised Edition of Punjabi New Testament 1952 © British and Foreign Bible Society, used by permission.","description_short":null,"description_vernacular":"","description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":"","reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"PNBPBS","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/2912-pan2020-ngb-no-aad-nm-nthrthn-shd-","title":"پنجابی نواں عہد نامہ نظرثانی شدہ چھپائی","scope":null,"type":"web","provider":"Pakistan Bible Society","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"PNBPBS","bible_size_id":"NT","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=e25948d139b429d3","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null},{"bible_id":"PNBPBS","bible_size_id":null,"bible_link_type":"audio","url":"https://www.bible.com/sr/audio-bible-app-versions/2912","title":"The Punjabi New Testament, Revised 2020","scope":null,"type":"audio","provider":"Youversion","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"PNBPBS","bible_size_id":"NT","bible_link_type":"archiveaudio","url":"https://app.thedigitalbiblelibrary.org/entry?id=65f9d15b4eb644b2","title":"The Punjabi New Testament, Revised 2020","scope":null,"type":"archiveaudio","provider":"Digital Bible Library","organization_id":"davar-partners-international","filesize":null,"response_code":null}],"pod":[],"alphabet":null,"children":[],"language":{"iso":"pnb","glotto_id":"west2386","glotto_family":null,"iso1":null,"name":"Western Panjabi","autonym":"ਪੰਜਾਬੀ","macroarea":null,"level":"L","development":null,"use":null,"location":"India, Map 1","area":"Mainly in Punjab. Also in Afghanistan, Canada, India, United Arab Emirates, United Kingdom, United States.","progress":"New Testament\r","typology":null,"writing":null,"description":null,"country_id":"PK","latitude":"30.094840","longitude":"75.347425","population":31100000,"status_id":"5","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "PNBPBS",
+    "parent_bible_id": "",
+    "uuid": "acc282b2-8727-496e-91fc-3180a8768010",
+    "iso": "pnb",
+    "language": {
+        "name": "Western Panjabi"
+    },
+    "title": "Punjabi New Testament, Revised 2020",
+    "title_vernacular": "پنجابی نواں عہد نامہ نظرثانی شدہ چھپائی",
+    "description": "Revised Edition of Punjabi New Testament 1952 © British and Foreign Bible Society, used by permission.",
+    "description_short": "",
+    "description_vernacular": "",
+    "copyright": "© 2020 The Pakistan Bible Society",
+    "copyright_type": "",
+    "date": null,
+    "country_id": "PK",
+    "country": {
+        "name": "Pakistan"
+    },
+    "alphabet": {
+        "name": "Arabic",
+        "script": "Arab",
+        "fonts": []
+    },
+    "pod": [],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/2912-pan2020-ngb-no-aad-nm-nthrthn-shd-",
+            "title": "پنجابی نواں عہد نامہ نظرثانی شدہ چھپائی",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Pakistan Bible Society",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=e25948d139b429d3",
+            "title": "Bible For Developers",
+            "scope": "NT",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://www.bible.com/sr/audio-bible-app-versions/2912",
+            "title": "The Punjabi New Testament, Revised 2020",
+            "scope": "",
+            "type": "audio",
+            "filesize": "0",
+            "provider": "Youversion",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=65f9d15b4eb644b2",
+            "title": "The Punjabi New Testament, Revised 2020",
+            "scope": "NT",
+            "type": "archiveaudio",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "55fdebf1-84a2-49c7-8820-e29fe9925fc8",
+            "publisher": "Davar Partners International"
+        },
+        {
+            "url": "https://bible.com/versions/2912",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "e25948d139b429d3",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=e25948d139b429d3"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "2912",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/2912"
+        }
+    ],
+    "books": null
+}

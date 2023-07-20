@@ -1,1 +1,80 @@
-{"id":"PEGWFW","parent_bible_id":null,"gbc":null,"date":"2020","iso":"peg","title":"New Testament in Pengo (Bible)","title_vernacular":"ସତ୍‌ ବଚନ୍‌, ପୁନି ନିୟମ୍‌","copyright":"© The Word for the World International and Pengo Translation Samithi, Dasamanthpur, Koraput, Odisha 2020 ","guid":null,"description":"","description_short":null,"description_vernacular":"","description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":"","reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"PEGWFW","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/2791-ntnoo20-","title":"ସତ୍‌ ବଚନ୍‌, ପୁନି ନିୟମ୍‌","scope":null,"type":"web","provider":"The Word for the World International","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"PEGWFW","bible_size_id":"FB","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=c3c7dadacb71fb1e","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null}],"pod":[],"alphabet":null,"children":[],"language":{"iso":"peg","glotto_id":"peng1244","glotto_family":null,"iso1":null,"name":"Pengo","autonym":"Hengo","macroarea":null,"level":"L","development":null,"use":null,"location":"India, Map 7","area":"Orissa, Koraput District, Kashipur, Pappadahandi, Nowrangapur, Dasamantapur, and Nandapur tahsils; Kalahandi District.","progress":"New Testament\r","typology":null,"writing":null,"description":null,"country_id":"IN","latitude":"19.343450","longitude":"83.655200","population":350000,"status_id":"6a","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "PEGWFW",
+    "parent_bible_id": "",
+    "uuid": "fe7c27bd-7098-40f5-adfa-08bd95dd470a",
+    "iso": "peg",
+    "language": {
+        "name": "Pengo"
+    },
+    "title": "New Testament in Pengo (Bible)",
+    "title_vernacular": "ସତ୍‌ ବଚନ୍‌, ପୁନି ନିୟମ୍‌",
+    "description": null,
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": "© The Word for the World International and Pengo Translation Samithi, Dasamanthpur, Koraput, Odisha 2020 ",
+    "copyright_type": "",
+    "date": null,
+    "country_id": "IN",
+    "country": {
+        "name": "India"
+    },
+    "alphabet": {
+        "name": "Oriya (Odia)",
+        "script": "Orya",
+        "fonts": []
+    },
+    "pod": [],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/2791-ntnoo20-",
+            "title": "ସତ୍‌ ବଚନ୍‌, ପୁନି ନିୟମ୍‌",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "The Word for the World International",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=c3c7dadacb71fb1e",
+            "title": "Bible For Developers",
+            "scope": "FB",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://bible.com/versions/2791",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "c3c7dadacb71fb1e",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=c3c7dadacb71fb1e"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "2791",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/2791"
+        }
+    ],
+    "books": null
+}

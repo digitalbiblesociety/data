@@ -1,1 +1,80 @@
-{"id":"WONSBG","parent_bible_id":null,"gbc":null,"date":"1940, 2012","iso":"won","title":"EJK2012 Bible","title_vernacular":"Rusang rusek rapunta","copyright":"© 2012, ASAREB, Suisse MiDi BIBLE","guid":null,"description":"","description_short":null,"description_vernacular":"","description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":"","reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"WONSBG","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/2991-ejk2012-rusang-rusek-rapunta","title":"Rusang rusek rapunta","scope":null,"type":"web","provider":"Société Biblique de Genève","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"WONSBG","bible_size_id":"P","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=fe285a2c56e574d6","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null}],"pod":[],"alphabet":null,"children":[],"language":{"iso":"won","glotto_id":"wong1247","glotto_family":null,"iso1":null,"name":"Wongo","autonym":"Tukongo","macroarea":null,"level":"L","development":null,"use":null,"location":"Southern Democratic Republic of Congo","area":"Kasaï Occidental Province, Ilebo and Tshikapa territories; Bandundu Province, Guagu and Idiofa territories, Lubue River area.","progress":"Portions\r","typology":null,"writing":null,"description":null,"country_id":"CD","latitude":"-5.738370","longitude":"20.505400","population":12700,"status_id":"6a","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "WONSBG",
+    "parent_bible_id": "",
+    "uuid": "be998e80-41a4-4169-b72b-dedad58122cd",
+    "iso": "won",
+    "language": {
+        "name": "Wongo"
+    },
+    "title": "EJK2012 Bible",
+    "title_vernacular": "Rusang rusek rapunta",
+    "description": null,
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": "© 2012, ASAREB, Suisse MiDi BIBLE",
+    "copyright_type": "",
+    "date": null,
+    "country_id": "CD",
+    "country": {
+        "name": "DR Congo"
+    },
+    "alphabet": {
+        "name": "Latin",
+        "script": "Latn",
+        "fonts": []
+    },
+    "pod": [],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/2991-ejk2012-rusang-rusek-rapunta",
+            "title": "Rusang rusek rapunta",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Société Biblique de Genève",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=fe285a2c56e574d6",
+            "title": "Bible For Developers",
+            "scope": "P",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://bible.com/versions/2991",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "fe285a2c56e574d6",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=fe285a2c56e574d6"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "2991",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/2991"
+        }
+    ],
+    "books": null
+}

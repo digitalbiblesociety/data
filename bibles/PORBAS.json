@@ -1,1 +1,80 @@
-{"id":"PORBAS","parent_bible_id":null,"gbc":null,"date":"2008","iso":"por","title":"21st Century Bible (Portuguese - Brazil)","title_vernacular":"Biblia Almeida Século 21","copyright":"© 2008 Edições Vida Nova","guid":null,"description":"","description_short":null,"description_vernacular":"Bíblia Almeida Século 21\nApós uma extensa revisão e atualização da versão Revisada de acordo com os Melhores Textos em Hebraico e Grego veio a lume uma nova versão bíblica, a Almeida Século 21.\nAcreditamos que não vai demorar muito para a Bíblia Almeida Século 21 se tornar um sucesso em termos de aceitação, uma vez que tem algumas atraentes vantagens para convencer os brasileiros a escolher este texto como sua Bíblia predileta.","description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":"","reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"PORBAS","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/2645-a21-biblia-almeida-seculo-21","title":"Biblia Almeida Século 21","scope":null,"type":"web","provider":"Sociedade Religiosa Edições Vida Nova","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"PORBAS","bible_size_id":"FB","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=90382d6d3e1a79b9","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null}],"pod":[],"alphabet":null,"children":[],"language":{"iso":"por","glotto_id":"port1283","glotto_family":null,"iso1":"pt","name":"Portuguese","autonym":"português","macroarea":null,"level":"L","development":null,"use":null,"location":"Portugal and Spain","area":"Iberia, Azores, Madeira. Also in Andorra, Angola, Antigua and Barbuda, Belgium, Bermuda, Brazil, Canada, Cape Verde Islands, China, Congo, East Timor, France, Germany, Guinea-Bissau, Guyana, India, Indonesia (Nusa Tenggara), Jamaica, Luxembourg, Malawi, Mozambique, Netherlands Antilles, Oman, Paraguay, Saint Vincent and the Grenadines, São Tomé e Príncipe, Senegal, South Africa, Spain, Suriname, Switzerland, United Kingdom, United States, Uruguay, Venezuela, Zambia.","progress":"Full Bible\r","typology":null,"writing":null,"description":null,"country_id":"PT","latitude":"42.034120","longitude":"-4.188150","population":221000000,"status_id":"1","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "PORBAS",
+    "parent_bible_id": "",
+    "uuid": "f1cfe421-7a9c-479d-8c55-a0493f8c4326",
+    "iso": "por",
+    "language": {
+        "name": "Portuguese"
+    },
+    "title": "21st Century Bible (Portuguese - Brazil)",
+    "title_vernacular": "Biblia Almeida Século 21",
+    "description": "",
+    "description_short": "",
+    "description_vernacular": "Bíblia Almeida Século 21 Após uma extensa revisão e atualização da versão Revisada de acordo com os Melhores Textos em Hebraico e Grego veio a lume uma nova versão bíblica, a Almeida Século 21. Acreditamos que não vai demorar muito para a Bíblia Almeida Século 21 se tornar um sucesso em termos de aceitação, uma vez que tem algumas atraentes vantagens para convencer os brasileiros a escolher este texto como sua Bíblia predileta.",
+    "copyright": "© 2008 Edições Vida Nova",
+    "copyright_type": "",
+    "date": null,
+    "country_id": "PT",
+    "country": {
+        "name": "Portugal"
+    },
+    "alphabet": {
+        "name": "Latin",
+        "script": "Latn",
+        "fonts": []
+    },
+    "pod": [],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/2645-a21-biblia-almeida-seculo-21",
+            "title": "Biblia Almeida Século 21",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Sociedade Religiosa Edições Vida Nova",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=90382d6d3e1a79b9",
+            "title": "Bible For Developers",
+            "scope": "FB",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://bible.com/versions/2645",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "90382d6d3e1a79b9",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=90382d6d3e1a79b9"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "2645",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/2645"
+        }
+    ],
+    "books": null
+}

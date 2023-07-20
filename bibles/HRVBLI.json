@@ -1,1 +1,80 @@
-{"id":"HRVBLI","parent_bible_id":null,"gbc":null,"date":"2019","iso":"hrv","title":"Croatian Easy-to-Read Version (2019)","title_vernacular":"Biblija: suvremeni hrvatski prijevod","copyright":"© 2019 Bible League International","guid":null,"description":"","description_short":null,"description_vernacular":"","description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":"","reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"HRVBLI","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/2475-shp-biblija-suvremeni-hrvatski-prijevod","title":"Biblija: suvremeni hrvatski prijevod","scope":null,"type":"web","provider":"Bible League International","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"HRVBLI","bible_size_id":"FB","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=bb4cf628d890bcab","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null}],"pod":[],"alphabet":null,"children":[],"language":{"iso":"hrv","glotto_id":"croa1245","glotto_family":null,"iso1":"hr","name":"Croatian","autonym":"hrvatski","macroarea":null,"level":"L","development":null,"use":null,"location":null,"area":"Also in Austria, Bosnia and Herzegovina, Canada, Chile, Czech Republic, Germany, Hungary, Italy, Montenegro, Serbia, Slovakia, Slovenia, United States.","progress":"Full Bible\r","typology":null,"writing":null,"description":null,"country_id":"HR","latitude":"45.200602","longitude":"16.826005","population":5488390,"status_id":"1","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "HRVBLI",
+    "parent_bible_id": null,
+    "uuid": "fa49107c-7cf7-4905-bdfe-8a8d295ae426",
+    "iso": "hrv",
+    "language": {
+        "name": "Croatian"
+    },
+    "title": "Croatian Easy-to-Read Version (2019)",
+    "title_vernacular": "Biblija: suvremeni hrvatski prijevod",
+    "description": null,
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": "© 2019 Bible League International",
+    "copyright_type": null,
+    "date": null,
+    "country_id": "HR",
+    "country": {
+        "name": "Croatia"
+    },
+    "alphabet": {
+        "name": "Latin",
+        "script": "Latn",
+        "fonts": []
+    },
+    "pod": [],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/2475-shp-biblija-suvremeni-hrvatski-prijevod",
+            "title": "Biblija: suvremeni hrvatski prijevod",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Bible League International",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=bb4cf628d890bcab",
+            "title": "Bible For Developers",
+            "scope": "FB",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://bible.com/versions/2475",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "bb4cf628d890bcab",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=bb4cf628d890bcab"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "2475",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/2475"
+        }
+    ],
+    "books": null
+}

@@ -1,1 +1,101 @@
-{"id":"LMDWBT","parent_bible_id":null,"gbc":null,"date":"2020","iso":"lmd","title":"Lumun Bible (New Testament)","title_vernacular":"LON ILOPOROT LOKAPIK NATHAM NꞌREK NNONATHAM NOMAꞌROT","copyright":"© 2020 Wycliffe Bible Translators, Inc.","guid":null,"description":"","description_short":null,"description_vernacular":"","description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":"","reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"LMDWBT","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/2493-lumun-lon-iloporot-lokapik-natham-nrek-nnonatham-nomarot","title":"LON ILOPOROT LOKAPIK NATHAM NꞌREK NNONATHAM NOMAꞌROT","scope":null,"type":"web","provider":"Wycliffe Bible Translators, Inc.","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"LMDWBT","bible_size_id":"FB","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=b9294fc1b572b85f","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null},{"bible_id":"LMDWBT","bible_size_id":null,"bible_link_type":"web","url":"https://ebible.org/find/details.php?id=lmdwbt","title":"Simple HTML Bibles","scope":null,"type":"web","provider":"ebible.org","organization_id":"ebible","filesize":null,"response_code":null}],"pod":[],"alphabet":null,"children":[],"language":{"iso":"lmd","glotto_id":"lumu1239","glotto_family":null,"iso1":null,"name":"Lumun","autonym":"Kuku-Lumun","macroarea":null,"level":"L","development":null,"use":null,"location":"Sudan","area":"North, Talodi, Moro Hills; Toromathan, To’ri, and Canya’ru villages.","progress":"New Testament\r","typology":null,"writing":null,"description":null,"country_id":"SD","latitude":"10.830840","longitude":"30.252980","population":20000,"status_id":"4","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "LMDWBT",
+    "parent_bible_id": null,
+    "uuid": "14a21e47-a649-46cf-95fc-16fbd2a42fdf",
+    "iso": "lmd",
+    "language": {
+        "name": "Lumun"
+    },
+    "title": "Lumun Bible (New Testament)",
+    "title_vernacular": "LON ILOPOROT LOKAPIK NATHAM NꞌREK NNONATHAM NOMAꞌROT",
+    "description": null,
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": "© 2020 Wycliffe Bible Translators, Inc.",
+    "copyright_type": null,
+    "date": null,
+    "country_id": "SD",
+    "country": {
+        "name": "Sudan"
+    },
+    "alphabet": {
+        "name": "Latin",
+        "script": "Latn",
+        "fonts": []
+    },
+    "pod": [
+        {
+            "publisher_id": "048ddebe-a8fa-4370-914d-79a119447d49",
+            "partner_id": null,
+            "description": "auto-added",
+            "trim": "us_trade",
+            "scope": "bible",
+            "pages": 0,
+            "print_ready": 0,
+            "print_banned": 0
+        }
+    ],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/2493-lumun-lon-iloporot-lokapik-natham-nrek-nnonatham-nomarot",
+            "title": "LON ILOPOROT LOKAPIK NATHAM NꞌREK NNONATHAM NOMAꞌROT",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Wycliffe Bible Translators, Inc.",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=b9294fc1b572b85f",
+            "title": "Bible For Developers",
+            "scope": "FB",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://ebible.org/find/details.php?id=lmdwbt",
+            "title": "Simple HTML Bibles",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "ebible.org",
+            "publisher_id": "583342a6-6914-4401-b670-83924dd3a1ae",
+            "publisher": "eBible"
+        },
+        {
+            "url": "https://bible.com/versions/2493",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "b9294fc1b572b85f",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=b9294fc1b572b85f"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "2493",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/2493"
+        }
+    ],
+    "books": null
+}

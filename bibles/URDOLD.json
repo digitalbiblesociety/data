@@ -1,1 +1,110 @@
-{"id":"URDOLD","parent_bible_id":null,"gbc":null,"date":"1860-70","iso":"urd","title":"Urdu Bible (Portions)","title_vernacular":"Zabúr - Duá i amím kí kitáb aur sákraminton kí tartíb","copyright":"Public Domain","guid":null,"description":"","description_short":null,"description_vernacular":"","description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":"","reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"URDOLD","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/2609-urdrps-zabur-1863-roman-urdu","title":"Zabúr 1863 (Roman Urdū)","scope":null,"type":"web","provider":"British &amp; Foreign Bible Society","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"URDOLD","bible_size_id":"P","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=1df1c510631e6683","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null},{"bible_id":"URDOLD","bible_size_id":null,"bible_link_type":"historic","url":"https://archive.org/download/URDOLD_DBS_HS/Urdu-(1860)-New-Testament.pdf","title":"Urdu (1860) New Testament","scope":null,"type":"historic","provider":"","organization_id":"british-and-foreign-bible-society","filesize":15728300,"response_code":null},{"bible_id":"URDOLD","bible_size_id":null,"bible_link_type":"historic","url":"https://archive.org/download/URDOLD_DBS_HS/Urdu-(1870)-Psalms-(Dua-i-amim-ki-kitab-aur-sakraminton-ki-tartib).pdf","title":"Urdu (1870) Psalms","scope":null,"type":"historic","provider":"The Bible Archive","organization_id":"archive-bible","filesize":18600872,"response_code":null},{"bible_id":"URDOLD","bible_size_id":null,"bible_link_type":"historic","url":"https://archive.org/download/URDOLD_DBS_HS/Urdu-(1855)-Psalms-(Zabur-aur-git).pdf","title":"Urdu (1855) Psalms (Zabúr aur gít)","scope":null,"type":"historic","provider":"The Bible Archive","organization_id":"archive-bible","filesize":29780919,"response_code":null}],"pod":[],"alphabet":null,"children":[],"language":{"iso":"urd","glotto_id":"urdu1245","glotto_family":null,"iso1":"ur","name":"Urdu","autonym":"اُردُو","macroarea":null,"level":"L","development":null,"use":null,"location":"Bangladesh","area":"Widespread. Also in Afghanistan, Bahrain, Bangladesh, Botswana, Canada, Fiji, Germany, Guyana, India, Malawi, Mauritius, Nepal, Norway, Oman, Qatar, Saudi Arabia, South Africa, Thailand, United Arab Emirates, United Kingdom, United States, Zambia.","progress":"Full Bible\r","typology":null,"writing":null,"description":null,"country_id":"PK","latitude":"25.000000","longitude":"67.000000","population":68600000,"status_id":"1","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "URDOLD",
+    "parent_bible_id": "",
+    "uuid": "5fe21efe-f6fd-4ae7-92eb-ab0ba22cd709",
+    "iso": "urd",
+    "language": {
+        "name": "Urdu"
+    },
+    "title": "Urdu Bible (Portions)",
+    "title_vernacular": "Zabúr - Duá i amím kí kitáb aur sákraminton kí tartíb",
+    "description": null,
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": "Public Domain",
+    "copyright_type": "",
+    "date": null,
+    "country_id": "PK",
+    "country": {
+        "name": "Pakistan"
+    },
+    "alphabet": {
+        "name": "Latin",
+        "script": "Latn",
+        "fonts": []
+    },
+    "pod": [],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/2609-urdrps-zabur-1863-roman-urdu",
+            "title": "Zabúr 1863 (Roman Urdū)",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "British &amp; Foreign Bible Society",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=1df1c510631e6683",
+            "title": "Bible For Developers",
+            "scope": "P",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://archive.org/download/URDOLD_DBS_HS/Urdu-(1860)-New-Testament.pdf",
+            "title": "Urdu (1860) New Testament",
+            "scope": "",
+            "type": "historic",
+            "filesize": "15728300",
+            "provider": "",
+            "publisher_id": "d3950ccc-dc18-4e63-92c2-a0f5e2eef6ac",
+            "publisher": "British and Foreign Bible Society"
+        },
+        {
+            "url": "https://archive.org/download/URDOLD_DBS_HS/Urdu-(1870)-Psalms-(Dua-i-amim-ki-kitab-aur-sakraminton-ki-tartib).pdf",
+            "title": "Urdu (1870) Psalms",
+            "scope": "",
+            "type": "historic",
+            "filesize": "18600872",
+            "provider": "The Bible Archive",
+            "publisher_id": "0f04902f-a48b-4402-8eaa-899296cbb7ea",
+            "publisher": "The Bible Archive"
+        },
+        {
+            "url": "https://archive.org/download/URDOLD_DBS_HS/Urdu-(1855)-Psalms-(Zabur-aur-git).pdf",
+            "title": "Urdu (1855) Psalms (Zabúr aur gít)",
+            "scope": "",
+            "type": "historic",
+            "filesize": "29780919",
+            "provider": "The Bible Archive",
+            "publisher_id": "0f04902f-a48b-4402-8eaa-899296cbb7ea",
+            "publisher": "The Bible Archive"
+        },
+        {
+            "url": "https://bible.com/versions/2609",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "1df1c510631e6683",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=1df1c510631e6683"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "2609",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/2609"
+        }
+    ],
+    "books": null
+}

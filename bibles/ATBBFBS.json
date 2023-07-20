@@ -1,1 +1,80 @@
-{"id":"ATBBFBS","parent_bible_id":null,"gbc":null,"date":"1938 - 1951","iso":"atb","title":"Zaiwa Bible Portions","title_vernacular":"Zaiwa: ꓟ˗ꓗꓴ ꓟꓮꓴ ꓢꓮꓴ ","copyright":"© British and Foreign Bible Society","guid":null,"description":"","description_short":null,"description_vernacular":"","description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":"","reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"ATBBFBS","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/2078-atb1951-marku-mau-sau-1951-zaiwa","title":"Marku mau sau 1951; Zaiwa","scope":null,"type":"web","provider":"British &amp; Foreign Bible Society","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"ATBBFBS","bible_size_id":"P","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=8fa00d97cfb2aa7f","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null}],"pod":[],"alphabet":null,"children":[],"language":{"iso":"atb","glotto_id":"zaiw1241","glotto_family":null,"iso1":null,"name":"Zaiwa","autonym":"အဇီး Atsi","macroarea":null,"level":"L","development":null,"use":null,"location":"Southwestern China","area":"Yunnan Province, Dehong Dai-Jingpo Autonomous Prefecture, Luxi, Ruili, Longchuan, Yingjiang, Bangwa districts. Also in Myanmar.","progress":"New Testament\r","typology":null,"writing":null,"description":null,"country_id":"CN","latitude":"24.172650","longitude":"98.364250","population":110000,"status_id":"5","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "ATBBFBS",
+    "parent_bible_id": null,
+    "uuid": "dd230957-9714-4c55-9aa7-59c716ef1db8",
+    "iso": "atb",
+    "language": {
+        "name": "Zaiwa"
+    },
+    "title": "Zaiwa Bible Portions",
+    "title_vernacular": "Zaiwa: ꓟ˗ꓗꓴ ꓟꓮꓴ ꓢꓮꓴ ",
+    "description": null,
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": "© British and Foreign Bible Society",
+    "copyright_type": null,
+    "date": null,
+    "country_id": "CN",
+    "country": {
+        "name": "China"
+    },
+    "alphabet": {
+        "name": "Miao (Pollard)",
+        "script": "Plrd",
+        "fonts": []
+    },
+    "pod": [],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/2078-atb1951-marku-mau-sau-1951-zaiwa",
+            "title": "Marku mau sau 1951; Zaiwa",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "British &amp; Foreign Bible Society",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=8fa00d97cfb2aa7f",
+            "title": "Bible For Developers",
+            "scope": "P",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://bible.com/versions/2078",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "8fa00d97cfb2aa7f",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=8fa00d97cfb2aa7f"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "2078",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/2078"
+        }
+    ],
+    "books": null
+}

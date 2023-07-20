@@ -1,1 +1,90 @@
-{"id":"XBRLAI","parent_bible_id":null,"gbc":null,"date":"1995","iso":"xbr","title":"Kambera Bible","title_vernacular":"Na Huratu Matua","copyright":"© 1995 LAI, Indonesian Bible Society","guid":null,"description":"","description_short":null,"description_vernacular":"","description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":"","reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"XBRLAI","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/2908-kam-na-huratu-matua","title":"Na Huratu Matua","scope":null,"type":"web","provider":"Indonesian Bible Society","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"XBRLAI","bible_size_id":"FB","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=e88bc22f2f1dcecb","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null},{"bible_id":"XBRLAI","bible_size_id":null,"bible_link_type":"historic","url":"https://archive.org/download/XBRLAI_DBS_HS/Kambera-New-Testament-(book).pdf","title":"Kambera - New Testament (Book)","scope":null,"type":"historic","provider":"The Bible Archive","organization_id":"archive-bible","filesize":2159107,"response_code":null}],"pod":[],"alphabet":null,"children":[],"language":{"iso":"xbr","glotto_id":"kamb1299","glotto_family":null,"iso1":null,"name":"Kambera","autonym":"East Sumbanese","macroarea":null,"level":"L","development":null,"use":null,"location":"Indonesia, Nusa Tenggara and Southwestern Maluku","area":"Lesser Sundas, east half of Sumba Island, south of Flores.","progress":"Full Bible\r","typology":null,"writing":null,"description":null,"country_id":"ID","latitude":"-9.884470","longitude":"120.235310","population":240000,"status_id":"5","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "XBRLAI",
+    "parent_bible_id": "",
+    "uuid": "9b558443-1d8a-443c-9eef-f9d0d3a7ba24",
+    "iso": "xbr",
+    "language": {
+        "name": "Kambera"
+    },
+    "title": "Kambera Bible",
+    "title_vernacular": "Na Huratu Matua",
+    "description": null,
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": "© 1995 LAI, Indonesian Bible Society",
+    "copyright_type": "",
+    "date": null,
+    "country_id": "ID",
+    "country": {
+        "name": "Indonesia"
+    },
+    "alphabet": {
+        "name": "Latin",
+        "script": "Latn",
+        "fonts": []
+    },
+    "pod": [],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/2908-kam-na-huratu-matua",
+            "title": "Na Huratu Matua",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Indonesian Bible Society",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=e88bc22f2f1dcecb",
+            "title": "Bible For Developers",
+            "scope": "FB",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://archive.org/download/XBRLAI_DBS_HS/Kambera-New-Testament-(book).pdf",
+            "title": "Kambera - New Testament (Book)",
+            "scope": "",
+            "type": "historic",
+            "filesize": "2159107",
+            "provider": "The Bible Archive",
+            "publisher_id": "0f04902f-a48b-4402-8eaa-899296cbb7ea",
+            "publisher": "The Bible Archive"
+        },
+        {
+            "url": "https://bible.com/versions/2908",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "e88bc22f2f1dcecb",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=e88bc22f2f1dcecb"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "2908",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/2908"
+        }
+    ],
+    "books": null
+}

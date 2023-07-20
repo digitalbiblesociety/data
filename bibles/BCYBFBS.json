@@ -1,1 +1,111 @@
-{"id":"BCYBFBS","parent_bible_id":null,"gbc":null,"date":"1915","iso":"bcy","title":"BCYMRK Bible (Mark)","title_vernacular":"Lemefeme da Yesu Kristo.  Markus 1915 (Bacama)","copyright":"Public Domain","guid":null,"description":"The Bacama language is spoken in the east of Nigeria in Adamawa state.\nThe first portion of Scripture in the language was the Gospel of Mark, which was published by the British and Foreign Bible Society at the Niger Press in Shonga in 1915.\nThis text was digitised with the help of MissionAssist in 2020.","description_short":null,"description_vernacular":"","description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":"","reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"BCYBFBS","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/2795-bcymrk-lemefeme-da-yesu-kristo-markus-1915-bacama","title":"Lemefeme da Yesu Kristo.  Markus 1915 (Bacama)","scope":null,"type":"web","provider":"British &amp; Foreign Bible Society","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"BCYBFBS","bible_size_id":"P","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=cc4d2e1f7bb4db71","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null},{"bible_id":"BCYBFBS","bible_size_id":null,"bible_link_type":"historic","url":"https://archive.org/download/BCYBFBS_DBS_HS/Bacama-(1915)-Mark-(Lemefeme-da-Yesu-Kristo-Markus).pdf","title":"Bacama (1915) Mark","scope":null,"type":"historic","provider":"","organization_id":"british-and-foreign-bible-society","filesize":4006600,"response_code":null}],"pod":[],"alphabet":null,"children":[],"language":{"iso":"bcy","glotto_id":"baca1246","glotto_family":null,"iso1":null,"name":"Bacama","autonym":"Abacama","macroarea":null,"level":"L","development":null,"use":null,"location":"Nigeria, Map 5","area":"Adamawa state, Numan and Guyuk LGAs; Kaduna state, northeast of Kaduna town; Kogi state, confluence of Benue and Niger rivers.","progress":"Portions\r","typology":null,"writing":null,"description":null,"country_id":"NG","latitude":"9.530720","longitude":"12.041570","population":289000,"status_id":"5","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "BCYBFBS",
+    "parent_bible_id": null,
+    "uuid": "93429c7c-4103-4ba2-810c-28424551bae0",
+    "iso": "bcy",
+    "language": {
+        "name": "Bacama"
+    },
+    "title": "The Gospel of Mark in Bacama",
+    "title_vernacular": "Lemefeme da Yesu Kristo.  Markus 1915 (Bacama)",
+    "description": "The Bacama language is spoken in the east of Nigeria in Adamawa state. The first portion of Scripture in the language was the Gospel of Mark, which was published by the British and Foreign Bible Society at the Niger Press in Shonga in 1915. This text was digitised with the help of MissionAssist in 2020.",
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": "Public Domain",
+    "copyright_type": null,
+    "date": null,
+    "country_id": "NG",
+    "country": {
+        "name": "Nigeria"
+    },
+    "alphabet": {
+        "name": "Latin",
+        "script": "Latn",
+        "fonts": []
+    },
+    "pod": [
+        {
+            "publisher_id": "048ddebe-a8fa-4370-914d-79a119447d49",
+            "partner_id": null,
+            "description": "This Bible is copyrighted by Wycliffe Bible Translators (Wycliffe.org) and is printed with permission by the Digital Bible Society (dbs.org) for non-commercial use.<br /><br />This Bible is available for free download in a variety of digital formats at dbs.org/bibles.",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 4,
+            "print_ready": 0,
+            "print_banned": 0
+        },
+        {
+            "publisher_id": "048ddebe-a8fa-4370-914d-79a119447d49",
+            "partner_id": null,
+            "description": "This Bible is copyrighted by Wycliffe Bible Translators (Wycliffe.org) and is printed with permission by the Digital Bible Society (dbs.org) for non-commercial use.<br /><br />This Bible is available for free download in a variety of digital formats at dbs.org/bibles.",
+            "trim": "us_trade",
+            "scope": "bible",
+            "pages": 442,
+            "print_ready": 0,
+            "print_banned": 0
+        }
+    ],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/2795-bcymrk-lemefeme-da-yesu-kristo-markus-1915-bacama",
+            "title": "Lemefeme da Yesu Kristo.  Markus 1915 (Bacama)",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "British &amp; Foreign Bible Society",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=cc4d2e1f7bb4db71",
+            "title": "Bible For Developers",
+            "scope": "P",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://archive.org/download/BCYBFBS_DBS_HS/Bacama-(1915)-Mark-(Lemefeme-da-Yesu-Kristo-Markus).pdf",
+            "title": "Bacama (1915) Mark",
+            "scope": "",
+            "type": "historic",
+            "filesize": "4006600",
+            "provider": "",
+            "publisher_id": "d3950ccc-dc18-4e63-92c2-a0f5e2eef6ac",
+            "publisher": "British and Foreign Bible Society"
+        },
+        {
+            "url": "https://bible.com/versions/2795",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "cc4d2e1f7bb4db71",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=cc4d2e1f7bb4db71"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "2795",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/2795"
+        }
+    ],
+    "books": null
+}

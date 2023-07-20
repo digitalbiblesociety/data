@@ -1,1 +1,80 @@
-{"id":"NLXWFW","parent_bible_id":null,"gbc":null,"date":"2020","iso":"nlx","title":"New Testament in Nahali (Bible)","title_vernacular":"खेरलो वचन नोवालो नियम","copyright":"© The Word for the World International and Nahali Vishwaseen Mandli, Toranmal, Dhadgaon, Nandurbar, Maharashtra 2020","guid":null,"description":"","description_short":null,"description_vernacular":"","description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":"","reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"NLXWFW","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/2790-ntnii2020-","title":"खेरलो वचन नोवालो नियम","scope":null,"type":"web","provider":"The Word for the World International","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"NLXWFW","bible_size_id":"FB","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=604771cc77d9136d","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null}],"pod":[],"alphabet":null,"children":[],"language":{"iso":"nlx","glotto_id":"naha1261","glotto_family":null,"iso1":null,"name":"Nahali","autonym":"Nahali","macroarea":null,"level":"L","development":null,"use":null,"location":"India, Map 6","area":"Maharashtra, Nandurbar District, Dhadgaon tahsil, 12 villages near Toranmal, Jalgaon District; Chopda tahsil, north of Amalwadi.","progress":"New Testament\r","typology":null,"writing":null,"description":null,"country_id":"IN","latitude":"21.430000","longitude":"74.827000","population":15000,"status_id":"6a","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "NLXWFW",
+    "parent_bible_id": "",
+    "uuid": "2e48ae34-f4dd-413b-a836-da225869cc38",
+    "iso": "nlx",
+    "language": {
+        "name": "Nahali"
+    },
+    "title": "New Testament in Nahali (Bible)",
+    "title_vernacular": "खेरलो वचन नोवालो नियम",
+    "description": null,
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": "© The Word for the World International and Nahali Vishwaseen Mandli, Toranmal, Dhadgaon, Nandurbar, Maharashtra 2020",
+    "copyright_type": "",
+    "date": null,
+    "country_id": "IN",
+    "country": {
+        "name": "India"
+    },
+    "alphabet": {
+        "name": "Devanagari (Nagari)",
+        "script": "Deva",
+        "fonts": []
+    },
+    "pod": [],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/2790-ntnii2020-",
+            "title": "खेरलो वचन नोवालो नियम",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "The Word for the World International",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=604771cc77d9136d",
+            "title": "Bible For Developers",
+            "scope": "FB",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://bible.com/versions/2790",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "604771cc77d9136d",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=604771cc77d9136d"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "2790",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/2790"
+        }
+    ],
+    "books": null
+}

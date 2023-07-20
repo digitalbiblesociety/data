@@ -1,1 +1,80 @@
-{"id":"JGOCBT","parent_bible_id":null,"gbc":null,"date":"2017","iso":"jgo","title":"Ngomba Bible (New Testament)","title_vernacular":"Kɑɑ Fí","copyright":"© Cameroon Association for Bible Translation and Literacy","guid":null,"description":"","description_short":null,"description_vernacular":"","description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":"","reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"JGOCBT","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/2621-jgo-k-fi","title":"Kɑɑ Fí","scope":null,"type":"web","provider":"Cameroon Association for Bible Translation and Literacy","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"JGOCBT","bible_size_id":"NT","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=993c134df59374e2","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null}],"pod":[],"alphabet":null,"children":[],"language":{"iso":"jgo","glotto_id":"ngom1272","glotto_family":null,"iso1":null,"name":"Ngomba","autonym":"Nda’a","macroarea":null,"level":"L","development":null,"use":null,"location":"Southwestern Cameroon, Enlarged Area","area":"West Province, Bamboutos Division, south Mbouda Subdivision, southeast of Mbouda. 5 villages, each a separate dialect.","progress":"New Testament\r","typology":null,"writing":null,"description":null,"country_id":"CM","latitude":"5.630670","longitude":"10.237040","population":63000,"status_id":"5","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "JGOCBT",
+    "parent_bible_id": null,
+    "uuid": "23a5252c-b447-4f4b-8f81-0156e16dd861",
+    "iso": "jgo",
+    "language": {
+        "name": "Ngomba"
+    },
+    "title": "Ngomba Bible (New Testament)",
+    "title_vernacular": "Kɑɑ Fí",
+    "description": null,
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": "© Cameroon Association for Bible Translation and Literacy",
+    "copyright_type": null,
+    "date": null,
+    "country_id": "CM",
+    "country": {
+        "name": "Cameroon"
+    },
+    "alphabet": {
+        "name": "Latin",
+        "script": "Latn",
+        "fonts": []
+    },
+    "pod": [],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/2621-jgo-k-fi",
+            "title": "Kɑɑ Fí",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Cameroon Association for Bible Translation and Literacy",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=993c134df59374e2",
+            "title": "Bible For Developers",
+            "scope": "NT",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://bible.com/versions/2621",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "993c134df59374e2",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=993c134df59374e2"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "2621",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/2621"
+        }
+    ],
+    "books": null
+}

@@ -1,1 +1,80 @@
-{"id":"MNHWBT","parent_bible_id":null,"gbc":null,"date":"2020","iso":"mnh","title":"Mono Bible (NT)","title_vernacular":"TAFO AYO","copyright":"© 2020 ACOTBA-SUBO","guid":null,"description":"","description_short":null,"description_vernacular":"","description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":"","reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"MNHWBT","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/2551-mnh-tafo-ayo","title":"TAFO AYO","scope":null,"type":"web","provider":"Wycliffe Bible Translators, Inc.","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"MNHWBT","bible_size_id":"FB","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=c363d7e4284d4d0b","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null}],"pod":[],"alphabet":null,"children":[],"language":{"iso":"mnh","glotto_id":"mono1270","glotto_family":null,"iso1":null,"name":"Mono (Democratic Republic of Congo)","autonym":"Amono","macroarea":null,"level":"L","development":null,"use":null,"location":"Northern Democratic Republic of Congo","area":"Equateur Province, Nord Ubangi, Bosobolo Territory; some in Libenge Territory. Bili is center.","progress":"New Testament\r","typology":null,"writing":null,"description":null,"country_id":"CD","latitude":"4.579150","longitude":"19.826380","population":65000,"status_id":"6a","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "MNHWBT",
+    "parent_bible_id": null,
+    "uuid": "0d1409e3-779a-4f16-bea2-9fb80315a21a",
+    "iso": "mnh",
+    "language": {
+        "name": "Mono (Democratic Republic of Congo)"
+    },
+    "title": "Mono Bible (NT)",
+    "title_vernacular": "TAFO AYO",
+    "description": null,
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": "© 2020 ACOTBA-SUBO",
+    "copyright_type": null,
+    "date": null,
+    "country_id": "CD",
+    "country": {
+        "name": "DR Congo"
+    },
+    "alphabet": {
+        "name": "Latin",
+        "script": "Latn",
+        "fonts": []
+    },
+    "pod": [],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/2551-mnh-tafo-ayo",
+            "title": "TAFO AYO",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Wycliffe Bible Translators, Inc.",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=c363d7e4284d4d0b",
+            "title": "Bible For Developers",
+            "scope": "FB",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://bible.com/versions/2551",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "c363d7e4284d4d0b",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=c363d7e4284d4d0b"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "2551",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/2551"
+        }
+    ],
+    "books": null
+}

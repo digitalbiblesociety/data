@@ -1,1 +1,80 @@
-{"id":"HBBWBT","parent_bible_id":null,"gbc":null,"date":"2018","iso":"hbb","title":"Nya Huba (New Testament)","title_vernacular":"Taɗər Alkawal Aku Nya Həba","copyright":"© Wycliffe Bible Translators, Inc. and  the Nigeria Bible Translation Trust 2018","guid":null,"description":"","description_short":null,"description_vernacular":"","description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":"","reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"HBBWBT","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/2723-hbbnt-taer-alkawal-aku-nya-heba","title":"Taɗər Alkawal Aku Nya Həba","scope":null,"type":"web","provider":"Nigeria Bible Translation Trust","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"HBBWBT","bible_size_id":"NT","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=d16d2d28eeeb9953","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null}],"pod":[],"alphabet":null,"children":[],"language":{"iso":"hbb","glotto_id":"huba1236","glotto_family":null,"iso1":null,"name":"Huba","autonym":"Kilba","macroarea":null,"level":"L","development":null,"use":null,"location":"Nigeria, Map 5","area":"Adamawa state, Hong, Maiha, Gombi, and Mubi LGAs.","progress":"New Testament\r","typology":null,"writing":null,"description":null,"country_id":"NG","latitude":"10.354390","longitude":"13.139020","population":337000,"status_id":"6a","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "HBBWBT",
+    "parent_bible_id": null,
+    "uuid": "ed015474-efe9-4738-a38e-8e975c8d542a",
+    "iso": "hbb",
+    "language": {
+        "name": "Huba"
+    },
+    "title": "Nya Huba (New Testament)",
+    "title_vernacular": "Taɗər Alkawal Aku Nya Həba",
+    "description": null,
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": "© Wycliffe Bible Translators, Inc. and  the Nigeria Bible Translation Trust 2018",
+    "copyright_type": null,
+    "date": null,
+    "country_id": "NG",
+    "country": {
+        "name": "Nigeria"
+    },
+    "alphabet": {
+        "name": "Latin",
+        "script": "Latn",
+        "fonts": []
+    },
+    "pod": [],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/2723-hbbnt-taer-alkawal-aku-nya-heba",
+            "title": "Taɗər Alkawal Aku Nya Həba",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Nigeria Bible Translation Trust",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=d16d2d28eeeb9953",
+            "title": "Bible For Developers",
+            "scope": "NT",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://bible.com/versions/2723",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "d16d2d28eeeb9953",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=d16d2d28eeeb9953"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "2723",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/2723"
+        }
+    ],
+    "books": null
+}

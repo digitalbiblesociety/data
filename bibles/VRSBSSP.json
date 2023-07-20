@@ -1,1 +1,80 @@
-{"id":"VRSBSSP","parent_bible_id":null,"gbc":null,"date":"1994, 2004","iso":"vrs","title":"The New Testament in Varisi, Solomon Islands","title_vernacular":"Vato Vari Vakameka Voru Ia Batu Ne","copyright":" © Bible Society of the South Pacific, 1994, 2004. ","guid":null,"description":"The New Testament in Varisi, Solomon Islands","description_short":null,"description_vernacular":"","description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":"","reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"VRSBSSP","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/2983-vrsnt-vato-vari-vakameka-voru-ia-batu-ne","title":"Vato Vari Vakameka Voru Ia Batu Ne","scope":null,"type":"web","provider":"Bible Society of the South Pacific","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"VRSBSSP","bible_size_id":"NT","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=b66473ac43b2653e","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null}],"pod":[],"alphabet":null,"children":[],"language":{"iso":"vrs","glotto_id":"vari1239","glotto_family":null,"iso1":null,"name":"Varisi","autonym":"Varese","macroarea":null,"level":"L","development":null,"use":null,"location":"Solomon Islands","area":"Northeast Choiseul Island.","progress":"New Testament\r","typology":null,"writing":null,"description":null,"country_id":"SB","latitude":"-6.834430","longitude":"156.655190","population":5160,"status_id":"5","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "VRSBSSP",
+    "parent_bible_id": "",
+    "uuid": "685bd6d6-7757-4e1a-9588-020b1bb82fca",
+    "iso": "vrs",
+    "language": {
+        "name": "Varisi"
+    },
+    "title": "The New Testament in Varisi, Solomon Islands",
+    "title_vernacular": "Vato Vari Vakameka Voru Ia Batu Ne",
+    "description": "The New Testament in Varisi, Solomon Islands",
+    "description_short": "",
+    "description_vernacular": "",
+    "copyright": " © Bible Society of the South Pacific, 1994, 2004. ",
+    "copyright_type": "",
+    "date": null,
+    "country_id": "SB",
+    "country": {
+        "name": "Solomon Islands"
+    },
+    "alphabet": {
+        "name": "Latin",
+        "script": "Latn",
+        "fonts": []
+    },
+    "pod": [],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/2983-vrsnt-vato-vari-vakameka-voru-ia-batu-ne",
+            "title": "Vato Vari Vakameka Voru Ia Batu Ne",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Bible Society of the South Pacific",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=b66473ac43b2653e",
+            "title": "Bible For Developers",
+            "scope": "NT",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://bible.com/versions/2983",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "b66473ac43b2653e",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=b66473ac43b2653e"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "2983",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/2983"
+        }
+    ],
+    "books": null
+}

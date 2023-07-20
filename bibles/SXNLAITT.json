@@ -1,1 +1,80 @@
-{"id":"SXNLAITT","parent_bible_id":null,"gbc":null,"date":"2014","iso":"sxn","title":"Today's Taghulandang New Testament","title_vernacular":"Today's Taghulandang Buki Susi","copyright":"© 2014 LAI, Indonesian Bible Society (Lembaga Alkitab Indonesia)","guid":null,"description":"","description_short":null,"description_vernacular":"","description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":"","reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"SXNLAITT","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/2895-laisxn-new-testament-in-todays-taghulandang-version","title":"New Testament in Today's Taghulandang Version","scope":null,"type":"web","provider":"Indonesian Bible Society","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"SXNLAITT","bible_size_id":"NT","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=8a79af1a3cdf4b4a","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null}],"pod":[],"alphabet":null,"children":[],"language":{"iso":"sxn","glotto_id":"siau1244","glotto_family":null,"iso1":null,"name":"Sangir","autonym":"Siau","macroarea":null,"level":"L","development":null,"use":null,"location":"Indonesia, Sulawesi","area":"North Sulawesi, Great Sangir Island; north Maluku. Also in Philippines.","progress":"Full Bible\r","typology":null,"writing":null,"description":null,"country_id":"ID","latitude":"4.459695","longitude":"125.604075","population":165000,"status_id":"5","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "SXNLAITT",
+    "parent_bible_id": "",
+    "uuid": "a076ac32-fb73-4b4d-bd42-ed09284faa18",
+    "iso": "sxn",
+    "language": {
+        "name": "Sangir"
+    },
+    "title": "Today's Taghulandang New Testament",
+    "title_vernacular": "Today's Taghulandang Buki Susi",
+    "description": null,
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": "© 2014 LAI, Indonesian Bible Society (Lembaga Alkitab Indonesia)",
+    "copyright_type": "",
+    "date": null,
+    "country_id": "ID",
+    "country": {
+        "name": "Indonesia"
+    },
+    "alphabet": {
+        "name": "Latin",
+        "script": "Latn",
+        "fonts": []
+    },
+    "pod": [],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/2895-laisxn-new-testament-in-todays-taghulandang-version",
+            "title": "New Testament in Today's Taghulandang Version",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Indonesian Bible Society",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=8a79af1a3cdf4b4a",
+            "title": "Bible For Developers",
+            "scope": "NT",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://bible.com/versions/2895",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "8a79af1a3cdf4b4a",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=8a79af1a3cdf4b4a"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "2895",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/2895"
+        }
+    ],
+    "books": null
+}

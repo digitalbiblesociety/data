@@ -1,1 +1,118 @@
-{"id":"FATBSG","parent_bible_id":null,"gbc":null,"date":"2011","iso":"fat","title":"Mfantse Bible ","title_vernacular":"Baebor Mfantse Bible ","copyright":"© Bible Society of Ghana, 2011.","guid":null,"description":"","description_short":null,"description_vernacular":"","description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":"","reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"FATBSG","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/2913-mfanbrp-baebor","title":"BAEBOR","scope":null,"type":"web","provider":"Bible Society of Ghana","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"FATBSG","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/2914-mfanbrpc-baebor","title":"BAEBOR","scope":null,"type":"web","provider":"Bible Society of Ghana","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"FATBSG","bible_size_id":"FB","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=713fe1dd42a4f17f","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null},{"bible_id":"FATBSG","bible_size_id":null,"bible_link_type":"historic","url":"https://archive.org/download/FATBSG_DBS_HS/Fante-John-(print).pdf","title":"Fante - John (Print)","scope":null,"type":"historic","provider":"","organization_id":"gospelgo","filesize":264420,"response_code":null}],"pod":[],"alphabet":null,"children":[],"language":{"iso":"fat","glotto_id":null,"glotto_family":null,"iso1":null,"name":"Fanti","autonym":null,"macroarea":null,"level":"L","development":null,"use":null,"location":null,"area":null,"progress":null,"typology":null,"writing":null,"description":null,"country_id":"GH","latitude":null,"longitude":null,"population":0,"status_id":null,"status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "FATBSG",
+    "parent_bible_id": null,
+    "uuid": "aca953c1-92f4-480b-869b-92d6a28da9b5",
+    "iso": "fat",
+    "language": {
+        "name": "Fanti"
+    },
+    "title": "Mfantse Bible ",
+    "title_vernacular": "Baebor Mfantse Bible ",
+    "description": null,
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": "© Bible Society of Ghana, 2011.",
+    "copyright_type": null,
+    "date": null,
+    "country_id": "GH",
+    "country": {
+        "name": "Ghana"
+    },
+    "alphabet": {
+        "name": "Latin",
+        "script": "Latn",
+        "fonts": []
+    },
+    "pod": [],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/2913-mfanbrp-baebor",
+            "title": "BAEBOR",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Bible Society of Ghana",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://www.bible.com/versions/2914-mfanbrpc-baebor",
+            "title": "BAEBOR",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Bible Society of Ghana",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=713fe1dd42a4f17f",
+            "title": "Bible For Developers",
+            "scope": "FB",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://archive.org/download/FATBSG_DBS_HS/Fante-John-(print).pdf",
+            "title": "Fante - John (Print)",
+            "scope": "",
+            "type": "historic",
+            "filesize": "264420",
+            "provider": "",
+            "publisher_id": "e1c3d43c-728e-4f90-be74-af4ec38c554d",
+            "publisher": "GospelGo"
+        },
+        {
+            "url": "https://bible.com/versions/2913",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://bible.com/versions/2914",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "713fe1dd42a4f17f",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=713fe1dd42a4f17f"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "2913",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/2913"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "2914",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/2914"
+        }
+    ],
+    "books": null
+}

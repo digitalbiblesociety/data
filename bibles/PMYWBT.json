@@ -1,1 +1,121 @@
-{"id":"PMYWBT","parent_bible_id":null,"gbc":null,"date":"2020","iso":"pmy","title":"Papuan Malay Bible Portions","title_vernacular":"Melayu Papua","copyright":"© Wycliffe Bible Translators, Inc.","guid":null,"description":"","description_short":null,"description_vernacular":"","description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":"","reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"PMYWBT","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/2690-mpapua-melayu-papua","title":"Melayu Papua","scope":null,"type":"web","provider":"Wycliffe Bible Translators, Inc.","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"PMYWBT","bible_size_id":"FB","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=f6241b135a5f3d47","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null},{"bible_id":"PMYWBT","bible_size_id":null,"bible_link_type":"web","url":"https://ebible.org/find/details.php?id=pmywbt","title":"Simple HTML Bibles","scope":null,"type":"web","provider":"ebible.org","organization_id":"ebible","filesize":null,"response_code":null}],"pod":[{"bible_id":"PMYWBT","publisher_id":"wycliffe-bible-translators-inc","partner_id":null,"description":"This Bible is copyrighted by Wycliffe Bible Translators (Wycliffe.org) and is printed with permission by the Digital Bible Society (dbs.org) for non-commercial use.<br /><br />This Bible is available for free download in a variety of digital formats at dbs.org/bibles.","trim":"us_letter","scope":"bible","pages":442,"print_ready":0,"print_banned":0,"portion":0,"columns":2,"font":"NotoSans-Regular.ttf","font_bold":"NotoSans-Bold.ttf","font_format":"truetype","font_size":null,"orphans":2,"widows":2,"line_height":1.3,"counter_style":null,"justified":"0","justified_cjk":"0","cover_filter":null,"custom_styles":null},{"bible_id":"PMYWBT","publisher_id":"wycliffe-bible-translators-inc","partner_id":null,"description":"This Bible is copyrighted by Wycliffe Bible Translators (Wycliffe.org) and is printed with permission by the Digital Bible Society (dbs.org) for non-commercial use.<br /><br />This Bible is available for free download in a variety of digital formats at dbs.org/bibles.","trim":"us_trade","scope":"bible","pages":243,"print_ready":0,"print_banned":0,"portion":0,"columns":2,"font":"NotoSans-Regular.ttf","font_bold":"NotoSans-Bold.ttf","font_format":"truetype","font_size":null,"orphans":2,"widows":2,"line_height":1.3,"counter_style":null,"justified":"0","justified_cjk":"0","cover_filter":null,"custom_styles":null}],"alphabet":null,"children":[],"language":{"iso":"pmy","glotto_id":"papu1250","glotto_family":null,"iso1":null,"name":"Papuan Malay","autonym":"Irian Malay","macroarea":null,"level":"L","development":null,"use":null,"location":null,"area":"Papua.","progress":"Portions\r","typology":null,"writing":null,"description":null,"country_id":"ID","latitude":"-2.534817","longitude":"139.650878","population":500000,"status_id":"3","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "PMYWBT",
+    "parent_bible_id": "",
+    "uuid": "016ab41e-106d-4062-a3d0-783aef3c49d0",
+    "iso": "pmy",
+    "language": {
+        "name": "Papuan Malay"
+    },
+    "title": "Papuan Malay Bible Portions",
+    "title_vernacular": "Melayu Papua",
+    "description": null,
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": "© Wycliffe Bible Translators, Inc.",
+    "copyright_type": "",
+    "date": null,
+    "country_id": "ID",
+    "country": {
+        "name": "Indonesia"
+    },
+    "alphabet": {
+        "name": "Latin",
+        "script": "Latn",
+        "fonts": []
+    },
+    "pod": [
+        {
+            "publisher_id": "048ddebe-a8fa-4370-914d-79a119447d49",
+            "partner_id": null,
+            "description": "This Bible is copyrighted by Wycliffe Bible Translators (Wycliffe.org) and is printed with permission by the Digital Bible Society (dbs.org) for non-commercial use.<br /><br />This Bible is available for free download in a variety of digital formats at dbs.org/bibles.",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 442,
+            "print_ready": 0,
+            "print_banned": 0
+        },
+        {
+            "publisher_id": "048ddebe-a8fa-4370-914d-79a119447d49",
+            "partner_id": null,
+            "description": "This Bible is copyrighted by Wycliffe Bible Translators (Wycliffe.org) and is printed with permission by the Digital Bible Society (dbs.org) for non-commercial use.<br /><br />This Bible is available for free download in a variety of digital formats at dbs.org/bibles.",
+            "trim": "us_trade",
+            "scope": "bible",
+            "pages": 243,
+            "print_ready": 0,
+            "print_banned": 0
+        }
+    ],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/2690-mpapua-melayu-papua",
+            "title": "Melayu Papua",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Wycliffe Bible Translators, Inc.",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=f6241b135a5f3d47",
+            "title": "Bible For Developers",
+            "scope": "FB",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://ebible.org/find/details.php?id=pmywbt",
+            "title": "Simple HTML Bibles",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "ebible.org",
+            "publisher_id": "583342a6-6914-4401-b670-83924dd3a1ae",
+            "publisher": "eBible"
+        },
+        {
+            "url": "https://bible.com/versions/2690",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://dbs.org/bibles/PMYWBT",
+            "title": "eBook Downloads",
+            "scope": null,
+            "type": null,
+            "filesize": null,
+            "provider": null,
+            "publisher_id": "93619ca8-7f05-48dc-995c-6f46cdc94918",
+            "publisher": "Digital Bible Society"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "f6241b135a5f3d47",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=f6241b135a5f3d47"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "2690",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/2690"
+        }
+    ],
+    "books": null
+}

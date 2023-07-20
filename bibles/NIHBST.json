@@ -1,1 +1,80 @@
-{"id":"NIHBST","parent_bible_id":null,"gbc":null,"date":"1965","iso":"nih","title":"Nyiha New Testament","title_vernacular":"Tesitamenti Umupwa 1965","copyright":"© British and Foreign Bible Society, 1965. ","guid":null,"description":"","description_short":null,"description_vernacular":"","description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":"","reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"NIHBST","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/3045-nyi1965-tesitamenti-umupwa-1965","title":"Tesitamenti Umupwa 1965","scope":null,"type":"web","provider":"Bible Society of Tanzania","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"NIHBST","bible_size_id":"NT","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=444556d9b3314328","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null}],"pod":[],"alphabet":null,"children":[],"language":{"iso":"nih","glotto_id":"nyih1240","glotto_family":null,"iso1":null,"name":"Nyiha (Tanzania)","autonym":"Ishinyiha","macroarea":null,"level":"L","development":null,"use":null,"location":"Tanzania","area":"Mbeya region, Mbozi District, Lake Rukwa south and west. Also in Zambia.","progress":"New Testament\r","typology":null,"writing":null,"description":null,"country_id":"TZ","latitude":"-9.447200","longitude":"32.905690","population":126000,"status_id":"5","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "NIHBST",
+    "parent_bible_id": "",
+    "uuid": "81a039da-d5a4-42a3-b28b-8cd95692f0c5",
+    "iso": "nih",
+    "language": {
+        "name": "Nyiha (Tanzania)"
+    },
+    "title": "Nyiha New Testament",
+    "title_vernacular": "Tesitamenti Umupwa 1965",
+    "description": null,
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": "© British and Foreign Bible Society, 1965. ",
+    "copyright_type": "",
+    "date": null,
+    "country_id": "TZ",
+    "country": {
+        "name": "Tanzania"
+    },
+    "alphabet": {
+        "name": "Latin",
+        "script": "Latn",
+        "fonts": []
+    },
+    "pod": [],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/3045-nyi1965-tesitamenti-umupwa-1965",
+            "title": "Tesitamenti Umupwa 1965",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Bible Society of Tanzania",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=444556d9b3314328",
+            "title": "Bible For Developers",
+            "scope": "NT",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://bible.com/versions/3045",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "444556d9b3314328",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=444556d9b3314328"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "3045",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/3045"
+        }
+    ],
+    "books": null
+}

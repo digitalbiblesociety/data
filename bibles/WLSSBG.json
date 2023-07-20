@@ -1,1 +1,80 @@
-{"id":"WLSSBG","parent_bible_id":null,"gbc":null,"date":"2011","iso":"wls","title":"Wallisian 2011 Bible","title_vernacular":"Ko te Tohi Tapu i te fakauvea","copyright":"© 2011, Eglise évangélique, chez Lotoato Logote Hihifo, Vaitupu, Wallis","guid":null,"description":"Rights are administrated by Midi Bible, a branch of Société Biblique de Genève, 1032 Romanel-Sur-Lausanne, Switzerland","description_short":null,"description_vernacular":"Les droits sont administrés par Midi Bible, une branche de la Société Biblique de Genève","description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":"","reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"WLSSBG","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/2720-wb2011-ko-te-tohi-tapu-i-te-fakauvea","title":"Ko te Tohi Tapu i te fakauvea","scope":null,"type":"web","provider":"Société Biblique de Genève","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"WLSSBG","bible_size_id":"FB","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=30c2cb6eb0af331e","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null}],"pod":[],"alphabet":null,"children":[],"language":{"iso":"wls","glotto_id":"wall1257","glotto_family":null,"iso1":null,"name":"Wallisian","autonym":"Faka","macroarea":null,"level":"L","development":null,"use":null,"location":null,"area":"Original home is Uvea Island. Also in Fiji, New Caledonia, Vanuatu.","progress":"Full Bible\r","typology":null,"writing":null,"description":null,"country_id":"WF","latitude":"-13.290304","longitude":"-176.207027","population":25040,"status_id":"5","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "WLSSBG",
+    "parent_bible_id": "",
+    "uuid": "c8f7b44f-0520-4a4a-8a69-2ff5bc15486f",
+    "iso": "wls",
+    "language": {
+        "name": "Wallisian"
+    },
+    "title": "Wallisian 2011 Bible",
+    "title_vernacular": "Ko te Tohi Tapu i te fakauvea",
+    "description": "Rights are administrated by Midi Bible, a branch of Société Biblique de Genève, 1032 Romanel-Sur-Lausanne, Switzerland",
+    "description_short": "",
+    "description_vernacular": "Les droits sont administrés par Midi Bible, une branche de la Société Biblique de Genève",
+    "copyright": "© 2011, Eglise évangélique, chez Lotoato Logote Hihifo, Vaitupu, Wallis",
+    "copyright_type": "",
+    "date": null,
+    "country_id": "WF",
+    "country": {
+        "name": "Wallis & Futuna"
+    },
+    "alphabet": {
+        "name": "Latin",
+        "script": "Latn",
+        "fonts": []
+    },
+    "pod": [],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/2720-wb2011-ko-te-tohi-tapu-i-te-fakauvea",
+            "title": "Ko te Tohi Tapu i te fakauvea",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Société Biblique de Genève",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=30c2cb6eb0af331e",
+            "title": "Bible For Developers",
+            "scope": "FB",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://bible.com/versions/2720",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "30c2cb6eb0af331e",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=30c2cb6eb0af331e"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "2720",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/2720"
+        }
+    ],
+    "books": null
+}

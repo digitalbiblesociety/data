@@ -1,1 +1,80 @@
-{"id":"RMNG36","parent_bible_id":null,"gbc":null,"date":"1936","iso":"rmn","title":"Romani Gubbeti 1936 Bible","title_vernacular":"O Devlikano lil e Sumnale Lukahtar 1936 (Bosnia)","copyright":"Public Domain","guid":null,"description":"","description_short":null,"description_vernacular":"","description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":"OPEN","reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"RMNG36","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/1652-gurb1936-o-devlikano-lil-e-sumnale-lukahtar-1936-bosnia","title":"O Devlikano lil e Sumnale Lukahtar 1936 (Bosnia)","scope":null,"type":"web","provider":"British &amp; Foreign Bible Society","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"RMNG36","bible_size_id":"P","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=4a203667d02c23d7","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null}],"pod":[],"alphabet":null,"children":[],"language":{"iso":"rmn","glotto_id":"balk1252","glotto_family":null,"iso1":null,"name":"Balkan Romani","autonym":null,"macroarea":null,"level":"L","development":null,"use":null,"location":null,"area":"Balkans, Kosovo. Also in Bulgaria, France, Germany, Greece, Hungary, Iran, Italy, Macedonia, Moldova, Romania, Turkey (Europe), Ukraine, United States.","progress":"Full Bible\r","typology":null,"writing":null,"description":null,"country_id":"RS","latitude":"42.670000","longitude":"21.170000","population":602840,"status_id":"5","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "RMNG36",
+    "parent_bible_id": "",
+    "uuid": "40352c85-28a0-45ca-9886-8fdbbdca351a",
+    "iso": "rmn",
+    "language": {
+        "name": "Balkan Romani"
+    },
+    "title": "Romani Gubbeti 1936 Bible",
+    "title_vernacular": "O Devlikano lil e Sumnale Lukahtar 1936 (Bosnia)",
+    "description": null,
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": "Public Domain",
+    "copyright_type": "OPEN",
+    "date": null,
+    "country_id": "RS",
+    "country": {
+        "name": "Serbia"
+    },
+    "alphabet": {
+        "name": "Latin",
+        "script": "Latn",
+        "fonts": []
+    },
+    "pod": [],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/1652-gurb1936-o-devlikano-lil-e-sumnale-lukahtar-1936-bosnia",
+            "title": "O Devlikano lil e Sumnale Lukahtar 1936 (Bosnia)",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "British &amp; Foreign Bible Society",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=4a203667d02c23d7",
+            "title": "Bible For Developers",
+            "scope": "P",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://bible.com/versions/1652",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "4a203667d02c23d7",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=4a203667d02c23d7"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "1652",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/1652"
+        }
+    ],
+    "books": null
+}

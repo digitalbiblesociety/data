@@ -1,1 +1,118 @@
-{"id":"SOMBSK","parent_bible_id":null,"gbc":null,"date":"2019","iso":"som","title":"Soomaali (Somali) Bible","title_vernacular":"KITAABA WAAQA","copyright":"© Bible Society of Kenya, 2019","guid":null,"description":"","description_short":null,"description_vernacular":"","description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":"","reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"SOMBSK","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/2935-bor-kitaaba-waaqa","title":"KITAABA WAAQA","scope":null,"type":"web","provider":"Bible Society of Kenya","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"SOMBSK","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/2943-bor-kitaaba-waaqa-ka-kitaaba-deutarokanonikolslash-apokrifa-qabu","title":"KITAABA WAAQA KA KITAABA DEUTAROKANONIKOL/ APOKRIFA QABU","scope":null,"type":"web","provider":"Bible Society of Kenya","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"SOMBSK","bible_size_id":"FBD","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=3cb3e6f9a0b296ca","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null},{"bible_id":"SOMBSK","bible_size_id":"OT","bible_link_type":"archiveaudio","url":"https://app.thedigitalbiblelibrary.org/entry?id=48dda890dcb84a47","title":"The Borana Old Testament","scope":null,"type":"archiveaudio","provider":"Digital Bible Library","organization_id":"davar-partners-international","filesize":null,"response_code":null}],"pod":[],"alphabet":null,"children":[],"language":{"iso":"som","glotto_id":"soma1255","glotto_family":null,"iso1":"so","name":"Somali","autonym":"Af Soomaali","macroarea":null,"level":"L","development":null,"use":null,"location":"Djibouti, Eritrea and Ethiopia","area":"Widespread. Also in Canada, Djibouti, Ethiopia, Finland, Italy, Kenya, Oman, Saudi Arabia, Sweden, United Arab Emirates, United Kingdom, Yemen.","progress":"Full Bible\r","typology":null,"writing":null,"description":null,"country_id":"SO","latitude":"4.778704","longitude":"45.152856","population":16200000,"status_id":"1","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "SOMBSK",
+    "parent_bible_id": "",
+    "uuid": "37f0be19-8041-4724-ab18-1c330a7ea090",
+    "iso": "som",
+    "language": {
+        "name": "Somali"
+    },
+    "title": "Soomaali (Somali) Bible",
+    "title_vernacular": "KITAABA WAAQA",
+    "description": null,
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": "© Bible Society of Kenya, 2019",
+    "copyright_type": "",
+    "date": null,
+    "country_id": "SO",
+    "country": {
+        "name": "Somalia"
+    },
+    "alphabet": {
+        "name": "Latin",
+        "script": "Latn",
+        "fonts": []
+    },
+    "pod": [],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/2935-bor-kitaaba-waaqa",
+            "title": "KITAABA WAAQA",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Bible Society of Kenya",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://www.bible.com/versions/2943-bor-kitaaba-waaqa-ka-kitaaba-deutarokanonikolslash-apokrifa-qabu",
+            "title": "KITAABA WAAQA KA KITAABA DEUTAROKANONIKOL/ APOKRIFA QABU",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Bible Society of Kenya",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=3cb3e6f9a0b296ca",
+            "title": "Bible For Developers",
+            "scope": "FBD",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=48dda890dcb84a47",
+            "title": "The Borana Old Testament",
+            "scope": "OT",
+            "type": "archiveaudio",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "55fdebf1-84a2-49c7-8820-e29fe9925fc8",
+            "publisher": "Davar Partners International"
+        },
+        {
+            "url": "https://bible.com/versions/2935",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://bible.com/versions/2943",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "3cb3e6f9a0b296ca",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=3cb3e6f9a0b296ca"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "2935",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/2935"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "2943",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/2943"
+        }
+    ],
+    "books": null
+}

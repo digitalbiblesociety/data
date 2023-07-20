@@ -1,1 +1,119 @@
-{"id":"URDGEO","parent_bible_id":null,"gbc":null,"date":"2010","iso":"urd","title":"Urdu Geo Version (UGV)","title_vernacular":"اردو جیو ورژن","copyright":"© 2010, Geolink Resource Consultants, LLC","guid":null,"description":null,"description_short":null,"description_vernacular":null,"description_reviewed":0,"script":"Aran","versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":null,"reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":null,"links":[{"bible_id":"URDGEO","bible_size_id":null,"bible_link_type":"web","url":"http://alkalaam.net/","title":"Full Bible","scope":null,"type":"web","provider":"Alkalaam","organization_id":null,"filesize":null,"response_code":null},{"bible_id":"URDGEO","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/187-ugv-rdo-go-orn","title":"اردو جیو ورژن","scope":null,"type":"web","provider":"Geolink Resource Consultants","organization_id":"youversion","filesize":null,"response_code":null}],"pod":[],"alphabet":{"script":"Aran","name":"Arabic (Nastaliq variant)","unicode_pdf":null,"family":"Middle Eastern","type":"abjad","white_space":"between words","open_type_tag":"none","complex_positioning":"yes","requires_font":false,"unicode":true,"diacritics":true,"contextual_forms":true,"reordering":false,"case":null,"split_graphs":false,"status":"Current","baseline":"bottom","ligatures":"required","direction":"rtl","direction_notes":"RTL bidirectional","sample":null,"sample_img":null,"description":"<p>The Nastaliq variant of Arabic script is a cursive script, written horizontally but at a sloping angle where the longer the sequence of characters is in a calligraphically-connected cluster, the taller it becomes. It has short verticals and long horizontal strokes. Due to the slope and calligraphic style, placement of nuqtas (dots) on the base characters is forced to vary quite a bit among different letters and even different forms of the same letter. Words are separated by a space. </p> <p>The name (Nastaliq) is a composite of the names for the \\\\\\Naskh\\\\\\\" and \\\\\\\"Taliq\\\\\\\" styles of writing. Nastaliq is used in Afghanistan"},"children":[],"language":{"iso":"urd","glotto_id":"urdu1245","glotto_family":null,"iso1":"ur","name":"Urdu","autonym":"اُردُو","macroarea":null,"level":"L","development":null,"use":null,"location":"Bangladesh","area":"Widespread. Also in Afghanistan, Bahrain, Bangladesh, Botswana, Canada, Fiji, Germany, Guyana, India, Malawi, Mauritius, Nepal, Norway, Oman, Qatar, Saudi Arabia, South Africa, Thailand, United Arab Emirates, United Kingdom, United States, Zambia.","progress":"Full Bible\r","typology":null,"writing":null,"description":null,"country_id":"PK","latitude":"25.000000","longitude":"67.000000","population":68600000,"status_id":"1","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "URDGEO",
+    "parent_bible_id": "",
+    "uuid": "42ca6624-e1d2-41bc-af6d-62826d9be439",
+    "iso": "urd",
+    "language": {
+        "name": "Urdu"
+    },
+    "title": "Urdu Geo Version (UGV)",
+    "title_vernacular": "اردو جیو ورژن",
+    "description": null,
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": "© 2010, Geolink Resource Consultants, LLC",
+    "copyright_type": "",
+    "date": null,
+    "country_id": "PK",
+    "country": {
+        "name": "Pakistan"
+    },
+    "alphabet": {
+        "name": "Arabic (Nastaliq variant)",
+        "script": "Aran",
+        "fonts": []
+    },
+    "pod": [
+        {
+            "publisher_id": null,
+            "partner_id": null,
+            "description": null,
+            "trim": "us_trade",
+            "scope": "bible",
+            "pages": 1,
+            "print_ready": 0,
+            "print_banned": 0
+        }
+    ],
+    "links": [
+        {
+            "url": "http://alkalaam.net/",
+            "title": "Full Bible",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Alkalaam",
+            "publisher_id": null,
+            "publisher": null
+        },
+        {
+            "url": "https://www.bible.com/versions/187-ugv-rdo-go-orn",
+            "title": "اردو جیو ورژن",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Geolink Resource Consultants",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://bible.com/versions/187",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://dbs.org/bibles/URDGEO",
+            "title": "eBook Downloads",
+            "scope": null,
+            "type": null,
+            "filesize": null,
+            "provider": null,
+            "publisher_id": "93619ca8-7f05-48dc-995c-6f46cdc94918",
+            "publisher": "Digital Bible Society"
+        },
+        {
+            "url": "https://www.crosswire.org/sword/modules/ModInfo.jsp?modName=UrduGeo",
+            "title": "Crosswire Module",
+            "scope": null,
+            "type": null,
+            "filesize": null,
+            "provider": "The Sword Project",
+            "publisher_id": "dde7cec9-f63e-4370-b4b6-a841c44adda2",
+            "publisher": "CrossWire"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "9696ef31-b54c-4a20-82ab-f1b8a527e48a",
+            "equivalent_id": "187",
+            "site": "biblegateway.com",
+            "suffix": "",
+            "type": "web-app",
+            "url": ""
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "187",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/187"
+        },
+        {
+            "organization_id": "dde7cec9-f63e-4370-b4b6-a841c44adda2",
+            "equivalent_id": "UrduGeo",
+            "site": null,
+            "suffix": null,
+            "type": null,
+            "url": null
+        }
+    ],
+    "books": null
+}

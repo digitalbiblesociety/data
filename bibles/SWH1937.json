@@ -1,1 +1,80 @@
-{"id":"SWH1937","parent_bible_id":null,"gbc":null,"date":"1937","iso":"swh","title":"Swahili Roehl Bible 1937","title_vernacular":"Kiswahili Roehl Bible 1937","copyright":"Public Domain","guid":null,"description":"Swahili Roehl Bible 1937 © Bible Society of Tanzania, 1937.","description_short":null,"description_vernacular":"","description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":"OPEN","reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"SWH1937","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/3049-srb37-swahili-roehl-bible-1937","title":"Swahili Roehl Bible 1937","scope":null,"type":"web","provider":"Bible Society of Tanzania","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"SWH1937","bible_size_id":"FB","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=9459b7aebb5e1657","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null}],"pod":[],"alphabet":null,"children":[],"language":{"iso":"swh","glotto_id":"swah1253","glotto_family":null,"iso1":null,"name":"Swahili (Coastal)","autonym":"Kiswahili","macroarea":null,"level":"L","development":null,"use":null,"location":"Kenya","area":"Zanzibar, coastal areas. Also in Burundi, Canada, Kenya, Libya, Mayotte, Mozambique, Oman, Rwanda, Somalia, South Africa, Uganda, United Arab Emirates, United States.","progress":"Full Bible\r","typology":null,"writing":null,"description":null,"country_id":"TZ","latitude":"-8.256053","longitude":"37.624033","population":16335000,"status_id":"1","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "SWH1937",
+    "parent_bible_id": "",
+    "uuid": "10bb1a97-5811-4c35-a6c9-da5d536b7c30",
+    "iso": "swh",
+    "language": {
+        "name": "Swahili (Coastal)"
+    },
+    "title": "Swahili Roehl Bible 1937",
+    "title_vernacular": "Kiswahili Roehl Bible 1937",
+    "description": "Swahili Roehl Bible 1937 © Bible Society of Tanzania, 1937.",
+    "description_short": "",
+    "description_vernacular": "",
+    "copyright": "Public Domain",
+    "copyright_type": "OPEN",
+    "date": null,
+    "country_id": "TZ",
+    "country": {
+        "name": "Tanzania"
+    },
+    "alphabet": {
+        "name": "Latin",
+        "script": "Latn",
+        "fonts": []
+    },
+    "pod": [],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/3049-srb37-swahili-roehl-bible-1937",
+            "title": "Swahili Roehl Bible 1937",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Bible Society of Tanzania",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=9459b7aebb5e1657",
+            "title": "Bible For Developers",
+            "scope": "FB",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://bible.com/versions/3049",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "9459b7aebb5e1657",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=9459b7aebb5e1657"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "3049",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/3049"
+        }
+    ],
+    "books": null
+}

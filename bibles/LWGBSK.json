@@ -1,1 +1,108 @@
-{"id":"LWGBSK","parent_bible_id":null,"gbc":null,"date":"2013","iso":"lwg","title":"Oluluhya (Luhya) Bible","title_vernacular":"IBIBILIA INDAKATIFU","copyright":"© Bible Society of Kenya","guid":null,"description":"","description_short":null,"description_vernacular":"","description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":"","reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"LWGBSK","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/2656-olupr-ibibilia-indakatifu","title":"IBIBILIA INDAKATIFU","scope":null,"type":"web","provider":"Bible Society of Kenya","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"LWGBSK","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/2659-oludc-ibibilia-indakatifu-dc","title":"IBIBILIA INDAKATIFU DC","scope":null,"type":"web","provider":"Bible Society of Kenya","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"LWGBSK","bible_size_id":"FBD","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=3238b26742542d81","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null}],"pod":[],"alphabet":null,"children":[],"language":{"iso":"lwg","glotto_id":"wang1294","glotto_family":null,"iso1":null,"name":"Wanga","autonym":"Luyia","macroarea":null,"level":"L","development":null,"use":null,"location":"Kenya","area":"Western Province, Butere-Mumias District.","progress":"Full Bible\r","typology":null,"writing":null,"description":null,"country_id":"KE","latitude":null,"longitude":null,"population":0,"status_id":"4","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "LWGBSK",
+    "parent_bible_id": null,
+    "uuid": "a0c8f7d1-8f8a-4f76-8587-4c4df7e8f265",
+    "iso": "lwg",
+    "language": {
+        "name": "Wanga"
+    },
+    "title": "Oluluhya (Luhya) Bible",
+    "title_vernacular": "IBIBILIA INDAKATIFU",
+    "description": null,
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": "© Bible Society of Kenya",
+    "copyright_type": null,
+    "date": null,
+    "country_id": "KE",
+    "country": {
+        "name": "Kenya"
+    },
+    "alphabet": {
+        "name": "Latin",
+        "script": "Latn",
+        "fonts": []
+    },
+    "pod": [],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/2656-olupr-ibibilia-indakatifu",
+            "title": "IBIBILIA INDAKATIFU",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Bible Society of Kenya",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://www.bible.com/versions/2659-oludc-ibibilia-indakatifu-dc",
+            "title": "IBIBILIA INDAKATIFU DC",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Bible Society of Kenya",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=3238b26742542d81",
+            "title": "Bible For Developers",
+            "scope": "FBD",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://bible.com/versions/2656",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://bible.com/versions/2659",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "3238b26742542d81",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=3238b26742542d81"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "2656",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/2656"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "2659",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/2659"
+        }
+    ],
+    "books": null
+}

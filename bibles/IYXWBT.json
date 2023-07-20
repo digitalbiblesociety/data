@@ -1,1 +1,121 @@
-{"id":"IYXWBT","parent_bible_id":null,"gbc":null,"date":"2017","iso":"iyx","title":"iyxYAK Bible","title_vernacular":"Ndaa Yimbwe (BIYILUU)","copyright":"© Wycliffe Bible Translators, Inc.","guid":null,"description":"","description_short":null,"description_vernacular":"","description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":"","reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"IYXWBT","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/3035-iyxyak-ndaa-yimbwe","title":"Ndaa Yimbwe (BIYILUU)","scope":null,"type":"web","provider":"Wycliffe Bible Translators, Inc.","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"IYXWBT","bible_size_id":"P","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=ec8ec0b2db331726","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null},{"bible_id":"IYXWBT","bible_size_id":"NT","bible_link_type":"archiveaudio","url":"https://app.thedigitalbiblelibrary.org/entry?id=488c67dfbe724f5a","title":"Projet de traduction d&#x27;un Nouveau Testament en langue Yaka","scope":null,"type":"archiveaudio","provider":"Digital Bible Library","organization_id":"wycliffe-bible-translators-inc","filesize":null,"response_code":null}],"pod":[{"bible_id":"IYXWBT","publisher_id":"wycliffe-bible-translators-inc","partner_id":null,"description":"This Bible is copyrighted by Wycliffe Bible Translators (Wycliffe. org) and is printed with permission by the Digital Bible Society for non-commercial use. This Bible is available for free download in a variety of digital formats at dbs. org/bibles. ","trim":"us_trade","scope":"bible","pages":53,"print_ready":0,"print_banned":0,"portion":0,"columns":2,"font":null,"font_bold":null,"font_format":null,"font_size":null,"orphans":0,"widows":0,"line_height":1.25,"counter_style":null,"justified":null,"justified_cjk":null,"cover_filter":null,"custom_styles":null},{"bible_id":"IYXWBT","publisher_id":"wycliffe-bible-translators-inc","partner_id":null,"description":"This Bible is copyrighted by Wycliffe Bible Translators (Wycliffe. org) and is printed with permission by the Digital Bible Society for non-commercial use. This Bible is available for free download in a variety of digital formats at dbs. org/bibles. ","trim":"us_letter","scope":"bible","pages":0,"print_ready":0,"print_banned":0,"portion":0,"columns":2,"font":null,"font_bold":null,"font_format":null,"font_size":null,"orphans":0,"widows":0,"line_height":1.25,"counter_style":null,"justified":null,"justified_cjk":null,"cover_filter":null,"custom_styles":null}],"alphabet":null,"children":[],"language":{"iso":"iyx","glotto_id":"yaka1274","glotto_family":null,"iso1":null,"name":"Yaka (Congo)","autonym":"Iyaka","macroarea":null,"level":"L","development":null,"use":null,"location":"Congo","area":"Lekoumou region, Sibiti area.","progress":"Portions\r","typology":null,"writing":null,"description":null,"country_id":"CG","latitude":"-3.733010","longitude":"13.363660","population":10000,"status_id":"6a","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "IYXWBT",
+    "parent_bible_id": null,
+    "uuid": "dcba9d15-4df6-4337-bb4c-116c9f32ba4f",
+    "iso": "iyx",
+    "language": {
+        "name": "Yaka (Congo)"
+    },
+    "title": "iyxYAK Bible",
+    "title_vernacular": "Ndaa Yimbwe (BIYILUU)",
+    "description": null,
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": "© Wycliffe Bible Translators, Inc.",
+    "copyright_type": null,
+    "date": null,
+    "country_id": "CG",
+    "country": {
+        "name": "Congo"
+    },
+    "alphabet": {
+        "name": "Latin",
+        "script": "Latn",
+        "fonts": []
+    },
+    "pod": [
+        {
+            "publisher_id": "048ddebe-a8fa-4370-914d-79a119447d49",
+            "partner_id": null,
+            "description": "This Bible is copyrighted by Wycliffe Bible Translators (Wycliffe. org) and is printed with permission by the Digital Bible Society for non-commercial use. This Bible is available for free download in a variety of digital formats at dbs. org/bibles. ",
+            "trim": "us_trade",
+            "scope": "bible",
+            "pages": 67,
+            "print_ready": 0,
+            "print_banned": 0
+        },
+        {
+            "publisher_id": "048ddebe-a8fa-4370-914d-79a119447d49",
+            "partner_id": null,
+            "description": "This Bible is copyrighted by Wycliffe Bible Translators (Wycliffe. org) and is printed with permission by the Digital Bible Society for non-commercial use. This Bible is available for free download in a variety of digital formats at dbs. org/bibles. ",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 0,
+            "print_ready": 0,
+            "print_banned": 0
+        }
+    ],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/3035-iyxyak-ndaa-yimbwe",
+            "title": "Ndaa Yimbwe (BIYILUU)",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Wycliffe Bible Translators, Inc.",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=ec8ec0b2db331726",
+            "title": "Bible For Developers",
+            "scope": "P",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=488c67dfbe724f5a",
+            "title": "Projet de traduction d&#x27;un Nouveau Testament en langue Yaka",
+            "scope": "NT",
+            "type": "archiveaudio",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "048ddebe-a8fa-4370-914d-79a119447d49",
+            "publisher": "Wycliffe Bible Translators USA"
+        },
+        {
+            "url": "https://bible.com/versions/3035",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://dbs.org/bibles/IYXWBT",
+            "title": "eBook Downloads",
+            "scope": null,
+            "type": null,
+            "filesize": null,
+            "provider": null,
+            "publisher_id": "93619ca8-7f05-48dc-995c-6f46cdc94918",
+            "publisher": "Digital Bible Society"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "ec8ec0b2db331726",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=ec8ec0b2db331726"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "3035",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/3035"
+        }
+    ],
+    "books": null
+}

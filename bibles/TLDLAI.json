@@ -1,1 +1,90 @@
-{"id":"TLDLAI","parent_bible_id":null,"gbc":null,"date":"2003","iso":"tld","title":"Talaudan Bible (Talaud)","title_vernacular":"WUKE SUSI WATTI'U AL᷊AL᷊USASSA","copyright":"© 2003 LAI, Indonesian Bible Society ","guid":null,"description":"","description_short":null,"description_vernacular":"","description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":"","reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"TLDLAI","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/2898-laitld-wuke-susi-wattiu-alalusassa","title":"WUKE SUSI WATTI'U AL᷊AL᷊USASSA","scope":null,"type":"web","provider":"Indonesian Bible Society","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"TLDLAI","bible_size_id":"FB","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=20023ad93a96ef9f","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null},{"bible_id":"TLDLAI","bible_size_id":null,"bible_link_type":"historic","url":"https://archive.org/download/TLDLAI_DBS_HS/Talaud-New-Testament-(print).pdf","title":"Talaud - New Testament (Print)","scope":null,"type":"historic","provider":"","organization_id":"gospelgo","filesize":4219884,"response_code":null}],"pod":[],"alphabet":null,"children":[],"language":{"iso":"tld","glotto_id":"tala1285","glotto_family":null,"iso1":null,"name":"Talaud","autonym":"Talaur","macroarea":null,"level":"L","development":null,"use":null,"location":"Indonesia, Sulawesi","area":"North Sulawesi, Talaud Islands northeast of Sangihe Islands.","progress":"Full Bible\r","typology":null,"writing":null,"description":null,"country_id":"ID","latitude":"4.118460","longitude":"126.794670","population":52100,"status_id":"5","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "TLDLAI",
+    "parent_bible_id": "",
+    "uuid": "0b4ac953-8b8c-473d-b84b-593d25685637",
+    "iso": "tld",
+    "language": {
+        "name": "Talaud"
+    },
+    "title": "Talaudan Bible (Talaud)",
+    "title_vernacular": "WUKE SUSI WATTI'U AL᷊AL᷊USASSA",
+    "description": null,
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": "© 2003 LAI, Indonesian Bible Society ",
+    "copyright_type": "",
+    "date": null,
+    "country_id": "ID",
+    "country": {
+        "name": "Indonesia"
+    },
+    "alphabet": {
+        "name": "Latin",
+        "script": "Latn",
+        "fonts": []
+    },
+    "pod": [],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/2898-laitld-wuke-susi-wattiu-alalusassa",
+            "title": "WUKE SUSI WATTI'U AL᷊AL᷊USASSA",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Indonesian Bible Society",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=20023ad93a96ef9f",
+            "title": "Bible For Developers",
+            "scope": "FB",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://archive.org/download/TLDLAI_DBS_HS/Talaud-New-Testament-(print).pdf",
+            "title": "Talaud - New Testament (Print)",
+            "scope": "",
+            "type": "historic",
+            "filesize": "4219884",
+            "provider": "",
+            "publisher_id": "e1c3d43c-728e-4f90-be74-af4ec38c554d",
+            "publisher": "GospelGo"
+        },
+        {
+            "url": "https://bible.com/versions/2898",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "20023ad93a96ef9f",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=20023ad93a96ef9f"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "2898",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/2898"
+        }
+    ],
+    "books": null
+}

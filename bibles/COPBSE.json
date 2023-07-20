@@ -1,1 +1,80 @@
-{"id":"COPBSE","parent_bible_id":null,"gbc":null,"date":"2018","iso":"cop","title":"Coptic New Testament (العهد الجديد)","title_vernacular":"ϯⲙⲉⲧⲣⲉⲙⲛ̀ⲭⲏⲙⲓ","copyright":"© Bible Society of Egypt, 2016-2018","guid":null,"description":"","description_short":null,"description_vernacular":"دار الكتاب المقدس (٢٠١٨)","description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":"","reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"COPBSE","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/2915-cntv-laahd-lgdyd","title":"ϯⲙⲉⲧⲣⲉⲙⲛ̀ⲭⲏⲙⲓ","scope":null,"type":"web","provider":"Bible Society of Egypt","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"COPBSE","bible_size_id":"NT","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=9a18e4e22edb23d4","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null}],"pod":[],"alphabet":null,"children":[],"language":{"iso":"cop","glotto_id":"copt1239","glotto_family":null,"iso1":null,"name":"Coptic","autonym":"ϯⲙⲉⲧⲣⲉⲙⲛ̀ⲭⲏⲙⲓ ~ ⲧⲙⲛ̄ⲧⲣⲙ̄ⲛ̄ⲕⲏⲙⲉ","macroarea":null,"level":"E","development":null,"use":null,"location":null,"area":"","progress":"New Testament\r","typology":null,"writing":null,"description":null,"country_id":"EG","latitude":"29.472030","longitude":"31.205300","population":0,"status_id":"9","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "COPBSE",
+    "parent_bible_id": null,
+    "uuid": "fa00ba33-e470-4909-8c46-e019b19b72f2",
+    "iso": "cop",
+    "language": {
+        "name": "Coptic"
+    },
+    "title": "Coptic New Testament (العهد الجديد)",
+    "title_vernacular": "ϯⲙⲉⲧⲣⲉⲙⲛ̀ⲭⲏⲙⲓ",
+    "description": null,
+    "description_short": null,
+    "description_vernacular": "دار الكتاب المقدس (٢٠١٨)",
+    "copyright": "© Bible Society of Egypt, 2016-2018",
+    "copyright_type": null,
+    "date": null,
+    "country_id": "EG",
+    "country": {
+        "name": "Egypt"
+    },
+    "alphabet": {
+        "name": "Coptic",
+        "script": "Copt",
+        "fonts": []
+    },
+    "pod": [],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/2915-cntv-laahd-lgdyd",
+            "title": "ϯⲙⲉⲧⲣⲉⲙⲛ̀ⲭⲏⲙⲓ",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Bible Society of Egypt",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=9a18e4e22edb23d4",
+            "title": "Bible For Developers",
+            "scope": "NT",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://bible.com/versions/2915",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "9a18e4e22edb23d4",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=9a18e4e22edb23d4"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "2915",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/2915"
+        }
+    ],
+    "books": null
+}

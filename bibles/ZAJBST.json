@@ -1,1 +1,80 @@
-{"id":"ZAJBST","parent_bible_id":null,"gbc":null,"date":"1975","iso":"zaj","title":"New Testament in Zaramo","title_vernacular":"Lagano da Isambi","copyright":" © United Bible Societies, 1975.","guid":null,"description":"","description_short":null,"description_vernacular":"","description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":"","reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"ZAJBST","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/2689-zam75-lagano-da-isambi","title":"Lagano da Isambi","scope":null,"type":"web","provider":"Bible Society of Tanzania","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"ZAJBST","bible_size_id":"NT","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=6ff83dcf587ea0f5","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null}],"pod":[],"alphabet":null,"children":[],"language":{"iso":"zaj","glotto_id":"zara1247","glotto_family":null,"iso1":null,"name":"Zaramo","autonym":"Dzalamo","macroarea":null,"level":"L","development":null,"use":null,"location":"Tanzania","area":"East central coast, Pwani region, Kisarawe and Bagamoyo districts, between Bagamoyo and Dar es Salaam.","progress":"New Testament\r","typology":null,"writing":null,"description":null,"country_id":"TZ","latitude":"-6.877050","longitude":"38.925780","population":657000,"status_id":"8a","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "ZAJBST",
+    "parent_bible_id": "",
+    "uuid": "5591f4b9-de1e-40b0-9b33-3e44b261d6a4",
+    "iso": "zaj",
+    "language": {
+        "name": "Zaramo"
+    },
+    "title": "New Testament in Zaramo",
+    "title_vernacular": "Lagano da Isambi",
+    "description": null,
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": " © United Bible Societies, 1975.",
+    "copyright_type": "",
+    "date": null,
+    "country_id": "TZ",
+    "country": {
+        "name": "Tanzania"
+    },
+    "alphabet": {
+        "name": "Latin",
+        "script": "Latn",
+        "fonts": []
+    },
+    "pod": [],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/2689-zam75-lagano-da-isambi",
+            "title": "Lagano da Isambi",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Bible Society of Tanzania",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=6ff83dcf587ea0f5",
+            "title": "Bible For Developers",
+            "scope": "NT",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://bible.com/versions/2689",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "6ff83dcf587ea0f5",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=6ff83dcf587ea0f5"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "2689",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/2689"
+        }
+    ],
+    "books": null
+}

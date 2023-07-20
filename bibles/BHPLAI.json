@@ -1,1 +1,90 @@
-{"id":"BHPLAI","parent_bible_id":null,"gbc":null,"date":"2002","iso":"bhp","title":"Bima (Nggahi Mbojo) New Testament","title_vernacular":"KITAB SUCI INJIL","copyright":"© LAI, 2002, Indonesian Bible Society","guid":null,"description":"If you are interested this text please contact Indonesian Bible Society, email: info@alkitab.or.id","description_short":null,"description_vernacular":"","description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":"","reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"BHPLAI","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/2842-laibhp-kitab-suci-injil","title":"KITAB SUCI INJIL","scope":null,"type":"web","provider":"Indonesian Bible Society","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"BHPLAI","bible_size_id":"NT","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=1811d3ce8a455e3a","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null},{"bible_id":"BHPLAI","bible_size_id":null,"bible_link_type":"historic","url":"https://archive.org/download/BHPLAI_DBS_HS/Bima-New-Testament-(print).pdf","title":"Bima - New Testament (Print)","scope":null,"type":"historic","provider":"","organization_id":"gospelgo","filesize":2524264,"response_code":null}],"pod":[],"alphabet":null,"children":[],"language":{"iso":"bhp","glotto_id":"bima1247","glotto_family":null,"iso1":null,"name":"Bima","autonym":"Nggahi Mbojo","macroarea":null,"level":"L","development":null,"use":null,"location":"Indonesia, Nusa Tenggara and Southwestern Maluku","area":"Sunda Islands, east Sumbawa Island, east of the isthmus.","progress":"New Testament\r","typology":null,"writing":null,"description":null,"country_id":"ID","latitude":"-8.573760","longitude":"118.445070","population":500000,"status_id":"5","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "BHPLAI",
+    "parent_bible_id": null,
+    "uuid": "4f1a6d25-b7c5-4a6a-970a-e66c8b5a3f4d",
+    "iso": "bhp",
+    "language": {
+        "name": "Bima"
+    },
+    "title": "Bima (Nggahi Mbojo) New Testament",
+    "title_vernacular": "KITAB SUCI INJIL",
+    "description": "If you are interested this text please contact Indonesian Bible Society, email: info@alkitab.or.id",
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": "© LAI, 2002, Indonesian Bible Society",
+    "copyright_type": null,
+    "date": null,
+    "country_id": "ID",
+    "country": {
+        "name": "Indonesia"
+    },
+    "alphabet": {
+        "name": "Latin",
+        "script": "Latn",
+        "fonts": []
+    },
+    "pod": [],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/2842-laibhp-kitab-suci-injil",
+            "title": "KITAB SUCI INJIL",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Indonesian Bible Society",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=1811d3ce8a455e3a",
+            "title": "Bible For Developers",
+            "scope": "NT",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://archive.org/download/BHPLAI_DBS_HS/Bima-New-Testament-(print).pdf",
+            "title": "Bima - New Testament (Print)",
+            "scope": "",
+            "type": "historic",
+            "filesize": "2524264",
+            "provider": "",
+            "publisher_id": "e1c3d43c-728e-4f90-be74-af4ec38c554d",
+            "publisher": "GospelGo"
+        },
+        {
+            "url": "https://bible.com/versions/2842",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "1811d3ce8a455e3a",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=1811d3ce8a455e3a"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "2842",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/2842"
+        }
+    ],
+    "books": null
+}

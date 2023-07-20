@@ -1,1 +1,80 @@
-{"id":"CNSLAI","parent_bible_id":null,"gbc":null,"date":"1985","iso":"cns","title":"Central Asmat New Testament","title_vernacular":"AY ATAYI","copyright":"© LAI, 1985, Indonesian Bible Society","guid":null,"description":"If you are interested this text please contact Indonesian Bible Society, email: info@alkitab.or.id","description_short":null,"description_vernacular":"","description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":"","reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"CNSLAI","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/2849-laicns-ay-atayi","title":"AY ATAYI","scope":null,"type":"web","provider":"Indonesian Bible Society","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"CNSLAI","bible_size_id":"NT","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=62bdf03233c9bf7a","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null}],"pod":[],"alphabet":null,"children":[],"language":{"iso":"cns","glotto_id":"cent2117","glotto_family":null,"iso1":null,"name":"Central Asmat","autonym":"Jas","macroarea":null,"level":"L","development":null,"use":null,"location":"Indonesia, Eastern Papua","area":"Asmat Regency; Sawa-Erma, Agats, Atsy, and Pantai Kasuari subdistricts. South coast from Owap River northwest to Farec River southwest, inland toward the foothills and inland. Also Mappi Regency coast, Nambai and Edera subdistricts, south of Yaqay [jaq] language.","progress":"New Testament\r","typology":null,"writing":null,"description":null,"country_id":"ID","latitude":"-5.803910","longitude":"138.471070","population":7000,"status_id":"6b","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "CNSLAI",
+    "parent_bible_id": null,
+    "uuid": "f60a6aad-07dc-443e-a84e-bffd05033a53",
+    "iso": "cns",
+    "language": {
+        "name": "Central Asmat"
+    },
+    "title": "Central Asmat New Testament",
+    "title_vernacular": "AY ATAYI",
+    "description": "If you are interested this text please contact Indonesian Bible Society, email: info@alkitab.or.id",
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": "© LAI, 1985, Indonesian Bible Society",
+    "copyright_type": null,
+    "date": null,
+    "country_id": "ID",
+    "country": {
+        "name": "Indonesia"
+    },
+    "alphabet": {
+        "name": "Latin",
+        "script": "Latn",
+        "fonts": []
+    },
+    "pod": [],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/2849-laicns-ay-atayi",
+            "title": "AY ATAYI",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Indonesian Bible Society",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=62bdf03233c9bf7a",
+            "title": "Bible For Developers",
+            "scope": "NT",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://bible.com/versions/2849",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "62bdf03233c9bf7a",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=62bdf03233c9bf7a"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "2849",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/2849"
+        }
+    ],
+    "books": null
+}

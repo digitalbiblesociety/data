@@ -1,1 +1,80 @@
-{"id":"TONTMB","parent_bible_id":null,"gbc":null,"date":"2011","iso":"ton","title":"Tongan Moulton Bible","title_vernacular":"KO E TOHITAPU KATOA","copyright":"© Bible Society of the South Pacific, 2011.","guid":null,"description":"","description_short":null,"description_vernacular":"","description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":"","reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"TONTMB","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/1307-tmb-ko-e-tohitapu-katoa","title":"Tongan Moulton Bible","scope":null,"type":"web","provider":"Bible Society of the South Pacific","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"TONTMB","bible_size_id":"FB","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=f0c3ef97bee1a307","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null}],"pod":[],"alphabet":null,"children":[],"language":{"iso":"ton","glotto_id":"tong1325","glotto_family":null,"iso1":"to","name":"Tonga (Tonga Islands)","autonym":"lea faka-Tonga","macroarea":null,"level":"L","development":null,"use":null,"location":"Tonga","area":"Also in American Samoa, Australia, Canada, Fiji, New Zealand, Niue, United States, Vanuatu.","progress":"Full Bible\r","typology":null,"writing":null,"description":null,"country_id":"TO","latitude":"-21.170000","longitude":"-175.250000","population":189740,"status_id":"1","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "TONTMB",
+    "parent_bible_id": "",
+    "uuid": "49d954db-cb40-4d3c-8e5a-bf39bfcf6cb0",
+    "iso": "ton",
+    "language": {
+        "name": "Tonga (Tonga Islands)"
+    },
+    "title": "Tongan Moulton Bible",
+    "title_vernacular": "KO E TOHITAPU KATOA",
+    "description": null,
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": "© Bible Society of the South Pacific, 2011.",
+    "copyright_type": "",
+    "date": null,
+    "country_id": "TO",
+    "country": {
+        "name": "Tonga"
+    },
+    "alphabet": {
+        "name": "Latin",
+        "script": "Latn",
+        "fonts": []
+    },
+    "pod": [],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/1307-tmb-ko-e-tohitapu-katoa",
+            "title": "Tongan Moulton Bible",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Bible Society of the South Pacific",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=f0c3ef97bee1a307",
+            "title": "Bible For Developers",
+            "scope": "FB",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://bible.com/versions/1307",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "f0c3ef97bee1a307",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=f0c3ef97bee1a307"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "1307",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/1307"
+        }
+    ],
+    "books": null
+}

@@ -1,1 +1,80 @@
-{"id":"YAEGLP","parent_bible_id":null,"gbc":null,"date":"2021","iso":"yae","title":"Pume (Yaruro) Bible","title_vernacular":"Biblia Pumé","copyright":"© 2021 Global Partners, All Rights Reserved","guid":null,"description":"","description_short":null,"description_vernacular":"","description_reviewed":0,"script":null,"versification":null,"numeral_system_id":"default","country_id":null,"copyright_type":"","reviewed":0,"isbn13":null,"back_text":null,"cover":null,"questionable":0,"links":[{"bible_id":"YAEGLP","bible_size_id":null,"bible_link_type":"web","url":"https://www.bible.com/versions/2984-pume-biblia-pume","title":"Biblia Pume","scope":null,"type":"web","provider":"Global Partners","organization_id":"youversion","filesize":null,"response_code":null},{"bible_id":"YAEGLP","bible_size_id":"NTP","bible_link_type":"archive","url":"https://app.thedigitalbiblelibrary.org/entry?id=accae489c47e93fc","title":"Bible For Developers","scope":null,"type":"archive","provider":"Digital Bible Library","organization_id":"digital-bible-library","filesize":null,"response_code":null}],"pod":[],"alphabet":null,"children":[],"language":{"iso":"yae","glotto_id":"pume1238","glotto_family":null,"iso1":null,"name":"Pumé","autonym":"Pumé","macroarea":null,"level":"L","development":null,"use":null,"location":"Venezuela","area":"Orinoco, Sinaruco, Meta, and Apure rivers, Amazonas and Apure states.","progress":"New Testament\r","typology":null,"writing":null,"description":null,"country_id":"VE","latitude":"7.106770","longitude":"-67.599580","population":5840,"status_id":"6a","status_notes":null,"redirect_to_iso":null},"country":null}
+{
+    "id": "YAEGLP",
+    "parent_bible_id": "",
+    "uuid": "819ef404-f789-4f80-bb73-dc85c5033df7",
+    "iso": "yae",
+    "language": {
+        "name": "Pumé"
+    },
+    "title": "Pume (Yaruro) Bible",
+    "title_vernacular": "Biblia Pumé",
+    "description": null,
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": "© 2021 Global Partners, All Rights Reserved",
+    "copyright_type": "",
+    "date": null,
+    "country_id": "VE",
+    "country": {
+        "name": "Venezuela"
+    },
+    "alphabet": {
+        "name": "Latin",
+        "script": "Latn",
+        "fonts": []
+    },
+    "pod": [],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/2984-pume-biblia-pume",
+            "title": "Biblia Pume",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Global Partners",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=accae489c47e93fc",
+            "title": "Bible For Developers",
+            "scope": "NTP",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://bible.com/versions/2984",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "accae489c47e93fc",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=accae489c47e93fc"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "2984",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/2984"
+        }
+    ],
+    "books": null
+}
