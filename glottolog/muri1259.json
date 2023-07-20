@@ -1,0 +1,85 @@
+{
+  "pk": 9211,
+  "hid": "mxr",
+  "father_pk": 6711,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Huang Bau [huan1252]':1,'Merap [mera1243]':1,('Long Banyuq [long1403]':1,'Long Semiang [long1402]':1)'Ngorek [ngor1244]':1,'Pua'' [puaa1234]':1)'Murik {Malaysia} [muri1259][mxr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3328150",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Murik_Kayan_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "589145",
+        "phonology_or_text",
+        2019,
+        163,
+        "Radjaban, R. Yohanes 2019"
+      ],
+      [
+        "305272",
+        "wordlist_or_less",
+        1974,
+        19,
+        "Blust, Robert A. 1974"
+      ],
+      [
+        "152254",
+        "wordlist_or_less",
+        1912,
+        2,
+        "R. S. Douglas 1912"
+      ]
+    ]
+  },
+  "id": "muri1259",
+  "name": "Murik (Malaysia)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 3.7519,
+  "longitude": 114.434,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "North Borneo Malayo-Polynesian",
+      "id": "nort3253",
+      "url": "https://glottolog.org/resource/languoid/id/nort3253"
+    },
+    {
+      "name": "Kayan-Murik-Modang",
+      "id": "kaya1335",
+      "url": "https://glottolog.org/resource/languoid/id/kaya1335"
+    },
+    {
+      "name": "Kayan-Murik",
+      "id": "kaya1336",
+      "url": "https://glottolog.org/resource/languoid/id/kaya1336"
+    }
+  ],
+  "iso639-3": "mxr"
+}

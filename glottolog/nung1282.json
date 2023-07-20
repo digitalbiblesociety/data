@@ -1,0 +1,97 @@
+{
+  "pk": 4999,
+  "hid": "nun",
+  "father_pk": 3183,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Byabe [byab1238]':1,'Cholo [chol1277]':1,'Gwaza [gwaz1238]':1,'Kizolo [kizo1238]':1,'Miko [miko1239]':1,'Nora [nora1239]':1)'Nung {Myanmar} [nung1282][nun]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4904",
+        "label": "Anong"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2748232",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nung_language_(Sino-Tibetan)",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ano",
+        "label": "Anong"
+      }
+    ],
+    "meds": [
+      [
+        "125579",
+        "long_grammar",
+        2009,
+        408,
+        "Hongkai Sun and Guangkun Liu 2009"
+      ],
+      [
+        "320105",
+        "grammar",
+        2005,
+        290,
+        "Hongkai Sun 2005"
+      ],
+      [
+        "322426",
+        "grammar_sketch",
+        1998,
+        76,
+        "Yunnansheng difangzhi bianzuan weiyuanhui 1998"
+      ],
+      [
+        "46314",
+        "grammar_sketch",
+        1988,
+        37,
+        "Sun, Hongkai 1988"
+      ],
+      [
+        "311905",
+        "wordlist_or_less",
+        1883,
+        25,
+        "Peal, S. E. 1883"
+      ]
+    ]
+  },
+  "id": "nung1282",
+  "name": "Nung (Myanmar)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.2887,
+  "longitude": 98.7333,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Nungish",
+      "id": "nung1293",
+      "url": "https://glottolog.org/resource/languoid/id/nung1293"
+    },
+    {
+      "name": "Gunong",
+      "id": "guno1235",
+      "url": "https://glottolog.org/resource/languoid/id/guno1235"
+    }
+  ],
+  "iso639-3": "nun"
+}

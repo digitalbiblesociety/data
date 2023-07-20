@@ -1,0 +1,56 @@
+{
+  "pk": 2823,
+  "hid": "pml",
+  "father_pk": 1333,
+  "family_pk": 260,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Pidgin",
+  "newick": "'Mediterranean Lingua Franca [ling1242][pml]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q636479",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mediterranean_Lingua_Franca",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "300110",
+        "grammar_sketch",
+        1830,
+        113,
+        "Anonymous 1830"
+      ]
+    ]
+  },
+  "id": "ling1242",
+  "name": "Mediterranean Lingua Franca",
+  "description": null,
+  "markup_description": null,
+  "latitude": 33.8613,
+  "longitude": 10.8531,
+  "classification": [
+    {
+      "name": "Pidgin",
+      "id": "pidg1258",
+      "url": "https://glottolog.org/resource/languoid/id/pidg1258"
+    },
+    {
+      "name": "Romance-based pidgin",
+      "id": "roma1335",
+      "url": "https://glottolog.org/resource/languoid/id/roma1335"
+    }
+  ],
+  "iso639-3": "pml"
+}

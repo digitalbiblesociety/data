@@ -1,0 +1,90 @@
+{
+  "pk": 13315,
+  "hid": "nct",
+  "father_pk": 10243,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Chothe [chot1239][nct]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q5105385",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Chothe_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "552209",
+        "long_grammar",
+        2000,
+        336,
+        "Singh, Hidam Brojen 2000"
+      ],
+      [
+        "104329",
+        "wordlist_or_less",
+        1846,
+        10,
+        "Latter, Thomas 1846"
+      ],
+      [
+        "90875",
+        "wordlist_or_less",
+        1841,
+        3,
+        "Phayre, Arthur Purvis 1841"
+      ]
+    ]
+  },
+  "id": "chot1239",
+  "name": "Chothe",
+  "description": null,
+  "markup_description": null,
+  "latitude": 24.3722,
+  "longitude": 94.2408,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Kuki-Chin",
+      "id": "kuki1246",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1246"
+    },
+    {
+      "name": "Northwestern Kuki-Chin",
+      "id": "oldk1252",
+      "url": "https://glottolog.org/resource/languoid/id/oldk1252"
+    },
+    {
+      "name": "Kolhrengic",
+      "id": "kolh1241",
+      "url": "https://glottolog.org/resource/languoid/id/kolh1241"
+    },
+    {
+      "name": "Tarao-Chothe",
+      "id": "tara1327",
+      "url": "https://glottolog.org/resource/languoid/id/tara1327"
+    }
+  ],
+  "iso639-3": "nct"
+}

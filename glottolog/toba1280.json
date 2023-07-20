@@ -1,0 +1,90 @@
+{
+  "pk": 11206,
+  "hid": "tng",
+  "father_pk": 8257,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Gabri-North [gabr1254]':1,'Moonde [moon1238]':1,'Nuclear Tobanga [nucl1677]':1)'Tobanga [toba1280][tng]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3440501",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tobanga_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "102706",
+        "phonology_or_text",
+        1978,
+        55,
+        "Caprile, Jean-Pierre 1978"
+      ],
+      [
+        "102268",
+        "wordlist_or_less",
+        1937,
+        2,
+        "Lukas, Johannes 1937"
+      ],
+      [
+        "129309",
+        "wordlist_or_less",
+        1874,
+        2,
+        "Nachtigal, Gustav 1874"
+      ]
+    ]
+  },
+  "id": "toba1280",
+  "name": "Tobanga",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.8289,
+  "longitude": 16.209,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "East Chadic",
+      "id": "east2632",
+      "url": "https://glottolog.org/resource/languoid/id/east2632"
+    },
+    {
+      "name": "East Chadic A",
+      "id": "east2640",
+      "url": "https://glottolog.org/resource/languoid/id/east2640"
+    },
+    {
+      "name": "East Chadic A.2",
+      "id": "east2645",
+      "url": "https://glottolog.org/resource/languoid/id/east2645"
+    },
+    {
+      "name": "East Chadic A.2 2",
+      "id": "east2722",
+      "url": "https://glottolog.org/resource/languoid/id/east2722"
+    }
+  ],
+  "iso639-3": "tng"
+}

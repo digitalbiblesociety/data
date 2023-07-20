@@ -1,0 +1,81 @@
+{
+  "pk": 18889,
+  "hid": null,
+  "father_pk": 16610,
+  "family_pk": 72,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "(('Anhaltisch [anha1243]':1,('Nordmeissnisch [nord1240]':1,'Ostmeissnisch [ostm1234]':1,'Westmeissnisch [west2914]':1)'Meissnisch [meis1234]':1,'Osterländisch [oste1244]':1,'Westlausitzisch [west2913]':1)'North Upper Saxon [nort3313]':1,('Nordwestböhmisch [nord1241]':1,'Osterzgebirgisch [oste1245]':1,'Südmeissnisch [sudm1235]':1,'Vorerzgebirgisch [vore1243]':1,'Vorvogtländisch [vorv1234]':1,'Westerzgebirgisch [west2915]':1,'Westlich Nordböhmisch [west2916]':1)'South Upper Saxon [sout3296]':1)'Upper Saxon [uppe1465]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 16,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Upper_Saxon_German",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q699284",
+        "label": null
+      }
+    ]
+  },
+  "id": "uppe1465",
+  "name": "Upper Saxon",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Germanic",
+      "id": "germ1287",
+      "url": "https://glottolog.org/resource/languoid/id/germ1287"
+    },
+    {
+      "name": "Northwest Germanic",
+      "id": "nort3152",
+      "url": "https://glottolog.org/resource/languoid/id/nort3152"
+    },
+    {
+      "name": "West Germanic",
+      "id": "west2793",
+      "url": "https://glottolog.org/resource/languoid/id/west2793"
+    },
+    {
+      "name": "High German",
+      "id": "high1289",
+      "url": "https://glottolog.org/resource/languoid/id/high1289"
+    },
+    {
+      "name": "Middle German",
+      "id": "fran1268",
+      "url": "https://glottolog.org/resource/languoid/id/fran1268"
+    },
+    {
+      "name": "East Middle German",
+      "id": "east2832",
+      "url": "https://glottolog.org/resource/languoid/id/east2832"
+    },
+    {
+      "name": "Central East Middle German",
+      "id": "uppe1400",
+      "url": "https://glottolog.org/resource/languoid/id/uppe1400"
+    }
+  ]
+}

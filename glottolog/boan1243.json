@@ -1,0 +1,79 @@
+{
+  "pk": 4631,
+  "hid": "bzl",
+  "father_pk": 2953,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Boano {Sulawesi} [boan1243][bzl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1365",
+        "label": "Boano (Sulawesi, Indonesia)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q4931258",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Boano_language_(Sulawesi)",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "74205",
+        "grammar_sketch",
+        1986,
+        132,
+        "Inghuong, Sofyan and Ahmad Sarro and Hasan Basri and Dahlan Kajia 1986-1987"
+      ],
+      [
+        "63583",
+        "wordlist_or_less",
+        1979,
+        2,
+        "Donald F. Barr and Sharon G. Barr and C. Salombe 1979"
+      ],
+      [
+        "553798",
+        "wordlist_or_less",
+        1914,
+        6,
+        "Kruijt, Albertus Christiaan and Nicolaus Adriani 1914"
+      ]
+    ]
+  },
+  "id": "boan1243",
+  "name": "Boano (Sulawesi)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 0.51152,
+  "longitude": 120.992,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Tolitoli",
+      "id": "toli1244",
+      "url": "https://glottolog.org/resource/languoid/id/toli1244"
+    }
+  ],
+  "iso639-3": "bzl"
+}

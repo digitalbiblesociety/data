@@ -1,0 +1,120 @@
+{
+  "pk": 19011,
+  "hid": "ajt",
+  "father_pk": 16733,
+  "family_pk": 114,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "('Alger Judeo-Arabic [alge1241]':1,'Tunis Judeo-Arabic [tuni1261]':1)'Judeo-Tunisian Arabic [jude1263][ajt]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "ajt",
+      "name": "Judeo-Tunisian Arabic",
+      "change_request": "2021-020",
+      "effective": "2022-01-20",
+      "reason": "duplicate",
+      "change_to": [
+        "aeb"
+      ],
+      "remedy": "Merge into [aeb] Tunisian Arabic",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3705",
+        "label": "Judeo-Tunisian Arabic"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56597",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Judeo-Tunisian_Arabic",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "135466",
+        "phonology_or_text",
+        1958,
+        0,
+        "Caressa, Ferruccio 1958"
+      ],
+      [
+        "507387",
+        "phonology_or_text",
+        1940,
+        0,
+        "Brunot, Louis and Malka, Élie 1940"
+      ],
+      [
+        "143693",
+        "wordlist_or_less",
+        1936,
+        40,
+        "Caressa, Ferruccio 1936"
+      ]
+    ]
+  },
+  "id": "jude1263",
+  "name": "Judeo-Tunisian Arabic",
+  "description": null,
+  "markup_description": null,
+  "latitude": 31.75,
+  "longitude": 35.25,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Semitic",
+      "id": "semi1276",
+      "url": "https://glottolog.org/resource/languoid/id/semi1276"
+    },
+    {
+      "name": "West Semitic",
+      "id": "west2786",
+      "url": "https://glottolog.org/resource/languoid/id/west2786"
+    },
+    {
+      "name": "Central Semitic",
+      "id": "cent2236",
+      "url": "https://glottolog.org/resource/languoid/id/cent2236"
+    },
+    {
+      "name": "Arabian",
+      "id": "arab1394",
+      "url": "https://glottolog.org/resource/languoid/id/arab1394"
+    },
+    {
+      "name": "Arabic",
+      "id": "arab1395",
+      "url": "https://glottolog.org/resource/languoid/id/arab1395"
+    },
+    {
+      "name": "North African Arabic",
+      "id": "nort3191",
+      "url": "https://glottolog.org/resource/languoid/id/nort3191"
+    },
+    {
+      "name": "Malta-Tunisian Arabic",
+      "id": "malt1259",
+      "url": "https://glottolog.org/resource/languoid/id/malt1259"
+    },
+    {
+      "name": "Tunisian Arabic",
+      "id": "tuni1259",
+      "url": "https://glottolog.org/resource/languoid/id/tuni1259"
+    }
+  ],
+  "iso639-3": "ajt"
+}

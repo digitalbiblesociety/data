@@ -1,0 +1,94 @@
+{
+  "pk": 3614,
+  "hid": "cui",
+  "father_pk": 1935,
+  "family_pk": 36,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Chiricoa [chir1288]':1,'Iguanito [tamp1255]':1,'Maibén [masi1272]':1,'Mochuelo-Casanare-Cuiba [moch1258]':1,'Siripu [chir1287]':1,'Yarahuuraxi-Capanapara [yara1251]':1)'Cuiba [cuib1242][cui]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_cui",
+        "label": "Cuiba"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/2465",
+        "label": "Cuiva"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cuiba_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/cuib1242",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2980421",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "112643",
+        "long_grammar",
+        1995,
+        439,
+        "Kerr, Isabel J. 1995"
+      ],
+      [
+        "134332",
+        "grammar_sketch",
+        1973,
+        112,
+        "Berg, Marie and Kerr, Isabel 1973"
+      ],
+      [
+        "10471",
+        "phonology_or_text",
+        1969,
+        0,
+        "Mosonyi, Esteban Emilio 1969"
+      ],
+      [
+        "147759",
+        "wordlist_or_less",
+        1959,
+        4,
+        "Fuchs, Helmut 1959"
+      ]
+    ]
+  },
+  "id": "cuib1242",
+  "name": "Cuiba",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.19829,
+  "longitude": -69.8197,
+  "classification": [
+    {
+      "name": "Guahiboan",
+      "id": "guah1252",
+      "url": "https://glottolog.org/resource/languoid/id/guah1252"
+    },
+    {
+      "name": "Nuclear Guahiboan",
+      "id": "nucl1828",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1828"
+    },
+    {
+      "name": "Central Guahibo",
+      "id": "guah1253",
+      "url": "https://glottolog.org/resource/languoid/id/guah1253"
+    }
+  ],
+  "iso639-3": "cui"
+}

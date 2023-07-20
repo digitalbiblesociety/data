@@ -1,0 +1,112 @@
+{
+  "pk": 6833,
+  "hid": "isd",
+  "father_pk": 4651,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bayag [baya1258]':1,'Calanasan [cala1256]':1,'Dibagat-Kabugao [diba1241]':1,'Karagawan [kara1488]':1,'Talifugu-Ripang [tali1263]':1)'Isnag [isna1241][isd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6085162",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Isnag_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_isn",
+        "label": "Isnag"
+      }
+    ],
+    "meds": [
+      [
+        "142691",
+        "grammar_sketch",
+        1986,
+        131,
+        "Barlaan, Rodolfo R. 1986"
+      ],
+      [
+        "131045",
+        "grammar_sketch",
+        1976,
+        67,
+        "na 1976"
+      ],
+      [
+        "81588",
+        "phonology_or_text",
+        1972,
+        618,
+        "Morice Vanoverbergh 1972"
+      ],
+      [
+        "112982",
+        "wordlist_or_less",
+        1937,
+        5,
+        "Vanoverbergh, Morice 1937"
+      ],
+      [
+        "589890",
+        "wordlist_or_less",
+        1936,
+        53,
+        "Vanoverbergh, M. 1936"
+      ],
+      [
+        "588342",
+        "wordlist_or_less",
+        1934,
+        0,
+        "Keesing, F.M. & Keesing, M. 1934"
+      ],
+      [
+        "589048",
+        "wordlist_or_less",
+        1921,
+        0,
+        "of the Philippine Islands, Census Office 1921"
+      ]
+    ]
+  },
+  "id": "isna1241",
+  "name": "Isnag",
+  "description": null,
+  "markup_description": null,
+  "latitude": 18.2139,
+  "longitude": 121.16,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Northern Luzon",
+      "id": "nort3238",
+      "url": "https://glottolog.org/resource/languoid/id/nort3238"
+    },
+    {
+      "name": "Cagayan Valley",
+      "id": "caga1241",
+      "url": "https://glottolog.org/resource/languoid/id/caga1241"
+    }
+  ],
+  "iso639-3": "isd"
+}

@@ -1,0 +1,124 @@
+{
+  "pk": 14645,
+  "hid": "mic",
+  "father_pk": 11671,
+  "family_pk": 178,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Northern Micmac [nort2962]':1,'Southern Micmac [sout2979]':1)'Mi''kmaq [mikm1235][mic]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1923",
+        "label": "Mi'kmaq"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mic",
+        "label": "Micmac"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mi%EA%9E%8Ckmaq_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q13321",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "106513",
+        "long_grammar",
+        1976,
+        576,
+        "Delisle, Gilles L. and Metallic, Manny 1976"
+      ],
+      [
+        "570481",
+        "grammar",
+        1908,
+        89,
+        "Denys, N. 1908"
+      ],
+      [
+        "45947",
+        "grammar_sketch",
+        1875,
+        108,
+        "Silas Tertius Rand 1875"
+      ],
+      [
+        "26219",
+        "phonology_or_text",
+        1870,
+        6,
+        "Marietti, Petro 1870"
+      ],
+      [
+        "313592",
+        "wordlist_or_less",
+        1838,
+        14,
+        "Peter S. Duponceau 1838"
+      ],
+      [
+        "27878",
+        "wordlist_or_less",
+        1836,
+        4,
+        "Albert Gallatin 1836"
+      ]
+    ]
+  },
+  "id": "mikm1235",
+  "name": "Mi'kmaq",
+  "description": null,
+  "markup_description": null,
+  "latitude": 46,
+  "longitude": -64,
+  "classification": [
+    {
+      "name": "Algic",
+      "id": "algi1248",
+      "url": "https://glottolog.org/resource/languoid/id/algi1248"
+    },
+    {
+      "name": "Algonquian-Blackfoot",
+      "id": "algo1256",
+      "url": "https://glottolog.org/resource/languoid/id/algo1256"
+    },
+    {
+      "name": "Algonquian",
+      "id": "algo1257",
+      "url": "https://glottolog.org/resource/languoid/id/algo1257"
+    },
+    {
+      "name": "Eastern Algonquian",
+      "id": "east2700",
+      "url": "https://glottolog.org/resource/languoid/id/east2700"
+    },
+    {
+      "name": "Maritimes-Southern New England Algonquian",
+      "id": "mari1452",
+      "url": "https://glottolog.org/resource/languoid/id/mari1452"
+    },
+    {
+      "name": "Northern Eastern Algonquian",
+      "id": "nort3414",
+      "url": "https://glottolog.org/resource/languoid/id/nort3414"
+    },
+    {
+      "name": "Micmacic",
+      "id": "micm1234",
+      "url": "https://glottolog.org/resource/languoid/id/micm1234"
+    }
+  ],
+  "iso639-3": "mic"
+}

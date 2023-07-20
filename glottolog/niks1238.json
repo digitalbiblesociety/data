@@ -1,0 +1,70 @@
+{
+  "pk": 7020,
+  "hid": "gbe",
+  "father_pk": 4815,
+  "family_pk": 304,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Gabiano [gabi1241]':1,'Meiyari [meiy1238]':1,'Setiali [seti1247]':1)'Niksek [niks1238][gbe]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10623",
+        "label": "Niksek"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56375",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Niksek_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "108516",
+        "wordlist_or_less",
+        1973,
+        1,
+        "Laycock, Donald C. 1973"
+      ]
+    ]
+  },
+  "id": "niks1238",
+  "name": "Niksek",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.82581,
+  "longitude": 142.45,
+  "classification": [
+    {
+      "name": "Sepik",
+      "id": "sepi1257",
+      "url": "https://glottolog.org/resource/languoid/id/sepi1257"
+    },
+    {
+      "name": "Sepik Hill",
+      "id": "sepi1258",
+      "url": "https://glottolog.org/resource/languoid/id/sepi1258"
+    },
+    {
+      "name": "Western Sepik Hill",
+      "id": "west2576",
+      "url": "https://glottolog.org/resource/languoid/id/west2576"
+    },
+    {
+      "name": "Hewa-April River",
+      "id": "hewa1240",
+      "url": "https://glottolog.org/resource/languoid/id/hewa1240"
+    }
+  ],
+  "iso639-3": "gbe"
+}

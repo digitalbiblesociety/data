@@ -1,0 +1,97 @@
+{
+  "pk": 8816,
+  "hid": "vam",
+  "father_pk": 6308,
+  "family_pk": 198,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dumo {Vanimo} [dumo1240]':1,'Dusur [dusu1279]':1)'Vanimo [vani1248][vam]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10588",
+        "label": "Vanimo"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3327415",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Vanimo_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/vani1248",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_dum",
+        "label": "Dumo"
+      }
+    ],
+    "meds": [
+      [
+        "72393",
+        "grammar_sketch",
+        1980,
+        34,
+        "Malcolm Ross 1980"
+      ],
+      [
+        "71662",
+        "wordlist_or_less",
+        1913,
+        7,
+        "Georg Friederici 1913"
+      ],
+      [
+        "141101",
+        "wordlist_or_less",
+        1902,
+        2,
+        "No Author Stated 1902-1903"
+      ]
+    ]
+  },
+  "id": "vani1248",
+  "name": "Vanimo",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.68501,
+  "longitude": 141.258,
+  "classification": [
+    {
+      "name": "Sko",
+      "id": "skoo1245",
+      "url": "https://glottolog.org/resource/languoid/id/skoo1245"
+    },
+    {
+      "name": "Skou-Serra-Piore",
+      "id": "skou1238",
+      "url": "https://glottolog.org/resource/languoid/id/skou1238"
+    },
+    {
+      "name": "Skouic",
+      "id": "skou1239",
+      "url": "https://glottolog.org/resource/languoid/id/skou1239"
+    },
+    {
+      "name": "Eastern Skouic",
+      "id": "east2892",
+      "url": "https://glottolog.org/resource/languoid/id/east2892"
+    },
+    {
+      "name": "West Coast Skouic",
+      "id": "west2992",
+      "url": "https://glottolog.org/resource/languoid/id/west2992"
+    }
+  ],
+  "iso639-3": "vam"
+}

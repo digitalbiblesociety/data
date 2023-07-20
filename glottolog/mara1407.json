@@ -1,0 +1,62 @@
+{
+  "pk": 542,
+  "hid": "myd",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Maramba [mara1407][myd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "myd",
+      "name": "Maramba",
+      "change_request": "2018-010",
+      "effective": "2019-01-25",
+      "reason": "merge",
+      "change_to": [
+        "aog"
+      ],
+      "remedy": "Merged into [aog] Angoram",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Maramba_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6754745",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "105623",
+        "wordlist_or_less",
+        2009,
+        125,
+        "Lewis, Paul M. 2009"
+      ]
+    ]
+  },
+  "id": "mara1407",
+  "name": "Maramba",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.23908,
+  "longitude": 143.735,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "myd"
+}

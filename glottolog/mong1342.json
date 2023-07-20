@@ -1,0 +1,82 @@
+{
+  "pk": 9266,
+  "hid": "mog",
+  "father_pk": 6750,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dumoga [dumo1238]':1,'Lolayan [lola1249]':1,'Pasia {Indonesia} [pasi1256]':1)'Mongondow [mong1342][mog]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mgd",
+        "label": "Mongondow"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mongondow_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3058458",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "134393",
+        "long_grammar",
+        1929,
+        406,
+        "W. Dunnebier 1929, 1929, 1930"
+      ],
+      [
+        "61578",
+        "wordlist_or_less",
+        1855,
+        2,
+        "Jansen, A.J.F. 1855"
+      ]
+    ]
+  },
+  "id": "mong1342",
+  "name": "Mongondow",
+  "description": null,
+  "markup_description": null,
+  "latitude": 0.64616,
+  "longitude": 124.114,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Greater Central Philippine",
+      "id": "grea1284",
+      "url": "https://glottolog.org/resource/languoid/id/grea1284"
+    },
+    {
+      "name": "Gorontalo-Mongondow",
+      "id": "goro1257",
+      "url": "https://glottolog.org/resource/languoid/id/goro1257"
+    },
+    {
+      "name": "Mongondowic",
+      "id": "mong1346",
+      "url": "https://glottolog.org/resource/languoid/id/mong1346"
+    }
+  ],
+  "iso639-3": "mog"
+}

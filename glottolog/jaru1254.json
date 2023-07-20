@@ -1,0 +1,104 @@
+{
+  "pk": 8424,
+  "hid": "ddj",
+  "father_pk": 5951,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kartangarurru [kart1251]':1,'Nyininy [nyin1247]':1,'Wanyjirra [wany1244]':1,'Wawarl [djar1244]':1)'Jaru [jaru1254][ddj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_djr",
+        "label": "Djaru"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/4069",
+        "label": "Jaru"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Djaru_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/jaru1254",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3162806",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "552090",
+        "long_grammar",
+        2015,
+        757,
+        "Chikako Senge 2015"
+      ],
+      [
+        "313072",
+        "long_grammar",
+        1981,
+        311,
+        "Tasaku Tsunoda 1981"
+      ],
+      [
+        "575516",
+        "grammar",
+        1831,
+        16,
+        "Nind, S. 1831"
+      ],
+      [
+        "668469",
+        "wordlist_or_less",
+        1000,
+        27,
+        "Tsunoda, Tasaku 1000"
+      ]
+    ]
+  },
+  "id": "jaru1254",
+  "name": "Jaru",
+  "description": null,
+  "markup_description": null,
+  "latitude": -18.3288,
+  "longitude": 128.262,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Desert Nyungic",
+      "id": "dese1234",
+      "url": "https://glottolog.org/resource/languoid/id/dese1234"
+    },
+    {
+      "name": "Ngumpin-Yapa",
+      "id": "ngum1251",
+      "url": "https://glottolog.org/resource/languoid/id/ngum1251"
+    },
+    {
+      "name": "Ngumpin",
+      "id": "ngum1256",
+      "url": "https://glottolog.org/resource/languoid/id/ngum1256"
+    },
+    {
+      "name": "Western Ngumpin",
+      "id": "west3005",
+      "url": "https://glottolog.org/resource/languoid/id/west3005"
+    }
+  ],
+  "iso639-3": "ddj"
+}

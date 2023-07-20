@@ -1,0 +1,59 @@
+{
+  "pk": 1084,
+  "hid": "kgw",
+  "father_pk": 157,
+  "family_pk": 157,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "'Karon Dori [karo1303][kgw]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "kgw",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 has two entries Karon Dori [kgw] and Mai Brat\n[ayz]. The dialects represented in the two are mutually intelligible\n(**hh:g:Dol:Maybrat**:8) and may thus be merged. See also: Maybrat-Karon [ayz]."
+    },
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56817",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Karon_Dori_language",
+        "label": null
+      }
+    ]
+  },
+  "id": "karo1303",
+  "name": "Karon Dori",
+  "description": null,
+  "markup_description": null,
+  "latitude": -0.7871,
+  "longitude": 132.663,
+  "classification": [
+    {
+      "name": "Maybrat-Karon",
+      "id": "maib1239",
+      "url": "https://glottolog.org/resource/languoid/id/maib1239"
+    }
+  ],
+  "iso639-3": "kgw"
+}

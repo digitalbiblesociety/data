@@ -1,0 +1,85 @@
+{
+  "pk": 10154,
+  "hid": "mrd",
+  "father_pk": 7298,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Western Magar [west2418][mrd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q22303263",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_msy",
+        "label": "Magar (Syangja)"
+      }
+    ],
+    "meds": [
+      [
+        "74690",
+        "long_grammar",
+        2008,
+        321,
+        "Grunow-Hårsta, Karen A. 2008"
+      ],
+      [
+        "148433",
+        "wordlist_or_less",
+        1996,
+        9,
+        "Webster, Jeffrey D. 1996"
+      ],
+      [
+        "553375",
+        "wordlist_or_less",
+        1966,
+        127,
+        "Hitchcock, John T. 1966"
+      ]
+    ]
+  },
+  "id": "west2418",
+  "name": "Western Magar",
+  "description": null,
+  "markup_description": null,
+  "latitude": 28.2462,
+  "longitude": 83.511,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Himalayish",
+      "id": "hima1249",
+      "url": "https://glottolog.org/resource/languoid/id/hima1249"
+    },
+    {
+      "name": "Mahakiranti",
+      "id": "maha1306",
+      "url": "https://glottolog.org/resource/languoid/id/maha1306"
+    },
+    {
+      "name": "Kham-Magar-Chepang",
+      "id": "kham1285",
+      "url": "https://glottolog.org/resource/languoid/id/kham1285"
+    },
+    {
+      "name": "Magar",
+      "id": "maga1261",
+      "url": "https://glottolog.org/resource/languoid/id/maga1261"
+    }
+  ],
+  "iso639-3": "mrd"
+}

@@ -1,0 +1,86 @@
+{
+  "pk": 8270,
+  "hid": "mcw",
+  "father_pk": 5794,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mawa {Chad} [mawa1270][mcw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4567",
+        "label": "Mahwa"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3441333",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mawa_language_(Chad)",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/mawa1270",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "306408",
+        "phonology_or_text",
+        2009,
+        12,
+        "Roberts, James 2009"
+      ],
+      [
+        "38988",
+        "wordlist_or_less",
+        1981,
+        24,
+        "Jungraithmayr, Herrmann 1981"
+      ]
+    ]
+  },
+  "id": "mawa1270",
+  "name": "Mawa (Chad)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.7461,
+  "longitude": 18.2999,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "East Chadic",
+      "id": "east2632",
+      "url": "https://glottolog.org/resource/languoid/id/east2632"
+    },
+    {
+      "name": "East Chadic B",
+      "id": "east2633",
+      "url": "https://glottolog.org/resource/languoid/id/east2633"
+    },
+    {
+      "name": "East Chadic B.3",
+      "id": "east2710",
+      "url": "https://glottolog.org/resource/languoid/id/east2710"
+    }
+  ],
+  "iso639-3": "mcw"
+}

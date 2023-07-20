@@ -1,0 +1,65 @@
+{
+  "pk": 4805,
+  "hid": "lgt",
+  "father_pk": 3073,
+  "family_pk": 304,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Pahi [pahi1246][lgt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10595",
+        "label": "Pahi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7124545",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Pahi_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "138610",
+        "wordlist_or_less",
+        1968,
+        1,
+        "Donald C. Laycock 1968"
+      ]
+    ]
+  },
+  "id": "pahi1246",
+  "name": "Pahi",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.79935,
+  "longitude": 142.299,
+  "classification": [
+    {
+      "name": "Sepik",
+      "id": "sepi1257",
+      "url": "https://glottolog.org/resource/languoid/id/sepi1257"
+    },
+    {
+      "name": "Sepik Tama",
+      "id": "sepi1256",
+      "url": "https://glottolog.org/resource/languoid/id/sepi1256"
+    },
+    {
+      "name": "Mehek-Pahi",
+      "id": "mehe1244",
+      "url": "https://glottolog.org/resource/languoid/id/mehe1244"
+    }
+  ],
+  "iso639-3": "lgt"
+}

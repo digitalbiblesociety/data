@@ -1,0 +1,105 @@
+{
+  "pk": 5439,
+  "hid": "knc",
+  "father_pk": 3566,
+  "family_pk": 16,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Fadawa [fada1240]':1,'Guvja [guvj1238]':1,'Kabari [kaba1282]':1,'Kaga [kaga1254]':1,'Kwayam [kway1242]':1,'Lare [lare1248]':1,'Maiduguri [maid1261]':1,'Mao {Nigeria} [maoo1245]':1,'Movar [mova1237]':1,'Mowor [mowo1238]':1,'Ngazar [ngaz1239]':1,'Njesko [njes1238]':1,'Temageri [tema1238]':1,'Yerwa [yerw1238]':1)'Central Kanuri [cent2050][knc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 14,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_knr",
+        "label": "Kanuri"
+      },
+      {
+        "url": "https://phoible.org/languages/cent2050",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q15637215",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "56838",
+        "long_grammar",
+        1991,
+        376,
+        "Cyffer, Norbert and Bulakarima, Shettina Umara and Karta, Yaganami 1991"
+      ],
+      [
+        "114719",
+        "long_grammar",
+        1981,
+        363,
+        "Hutchison, John P. 1981"
+      ],
+      [
+        "160231",
+        "long_grammar",
+        1854,
+        345,
+        "Koelle, Sigismund Wilhelm 1854"
+      ],
+      [
+        "127817",
+        "grammar_sketch",
+        1853,
+        115,
+        "Norris, Edwin 1853"
+      ],
+      [
+        "48592",
+        "wordlist_or_less",
+        1841,
+        15,
+        "Norris, Edwin 1841"
+      ],
+      [
+        "30284",
+        "wordlist_or_less",
+        1672,
+        5,
+        "Spaulding, Jay 1973 [1672]"
+      ]
+    ]
+  },
+  "id": "cent2050",
+  "name": "Central Kanuri",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.8,
+  "longitude": 13.13,
+  "classification": [
+    {
+      "name": "Saharan",
+      "id": "saha1256",
+      "url": "https://glottolog.org/resource/languoid/id/saha1256"
+    },
+    {
+      "name": "Western Saharan",
+      "id": "west2505",
+      "url": "https://glottolog.org/resource/languoid/id/west2505"
+    },
+    {
+      "name": "Kanuri-Kanembu",
+      "id": "kanu1279",
+      "url": "https://glottolog.org/resource/languoid/id/kanu1279"
+    },
+    {
+      "name": "Kanuric",
+      "id": "kanu1281",
+      "url": "https://glottolog.org/resource/languoid/id/kanu1281"
+    }
+  ],
+  "iso639-3": "knc"
+}

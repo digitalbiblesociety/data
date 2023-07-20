@@ -1,0 +1,74 @@
+{
+  "pk": 10062,
+  "hid": "qve",
+  "father_pk": 7231,
+  "family_pk": 321,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Abancay [aban1243]':1,'Antabamba [anta1256]':1,'Cotabambas [cota1242]':1)'Eastern Apurímac Quechua [east2551][qve]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12953838",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "28767",
+        "grammar_sketch",
+        2006,
+        108,
+        "Leoncio Gutiérrez Camacho 2006"
+      ],
+      [
+        "582049",
+        "wordlist_or_less",
+        1972,
+        2,
+        "Torero, Alfredo 1972"
+      ]
+    ]
+  },
+  "id": "east2551",
+  "name": "Eastern Apurímac Quechua",
+  "description": null,
+  "markup_description": null,
+  "latitude": -14.1754,
+  "longitude": -72.6686,
+  "classification": [
+    {
+      "name": "Quechuan",
+      "id": "quec1387",
+      "url": "https://glottolog.org/resource/languoid/id/quec1387"
+    },
+    {
+      "name": "Quechua II",
+      "id": "quec1388",
+      "url": "https://glottolog.org/resource/languoid/id/quec1388"
+    },
+    {
+      "name": "Chinchay",
+      "id": "chin1494",
+      "url": "https://glottolog.org/resource/languoid/id/chin1494"
+    },
+    {
+      "name": "Quechua IIC",
+      "id": "quec1389",
+      "url": "https://glottolog.org/resource/languoid/id/quec1389"
+    },
+    {
+      "name": "Cuscan Quechua",
+      "id": "cusc1235",
+      "url": "https://glottolog.org/resource/languoid/id/cusc1235"
+    }
+  ],
+  "iso639-3": "qve"
+}

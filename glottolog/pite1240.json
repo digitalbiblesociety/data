@@ -1,0 +1,100 @@
+{
+  "pk": 9597,
+  "hid": "sje",
+  "father_pk": 6980,
+  "family_pk": 302,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Pite Saami [pite1240][sje]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2060",
+        "label": "Pite Saami"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Pite_Sami",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/pite1240",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56314",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "75946",
+        "long_grammar",
+        1926,
+        391,
+        "Lagercrantz, Eliel 1926"
+      ],
+      [
+        "476007",
+        "grammar_sketch",
+        1896,
+        124,
+        "Halász, Ignácz 1896"
+      ],
+      [
+        "320491",
+        "phonology_or_text",
+        1893,
+        240,
+        "Halász, Ignácz 1893"
+      ],
+      [
+        "320606",
+        "phonology_or_text",
+        1885,
+        134,
+        "Halász, Ignácz 1885"
+      ]
+    ]
+  },
+  "id": "pite1240",
+  "name": "Pite Saami",
+  "description": null,
+  "markup_description": null,
+  "latitude": 66.4011,
+  "longitude": 17.4261,
+  "classification": [
+    {
+      "name": "Uralic",
+      "id": "ural1272",
+      "url": "https://glottolog.org/resource/languoid/id/ural1272"
+    },
+    {
+      "name": "Saami",
+      "id": "saam1281",
+      "url": "https://glottolog.org/resource/languoid/id/saam1281"
+    },
+    {
+      "name": "Western Saami",
+      "id": "west2390",
+      "url": "https://glottolog.org/resource/languoid/id/west2390"
+    },
+    {
+      "name": "Central Western Saami",
+      "id": "cent2240",
+      "url": "https://glottolog.org/resource/languoid/id/cent2240"
+    },
+    {
+      "name": "Lule-Pite Saami",
+      "id": "lule1256",
+      "url": "https://glottolog.org/resource/languoid/id/lule1256"
+    }
+  ],
+  "iso639-3": "sje"
+}

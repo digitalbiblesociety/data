@@ -1,0 +1,92 @@
+{
+  "pk": 7798,
+  "hid": "tnd",
+  "father_pk": 5392,
+  "family_pk": 10,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Angosturas Tunebo [ango1257][tnd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3527",
+        "label": "Tunebo"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q25559604",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "8577",
+        "grammar_sketch",
+        1995,
+        273,
+        "Casilimas Rojas, Clara Ines 1995"
+      ],
+      [
+        "145111",
+        "wordlist_or_less",
+        1970,
+        0,
+        "Arango, F. 1970"
+      ],
+      [
+        "39893",
+        "wordlist_or_less",
+        1928,
+        3,
+        "González, Julio 1928"
+      ],
+      [
+        "91134",
+        "wordlist_or_less",
+        1736,
+        0,
+        "Rivero J. 1956 [1736]"
+      ]
+    ]
+  },
+  "id": "ango1257",
+  "name": "Angosturas Tunebo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.54198,
+  "longitude": -71.9212,
+  "classification": [
+    {
+      "name": "Chibchan",
+      "id": "chib1249",
+      "url": "https://glottolog.org/resource/languoid/id/chib1249"
+    },
+    {
+      "name": "Core Chibchan",
+      "id": "core1252",
+      "url": "https://glottolog.org/resource/languoid/id/core1252"
+    },
+    {
+      "name": "Magdalenic",
+      "id": "magd1236",
+      "url": "https://glottolog.org/resource/languoid/id/magd1236"
+    },
+    {
+      "name": "Southern Magdalenic",
+      "id": "sout3015",
+      "url": "https://glottolog.org/resource/languoid/id/sout3015"
+    },
+    {
+      "name": "Tunebo",
+      "id": "tune1260",
+      "url": "https://glottolog.org/resource/languoid/id/tune1260"
+    }
+  ],
+  "iso639-3": "tnd"
+}

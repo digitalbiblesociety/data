@@ -1,0 +1,83 @@
+{
+  "pk": 4222,
+  "hid": "xir",
+  "father_pk": 2424,
+  "family_pk": 177,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Xiriâna [xiri1243][xir]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q2028772",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Shiriana_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/xiri1243",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bah",
+        "label": "Xiriana"
+      }
+    ],
+    "meds": [
+      [
+        "71557",
+        "grammar",
+        1992,
+        148,
+        "Henri Ramirez 1992"
+      ],
+      [
+        "147062",
+        "wordlist_or_less",
+        1955,
+        1,
+        "Curt Nimuendajú 1955"
+      ],
+      [
+        "142459",
+        "wordlist_or_less",
+        1950,
+        15,
+        "Curt Nimuendajú 1950"
+      ]
+    ]
+  },
+  "id": "xiri1243",
+  "name": "Xiriâna",
+  "description": null,
+  "markup_description": null,
+  "latitude": 0.83868,
+  "longitude": -63.452927,
+  "classification": [
+    {
+      "name": "Arawakan",
+      "id": "araw1281",
+      "url": "https://glottolog.org/resource/languoid/id/araw1281"
+    },
+    {
+      "name": "Negro-Roraima",
+      "id": "negr1239",
+      "url": "https://glottolog.org/resource/languoid/id/negr1239"
+    },
+    {
+      "name": "Bahuanaic",
+      "id": "bahu1238",
+      "url": "https://glottolog.org/resource/languoid/id/bahu1238"
+    }
+  ],
+  "iso639-3": "xir"
+}

@@ -1,0 +1,120 @@
+{
+  "pk": 6457,
+  "hid": "cub",
+  "father_pk": 4415,
+  "family_pk": 242,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Cubeo [cube1242][cub]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_cub",
+        "label": "Cubeo"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/1066",
+        "label": "Kubeo"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cubeo_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/cube1242",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3006705",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "307181",
+        "long_grammar",
+        2012,
+        397,
+        "Chacon, Thiago Costa 2012"
+      ],
+      [
+        "137734",
+        "grammar",
+        1999,
+        207,
+        "Nancy L. Morse and Michael B. Maxwell 1999"
+      ],
+      [
+        "68935",
+        "grammar",
+        1990,
+        0,
+        "Morse, Nancy L. and Jay K. Salser and Neva F. West de Salser 1990"
+      ],
+      [
+        "158929",
+        "grammar",
+        1977,
+        0,
+        "Woods, Frances M. and Longacre, Robert E. 1977"
+      ],
+      [
+        "137493",
+        "grammar",
+        1976,
+        0,
+        "Longacre, Robert E. and Woods, Frances 1976"
+      ],
+      [
+        "140403",
+        "grammar_sketch",
+        1966,
+        6,
+        "Goldman, Irving 1966"
+      ],
+      [
+        "309121",
+        "wordlist_or_less",
+        1853,
+        17,
+        "Alfred R. Wallace 1853"
+      ]
+    ]
+  },
+  "id": "cube1242",
+  "name": "Cubeo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 1.32382,
+  "longitude": -70.1939,
+  "classification": [
+    {
+      "name": "Tucanoan",
+      "id": "tuca1253",
+      "url": "https://glottolog.org/resource/languoid/id/tuca1253"
+    },
+    {
+      "name": "Eastern Tucanoan",
+      "id": "east2698",
+      "url": "https://glottolog.org/resource/languoid/id/east2698"
+    },
+    {
+      "name": "Western Eastern Tucanoan",
+      "id": "west2789",
+      "url": "https://glottolog.org/resource/languoid/id/west2789"
+    },
+    {
+      "name": "Cubeo-Desano",
+      "id": "cube1243",
+      "url": "https://glottolog.org/resource/languoid/id/cube1243"
+    }
+  ],
+  "iso639-3": "cub"
+}

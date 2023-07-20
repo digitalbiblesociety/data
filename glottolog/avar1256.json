@@ -1,0 +1,104 @@
+{
+  "pk": 5360,
+  "hid": "ava",
+  "father_pk": 3507,
+  "family_pk": 426,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ancux [ancu1238]':1,'Andalal-Gxdatl [anda1281]':1,'Bacadin [baca1241]':1,'Batlux [batl1238]':1,'Hid [hidd1238]':1,'Karax [kara1473]':1,'Kaxib [kaxi1241]':1,'Keleb [kele1253]':1,'Salatav [sala1265]':1,'Shulanin [shul1242]':1,'Untib [unti1238]':1,'Xunzax [kunz1243]':1,'Zakataly [zaka1239]':1,'Zaqatala [zaqa1242]':1)'Avar [avar1256][ava]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 14,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ava",
+        "label": "Avar"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Avar_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/avar1256",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q29561",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "546901",
+        "long_grammar",
+        2012,
+        421,
+        "Mixail Alekseev and Boris Ataev and M. A. Magomedov and M. I. Magomedov and G. I. Madieva and P. A. Saidova and Dž. S. Samedov 2012"
+      ],
+      [
+        "322841",
+        "long_grammar",
+        1962,
+        370,
+        "Chikobava, Arnold and Ilia Tsertsvadze 1962"
+      ],
+      [
+        "137257",
+        "grammar",
+        1949,
+        277,
+        "Anatolij A. Bokarev 1949"
+      ],
+      [
+        "303369",
+        "grammar",
+        1924,
+        178,
+        "Žirkov, Lev I. 1924"
+      ],
+      [
+        "80787",
+        "grammar",
+        1889,
+        155,
+        "Uslar, Petr K. 1889"
+      ],
+      [
+        "158310",
+        "grammar_sketch",
+        1814,
+        76,
+        "Julius Klaproth 1814"
+      ]
+    ]
+  },
+  "id": "avar1256",
+  "name": "Avar",
+  "description": null,
+  "markup_description": null,
+  "latitude": 41.7047,
+  "longitude": 46.558,
+  "classification": [
+    {
+      "name": "Nakh-Daghestanian",
+      "id": "nakh1245",
+      "url": "https://glottolog.org/resource/languoid/id/nakh1245"
+    },
+    {
+      "name": "Daghestanian",
+      "id": "dagh1238",
+      "url": "https://glottolog.org/resource/languoid/id/dagh1238"
+    },
+    {
+      "name": "Avar-Andic-Tsezic",
+      "id": "avar1255",
+      "url": "https://glottolog.org/resource/languoid/id/avar1255"
+    }
+  ],
+  "iso639-3": "ava"
+}

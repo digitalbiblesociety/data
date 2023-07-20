@@ -1,0 +1,100 @@
+{
+  "pk": 17159,
+  "hid": "mxt",
+  "father_pk": 14734,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Jamiltepec Mixtec [jami1235][mxt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mja",
+        "label": "Mixtec (Jamiltepec)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12953730",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "27269",
+        "grammar",
+        1988,
+        140,
+        "Johnson, Audrey F. 1988"
+      ],
+      [
+        "122101",
+        "phonology_or_text",
+        1974,
+        163,
+        "Pensinger, Brenda J. 1974"
+      ],
+      [
+        "303521",
+        "wordlist_or_less",
+        1972,
+        12,
+        "Instituto Lingüístico de Verano 1972"
+      ]
+    ]
+  },
+  "id": "jami1235",
+  "name": "Jamiltepec Mixtec",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.2279,
+  "longitude": -97.8417,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Amuzgo-Mixtecan",
+      "id": "amuz1253",
+      "url": "https://glottolog.org/resource/languoid/id/amuz1253"
+    },
+    {
+      "name": "Mixtecan",
+      "id": "mixt1422",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1422"
+    },
+    {
+      "name": "Mixtec-Cuicatec",
+      "id": "mixt1423",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1423"
+    },
+    {
+      "name": "Mixtec",
+      "id": "mixt1427",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1427"
+    },
+    {
+      "name": "Coast Mixtec",
+      "id": "coas1316",
+      "url": "https://glottolog.org/resource/languoid/id/coas1316"
+    },
+    {
+      "name": "East Coast Mixtec",
+      "id": "east2746",
+      "url": "https://glottolog.org/resource/languoid/id/east2746"
+    }
+  ],
+  "iso639-3": "mxt"
+}

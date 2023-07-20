@@ -1,0 +1,89 @@
+{
+  "pk": 8998,
+  "hid": "pcp",
+  "father_pk": 6510,
+  "family_pk": 273,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Pacahuara [paca1246][pcp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q2591165",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Pakawara_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/paca1246",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "51782",
+        "wordlist_or_less",
+        1898,
+        49,
+        "Armentia, Nicolás de 1898"
+      ],
+      [
+        "123263",
+        "wordlist_or_less",
+        1887,
+        16,
+        "Armentia, Nicolás 1887"
+      ],
+      [
+        "104642",
+        "wordlist_or_less",
+        1794,
+        16,
+        "Palau, Mercedes and Blanca Saiz 1989 [1794]"
+      ]
+    ]
+  },
+  "id": "paca1246",
+  "name": "Pacahuara",
+  "description": null,
+  "markup_description": null,
+  "latitude": -11.9968,
+  "longitude": -65.5568,
+  "classification": [
+    {
+      "name": "Pano-Tacanan",
+      "id": "pano1259",
+      "url": "https://glottolog.org/resource/languoid/id/pano1259"
+    },
+    {
+      "name": "Panoan",
+      "id": "pano1256",
+      "url": "https://glottolog.org/resource/languoid/id/pano1256"
+    },
+    {
+      "name": "Mainline Pano",
+      "id": "main1279",
+      "url": "https://glottolog.org/resource/languoid/id/main1279"
+    },
+    {
+      "name": "Pano Nawa",
+      "id": "pano1257",
+      "url": "https://glottolog.org/resource/languoid/id/pano1257"
+    },
+    {
+      "name": "Bolivian Nawa",
+      "id": "boli1261",
+      "url": "https://glottolog.org/resource/languoid/id/boli1261"
+    }
+  ],
+  "iso639-3": "pcp"
+}

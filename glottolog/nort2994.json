@@ -1,0 +1,102 @@
+{
+  "pk": 19395,
+  "hid": "rog",
+  "father_pk": 17425,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Northern Roglai [nort2994][rog]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1990",
+        "label": "Northern Roglai"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3439680",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_rgn",
+        "label": "Roglai (Northern)"
+      }
+    ],
+    "meds": [
+      [
+        "311199",
+        "grammar_sketch",
+        1966,
+        49,
+        "Lee, Ernest Wilson 1966"
+      ],
+      [
+        "78295",
+        "wordlist_or_less",
+        1963,
+        3,
+        "Lee, Ernest W. 1963"
+      ]
+    ]
+  },
+  "id": "nort2994",
+  "name": "Northern Roglai",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.1967,
+  "longitude": 108.849,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Malayo-Sumbawan",
+      "id": "mala1536",
+      "url": "https://glottolog.org/resource/languoid/id/mala1536"
+    },
+    {
+      "name": "North and East Malayo-Sumbawan",
+      "id": "nort3170",
+      "url": "https://glottolog.org/resource/languoid/id/nort3170"
+    },
+    {
+      "name": "Aceh-Chamic",
+      "id": "cham1327",
+      "url": "https://glottolog.org/resource/languoid/id/cham1327"
+    },
+    {
+      "name": "Chamic",
+      "id": "cham1330",
+      "url": "https://glottolog.org/resource/languoid/id/cham1330"
+    },
+    {
+      "name": "Highlands Chamic",
+      "id": "high1280",
+      "url": "https://glottolog.org/resource/languoid/id/high1280"
+    },
+    {
+      "name": "Chru-Northern Cham",
+      "id": "chru1238",
+      "url": "https://glottolog.org/resource/languoid/id/chru1238"
+    },
+    {
+      "name": "Northern Cham",
+      "id": "nort3219",
+      "url": "https://glottolog.org/resource/languoid/id/nort3219"
+    }
+  ],
+  "iso639-3": "rog"
+}

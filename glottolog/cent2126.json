@@ -1,0 +1,102 @@
+{
+  "pk": 6223,
+  "hid": "ryu",
+  "father_pk": 4192,
+  "family_pk": 176,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kudaka [kuda1249]':1,'Naha [naha1264]':1,'Shuri [shur1243]':1,'Torishima [tori1242]':1)'Central Okinawan [cent2126][ryu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5354",
+        "label": "Okinawan"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ryu",
+        "label": "Shuri"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Okinawan_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q34233",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "659190",
+        "long_grammar",
+        2020,
+        362,
+        "Salvatore Carlino 2020"
+      ],
+      [
+        "308988",
+        "grammar",
+        1963,
+        247,
+        "Robert Loveless 1963"
+      ],
+      [
+        "469013",
+        "grammar_sketch",
+        1895,
+        136,
+        "Chamberlain, Basil Hall 1895"
+      ],
+      [
+        "470865",
+        "wordlist_or_less",
+        1810,
+        8,
+        "Julius Klaproth 1810"
+      ],
+      [
+        "468862",
+        "wordlist_or_less",
+        1804,
+        1,
+        "William Robert Broughton 1804"
+      ]
+    ]
+  },
+  "id": "cent2126",
+  "name": "Central Okinawan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 26.14854,
+  "longitude": 127.7816,
+  "classification": [
+    {
+      "name": "Japonic",
+      "id": "japo1237",
+      "url": "https://glottolog.org/resource/languoid/id/japo1237"
+    },
+    {
+      "name": "Ryukyuan",
+      "id": "ryuk1243",
+      "url": "https://glottolog.org/resource/languoid/id/ryuk1243"
+    },
+    {
+      "name": "Northern Ryukyuan",
+      "id": "nort3255",
+      "url": "https://glottolog.org/resource/languoid/id/nort3255"
+    },
+    {
+      "name": "Okinawa",
+      "id": "okin1244",
+      "url": "https://glottolog.org/resource/languoid/id/okin1244"
+    }
+  ],
+  "iso639-3": "ryu"
+}

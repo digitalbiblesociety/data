@@ -1,0 +1,85 @@
+{
+  "pk": 3345,
+  "hid": "git",
+  "father_pk": 1779,
+  "family_pk": 375,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Gitsken [gits1238]':1,'Nuclear Gitxsan [nucl1650]':1)'Gitxsan [gitx1241][git]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_git",
+        "label": "Gitksan"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/4213",
+        "label": "Gitsenimx̱"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Gitxsan_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3107862",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "117346",
+        "long_grammar",
+        1986,
+        426,
+        "Bruce Rigsby 1986"
+      ],
+      [
+        "129195",
+        "phonology_or_text",
+        1973,
+        60,
+        "Hindle, Lonnie and Rigsby, Bruce 1973"
+      ],
+      [
+        "171864",
+        "wordlist_or_less",
+        1920,
+        11,
+        "Sapir, Edward 1920"
+      ],
+      [
+        "573263",
+        "wordlist_or_less",
+        1859,
+        0,
+        "Kane, P. 1859"
+      ]
+    ]
+  },
+  "id": "gitx1241",
+  "name": "Gitxsan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 55.09,
+  "longitude": -128.08,
+  "classification": [
+    {
+      "name": "Tsimshian",
+      "id": "tsim1258",
+      "url": "https://glottolog.org/resource/languoid/id/tsim1258"
+    },
+    {
+      "name": "Nishga-Gitxsan",
+      "id": "nish1242",
+      "url": "https://glottolog.org/resource/languoid/id/nish1242"
+    }
+  ],
+  "iso639-3": "git"
+}

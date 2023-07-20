@@ -1,0 +1,101 @@
+{
+  "pk": 4200,
+  "hid": "guc",
+  "father_pk": 2413,
+  "family_pk": 177,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Wayuu [wayu1243][guc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_goa",
+        "label": "Goajiro"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/2696",
+        "label": "Guajiro"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Wayuu_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/wayu1243",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q891085",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "150567",
+        "long_grammar",
+        1984,
+        708,
+        "Mansen, Karis and Mansen, Richard A. 1984"
+      ],
+      [
+        "118123",
+        "grammar",
+        1972,
+        224,
+        "Ehrman, Susan Barbara 1972"
+      ],
+      [
+        "72867",
+        "grammar",
+        1895,
+        204,
+        "de Uterga, Esteban 1895"
+      ],
+      [
+        "67175",
+        "grammar_sketch",
+        1878,
+        90,
+        "Celedón, Rafael 1878"
+      ],
+      [
+        "105897",
+        "wordlist_or_less",
+        1870,
+        9,
+        "Adolf Ernst 1870"
+      ]
+    ]
+  },
+  "id": "wayu1243",
+  "name": "Wayuu",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.395566,
+  "longitude": -72.199791,
+  "classification": [
+    {
+      "name": "Arawakan",
+      "id": "araw1281",
+      "url": "https://glottolog.org/resource/languoid/id/araw1281"
+    },
+    {
+      "name": "Caribbean Arawakan",
+      "id": "cari1281",
+      "url": "https://glottolog.org/resource/languoid/id/cari1281"
+    },
+    {
+      "name": "Guajiro-Paraujano",
+      "id": "guaj1257",
+      "url": "https://glottolog.org/resource/languoid/id/guaj1257"
+    }
+  ],
+  "iso639-3": "guc"
+}

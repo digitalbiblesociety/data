@@ -1,0 +1,78 @@
+{
+  "pk": 9107,
+  "hid": "nib",
+  "father_pk": 6606,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('North Nakama [nort2912]':1,'South Nakama [sout2936]':1)'Nakama [naka1264][nib]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q11732495",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nakama_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "301975",
+        "wordlist_or_less",
+        2009,
+        12,
+        "Thom Retsema and Margaret Potter and Rachel Gray 2009"
+      ],
+      [
+        "64314",
+        "wordlist_or_less",
+        1970,
+        1,
+        "Oren R. Claassen and Kenneth A. McElhanon 1970"
+      ]
+    ]
+  },
+  "id": "naka1264",
+  "name": "Nakama",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.41424,
+  "longitude": 146.782,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Finisterre-Huon",
+      "id": "fini1244",
+      "url": "https://glottolog.org/resource/languoid/id/fini1244"
+    },
+    {
+      "name": "Finisterre-Saruwaged",
+      "id": "fini1245",
+      "url": "https://glottolog.org/resource/languoid/id/fini1245"
+    },
+    {
+      "name": "Erap",
+      "id": "erap1240",
+      "url": "https://glottolog.org/resource/languoid/id/erap1240"
+    },
+    {
+      "name": "Boana",
+      "id": "boan1245",
+      "url": "https://glottolog.org/resource/languoid/id/boan1245"
+    }
+  ],
+  "iso639-3": "nib"
+}

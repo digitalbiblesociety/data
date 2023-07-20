@@ -1,0 +1,100 @@
+{
+  "pk": 17168,
+  "hid": "cya",
+  "father_pk": 14755,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Nopala Chatino [nopa1235][cya]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_cht",
+        "label": "Chatino (Nopala)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q15616302",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "477042",
+        "long_grammar",
+        2015,
+        410,
+        "McIntosh, Justin 2015"
+      ],
+      [
+        "304783",
+        "grammar_sketch",
+        2011,
+        167,
+        "McIntosh, Justin 2011"
+      ],
+      [
+        "154814",
+        "phonology_or_text",
+        1951,
+        64,
+        "McKaughan, Howard P. and McKaughan, Barbara 1951"
+      ]
+    ]
+  },
+  "id": "nopa1235",
+  "name": "Nopala Chatino",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.0954,
+  "longitude": -97.1339,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Popoloca-Zapotecan",
+      "id": "popo1292",
+      "url": "https://glottolog.org/resource/languoid/id/popo1292"
+    },
+    {
+      "name": "Zapotecan",
+      "id": "zapo1436",
+      "url": "https://glottolog.org/resource/languoid/id/zapo1436"
+    },
+    {
+      "name": "Chatino",
+      "id": "chat1268",
+      "url": "https://glottolog.org/resource/languoid/id/chat1268"
+    },
+    {
+      "name": "Core Chatino",
+      "id": "core1263",
+      "url": "https://glottolog.org/resource/languoid/id/core1263"
+    },
+    {
+      "name": "Coastal Chatino",
+      "id": "coas1314",
+      "url": "https://glottolog.org/resource/languoid/id/coas1314"
+    },
+    {
+      "name": "Eastern Chatino",
+      "id": "east2736",
+      "url": "https://glottolog.org/resource/languoid/id/east2736"
+    }
+  ],
+  "iso639-3": "cya"
+}

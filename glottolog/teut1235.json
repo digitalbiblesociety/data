@@ -1,0 +1,80 @@
+{
+  "pk": 11778,
+  "hid": "cut",
+  "father_pk": 8966,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Teutila Cuicatec [teut1235][cut]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3471",
+        "label": "Cuicatec"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Teutila_Cuicatec_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12953453",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "574345",
+        "wordlist_or_less",
+        1958,
+        43,
+        "López, Fidel Serafín 1958"
+      ]
+    ]
+  },
+  "id": "teut1235",
+  "name": "Teutila Cuicatec",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.9029,
+  "longitude": -96.6645,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Amuzgo-Mixtecan",
+      "id": "amuz1253",
+      "url": "https://glottolog.org/resource/languoid/id/amuz1253"
+    },
+    {
+      "name": "Mixtecan",
+      "id": "mixt1422",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1422"
+    },
+    {
+      "name": "Mixtec-Cuicatec",
+      "id": "mixt1423",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1423"
+    },
+    {
+      "name": "Cuicatec",
+      "id": "cuic1234",
+      "url": "https://glottolog.org/resource/languoid/id/cuic1234"
+    }
+  ],
+  "iso639-3": "cut"
+}

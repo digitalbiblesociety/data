@@ -1,0 +1,93 @@
+{
+  "pk": 10380,
+  "hid": "kdv",
+  "father_pk": 7411,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ganaan [gana1267][zkn]':1,'Kadu [kadu1254][zkd]':1)'Kado [kado1242][kdv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "kdv",
+      "name": "Kado",
+      "change_request": "2011-002",
+      "effective": "2012-02-03",
+      "reason": "split",
+      "change_to": [
+        "zkd",
+        "zkn"
+      ],
+      "remedy": "split into Kadu [zkd] and Kanan [zkn]",
+      "comment": "Research conducted in 2008 showed that Kadu and Kanan speakers do not adequately\nunderstand each other's languages, and have to switch to Burmese in order to\ncommunicate with speakers from the other community. Kadu and Kanan people also\nhave strong separate identities and have a desire to have separate literature.\nIn addition, Myanmar's official list of ethnic groups lists Kadu and Kanan as\nseparate language groups."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12952535",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "301499",
+        "long_grammar",
+        2012,
+        706,
+        "Sangdong, David 2012"
+      ],
+      [
+        "123446",
+        "wordlist_or_less",
+        1920,
+        14,
+        "Brown, George Eustace Riou Grant 1920"
+      ],
+      [
+        "45332",
+        "wordlist_or_less",
+        1893,
+        8,
+        "Bernard Houghton 1893"
+      ]
+    ]
+  },
+  "id": "kado1242",
+  "name": "Kado",
+  "description": null,
+  "markup_description": null,
+  "latitude": 21.5259,
+  "longitude": 100.092,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Brahmaputran",
+      "id": "brah1260",
+      "url": "https://glottolog.org/resource/languoid/id/brah1260"
+    },
+    {
+      "name": "Jingpho-Luish",
+      "id": "jing1259",
+      "url": "https://glottolog.org/resource/languoid/id/jing1259"
+    },
+    {
+      "name": "Luish",
+      "id": "sakk1239",
+      "url": "https://glottolog.org/resource/languoid/id/sakk1239"
+    },
+    {
+      "name": "Chakpa-Kadu-Ganan",
+      "id": "chak1277",
+      "url": "https://glottolog.org/resource/languoid/id/chak1277"
+    }
+  ],
+  "iso639-3": "kdv"
+}

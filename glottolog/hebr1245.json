@@ -1,0 +1,128 @@
+{
+  "pk": 14150,
+  "hid": "heb",
+  "father_pk": 11078,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Oriental Hebrew [orie1241]':1,'Standard Hebrew [stan1314]':1)'Modern Hebrew [hebr1245][heb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_hba",
+        "label": "Hebrew (Modern Ashkenazic)"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_heb",
+        "label": "Hebrew (Modern)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Modern_Hebrew",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/hebr1245",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q8141",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "119874",
+        "long_grammar",
+        1989,
+        608,
+        "Glinert, Lewis 1989"
+      ],
+      [
+        "98300",
+        "long_grammar",
+        1978,
+        472,
+        "Berman, Ruth A. 1978"
+      ],
+      [
+        "8961",
+        "grammar",
+        1975,
+        248,
+        "Alan S. Prince 1975"
+      ],
+      [
+        "419305",
+        "grammar",
+        1968,
+        0,
+        "David Cohen and Haim Zafrani 1968"
+      ],
+      [
+        "82903",
+        "grammar_sketch",
+        1649,
+        0,
+        "Ravius, Christian 1649"
+      ],
+      [
+        "11489",
+        "wordlist_or_less",
+        1648,
+        0,
+        "Ravius, Christian 1648"
+      ]
+    ]
+  },
+  "id": "hebr1245",
+  "name": "Modern Hebrew",
+  "description": null,
+  "markup_description": null,
+  "latitude": 31.1056,
+  "longitude": 35.0179,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Semitic",
+      "id": "semi1276",
+      "url": "https://glottolog.org/resource/languoid/id/semi1276"
+    },
+    {
+      "name": "West Semitic",
+      "id": "west2786",
+      "url": "https://glottolog.org/resource/languoid/id/west2786"
+    },
+    {
+      "name": "Central Semitic",
+      "id": "cent2236",
+      "url": "https://glottolog.org/resource/languoid/id/cent2236"
+    },
+    {
+      "name": "Northwest Semitic",
+      "id": "nort3165",
+      "url": "https://glottolog.org/resource/languoid/id/nort3165"
+    },
+    {
+      "name": "Canaanite",
+      "id": "cana1267",
+      "url": "https://glottolog.org/resource/languoid/id/cana1267"
+    },
+    {
+      "name": "Hebrewic",
+      "id": "hebr1246",
+      "url": "https://glottolog.org/resource/languoid/id/hebr1246"
+    }
+  ],
+  "iso639-3": "heb"
+}

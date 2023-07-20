@@ -1,0 +1,96 @@
+{
+  "pk": 5969,
+  "hid": "nxn",
+  "father_pk": 3992,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ngawun [ngaw1240][nxn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4907",
+        "label": "Ngawun"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/g17",
+        "label": "Ngawun"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ngawun_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/ngaw1240",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ngw",
+        "label": "Ngawun"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3915711",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "64840",
+        "grammar_sketch",
+        1981,
+        14,
+        "Gavan Breen 1981"
+      ],
+      [
+        "304396",
+        "wordlist_or_less",
+        1976,
+        2,
+        "Breen, J. G. 1976"
+      ],
+      [
+        "105535",
+        "wordlist_or_less",
+        1897,
+        0,
+        "Roth, Walter Edmund 1897"
+      ]
+    ]
+  },
+  "id": "ngaw1240",
+  "name": "Ngawun",
+  "description": null,
+  "markup_description": null,
+  "latitude": -19.4484,
+  "longitude": 141.471,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Paman",
+      "id": "pama1251",
+      "url": "https://glottolog.org/resource/languoid/id/pama1251"
+    },
+    {
+      "name": "Mayabic",
+      "id": "maya1279",
+      "url": "https://glottolog.org/resource/languoid/id/maya1279"
+    },
+    {
+      "name": "Nuclear Mayabic",
+      "id": "nucl1332",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1332"
+    }
+  ],
+  "iso639-3": "nxn"
+}

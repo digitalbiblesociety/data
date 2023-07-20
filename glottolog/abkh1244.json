@@ -1,0 +1,78 @@
+{
+  "pk": 3330,
+  "hid": "abk",
+  "father_pk": 1749,
+  "family_pk": 359,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Abzhui [abzh1238]':1,'Bzyb [bzyb1238]':1,'Samurzakan [samu1242]':1)'Abkhaz [abkh1244][abk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_abk",
+        "label": "Abkhaz"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Abkhaz_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/abkh1244",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5111",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "669216",
+        "long_grammar",
+        2013,
+        561,
+        "Tamio Yanagisawa 2013"
+      ],
+      [
+        "312928",
+        "long_grammar",
+        1964,
+        464,
+        "X. S. Bghazhba 1964"
+      ],
+      [
+        "302078",
+        "grammar",
+        1887,
+        157,
+        "Uslar, Petr K. 1887"
+      ]
+    ]
+  },
+  "id": "abkh1244",
+  "name": "Abkhaz",
+  "description": null,
+  "markup_description": null,
+  "latitude": 43.056218,
+  "longitude": 41.159115,
+  "classification": [
+    {
+      "name": "Abkhaz-Adyge",
+      "id": "abkh1242",
+      "url": "https://glottolog.org/resource/languoid/id/abkh1242"
+    },
+    {
+      "name": "Abkhaz-Abaza",
+      "id": "abkh1243",
+      "url": "https://glottolog.org/resource/languoid/id/abkh1243"
+    }
+  ],
+  "iso639-3": "abk"
+}

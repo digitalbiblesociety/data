@@ -1,0 +1,66 @@
+{
+  "pk": 6328,
+  "hid": "sfs",
+  "father_pk": 4294,
+  "family_pk": 206,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Sign Language",
+  "newick": "'South African Sign Language [sout1404][sfs]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3322093",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/South_African_Sign_Language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "320673",
+        "grammar_sketch",
+        1980,
+        229,
+        "Nieder-Heitmann, Norman 1980"
+      ]
+    ]
+  },
+  "id": "sout1404",
+  "name": "South African Sign Language",
+  "description": null,
+  "markup_description": null,
+  "latitude": -25.96551,
+  "longitude": 28.11864,
+  "classification": [
+    {
+      "name": "Sign Language",
+      "id": "sign1238",
+      "url": "https://glottolog.org/resource/languoid/id/sign1238"
+    },
+    {
+      "name": "Deaf Sign Language",
+      "id": "deaf1237",
+      "url": "https://glottolog.org/resource/languoid/id/deaf1237"
+    },
+    {
+      "name": "BSLic",
+      "id": "bsli1234",
+      "url": "https://glottolog.org/resource/languoid/id/bsli1234"
+    },
+    {
+      "name": "South African Sign",
+      "id": "sout3228",
+      "url": "https://glottolog.org/resource/languoid/id/sout3228"
+    }
+  ],
+  "iso639-3": "sfs"
+}

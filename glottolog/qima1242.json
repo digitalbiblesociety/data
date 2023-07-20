@@ -1,0 +1,113 @@
+{
+  "pk": 5767,
+  "hid": "ahg",
+  "father_pk": 3824,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dembiya [demb1239]':1,'Falasha [fala1246]':1,'Kimant [nucl1704]':1,'Qwara [hwar1238]':1)'Qimant [qima1242][ahg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3793",
+        "label": "K'emant"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35663",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Qimant_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/qima1242",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kem",
+        "label": "Kemant"
+      }
+    ],
+    "meds": [
+      [
+        "18874",
+        "long_grammar",
+        2000,
+        339,
+        "Leyew, Zelealem 2000"
+      ],
+      [
+        "62851",
+        "long_grammar",
+        1912,
+        328,
+        "Conti Rossini, Carlo 1912"
+      ],
+      [
+        "71083",
+        "grammar",
+        1885,
+        159,
+        "Reinisch, Leo 1885, 1885, 1887"
+      ],
+      [
+        "26642",
+        "grammar",
+        1866,
+        0,
+        "Flad, Johann M. 1866"
+      ],
+      [
+        "571353",
+        "grammar",
+        1860,
+        0,
+        "Flad, J. M. A. 1860"
+      ],
+      [
+        "83649",
+        "wordlist_or_less",
+        1848,
+        3,
+        "Latham, Robert G. 1848"
+      ]
+    ]
+  },
+  "id": "qima1242",
+  "name": "Qimant",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.8119,
+  "longitude": 37.0542,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Cushitic",
+      "id": "cush1243",
+      "url": "https://glottolog.org/resource/languoid/id/cush1243"
+    },
+    {
+      "name": "Agaw",
+      "id": "cent2193",
+      "url": "https://glottolog.org/resource/languoid/id/cent2193"
+    },
+    {
+      "name": "Northern-Eastern-Western Agaw",
+      "id": "nort3158",
+      "url": "https://glottolog.org/resource/languoid/id/nort3158"
+    }
+  ],
+  "iso639-3": "ahg"
+}

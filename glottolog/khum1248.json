@@ -1,0 +1,103 @@
+{
+  "pk": 10226,
+  "hid": "cnk",
+  "father_pk": 7354,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kami [kami1254]':1,'Khami [kham1284]':1,'Khimi [khim1238]':1,'Khumi [khum1249]':1,'Khuni {Kumi Chin} [khun1258]':1,'Khweymi [khwe1238]':1,'Kumi [kumi1246]':1,'Ngala {Kumi Chin} [ngal1290]':1,'Yindi [yind1246]':1)'Khumi Chin [khum1248][cnk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 9,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_khu",
+        "label": "Khumi"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Khumi_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56308",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "576001",
+        "grammar_sketch",
+        2019,
+        44,
+        "David A. Peterson 2019"
+      ],
+      [
+        "11794",
+        "grammar_sketch",
+        1964,
+        0,
+        "Kim En Mang 1964"
+      ],
+      [
+        "18780",
+        "wordlist_or_less",
+        1895,
+        28,
+        "Bernard Houghton 1895"
+      ],
+      [
+        "40616",
+        "wordlist_or_less",
+        1866,
+        7,
+        "Lyman Stilson 1866"
+      ],
+      [
+        "73798",
+        "wordlist_or_less",
+        1853,
+        2,
+        "Hodgson, Brian Houghton 1853"
+      ]
+    ]
+  },
+  "id": "khum1248",
+  "name": "Khumi Chin",
+  "description": null,
+  "markup_description": null,
+  "latitude": 22.87125,
+  "longitude": 92.9894633333,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Kuki-Chin",
+      "id": "kuki1246",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1246"
+    },
+    {
+      "name": "Peripheral Kuki-Chin",
+      "id": "peri1260",
+      "url": "https://glottolog.org/resource/languoid/id/peri1260"
+    },
+    {
+      "name": "Khomic",
+      "id": "khom1240",
+      "url": "https://glottolog.org/resource/languoid/id/khom1240"
+    }
+  ],
+  "iso639-3": "cnk"
+}

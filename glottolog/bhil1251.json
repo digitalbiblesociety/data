@@ -1,0 +1,101 @@
+{
+  "pk": 16488,
+  "hid": "bhb",
+  "father_pk": 13882,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ahiri [ahir1242]':1,'Anarya [anar1243]':1,'Bhilodi [bhil1252]':1,'Bhim [bhim1238]':1,'Charani [char1267]':1,'Davar Varli [dava1244]':1,'Habura [habu1240]':1,'Konkani {Bhili} [konk1265]':1,'Kotali [kota1270]':1,'Magra Ki Boli [magr1238]':1,'Nahari {Bhili} [naha1260]':1,'Naikdi [naik1249]':1,'Panchali [panc1245]':1,'Patelia [pate1245]':1,'Ranawat [rana1245]':1,'Rani Bhil [rani1238]':1,'Siyalgir [siya1241]':1)'Bhili [bhil1251][bhb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 17,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q33229",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bhili_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/bhil1251",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bhi",
+        "label": "Bhili"
+      }
+    ],
+    "meds": [
+      [
+        "56645",
+        "grammar_sketch",
+        1895,
+        193,
+        "Chas S. Thompson 1895"
+      ],
+      [
+        "304733",
+        "wordlist_or_less",
+        1850,
+        4,
+        "Christopher P. Rigby 1850"
+      ]
+    ]
+  },
+  "id": "bhil1251",
+  "name": "Bhili",
+  "description": null,
+  "markup_description": null,
+  "latitude": 20.85,
+  "longitude": 73.9592,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Indo-Aryan",
+      "id": "indo1321",
+      "url": "https://glottolog.org/resource/languoid/id/indo1321"
+    },
+    {
+      "name": "Middle-Modern Indo-Aryan",
+      "id": "midd1375",
+      "url": "https://glottolog.org/resource/languoid/id/midd1375"
+    },
+    {
+      "name": "Continental Indo-Aryan",
+      "id": "cont1248",
+      "url": "https://glottolog.org/resource/languoid/id/cont1248"
+    },
+    {
+      "name": "Midlands Indo-Aryan",
+      "id": "midl1245",
+      "url": "https://glottolog.org/resource/languoid/id/midl1245"
+    },
+    {
+      "name": "Bhil",
+      "id": "bhil1254",
+      "url": "https://glottolog.org/resource/languoid/id/bhil1254"
+    }
+  ],
+  "iso639-3": "bhb"
+}

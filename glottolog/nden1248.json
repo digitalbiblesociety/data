@@ -1,0 +1,134 @@
+{
+  "pk": 21920,
+  "hid": "ndg",
+  "father_pk": 20178,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ndengereko [nden1248][ndg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "ndg",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 has Ndengereko [ndg] as well as Rufiji\n[rui] entry, but these terms denote the same language -- Ndengereko being the name of the language and Rufiji the name of a river and the area around it (**hh:el:Strom:Ndengereko**).  (Rufiji may also be used as a name for a subfamily that includes Ndengereko and other languages (**hh:h:Tanzania:Tanzania**:xi).) KiRufiji is a natural Swahili way to denote the language spoken in the Rufiji area, and this term is used in the Tanzania census, which is a plausible origin of the E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 entry. I wish to thank Eva-Marie Ström for discussion on the Ndengereko [ndg] and Rufiji [rui] entries. See also: Rufiji [rui]."
+    },
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6983726",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ndengereko_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "310766",
+        "long_grammar",
+        2013,
+        302,
+        "Ström, Eva-Marie 2013"
+      ],
+      [
+        "29697",
+        "phonology_or_text",
+        2006,
+        17,
+        "Ström, Eva-Marie 2006"
+      ],
+      [
+        "127729",
+        "wordlist_or_less",
+        2003,
+        2,
+        "Odden, David [Arnold] 2003"
+      ],
+      [
+        "8829",
+        "wordlist_or_less",
+        2002,
+        0,
+        "Maho, Jouni Filip and Sands, Bonny Eva 2002-2004"
+      ]
+    ]
+  },
+  "id": "nden1248",
+  "name": "Ndengereko",
+  "description": null,
+  "markup_description": null,
+  "latitude": -7.54628,
+  "longitude": 38.958,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Narrow Bantu",
+      "id": "narr1281",
+      "url": "https://glottolog.org/resource/languoid/id/narr1281"
+    },
+    {
+      "name": "East Bantu",
+      "id": "east2731",
+      "url": "https://glottolog.org/resource/languoid/id/east2731"
+    },
+    {
+      "name": "Rufiji-Ruvuma",
+      "id": "rufi1235",
+      "url": "https://glottolog.org/resource/languoid/id/rufi1235"
+    },
+    {
+      "name": "Rufijic",
+      "id": "rufi1236",
+      "url": "https://glottolog.org/resource/languoid/id/rufi1236"
+    },
+    {
+      "name": "Matumbic",
+      "id": "matu1263",
+      "url": "https://glottolog.org/resource/languoid/id/matu1263"
+    }
+  ],
+  "iso639-3": "ndg"
+}

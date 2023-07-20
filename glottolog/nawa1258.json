@@ -1,0 +1,67 @@
+{
+  "pk": 2906,
+  "hid": "nwr",
+  "father_pk": 1512,
+  "family_pk": 287,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Nawaru [nawa1258][nwr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4906",
+        "label": "Nawaru"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12638166",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nawaru_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "48352",
+        "grammar_sketch",
+        1978,
+        7,
+        "Harry Weimer 1978"
+      ],
+      [
+        "324335",
+        "wordlist_or_less",
+        1898,
+        6,
+        "MacGregor, William 1898"
+      ]
+    ]
+  },
+  "id": "nawa1258",
+  "name": "Nawaru",
+  "description": null,
+  "markup_description": null,
+  "latitude": -9.37935,
+  "longitude": 148.237,
+  "classification": [
+    {
+      "name": "Yareban",
+      "id": "yare1250",
+      "url": "https://glottolog.org/resource/languoid/id/yare1250"
+    },
+    {
+      "name": "Yareba-Bariji-Nawaru",
+      "id": "yare1251",
+      "url": "https://glottolog.org/resource/languoid/id/yare1251"
+    }
+  ],
+  "iso639-3": "nwr"
+}

@@ -1,0 +1,66 @@
+{
+  "pk": 6975,
+  "hid": "sjk",
+  "father_pk": 4781,
+  "family_pk": 302,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kemi Saami [kemi1239][sjk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Kemi_Sami",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35871",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "319159",
+        "phonology_or_text",
+        1673,
+        246,
+        "Johannes Schefferus 1673"
+      ]
+    ]
+  },
+  "id": "kemi1239",
+  "name": "Kemi Saami",
+  "description": null,
+  "markup_description": null,
+  "latitude": 67.093,
+  "longitude": 27.537,
+  "classification": [
+    {
+      "name": "Uralic",
+      "id": "ural1272",
+      "url": "https://glottolog.org/resource/languoid/id/ural1272"
+    },
+    {
+      "name": "Saami",
+      "id": "saam1281",
+      "url": "https://glottolog.org/resource/languoid/id/saam1281"
+    },
+    {
+      "name": "Eastern Saami",
+      "id": "east2324",
+      "url": "https://glottolog.org/resource/languoid/id/east2324"
+    },
+    {
+      "name": "Mainland Eastern Saami",
+      "id": "main1280",
+      "url": "https://glottolog.org/resource/languoid/id/main1280"
+    }
+  ],
+  "iso639-3": "sjk"
+}

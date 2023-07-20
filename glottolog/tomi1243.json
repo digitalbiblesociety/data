@@ -1,0 +1,87 @@
+{
+  "pk": 12128,
+  "hid": "txm",
+  "father_pk": 9243,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tomini [tomi1243][txm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2793",
+        "label": "Tomini"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7818911",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tomini_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "64608",
+        "grammar_sketch",
+        1982,
+        128,
+        "Sofyan, Inghuong A. and Arfah Adnan and Masyhudin Masyhuda and Sofyan B. Kambay 1982"
+      ],
+      [
+        "129118",
+        "phonology_or_text",
+        1871,
+        19,
+        "Riedel, J. G. F. 1871"
+      ]
+    ]
+  },
+  "id": "tomi1243",
+  "name": "Tomini",
+  "description": null,
+  "markup_description": null,
+  "latitude": 0.42569,
+  "longitude": 120.89,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Celebic",
+      "id": "cele1242",
+      "url": "https://glottolog.org/resource/languoid/id/cele1242"
+    },
+    {
+      "name": "Greater Eastern Celebic",
+      "id": "grea1299",
+      "url": "https://glottolog.org/resource/languoid/id/grea1299"
+    },
+    {
+      "name": "Tominic",
+      "id": "tomi1242",
+      "url": "https://glottolog.org/resource/languoid/id/tomi1242"
+    },
+    {
+      "name": "Northern Tomini",
+      "id": "nort2897",
+      "url": "https://glottolog.org/resource/languoid/id/nort2897"
+    }
+  ],
+  "iso639-3": "txm"
+}

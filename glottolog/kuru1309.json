@@ -1,0 +1,78 @@
+{
+  "pk": 1974,
+  "hid": "kyr",
+  "father_pk": 881,
+  "family_pk": 51,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kuruáya [kuru1309][kyr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3085",
+        "label": "Kuruaya"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3200633",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kuruaya_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kuru1309",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "656628",
+        "grammar_sketch",
+        1930,
+        30,
+        "na 1930"
+      ],
+      [
+        "125046",
+        "wordlist_or_less",
+        1913,
+        13,
+        "Snethlage, Emilia 1913"
+      ],
+      [
+        "84538",
+        "wordlist_or_less",
+        1910,
+        4,
+        "Snethlage, Emilia 1910"
+      ]
+    ]
+  },
+  "id": "kuru1309",
+  "name": "Kuruáya",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.09561,
+  "longitude": -52.2303,
+  "classification": [
+    {
+      "name": "Tupian",
+      "id": "tupi1275",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1275"
+    },
+    {
+      "name": "Mundurukuic",
+      "id": "mund1329",
+      "url": "https://glottolog.org/resource/languoid/id/mund1329"
+    }
+  ],
+  "iso639-3": "kyr"
+}

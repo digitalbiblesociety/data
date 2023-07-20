@@ -1,0 +1,92 @@
+{
+  "pk": 7497,
+  "hid": "twf",
+  "father_pk": 5159,
+  "family_pk": 369,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Taos [taos1236]':1)'Taos Northern Tiwa [nort1550][twf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6510",
+        "label": "Taos"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7684320",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Taos_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nort1550",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_twn",
+        "label": "Tiwa (Northern)"
+      }
+    ],
+    "meds": [
+      [
+        "49402",
+        "grammar_sketch",
+        1946,
+        38,
+        "George L. Trager 1946"
+      ],
+      [
+        "122331",
+        "grammar_sketch",
+        1910,
+        38,
+        "J. P. Harrington 1910"
+      ],
+      [
+        "310324",
+        "wordlist_or_less",
+        1879,
+        6,
+        "Albert S. Gatschet 1879"
+      ]
+    ]
+  },
+  "id": "nort1550",
+  "name": "Taos Northern Tiwa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 36.4277,
+  "longitude": -105.604,
+  "classification": [
+    {
+      "name": "Kiowa-Tanoan",
+      "id": "kiow1265",
+      "url": "https://glottolog.org/resource/languoid/id/kiow1265"
+    },
+    {
+      "name": "Tiwa-Piro",
+      "id": "tiwa1254",
+      "url": "https://glottolog.org/resource/languoid/id/tiwa1254"
+    },
+    {
+      "name": "Tiwa",
+      "id": "tiwa1255",
+      "url": "https://glottolog.org/resource/languoid/id/tiwa1255"
+    },
+    {
+      "name": "Taos-Picuris",
+      "id": "taos1246",
+      "url": "https://glottolog.org/resource/languoid/id/taos1246"
+    }
+  ],
+  "iso639-3": "twf"
+}

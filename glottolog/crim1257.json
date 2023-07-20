@@ -1,0 +1,105 @@
+{
+  "pk": 10790,
+  "hid": "crh",
+  "father_pk": 7840,
+  "family_pk": 14,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Crimean [cent1995]':1,'Cuman [cuma1241][qwm]':1,'Dobruja Tatar [dobr1234]':1,'Northern Crimean [nort2692]':1,'Southern Crimean [sout2700]':1)'Crimean Tatar [crim1257][crh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10423",
+        "label": "Crimean Tatar"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_cri",
+        "label": "Crimean Tatar"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Crimean_Tatar_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33357",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "589110",
+        "grammar_sketch",
+        2006,
+        220,
+        "Erich Prokosch 2006"
+      ],
+      [
+        "568125",
+        "grammar_sketch",
+        1989,
+        160,
+        "Ėnver Akmollaev 1989"
+      ],
+      [
+        "319108",
+        "grammar_sketch",
+        1313,
+        101,
+        "'Abū Ḥayyān al-'Andalusī 1931 [1313]"
+      ],
+      [
+        "572039",
+        "phonology_or_text",
+        1303,
+        314,
+        "Grønbech, Kaare 1942 [1303]"
+      ]
+    ]
+  },
+  "id": "crim1257",
+  "name": "Crimean Tatar",
+  "description": null,
+  "markup_description": null,
+  "latitude": 45,
+  "longitude": 34.08,
+  "classification": [
+    {
+      "name": "Turkic",
+      "id": "turk1311",
+      "url": "https://glottolog.org/resource/languoid/id/turk1311"
+    },
+    {
+      "name": "Common Turkic",
+      "id": "comm1245",
+      "url": "https://glottolog.org/resource/languoid/id/comm1245"
+    },
+    {
+      "name": "Kipchak",
+      "id": "kipc1239",
+      "url": "https://glottolog.org/resource/languoid/id/kipc1239"
+    },
+    {
+      "name": "West Kipchak",
+      "id": "west1472",
+      "url": "https://glottolog.org/resource/languoid/id/west1472"
+    },
+    {
+      "name": "Crimean Tatar-Urum",
+      "id": "crim1256",
+      "url": "https://glottolog.org/resource/languoid/id/crim1256"
+    },
+    {
+      "name": "Crimeaic",
+      "id": "crim1259",
+      "url": "https://glottolog.org/resource/languoid/id/crim1259"
+    }
+  ],
+  "iso639-3": "crh"
+}

@@ -1,0 +1,118 @@
+{
+  "pk": 8992,
+  "hid": "cbs",
+  "father_pk": 6507,
+  "family_pk": 273,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Brazilian Kashinawa [braz1248]':1,'Kapanawa of the Juruá River [kapa1256]':1,'Paranawa [para1325]':1,'Peruvian Kashinawa [peru1238]':1)'Cashinahua [cash1254][cbs]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1846",
+        "label": "Cashinahua"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_csh",
+        "label": "Cashinahua"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kashinawa_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/cash1254",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2591230",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "162719",
+        "long_grammar",
+        1991,
+        471,
+        "Eliane Camargo 1991"
+      ],
+      [
+        "15476",
+        "grammar",
+        1979,
+        165,
+        "Susan Montag 1979"
+      ],
+      [
+        "35338",
+        "grammar",
+        1974,
+        0,
+        "na 1974"
+      ],
+      [
+        "123752",
+        "grammar",
+        1963,
+        0,
+        "Cromack, Robert Earl 1963"
+      ],
+      [
+        "302942",
+        "grammar_sketch",
+        1914,
+        214,
+        "Capistrano de Abreu, João 1914"
+      ],
+      [
+        "94340",
+        "wordlist_or_less",
+        1902,
+        3,
+        "Felix Stegelmann 1902"
+      ]
+    ]
+  },
+  "id": "cash1254",
+  "name": "Cashinahua",
+  "description": null,
+  "markup_description": null,
+  "latitude": -9.72027,
+  "longitude": -71.1733,
+  "classification": [
+    {
+      "name": "Pano-Tacanan",
+      "id": "pano1259",
+      "url": "https://glottolog.org/resource/languoid/id/pano1259"
+    },
+    {
+      "name": "Panoan",
+      "id": "pano1256",
+      "url": "https://glottolog.org/resource/languoid/id/pano1256"
+    },
+    {
+      "name": "Mainline Pano",
+      "id": "main1279",
+      "url": "https://glottolog.org/resource/languoid/id/main1279"
+    },
+    {
+      "name": "Pano Nawa",
+      "id": "pano1257",
+      "url": "https://glottolog.org/resource/languoid/id/pano1257"
+    },
+    {
+      "name": "Headwaters Pano",
+      "id": "head1239",
+      "url": "https://glottolog.org/resource/languoid/id/head1239"
+    }
+  ],
+  "iso639-3": "cbs"
+}

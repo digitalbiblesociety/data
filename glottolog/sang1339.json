@@ -1,0 +1,78 @@
+{
+  "pk": 9401,
+  "hid": "scg",
+  "father_pk": 6818,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Sanggau [sang1339][scg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12473466",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sanggau_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "552252",
+        "wordlist_or_less",
+        2017,
+        5,
+        "Smith, Alexander 2017"
+      ],
+      [
+        "23345",
+        "wordlist_or_less",
+        1913,
+        2,
+        "Sidney H. Ray 1913"
+      ]
+    ]
+  },
+  "id": "sang1339",
+  "name": "Sanggau",
+  "description": null,
+  "markup_description": null,
+  "latitude": -0.13152,
+  "longitude": 110.404,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Land Dayak",
+      "id": "land1261",
+      "url": "https://glottolog.org/resource/languoid/id/land1261"
+    },
+    {
+      "name": "Bidayuh-Southern Land Dayak",
+      "id": "bida1239",
+      "url": "https://glottolog.org/resource/languoid/id/bida1239"
+    },
+    {
+      "name": "Southern Land Dayak",
+      "id": "sout2922",
+      "url": "https://glottolog.org/resource/languoid/id/sout2922"
+    }
+  ],
+  "iso639-3": "scg"
+}

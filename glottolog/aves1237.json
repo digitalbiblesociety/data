@@ -1,0 +1,80 @@
+{
+  "pk": 5613,
+  "hid": "ave",
+  "father_pk": 3706,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Avestan [aves1237][ave]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q29572",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Avestan",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "154478",
+        "long_grammar",
+        1878,
+        320,
+        "Abel Hovelacque 1878"
+      ],
+      [
+        "550942",
+        "phonology_or_text",
+        1874,
+        41,
+        "Müller, Eduard 1874"
+      ],
+      [
+        "314782",
+        "wordlist_or_less",
+        1854,
+        105,
+        "Bopp, Franz 1854"
+      ]
+    ]
+  },
+  "id": "aves1237",
+  "name": "Avestan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 34.217,
+  "longitude": 62.112,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Iranian",
+      "id": "iran1269",
+      "url": "https://glottolog.org/resource/languoid/id/iran1269"
+    }
+  ],
+  "iso639-3": "ave"
+}

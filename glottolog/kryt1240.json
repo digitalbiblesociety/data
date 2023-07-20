@@ -1,0 +1,100 @@
+{
+  "pk": 10673,
+  "hid": "kry",
+  "father_pk": 7770,
+  "family_pk": 426,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Alyk [alyk1238]':1,'Dzhek [dzhe1238]':1,'Kryts [kryz1238]':1,'Xaput [xapu1238]':1,'Yergyudzh [yerg1243]':1)'Kryz [kryt1240][kry]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2508",
+        "label": "Kryts"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35861",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kryts_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_krz",
+        "label": "Kryz"
+      }
+    ],
+    "meds": [
+      [
+        "30850",
+        "long_grammar",
+        2009,
+        415,
+        "Gilles Authier 2009"
+      ],
+      [
+        "70981",
+        "grammar",
+        2004,
+        0,
+        "Authier, Gilles 2004"
+      ],
+      [
+        "159390",
+        "grammar_sketch",
+        1994,
+        40,
+        "Saadiev, Sh. M. 1994"
+      ],
+      [
+        "557263",
+        "grammar_sketch",
+        1968,
+        0,
+        "Š. M. Saadiev 1968"
+      ]
+    ]
+  },
+  "id": "kryt1240",
+  "name": "Kryz",
+  "description": null,
+  "markup_description": null,
+  "latitude": 41.1811,
+  "longitude": 48.1846,
+  "classification": [
+    {
+      "name": "Nakh-Daghestanian",
+      "id": "nakh1245",
+      "url": "https://glottolog.org/resource/languoid/id/nakh1245"
+    },
+    {
+      "name": "Daghestanian",
+      "id": "dagh1238",
+      "url": "https://glottolog.org/resource/languoid/id/dagh1238"
+    },
+    {
+      "name": "Lezgic",
+      "id": "lezg1248",
+      "url": "https://glottolog.org/resource/languoid/id/lezg1248"
+    },
+    {
+      "name": "Samur",
+      "id": "nucl1321",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1321"
+    },
+    {
+      "name": "Southern Samur",
+      "id": "sout2753",
+      "url": "https://glottolog.org/resource/languoid/id/sout2753"
+    }
+  ],
+  "iso639-3": "kry"
+}

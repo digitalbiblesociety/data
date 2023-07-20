@@ -1,0 +1,98 @@
+{
+  "pk": 11673,
+  "hid": "wam",
+  "father_pk": 8801,
+  "family_pk": 178,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Wampanoag [wamp1249][wam]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mtt",
+        "label": "Massachusett"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/10009",
+        "label": "Wampanoag"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Massachusett_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56519",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "316829",
+        "grammar_sketch",
+        1989,
+        396,
+        "Goddard, Ives and Bragdon, Kathleen J. 1989"
+      ],
+      [
+        "304432",
+        "grammar_sketch",
+        1666,
+        122,
+        "John Eliot 1822 [1666]"
+      ],
+      [
+        "154598",
+        "wordlist_or_less",
+        1634,
+        61,
+        "Wood, William 2002 [1634]"
+      ]
+    ]
+  },
+  "id": "wamp1249",
+  "name": "Wampanoag",
+  "description": null,
+  "markup_description": null,
+  "latitude": 41.705,
+  "longitude": -73.3148,
+  "classification": [
+    {
+      "name": "Algic",
+      "id": "algi1248",
+      "url": "https://glottolog.org/resource/languoid/id/algi1248"
+    },
+    {
+      "name": "Algonquian-Blackfoot",
+      "id": "algo1256",
+      "url": "https://glottolog.org/resource/languoid/id/algo1256"
+    },
+    {
+      "name": "Algonquian",
+      "id": "algo1257",
+      "url": "https://glottolog.org/resource/languoid/id/algo1257"
+    },
+    {
+      "name": "Eastern Algonquian",
+      "id": "east2700",
+      "url": "https://glottolog.org/resource/languoid/id/east2700"
+    },
+    {
+      "name": "Maritimes-Southern New England Algonquian",
+      "id": "mari1452",
+      "url": "https://glottolog.org/resource/languoid/id/mari1452"
+    },
+    {
+      "name": "Southern New England Algonquian",
+      "id": "sout3237",
+      "url": "https://glottolog.org/resource/languoid/id/sout3237"
+    }
+  ],
+  "iso639-3": "wam"
+}

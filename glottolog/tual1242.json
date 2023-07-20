@@ -1,0 +1,58 @@
+{
+  "pk": 990,
+  "hid": "nrt",
+  "father_pk": 120,
+  "family_pk": 120,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tualatin-Yamhill [tual1242][nrt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3192121",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Northern_Kalapuya_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "319415",
+        "phonology_or_text",
+        1945,
+        99,
+        "Melville Jacobs 1945"
+      ],
+      [
+        "162143",
+        "wordlist_or_less",
+        1841,
+        2,
+        "John Scouler 1841"
+      ]
+    ]
+  },
+  "id": "tual1242",
+  "name": "Tualatin-Yamhill",
+  "description": null,
+  "markup_description": null,
+  "latitude": 45.327,
+  "longitude": -122.955,
+  "classification": [
+    {
+      "name": "Kalapuyan",
+      "id": "kala1402",
+      "url": "https://glottolog.org/resource/languoid/id/kala1402"
+    }
+  ],
+  "iso639-3": "nrt"
+}

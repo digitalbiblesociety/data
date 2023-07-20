@@ -1,0 +1,103 @@
+{
+  "pk": 9086,
+  "hid": "sll",
+  "father_pk": 6584,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Keri [keri1251]':1,'Salt {Salt-Yui} [salt1245]':1)'Salt-Yui [salt1242][sll]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_syu",
+        "label": "Salt-Yui"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Salt-Yui_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7405785",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "53259",
+        "grammar",
+        1974,
+        155,
+        "Barry Irwin 1974"
+      ],
+      [
+        "84134",
+        "grammar_sketch",
+        1972,
+        12,
+        "Longacre, Robert E. 1972"
+      ],
+      [
+        "91776",
+        "wordlist_or_less",
+        1971,
+        67,
+        "na 1971"
+      ],
+      [
+        "147891",
+        "wordlist_or_less",
+        1969,
+        0,
+        "na 1969"
+      ],
+      [
+        "313417",
+        "wordlist_or_less",
+        1962,
+        0,
+        "Irwin, Barry S. and Ruth Irwin 2007 [1962-1980]"
+      ]
+    ]
+  },
+  "id": "salt1242",
+  "name": "Salt-Yui",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.26519,
+  "longitude": 145.021,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Chimbu-Wahgi",
+      "id": "cent2120",
+      "url": "https://glottolog.org/resource/languoid/id/cent2120"
+    },
+    {
+      "name": "Simbu",
+      "id": "simb1258",
+      "url": "https://glottolog.org/resource/languoid/id/simb1258"
+    },
+    {
+      "name": "Nuclear Simbu",
+      "id": "nucl1617",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1617"
+    },
+    {
+      "name": "Golinic",
+      "id": "goli1246",
+      "url": "https://glottolog.org/resource/languoid/id/goli1246"
+    }
+  ],
+  "iso639-3": "sll"
+}

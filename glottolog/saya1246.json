@@ -1,0 +1,129 @@
+{
+  "pk": 16832,
+  "hid": "say",
+  "father_pk": 14255,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Sigidi [sigi1234]':1,('Gambar Zaar [gamb1260]':1,'Kal [kall1245]':1,'Lere {Sayanci} [lere1243]':1,'Lusa [lusa1234]':1)'Zaar [zaar1253]':1,'Zakshi [zaks1239]':1)'Saya [saya1246][say]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10434",
+        "label": "Zaar"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3914431",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Saya_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/saya1246",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "135752",
+        "grammar_sketch",
+        2005,
+        113,
+        "Caron, Bernard 2005"
+      ],
+      [
+        "65032",
+        "grammar_sketch",
+        2001,
+        60,
+        "Caron, Bernard 2001"
+      ],
+      [
+        "19643",
+        "grammar_sketch",
+        1975,
+        20,
+        "Shimizu, Kiyoshi 1975"
+      ],
+      [
+        "10348",
+        "grammar_sketch",
+        1974,
+        0,
+        "Shimizu, Kiyoshi 1974"
+      ],
+      [
+        "37513",
+        "phonology_or_text",
+        1971,
+        14,
+        "Schneeberg, Nan 1971"
+      ],
+      [
+        "109280",
+        "wordlist_or_less",
+        1907,
+        2,
+        "Gowers, W.F. 1907"
+      ]
+    ]
+  },
+  "id": "saya1246",
+  "name": "Saya",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.69441,
+  "longitude": 9.71748,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "West Chadic",
+      "id": "west2785",
+      "url": "https://glottolog.org/resource/languoid/id/west2785"
+    },
+    {
+      "name": "West Chadic B",
+      "id": "west2790",
+      "url": "https://glottolog.org/resource/languoid/id/west2790"
+    },
+    {
+      "name": "West Chadic B.3",
+      "id": "west2800",
+      "url": "https://glottolog.org/resource/languoid/id/west2800"
+    },
+    {
+      "name": "South Bauchi West",
+      "id": "sout3162",
+      "url": "https://glottolog.org/resource/languoid/id/sout3162"
+    },
+    {
+      "name": "Southwest South Bauchi",
+      "id": "sout3170",
+      "url": "https://glottolog.org/resource/languoid/id/sout3170"
+    },
+    {
+      "name": "Zakse-Saya",
+      "id": "zaks1240",
+      "url": "https://glottolog.org/resource/languoid/id/zaks1240"
+    }
+  ],
+  "iso639-3": "say"
+}

@@ -1,0 +1,165 @@
+{
+  "pk": 13088,
+  "hid": "krm",
+  "father_pk": 10048,
+  "family_pk": 320,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "'Krim [krim1238][krm]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "krm",
+      "name": "Krim",
+      "change_request": "2016-015",
+      "effective": "2017-01-31",
+      "reason": "merge",
+      "change_to": [
+        "bmf"
+      ],
+      "remedy": "Merge into [bmf] Bom",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/365",
+        "label": "Krim"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35713",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Krim_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/krim1238",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "666482",
+        "grammar",
+        1971,
+        0,
+        "Pichl, Walter J. 1971"
+      ],
+      [
+        "51336",
+        "grammar_sketch",
+        1961,
+        13,
+        "Hair, Paul Edward Hedley 1961"
+      ],
+      [
+        "148717",
+        "wordlist_or_less",
+        1841,
+        0,
+        "[1839a] 1841"
+      ],
+      [
+        "103304",
+        "wordlist_or_less",
+        1839,
+        0,
+        "[1839a] 1839"
+      ],
+      [
+        "52045",
+        "wordlist_or_less",
+        1791,
+        0,
+        "Ehrmann, Theophil Friedrich 1791/98"
+      ],
+      [
+        "132614",
+        "wordlist_or_less",
+        1686,
+        0,
+        "Dapper, Olfert 1686"
+      ],
+      [
+        "10516",
+        "wordlist_or_less",
+        1676,
+        0,
+        "Dapper, Olfert 1676"
+      ],
+      [
+        "114481",
+        "wordlist_or_less",
+        1670,
+        0,
+        "Dapper, Olfert 1670"
+      ],
+      [
+        "33938",
+        "wordlist_or_less",
+        1668,
+        0,
+        "Dapper, Olfert 1668"
+      ],
+      [
+        "20457",
+        "wordlist_or_less",
+        1506,
+        0,
+        "Pereira, Duarte Pacheco 1506"
+      ],
+      [
+        "77442",
+        "wordlist_or_less",
+        1505,
+        0,
+        "Pereira, Duarte Pacheco 1505/08"
+      ]
+    ]
+  },
+  "id": "krim1238",
+  "name": "Krim",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.24116,
+  "longitude": -11.8393,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Mel",
+      "id": "mela1257",
+      "url": "https://glottolog.org/resource/languoid/id/mela1257"
+    },
+    {
+      "name": "Southern Mel",
+      "id": "bull1245",
+      "url": "https://glottolog.org/resource/languoid/id/bull1245"
+    },
+    {
+      "name": "Bullom",
+      "id": "bull1246",
+      "url": "https://glottolog.org/resource/languoid/id/bull1246"
+    },
+    {
+      "name": "Northern Bullom",
+      "id": "nort3167",
+      "url": "https://glottolog.org/resource/languoid/id/nort3167"
+    },
+    {
+      "name": "Bom-Kim",
+      "id": "bomk1234",
+      "url": "https://glottolog.org/resource/languoid/id/bomk1234"
+    }
+  ],
+  "iso639-3": "krm"
+}

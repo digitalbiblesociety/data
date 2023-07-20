@@ -1,0 +1,66 @@
+{
+  "pk": 7001,
+  "hid": "enh",
+  "father_pk": 4797,
+  "family_pk": 302,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tundra Enets [tund1254][enh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3029",
+        "label": "Tundra Enets"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q25559411",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "132372",
+        "grammar_sketch",
+        1854,
+        43,
+        "Mathias Alexander, Castrén 1966 [1854]"
+      ]
+    ]
+  },
+  "id": "tund1254",
+  "name": "Tundra Enets",
+  "description": null,
+  "markup_description": null,
+  "latitude": 70.36,
+  "longitude": 84.08,
+  "classification": [
+    {
+      "name": "Uralic",
+      "id": "ural1272",
+      "url": "https://glottolog.org/resource/languoid/id/ural1272"
+    },
+    {
+      "name": "Samoyedic",
+      "id": "samo1298",
+      "url": "https://glottolog.org/resource/languoid/id/samo1298"
+    },
+    {
+      "name": "Enets-Nenets",
+      "id": "enet1251",
+      "url": "https://glottolog.org/resource/languoid/id/enet1251"
+    },
+    {
+      "name": "Enets",
+      "id": "enet1250",
+      "url": "https://glottolog.org/resource/languoid/id/enet1250"
+    }
+  ],
+  "iso639-3": "enh"
+}

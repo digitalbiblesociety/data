@@ -1,0 +1,90 @@
+{
+  "pk": 3693,
+  "hid": "taz",
+  "father_pk": 2017,
+  "family_pk": 59,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tocho [toch1257][taz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5115",
+        "label": "Tocho"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36680",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tocho_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/toch1257",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "323441",
+        "phonology_or_text",
+        2013,
+        18,
+        "Alaki, Thomas Kuku and Russell Norton 2013"
+      ],
+      [
+        "70992",
+        "phonology_or_text",
+        2004,
+        2,
+        "Spronk, Tanya 2004"
+      ],
+      [
+        "576940",
+        "wordlist_or_less",
+        1981,
+        7,
+        "Schadeberg, Thilo C. 1981"
+      ],
+      [
+        "137294",
+        "wordlist_or_less",
+        1931,
+        1,
+        "MacDiarmid, P. A. and MacDiarmid, D. N. 1931"
+      ]
+    ]
+  },
+  "id": "toch1257",
+  "name": "Tocho",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.8828,
+  "longitude": 30.1567,
+  "classification": [
+    {
+      "name": "Narrow Talodi",
+      "id": "narr1279",
+      "url": "https://glottolog.org/resource/languoid/id/narr1279"
+    },
+    {
+      "name": "Buram-Saraf",
+      "id": "bura1298",
+      "url": "https://glottolog.org/resource/languoid/id/bura1298"
+    },
+    {
+      "name": "Acheron-Tocho",
+      "id": "ache1247",
+      "url": "https://glottolog.org/resource/languoid/id/ache1247"
+    }
+  ],
+  "iso639-3": "taz"
+}

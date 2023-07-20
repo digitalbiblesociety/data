@@ -1,0 +1,105 @@
+{
+  "pk": 13273,
+  "hid": "nbi",
+  "father_pk": 10217,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Paomata [paom1238]':1)'Mao Naga [maon1238][nbi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5666",
+        "label": "Mao Naga"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12952905",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/maon1238",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nma",
+        "label": "Naga (Mao)"
+      }
+    ],
+    "meds": [
+      [
+        "47413",
+        "long_grammar",
+        1994,
+        512,
+        "P. P. Giridhar 1994"
+      ],
+      [
+        "588109",
+        "wordlist_or_less",
+        1974,
+        152,
+        "Braj Bihārī Kumār 1974"
+      ],
+      [
+        "85928",
+        "wordlist_or_less",
+        1967,
+        7,
+        "Marrison, Geoffrey E. 1967"
+      ],
+      [
+        "162861",
+        "wordlist_or_less",
+        1903,
+        4,
+        "George A. Grierson 1903"
+      ]
+    ]
+  },
+  "id": "maon1238",
+  "name": "Mao Naga",
+  "description": null,
+  "markup_description": null,
+  "latitude": 25.3836,
+  "longitude": 94.0035,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Angami-Ao",
+      "id": "anga1312",
+      "url": "https://glottolog.org/resource/languoid/id/anga1312"
+    },
+    {
+      "name": "Angami-Pochuri",
+      "id": "anga1286",
+      "url": "https://glottolog.org/resource/languoid/id/anga1286"
+    },
+    {
+      "name": "Angami-Mao",
+      "id": "anga1244",
+      "url": "https://glottolog.org/resource/languoid/id/anga1244"
+    },
+    {
+      "name": "Naga Maoic",
+      "id": "naga1397",
+      "url": "https://glottolog.org/resource/languoid/id/naga1397"
+    }
+  ],
+  "iso639-3": "nbi"
+}

@@ -1,0 +1,103 @@
+{
+  "pk": 10236,
+  "hid": "pkh",
+  "father_pk": 7356,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Pangkhua [pank1249][pkh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4971",
+        "label": "Pankhu"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7130962",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Pangkhu_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "585728",
+        "phonology_or_text",
+        2020,
+        33,
+        "Zahid Akter 2020"
+      ],
+      [
+        "144615",
+        "wordlist_or_less",
+        2011,
+        13,
+        "Kim, Amy and Roy, Palash and Sangma, Mridul 2011"
+      ],
+      [
+        "44986",
+        "wordlist_or_less",
+        1985,
+        8,
+        "Löffler, Lorenz G. 1985"
+      ],
+      [
+        "29610",
+        "wordlist_or_less",
+        1869,
+        8,
+        "Lewin, Thomas Herbert 1869"
+      ],
+      [
+        "147021",
+        "wordlist_or_less",
+        1845,
+        6,
+        "Barbe, M. 1845"
+      ]
+    ]
+  },
+  "id": "pank1249",
+  "name": "Pangkhua",
+  "description": null,
+  "markup_description": null,
+  "latitude": 22.4124,
+  "longitude": 92.4581,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Kuki-Chin",
+      "id": "kuki1246",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1246"
+    },
+    {
+      "name": "Central Kuki-Chin",
+      "id": "cent2330",
+      "url": "https://glottolog.org/resource/languoid/id/cent2330"
+    },
+    {
+      "name": "Core Central Kuki-Chin",
+      "id": "cent2005",
+      "url": "https://glottolog.org/resource/languoid/id/cent2005"
+    }
+  ],
+  "iso639-3": "pkh"
+}

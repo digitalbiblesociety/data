@@ -1,0 +1,80 @@
+{
+  "pk": 6657,
+  "hid": "kop",
+  "father_pk": 4568,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kwato [kwat1244][kop]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q11732373",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Waube_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "41696",
+        "wordlist_or_less",
+        2009,
+        26,
+        "Philip Lambrecht and Alison Kassell and Margaret Potter and Sarah Tucker 2009"
+      ],
+      [
+        "551581",
+        "wordlist_or_less",
+        1979,
+        12,
+        "Ian Priestley 1979"
+      ],
+      [
+        "16299",
+        "wordlist_or_less",
+        1975,
+        1,
+        "Z'Graggen, Johannes A. 1975"
+      ]
+    ]
+  },
+  "id": "kwat1244",
+  "name": "Kwato",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.53799,
+  "longitude": 145.629,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Madang",
+      "id": "mada1298",
+      "url": "https://glottolog.org/resource/languoid/id/mada1298"
+    },
+    {
+      "name": "Rai Coast",
+      "id": "raic1241",
+      "url": "https://glottolog.org/resource/languoid/id/raic1241"
+    },
+    {
+      "name": "Nuru",
+      "id": "nuru1240",
+      "url": "https://glottolog.org/resource/languoid/id/nuru1240"
+    }
+  ],
+  "iso639-3": "kop"
+}

@@ -1,0 +1,109 @@
+{
+  "pk": 12694,
+  "hid": "dyo",
+  "father_pk": 9788,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Buluf [bulu1250]':1,'Fonyi [fony1238]':1,'Kalounaye [kalo1258]':1,'Kombo [komb1268]':1,'Narang [nara1261]':1)'Jola-Fonyi [jola1263][dyo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_dio",
+        "label": "Diola-Fogny"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/8009",
+        "label": "Jola-Fonyi"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Jola-Fonyi_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/jola1263",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3507832",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "78612",
+        "long_grammar",
+        1995,
+        347,
+        "Hopkins, Bradley L. 1995"
+      ],
+      [
+        "73050",
+        "grammar",
+        1940,
+        168,
+        "Weiss, Henri 1940"
+      ],
+      [
+        "47313",
+        "grammar",
+        1939,
+        167,
+        "Weiss, Henri 1939"
+      ],
+      [
+        "54464",
+        "grammar_sketch",
+        1799,
+        0,
+        "Park, Mungo 1799"
+      ]
+    ]
+  },
+  "id": "jola1263",
+  "name": "Jola-Fonyi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.75752,
+  "longitude": -15.7354766667,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "North-Central Atlantic",
+      "id": "nort3146",
+      "url": "https://glottolog.org/resource/languoid/id/nort3146"
+    },
+    {
+      "name": "Central Atlantic",
+      "id": "cent2230",
+      "url": "https://glottolog.org/resource/languoid/id/cent2230"
+    },
+    {
+      "name": "Bak",
+      "id": "bakk1238",
+      "url": "https://glottolog.org/resource/languoid/id/bakk1238"
+    },
+    {
+      "name": "Joola-Manjaku",
+      "id": "jool1234",
+      "url": "https://glottolog.org/resource/languoid/id/jool1234"
+    },
+    {
+      "name": "Jola",
+      "id": "jola1264",
+      "url": "https://glottolog.org/resource/languoid/id/jola1264"
+    }
+  ],
+  "iso639-3": "dyo"
+}

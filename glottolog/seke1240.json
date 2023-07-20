@@ -1,0 +1,82 @@
+{
+  "pk": 10270,
+  "hid": "skj",
+  "father_pk": 7372,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Chuksang [chuk1269]':1,'Tangbe [tang1333]':1,'Tetang [teta1238]':1)'Seke {Nepal} [seke1240][skj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5688",
+        "label": "Seke (Nepal)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q30226846",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tbx",
+        "label": "Tangbe"
+      }
+    ],
+    "meds": [
+      [
+        "110710",
+        "grammar_sketch",
+        2003,
+        16,
+        "Isao Honda 2003"
+      ],
+      [
+        "18056",
+        "phonology_or_text",
+        2002,
+        20,
+        "Honda, Isao 2002"
+      ]
+    ]
+  },
+  "id": "seke1240",
+  "name": "Seke (Nepal)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 28.9251,
+  "longitude": 83.8064,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "Kaike-Ghale-Tamangic",
+      "id": "kaik1248",
+      "url": "https://glottolog.org/resource/languoid/id/kaik1248"
+    },
+    {
+      "name": "Ghale-Tamangic",
+      "id": "ghal1247",
+      "url": "https://glottolog.org/resource/languoid/id/ghal1247"
+    },
+    {
+      "name": "Tamangic",
+      "id": "tama1367",
+      "url": "https://glottolog.org/resource/languoid/id/tama1367"
+    }
+  ],
+  "iso639-3": "skj"
+}

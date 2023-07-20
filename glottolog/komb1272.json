@@ -1,0 +1,88 @@
+{
+  "pk": 5702,
+  "hid": "xbi",
+  "father_pk": 3758,
+  "family_pk": 103,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Mwi [mwii1234]':1,'Western Akwun [west2942]':1)'Akwun [nort2905]':1,'Miringi [miri1272]':1,'Sopmirek [sopm1234]':1,'Tong {Kombio} [tong1332]':1,'Wampukuamp [west2578]':1,'Wampurun [wamp1251]':1,'Yakangom [yaka1279]':1,'Yakio [yaki1238]':1,'Yakulmp [yaku1246]':1,'Yanimoi [sout2931]':1,'Yasile [yasi1245]':1,'Yassum [yass1241]':1)'Kombio [komb1272][xbi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 14,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10563",
+        "label": "Kombio"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_xbi",
+        "label": "Kombio"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kombio_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6428259",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "313614",
+        "grammar_sketch",
+        1992,
+        123,
+        "Farr, Joan (Henry) 1992"
+      ],
+      [
+        "27938",
+        "wordlist_or_less",
+        1991,
+        26,
+        "na 1991"
+      ],
+      [
+        "97332",
+        "wordlist_or_less",
+        1964,
+        2,
+        "David Glasgow and Richard Loving 1964"
+      ]
+    ]
+  },
+  "id": "komb1272",
+  "name": "Kombio",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.48467,
+  "longitude": 142.694,
+  "classification": [
+    {
+      "name": "Nuclear Torricelli",
+      "id": "nucl1708",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1708"
+    },
+    {
+      "name": "Kombio-Arapesh-Urat",
+      "id": "komb1276",
+      "url": "https://glottolog.org/resource/languoid/id/komb1276"
+    },
+    {
+      "name": "Kombio-Yambes",
+      "id": "komb1271",
+      "url": "https://glottolog.org/resource/languoid/id/komb1271"
+    },
+    {
+      "name": "Kombioic",
+      "id": "komb1275",
+      "url": "https://glottolog.org/resource/languoid/id/komb1275"
+    }
+  ],
+  "iso639-3": "xbi"
+}

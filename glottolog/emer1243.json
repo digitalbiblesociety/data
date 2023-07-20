@@ -1,0 +1,107 @@
+{
+  "pk": 13849,
+  "hid": "eme",
+  "father_pk": 10813,
+  "family_pk": 51,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Teko [emer1243][eme]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2598",
+        "label": "Emerillon"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Emerillon_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/emer1243",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3588942",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_eme",
+        "label": "Émérillon"
+      }
+    ],
+    "meds": [
+      [
+        "61707",
+        "long_grammar",
+        2003,
+        698,
+        "Françoise Rose 2003"
+      ],
+      [
+        "129522",
+        "grammar",
+        1998,
+        0,
+        "Maurel, Didier 1998"
+      ],
+      [
+        "116816",
+        "wordlist_or_less",
+        1892,
+        48,
+        "Henri Coudreau 1892"
+      ]
+    ]
+  },
+  "id": "emer1243",
+  "name": "Teko",
+  "description": null,
+  "markup_description": null,
+  "latitude": 3.23694,
+  "longitude": -52.3699,
+  "classification": [
+    {
+      "name": "Tupian",
+      "id": "tupi1275",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1275"
+    },
+    {
+      "name": "Maweti-Guarani",
+      "id": "mawe1252",
+      "url": "https://glottolog.org/resource/languoid/id/mawe1252"
+    },
+    {
+      "name": "Aweti-Guarani",
+      "id": "awet1245",
+      "url": "https://glottolog.org/resource/languoid/id/awet1245"
+    },
+    {
+      "name": "Tupi-Guarani",
+      "id": "tupi1276",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1276"
+    },
+    {
+      "name": "Tupi-Guarani Subgroup VIII",
+      "id": "tupi1281",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1281"
+    },
+    {
+      "name": "Wayampi-Zoe-Emerillon",
+      "id": "waya1271",
+      "url": "https://glottolog.org/resource/languoid/id/waya1271"
+    },
+    {
+      "name": "Zoe-Emerillon",
+      "id": "zoee1241",
+      "url": "https://glottolog.org/resource/languoid/id/zoee1241"
+    }
+  ],
+  "iso639-3": "eme"
+}

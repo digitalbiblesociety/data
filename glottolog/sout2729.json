@@ -1,0 +1,103 @@
+{
+  "pk": 10102,
+  "hid": "pmj",
+  "father_pk": 7263,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Renhe Pumi [renh1234]':1,'Xichuan Pumi [xich1234]':1,'Xinyingpan Pumi [xiny1234]':1)'Central Pumi [cent2357]':1,('Dayang Pumi [daya1246]':1,'Qinghua Pumi [qing1238]':1)'Western Pumi [west2926]':1)'Southern Pumi [sout2729][pmj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5608",
+        "label": "Southern Pumi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3403246",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/sout2729",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "549723",
+        "long_grammar",
+        2015,
+        664,
+        "Jiǎng, Yǐng 2015"
+      ],
+      [
+        "320109",
+        "long_grammar",
+        2014,
+        406,
+        "Picus Sizhi Ding 2014"
+      ],
+      [
+        "145489",
+        "long_grammar",
+        1998,
+        400,
+        "Sizhi Ding 1998"
+      ],
+      [
+        "42326",
+        "grammar",
+        1983,
+        65,
+        "Lu, Shaozun 1983"
+      ],
+      [
+        "309790",
+        "phonology_or_text",
+        1980,
+        15,
+        "Lu, Shaozun 1980"
+      ]
+    ]
+  },
+  "id": "sout2729",
+  "name": "Southern Pumi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.8408,
+  "longitude": 100.622,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Burmo-Qiangic",
+      "id": "burm1265",
+      "url": "https://glottolog.org/resource/languoid/id/burm1265"
+    },
+    {
+      "name": "Na-Qiangic",
+      "id": "naqi1236",
+      "url": "https://glottolog.org/resource/languoid/id/naqi1236"
+    },
+    {
+      "name": "Qiangic",
+      "id": "qian1263",
+      "url": "https://glottolog.org/resource/languoid/id/qian1263"
+    },
+    {
+      "name": "Pumi",
+      "id": "pumi1242",
+      "url": "https://glottolog.org/resource/languoid/id/pumi1242"
+    }
+  ],
+  "iso639-3": "pmj"
+}

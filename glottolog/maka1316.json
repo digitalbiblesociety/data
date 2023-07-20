@@ -1,0 +1,81 @@
+{
+  "pk": 2180,
+  "hid": "mkz",
+  "father_pk": 1004,
+  "family_pk": 125,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Makasai [maka1317]':1,'Maklere [makl1245][mjb]':1)'Makasae-Makalero [maka1316][mkz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mkj",
+        "label": "Makasae"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Makasae_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35782",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "51139",
+        "long_grammar",
+        2011,
+        700,
+        "Juliette Huber 2011"
+      ],
+      [
+        "56800",
+        "grammar_sketch",
+        1990,
+        161,
+        "Marques, Tito Lívio Nunes 1990"
+      ],
+      [
+        "102641",
+        "grammar_sketch",
+        1973,
+        0,
+        "Anonymous 1973"
+      ],
+      [
+        "12850",
+        "wordlist_or_less",
+        1944,
+        3,
+        "Capell, Arthur 1944, 1944, 1944"
+      ]
+    ]
+  },
+  "id": "maka1316",
+  "name": "Makasae-Makalero",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.65843,
+  "longitude": 126.507,
+  "classification": [
+    {
+      "name": "Timor-Alor-Pantar",
+      "id": "timo1261",
+      "url": "https://glottolog.org/resource/languoid/id/timo1261"
+    },
+    {
+      "name": "East Timor",
+      "id": "east2520",
+      "url": "https://glottolog.org/resource/languoid/id/east2520"
+    }
+  ],
+  "iso639-3": "mkz"
+}

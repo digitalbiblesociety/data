@@ -1,0 +1,93 @@
+{
+  "pk": 5121,
+  "hid": "lic",
+  "father_pk": 3307,
+  "family_pk": 356,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bendi {China} [bend1238]':1,'Ha {China} [haaa1237]':1,'Meifu [meif1236]':1,'Qi [qiii1237]':1)'Hlai [hlai1239][lic]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q934738",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Hlai_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_lic",
+        "label": "Hlai (Baoding)"
+      }
+    ],
+    "meds": [
+      [
+        "71987",
+        "grammar",
+        1999,
+        152,
+        "Yu. L. Blagonravova 1999"
+      ],
+      [
+        "87089",
+        "grammar_sketch",
+        1980,
+        137,
+        "Ouyang, Jueya 1980"
+      ],
+      [
+        "312535",
+        "grammar_sketch",
+        1951,
+        48,
+        "Wang Li and Qian Sun 1951"
+      ],
+      [
+        "42058",
+        "phonology_or_text",
+        1931,
+        98,
+        "F. M. Savina 1931"
+      ],
+      [
+        "139180",
+        "wordlist_or_less",
+        1911,
+        44,
+        "Walter Strzoda 1911"
+      ]
+    ]
+  },
+  "id": "hlai1239",
+  "name": "Hlai",
+  "description": null,
+  "markup_description": null,
+  "latitude": 18.8062,
+  "longitude": 109.459,
+  "classification": [
+    {
+      "name": "Tai-Kadai",
+      "id": "taik1256",
+      "url": "https://glottolog.org/resource/languoid/id/taik1256"
+    },
+    {
+      "name": "Hlaic",
+      "id": "hlai1238",
+      "url": "https://glottolog.org/resource/languoid/id/hlai1238"
+    },
+    {
+      "name": "Nuclear Hlaic",
+      "id": "nucl1241",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1241"
+    }
+  ],
+  "iso639-3": "lic"
+}

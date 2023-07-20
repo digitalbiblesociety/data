@@ -1,0 +1,81 @@
+{
+  "pk": 5865,
+  "hid": "csm",
+  "father_pk": 3900,
+  "family_pk": 128,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Eastern Central Sierra Miwok [east2547]':1,'Western Central Sierra Miwok [west2634]':1)'Central Sierra Miwok [cent2140][csm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4056",
+        "label": "Sierra Miwok"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2944443",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Central_Sierra_Miwok",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mcs",
+        "label": "Miwok (Central Sierra)"
+      }
+    ],
+    "meds": [
+      [
+        "17832",
+        "grammar",
+        1951,
+        68,
+        "Freeland, Lucy Shepard 1951"
+      ],
+      [
+        "31779",
+        "wordlist_or_less",
+        1854,
+        3,
+        "Adam Johnson 1854"
+      ]
+    ]
+  },
+  "id": "cent2140",
+  "name": "Central Sierra Miwok",
+  "description": null,
+  "markup_description": null,
+  "latitude": 38.0812,
+  "longitude": -120.257,
+  "classification": [
+    {
+      "name": "Miwok-Costanoan",
+      "id": "miwo1274",
+      "url": "https://glottolog.org/resource/languoid/id/miwo1274"
+    },
+    {
+      "name": "Miwokan",
+      "id": "miwo1275",
+      "url": "https://glottolog.org/resource/languoid/id/miwo1275"
+    },
+    {
+      "name": "Eastern Miwokan",
+      "id": "east2546",
+      "url": "https://glottolog.org/resource/languoid/id/east2546"
+    },
+    {
+      "name": "Sierra Miwokan",
+      "id": "sier1249",
+      "url": "https://glottolog.org/resource/languoid/id/sier1249"
+    }
+  ],
+  "iso639-3": "csm"
+}

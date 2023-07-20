@@ -1,0 +1,85 @@
+{
+  "pk": 10379,
+  "hid": "tcl",
+  "father_pk": 7410,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Taman {Myanmar} [tama1328][tcl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Taman_language_(Myanmar)",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q15616518",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "555792",
+        "wordlist_or_less",
+        2016,
+        17,
+        "Huziwara, Keisuke 2016"
+      ],
+      [
+        "30988",
+        "wordlist_or_less",
+        1911,
+        7,
+        "Brown, George Eustace Riou Grant 1911"
+      ],
+      [
+        "550447",
+        "wordlist_or_less",
+        1910,
+        22,
+        "C. C. Lowis 1910"
+      ]
+    ]
+  },
+  "id": "tama1328",
+  "name": "Taman (Myanmar)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 25.1566,
+  "longitude": 95.1171,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Brahmaputran",
+      "id": "brah1260",
+      "url": "https://glottolog.org/resource/languoid/id/brah1260"
+    },
+    {
+      "name": "Jingpho-Luish",
+      "id": "jing1259",
+      "url": "https://glottolog.org/resource/languoid/id/jing1259"
+    },
+    {
+      "name": "Luish",
+      "id": "sakk1239",
+      "url": "https://glottolog.org/resource/languoid/id/sakk1239"
+    },
+    {
+      "name": "Unclassified Luish",
+      "id": "uncl1508",
+      "url": "https://glottolog.org/resource/languoid/id/uncl1508"
+    }
+  ],
+  "iso639-3": "tcl"
+}

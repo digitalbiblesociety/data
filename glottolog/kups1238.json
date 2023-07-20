@@ -1,0 +1,81 @@
+{
+  "pk": 7051,
+  "hid": "kpz",
+  "father_pk": 4842,
+  "family_pk": 316,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Mbai [mbai1249]':1,'Sabiny [sabi1247]':1,'Sor [sorr1240]':1)'Kupsabiny [kups1238][kpz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56445",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kupsabiny_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kups1238",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_seb",
+        "label": "Sebei"
+      }
+    ],
+    "meds": [
+      [
+        "93685",
+        "grammar_sketch",
+        1966,
+        179,
+        "Montgomery, Christine Anne 1966"
+      ],
+      [
+        "576658",
+        "wordlist_or_less",
+        1924,
+        0,
+        "Roscoe, J. 1924"
+      ]
+    ]
+  },
+  "id": "kups1238",
+  "name": "Kupsabiny",
+  "description": null,
+  "markup_description": null,
+  "latitude": 1.33197,
+  "longitude": 34.5991,
+  "classification": [
+    {
+      "name": "Nilotic",
+      "id": "nilo1247",
+      "url": "https://glottolog.org/resource/languoid/id/nilo1247"
+    },
+    {
+      "name": "Southern Nilotic",
+      "id": "sout2830",
+      "url": "https://glottolog.org/resource/languoid/id/sout2830"
+    },
+    {
+      "name": "Kalenjin",
+      "id": "kale1246",
+      "url": "https://glottolog.org/resource/languoid/id/kale1246"
+    },
+    {
+      "name": "Elgon-Mau Kalenjin",
+      "id": "elgo1240",
+      "url": "https://glottolog.org/resource/languoid/id/elgo1240"
+    }
+  ],
+  "iso639-3": "kpz"
+}

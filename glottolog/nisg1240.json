@@ -1,0 +1,89 @@
+{
+  "pk": 3344,
+  "hid": "ncg",
+  "father_pk": 1779,
+  "family_pk": 375,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Nisga''a [nisg1240][ncg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5592",
+        "label": "Nisga'a"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nsg",
+        "label": "Nisgha"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nisga%27a_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nisg1240",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3342138",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "61228",
+        "long_grammar",
+        1989,
+        913,
+        "Marie-Lucie Tarpent 1989"
+      ],
+      [
+        "172009",
+        "grammar",
+        1977,
+        7,
+        "Rood, David S. 1977"
+      ],
+      [
+        "171791",
+        "phonology_or_text",
+        1897,
+        16,
+        "McCullagh, James Benjamin 1897"
+      ],
+      [
+        "310553",
+        "wordlist_or_less",
+        1895,
+        8,
+        "Boas, Franz 1895"
+      ]
+    ]
+  },
+  "id": "nisg1240",
+  "name": "Nisga'a",
+  "description": null,
+  "markup_description": null,
+  "latitude": 55.199,
+  "longitude": -129.192,
+  "classification": [
+    {
+      "name": "Tsimshian",
+      "id": "tsim1258",
+      "url": "https://glottolog.org/resource/languoid/id/tsim1258"
+    },
+    {
+      "name": "Nishga-Gitxsan",
+      "id": "nish1242",
+      "url": "https://glottolog.org/resource/languoid/id/nish1242"
+    }
+  ],
+  "iso639-3": "ncg"
+}

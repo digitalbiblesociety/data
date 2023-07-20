@@ -1,0 +1,83 @@
+{
+  "pk": 4879,
+  "hid": "ahp",
+  "father_pk": 3135,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Aproumu Aizi [apro1235][ahp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q34810",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Apro_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/apro1235",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_aiz",
+        "label": "Aizi"
+      }
+    ],
+    "meds": [
+      [
+        "585710",
+        "phonology_or_text",
+        2009,
+        0,
+        "Ahaté, Tamala Louise 2009"
+      ],
+      [
+        "585709",
+        "phonology_or_text",
+        2007,
+        0,
+        "Ahaté, Tamala Louise 2007"
+      ],
+      [
+        "163522",
+        "wordlist_or_less",
+        1983,
+        3,
+        "Marchese, Lynell and Hook, Ann 1983"
+      ]
+    ]
+  },
+  "id": "apro1235",
+  "name": "Aproumu Aizi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.20273,
+  "longitude": -4.52192,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Unclassified Volta-Congo",
+      "id": "unun9902",
+      "url": "https://glottolog.org/resource/languoid/id/unun9902"
+    }
+  ],
+  "iso639-3": "ahp"
+}

@@ -1,0 +1,95 @@
+{
+  "pk": 8176,
+  "hid": "xsa",
+  "father_pk": 5734,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Sabaic [saba1279][xsa]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "xsa",
+      "comment_type": "missing",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "The Ancient South Arabian language Sabaic is missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 (**hh:g:Stein:Sabaischen**)."
+    },
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q1070391",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sabaean_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "306820",
+        "long_grammar",
+        2003,
+        333,
+        "Peter Stein 2003"
+      ],
+      [
+        "317895",
+        "grammar_sketch",
+        1943,
+        218,
+        "Maria Höfner 1943"
+      ]
+    ]
+  },
+  "id": "saba1279",
+  "name": "Sabaic",
+  "description": null,
+  "markup_description": null,
+  "latitude": 15.42,
+  "longitude": 45.35,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Semitic",
+      "id": "semi1276",
+      "url": "https://glottolog.org/resource/languoid/id/semi1276"
+    },
+    {
+      "name": "West Semitic",
+      "id": "west2786",
+      "url": "https://glottolog.org/resource/languoid/id/west2786"
+    },
+    {
+      "name": "Central Semitic",
+      "id": "cent2236",
+      "url": "https://glottolog.org/resource/languoid/id/cent2236"
+    },
+    {
+      "name": "Sayhadic",
+      "id": "sayh1236",
+      "url": "https://glottolog.org/resource/languoid/id/sayh1236"
+    }
+  ],
+  "iso639-3": "xsa"
+}

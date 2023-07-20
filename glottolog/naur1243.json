@@ -1,0 +1,84 @@
+{
+  "pk": 12479,
+  "hid": "nau",
+  "father_pk": 9501,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Nauru [naur1243][nau]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3066",
+        "label": "Nauruan"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nau",
+        "label": "Nauruan"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nauruan_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q13307",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "549257",
+        "grammar_sketch",
+        1914,
+        265,
+        "Hambruch, Paul 1914"
+      ]
+    ]
+  },
+  "id": "naur1243",
+  "name": "Nauru",
+  "description": null,
+  "markup_description": null,
+  "latitude": -0.52957,
+  "longitude": 166.922,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Micronesian",
+      "id": "micr1243",
+      "url": "https://glottolog.org/resource/languoid/id/micr1243"
+    },
+    {
+      "name": "Kosraean-Nauruan",
+      "id": "kosr1239",
+      "url": "https://glottolog.org/resource/languoid/id/kosr1239"
+    }
+  ],
+  "iso639-3": "nau"
+}

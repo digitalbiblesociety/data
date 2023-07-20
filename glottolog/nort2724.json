@@ -1,0 +1,82 @@
+{
+  "pk": 5006,
+  "hid": "bfc",
+  "father_pk": 3187,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bijiang Bai [biji1251]':1,'Ega Bai [egab1234]':1,'Enqi Bai [enqi1234]':1,'Jinman Bai [nuji1238]':1,'Luobenzhuo Bai [luob1236]':1,'Tuoluo Bai [tuol1234]':1)'Northern Bai [nort2724][bfc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5606",
+        "label": "Lama"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12642165",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "578793",
+        "phonology_or_text",
+        2018,
+        165,
+        "Wilson Yeung 2018"
+      ],
+      [
+        "446918",
+        "phonology_or_text",
+        2012,
+        7,
+        "Jingqi Fu 2012"
+      ],
+      [
+        "148419",
+        "phonology_or_text",
+        1991,
+        8,
+        "Sun, Hongkai 1991"
+      ],
+      [
+        "126146",
+        "wordlist_or_less",
+        1912,
+        8,
+        "Lietard, Alfred 1912"
+      ]
+    ]
+  },
+  "id": "nort2724",
+  "name": "Northern Bai",
+  "description": null,
+  "markup_description": null,
+  "latitude": 26.925,
+  "longitude": 99.656,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Macro-Bai",
+      "id": "macr1275",
+      "url": "https://glottolog.org/resource/languoid/id/macr1275"
+    },
+    {
+      "name": "Baic",
+      "id": "baic1239",
+      "url": "https://glottolog.org/resource/languoid/id/baic1239"
+    }
+  ],
+  "iso639-3": "bfc"
+}

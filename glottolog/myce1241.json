@@ -1,0 +1,92 @@
+{
+  "pk": 8032,
+  "hid": "gmy",
+  "father_pk": 5633,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Arcado-Cypriot [arca1234]':1,'Mycenaean Greek [myce1242]':1)'Achaean Greek [myce1241][gmy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q668366",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mycenaean_Greek",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "586035",
+        "long_grammar",
+        2003,
+        682,
+        "Bartoněk, Antonín 2003"
+      ],
+      [
+        "322020",
+        "grammar_sketch",
+        1973,
+        328,
+        "Ventris, Michael and Chadwick, John 1973"
+      ],
+      [
+        "554970",
+        "grammar_sketch",
+        1965,
+        281,
+        "Doria, Mario 1965"
+      ],
+      [
+        "667827",
+        "wordlist_or_less",
+        1887,
+        39,
+        "Herbert Weir Smyth 1887"
+      ]
+    ]
+  },
+  "id": "myce1241",
+  "name": "Achaean Greek",
+  "description": null,
+  "markup_description": null,
+  "latitude": 37.73,
+  "longitude": 22.82,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Graeco-Phrygian",
+      "id": "grae1234",
+      "url": "https://glottolog.org/resource/languoid/id/grae1234"
+    },
+    {
+      "name": "Greek",
+      "id": "gree1276",
+      "url": "https://glottolog.org/resource/languoid/id/gree1276"
+    },
+    {
+      "name": "South Greek",
+      "id": "east2798",
+      "url": "https://glottolog.org/resource/languoid/id/east2798"
+    }
+  ],
+  "iso639-3": "gmy"
+}

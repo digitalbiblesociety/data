@@ -1,0 +1,92 @@
+{
+  "pk": 6126,
+  "hid": "lui",
+  "father_pk": 4116,
+  "family_pk": 155,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Juaneño [juan1251]':1,'Luiseño [luis1254]':1)'Luiseno-Juaneño [luis1253][lui]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1932",
+        "label": "Luiseño"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_lui",
+        "label": "Luiseño"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Luise%C3%B1o_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/luis1253",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56236",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "144940",
+        "grammar",
+        1960,
+        266,
+        "Kroeber, A[lfred] L[ouis] and Grace, George William 1960"
+      ],
+      [
+        "573723",
+        "grammar_sketch",
+        1908,
+        14,
+        "Kroeber, Alfred L. 1908"
+      ],
+      [
+        "127251",
+        "grammar_sketch",
+        1841,
+        0,
+        "Carlo Tagliavini 1926 [1841]"
+      ]
+    ]
+  },
+  "id": "luis1253",
+  "name": "Luiseno-Juaneño",
+  "description": null,
+  "markup_description": null,
+  "latitude": 33.3184,
+  "longitude": -116.939,
+  "classification": [
+    {
+      "name": "Uto-Aztecan",
+      "id": "utoa1244",
+      "url": "https://glottolog.org/resource/languoid/id/utoa1244"
+    },
+    {
+      "name": "Northern Uto-Aztecan",
+      "id": "nort2953",
+      "url": "https://glottolog.org/resource/languoid/id/nort2953"
+    },
+    {
+      "name": "Californian Uto-Aztecan",
+      "id": "cali1246",
+      "url": "https://glottolog.org/resource/languoid/id/cali1246"
+    },
+    {
+      "name": "Cupan",
+      "id": "cupa1239",
+      "url": "https://glottolog.org/resource/languoid/id/cupa1239"
+    }
+  ],
+  "iso639-3": "lui"
+}

@@ -1,0 +1,58 @@
+{
+  "pk": 821,
+  "hid": "thw",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Thudam [thud1238][thw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "thw",
+      "name": "Thudam",
+      "change_request": "2019-038",
+      "effective": "2020-03-19",
+      "reason": "merge",
+      "change_to": [
+        "ola"
+      ],
+      "remedy": "Merged into [ola] Walungge",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q22674828",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "584943",
+        "wordlist_or_less",
+        2019,
+        0,
+        "ISO 639-3 Registration Authority 2019"
+      ]
+    ]
+  },
+  "id": "thud1238",
+  "name": "Thudam",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.7678,
+  "longitude": 87.6189,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "thw"
+}

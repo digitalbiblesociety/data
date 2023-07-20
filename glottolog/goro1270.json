@@ -1,0 +1,98 @@
+{
+  "pk": 11139,
+  "hid": "gow",
+  "father_pk": 8228,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Gorowa [goro1270][gow]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Gorowa_language",
+        "label": null
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/10973",
+        "label": "Gorwaa"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_gor",
+        "label": "Gorowa"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3437626",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "572357",
+        "grammar_sketch",
+        2018,
+        282,
+        "Harvey, Andrew 2018"
+      ],
+      [
+        "54882",
+        "grammar_sketch",
+        1900,
+        11,
+        "Seidel, August 1900"
+      ],
+      [
+        "26912",
+        "wordlist_or_less",
+        1894,
+        27,
+        "Baumann, Oscar 1894"
+      ]
+    ]
+  },
+  "id": "goro1270",
+  "name": "Gorowa",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.23575,
+  "longitude": 35.7996,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Cushitic",
+      "id": "cush1243",
+      "url": "https://glottolog.org/resource/languoid/id/cush1243"
+    },
+    {
+      "name": "South Cushitic",
+      "id": "sout3054",
+      "url": "https://glottolog.org/resource/languoid/id/sout3054"
+    },
+    {
+      "name": "West Rift South Cushitic",
+      "id": "west2720",
+      "url": "https://glottolog.org/resource/languoid/id/west2720"
+    },
+    {
+      "name": "Northern West Rift South Cushitic",
+      "id": "nort3164",
+      "url": "https://glottolog.org/resource/languoid/id/nort3164"
+    },
+    {
+      "name": "Iraqwoid",
+      "id": "iraq1240",
+      "url": "https://glottolog.org/resource/languoid/id/iraq1240"
+    }
+  ],
+  "iso639-3": "gow"
+}

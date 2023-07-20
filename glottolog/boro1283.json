@@ -1,0 +1,66 @@
+{
+  "pk": 7153,
+  "hid": "xxb",
+  "father_pk": 4890,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Boro [boro1283][xxb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q16844787",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Boro_language_(Ghana)",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "79179",
+        "phonology_or_text",
+        1899,
+        4,
+        "Seidel, August 1899"
+      ]
+    ]
+  },
+  "id": "boro1283",
+  "name": "Boro",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.496728,
+  "longitude": 0.362291,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Kwa Volta-Congo",
+      "id": "kwav1236",
+      "url": "https://glottolog.org/resource/languoid/id/kwav1236"
+    },
+    {
+      "name": "Na-Togo",
+      "id": "nato1234",
+      "url": "https://glottolog.org/resource/languoid/id/nato1234"
+    }
+  ],
+  "iso639-3": "xxb"
+}

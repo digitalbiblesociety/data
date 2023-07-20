@@ -1,0 +1,89 @@
+{
+  "pk": 4854,
+  "hid": "mqu",
+  "father_pk": 3110,
+  "family_pk": 316,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mandari [mand1425][mqu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3285426",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mandari_dialect",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "319790",
+        "grammar_sketch",
+        2013,
+        214,
+        "Lutwori, Allen Pitya and Enike Amina Wani and Lodu Philip Jembeke and Robert Gajuk Paul Wanit and Martin Lomu Goke and Augustino Laku Buli 2013"
+      ],
+      [
+        "315352",
+        "phonology_or_text",
+        2012,
+        0,
+        "Andrew C. Hsiu 2012"
+      ],
+      [
+        "139280",
+        "wordlist_or_less",
+        1982,
+        11,
+        "Vossen, Rainer 1982"
+      ],
+      [
+        "130711",
+        "wordlist_or_less",
+        1953,
+        15,
+        "Huntingford, George Wynn Brereton 1953"
+      ],
+      [
+        "146652",
+        "wordlist_or_less",
+        1937,
+        7,
+        "Nalder, Leonard Fielding 1937"
+      ]
+    ]
+  },
+  "id": "mand1425",
+  "name": "Mandari",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.83656,
+  "longitude": 31.2327,
+  "classification": [
+    {
+      "name": "Nilotic",
+      "id": "nilo1247",
+      "url": "https://glottolog.org/resource/languoid/id/nilo1247"
+    },
+    {
+      "name": "Eastern Nilotic",
+      "id": "east2418",
+      "url": "https://glottolog.org/resource/languoid/id/east2418"
+    },
+    {
+      "name": "Barian",
+      "id": "bari1283",
+      "url": "https://glottolog.org/resource/languoid/id/bari1283"
+    }
+  ],
+  "iso639-3": "mqu"
+}

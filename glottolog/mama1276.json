@@ -1,0 +1,89 @@
+{
+  "pk": 9380,
+  "hid": "mqj",
+  "father_pk": 6804,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Mamasa [cent2102]':1,'Northern Mamasa [nort2896]':1,'Pattae'' [patt1250]':1)'Mamasa [mama1276][mqj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mms",
+        "label": "Mamasa"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mamasa_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6745452",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "63245",
+        "phonology_or_text",
+        1991,
+        45,
+        "Matti, David F. 1991"
+      ],
+      [
+        "152569",
+        "wordlist_or_less",
+        1984,
+        18,
+        "Stokhof, W. A. L. and Alma E. Almanar 1984"
+      ],
+      [
+        "141729",
+        "wordlist_or_less",
+        1930,
+        16,
+        "A. Bikker 1930"
+      ]
+    ]
+  },
+  "id": "mama1276",
+  "name": "Mamasa",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.0811,
+  "longitude": 119.484,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "South Sulawesi",
+      "id": "sout2923",
+      "url": "https://glottolog.org/resource/languoid/id/sout2923"
+    },
+    {
+      "name": "Northern South Sulawesi",
+      "id": "nort2894",
+      "url": "https://glottolog.org/resource/languoid/id/nort2894"
+    },
+    {
+      "name": "Torajic",
+      "id": "tora1260",
+      "url": "https://glottolog.org/resource/languoid/id/tora1260"
+    }
+  ],
+  "iso639-3": "mqj"
+}

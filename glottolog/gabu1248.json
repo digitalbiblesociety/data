@@ -1,0 +1,58 @@
+{
+  "pk": 775,
+  "hid": "gav",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Gabutamon [gabu1248][gav]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "gav",
+      "name": "Gabutamon",
+      "change_request": "2009-044",
+      "effective": "2010-01-18",
+      "reason": "merge",
+      "change_to": [
+        "dev"
+      ],
+      "remedy": "Merge into Domung[dev]",
+      "comment": "People in Gabutamon village consider themselves Domung speakers, and people in\nall other Domung villages consider Gabutamon to be a Domung village. Gabutamon\npeople reported understanding speakers from all Domung villages well, and\nspeakers from all but two Domung villages reported understanding people from\nGabutamon well. The two Domung villages that reported to not understand\nGabutamon speakers well are from the opposite end of the Domung dialect chain.\nPeople from Gabutamon and other Domung villages are working together\nsuccessfully on a Scripture translation project.\n\nReported data suggests that there is a dialect chain in the Domung area with\nGabutamon at one end and Sibgou, Kian, Dirit and Maramung at the other. Each\nvillage had a different way of breaking the chain into dialects. Putting the\ndifferent reported dialects together suggests the chain is as follows, starting\nfrom the Gabutamon end: Gabutamon; Maum and Kosit; Wakopop and Bobongat; Aunon;\nAyengket; Sibgou, Kian, Dirit, Swantan and Maramung. This is shown in the\nattached map.\n\nLexical similarity percentages support the fact that Gabutamon village is part\nof the Domung dialect chain. The map shows that Gabutamon is as closely related\nto Domung villages as the other Domung villages are to each other. For example,\nGabutamon and Kian, villages on the opposite ends of the Domung dialect chain,\nboth share 70% or more lexical similarity with two central Domung villages\n(Bobongat and Ayengket).\n\nThe criteria used by the survey team (based on 1991 ILAC recommendations) to\ndetermine language boundaries is listed below.\n\n-At least 70% lexical similarity with a linguistically determined central\ndialect;\n\n-Either high reported comprehension of a central dialect or intelligibility of\nat least 75% of a central dialect\n\n-Shared ethnolinguistic identity with the central dialect\n\nVillages at both ends of the Domung dialect chain (Gabutamon and Kian) meet\nthese criteria and should be included as part of the Domung language.\n\nSee map sketch on final page\n(http://www-01.sil.org/iso639-3/cr_files/2009-044.pdf)."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q25559467",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500716",
+        "wordlist_or_less",
+        2009,
+        0,
+        "ISO 639-3 Registration Authority 2009"
+      ]
+    ]
+  },
+  "id": "gabu1248",
+  "name": "Gabutamon",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.8075,
+  "longitude": 146.621,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "gav"
+}

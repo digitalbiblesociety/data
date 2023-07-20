@@ -1,0 +1,98 @@
+{
+  "pk": 10868,
+  "hid": "yah",
+  "father_pk": 7986,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Lower Yazgulyam [lowe1389]':1,'Upper Yazgulyam [uppe1401]':1)'Yazgulyam [yazg1240][yah]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3156",
+        "label": "Yazgulyami"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q34186",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yazghulami_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_yaz",
+        "label": "Yazgulyam"
+      }
+    ],
+    "meds": [
+      [
+        "156157",
+        "grammar_sketch",
+        1966,
+        220,
+        "Džoy I. Edel'man 1966"
+      ],
+      [
+        "312044",
+        "grammar_sketch",
+        1920,
+        49,
+        "Grierson, George A. 1920"
+      ],
+      [
+        "571662",
+        "phonology_or_text",
+        1916,
+        16,
+        "Robert Gauthiot 1916"
+      ]
+    ]
+  },
+  "id": "yazg1240",
+  "name": "Yazgulyam",
+  "description": null,
+  "markup_description": null,
+  "latitude": 38.2801,
+  "longitude": 71.565,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Iranian",
+      "id": "iran1269",
+      "url": "https://glottolog.org/resource/languoid/id/iran1269"
+    },
+    {
+      "name": "Central Eastern Iranian",
+      "id": "cent2399",
+      "url": "https://glottolog.org/resource/languoid/id/cent2399"
+    },
+    {
+      "name": "Shughni-Yazgulami",
+      "id": "shug1237",
+      "url": "https://glottolog.org/resource/languoid/id/shug1237"
+    }
+  ],
+  "iso639-3": "yah"
+}

@@ -1,0 +1,87 @@
+{
+  "pk": 11240,
+  "hid": "bhs",
+  "father_pk": 8280,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Buwal [buwa1243][bhs]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Buwal_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/buwa1243",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3515065",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "319511",
+        "long_grammar",
+        2013,
+        738,
+        "Melanie Helen Viljoen 2013"
+      ],
+      [
+        "14814",
+        "wordlist_or_less",
+        1984,
+        1,
+        "Barreteau, Daniel and Breton, Roland and Dieu, Michel 1984"
+      ]
+    ]
+  },
+  "id": "buwa1243",
+  "name": "Buwal",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.6151,
+  "longitude": 13.8838,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "Biu-Mandara",
+      "id": "bium1280",
+      "url": "https://glottolog.org/resource/languoid/id/bium1280"
+    },
+    {
+      "name": "South Biu-Mandara",
+      "id": "sout3145",
+      "url": "https://glottolog.org/resource/languoid/id/sout3145"
+    },
+    {
+      "name": "Dabaic",
+      "id": "bium1274",
+      "url": "https://glottolog.org/resource/languoid/id/bium1274"
+    },
+    {
+      "name": "Buwal-Gavar",
+      "id": "buwa1244",
+      "url": "https://glottolog.org/resource/languoid/id/buwa1244"
+    }
+  ],
+  "iso639-3": "bhs"
+}

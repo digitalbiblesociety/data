@@ -1,0 +1,76 @@
+{
+  "pk": 933,
+  "hid": "foi",
+  "father_pk": 86,
+  "family_pk": 86,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ifigi [ifig1238]':1,'Kafa {Papua New Guinea} [kafa1243]':1,'Kutubu [kutu1266]':1,'Mubi {Foi} [mubi1239]':1)'Foi [foii1241][foi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q5464146",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Foi_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_foe",
+        "label": "Foe"
+      }
+    ],
+    "meds": [
+      [
+        "50152",
+        "grammar_sketch",
+        1993,
+        112,
+        "Murray Rule 1993"
+      ],
+      [
+        "314451",
+        "grammar_sketch",
+        1952,
+        0,
+        "Joan E. Rule 1952"
+      ],
+      [
+        "29807",
+        "wordlist_or_less",
+        1942,
+        77,
+        "Francis E. Williams 1942"
+      ],
+      [
+        "29809",
+        "wordlist_or_less",
+        1940,
+        74,
+        "Franklin E. Williams 1940-1941, 1940-1941, 1940-1941, 1941-1942, 1941-1942"
+      ]
+    ]
+  },
+  "id": "foii1241",
+  "name": "Foi",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.47258,
+  "longitude": 143.495,
+  "classification": [
+    {
+      "name": "East Kutubu",
+      "id": "east2499",
+      "url": "https://glottolog.org/resource/languoid/id/east2499"
+    }
+  ],
+  "iso639-3": "foi"
+}

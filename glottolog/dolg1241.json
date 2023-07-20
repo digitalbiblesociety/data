@@ -1,0 +1,87 @@
+{
+  "pk": 3552,
+  "hid": "dlg",
+  "father_pk": 1900,
+  "family_pk": 14,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Dolgan [dolg1241][dlg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2213",
+        "label": "Dolgan"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_dol",
+        "label": "Dolgan"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dolgan_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/dolg1241",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q32878",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "39599",
+        "long_grammar",
+        2011,
+        698,
+        "Li, Yong-Sŏng 2011"
+      ],
+      [
+        "63191",
+        "grammar",
+        1985,
+        217,
+        "Ubrjatova, Elizaveta Ivanovna 1985"
+      ],
+      [
+        "409404",
+        "wordlist_or_less",
+        1956,
+        93,
+        "M. G. Levin and L. P. Potapov 1956"
+      ]
+    ]
+  },
+  "id": "dolg1241",
+  "name": "Dolgan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 71.10828,
+  "longitude": 94.29358,
+  "classification": [
+    {
+      "name": "Turkic",
+      "id": "turk1311",
+      "url": "https://glottolog.org/resource/languoid/id/turk1311"
+    },
+    {
+      "name": "Common Turkic",
+      "id": "comm1245",
+      "url": "https://glottolog.org/resource/languoid/id/comm1245"
+    },
+    {
+      "name": "North Siberian Turkic",
+      "id": "nort2688",
+      "url": "https://glottolog.org/resource/languoid/id/nort2688"
+    }
+  ],
+  "iso639-3": "dlg"
+}

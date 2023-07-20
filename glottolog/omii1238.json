@@ -1,0 +1,73 @@
+{
+  "pk": 5921,
+  "hid": "omi",
+  "father_pk": 3954,
+  "family_pk": 140,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Omi [omii1238][omi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56795",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Omi_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "12910",
+        "grammar_sketch",
+        1986,
+        13,
+        "Goyvaerts, D. L. 1986"
+      ],
+      [
+        "57104",
+        "wordlist_or_less",
+        1973,
+        0,
+        "Alo, E. 1973"
+      ]
+    ]
+  },
+  "id": "omii1238",
+  "name": "Omi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 3.2542,
+  "longitude": 30.5385,
+  "classification": [
+    {
+      "name": "Central Sudanic",
+      "id": "cent2225",
+      "url": "https://glottolog.org/resource/languoid/id/cent2225"
+    },
+    {
+      "name": "Moru-Madi",
+      "id": "moru1252",
+      "url": "https://glottolog.org/resource/languoid/id/moru1252"
+    },
+    {
+      "name": "Central Moru-Madi",
+      "id": "cent2043",
+      "url": "https://glottolog.org/resource/languoid/id/cent2043"
+    },
+    {
+      "name": "Kalikoic",
+      "id": "kali1312",
+      "url": "https://glottolog.org/resource/languoid/id/kali1312"
+    }
+  ],
+  "iso639-3": "omi"
+}

@@ -1,0 +1,83 @@
+{
+  "pk": 12292,
+  "hid": "ulm",
+  "father_pk": 9375,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Botteng [bott1237]':1,'Sondoang [sond1252]':1,'Tappalang [tapp1240]':1)'Ulumanda'' [ulum1237][ulm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Ulumanda%CA%BC_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3501892",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "46722",
+        "wordlist_or_less",
+        1993,
+        18,
+        "Smith, Beverly Kean 1993"
+      ],
+      [
+        "122191",
+        "wordlist_or_less",
+        1987,
+        3,
+        "Grimes, Charles E. and Grimes, Barbara D. 1987"
+      ]
+    ]
+  },
+  "id": "ulum1237",
+  "name": "Ulumanda'",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.00933,
+  "longitude": 118.994,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "South Sulawesi",
+      "id": "sout2923",
+      "url": "https://glottolog.org/resource/languoid/id/sout2923"
+    },
+    {
+      "name": "Northern South Sulawesi",
+      "id": "nort2894",
+      "url": "https://glottolog.org/resource/languoid/id/nort2894"
+    },
+    {
+      "name": "Pitu Ulunna Salu",
+      "id": "pitu1237",
+      "url": "https://glottolog.org/resource/languoid/id/pitu1237"
+    },
+    {
+      "name": "Matangnga-Aralle-Tabulahan",
+      "id": "mata1312",
+      "url": "https://glottolog.org/resource/languoid/id/mata1312"
+    }
+  ],
+  "iso639-3": "ulm"
+}

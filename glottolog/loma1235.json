@@ -1,0 +1,70 @@
+{
+  "pk": 2213,
+  "hid": "rmi",
+  "father_pk": 1020,
+  "family_pk": 135,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Speech Register",
+  "newick": "'Lomavren [loma1235][rmi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q2495696",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lomavren_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "478458",
+        "grammar_sketch",
+        2011,
+        9,
+        "Vardan Voskanian 2011"
+      ],
+      [
+        "314478",
+        "phonology_or_text",
+        1907,
+        33,
+        "Finck, Franz Nikolaus 1907"
+      ],
+      [
+        "461878",
+        "wordlist_or_less",
+        1887,
+        80,
+        "Kerope P. Patkanov 1887"
+      ]
+    ]
+  },
+  "id": "loma1235",
+  "name": "Lomavren",
+  "description": null,
+  "markup_description": null,
+  "latitude": 41.599419,
+  "longitude": 44.094985,
+  "classification": [
+    {
+      "name": "Speech Register",
+      "id": "spee1234",
+      "url": "https://glottolog.org/resource/languoid/id/spee1234"
+    },
+    {
+      "name": "Indo-European Speech Register",
+      "id": "indo1335",
+      "url": "https://glottolog.org/resource/languoid/id/indo1335"
+    }
+  ],
+  "iso639-3": "rmi"
+}

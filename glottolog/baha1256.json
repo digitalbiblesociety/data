@@ -1,0 +1,84 @@
+{
+  "pk": 7467,
+  "hid": "yha",
+  "father_pk": 5119,
+  "family_pk": 356,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Baha Buyang [baha1256][yha]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1514",
+        "label": "Baha Buyang"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2879238",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Paha_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "137029",
+        "grammar",
+        1999,
+        286,
+        "Li, Jinfang 1999"
+      ],
+      [
+        "135760",
+        "phonology_or_text",
+        1996,
+        10,
+        "Jinfang Li 1996"
+      ],
+      [
+        "306330",
+        "wordlist_or_less",
+        1990,
+        9,
+        "Min, Liang 1990"
+      ]
+    ]
+  },
+  "id": "baha1256",
+  "name": "Baha Buyang",
+  "description": null,
+  "markup_description": null,
+  "latitude": 23.0105,
+  "longitude": 104.449,
+  "classification": [
+    {
+      "name": "Tai-Kadai",
+      "id": "taik1256",
+      "url": "https://glottolog.org/resource/languoid/id/taik1256"
+    },
+    {
+      "name": "Kadaic",
+      "id": "kada1291",
+      "url": "https://glottolog.org/resource/languoid/id/kada1291"
+    },
+    {
+      "name": "Southwestern Kra",
+      "id": "sout3143",
+      "url": "https://glottolog.org/resource/languoid/id/sout3143"
+    },
+    {
+      "name": "Southern Kra",
+      "id": "paha1254",
+      "url": "https://glottolog.org/resource/languoid/id/paha1254"
+    }
+  ],
+  "iso639-3": "yha"
+}

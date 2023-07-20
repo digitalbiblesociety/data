@@ -1,0 +1,63 @@
+{
+  "pk": 2772,
+  "hid": "tas",
+  "father_pk": 1306,
+  "family_pk": 260,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Pidgin",
+  "newick": "'Tay Boi [tayb1240][tas]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q2233794",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/T%C3%A2y_B%E1%BB%93i_Pidgin_French",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "96627",
+        "grammar_sketch",
+        1979,
+        30,
+        "Liem, Nguyen Dang 1979"
+      ],
+      [
+        "125309",
+        "grammar_sketch",
+        1888,
+        14,
+        "Hugo Schuchardt 1888"
+      ]
+    ]
+  },
+  "id": "tayb1240",
+  "name": "Tay Boi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 13.8962,
+  "longitude": 108.257,
+  "classification": [
+    {
+      "name": "Pidgin",
+      "id": "pidg1258",
+      "url": "https://glottolog.org/resource/languoid/id/pidg1258"
+    },
+    {
+      "name": "French-based pidgin",
+      "id": "fren1279",
+      "url": "https://glottolog.org/resource/languoid/id/fren1279"
+    }
+  ],
+  "iso639-3": "tas"
+}

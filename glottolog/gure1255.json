@@ -1,0 +1,101 @@
+{
+  "pk": 8464,
+  "hid": "gnr",
+  "father_pk": 6004,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dhungaloo [dhun1239][dhx]':1)'Gureng Gureng [gure1255][gnr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/e32",
+        "label": "GOORENG GOORENG"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/6351",
+        "label": "Gureng Gureng"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ggu",
+        "label": "Gureng Gureng"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Taribelang_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/gure1255",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5619998",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "46461",
+        "grammar_sketch",
+        1975,
+        209,
+        "Brasch, Sarah L. 1975"
+      ],
+      [
+        "6300",
+        "wordlist_or_less",
+        1913,
+        11,
+        "Mathew, John 1913"
+      ],
+      [
+        "477676",
+        "wordlist_or_less",
+        1875,
+        8,
+        "Ridley, William 1875"
+      ]
+    ]
+  },
+  "id": "gure1255",
+  "name": "Gureng Gureng",
+  "description": null,
+  "markup_description": null,
+  "latitude": -25.3893,
+  "longitude": 151.175,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Southeastern Pama-Nyungan",
+      "id": "sout3135",
+      "url": "https://glottolog.org/resource/languoid/id/sout3135"
+    },
+    {
+      "name": "North Coast Pama-Nyungan",
+      "id": "nort3154",
+      "url": "https://glottolog.org/resource/languoid/id/nort3154"
+    },
+    {
+      "name": "Waka-Kabic",
+      "id": "waka1283",
+      "url": "https://glottolog.org/resource/languoid/id/waka1283"
+    },
+    {
+      "name": "Eastern Waka-Kabic",
+      "id": "east2717",
+      "url": "https://glottolog.org/resource/languoid/id/east2717"
+    }
+  ],
+  "iso639-3": "gnr"
+}

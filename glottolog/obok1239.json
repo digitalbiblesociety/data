@@ -1,0 +1,81 @@
+{
+  "pk": 7567,
+  "hid": "afz",
+  "father_pk": 5248,
+  "family_pk": 396,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Obokuitai [obok1239][afz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2728",
+        "label": "Obokuitai"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7075258",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Obokuitai_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_obk",
+        "label": "Obokuitai"
+      }
+    ],
+    "meds": [
+      [
+        "549704",
+        "grammar_sketch",
+        1995,
+        66,
+        "Jenison, D. Scott 1995"
+      ],
+      [
+        "27153",
+        "phonology_or_text",
+        1991,
+        22,
+        "Jenison, Priscilla B. and Jenison, D. Scott 1991"
+      ]
+    ]
+  },
+  "id": "obok1239",
+  "name": "Obokuitai",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.88029,
+  "longitude": 137.924,
+  "classification": [
+    {
+      "name": "Lakes Plain",
+      "id": "lake1255",
+      "url": "https://glottolog.org/resource/languoid/id/lake1255"
+    },
+    {
+      "name": "Tariku",
+      "id": "tari1255",
+      "url": "https://glottolog.org/resource/languoid/id/tari1255"
+    },
+    {
+      "name": "East Tariku",
+      "id": "east2502",
+      "url": "https://glottolog.org/resource/languoid/id/east2502"
+    },
+    {
+      "name": "Eritai-Obokuitai-Biritai",
+      "id": "erit1238",
+      "url": "https://glottolog.org/resource/languoid/id/erit1238"
+    }
+  ],
+  "iso639-3": "afz"
+}

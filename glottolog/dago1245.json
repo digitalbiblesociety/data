@@ -1,0 +1,51 @@
+{
+  "pk": 891,
+  "hid": "dgn",
+  "father_pk": 55,
+  "family_pk": 55,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Dagoman [dago1245][dgn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/n38",
+        "label": "Dagoman"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q10465931",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "103817",
+        "wordlist_or_less",
+        1994,
+        1,
+        "Francesca C. Merlan 1994"
+      ]
+    ]
+  },
+  "id": "dago1245",
+  "name": "Dagoman",
+  "description": null,
+  "markup_description": null,
+  "latitude": -15.764,
+  "longitude": 132.379,
+  "classification": [
+    {
+      "name": "Yangmanic",
+      "id": "yang1287",
+      "url": "https://glottolog.org/resource/languoid/id/yang1287"
+    }
+  ],
+  "iso639-3": "dgn"
+}

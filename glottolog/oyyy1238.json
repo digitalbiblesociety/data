@@ -1,0 +1,77 @@
+{
+  "pk": 7694,
+  "hid": "oyb",
+  "father_pk": 5327,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Inn Tea [innt1238]':1,'Jeng [jeng1241][jeg]':1,'Kranyeu [kran1247]':1,'Riyao [riya1238]':1,'Sok [sokk1239][skk]':1,'Tamal Euy [tama1324]':1)'Oy [oyyy1238][oyb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Oi_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_oi",
+        "label": "Oi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q13018626",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "579755",
+        "phonology_or_text",
+        2020,
+        26,
+        "Jennifer L. Daniell 2020"
+      ],
+      [
+        "151548",
+        "wordlist_or_less",
+        1919,
+        12,
+        "Prachakitchakonrachak, Phraya and Thomas, David D. and Sophana Srichampa 1995 [1919]"
+      ]
+    ]
+  },
+  "id": "oyyy1238",
+  "name": "Oy",
+  "description": null,
+  "markup_description": null,
+  "latitude": 15.42,
+  "longitude": 106.658,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Bahnaric",
+      "id": "bahn1264",
+      "url": "https://glottolog.org/resource/languoid/id/bahn1264"
+    },
+    {
+      "name": "West Bahnaric",
+      "id": "west2399",
+      "url": "https://glottolog.org/resource/languoid/id/west2399"
+    },
+    {
+      "name": "Nuclear West Bahnaric",
+      "id": "nucl1299",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1299"
+    }
+  ],
+  "iso639-3": "oyb"
+}

@@ -1,0 +1,127 @@
+{
+  "pk": 18821,
+  "hid": "mzn",
+  "father_pk": 16566,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Kalarestaqi [kala1412]':1,'Kelardashti [kela1262]':1,'Ramsari [rams1234]':1,'Tonekaboni [tone1234]':1)'Central Caspian [cent2360]':1,'Gachsari [gach1240]':1,'Galeshi of Mazanderan [gale1256]':1,('Eastern Mazanderani [east2854]':1,'Western Mazanderani [west2944]':1)'Nuclear Mazanderani [nucl1270]':1,'Velatru [vela1234]':1)'Mazanderani [maza1291][mzn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 11,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mzn",
+        "label": "Mazanderani"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mazanderani_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/maza1291",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q13356",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "552284",
+        "grammar_sketch",
+        1995,
+        243,
+        "Šokri, Giti 1374 [1995]"
+      ],
+      [
+        "317886",
+        "grammar_sketch",
+        1984,
+        48,
+        "Nawata, Tetsuo 1984"
+      ],
+      [
+        "311766",
+        "grammar_sketch",
+        1982,
+        31,
+        "Vera S. Rastorgueva and Džoy I. Èdel'man 1982"
+      ],
+      [
+        "450040",
+        "grammar_sketch",
+        1904,
+        9,
+        "de Morgan, Jacques 1904"
+      ],
+      [
+        "665303",
+        "wordlist_or_less",
+        1868,
+        15,
+        "G. Melgounof 1868"
+      ]
+    ]
+  },
+  "id": "maza1291",
+  "name": "Mazanderani",
+  "description": null,
+  "markup_description": null,
+  "latitude": 36.241,
+  "longitude": 52.3009,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Iranian",
+      "id": "iran1269",
+      "url": "https://glottolog.org/resource/languoid/id/iran1269"
+    },
+    {
+      "name": "Central Iranian PBS",
+      "id": "cent2317",
+      "url": "https://glottolog.org/resource/languoid/id/cent2317"
+    },
+    {
+      "name": "Central Iranian PB",
+      "id": "cent2318",
+      "url": "https://glottolog.org/resource/languoid/id/cent2318"
+    },
+    {
+      "name": "Northwestern Iranian",
+      "id": "nort3177",
+      "url": "https://glottolog.org/resource/languoid/id/nort3177"
+    },
+    {
+      "name": "Caspian",
+      "id": "casp1236",
+      "url": "https://glottolog.org/resource/languoid/id/casp1236"
+    },
+    {
+      "name": "Mazanderani-Shahmirzadi",
+      "id": "maza1305",
+      "url": "https://glottolog.org/resource/languoid/id/maza1305"
+    }
+  ],
+  "iso639-3": "mzn"
+}

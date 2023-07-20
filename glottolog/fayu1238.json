@@ -1,0 +1,77 @@
+{
+  "pk": 7561,
+  "hid": "fau",
+  "father_pk": 5244,
+  "family_pk": 396,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Fayu [fayu1238][fau]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1762",
+        "label": "Fayu"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5439113",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Fayu_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "580998",
+        "grammar_sketch",
+        2020,
+        141,
+        "Maitland, Page Alana Ogilvie 2020"
+      ],
+      [
+        "68632",
+        "phonology_or_text",
+        1993,
+        1,
+        "Heljä Clouse and Duane Clouse 1993"
+      ]
+    ]
+  },
+  "id": "fayu1238",
+  "name": "Fayu",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.14497,
+  "longitude": 136.867,
+  "classification": [
+    {
+      "name": "Lakes Plain",
+      "id": "lake1255",
+      "url": "https://glottolog.org/resource/languoid/id/lake1255"
+    },
+    {
+      "name": "Tariku",
+      "id": "tari1255",
+      "url": "https://glottolog.org/resource/languoid/id/tari1255"
+    },
+    {
+      "name": "West Tariku",
+      "id": "west2582",
+      "url": "https://glottolog.org/resource/languoid/id/west2582"
+    },
+    {
+      "name": "Fayu-Kirikiri",
+      "id": "fayu1239",
+      "url": "https://glottolog.org/resource/languoid/id/fayu1239"
+    }
+  ],
+  "iso639-3": "fau"
+}

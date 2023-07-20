@@ -1,0 +1,101 @@
+{
+  "pk": 2034,
+  "hid": "cms",
+  "father_pk": 918,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Messapic [mess1244][cms]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "cms",
+      "comment_type": "missing",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "A number of ancient European and Ancient Near Eastern languages are not listed in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26. One of them is Messapic (**hh:ld:deSimoneMarchesini:Messapicae**, **hh:hld:Pisani:Italia-Antica**)."
+    },
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Messapic_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36383",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "550591",
+        "wordlist_or_less",
+        2009,
+        27,
+        "Simona Marchesini 2009"
+      ],
+      [
+        "665135",
+        "wordlist_or_less",
+        2005,
+        13,
+        "Matzinger, Joachim 2005"
+      ],
+      [
+        "89994",
+        "wordlist_or_less",
+        2002,
+        573,
+        "de Simone, Carlo and Simona Marchesini 2002"
+      ],
+      [
+        "555521",
+        "wordlist_or_less",
+        1962,
+        223,
+        "Haas, Otto 1962"
+      ],
+      [
+        "318899",
+        "wordlist_or_less",
+        1953,
+        38,
+        "Vittore Pisani 1953"
+      ]
+    ]
+  },
+  "id": "mess1244",
+  "name": "Messapic",
+  "description": null,
+  "markup_description": null,
+  "latitude": 40.538334,
+  "longitude": 17.860344,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Unclassified Indo-European",
+      "id": "uncl1527",
+      "url": "https://glottolog.org/resource/languoid/id/uncl1527"
+    }
+  ],
+  "iso639-3": "cms"
+}

@@ -1,0 +1,101 @@
+{
+  "pk": 11957,
+  "hid": "naf",
+  "father_pk": 9143,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Nabak [naba1256][naf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nab",
+        "label": "Nabak"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nabak_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q11732491",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "116279",
+        "long_grammar",
+        1998,
+        500,
+        "Grace Fabian and Edmund Fabian and Bruce Waters 1998"
+      ],
+      [
+        "95715",
+        "phonology_or_text",
+        1973,
+        5,
+        "McElhanon, Kenneth A. 1973"
+      ],
+      [
+        "47416",
+        "wordlist_or_less",
+        1967,
+        2,
+        "Kenneth A. McElhanon 1967"
+      ],
+      [
+        "552423",
+        "wordlist_or_less",
+        1966,
+        0,
+        "Suter, Edgar 1966"
+      ]
+    ]
+  },
+  "id": "naba1256",
+  "name": "Nabak",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.42709,
+  "longitude": 146.966,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Finisterre-Huon",
+      "id": "fini1244",
+      "url": "https://glottolog.org/resource/languoid/id/fini1244"
+    },
+    {
+      "name": "Huon",
+      "id": "huon1246",
+      "url": "https://glottolog.org/resource/languoid/id/huon1246"
+    },
+    {
+      "name": "Western Huon",
+      "id": "west2795",
+      "url": "https://glottolog.org/resource/languoid/id/west2795"
+    },
+    {
+      "name": "Rawlinson",
+      "id": "rawl1234",
+      "url": "https://glottolog.org/resource/languoid/id/rawl1234"
+    },
+    {
+      "name": "Sankwep",
+      "id": "naba1257",
+      "url": "https://glottolog.org/resource/languoid/id/naba1257"
+    }
+  ],
+  "iso639-3": "naf"
+}

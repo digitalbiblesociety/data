@@ -1,0 +1,61 @@
+{
+  "pk": 5219,
+  "hid": "smb",
+  "father_pk": 3383,
+  "family_pk": 385,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Simbari [simb1255][smb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7517427",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Simbari_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "140544",
+        "phonology_or_text",
+        1973,
+        3,
+        "Lloyd, Richard G. 1973"
+      ]
+    ]
+  },
+  "id": "simb1255",
+  "name": "Simbari",
+  "description": null,
+  "markup_description": null,
+  "latitude": -7.02259,
+  "longitude": 145.603,
+  "classification": [
+    {
+      "name": "Angan",
+      "id": "anga1289",
+      "url": "https://glottolog.org/resource/languoid/id/anga1289"
+    },
+    {
+      "name": "Nuclear Angan",
+      "id": "nucl1763",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1763"
+    },
+    {
+      "name": "Baruya-Simbari",
+      "id": "baru1271",
+      "url": "https://glottolog.org/resource/languoid/id/baru1271"
+    }
+  ],
+  "iso639-3": "smb"
+}

@@ -1,0 +1,75 @@
+{
+  "pk": 5214,
+  "hid": "aak",
+  "father_pk": 3381,
+  "family_pk": 385,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ankai [anka1247]':1,'Bu''u [buuu1245]':1,'Miyatnu [miya1257]':1,'Sawuve [sawu1242]':1,'Wiyagwa [wiya1238]':1,'Wunavai [wuna1250]':1)'Ankave [anka1246][aak]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Ankave_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3446690",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "68436",
+        "phonology_or_text",
+        1988,
+        139,
+        "Speece, Richard F. 1988"
+      ],
+      [
+        "142333",
+        "wordlist_or_less",
+        1975,
+        1,
+        "John Z'graggen 1975"
+      ],
+      [
+        "77107",
+        "wordlist_or_less",
+        1973,
+        1,
+        "Karl J. Franklin 1973"
+      ]
+    ]
+  },
+  "id": "anka1246",
+  "name": "Ankave",
+  "description": null,
+  "markup_description": null,
+  "latitude": -7.19444,
+  "longitude": 145.754,
+  "classification": [
+    {
+      "name": "Angan",
+      "id": "anga1289",
+      "url": "https://glottolog.org/resource/languoid/id/anga1289"
+    },
+    {
+      "name": "Nuclear Angan",
+      "id": "nucl1763",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1763"
+    },
+    {
+      "name": "Ankave-Tainae-Akoye",
+      "id": "sout3130",
+      "url": "https://glottolog.org/resource/languoid/id/sout3130"
+    }
+  ],
+  "iso639-3": "aak"
+}

@@ -1,0 +1,87 @@
+{
+  "pk": 3823,
+  "hid": "awn",
+  "father_pk": 2145,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dega [dega1239]':1,'Kunfäl [kunf1239]':1,'Kwolla [kwol1241]':1)'Awngi [awng1244][awn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/7989",
+        "label": "Awngi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q34934",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Awngi_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/awng1244",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_awn",
+        "label": "Awngi"
+      }
+    ],
+    "meds": [
+      [
+        "568202",
+        "long_grammar",
+        2016,
+        384,
+        "Allene, Yaregal 2016"
+      ],
+      [
+        "55169",
+        "grammar_sketch",
+        1905,
+        92,
+        "Conti Rossini, Carlo 1905"
+      ],
+      [
+        "585625",
+        "wordlist_or_less",
+        1845,
+        15,
+        "d'Abbadie, Antoine 1845"
+      ]
+    ]
+  },
+  "id": "awng1244",
+  "name": "Awngi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.9819,
+  "longitude": 36.6916,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Cushitic",
+      "id": "cush1243",
+      "url": "https://glottolog.org/resource/languoid/id/cush1243"
+    },
+    {
+      "name": "Agaw",
+      "id": "cent2193",
+      "url": "https://glottolog.org/resource/languoid/id/cent2193"
+    }
+  ],
+  "iso639-3": "awn"
+}

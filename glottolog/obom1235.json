@@ -1,0 +1,81 @@
+{
+  "pk": 15036,
+  "hid": "obo",
+  "father_pk": 12159,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Arakan Manobo [arak1253]':1,'Kidapawan Manobo [kida1237]':1,'Magpet Manobo [magp1237]':1)'Obo Manobo [obom1235][obo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Obo_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12953699",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "307780",
+        "phonology_or_text",
+        1892,
+        204,
+        "Mateo Gisbert 1892"
+      ]
+    ]
+  },
+  "id": "obom1235",
+  "name": "Obo Manobo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.29141,
+  "longitude": 125.09,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Greater Central Philippine",
+      "id": "grea1284",
+      "url": "https://glottolog.org/resource/languoid/id/grea1284"
+    },
+    {
+      "name": "Manobo",
+      "id": "mano1276",
+      "url": "https://glottolog.org/resource/languoid/id/mano1276"
+    },
+    {
+      "name": "Central and Southern Manobo",
+      "id": "cent2255",
+      "url": "https://glottolog.org/resource/languoid/id/cent2255"
+    },
+    {
+      "name": "East-West-Central Manobo",
+      "id": "east2778",
+      "url": "https://glottolog.org/resource/languoid/id/east2778"
+    },
+    {
+      "name": "West Manobo",
+      "id": "west2829",
+      "url": "https://glottolog.org/resource/languoid/id/west2829"
+    }
+  ],
+  "iso639-3": "obo"
+}

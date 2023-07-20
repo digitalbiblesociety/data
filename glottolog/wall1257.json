@@ -1,0 +1,113 @@
+{
+  "pk": 19523,
+  "hid": "wls",
+  "father_pk": 17530,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'East Uvean [wall1257][wls]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/11041",
+        "label": "East Uvean"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_wll",
+        "label": "Wallisian"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Wallisian_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36979",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "550917",
+        "grammar",
+        2016,
+        269,
+        "Moyse-Faurie, Claire 2016"
+      ],
+      [
+        "318515",
+        "grammar_sketch",
+        1932,
+        324,
+        "Pierre Bataillon 1932"
+      ],
+      [
+        "43560",
+        "phonology_or_text",
+        1879,
+        7,
+        "von der Gabelentz, Hans Conor 1879"
+      ]
+    ]
+  },
+  "id": "wall1257",
+  "name": "East Uvean",
+  "description": null,
+  "markup_description": null,
+  "latitude": -13.2903,
+  "longitude": -176.207,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Central Pacific linkage",
+      "id": "cent2060",
+      "url": "https://glottolog.org/resource/languoid/id/cent2060"
+    },
+    {
+      "name": "Tokalau Fijian",
+      "id": "east2445",
+      "url": "https://glottolog.org/resource/languoid/id/east2445"
+    },
+    {
+      "name": "Polynesian",
+      "id": "poly1242",
+      "url": "https://glottolog.org/resource/languoid/id/poly1242"
+    },
+    {
+      "name": "Nuclear Polynesian",
+      "id": "nucl1485",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1485"
+    },
+    {
+      "name": "East Uvean-Niuafo'ou",
+      "id": "east2758",
+      "url": "https://glottolog.org/resource/languoid/id/east2758"
+    }
+  ],
+  "iso639-3": "wls"
+}

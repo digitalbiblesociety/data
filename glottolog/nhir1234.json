@@ -1,0 +1,96 @@
+{
+  "pk": 11473,
+  "hid": "hrp",
+  "father_pk": 8517,
+  "family_pk": 153,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "'Nhirrpi [nhir1234][hrp]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "hrp",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 has a separate entry for Nhirrpi [hrp], but Nhirrpi was close enough to be dialect of Yandruwandha [ynd] (**hh:s:BowernWurm:Nhirrpi**). See also: Yandruwandha [ynd]."
+    },
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6718",
+        "label": "Nhirrpi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q32571318",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nhir1234",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500336",
+        "wordlist_or_less",
+        2012,
+        0,
+        "ISO 639-3 Registration Authority 2012"
+      ]
+    ]
+  },
+  "id": "nhir1234",
+  "name": "Nhirrpi",
+  "description": null,
+  "markup_description": null,
+  "latitude": -28.62911,
+  "longitude": 141.27596,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Karnic",
+      "id": "karn1253",
+      "url": "https://glottolog.org/resource/languoid/id/karn1253"
+    },
+    {
+      "name": "Central Karnic",
+      "id": "cent2016",
+      "url": "https://glottolog.org/resource/languoid/id/cent2016"
+    },
+    {
+      "name": "Western Central Karnic",
+      "id": "west2438",
+      "url": "https://glottolog.org/resource/languoid/id/west2438"
+    },
+    {
+      "name": "Yandruwandhic",
+      "id": "yand1252",
+      "url": "https://glottolog.org/resource/languoid/id/yand1252"
+    },
+    {
+      "name": "Yandruwandha",
+      "id": "yand1253",
+      "url": "https://glottolog.org/resource/languoid/id/yand1253"
+    }
+  ],
+  "iso639-3": "hrp"
+}

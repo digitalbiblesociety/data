@@ -1,0 +1,106 @@
+{
+  "pk": 7503,
+  "hid": "mbl",
+  "father_pk": 5163,
+  "family_pk": 376,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Maxakalí [maxa1247][mbl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2997",
+        "label": "Maxakalí"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_max",
+        "label": "Maxakalí"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Maxakal%C3%AD_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/maxa1247",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3029682",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "65711",
+        "long_grammar",
+        2009,
+        328,
+        "Campos, Carlo Sandro de Oliveira 2009"
+      ],
+      [
+        "96964",
+        "grammar_sketch",
+        2000,
+        144,
+        "Araújo, Gabriel Antunes 2000"
+      ],
+      [
+        "159945",
+        "grammar_sketch",
+        1992,
+        131,
+        "Pereira, Deuscreide Gonçalves 1992"
+      ],
+      [
+        "56357",
+        "grammar_sketch",
+        1946,
+        17,
+        "Lowie, Robert H. 1946"
+      ],
+      [
+        "79048",
+        "wordlist_or_less",
+        1867,
+        3,
+        "von Martius, Carl Friedrich Philip 1867"
+      ]
+    ]
+  },
+  "id": "maxa1247",
+  "name": "Maxakalí",
+  "description": null,
+  "markup_description": null,
+  "latitude": -16.9402,
+  "longitude": -40.7891,
+  "classification": [
+    {
+      "name": "Nuclear-Macro-Je",
+      "id": "nucl1710",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1710"
+    },
+    {
+      "name": "Maxakali-Borum",
+      "id": "maxa1249",
+      "url": "https://glottolog.org/resource/languoid/id/maxa1249"
+    },
+    {
+      "name": "Maxakalian",
+      "id": "maxa1246",
+      "url": "https://glottolog.org/resource/languoid/id/maxa1246"
+    },
+    {
+      "name": "Western Maxakali",
+      "id": "west2636",
+      "url": "https://glottolog.org/resource/languoid/id/west2636"
+    }
+  ],
+  "iso639-3": "mbl"
+}

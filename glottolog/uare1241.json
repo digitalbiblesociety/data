@@ -1,0 +1,63 @@
+{
+  "pk": 2176,
+  "hid": "ksj",
+  "father_pk": 999,
+  "family_pk": 123,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Garihe [gari1255]':1,'Nuclear Uare [nucl1626]':1)'Uare [uare1241][ksj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6450052",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kwale_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "89090",
+        "phonology_or_text",
+        1970,
+        3,
+        "Tom E. Dutton 1970"
+      ],
+      [
+        "124464",
+        "wordlist_or_less",
+        1929,
+        1,
+        "Sidney H. Ray 1929"
+      ]
+    ]
+  },
+  "id": "uare1241",
+  "name": "Uare",
+  "description": null,
+  "markup_description": null,
+  "latitude": -9.69571,
+  "longitude": 147.687,
+  "classification": [
+    {
+      "name": "Kwalean",
+      "id": "kwal1257",
+      "url": "https://glottolog.org/resource/languoid/id/kwal1257"
+    },
+    {
+      "name": "Humene-Kwale",
+      "id": "hume1245",
+      "url": "https://glottolog.org/resource/languoid/id/hume1245"
+    }
+  ],
+  "iso639-3": "ksj"
+}

@@ -1,0 +1,153 @@
+{
+  "pk": 21062,
+  "hid": "gax",
+  "father_pk": 19053,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Arsi [arsi1238]':1,('Yaabelloo [yaab1234]':1)'Borana [bora1272]':1,'Gabra [gabr1255]':1,'Guji [guji1239]':1,'Kereyu [kere1294]':1,'Sakuye [saku1238]':1,'Salale [sala1277]':1)'Borana-Arsi-Guji Oromo [bora1271][gax]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 8,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_orb",
+        "label": "Oromo (Boraana)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Southern_Oromo_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/bora1271",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2910610",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "97391",
+        "long_grammar",
+        2004,
+        357,
+        "Roba, Taha M. 2004"
+      ],
+      [
+        "161087",
+        "long_grammar",
+        1995,
+        329,
+        "Stroomer, Harry 1995"
+      ],
+      [
+        "12248",
+        "grammar",
+        1922,
+        272,
+        "Hodson, Arnold Wienholt and Walker, Craven Howell 1922"
+      ],
+      [
+        "77420",
+        "grammar",
+        1814,
+        0,
+        "Salt, Henry 1814"
+      ],
+      [
+        "132490",
+        "wordlist_or_less",
+        1812,
+        0,
+        "Adelung, Johann Christoph 1812/17"
+      ],
+      [
+        "25166",
+        "wordlist_or_less",
+        1808,
+        0,
+        "Murray, Alexander 1808"
+      ],
+      [
+        "31602",
+        "wordlist_or_less",
+        1601,
+        0,
+        "Schleicher, Adolf Walter 1601/1893"
+      ],
+      [
+        "88222",
+        "wordlist_or_less",
+        1593,
+        0,
+        "Bahrey, Abba 1593"
+      ]
+    ]
+  },
+  "id": "bora1271",
+  "name": "Borana-Arsi-Guji Oromo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 1.05676,
+  "longitude": 37.882,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Cushitic",
+      "id": "cush1243",
+      "url": "https://glottolog.org/resource/languoid/id/cush1243"
+    },
+    {
+      "name": "East Cushitic",
+      "id": "east2699",
+      "url": "https://glottolog.org/resource/languoid/id/east2699"
+    },
+    {
+      "name": "Lowland East Cushitic",
+      "id": "lowl1267",
+      "url": "https://glottolog.org/resource/languoid/id/lowl1267"
+    },
+    {
+      "name": "Southern Lowland East Cushitic",
+      "id": "sout3055",
+      "url": "https://glottolog.org/resource/languoid/id/sout3055"
+    },
+    {
+      "name": "Mainstream Lowland East Cushitic",
+      "id": "main1283",
+      "url": "https://glottolog.org/resource/languoid/id/main1283"
+    },
+    {
+      "name": "Oromoid",
+      "id": "nucl1701",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1701"
+    },
+    {
+      "name": "Nuclear Oromo",
+      "id": "nucl1736",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1736"
+    },
+    {
+      "name": "Central-Eastern Oromo",
+      "id": "cent2302",
+      "url": "https://glottolog.org/resource/languoid/id/cent2302"
+    },
+    {
+      "name": "Central Oromo",
+      "id": "cent2303",
+      "url": "https://glottolog.org/resource/languoid/id/cent2303"
+    }
+  ],
+  "iso639-3": "gax"
+}

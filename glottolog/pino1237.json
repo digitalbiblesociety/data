@@ -1,0 +1,90 @@
+{
+  "pk": 17154,
+  "hid": "mio",
+  "father_pk": 14733,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Pinotepa Nacional Mixtec [pino1237][mio]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mxj",
+        "label": "Mixtec (Jicaltepec)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Pinotepa_Mixtec",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7196415",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "99491",
+        "grammar_sketch",
+        1965,
+        193,
+        "Bradley, C. Henry 1965"
+      ]
+    ]
+  },
+  "id": "pino1237",
+  "name": "Pinotepa Nacional Mixtec",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.3043,
+  "longitude": -97.9966,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Amuzgo-Mixtecan",
+      "id": "amuz1253",
+      "url": "https://glottolog.org/resource/languoid/id/amuz1253"
+    },
+    {
+      "name": "Mixtecan",
+      "id": "mixt1422",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1422"
+    },
+    {
+      "name": "Mixtec-Cuicatec",
+      "id": "mixt1423",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1423"
+    },
+    {
+      "name": "Mixtec",
+      "id": "mixt1427",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1427"
+    },
+    {
+      "name": "Coast Mixtec",
+      "id": "coas1316",
+      "url": "https://glottolog.org/resource/languoid/id/coas1316"
+    },
+    {
+      "name": "West Coast Mixtec",
+      "id": "west2832",
+      "url": "https://glottolog.org/resource/languoid/id/west2832"
+    }
+  ],
+  "iso639-3": "mio"
+}

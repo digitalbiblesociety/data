@@ -1,0 +1,112 @@
+{
+  "pk": 6288,
+  "hid": "nsk",
+  "father_pk": 4235,
+  "family_pk": 178,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Eastern Naskapi [east2539]':1,'Western Naskapi [west2626]':1)'Naskapi [nask1242][nsk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nsk",
+        "label": "Naskapi"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Naskapi_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q1704302",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "51281",
+        "grammar_sketch",
+        2000,
+        40,
+        "Jancewicz, Bill 2000"
+      ],
+      [
+        "315257",
+        "grammar_sketch",
+        1982,
+        23,
+        "Marguerite MacKenzie 1982"
+      ],
+      [
+        "163403",
+        "grammar_sketch",
+        1980,
+        20,
+        "MacKenzie, Marguerite 1980"
+      ],
+      [
+        "574222",
+        "phonology_or_text",
+        1947,
+        38,
+        "Lips, J. E. 1947"
+      ],
+      [
+        "325900",
+        "wordlist_or_less",
+        1939,
+        7,
+        "Michelson, Truman 1939"
+      ],
+      [
+        "478042",
+        "wordlist_or_less",
+        1935,
+        257,
+        "Speck, F.G. 1935"
+      ],
+      [
+        "578092",
+        "wordlist_or_less",
+        1890,
+        110,
+        "Turner, L. M. 1890"
+      ]
+    ]
+  },
+  "id": "nask1242",
+  "name": "Naskapi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 55.9316,
+  "longitude": -61.1318,
+  "classification": [
+    {
+      "name": "Algic",
+      "id": "algi1248",
+      "url": "https://glottolog.org/resource/languoid/id/algi1248"
+    },
+    {
+      "name": "Algonquian-Blackfoot",
+      "id": "algo1256",
+      "url": "https://glottolog.org/resource/languoid/id/algo1256"
+    },
+    {
+      "name": "Algonquian",
+      "id": "algo1257",
+      "url": "https://glottolog.org/resource/languoid/id/algo1257"
+    },
+    {
+      "name": "Cree-Montagnais-Naskapi",
+      "id": "cree1271",
+      "url": "https://glottolog.org/resource/languoid/id/cree1271"
+    }
+  ],
+  "iso639-3": "nsk"
+}

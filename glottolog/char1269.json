@@ -1,0 +1,67 @@
+{
+  "pk": 3271,
+  "hid": "cra",
+  "father_pk": 1718,
+  "family_pk": 342,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Chara [char1269][cra]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5930",
+        "label": "C'ara"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5073694",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Chara_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "306763",
+        "grammar_sketch",
+        1938,
+        77,
+        "Enrico Cerulli 1938"
+      ],
+      [
+        "302864",
+        "wordlist_or_less",
+        1928,
+        2,
+        "Cerulli, Enrico 1928"
+      ]
+    ]
+  },
+  "id": "char1269",
+  "name": "Chara",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.63946,
+  "longitude": 36.4192,
+  "classification": [
+    {
+      "name": "Ta-Ne-Omotic",
+      "id": "gong1255",
+      "url": "https://glottolog.org/resource/languoid/id/gong1255"
+    },
+    {
+      "name": "Ometo",
+      "id": "omet1238",
+      "url": "https://glottolog.org/resource/languoid/id/omet1238"
+    }
+  ],
+  "iso639-3": "cra"
+}

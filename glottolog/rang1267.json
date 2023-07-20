@@ -1,0 +1,87 @@
+{
+  "pk": 7360,
+  "hid": "rnl",
+  "father_pk": 5021,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bong [bong1301]':1,'Bongcher [bong1300]':1,'Chorai [chor1276]':1,'Dab [dabb1234]':1,'Hrangkhol {Halam} [hran1240]':1,'Kaipeng [kaip1242]':1,'Kaloi [kalo1267]':1,'Lankai [lank1243]':1,'Molsom [mols1234]':1,'Morsephang [mors1234]':1,'Ranglong [rang1271]':1,'Rupini [rupi1234]':1)'Halam [rang1267][rnl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 12,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Ranglong",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7292878",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "660244",
+        "long_grammar",
+        2017,
+        344,
+        "Debbarma, Biman 2017"
+      ],
+      [
+        "580674",
+        "grammar_sketch",
+        2012,
+        90,
+        "Kharlukhi, Christina 2012"
+      ],
+      [
+        "551874",
+        "wordlist_or_less",
+        1992,
+        52,
+        "Sailiana Sailo 1992"
+      ],
+      [
+        "118757",
+        "wordlist_or_less",
+        1904,
+        5,
+        "George A. Grierson 1904"
+      ]
+    ]
+  },
+  "id": "rang1267",
+  "name": "Halam",
+  "description": null,
+  "markup_description": null,
+  "latitude": 23.819438,
+  "longitude": 91.66491,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Kuki-Chin",
+      "id": "kuki1246",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1246"
+    },
+    {
+      "name": "Northwestern Kuki-Chin",
+      "id": "oldk1252",
+      "url": "https://glottolog.org/resource/languoid/id/oldk1252"
+    }
+  ],
+  "iso639-3": "rnl"
+}

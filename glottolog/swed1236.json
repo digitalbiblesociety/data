@@ -1,0 +1,76 @@
+{
+  "pk": 4298,
+  "hid": "swl",
+  "father_pk": 2507,
+  "family_pk": 206,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Sign Language",
+  "newick": "'Swedish Sign Language [swed1236][swl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/7359",
+        "label": "Swedish Sign Language"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36558",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Swedish_Sign_Language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_svt",
+        "label": "Svenska Teckenspråket"
+      }
+    ],
+    "meds": [
+      [
+        "161411",
+        "long_grammar",
+        1995,
+        1994,
+        "Bergman, Brita 1995"
+      ],
+      [
+        "471841",
+        "phonology_or_text",
+        1916,
+        104,
+        "Österberg, Oskar 1916"
+      ]
+    ]
+  },
+  "id": "swed1236",
+  "name": "Swedish Sign Language",
+  "description": null,
+  "markup_description": null,
+  "latitude": 58.929,
+  "longitude": 16.1133,
+  "classification": [
+    {
+      "name": "Sign Language",
+      "id": "sign1238",
+      "url": "https://glottolog.org/resource/languoid/id/sign1238"
+    },
+    {
+      "name": "Deaf Sign Language",
+      "id": "deaf1237",
+      "url": "https://glottolog.org/resource/languoid/id/deaf1237"
+    },
+    {
+      "name": "Swedish Sign",
+      "id": "swed1257",
+      "url": "https://glottolog.org/resource/languoid/id/swed1257"
+    }
+  ],
+  "iso639-3": "swl"
+}

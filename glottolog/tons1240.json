@@ -1,0 +1,85 @@
+{
+  "pk": 9523,
+  "hid": "txs",
+  "father_pk": 6886,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Airmadidi [airm1241]':1,'Kalabat Atas [kala1390]':1,'Kauditan [kaud1237]':1,'Likupang [liku1244]':1,'Maumbi [maum1238]':1)'Tonsea [tons1240][txs]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3531659",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tonsea_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "135150",
+        "grammar_sketch",
+        1964,
+        66,
+        "Rumbajan-Pakasi, J.G. 1964"
+      ],
+      [
+        "131944",
+        "phonology_or_text",
+        1870,
+        19,
+        "de Clercq, F.S.A. 1870"
+      ],
+      [
+        "61578",
+        "wordlist_or_less",
+        1855,
+        2,
+        "Jansen, A.J.F. 1855"
+      ]
+    ]
+  },
+  "id": "tons1240",
+  "name": "Tonsea",
+  "description": null,
+  "markup_description": null,
+  "latitude": 1.51393,
+  "longitude": 125.052,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Minahasan",
+      "id": "mina1272",
+      "url": "https://glottolog.org/resource/languoid/id/mina1272"
+    },
+    {
+      "name": "North Minahasan",
+      "id": "nort2886",
+      "url": "https://glottolog.org/resource/languoid/id/nort2886"
+    },
+    {
+      "name": "Northeast Minahasan",
+      "id": "nort2887",
+      "url": "https://glottolog.org/resource/languoid/id/nort2887"
+    }
+  ],
+  "iso639-3": "txs"
+}

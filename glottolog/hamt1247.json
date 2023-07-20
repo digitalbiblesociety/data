@@ -1,0 +1,100 @@
+{
+  "pk": 5217,
+  "hid": "hmt",
+  "father_pk": 3382,
+  "family_pk": 385,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Howi [howi1238]':1,'Kaintiba [kain1268]':1,'Nuclear Hamtai [nucl1456]':1,'Pmasa''a [pmas1239]':1,'Wenta [went1242]':1)'Hamtai [hamt1247][hmt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ham",
+        "label": "Hamtai"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Hamtai_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5646436",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "300318",
+        "grammar",
+        1968,
+        183,
+        "W. Oates and L. Oates 1968"
+      ],
+      [
+        "124464",
+        "wordlist_or_less",
+        1929,
+        1,
+        "Sidney H. Ray 1929"
+      ],
+      [
+        "323787",
+        "wordlist_or_less",
+        1920,
+        1,
+        "Humphries, W. R. 1920"
+      ],
+      [
+        "326123",
+        "wordlist_or_less",
+        1918,
+        1,
+        "E. W. P. Chinnery 1918"
+      ],
+      [
+        "153370",
+        "wordlist_or_less",
+        1914,
+        1,
+        "Chisholm, P. O 1914"
+      ],
+      [
+        "144284",
+        "wordlist_or_less",
+        1913,
+        1,
+        "Anonymous, {} 1913"
+      ]
+    ]
+  },
+  "id": "hamt1247",
+  "name": "Hamtai",
+  "description": null,
+  "markup_description": null,
+  "latitude": -7.54975,
+  "longitude": 146.227,
+  "classification": [
+    {
+      "name": "Angan",
+      "id": "anga1289",
+      "url": "https://glottolog.org/resource/languoid/id/anga1289"
+    },
+    {
+      "name": "Nuclear Angan",
+      "id": "nucl1763",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1763"
+    },
+    {
+      "name": "Kapau-Menya",
+      "id": "kapa1251",
+      "url": "https://glottolog.org/resource/languoid/id/kapa1251"
+    }
+  ],
+  "iso639-3": "hmt"
+}

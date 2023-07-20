@@ -1,0 +1,86 @@
+{
+  "pk": 4833,
+  "hid": "kwe",
+  "father_pk": 3093,
+  "family_pk": 309,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Nogukwabai [nogu1238]':1,'Sasawa [sasa1251]':1,'Serikenam [seri1256]':1)'Kwerba [nucl1595][kwe]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6450328",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kwerba_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kwb",
+        "label": "Kwerba"
+      }
+    ],
+    "meds": [
+      [
+        "154459",
+        "grammar_sketch",
+        1997,
+        35,
+        "James A. de Vries and Sandra A. de Vries 1997"
+      ],
+      [
+        "38419",
+        "phonology_or_text",
+        1976,
+        14,
+        "Silzer, Sheryl 1976"
+      ],
+      [
+        "39370",
+        "wordlist_or_less",
+        1961,
+        14,
+        "Oosterwal, Gottfried 1961"
+      ],
+      [
+        "29762",
+        "wordlist_or_less",
+        1954,
+        1,
+        "van der Leeden, Alexander Cornelis 1954"
+      ]
+    ]
+  },
+  "id": "nucl1595",
+  "name": "Kwerba",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.2137,
+  "longitude": 138.486,
+  "classification": [
+    {
+      "name": "Greater Kwerba",
+      "id": "kwer1242",
+      "url": "https://glottolog.org/resource/languoid/id/kwer1242"
+    },
+    {
+      "name": "Kwerba-Samarokena",
+      "id": "kwer1240",
+      "url": "https://glottolog.org/resource/languoid/id/kwer1240"
+    },
+    {
+      "name": "Kwerbaic",
+      "id": "kwer1262",
+      "url": "https://glottolog.org/resource/languoid/id/kwer1262"
+    }
+  ],
+  "iso639-3": "kwe"
+}

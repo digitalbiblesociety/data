@@ -1,0 +1,94 @@
+{
+  "pk": 4069,
+  "hid": "rit",
+  "father_pk": 2326,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ritharrngu [rita1239][rit]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_rit",
+        "label": "Ritharngu"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/2572",
+        "label": "Ritharrngu"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ritharrngu_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/rita1239",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7336730",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "17024",
+        "grammar_sketch",
+        1980,
+        86,
+        "Jeffrey Heath 1980"
+      ],
+      [
+        "80122",
+        "phonology_or_text",
+        1978,
+        11,
+        "Heath, Jeffrey 1978"
+      ],
+      [
+        "554499",
+        "wordlist_or_less",
+        1956,
+        4,
+        "Arthur Capell 1956"
+      ],
+      [
+        "3622",
+        "wordlist_or_less",
+        1928,
+        4,
+        "Tindale, Norman B. 1928"
+      ]
+    ]
+  },
+  "id": "rita1239",
+  "name": "Ritharrngu",
+  "description": null,
+  "markup_description": null,
+  "latitude": -13.4559,
+  "longitude": 135.259,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Yuulngu",
+      "id": "yuul1239",
+      "url": "https://glottolog.org/resource/languoid/id/yuul1239"
+    },
+    {
+      "name": "Southern Yolngu",
+      "id": "sout3142",
+      "url": "https://glottolog.org/resource/languoid/id/sout3142"
+    }
+  ],
+  "iso639-3": "rit"
+}

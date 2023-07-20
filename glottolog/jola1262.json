@@ -1,0 +1,110 @@
+{
+  "pk": 15454,
+  "hid": "csk",
+  "father_pk": 12695,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ayun [ayun1238]':1,'Bliss [blis1238]':1,'Elinkine-Kasa {Fluvial} [fluv1238]':1,'Esulalu [esul1240]':1,'Huluf [hulu1244]':1,'Selek [sele1248]':1)'Jola-Esulalu [jola1262][csk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_csk",
+        "label": "Diola-Kasa"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kasa_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/jola1262",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3446622",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "148204",
+        "long_grammar",
+        1998,
+        332,
+        "Diatta, Christian Sina 1998"
+      ],
+      [
+        "130041",
+        "grammar",
+        1979,
+        208,
+        "Sambou, Pierre-Marie 1979"
+      ],
+      [
+        "130987",
+        "grammar_sketch",
+        1909,
+        100,
+        "Wintz, Ed. 1909"
+      ],
+      [
+        "19114",
+        "wordlist_or_less",
+        1690,
+        9,
+        "d'Avezac, G. 1845 [1690]"
+      ]
+    ]
+  },
+  "id": "jola1262",
+  "name": "Jola-Esulalu",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.5089,
+  "longitude": -16.5539,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "North-Central Atlantic",
+      "id": "nort3146",
+      "url": "https://glottolog.org/resource/languoid/id/nort3146"
+    },
+    {
+      "name": "Central Atlantic",
+      "id": "cent2230",
+      "url": "https://glottolog.org/resource/languoid/id/cent2230"
+    },
+    {
+      "name": "Bak",
+      "id": "bakk1238",
+      "url": "https://glottolog.org/resource/languoid/id/bakk1238"
+    },
+    {
+      "name": "Joola-Manjaku",
+      "id": "jool1234",
+      "url": "https://glottolog.org/resource/languoid/id/jool1234"
+    },
+    {
+      "name": "Jola",
+      "id": "jola1264",
+      "url": "https://glottolog.org/resource/languoid/id/jola1264"
+    },
+    {
+      "name": "FH-Jola",
+      "id": "fhjo1234",
+      "url": "https://glottolog.org/resource/languoid/id/fhjo1234"
+    }
+  ],
+  "iso639-3": "csk"
+}

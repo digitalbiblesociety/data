@@ -1,0 +1,103 @@
+{
+  "pk": 22048,
+  "hid": "mho",
+  "father_pk": 20256,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Mashi [mash1268]':1,'North Kwandu [nort2799]':1,'South Kwandu [sout2815]':1)'Mashi {Zambia} [mash1267][mho]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Mashi_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q10962737",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "36939",
+        "wordlist_or_less",
+        1982,
+        45,
+        "Lisimba, Mukumbuta 1982"
+      ],
+      [
+        "24900",
+        "wordlist_or_less",
+        1963,
+        1,
+        "Fortune, George 1963"
+      ]
+    ]
+  },
+  "id": "mash1267",
+  "name": "Mashi (Zambia)",
+  "description": null,
+  "markup_description": null,
+  "latitude": -16.7256,
+  "longitude": 22.5983,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Narrow Bantu",
+      "id": "narr1281",
+      "url": "https://glottolog.org/resource/languoid/id/narr1281"
+    },
+    {
+      "name": "Central-Western Bantu",
+      "id": "cent2260",
+      "url": "https://glottolog.org/resource/languoid/id/cent2260"
+    },
+    {
+      "name": "Greater Luyana",
+      "id": "grea1287",
+      "url": "https://glottolog.org/resource/languoid/id/grea1287"
+    },
+    {
+      "name": "Western Greater Luyana",
+      "id": "west2833",
+      "url": "https://glottolog.org/resource/languoid/id/west2833"
+    },
+    {
+      "name": "Mashi-Mbukushi",
+      "id": "mash1271",
+      "url": "https://glottolog.org/resource/languoid/id/mash1271"
+    }
+  ],
+  "iso639-3": "mho"
+}

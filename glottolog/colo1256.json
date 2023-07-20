@@ -1,0 +1,82 @@
+{
+  "pk": 2630,
+  "hid": "cof",
+  "father_pk": 1220,
+  "family_pk": 219,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tsafiki [colo1256][cof]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2131",
+        "label": "Tsafiki"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tsf",
+        "label": "Tsafiki"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tsafiki_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/colo1256",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2567055",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "132529",
+        "long_grammar",
+        2002,
+        451,
+        "Connie Dickinson 2002"
+      ],
+      [
+        "122566",
+        "grammar_sketch",
+        1979,
+        71,
+        "Moore, Bruce R. 1979"
+      ],
+      [
+        "72014",
+        "grammar_sketch",
+        1902,
+        15,
+        "Seler, Eduard 1902"
+      ]
+    ]
+  },
+  "id": "colo1256",
+  "name": "Tsafiki",
+  "description": null,
+  "markup_description": null,
+  "latitude": -0.21181,
+  "longitude": -79.2347,
+  "classification": [
+    {
+      "name": "Barbacoan",
+      "id": "barb1265",
+      "url": "https://glottolog.org/resource/languoid/id/barb1265"
+    },
+    {
+      "name": "Cayapa-Colorado",
+      "id": "caya1244",
+      "url": "https://glottolog.org/resource/languoid/id/caya1244"
+    }
+  ],
+  "iso639-3": "cof"
+}

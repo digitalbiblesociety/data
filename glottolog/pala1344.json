@@ -1,0 +1,113 @@
+{
+  "pk": 2941,
+  "hid": "pau",
+  "father_pk": 1524,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Palauan [pala1344][pau]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_pal",
+        "label": "Palauan"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Palauan_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/pala1344",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33776",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "549770",
+        "long_grammar",
+        1997,
+        900,
+        "Josephs, Lewis S. 1997, 1999"
+      ],
+      [
+        "133234",
+        "long_grammar",
+        1975,
+        538,
+        "Lewis S. Josephs 1975"
+      ],
+      [
+        "7748",
+        "grammar",
+        1974,
+        243,
+        "Flora, Marie Jo-Ann 1974"
+      ],
+      [
+        "571392",
+        "grammar",
+        1972,
+        0,
+        "Force, R.W. and Force, M. 1972"
+      ],
+      [
+        "550103",
+        "grammar_sketch",
+        1919,
+        232,
+        "Augustin Krämer 1919"
+      ],
+      [
+        "92038",
+        "grammar_sketch",
+        1911,
+        111,
+        "Salvator P. Walleser 1911"
+      ],
+      [
+        "158869",
+        "wordlist_or_less",
+        1852,
+        37,
+        "Andrew Cheyne 1852"
+      ],
+      [
+        "573358",
+        "wordlist_or_less",
+        1788,
+        0,
+        "Keate, George 1788"
+      ]
+    ]
+  },
+  "id": "pala1344",
+  "name": "Palauan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.34138,
+  "longitude": 134.476678,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    }
+  ],
+  "iso639-3": "pau"
+}

@@ -1,0 +1,100 @@
+{
+  "pk": 8702,
+  "hid": "nhr",
+  "father_pk": 6199,
+  "family_pk": 171,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('/=Haba [qabe1238]':1,'Nharo [ging1242]':1,'Ts''aokhoe [tsao1238]':1)'Naro [naro1249][nhr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/590",
+        "label": "Naro"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nro",
+        "label": "Nharo"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Naro_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2164778",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "134907",
+        "grammar_sketch",
+        1985,
+        119,
+        "Barnard, Alan 1985"
+      ],
+      [
+        "54824",
+        "grammar_sketch",
+        1928,
+        38,
+        "Bleek, Dorothea Frances 1928"
+      ],
+      [
+        "121194",
+        "wordlist_or_less",
+        1891,
+        98,
+        "Schinz, Hans 1891"
+      ],
+      [
+        "150747",
+        "wordlist_or_less",
+        1864,
+        0,
+        "Baines, Thomas 1864"
+      ]
+    ]
+  },
+  "id": "naro1249",
+  "name": "Naro",
+  "description": null,
+  "markup_description": null,
+  "latitude": -22.0939,
+  "longitude": 20.7458,
+  "classification": [
+    {
+      "name": "Khoe-Kwadi",
+      "id": "khoe1240",
+      "url": "https://glottolog.org/resource/languoid/id/khoe1240"
+    },
+    {
+      "name": "Khoe",
+      "id": "khoe1241",
+      "url": "https://glottolog.org/resource/languoid/id/khoe1241"
+    },
+    {
+      "name": "Non-Khoekhoe",
+      "id": "nonk1236",
+      "url": "https://glottolog.org/resource/languoid/id/nonk1236"
+    },
+    {
+      "name": "West-Kxoe",
+      "id": "west2506",
+      "url": "https://glottolog.org/resource/languoid/id/west2506"
+    },
+    {
+      "name": "Naro-Ana",
+      "id": "naro1248",
+      "url": "https://glottolog.org/resource/languoid/id/naro1248"
+    }
+  ],
+  "iso639-3": "nhr"
+}

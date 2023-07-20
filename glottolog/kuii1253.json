@@ -1,0 +1,88 @@
+{
+  "pk": 5846,
+  "hid": "kvd",
+  "father_pk": 3880,
+  "family_pk": 125,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Batulolong [batu1261]':1,'Kiramang [kira1248]':1,'Kui [kuii1254]':1)'Kui {Indonesia} [kuii1253][kvd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4453",
+        "label": "Kui (Indonesia)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6442230",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kui_language_(Indonesia)",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kiu",
+        "label": "Kui (in Indonesia)"
+      }
+    ],
+    "meds": [
+      [
+        "553640",
+        "grammar_sketch",
+        2017,
+        75,
+        "Glenn Windschuttel and Asako Shiohara 2017"
+      ],
+      [
+        "316741",
+        "phonology_or_text",
+        2013,
+        28,
+        "Glenn Windschuttel 2013"
+      ],
+      [
+        "80328",
+        "wordlist_or_less",
+        1914,
+        6,
+        "Verbeek, R. D. M. 1914"
+      ]
+    ]
+  },
+  "id": "kuii1253",
+  "name": "Kui (Indonesia)",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.38204,
+  "longitude": 124.791,
+  "classification": [
+    {
+      "name": "Timor-Alor-Pantar",
+      "id": "timo1261",
+      "url": "https://glottolog.org/resource/languoid/id/timo1261"
+    },
+    {
+      "name": "Alor-Pantar",
+      "id": "alor1249",
+      "url": "https://glottolog.org/resource/languoid/id/alor1249"
+    },
+    {
+      "name": "Nuclear Alor-Pantar",
+      "id": "nucl1821",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1821"
+    },
+    {
+      "name": "Central Alor",
+      "id": "alor1250",
+      "url": "https://glottolog.org/resource/languoid/id/alor1250"
+    }
+  ],
+  "iso639-3": "kvd"
+}

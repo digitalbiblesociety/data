@@ -1,0 +1,69 @@
+{
+  "pk": 1037,
+  "hid": "gcc",
+  "father_pk": 144,
+  "family_pk": 144,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mali [mali1284][gcc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6743338",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mali_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mli",
+        "label": "Mali"
+      }
+    ],
+    "meds": [
+      [
+        "309421",
+        "long_grammar",
+        2011,
+        436,
+        "Stebbins, Tonya N. 2011"
+      ],
+      [
+        "98290",
+        "phonology_or_text",
+        2005,
+        45,
+        "Tonya N. Stebbins 2005"
+      ],
+      [
+        "132061",
+        "wordlist_or_less",
+        2004,
+        15,
+        "Tonya N. Stebbins 2004"
+      ]
+    ]
+  },
+  "id": "mali1284",
+  "name": "Mali",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.71826,
+  "longitude": 152.214,
+  "classification": [
+    {
+      "name": "Baining",
+      "id": "bain1263",
+      "url": "https://glottolog.org/resource/languoid/id/bain1263"
+    }
+  ],
+  "iso639-3": "gcc"
+}

@@ -1,0 +1,85 @@
+{
+  "pk": 2252,
+  "hid": "rao",
+  "father_pk": 1034,
+  "family_pk": 143,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Li''o {Papua New Guinea} [lioo1241]':1,'Ndramini''o [ndra1238]':1)'Rao [raoo1244][rao]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5326",
+        "label": "Rao"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_rao",
+        "label": "Rao"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Rao_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q11732596",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "659583",
+        "grammar_sketch",
+        1977,
+        52,
+        "Christensen, Fay 1977"
+      ],
+      [
+        "590199",
+        "wordlist_or_less",
+        1974,
+        17,
+        "John A. Z'graggen 1974"
+      ],
+      [
+        "306728",
+        "wordlist_or_less",
+        1972,
+        15,
+        "John A. Z'graggen 1972"
+      ],
+      [
+        "40621",
+        "wordlist_or_less",
+        1951,
+        2,
+        "Arthur Capell 1951-1952"
+      ]
+    ]
+  },
+  "id": "raoo1244",
+  "name": "Rao",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.85243,
+  "longitude": 144.511,
+  "classification": [
+    {
+      "name": "Lower Sepik-Ramu",
+      "id": "lowe1437",
+      "url": "https://glottolog.org/resource/languoid/id/lowe1437"
+    },
+    {
+      "name": "Ramu",
+      "id": "ramu1234",
+      "url": "https://glottolog.org/resource/languoid/id/ramu1234"
+    }
+  ],
+  "iso639-3": "rao"
+}

@@ -1,0 +1,89 @@
+{
+  "pk": 9599,
+  "hid": "ekk",
+  "father_pk": 6983,
+  "family_pk": 302,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Ida Estonian [idae1234]':1,'Kesk Estonian [kesk1234]':1,'Lääne [laan1234]':1,'Saarte [sart1250]':1)'Middle Estonian [midd1322]':1,'North Estonian [nort2674]':1)'Estonian [esto1258][ekk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_est",
+        "label": "Estonian"
+      },
+      {
+        "url": "https://phoible.org/languages/esto1258",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12361545",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "20009",
+        "long_grammar",
+        1875,
+        678,
+        "Wiedemann, Ferdinand Johann 2005 [1875]"
+      ],
+      [
+        "571917",
+        "grammar_sketch",
+        1660,
+        248,
+        "Henricus Gösekenius 1660"
+      ],
+      [
+        "577525",
+        "grammar_sketch",
+        1637,
+        158,
+        "Stahl, Henricus 1637"
+      ]
+    ]
+  },
+  "id": "esto1258",
+  "name": "Estonian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 58.55,
+  "longitude": 25.82,
+  "classification": [
+    {
+      "name": "Uralic",
+      "id": "ural1272",
+      "url": "https://glottolog.org/resource/languoid/id/ural1272"
+    },
+    {
+      "name": "Finnic",
+      "id": "finn1317",
+      "url": "https://glottolog.org/resource/languoid/id/finn1317"
+    },
+    {
+      "name": "Coastal Finnic",
+      "id": "coas1319",
+      "url": "https://glottolog.org/resource/languoid/id/coas1319"
+    },
+    {
+      "name": "Neva",
+      "id": "neva1234",
+      "url": "https://glottolog.org/resource/languoid/id/neva1234"
+    },
+    {
+      "name": "Central Finnic",
+      "id": "cent2329",
+      "url": "https://glottolog.org/resource/languoid/id/cent2329"
+    }
+  ],
+  "iso639-3": "ekk"
+}

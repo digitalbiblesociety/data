@@ -1,0 +1,84 @@
+{
+  "pk": 6369,
+  "hid": "csc",
+  "father_pk": 4321,
+  "family_pk": 206,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Sign Language",
+  "newick": "'Catalan Sign Language [cata1241][csc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/7178",
+        "label": "Catalan Sign Language"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35768",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Catalan_Sign_Language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "586006",
+        "long_grammar",
+        2020,
+        504,
+        "Josep Quer and Barberà Altimira, Gemma and Gemma Barberà and Sara Cañas-Peña and Berta Moya-Avilés and Alexandra Navarrete-González and Raquel Veiga Busto and Aida Villaécija and Giorgia Zorzi 2020"
+      ],
+      [
+        "475763",
+        "phonology_or_text",
+        1998,
+        0,
+        "Perello, Jorge and Juan Frigola 1998"
+      ],
+      [
+        "477708",
+        "wordlist_or_less",
+        1997,
+        8,
+        "Pruss Romagosa, Eva 1997"
+      ]
+    ]
+  },
+  "id": "cata1241",
+  "name": "Catalan Sign Language",
+  "description": null,
+  "markup_description": null,
+  "latitude": 41.635,
+  "longitude": -1.97,
+  "classification": [
+    {
+      "name": "Sign Language",
+      "id": "sign1238",
+      "url": "https://glottolog.org/resource/languoid/id/sign1238"
+    },
+    {
+      "name": "Deaf Sign Language",
+      "id": "deaf1237",
+      "url": "https://glottolog.org/resource/languoid/id/deaf1237"
+    },
+    {
+      "name": "LSFic",
+      "id": "lsfi1234",
+      "url": "https://glottolog.org/resource/languoid/id/lsfi1234"
+    },
+    {
+      "name": "Catalan Sign",
+      "id": "cata1287",
+      "url": "https://glottolog.org/resource/languoid/id/cata1287"
+    }
+  ],
+  "iso639-3": "csc"
+}

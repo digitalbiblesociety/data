@@ -1,0 +1,78 @@
+{
+  "pk": 9895,
+  "hid": "ade",
+  "father_pk": 7151,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Lower Adele [lowe1404]':1,'Upper Adele [uppe1417]':1)'Adele [adel1244][ade]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Adele_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q27740",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "57793",
+        "grammar_sketch",
+        1895,
+        18,
+        "Christaller, J. G. 1895"
+      ],
+      [
+        "158009",
+        "wordlist_or_less",
+        1889,
+        1,
+        "Christaller, J. G. 1889/1890"
+      ]
+    ]
+  },
+  "id": "adel1244",
+  "name": "Adele",
+  "description": null,
+  "markup_description": null,
+  "latitude": 8.16975,
+  "longitude": 0.619185,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Kwa Volta-Congo",
+      "id": "kwav1236",
+      "url": "https://glottolog.org/resource/languoid/id/kwav1236"
+    },
+    {
+      "name": "Na-Togo",
+      "id": "nato1234",
+      "url": "https://glottolog.org/resource/languoid/id/nato1234"
+    },
+    {
+      "name": "Basila-Adele",
+      "id": "basi1245",
+      "url": "https://glottolog.org/resource/languoid/id/basi1245"
+    }
+  ],
+  "iso639-3": "ade"
+}

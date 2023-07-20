@@ -1,0 +1,88 @@
+{
+  "pk": 15328,
+  "hid": "ptn",
+  "father_pk": 12494,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Patani [pata1260][ptn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7144242",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Patani_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "13534",
+        "wordlist_or_less",
+        1980,
+        18,
+        "Stokhof, W. A. L. and Saleh-Bronkhorst, Lia 1980"
+      ],
+      [
+        "54876",
+        "wordlist_or_less",
+        1884,
+        9,
+        "Adolf Bastian 1884"
+      ]
+    ]
+  },
+  "id": "pata1260",
+  "name": "Patani",
+  "description": null,
+  "markup_description": null,
+  "latitude": 0.34096,
+  "longitude": 128.634,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "South Halmahera-West New Guinea",
+      "id": "sout3229",
+      "url": "https://glottolog.org/resource/languoid/id/sout3229"
+    },
+    {
+      "name": "Raja Ampat-South Halmahera",
+      "id": "raja1255",
+      "url": "https://glottolog.org/resource/languoid/id/raja1255"
+    },
+    {
+      "name": "South Halmahera",
+      "id": "sout3231",
+      "url": "https://glottolog.org/resource/languoid/id/sout3231"
+    },
+    {
+      "name": "Central-Eastern South Halmahera",
+      "id": "cent2270",
+      "url": "https://glottolog.org/resource/languoid/id/cent2270"
+    }
+  ],
+  "iso639-3": "ptn"
+}

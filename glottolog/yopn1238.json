@@ -1,0 +1,92 @@
+{
+  "pk": 9098,
+  "hid": "yut",
+  "father_pk": 6599,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Isan [isan1244]':1,'Kewieng [kewi1240]':1,'Nokopo [noko1240]':1,'Wandabong [wand1268]':1)'Yopno [yopn1238][yut]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Yopno_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12953338",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "576377",
+        "grammar_sketch",
+        2000,
+        140,
+        "Wes Reed 2000"
+      ],
+      [
+        "36563",
+        "grammar_sketch",
+        1979,
+        40,
+        "Guruka Guruoni and John Tonson 1979"
+      ],
+      [
+        "95715",
+        "phonology_or_text",
+        1973,
+        5,
+        "McElhanon, Kenneth A. 1973"
+      ],
+      [
+        "143341",
+        "wordlist_or_less",
+        1958,
+        50,
+        "Carl A. Schmitz 1958"
+      ]
+    ]
+  },
+  "id": "yopn1238",
+  "name": "Yopno",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.94085,
+  "longitude": 146.661,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Finisterre-Huon",
+      "id": "fini1244",
+      "url": "https://glottolog.org/resource/languoid/id/fini1244"
+    },
+    {
+      "name": "Finisterre-Saruwaged",
+      "id": "fini1245",
+      "url": "https://glottolog.org/resource/languoid/id/fini1245"
+    },
+    {
+      "name": "Yupna",
+      "id": "yupn1242",
+      "url": "https://glottolog.org/resource/languoid/id/yupn1242"
+    },
+    {
+      "name": "Kewieng-Bonkiman-Nokopo",
+      "id": "kewi1241",
+      "url": "https://glottolog.org/resource/languoid/id/kewi1241"
+    }
+  ],
+  "iso639-3": "yut"
+}

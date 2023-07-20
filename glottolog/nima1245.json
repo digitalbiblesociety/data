@@ -1,0 +1,85 @@
+{
+  "pk": 3304,
+  "hid": "nmp",
+  "father_pk": 1739,
+  "family_pk": 354,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Nimanbur [nima1245][nmp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4880",
+        "label": "Nimanburru"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nimanburru_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nima1245",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q16891606",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "665868",
+        "wordlist_or_less",
+        2006,
+        25,
+        "Nekes, Hermann and Worms, Ernest 2006"
+      ],
+      [
+        "79126",
+        "wordlist_or_less",
+        1996,
+        22,
+        "MacGregor, William B. 1996"
+      ],
+      [
+        "3450",
+        "wordlist_or_less",
+        1944,
+        3,
+        "Worms, Ernest A. 1944"
+      ],
+      [
+        "304666",
+        "wordlist_or_less",
+        1938,
+        3,
+        "Nekes, Hermann 1938"
+      ]
+    ]
+  },
+  "id": "nima1245",
+  "name": "Nimanbur",
+  "description": null,
+  "markup_description": null,
+  "latitude": -17.374,
+  "longitude": 123.228,
+  "classification": [
+    {
+      "name": "Nyulnyulan",
+      "id": "nyul1248",
+      "url": "https://glottolog.org/resource/languoid/id/nyul1248"
+    },
+    {
+      "name": "Western Nyulnyulan",
+      "id": "west2872",
+      "url": "https://glottolog.org/resource/languoid/id/west2872"
+    }
+  ],
+  "iso639-3": "nmp"
+}

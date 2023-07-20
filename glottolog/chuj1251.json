@@ -1,0 +1,58 @@
+{
+  "pk": 532,
+  "hid": "cnm",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Chuj/ Ixtatán [chuj1251][cnm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "cnm",
+      "name": "Ixtatán Chuj",
+      "change_request": "2008-050",
+      "effective": "2009-01-16",
+      "reason": "merge",
+      "change_to": [
+        "cac"
+      ],
+      "remedy": "Merge with Chuj [cac]",
+      "comment": "The name is a dialect or dialect group name, and therefore incorrect for a\nlanguage designation. It should be changed to the general language name. There\nis almost no disagreement among linguists about what the general language names\nfor Mayan languages are. The majority of the Ethnologue/ISO names are, however,\ndialect names. Please see section 4 for an elaboration of the languages\naccording to family divisions and branches."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12633372",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500299",
+        "wordlist_or_less",
+        2008,
+        0,
+        "ISO 639-3 Registration Authority 2008"
+      ]
+    ]
+  },
+  "id": "chuj1251",
+  "name": "Chuj, Ixtatán",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "cnm"
+}

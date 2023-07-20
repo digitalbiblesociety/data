@@ -1,0 +1,90 @@
+{
+  "pk": 12973,
+  "hid": "gbr",
+  "father_pk": 9975,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Diko [diko1242]':1,'Kaduna [kadu1255]':1,'Karu [karu1253]':1,'Kuta [kuta1242]':1,'Louome [louo1238]':1,'Ngenge [ngen1253]':1,'Tawari [tawa1273]':1,'Vwezhi [vwez1238]':1)'Gbagyi [gbag1258][gbr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 8,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://phoible.org/languages/gbag1258",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q11015105",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "152281",
+        "grammar",
+        1970,
+        150,
+        "Hyman, Larry M. and Magaji, Daniel J. 1970"
+      ],
+      [
+        "75064",
+        "grammar_sketch",
+        1909,
+        187,
+        "Edgar, Francis 1909"
+      ],
+      [
+        "137614",
+        "grammar_sketch",
+        1908,
+        18,
+        "Low, W.P. 1908"
+      ]
+    ]
+  },
+  "id": "gbag1258",
+  "name": "Gbagyi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.29842,
+  "longitude": 6.90495,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Ebira-Nupoid",
+      "id": "ebir1244",
+      "url": "https://glottolog.org/resource/languoid/id/ebir1244"
+    },
+    {
+      "name": "Macro-Nupoid",
+      "id": "nupe1252",
+      "url": "https://glottolog.org/resource/languoid/id/nupe1252"
+    },
+    {
+      "name": "Gbagyi-Gbari",
+      "id": "gbag1256",
+      "url": "https://glottolog.org/resource/languoid/id/gbag1256"
+    }
+  ],
+  "iso639-3": "gbr"
+}

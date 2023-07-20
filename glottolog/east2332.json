@@ -1,0 +1,96 @@
+{
+  "pk": 10557,
+  "hid": "bru",
+  "father_pk": 7649,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bru Dong Sen Keo [brud1238]':1,'Bru Kok Sa-At [bruk1238]':1,'Mangkong [mang1379]':1,'Tri [trii1240]':1)'Eastern Bru [east2332][bru]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bru",
+        "label": "Bru (Eastern)"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/3971",
+        "label": "Eastern Bru"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q16115463",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "306585",
+        "grammar_sketch",
+        1974,
+        49,
+        "Miller, Carolyn P. 1974"
+      ],
+      [
+        "126995",
+        "grammar_sketch",
+        1967,
+        36,
+        "Miller, John D. and Miller, Carolyn P. [1967]"
+      ],
+      [
+        "32094",
+        "grammar_sketch",
+        1964,
+        18,
+        "Miller, Carolyn P. 1964"
+      ],
+      [
+        "130340",
+        "wordlist_or_less",
+        1906,
+        3,
+        "Paul Macey 1906"
+      ]
+    ]
+  },
+  "id": "east2332",
+  "name": "Eastern Bru",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.1311,
+  "longitude": 105.671,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Katuic",
+      "id": "katu1271",
+      "url": "https://glottolog.org/resource/languoid/id/katu1271"
+    },
+    {
+      "name": "West Katuic",
+      "id": "west1492",
+      "url": "https://glottolog.org/resource/languoid/id/west1492"
+    },
+    {
+      "name": "Brou-So",
+      "id": "brou1236",
+      "url": "https://glottolog.org/resource/languoid/id/brou1236"
+    },
+    {
+      "name": "Eastern Bru-Katang",
+      "id": "east2783",
+      "url": "https://glottolog.org/resource/languoid/id/east2783"
+    }
+  ],
+  "iso639-3": "bru"
+}

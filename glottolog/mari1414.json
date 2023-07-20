@@ -1,0 +1,85 @@
+{
+  "pk": 10487,
+  "hid": "mrr",
+  "father_pk": 7601,
+  "family_pk": 404,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Abujmaria [abuj1237]':1,'Adewada [adew1237]':1,'Bhamani Maria [bham1240]':1,'Etapally Maria [etap1240]':1)'Maria {India} [mari1414][mrr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q27602",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Madiya_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "122688",
+        "long_grammar",
+        1965,
+        357,
+        "Veena, Sneha 1965"
+      ],
+      [
+        "319553",
+        "grammar_sketch",
+        1913,
+        156,
+        "Lind, Abraham Alfred 1913"
+      ],
+      [
+        "319325",
+        "wordlist_or_less",
+        1870,
+        169,
+        "C. B. Lucie Smith 1870"
+      ]
+    ]
+  },
+  "id": "mari1414",
+  "name": "Maria (India)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 19.7875,
+  "longitude": 79.9144,
+  "classification": [
+    {
+      "name": "Dravidian",
+      "id": "drav1251",
+      "url": "https://glottolog.org/resource/languoid/id/drav1251"
+    },
+    {
+      "name": "South Dravidian",
+      "id": "sout3133",
+      "url": "https://glottolog.org/resource/languoid/id/sout3133"
+    },
+    {
+      "name": "South Dravidian II",
+      "id": "sout3139",
+      "url": "https://glottolog.org/resource/languoid/id/sout3139"
+    },
+    {
+      "name": "Gondi",
+      "id": "gond1265",
+      "url": "https://glottolog.org/resource/languoid/id/gond1265"
+    },
+    {
+      "name": "Southeast Gondi",
+      "id": "sout3234",
+      "url": "https://glottolog.org/resource/languoid/id/sout3234"
+    }
+  ],
+  "iso639-3": "mrr"
+}

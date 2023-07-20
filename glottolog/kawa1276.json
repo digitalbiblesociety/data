@@ -1,0 +1,72 @@
+{
+  "pk": 5220,
+  "hid": "kcb",
+  "father_pk": 3384,
+  "family_pk": 385,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kawacha [kawa1276][kcb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2225",
+        "label": "Kawacha"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q11732302",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kawacha_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "140544",
+        "phonology_or_text",
+        1973,
+        3,
+        "Lloyd, Richard G. 1973"
+      ],
+      [
+        "319180",
+        "wordlist_or_less",
+        1968,
+        1,
+        "Hans Fischer 1968"
+      ]
+    ]
+  },
+  "id": "kawa1276",
+  "name": "Kawacha",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.95411,
+  "longitude": 146.20997,
+  "classification": [
+    {
+      "name": "Angan",
+      "id": "anga1289",
+      "url": "https://glottolog.org/resource/languoid/id/anga1289"
+    },
+    {
+      "name": "Nuclear Angan",
+      "id": "nucl1763",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1763"
+    },
+    {
+      "name": "Wojokesic",
+      "id": "nort3145",
+      "url": "https://glottolog.org/resource/languoid/id/nort3145"
+    }
+  ],
+  "iso639-3": "kcb"
+}

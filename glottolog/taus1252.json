@@ -1,0 +1,72 @@
+{
+  "pk": 5243,
+  "hid": "tad",
+  "father_pk": 3415,
+  "family_pk": 396,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Deirate [deir1239]':1,'Nuclear Tause [nucl1598]':1,'Weirate [weir1238]':1)'Tause [taus1252][tad]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2791",
+        "label": "Tause"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2356440",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tause_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "68632",
+        "phonology_or_text",
+        1993,
+        1,
+        "Heljä Clouse and Duane Clouse 1993"
+      ],
+      [
+        "27422",
+        "wordlist_or_less",
+        1990,
+        45,
+        "Munnings, Mary Jane and Munnings, Peter 1990"
+      ]
+    ]
+  },
+  "id": "taus1252",
+  "name": "Tause",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.8406,
+  "longitude": 136.899,
+  "classification": [
+    {
+      "name": "Lakes Plain",
+      "id": "lake1255",
+      "url": "https://glottolog.org/resource/languoid/id/lake1255"
+    },
+    {
+      "name": "Tariku",
+      "id": "tari1255",
+      "url": "https://glottolog.org/resource/languoid/id/tari1255"
+    },
+    {
+      "name": "West Tariku",
+      "id": "west2582",
+      "url": "https://glottolog.org/resource/languoid/id/west2582"
+    }
+  ],
+  "iso639-3": "tad"
+}

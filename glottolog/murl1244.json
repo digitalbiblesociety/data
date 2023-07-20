@@ -1,0 +1,99 @@
+{
+  "pk": 5450,
+  "hid": "mur",
+  "father_pk": 3571,
+  "family_pk": 18,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Boma {Surmic} [boma1247]':1,'Lotilla [loti1239]':1,'Olam [olam1240]':1)'Murle [murl1244][mur]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4613",
+        "label": "Murle"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mrl",
+        "label": "Murle"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Murle_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/murl1244",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56727",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "110603",
+        "grammar",
+        1982,
+        157,
+        "Arensen, Jon 1982"
+      ],
+      [
+        "150701",
+        "grammar_sketch",
+        1971,
+        79,
+        "Lyth, R. E. 1971"
+      ],
+      [
+        "68561",
+        "grammar_sketch",
+        1927,
+        2,
+        "Driberg, Jack H. 1927"
+      ],
+      [
+        "155537",
+        "wordlist_or_less",
+        1918,
+        11,
+        "Logan, M.H. 1918"
+      ]
+    ]
+  },
+  "id": "murl1244",
+  "name": "Murle",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.69756,
+  "longitude": 33.988,
+  "classification": [
+    {
+      "name": "Surmic",
+      "id": "surm1244",
+      "url": "https://glottolog.org/resource/languoid/id/surm1244"
+    },
+    {
+      "name": "South Surmic",
+      "id": "sout2836",
+      "url": "https://glottolog.org/resource/languoid/id/sout2836"
+    },
+    {
+      "name": "Southwest Surmic",
+      "id": "sout2838",
+      "url": "https://glottolog.org/resource/languoid/id/sout2838"
+    },
+    {
+      "name": "Didinga-Murle",
+      "id": "didi1256",
+      "url": "https://glottolog.org/resource/languoid/id/didi1256"
+    }
+  ],
+  "iso639-3": "mur"
+}

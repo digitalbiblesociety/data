@@ -1,0 +1,93 @@
+{
+  "pk": 10675,
+  "hid": "tkr",
+  "father_pk": 7771,
+  "family_pk": 426,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kirmico-Lek [kirm1249]':1,'Mikik [miki1243]':1,'Misles [misl1238]':1)'Tsakhur [tsak1249][tkr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3034",
+        "label": "Tsakhur"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36853",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tsakhur_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tsa",
+        "label": "Tsakhur"
+      }
+    ],
+    "meds": [
+      [
+        "314153",
+        "long_grammar",
+        1999,
+        943,
+        "Kibrik, Alexander E. and Testelec, Ja. G. 1999"
+      ],
+      [
+        "140946",
+        "grammar",
+        1990,
+        237,
+        "Ibragimov, Garun X. 1990"
+      ],
+      [
+        "116280",
+        "wordlist_or_less",
+        1973,
+        8,
+        "Chajdakov, Said M. 1973"
+      ]
+    ]
+  },
+  "id": "tsak1249",
+  "name": "Tsakhur",
+  "description": null,
+  "markup_description": null,
+  "latitude": 41.5916,
+  "longitude": 46.8858,
+  "classification": [
+    {
+      "name": "Nakh-Daghestanian",
+      "id": "nakh1245",
+      "url": "https://glottolog.org/resource/languoid/id/nakh1245"
+    },
+    {
+      "name": "Daghestanian",
+      "id": "dagh1238",
+      "url": "https://glottolog.org/resource/languoid/id/dagh1238"
+    },
+    {
+      "name": "Lezgic",
+      "id": "lezg1248",
+      "url": "https://glottolog.org/resource/languoid/id/lezg1248"
+    },
+    {
+      "name": "Samur",
+      "id": "nucl1321",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1321"
+    },
+    {
+      "name": "Western Samur",
+      "id": "west2428",
+      "url": "https://glottolog.org/resource/languoid/id/west2428"
+    }
+  ],
+  "iso639-3": "tkr"
+}

@@ -1,0 +1,90 @@
+{
+  "pk": 12057,
+  "hid": "mel",
+  "father_pk": 9205,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Balingian [bali1282]':1,'Bruit [brui1237]':1,'Dalat [dala1239]':1,'Igan [igan1242]':1,'Mukah-Oya [muka1237]':1,'Prehan [preh1243]':1,'Sarikei [sari1247]':1,'Segahan [sega1246]':1,'Segalang [sega1245]':1,'Siteng [site1237]':1)'Central Melanau [cent2101][mel]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 10,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q18638319",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mel",
+        "label": "Melanau"
+      }
+    ],
+    "meds": [
+      [
+        "83617",
+        "long_grammar",
+        1972,
+        510,
+        "Clayre, Iain F. C. S. 1972"
+      ],
+      [
+        "89467",
+        "wordlist_or_less",
+        1933,
+        44,
+        "A. E. Lawrence 1933"
+      ],
+      [
+        "23345",
+        "wordlist_or_less",
+        1913,
+        2,
+        "Sidney H. Ray 1913"
+      ]
+    ]
+  },
+  "id": "cent2101",
+  "name": "Central Melanau",
+  "description": null,
+  "markup_description": null,
+  "latitude": 2.524086,
+  "longitude": 111.346451,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "North Borneo Malayo-Polynesian",
+      "id": "nort3253",
+      "url": "https://glottolog.org/resource/languoid/id/nort3253"
+    },
+    {
+      "name": "Central Sarawak",
+      "id": "sara1342",
+      "url": "https://glottolog.org/resource/languoid/id/sara1342"
+    },
+    {
+      "name": "Melanau-Kajang",
+      "id": "mela1262",
+      "url": "https://glottolog.org/resource/languoid/id/mela1262"
+    },
+    {
+      "name": "Melanau",
+      "id": "mela1255",
+      "url": "https://glottolog.org/resource/languoid/id/mela1255"
+    }
+  ],
+  "iso639-3": "mel"
+}

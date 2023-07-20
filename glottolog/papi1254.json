@@ -1,0 +1,107 @@
+{
+  "pk": 21342,
+  "hid": "pat",
+  "father_pk": 19514,
+  "family_pk": 289,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "'Papitalai [papi1254][pat]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "pat",
+      "name": "Papitalai",
+      "change_request": "2020-025",
+      "effective": "2021-01-15",
+      "reason": "merge",
+      "change_to": [
+        "kxr"
+      ],
+      "remedy": "Merged into Koro (Papua New Guinea) [kxr]",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1372",
+        "label": "Papitalai"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6528659",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "659647",
+        "grammar",
+        2010,
+        0,
+        "Cleary-Kemp, Jessica 2010"
+      ]
+    ]
+  },
+  "id": "papi1254",
+  "name": "Papitalai",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.06222,
+  "longitude": 147.417,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Admiralty Islands",
+      "id": "admi1239",
+      "url": "https://glottolog.org/resource/languoid/id/admi1239"
+    },
+    {
+      "name": "Eastern Admiralty Islands",
+      "id": "east2459",
+      "url": "https://glottolog.org/resource/languoid/id/east2459"
+    },
+    {
+      "name": "Manus",
+      "id": "manu1262",
+      "url": "https://glottolog.org/resource/languoid/id/manu1262"
+    },
+    {
+      "name": "East Manus",
+      "id": "east2460",
+      "url": "https://glottolog.org/resource/languoid/id/east2460"
+    },
+    {
+      "name": "Koro-Lele-Nali-Titan",
+      "id": "koro1314",
+      "url": "https://glottolog.org/resource/languoid/id/koro1314"
+    },
+    {
+      "name": "Manus Koro",
+      "id": "bowa1234",
+      "url": "https://glottolog.org/resource/languoid/id/bowa1234"
+    }
+  ],
+  "iso639-3": "pat"
+}

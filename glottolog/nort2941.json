@@ -1,0 +1,94 @@
+{
+  "pk": 11715,
+  "hid": "ttm",
+  "father_pk": 8908,
+  "family_pk": 238,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Northern Tutchone [nort2941][ttm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1918",
+        "label": "Northern Tutchone"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q20822",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tut",
+        "label": "Tutchone (Northern)"
+      }
+    ],
+    "meds": [
+      [
+        "41621",
+        "phonology_or_text",
+        1976,
+        134,
+        "Ritter, John 1976"
+      ],
+      [
+        "168583",
+        "wordlist_or_less",
+        1965,
+        0,
+        "Dennison, Glenda 1965"
+      ],
+      [
+        "168841",
+        "wordlist_or_less",
+        1882,
+        0,
+        "Canham, Thomas 1882"
+      ]
+    ]
+  },
+  "id": "nort2941",
+  "name": "Northern Tutchone",
+  "description": null,
+  "markup_description": null,
+  "latitude": 62.8235,
+  "longitude": -136.644,
+  "classification": [
+    {
+      "name": "Athabaskan-Eyak-Tlingit",
+      "id": "atha1245",
+      "url": "https://glottolog.org/resource/languoid/id/atha1245"
+    },
+    {
+      "name": "Athabaskan-Eyak",
+      "id": "atha1246",
+      "url": "https://glottolog.org/resource/languoid/id/atha1246"
+    },
+    {
+      "name": "Athabaskan",
+      "id": "atha1247",
+      "url": "https://glottolog.org/resource/languoid/id/atha1247"
+    },
+    {
+      "name": "Central Alaska-Yukon Athabaskan",
+      "id": "cent2371",
+      "url": "https://glottolog.org/resource/languoid/id/cent2371"
+    },
+    {
+      "name": "Tanana-Tutchone",
+      "id": "tana1299",
+      "url": "https://glottolog.org/resource/languoid/id/tana1299"
+    },
+    {
+      "name": "Tutchone",
+      "id": "tutc1236",
+      "url": "https://glottolog.org/resource/languoid/id/tutc1236"
+    }
+  ],
+  "iso639-3": "ttm"
+}

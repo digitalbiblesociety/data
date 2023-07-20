@@ -1,0 +1,86 @@
+{
+  "pk": 5296,
+  "hid": "bbh",
+  "father_pk": 3476,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Bugan [buga1247][bbh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1238",
+        "label": "Bugan"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3033554",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bugan_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "326037",
+        "long_grammar",
+        2005,
+        351,
+        "Li, Yunbing 2005"
+      ],
+      [
+        "312077",
+        "grammar_sketch",
+        2004,
+        31,
+        "Wu, Zili 2004"
+      ],
+      [
+        "75573",
+        "grammar_sketch",
+        1996,
+        25,
+        "Jinfang Li 1996"
+      ],
+      [
+        "590113",
+        "phonology_or_text",
+        1992,
+        0,
+        "Wu, Zili 1992"
+      ]
+    ]
+  },
+  "id": "buga1247",
+  "name": "Bugan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 23.6124,
+  "longitude": 104.963,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Mangic",
+      "id": "mang1377",
+      "url": "https://glottolog.org/resource/languoid/id/mang1377"
+    },
+    {
+      "name": "Pakanic",
+      "id": "boly1240",
+      "url": "https://glottolog.org/resource/languoid/id/boly1240"
+    }
+  ],
+  "iso639-3": "bbh"
+}

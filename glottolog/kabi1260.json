@@ -1,0 +1,100 @@
+{
+  "pk": 8463,
+  "hid": "gbw",
+  "father_pk": 6004,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Batyala [baty1234][xby]':1,'Gabigabi [gabi1248]':1)'Kabikabi [kabi1260][gbw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6779",
+        "label": "Gubbi Gubbi"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Gubbi_Gubbi_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kabi1260",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5515391",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "2160",
+        "grammar_sketch",
+        2003,
+        111,
+        "Bell, Jeanie 2003"
+      ],
+      [
+        "476203",
+        "phonology_or_text",
+        1983,
+        8,
+        "Holmer, Nils M. 1983"
+      ],
+      [
+        "4582",
+        "wordlist_or_less",
+        1910,
+        64,
+        "Mathew, John 1910"
+      ],
+      [
+        "1306",
+        "wordlist_or_less",
+        1866,
+        30,
+        "Ridley, William 1866"
+      ]
+    ]
+  },
+  "id": "kabi1260",
+  "name": "Kabikabi",
+  "description": null,
+  "markup_description": null,
+  "latitude": -25.44486229,
+  "longitude": 153.1539929,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Southeastern Pama-Nyungan",
+      "id": "sout3135",
+      "url": "https://glottolog.org/resource/languoid/id/sout3135"
+    },
+    {
+      "name": "North Coast Pama-Nyungan",
+      "id": "nort3154",
+      "url": "https://glottolog.org/resource/languoid/id/nort3154"
+    },
+    {
+      "name": "Waka-Kabic",
+      "id": "waka1283",
+      "url": "https://glottolog.org/resource/languoid/id/waka1283"
+    },
+    {
+      "name": "Eastern Waka-Kabic",
+      "id": "east2717",
+      "url": "https://glottolog.org/resource/languoid/id/east2717"
+    }
+  ],
+  "iso639-3": "gbw"
+}

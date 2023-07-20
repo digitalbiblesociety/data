@@ -1,0 +1,76 @@
+{
+  "pk": 7651,
+  "hid": "ktv",
+  "father_pk": 5309,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Eastern Katu [east1236][ktv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q13018490",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "549442",
+        "long_grammar",
+        1998,
+        314,
+        "Nguyên Hũu Hoành and Loi, Nguyên Văn 1998"
+      ],
+      [
+        "314399",
+        "phonology_or_text",
+        1971,
+        139,
+        "Costello, Nancy A. 1971"
+      ],
+      [
+        "138054",
+        "phonology_or_text",
+        1966,
+        24,
+        "Costello, Nancy A. 1966"
+      ]
+    ]
+  },
+  "id": "east1236",
+  "name": "Eastern Katu",
+  "description": null,
+  "markup_description": null,
+  "latitude": 15.8553,
+  "longitude": 107.644,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Katuic",
+      "id": "katu1271",
+      "url": "https://glottolog.org/resource/languoid/id/katu1271"
+    },
+    {
+      "name": "Katu",
+      "id": "katu1272",
+      "url": "https://glottolog.org/resource/languoid/id/katu1272"
+    },
+    {
+      "name": "Nuclear Katu",
+      "id": "nucl1297",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1297"
+    }
+  ],
+  "iso639-3": "ktv"
+}

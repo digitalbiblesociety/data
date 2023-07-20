@@ -1,0 +1,102 @@
+{
+  "pk": 13212,
+  "hid": "vay",
+  "father_pk": 10159,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Wayu [wayu1241][vay]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3399",
+        "label": "Wayu"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7917585",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Vayu_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/wayu1241",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_hay",
+        "label": "Hayu"
+      }
+    ],
+    "meds": [
+      [
+        "132561",
+        "long_grammar",
+        2003,
+        323,
+        "Michailovsky, Boyd 2003"
+      ],
+      [
+        "306367",
+        "long_grammar",
+        1981,
+        323,
+        "Boyd Michailovsky 1981"
+      ],
+      [
+        "47913",
+        "grammar_sketch",
+        1857,
+        114,
+        "Brian H. Hodgson 1857"
+      ]
+    ]
+  },
+  "id": "wayu1241",
+  "name": "Wayu",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.3047,
+  "longitude": 86.1227,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Himalayish",
+      "id": "hima1249",
+      "url": "https://glottolog.org/resource/languoid/id/hima1249"
+    },
+    {
+      "name": "Mahakiranti",
+      "id": "maha1306",
+      "url": "https://glottolog.org/resource/languoid/id/maha1306"
+    },
+    {
+      "name": "Kiranti",
+      "id": "kira1253",
+      "url": "https://glottolog.org/resource/languoid/id/kira1253"
+    },
+    {
+      "name": "Western Kiranti",
+      "id": "west2424",
+      "url": "https://glottolog.org/resource/languoid/id/west2424"
+    },
+    {
+      "name": "Northwestern Kiranti",
+      "id": "nort2730",
+      "url": "https://glottolog.org/resource/languoid/id/nort2730"
+    }
+  ],
+  "iso639-3": "vay"
+}

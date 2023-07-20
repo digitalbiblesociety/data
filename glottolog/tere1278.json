@@ -1,0 +1,79 @@
+{
+  "pk": 4171,
+  "hid": "buo",
+  "father_pk": 2393,
+  "family_pk": 170,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Terei [tere1278][buo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56831",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Terei_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bun",
+        "label": "Buin"
+      }
+    ],
+    "meds": [
+      [
+        "555474",
+        "grammar_sketch",
+        1974,
+        39,
+        "Margie Griffin 1974"
+      ],
+      [
+        "152635",
+        "grammar_sketch",
+        1910,
+        39,
+        "J. Grisward 1910"
+      ],
+      [
+        "28177",
+        "wordlist_or_less",
+        1909,
+        11,
+        "Thurnwald, Richard 1909"
+      ]
+    ]
+  },
+  "id": "tere1278",
+  "name": "Terei",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.70051,
+  "longitude": 155.745,
+  "classification": [
+    {
+      "name": "South Bougainville",
+      "id": "sout2948",
+      "url": "https://glottolog.org/resource/languoid/id/sout2948"
+    },
+    {
+      "name": "Buinic",
+      "id": "buin1247",
+      "url": "https://glottolog.org/resource/languoid/id/buin1247"
+    },
+    {
+      "name": "Buin",
+      "id": "buin1248",
+      "url": "https://glottolog.org/resource/languoid/id/buin1248"
+    }
+  ],
+  "iso639-3": "buo"
+}

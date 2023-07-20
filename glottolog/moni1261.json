@@ -1,0 +1,81 @@
+{
+  "pk": 2923,
+  "hid": "mnz",
+  "father_pk": 1519,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Awembak [awem1238]':1)'Moni [moni1261][mnz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6899857",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Moni_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mni",
+        "label": "Moni"
+      }
+    ],
+    "meds": [
+      [
+        "122768",
+        "grammar_sketch",
+        1959,
+        63,
+        "Drabbe, Peter 1959"
+      ],
+      [
+        "53467",
+        "grammar_sketch",
+        1958,
+        26,
+        "Gordon F. Larson and Mildred O. Larson 1958"
+      ],
+      [
+        "91959",
+        "grammar_sketch",
+        1949,
+        11,
+        "Petrus Drabbe 1949"
+      ],
+      [
+        "301351",
+        "wordlist_or_less",
+        1938,
+        121,
+        "van Eechoud, J. P. K. 1938"
+      ]
+    ]
+  },
+  "id": "moni1261",
+  "name": "Moni",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.72962,
+  "longitude": 136.886,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Paniai Lakes",
+      "id": "pani1259",
+      "url": "https://glottolog.org/resource/languoid/id/pani1259"
+    }
+  ],
+  "iso639-3": "mnz"
+}

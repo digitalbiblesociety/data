@@ -1,0 +1,86 @@
+{
+  "pk": 5122,
+  "hid": "cuq",
+  "father_pk": 3307,
+  "family_pk": 356,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Fawn [fawn1234]':1,'Nadou [nado1234]':1)'Cun-Nadou [cunn1236][cuq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10720",
+        "label": "Nadouhua"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cun_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2475478",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "106692",
+        "grammar",
+        1998,
+        254,
+        "Ouyang, Jueya 1998"
+      ],
+      [
+        "548869",
+        "grammar",
+        1996,
+        5,
+        "Changzhong Fu 1996"
+      ],
+      [
+        "304329",
+        "wordlist_or_less",
+        1990,
+        5,
+        "Fu, Zhennan 1990"
+      ],
+      [
+        "308524",
+        "wordlist_or_less",
+        1983,
+        4,
+        "Fu, Zhennan 1983"
+      ]
+    ]
+  },
+  "id": "cunn1236",
+  "name": "Cun-Nadou",
+  "description": null,
+  "markup_description": null,
+  "latitude": 19.2182,
+  "longitude": 108.743,
+  "classification": [
+    {
+      "name": "Tai-Kadai",
+      "id": "taik1256",
+      "url": "https://glottolog.org/resource/languoid/id/taik1256"
+    },
+    {
+      "name": "Hlaic",
+      "id": "hlai1238",
+      "url": "https://glottolog.org/resource/languoid/id/hlai1238"
+    },
+    {
+      "name": "Nuclear Hlaic",
+      "id": "nucl1241",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1241"
+    }
+  ],
+  "iso639-3": "cuq"
+}

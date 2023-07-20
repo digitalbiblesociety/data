@@ -1,0 +1,95 @@
+{
+  "pk": 13028,
+  "hid": "kpk",
+  "father_pk": 10011,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bissaula [biss1247]':1,('Apa [apaa1238]':1,'Eregba [ereg1239]':1,'Kente [kent1256]':1)'Eastern Kpan [east2861]':1,('Donga [dong1291]':1,('Kumbo [kumb1270]':1,'Takum {Kpan} [taku1255]':1)'Kumbo-Takum [kumb1279]':1)'Western Kpan [west2957]':1)'Kpan [kpan1246][kpk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 10,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5042",
+        "label": "Kpan"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3915380",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kpan_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kpan1246",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kpa",
+        "label": "Kpan"
+      }
+    ],
+    "meds": [
+      [
+        "135296",
+        "grammar_sketch",
+        1971,
+        89,
+        "Shimizu, Kiyoshi 1971, 1972"
+      ],
+      [
+        "19485",
+        "wordlist_or_less",
+        1828,
+        4,
+        "Kilham, Hannah 1828"
+      ]
+    ]
+  },
+  "id": "kpan1246",
+  "name": "Kpan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.58343,
+  "longitude": 10.1642,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Jukunoid",
+      "id": "juku1257",
+      "url": "https://glottolog.org/resource/languoid/id/juku1257"
+    },
+    {
+      "name": "Central Jukunoid",
+      "id": "cent2241",
+      "url": "https://glottolog.org/resource/languoid/id/cent2241"
+    },
+    {
+      "name": "Kpan-Icen",
+      "id": "kpan1245",
+      "url": "https://glottolog.org/resource/languoid/id/kpan1245"
+    }
+  ],
+  "iso639-3": "kpk"
+}

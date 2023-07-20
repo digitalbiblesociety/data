@@ -1,0 +1,87 @@
+{
+  "pk": 3572,
+  "hid": "ijc",
+  "father_pk": 1910,
+  "family_pk": 23,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Apoi [apoi1238]':1,'Arogbo [arog1238]':1,'Basan [basa1277]':1,'Bumo [bumo1235]':1,'East Olodiama [east2384]':1,'East Tarakiri [east2385]':1,'Egbema {Ijoid} [egbe1244]':1,'Ekpetiama [ekpe1250]':1,'Furupagha [furu1238]':1,'Gbarain [gbar1235]':1,'Iduwini [iduw1238]':1,'Ikibiri [ikib1238]':1,'Kabo [kabo1240]':1,'Kolokuma-Opokuma [kolo1262]':1,'Koluama [kolu1244]':1,'Kumbo {Ijoid} [kumb1269]':1,'Mein [mein1238]':1,'Ogbe Ijo [ogbe1244]':1,'Ogboin [ogbo1241]':1,'Ogulagha [ogul1238]':1,'Operemo [oper1238]':1,'Oporomo [opor1246]':1,'Oporoza [opor1245]':1,'Oyiakiri [oyia1238]':1,'Tuomo [tuom1235]':1,'West Olodiama [west2447]':1,'West Tarakiri [west2448]':1)'Izon [izon1238][ijc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 27,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/7934",
+        "label": "Izon"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35483",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Izon_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/izon1238",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ijo",
+        "label": "Ijo (Kolokuma)"
+      }
+    ],
+    "meds": [
+      [
+        "67931",
+        "grammar",
+        1965,
+        134,
+        "Williamson, Kay 1965"
+      ],
+      [
+        "17378",
+        "grammar",
+        1964,
+        0,
+        "Williamson, Kay 1964"
+      ],
+      [
+        "305518",
+        "grammar_sketch",
+        1862,
+        44,
+        "Taylor, John C. 1862"
+      ]
+    ]
+  },
+  "id": "izon1238",
+  "name": "Izon",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.17986,
+  "longitude": 5.51702,
+  "classification": [
+    {
+      "name": "Ijoid",
+      "id": "ijoi1239",
+      "url": "https://glottolog.org/resource/languoid/id/ijoi1239"
+    },
+    {
+      "name": "Ijo",
+      "id": "ijoo1239",
+      "url": "https://glottolog.org/resource/languoid/id/ijoo1239"
+    },
+    {
+      "name": "Western Ijo",
+      "id": "west2446",
+      "url": "https://glottolog.org/resource/languoid/id/west2446"
+    }
+  ],
+  "iso639-3": "ijc"
+}

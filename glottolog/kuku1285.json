@@ -1,0 +1,80 @@
+{
+  "pk": 7085,
+  "hid": "ukv",
+  "father_pk": 4855,
+  "family_pk": 316,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kuku [kuku1285][ukv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3200300",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kuku_dialect",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "101866",
+        "grammar",
+        2000,
+        162,
+        "Cohen, Kevin Bretonnel 2000"
+      ],
+      [
+        "578829",
+        "grammar_sketch",
+        1924,
+        41,
+        "Yunis, E. Y. N. 1924"
+      ],
+      [
+        "40922",
+        "wordlist_or_less",
+        1910,
+        225,
+        "Vanden Plas, Joseph 1910"
+      ]
+    ]
+  },
+  "id": "kuku1285",
+  "name": "Kuku",
+  "description": null,
+  "markup_description": null,
+  "latitude": 3.9613,
+  "longitude": 31.537,
+  "classification": [
+    {
+      "name": "Nilotic",
+      "id": "nilo1247",
+      "url": "https://glottolog.org/resource/languoid/id/nilo1247"
+    },
+    {
+      "name": "Eastern Nilotic",
+      "id": "east2418",
+      "url": "https://glottolog.org/resource/languoid/id/east2418"
+    },
+    {
+      "name": "Barian",
+      "id": "bari1283",
+      "url": "https://glottolog.org/resource/languoid/id/bari1283"
+    },
+    {
+      "name": "Nuclear Barian",
+      "id": "nucl1796",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1796"
+    }
+  ],
+  "iso639-3": "ukv"
+}

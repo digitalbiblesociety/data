@@ -1,0 +1,143 @@
+{
+  "pk": 22698,
+  "hid": "vmf",
+  "father_pk": 20931,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ansbacher-Neustädter-Coburger Franconian [ansb1234]':1,('Henneberg Franconian [henn1234]':1,'Mid-North Lower East Franconian [midn1241]':1,'Southwest Lower East Franconian [sout3297]':1,'Würzburger Franconian [wurz1234]':1)'Lower East Franconian [lowe1447]':1,('Hof-Bayreuther [hofb1234]':1,'Nailaer [nail1234]':1,'Obermain [ober1244]':1,'Regnitz [regn1234]':1,'Vogtlandish [vogt1234]':1)'Upper East Franconian [uppe1466]':1)'Ostfränkisch [main1267][vmf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 12,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Main-Franconian_dialects",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q497345",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "581528",
+        "long_grammar",
+        1989,
+        409,
+        "Manfred Pützer 1989"
+      ],
+      [
+        "318153",
+        "long_grammar",
+        1981,
+        354,
+        "Steitz, Lothar 1981"
+      ],
+      [
+        "318159",
+        "grammar_sketch",
+        1957,
+        440,
+        "Hermann, Eduard 1957"
+      ],
+      [
+        "318177",
+        "grammar_sketch",
+        1955,
+        220,
+        "Georg Schübel 1955"
+      ],
+      [
+        "318546",
+        "grammar_sketch",
+        1938,
+        186,
+        "Labouvie, P. 1938"
+      ],
+      [
+        "325409",
+        "grammar_sketch",
+        1922,
+        6,
+        "Friedrich Schön 1922"
+      ],
+      [
+        "41798",
+        "phonology_or_text",
+        1895,
+        46,
+        "Ludwig Hertel 1895"
+      ]
+    ]
+  },
+  "id": "main1267",
+  "name": "Ostfränkisch",
+  "description": null,
+  "markup_description": null,
+  "latitude": 50.005,
+  "longitude": 8.621,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Germanic",
+      "id": "germ1287",
+      "url": "https://glottolog.org/resource/languoid/id/germ1287"
+    },
+    {
+      "name": "Northwest Germanic",
+      "id": "nort3152",
+      "url": "https://glottolog.org/resource/languoid/id/nort3152"
+    },
+    {
+      "name": "West Germanic",
+      "id": "west2793",
+      "url": "https://glottolog.org/resource/languoid/id/west2793"
+    },
+    {
+      "name": "High German",
+      "id": "high1289",
+      "url": "https://glottolog.org/resource/languoid/id/high1289"
+    },
+    {
+      "name": "Upper German",
+      "id": "high1286",
+      "url": "https://glottolog.org/resource/languoid/id/high1286"
+    },
+    {
+      "name": "Middle-Modern High German",
+      "id": "midd1349",
+      "url": "https://glottolog.org/resource/languoid/id/midd1349"
+    },
+    {
+      "name": "Modern High German",
+      "id": "mode1258",
+      "url": "https://glottolog.org/resource/languoid/id/mode1258"
+    },
+    {
+      "name": "Upper Franconian",
+      "id": "uppe1464",
+      "url": "https://glottolog.org/resource/languoid/id/uppe1464"
+    },
+    {
+      "name": "Greater East Franconian",
+      "id": "grea1301",
+      "url": "https://glottolog.org/resource/languoid/id/grea1301"
+    }
+  ],
+  "iso639-3": "vmf"
+}

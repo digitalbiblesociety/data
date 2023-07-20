@@ -1,0 +1,85 @@
+{
+  "pk": 9934,
+  "hid": "akd",
+  "father_pk": 7165,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ehom [ehom1238]':1,'Ukpet [ukpe1250]':1)'Ukpet-Ehom [ukpe1249][akd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q36618",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Akpet_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "657175",
+        "wordlist_or_less",
+        2022,
+        8,
+        "Decker, Ken and John Muniru and David Onoja and Lewinan Andrew and Samuel Eju 2022"
+      ],
+      [
+        "320644",
+        "wordlist_or_less",
+        2014,
+        2,
+        "Roger Blench 2014"
+      ],
+      [
+        "150176",
+        "wordlist_or_less",
+        1914,
+        2,
+        "Thomas, Northcote Whitridge 1914"
+      ]
+    ]
+  },
+  "id": "ukpe1249",
+  "name": "Ukpet-Ehom",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.58316,
+  "longitude": 8.10047,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Delta Cross",
+      "id": "delt1251",
+      "url": "https://glottolog.org/resource/languoid/id/delt1251"
+    },
+    {
+      "name": "Upper Cross",
+      "id": "uppe1418",
+      "url": "https://glottolog.org/resource/languoid/id/uppe1418"
+    }
+  ],
+  "iso639-3": "akd"
+}

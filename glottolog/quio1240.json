@@ -1,0 +1,97 @@
+{
+  "pk": 8952,
+  "hid": "chq",
+  "father_pk": 6463,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Yolox Chinanteco [yolo1240]':1)'Quiotepec Chinantec [quio1240][chq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_chq",
+        "label": "Chinantec (Quiotepec)"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/9874",
+        "label": "Sierra Chinantec"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Highland_Chinantec_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/quio1240",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5758709",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "91779",
+        "grammar",
+        1968,
+        201,
+        "Frank E. Robbins 1968"
+      ],
+      [
+        "73629",
+        "grammar",
+        1965,
+        201,
+        "Frank E. Robbins 1965"
+      ],
+      [
+        "468474",
+        "phonology_or_text",
+        1730,
+        318,
+        "Nicolás de la Barreda 1960 [1730]"
+      ]
+    ]
+  },
+  "id": "quio1240",
+  "name": "Quiotepec Chinantec",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.5621,
+  "longitude": -96.602,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Western Otomanguean",
+      "id": "west2783",
+      "url": "https://glottolog.org/resource/languoid/id/west2783"
+    },
+    {
+      "name": "Otopame-Chinantecan",
+      "id": "otop1241",
+      "url": "https://glottolog.org/resource/languoid/id/otop1241"
+    },
+    {
+      "name": "Chinantecan",
+      "id": "chin1484",
+      "url": "https://glottolog.org/resource/languoid/id/chin1484"
+    },
+    {
+      "name": "Chinantec Group V",
+      "id": "chin1488",
+      "url": "https://glottolog.org/resource/languoid/id/chin1488"
+    }
+  ],
+  "iso639-3": "chq"
+}

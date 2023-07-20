@@ -1,0 +1,82 @@
+{
+  "pk": 3577,
+  "hid": "mcc",
+  "father_pk": 1913,
+  "family_pk": 27,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Bitur [bitu1242][mcc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q4919173",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bitur_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "589271",
+        "phonology_or_text",
+        2021,
+        12,
+        "Phillip G. Rogers 2021"
+      ],
+      [
+        "79773",
+        "wordlist_or_less",
+        2002,
+        4,
+        "Jore, Tim and Laura Alemán 2002"
+      ],
+      [
+        "125387",
+        "wordlist_or_less",
+        1975,
+        1,
+        "Stephen A. Wurm 1975"
+      ],
+      [
+        "22446",
+        "wordlist_or_less",
+        1971,
+        1,
+        "Stephen A. Wurm 1971"
+      ]
+    ]
+  },
+  "id": "bitu1242",
+  "name": "Bitur",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.51839,
+  "longitude": 142.71,
+  "classification": [
+    {
+      "name": "Anim",
+      "id": "anim1240",
+      "url": "https://glottolog.org/resource/languoid/id/anim1240"
+    },
+    {
+      "name": "Tirio",
+      "id": "tiri1259",
+      "url": "https://glottolog.org/resource/languoid/id/tiri1259"
+    },
+    {
+      "name": "Nuclear Tirio",
+      "id": "nucl1713",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1713"
+    }
+  ],
+  "iso639-3": "mcc"
+}

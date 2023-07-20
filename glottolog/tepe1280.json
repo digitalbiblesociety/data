@@ -1,0 +1,80 @@
+{
+  "pk": 11777,
+  "hid": "cux",
+  "father_pk": 8966,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Santa María Pápalo [sant1437]':1)'Tepeuxila Cuicatec [tepe1280][cux]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3471",
+        "label": "Cuicatec"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tepeuxila_Cuicatec_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q20527242",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "314495",
+        "grammar_sketch",
+        1902,
+        135,
+        "Francisco Belmar 1902"
+      ]
+    ]
+  },
+  "id": "tepe1280",
+  "name": "Tepeuxila Cuicatec",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.756,
+  "longitude": -96.788,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Amuzgo-Mixtecan",
+      "id": "amuz1253",
+      "url": "https://glottolog.org/resource/languoid/id/amuz1253"
+    },
+    {
+      "name": "Mixtecan",
+      "id": "mixt1422",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1422"
+    },
+    {
+      "name": "Mixtec-Cuicatec",
+      "id": "mixt1423",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1423"
+    },
+    {
+      "name": "Cuicatec",
+      "id": "cuic1234",
+      "url": "https://glottolog.org/resource/languoid/id/cuic1234"
+    }
+  ],
+  "iso639-3": "cux"
+}

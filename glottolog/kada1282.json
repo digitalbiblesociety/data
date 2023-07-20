@@ -1,0 +1,96 @@
+{
+  "pk": 9017,
+  "hid": "kdu",
+  "father_pk": 6522,
+  "family_pk": 274,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dabatna [daba1243]':1,'Kafir [kafi1242]':1,'Kuldaji [kuld1238]':1,'Kurtala [kurt1249]':1,'Kururu [kuru1303]':1,'Nuclear Kadaru [nucl1343]':1)'Kadaru [kada1282][kdu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4361",
+        "label": "Kadaru"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35441",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kadaru_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "475967",
+        "phonology_or_text",
+        2015,
+        18,
+        "Gulfan, Gumma Ibrahim 2015"
+      ],
+      [
+        "322458",
+        "phonology_or_text",
+        2013,
+        16,
+        "Ali Ibrahim and Angelika Jakobi 2013"
+      ],
+      [
+        "55477",
+        "phonology_or_text",
+        2007,
+        15,
+        "Ibrahim, Gumma and Huttenga, Piet 2007"
+      ],
+      [
+        "133734",
+        "wordlist_or_less",
+        1829,
+        69,
+        "Rüppell, Eduard 1829"
+      ]
+    ]
+  },
+  "id": "kada1282",
+  "name": "Kadaru",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.1554,
+  "longitude": 30.2709,
+  "classification": [
+    {
+      "name": "Nubian",
+      "id": "nubi1251",
+      "url": "https://glottolog.org/resource/languoid/id/nubi1251"
+    },
+    {
+      "name": "West-Central Nubian",
+      "id": "west2781",
+      "url": "https://glottolog.org/resource/languoid/id/west2781"
+    },
+    {
+      "name": "Central Nubian",
+      "id": "cent2232",
+      "url": "https://glottolog.org/resource/languoid/id/cent2232"
+    },
+    {
+      "name": "Kordofan Nubian",
+      "id": "kord1246",
+      "url": "https://glottolog.org/resource/languoid/id/kord1246"
+    },
+    {
+      "name": "Eastern Kordofan Nubian",
+      "id": "east2715",
+      "url": "https://glottolog.org/resource/languoid/id/east2715"
+    }
+  ],
+  "iso639-3": "kdu"
+}

@@ -1,0 +1,112 @@
+{
+  "pk": 11134,
+  "hid": "sid",
+  "father_pk": 8225,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Sidamo [sida1246][sid]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_sid",
+        "label": "Sidaama"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sidama_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/sida1246",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33786",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "107730",
+        "long_grammar",
+        2007,
+        861,
+        "Kawachi, Kazuhiro 2007"
+      ],
+      [
+        "121758",
+        "long_grammar",
+        1940,
+        326,
+        "Moreno, M. M. 1940"
+      ],
+      [
+        "88526",
+        "grammar",
+        1938,
+        270,
+        "Cerulli, Enrico 1938"
+      ],
+      [
+        "51650",
+        "wordlist_or_less",
+        1895,
+        15,
+        "Borelli, Jules 1895"
+      ],
+      [
+        "585628",
+        "wordlist_or_less",
+        1845,
+        2,
+        "d'Abbadie, Antoine 1845"
+      ]
+    ]
+  },
+  "id": "sida1246",
+  "name": "Sidamo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.74176,
+  "longitude": 38.3729,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Cushitic",
+      "id": "cush1243",
+      "url": "https://glottolog.org/resource/languoid/id/cush1243"
+    },
+    {
+      "name": "East Cushitic",
+      "id": "east2699",
+      "url": "https://glottolog.org/resource/languoid/id/east2699"
+    },
+    {
+      "name": "Highland East Cushitic",
+      "id": "high1285",
+      "url": "https://glottolog.org/resource/languoid/id/high1285"
+    },
+    {
+      "name": "Sidaama-Hadiyya-Kambaata",
+      "id": "sida1247",
+      "url": "https://glottolog.org/resource/languoid/id/sida1247"
+    },
+    {
+      "name": "Sidaama-Gedeo",
+      "id": "sida1248",
+      "url": "https://glottolog.org/resource/languoid/id/sida1248"
+    }
+  ],
+  "iso639-3": "sid"
+}

@@ -1,0 +1,114 @@
+{
+  "pk": 10059,
+  "hid": "quk",
+  "father_pk": 7229,
+  "family_pk": 321,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Grenada-Mendoza [gren1245]':1,'La Jalca [laja1238]':1,'Lamud [lamu1256]':1,'Llakwash Chachapoyas [llak1238]':1)'Chachapoyas Quechua [chac1250][quk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/8122",
+        "label": "Chachapoyas Quechua"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Chachapoyas_Quechua",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/chac1250",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35138",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "146816",
+        "grammar_sketch",
+        2000,
+        54,
+        "Gerald Taylor 2000"
+      ],
+      [
+        "143475",
+        "grammar_sketch",
+        1975,
+        46,
+        "Weber Christofferson, David J. 1975"
+      ],
+      [
+        "582049",
+        "wordlist_or_less",
+        1972,
+        2,
+        "Torero, Alfredo 1972"
+      ],
+      [
+        "119017",
+        "wordlist_or_less",
+        1942,
+        3,
+        "J. Eugene Garro 1942"
+      ],
+      [
+        "133358",
+        "wordlist_or_less",
+        1940,
+        47,
+        "Bandelier, Adolf Francis 1940"
+      ],
+      [
+        "143400",
+        "wordlist_or_less",
+        1907,
+        0,
+        "Bandelier, Adolf Francis 1907"
+      ]
+    ]
+  },
+  "id": "chac1250",
+  "name": "Chachapoyas Quechua",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.27021,
+  "longitude": -77.6615,
+  "classification": [
+    {
+      "name": "Quechuan",
+      "id": "quec1387",
+      "url": "https://glottolog.org/resource/languoid/id/quec1387"
+    },
+    {
+      "name": "Quechua II",
+      "id": "quec1388",
+      "url": "https://glottolog.org/resource/languoid/id/quec1388"
+    },
+    {
+      "name": "Chinchay",
+      "id": "chin1494",
+      "url": "https://glottolog.org/resource/languoid/id/chin1494"
+    },
+    {
+      "name": "Quechua IIB",
+      "id": "quec1384",
+      "url": "https://glottolog.org/resource/languoid/id/quec1384"
+    },
+    {
+      "name": "San Martin-Amazonas Quechua",
+      "id": "sanm1306",
+      "url": "https://glottolog.org/resource/languoid/id/sanm1306"
+    }
+  ],
+  "iso639-3": "quk"
+}

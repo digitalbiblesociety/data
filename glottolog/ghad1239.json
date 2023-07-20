@@ -1,0 +1,74 @@
+{
+  "pk": 2137,
+  "hid": "gha",
+  "father_pk": 980,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ayt Waziten [aytw1238]':1,'Elt Ulid [eltu1238]':1)'Ghadames [ghad1239][gha]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/291",
+        "label": "Ghadamès"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56747",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ghadam%C3%A8s_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "325215",
+        "grammar",
+        2013,
+        212,
+        "Maarten Kossmann 2013"
+      ],
+      [
+        "306222",
+        "grammar",
+        1968,
+        145,
+        "Lanfry, Jacques 1968, 1973"
+      ],
+      [
+        "146202",
+        "grammar_sketch",
+        1904,
+        122,
+        "de C. Motylinski, Adolphe 1904"
+      ]
+    ]
+  },
+  "id": "ghad1239",
+  "name": "Ghadames",
+  "description": null,
+  "markup_description": null,
+  "latitude": 30.1168,
+  "longitude": 10.0165,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Berber",
+      "id": "berb1260",
+      "url": "https://glottolog.org/resource/languoid/id/berb1260"
+    }
+  ],
+  "iso639-3": "gha"
+}

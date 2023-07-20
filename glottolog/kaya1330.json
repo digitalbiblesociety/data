@@ -1,0 +1,113 @@
+{
+  "pk": 7512,
+  "hid": "txu",
+  "father_pk": 5185,
+  "family_pk": 376,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kayapó of Pará [kara1501]':1,'Txucarramãe [kaya1331]':1,'Xikrin [xikr1238]':1)'Kayapó [kaya1330][txu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kyp",
+        "label": "Kayapó"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/3098",
+        "label": "Mebengokre"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kayapo_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kaya1330",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3101212",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "548157",
+        "long_grammar",
+        2015,
+        359,
+        "Lucivaldo Silva da Costa 2015"
+      ],
+      [
+        "20289",
+        "grammar",
+        1989,
+        246,
+        "Jefferson, Kathleen 2013 [1989]"
+      ],
+      [
+        "41704",
+        "grammar",
+        1914,
+        4,
+        "Sala, Antonio Maria 1914"
+      ],
+      [
+        "81449",
+        "grammar_sketch",
+        1894,
+        23,
+        "Paul Ehrenreich 1894"
+      ],
+      [
+        "311018",
+        "wordlist_or_less",
+        1863,
+        7,
+        "Couto de Magalhães, José Vieira 1863"
+      ],
+      [
+        "80889",
+        "wordlist_or_less",
+        1849,
+        14,
+        "da Silva e Sousa, Luiz Antonio 1849"
+      ]
+    ]
+  },
+  "id": "kaya1330",
+  "name": "Kayapó",
+  "description": null,
+  "markup_description": null,
+  "latitude": -7.77352,
+  "longitude": -51.6737,
+  "classification": [
+    {
+      "name": "Nuclear-Macro-Je",
+      "id": "nucl1710",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1710"
+    },
+    {
+      "name": "Je",
+      "id": "jeee1236",
+      "url": "https://glottolog.org/resource/languoid/id/jeee1236"
+    },
+    {
+      "name": "Je Setentrional",
+      "id": "jese1235",
+      "url": "https://glottolog.org/resource/languoid/id/jese1235"
+    },
+    {
+      "name": "Core Northern Je",
+      "id": "core1264",
+      "url": "https://glottolog.org/resource/languoid/id/core1264"
+    }
+  ],
+  "iso639-3": "txu"
+}

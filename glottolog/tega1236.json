@@ -1,0 +1,73 @@
+{
+  "pk": 1747,
+  "hid": "ras",
+  "father_pk": 358,
+  "family_pk": 358,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Nuclear Tegali [nucl1243]':1,'Rashad Town-Hills [rash1248]':1)'Tegali [tega1236][ras]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ras",
+        "label": "Rashad"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/182",
+        "label": "Tegali"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tegali_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36522",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "40109",
+        "grammar_sketch",
+        1916,
+        22,
+        "Meinhof, Carl 1916-1917"
+      ],
+      [
+        "127744",
+        "wordlist_or_less",
+        1864,
+        5,
+        "Munzinger, Werner 1864"
+      ],
+      [
+        "137392",
+        "wordlist_or_less",
+        1829,
+        1,
+        "Rüppell, Edward 1829"
+      ]
+    ]
+  },
+  "id": "tega1236",
+  "name": "Tegali",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.9523,
+  "longitude": 31.1112,
+  "classification": [
+    {
+      "name": "Rashad",
+      "id": "rash1249",
+      "url": "https://glottolog.org/resource/languoid/id/rash1249"
+    }
+  ],
+  "iso639-3": "ras"
+}

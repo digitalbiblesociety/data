@@ -1,0 +1,102 @@
+{
+  "pk": 19029,
+  "hid": "amw",
+  "father_pk": 16745,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bakh''a [bakh1251]':1,'Jub-''adin [juba1242]':1,'Maaloula [malu1250]':1)'Western Neo-Aramaic [west2763][amw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3839",
+        "label": "Western Neo-Aramaic"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q34226",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Western_Neo-Aramaic",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "61319",
+        "long_grammar",
+        1990,
+        431,
+        "Arnold, Werner 1990"
+      ],
+      [
+        "310955",
+        "long_grammar",
+        1895,
+        383,
+        "Arthur John Maclean 1895"
+      ]
+    ]
+  },
+  "id": "west2763",
+  "name": "Western Neo-Aramaic",
+  "description": null,
+  "markup_description": null,
+  "latitude": 33.8162,
+  "longitude": 36.484,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Semitic",
+      "id": "semi1276",
+      "url": "https://glottolog.org/resource/languoid/id/semi1276"
+    },
+    {
+      "name": "West Semitic",
+      "id": "west2786",
+      "url": "https://glottolog.org/resource/languoid/id/west2786"
+    },
+    {
+      "name": "Central Semitic",
+      "id": "cent2236",
+      "url": "https://glottolog.org/resource/languoid/id/cent2236"
+    },
+    {
+      "name": "Northwest Semitic",
+      "id": "nort3165",
+      "url": "https://glottolog.org/resource/languoid/id/nort3165"
+    },
+    {
+      "name": "Aramaic",
+      "id": "aram1259",
+      "url": "https://glottolog.org/resource/languoid/id/aram1259"
+    },
+    {
+      "name": "Imperial-Middle-Modern Aramaic",
+      "id": "impe1236",
+      "url": "https://glottolog.org/resource/languoid/id/impe1236"
+    },
+    {
+      "name": "Middle-Modern Aramaic",
+      "id": "midd1367",
+      "url": "https://glottolog.org/resource/languoid/id/midd1367"
+    },
+    {
+      "name": "Western Aramaic",
+      "id": "west2815",
+      "url": "https://glottolog.org/resource/languoid/id/west2815"
+    }
+  ],
+  "iso639-3": "amw"
+}

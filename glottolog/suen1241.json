@@ -1,0 +1,92 @@
+{
+  "pk": 6558,
+  "hid": "sue",
+  "father_pk": 4520,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Suena [suen1241][sue]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5427",
+        "label": "Suena"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_sue",
+        "label": "Suena"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Suena_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/suen1241",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7634386",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "130079",
+        "grammar",
+        1974,
+        169,
+        "Wilson, Darryl 1974"
+      ],
+      [
+        "31989",
+        "grammar",
+        1969,
+        16,
+        "Wilson, Darryl 1969"
+      ],
+      [
+        "116314",
+        "wordlist_or_less",
+        1931,
+        21,
+        "E. W. P. Chinnery 1931"
+      ]
+    ]
+  },
+  "id": "suen1241",
+  "name": "Suena",
+  "description": null,
+  "markup_description": null,
+  "latitude": -7.76339,
+  "longitude": 147.534,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Greater Binanderean",
+      "id": "bina1276",
+      "url": "https://glottolog.org/resource/languoid/id/bina1276"
+    },
+    {
+      "name": "Binanderean",
+      "id": "bina1279",
+      "url": "https://glottolog.org/resource/languoid/id/bina1279"
+    },
+    {
+      "name": "North Binanderean",
+      "id": "nort2909",
+      "url": "https://glottolog.org/resource/languoid/id/nort2909"
+    }
+  ],
+  "iso639-3": "sue"
+}

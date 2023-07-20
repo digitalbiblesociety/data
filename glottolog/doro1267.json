@@ -1,0 +1,58 @@
+{
+  "pk": 784,
+  "hid": "drr",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Dororo [doro1267][drr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "drr",
+      "name": "Dororo",
+      "change_request": "2019-021",
+      "effective": "2020-01-23",
+      "reason": "merge",
+      "change_to": [
+        "kzk"
+      ],
+      "remedy": "Merged into Kazukuru [kzk]",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56928",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "127838",
+        "wordlist_or_less",
+        1953,
+        2,
+        "Peter A. Lanyon-Orgill 1953"
+      ]
+    ]
+  },
+  "id": "doro1267",
+  "name": "Dororo",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.30556,
+  "longitude": 157.767,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "drr"
+}

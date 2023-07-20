@@ -1,0 +1,118 @@
+{
+  "pk": 10061,
+  "hid": "quy",
+  "father_pk": 7230,
+  "family_pk": 321,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Andahuaylas [anda1285]':1,'Huancavelica [huan1249]':1)'Ayacucho Quechua [ayac1239][quy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/8125",
+        "label": "Ayacucho Quechua"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_qay",
+        "label": "Quechua (Ayacucho)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ayacucho_Quechua",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/ayac1239",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35145",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "319102",
+        "grammar",
+        2008,
+        288,
+        "Zariquiey, Roberto and Gavina Córdova 2008"
+      ],
+      [
+        "477446",
+        "grammar",
+        1963,
+        282,
+        "Donald F. Sola and Gary J. Parker 1963"
+      ],
+      [
+        "17777",
+        "grammar_sketch",
+        1961,
+        172,
+        "Perroud, Pedro Clemente 1961"
+      ],
+      [
+        "300405",
+        "grammar_sketch",
+        1917,
+        131,
+        "J. F. M. Raez 1917"
+      ],
+      [
+        "11055",
+        "grammar_sketch",
+        1907,
+        103,
+        "Eugenio Hengvart 1907"
+      ],
+      [
+        "103608",
+        "grammar_sketch",
+        1905,
+        48,
+        "Sala, Gabriel 1905"
+      ]
+    ]
+  },
+  "id": "ayac1239",
+  "name": "Ayacucho Quechua",
+  "description": null,
+  "markup_description": null,
+  "latitude": -13.84714,
+  "longitude": -74.32246,
+  "classification": [
+    {
+      "name": "Quechuan",
+      "id": "quec1387",
+      "url": "https://glottolog.org/resource/languoid/id/quec1387"
+    },
+    {
+      "name": "Quechua II",
+      "id": "quec1388",
+      "url": "https://glottolog.org/resource/languoid/id/quec1388"
+    },
+    {
+      "name": "Chinchay",
+      "id": "chin1494",
+      "url": "https://glottolog.org/resource/languoid/id/chin1494"
+    },
+    {
+      "name": "Quechua IIC",
+      "id": "quec1389",
+      "url": "https://glottolog.org/resource/languoid/id/quec1389"
+    },
+    {
+      "name": "Ayacuchan Quechua",
+      "id": "ayac1238",
+      "url": "https://glottolog.org/resource/languoid/id/ayac1238"
+    }
+  ],
+  "iso639-3": "quy"
+}

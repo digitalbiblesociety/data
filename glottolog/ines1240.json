@@ -1,0 +1,82 @@
+{
+  "pk": 4118,
+  "hid": "inz",
+  "father_pk": 2350,
+  "family_pk": 160,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ineseño [ines1240][inz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q35443",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_cin",
+        "label": "Chumash (Ineseño)"
+      }
+    ],
+    "meds": [
+      [
+        "16383",
+        "long_grammar",
+        1972,
+        550,
+        "Applegate, Richard Brian 1972"
+      ],
+      [
+        "57711",
+        "grammar_sketch",
+        1904,
+        7,
+        "Alfred L. Kroeber 1904"
+      ],
+      [
+        "313851",
+        "wordlist_or_less",
+        1888,
+        14,
+        "R. F. Heizer 1952 [1888]"
+      ],
+      [
+        "38887",
+        "wordlist_or_less",
+        1877,
+        1,
+        "J. W. Powell 1877"
+      ]
+    ]
+  },
+  "id": "ines1240",
+  "name": "Ineseño",
+  "description": null,
+  "markup_description": null,
+  "latitude": 34.6169,
+  "longitude": -120.08,
+  "classification": [
+    {
+      "name": "Chumashan",
+      "id": "chum1262",
+      "url": "https://glottolog.org/resource/languoid/id/chum1262"
+    },
+    {
+      "name": "Southern Chumashan",
+      "id": "sout3132",
+      "url": "https://glottolog.org/resource/languoid/id/sout3132"
+    },
+    {
+      "name": "Central Chumashan",
+      "id": "cent2139",
+      "url": "https://glottolog.org/resource/languoid/id/cent2139"
+    }
+  ],
+  "iso639-3": "inz"
+}

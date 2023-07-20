@@ -1,0 +1,100 @@
+{
+  "pk": 8199,
+  "hid": "grr",
+  "father_pk": 5753,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Gourara [gour1247]':1,'South Oran [sout3056]':1,'Touat [toua1238]':1)'Sud Oranais-Gourara [tazn1238][grr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bfg",
+        "label": "Berber (Figuig)"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/8490",
+        "label": "Figuig"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/286",
+        "label": "Taznatit"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3063974",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "93312",
+        "long_grammar",
+        1997,
+        554,
+        "Kossmann, Maarten G. 1997"
+      ],
+      [
+        "25744",
+        "long_grammar",
+        1994,
+        546,
+        "Kossmann, Maarten 1994"
+      ],
+      [
+        "65230",
+        "phonology_or_text",
+        1964,
+        72,
+        "Boudot-Lamotte, Antoine 1964"
+      ],
+      [
+        "96679",
+        "wordlist_or_less",
+        1885,
+        70,
+        "Basset, René 1885"
+      ]
+    ]
+  },
+  "id": "tazn1238",
+  "name": "Sud Oranais-Gourara",
+  "description": null,
+  "markup_description": null,
+  "latitude": 29.1107,
+  "longitude": 0.01992,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Berber",
+      "id": "berb1260",
+      "url": "https://glottolog.org/resource/languoid/id/berb1260"
+    },
+    {
+      "name": "Greater Zenatic",
+      "id": "grea1296",
+      "url": "https://glottolog.org/resource/languoid/id/grea1296"
+    },
+    {
+      "name": "Zenatic",
+      "id": "zena1250",
+      "url": "https://glottolog.org/resource/languoid/id/zena1250"
+    },
+    {
+      "name": "Northern Saharan Oasis Berber",
+      "id": "moza1250",
+      "url": "https://glottolog.org/resource/languoid/id/moza1250"
+    }
+  ],
+  "iso639-3": "grr"
+}

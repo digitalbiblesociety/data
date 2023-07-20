@@ -1,0 +1,109 @@
+{
+  "pk": 15637,
+  "hid": "iko",
+  "father_pk": 12900,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ikom [ikom1244]':1,'Okuni [okun1240]':1,'Olulumo [olul1246]':1)'Olulumo-Ikom [olul1245][iko]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3914402",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ikom_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "320644",
+        "wordlist_or_less",
+        2014,
+        2,
+        "Roger Blench 2014"
+      ],
+      [
+        "150176",
+        "wordlist_or_less",
+        1914,
+        2,
+        "Thomas, Northcote Whitridge 1914"
+      ],
+      [
+        "101661",
+        "wordlist_or_less",
+        1911,
+        0,
+        "Dayrell, Elphinstone 1911"
+      ],
+      [
+        "10450",
+        "wordlist_or_less",
+        1909,
+        11,
+        "Macgregor, J.K. 1909"
+      ],
+      [
+        "469295",
+        "wordlist_or_less",
+        1907,
+        0,
+        "Dayrell, Elphinstone 1907/11"
+      ]
+    ]
+  },
+  "id": "olul1245",
+  "name": "Olulumo-Ikom",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.97709,
+  "longitude": 8.56546,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Delta Cross",
+      "id": "delt1251",
+      "url": "https://glottolog.org/resource/languoid/id/delt1251"
+    },
+    {
+      "name": "Upper Cross",
+      "id": "uppe1418",
+      "url": "https://glottolog.org/resource/languoid/id/uppe1418"
+    },
+    {
+      "name": "Central Upper Cross",
+      "id": "cent2027",
+      "url": "https://glottolog.org/resource/languoid/id/cent2027"
+    },
+    {
+      "name": "East-West Central Delta Cross",
+      "id": "east2400",
+      "url": "https://glottolog.org/resource/languoid/id/east2400"
+    }
+  ],
+  "iso639-3": "iko"
+}

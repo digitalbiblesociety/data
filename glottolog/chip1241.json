@@ -1,0 +1,126 @@
+{
+  "pk": 17088,
+  "hid": "ciw",
+  "father_pk": 14648,
+  "family_pk": 178,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Minnesota Chippewa [cent2135]':1,'Minnesota Border Chippewa [minn1250]':1,'Red Lake Chippewa [redl1238]':1,'Turtle Mountain Chippewa [turt1236]':1,'Upper Michigan-Wisconsin Chippewa [uppe1274]':1)'Chippewa [chip1241][ciw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4171",
+        "label": "Southwestern Ojibwa"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2963878",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Chippewa_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_cpw",
+        "label": "Chippewa (Red Lake and Pillager)"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ojm",
+        "label": "Ojibwe (Minnesota)"
+      }
+    ],
+    "meds": [
+      [
+        "36022",
+        "long_grammar",
+        1878,
+        433,
+        "Frederic Baraga 1878"
+      ],
+      [
+        "40407",
+        "grammar",
+        1874,
+        0,
+        "Wilson, Edward Francis 1874"
+      ],
+      [
+        "554060",
+        "grammar",
+        1850,
+        0,
+        "Frederic Baraga 1850"
+      ],
+      [
+        "60413",
+        "grammar_sketch",
+        1834,
+        34,
+        "J. Summerfield 1834"
+      ],
+      [
+        "33801",
+        "wordlist_or_less",
+        1816,
+        10,
+        "Johann Christoph Adelung and Johann Severin Vater 1816"
+      ]
+    ]
+  },
+  "id": "chip1241",
+  "name": "Chippewa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 47.347,
+  "longitude": -94.2738,
+  "classification": [
+    {
+      "name": "Algic",
+      "id": "algi1248",
+      "url": "https://glottolog.org/resource/languoid/id/algi1248"
+    },
+    {
+      "name": "Algonquian-Blackfoot",
+      "id": "algo1256",
+      "url": "https://glottolog.org/resource/languoid/id/algo1256"
+    },
+    {
+      "name": "Algonquian",
+      "id": "algo1257",
+      "url": "https://glottolog.org/resource/languoid/id/algo1257"
+    },
+    {
+      "name": "Eastern Great Lakes Algonquian",
+      "id": "east2765",
+      "url": "https://glottolog.org/resource/languoid/id/east2765"
+    },
+    {
+      "name": "Ojibwa-Potawatomi",
+      "id": "ojib1240",
+      "url": "https://glottolog.org/resource/languoid/id/ojib1240"
+    },
+    {
+      "name": "Ojibwa",
+      "id": "ojib1241",
+      "url": "https://glottolog.org/resource/languoid/id/ojib1241"
+    },
+    {
+      "name": "Nuclear Ojibwe",
+      "id": "nucl1723",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1723"
+    },
+    {
+      "name": "Central-Eastern-Southwestern Ojibwa",
+      "id": "cent2252",
+      "url": "https://glottolog.org/resource/languoid/id/cent2252"
+    }
+  ],
+  "iso639-3": "ciw"
+}

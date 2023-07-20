@@ -1,0 +1,62 @@
+{
+  "pk": 704,
+  "hid": "nnx",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Ngong [ngon1275][nnx]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "nnx",
+      "name": "Ngong",
+      "change_request": "2014-046",
+      "effective": "2015-01-12",
+      "reason": "merge",
+      "change_to": [
+        "ngv"
+      ],
+      "remedy": "Merged with [ngv] Nagumi",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/555",
+        "label": "Ngong"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12952915",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "71195",
+        "wordlist_or_less",
+        2007,
+        1,
+        "Connell, Bruce 2007"
+      ]
+    ]
+  },
+  "id": "ngon1275",
+  "name": "Ngong",
+  "description": null,
+  "markup_description": null,
+  "latitude": 8.78874,
+  "longitude": 13.42855,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "nnx"
+}

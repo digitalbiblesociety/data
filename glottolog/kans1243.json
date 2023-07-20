@@ -1,0 +1,82 @@
+{
+  "pk": 8823,
+  "hid": "ksk",
+  "father_pk": 6321,
+  "family_pk": 201,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kansa [kans1243][ksk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4444",
+        "label": "Kanza"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kansa_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3192772",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "318276",
+        "grammar_sketch",
+        2010,
+        167,
+        "Justin T. McBride and Linda A. Cumberland 2010"
+      ],
+      [
+        "71122",
+        "wordlist_or_less",
+        1994,
+        10,
+        "Robert L. Rankin 1994"
+      ]
+    ]
+  },
+  "id": "kans1243",
+  "name": "Kansa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 39,
+  "longitude": -94.4,
+  "classification": [
+    {
+      "name": "Siouan",
+      "id": "siou1252",
+      "url": "https://glottolog.org/resource/languoid/id/siou1252"
+    },
+    {
+      "name": "Core Siouan",
+      "id": "core1249",
+      "url": "https://glottolog.org/resource/languoid/id/core1249"
+    },
+    {
+      "name": "Mississippi Valley",
+      "id": "miss1254",
+      "url": "https://glottolog.org/resource/languoid/id/miss1254"
+    },
+    {
+      "name": "Dhegiha",
+      "id": "dheg1241",
+      "url": "https://glottolog.org/resource/languoid/id/dheg1241"
+    },
+    {
+      "name": "Osage-Kansa",
+      "id": "osag1244",
+      "url": "https://glottolog.org/resource/languoid/id/osag1244"
+    }
+  ],
+  "iso639-3": "ksk"
+}

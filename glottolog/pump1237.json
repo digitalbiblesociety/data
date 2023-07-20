@@ -1,0 +1,75 @@
+{
+  "pk": 4361,
+  "hid": "xpm",
+  "father_pk": 2617,
+  "family_pk": 217,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Pumpokol [pump1237][xpm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q2991985",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Pumpokol_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "81791",
+        "wordlist_or_less",
+        2005,
+        24,
+        "Werner, Heinrich 2005"
+      ],
+      [
+        "108837",
+        "wordlist_or_less",
+        1986,
+        18,
+        "E. A. Xelimskiy 1986"
+      ],
+      [
+        "54846",
+        "wordlist_or_less",
+        1862,
+        1,
+        "Latham, Robert Gordon 1862"
+      ]
+    ]
+  },
+  "id": "pump1237",
+  "name": "Pumpokol",
+  "description": null,
+  "markup_description": null,
+  "latitude": 58.5,
+  "longitude": 92,
+  "classification": [
+    {
+      "name": "Yeniseian",
+      "id": "yeni1252",
+      "url": "https://glottolog.org/resource/languoid/id/yeni1252"
+    },
+    {
+      "name": "Southern Yeniseian",
+      "id": "sout2751",
+      "url": "https://glottolog.org/resource/languoid/id/sout2751"
+    },
+    {
+      "name": "Arin-Pumpokol",
+      "id": "arin1242",
+      "url": "https://glottolog.org/resource/languoid/id/arin1242"
+    }
+  ],
+  "iso639-3": "xpm"
+}

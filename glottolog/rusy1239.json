@@ -1,0 +1,87 @@
+{
+  "pk": 10895,
+  "hid": "rue",
+  "father_pk": 7998,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Lemko [lemk1239]':1,'Prešov [pres1241]':1,'Transcarpathian Rusyn [tran1299]':1)'Carpatho-Rusyn [carp1236]':1,'Pannonian Ruthenian [pann1240][rsk]':1)'Rusyn [rusy1239][rue]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Rusyn_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/rusy1239",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q26245",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "641028",
+        "long_grammar",
+        2002,
+        615,
+        "Ramach, I. 2002"
+      ],
+      [
+        "319054",
+        "grammar",
+        1834,
+        238,
+        "Joseph Lewicki 1834"
+      ]
+    ]
+  },
+  "id": "rusy1239",
+  "name": "Rusyn",
+  "description": null,
+  "markup_description": null,
+  "latitude": 48.7171,
+  "longitude": 22.9579,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Balto-Slavic",
+      "id": "balt1263",
+      "url": "https://glottolog.org/resource/languoid/id/balt1263"
+    },
+    {
+      "name": "Slavic",
+      "id": "slav1255",
+      "url": "https://glottolog.org/resource/languoid/id/slav1255"
+    },
+    {
+      "name": "East Slavic",
+      "id": "east1426",
+      "url": "https://glottolog.org/resource/languoid/id/east1426"
+    },
+    {
+      "name": "Ukrainian-Rusyn",
+      "id": "ukra1257",
+      "url": "https://glottolog.org/resource/languoid/id/ukra1257"
+    }
+  ],
+  "iso639-3": "rue"
+}

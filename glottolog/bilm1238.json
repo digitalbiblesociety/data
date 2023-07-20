@@ -1,0 +1,74 @@
+{
+  "pk": 7867,
+  "hid": "bms",
+  "father_pk": 5438,
+  "family_pk": 16,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bilma [bilm1239]':1,'Fachi [fach1238]':1)'Bilma Kanuri [bilm1238][bms]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q8843523",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "49019",
+        "grammar_sketch",
+        1923,
+        144,
+        "Noel, Georges Pierre 1923"
+      ],
+      [
+        "114835",
+        "wordlist_or_less",
+        1844,
+        44,
+        "Hodgson, William B. 1844"
+      ]
+    ]
+  },
+  "id": "bilm1238",
+  "name": "Bilma Kanuri",
+  "description": null,
+  "markup_description": null,
+  "latitude": 19.1,
+  "longitude": 13.0665,
+  "classification": [
+    {
+      "name": "Saharan",
+      "id": "saha1256",
+      "url": "https://glottolog.org/resource/languoid/id/saha1256"
+    },
+    {
+      "name": "Western Saharan",
+      "id": "west2505",
+      "url": "https://glottolog.org/resource/languoid/id/west2505"
+    },
+    {
+      "name": "Kanuri-Kanembu",
+      "id": "kanu1279",
+      "url": "https://glottolog.org/resource/languoid/id/kanu1279"
+    },
+    {
+      "name": "Kanuric",
+      "id": "kanu1281",
+      "url": "https://glottolog.org/resource/languoid/id/kanu1281"
+    },
+    {
+      "name": "East Kanuri",
+      "id": "east2718",
+      "url": "https://glottolog.org/resource/languoid/id/east2718"
+    }
+  ],
+  "iso639-3": "bms"
+}

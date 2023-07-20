@@ -1,0 +1,93 @@
+{
+  "pk": 1011,
+  "hid": "wit",
+  "father_pk": 132,
+  "family_pk": 132,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Nomlaki [noml1242][nol]':1,'Nuclear Wintu [nucl1651][wnw]':1)'Wintu [wint1259][wit]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "wit",
+      "name": "Wintu",
+      "change_request": "2012-144",
+      "effective": "2013-01-23",
+      "reason": "split",
+      "change_to": [
+        "wnw",
+        "nol",
+        "pwi"
+      ],
+      "remedy": "Split into Wintu [wnw], Nomlaki [nol], and Patwin [pwi]",
+      "comment": "Modern scholars of Wintuan languages are in agreement that Wintu, Nomlaki and\nPatwin are three separate languages. The most thorough discussion of the\nlanguage and dialect situation in all three of the Wintuan languages is in\nWhistler's (1980) dissertation (pp. 15– 30, 46–53). Shepherd's (2005) book on\nProto-Wintuan also distinguishes these three languages (see esp. pp. 1–4). Other\nmore general works in agreement are: Golla (2011, 140–147), Mithun (1999,\n560–563), and Campbell (1997, 128). The discussion in Golla (2011) of the\ndialect continuum between Wintu and Nomlaki should by no means rule out their\nbeing recognized as two distinct languages. Dialect continuums are not uncommon\nin geographically adjacent languages which are closely related. Authors of\nethnographies, grammars, dictionaries and collections of texts are careful to\ndistinguish the three groups both ethnographically and linguistically: cf. for\nPatwin, Kroeber (1932) and Whistler (1977, 1978); for Nomlaki, Goldschmidt\n(1951); and for Wintu, Shepherd (1989), Pitkin (1984, 1985), and Schlichter\n(1981)."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56754",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Wintu_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/wint1259",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_win",
+        "label": "Wintu"
+      }
+    ],
+    "meds": [
+      [
+        "103669",
+        "long_grammar",
+        1984,
+        323,
+        "Pitkin, Harvey 1984"
+      ],
+      [
+        "52366",
+        "grammar",
+        1963,
+        264,
+        "Pitkin, Harvey 1963"
+      ],
+      [
+        "8231",
+        "grammar_sketch",
+        1909,
+        16,
+        "Roland B. Dixon 1909"
+      ],
+      [
+        "130432",
+        "wordlist_or_less",
+        1846,
+        13,
+        "Horatio Hale 1846"
+      ]
+    ]
+  },
+  "id": "wint1259",
+  "name": "Wintu",
+  "description": null,
+  "markup_description": null,
+  "latitude": 39.7176,
+  "longitude": -122.445,
+  "classification": [
+    {
+      "name": "Wintuan",
+      "id": "wint1258",
+      "url": "https://glottolog.org/resource/languoid/id/wint1258"
+    }
+  ],
+  "iso639-3": "wit"
+}

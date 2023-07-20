@@ -1,0 +1,75 @@
+{
+  "pk": 3576,
+  "hid": "bmz",
+  "father_pk": 1913,
+  "family_pk": 27,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Baramu [bara1378][bmz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q4858315",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Baramu_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "79773",
+        "wordlist_or_less",
+        2002,
+        4,
+        "Jore, Tim and Laura Alemán 2002"
+      ],
+      [
+        "121413",
+        "wordlist_or_less",
+        1930,
+        2,
+        "Baxter E. Riley and Sidney H. Ray 1930, 1930, 1931"
+      ],
+      [
+        "81764",
+        "wordlist_or_less",
+        1923,
+        1,
+        "Sidney H. Ray 1923"
+      ]
+    ]
+  },
+  "id": "bara1378",
+  "name": "Baramu",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.4885,
+  "longitude": 143.002,
+  "classification": [
+    {
+      "name": "Anim",
+      "id": "anim1240",
+      "url": "https://glottolog.org/resource/languoid/id/anim1240"
+    },
+    {
+      "name": "Tirio",
+      "id": "tiri1259",
+      "url": "https://glottolog.org/resource/languoid/id/tiri1259"
+    },
+    {
+      "name": "Nuclear Tirio",
+      "id": "nucl1713",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1713"
+    }
+  ],
+  "iso639-3": "bmz"
+}

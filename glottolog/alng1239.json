@@ -1,0 +1,78 @@
+{
+  "pk": 5973,
+  "hid": "aid",
+  "father_pk": 3996,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Alngith [alng1239][aid]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3693",
+        "label": "Alngith"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/y32",
+        "label": "Alngith"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Alngith_dialect",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/alng1239",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3279409",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "153151",
+        "wordlist_or_less",
+        1966,
+        2,
+        "Hale, Kenneth L. 1966"
+      ]
+    ]
+  },
+  "id": "alng1239",
+  "name": "Alngith",
+  "description": null,
+  "markup_description": null,
+  "latitude": -12.5324,
+  "longitude": 141.938,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Paman",
+      "id": "pama1251",
+      "url": "https://glottolog.org/resource/languoid/id/pama1251"
+    },
+    {
+      "name": "Northern Pama",
+      "id": "nort2758",
+      "url": "https://glottolog.org/resource/languoid/id/nort2758"
+    },
+    {
+      "name": "Linngithigh-Alngith",
+      "id": "leni1237",
+      "url": "https://glottolog.org/resource/languoid/id/leni1237"
+    }
+  ],
+  "iso639-3": "aid"
+}

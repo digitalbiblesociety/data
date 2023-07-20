@@ -1,0 +1,107 @@
+{
+  "pk": 21435,
+  "hid": "aai",
+  "father_pk": 19612,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Arifama [arif1240]':1,'Miniafia [mini1252]':1)'Arifama-Miniafia [arif1239][aai]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3579",
+        "label": "Arifama-Miniafia"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Arifama-Miniafia_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q4790560",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "551292",
+        "grammar_sketch",
+        2015,
+        61,
+        "Stanley Oyabua and Alfred Urasabey and Venessa Sogiri 2015"
+      ],
+      [
+        "309606",
+        "wordlist_or_less",
+        1911,
+        1,
+        "W. M. Strong 1911"
+      ]
+    ]
+  },
+  "id": "arif1239",
+  "name": "Arifama-Miniafia",
+  "description": null,
+  "markup_description": null,
+  "latitude": -9.15565,
+  "longitude": 149.246,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Western Oceanic linkage",
+      "id": "west2818",
+      "url": "https://glottolog.org/resource/languoid/id/west2818"
+    },
+    {
+      "name": "Papuan Tip linkage",
+      "id": "papu1253",
+      "url": "https://glottolog.org/resource/languoid/id/papu1253"
+    },
+    {
+      "name": "Nuclear Papuan Tip linkage",
+      "id": "nucl1744",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1744"
+    },
+    {
+      "name": "North Papuan Mainland-D'Entrecasteaux linkage",
+      "id": "nort2848",
+      "url": "https://glottolog.org/resource/languoid/id/nort2848"
+    },
+    {
+      "name": "Are-Taupota linkage",
+      "id": "aret1241",
+      "url": "https://glottolog.org/resource/languoid/id/aret1241"
+    },
+    {
+      "name": "Are linkage",
+      "id": "arei1235",
+      "url": "https://glottolog.org/resource/languoid/id/arei1235"
+    }
+  ],
+  "iso639-3": "aai"
+}

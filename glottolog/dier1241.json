@@ -1,0 +1,113 @@
+{
+  "pk": 11471,
+  "hid": "dif",
+  "father_pk": 8515,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dirari [dira1238][dit]':1,'Diyeri [diye1234]':1)'Dieri [dier1241][dif]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/l17",
+        "label": "Dieri"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/5726",
+        "label": "Diyari"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_diy",
+        "label": "Diyari"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Diyari_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/dier1241",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q25559563",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "55239",
+        "long_grammar",
+        1978,
+        553,
+        "Austin, Peter 1978"
+      ],
+      [
+        "3994",
+        "grammar_sketch",
+        1878,
+        121,
+        "Smyth, Robert Brough 1878"
+      ],
+      [
+        "5319",
+        "wordlist_or_less",
+        1874,
+        26,
+        "Samuel Gason 1874"
+      ],
+      [
+        "577655",
+        "wordlist_or_less",
+        1849,
+        0,
+        "Sturt, C. 1849"
+      ]
+    ]
+  },
+  "id": "dier1241",
+  "name": "Dieri",
+  "description": null,
+  "markup_description": null,
+  "latitude": -28.1667,
+  "longitude": 138,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Karnic",
+      "id": "karn1253",
+      "url": "https://glottolog.org/resource/languoid/id/karn1253"
+    },
+    {
+      "name": "Central Karnic",
+      "id": "cent2016",
+      "url": "https://glottolog.org/resource/languoid/id/cent2016"
+    },
+    {
+      "name": "Western Central Karnic",
+      "id": "west2438",
+      "url": "https://glottolog.org/resource/languoid/id/west2438"
+    },
+    {
+      "name": "Pirlatapa-Dieric",
+      "id": "pirl1239",
+      "url": "https://glottolog.org/resource/languoid/id/pirl1239"
+    },
+    {
+      "name": "Dieric",
+      "id": "dier1240",
+      "url": "https://glottolog.org/resource/languoid/id/dier1240"
+    }
+  ],
+  "iso639-3": "dif"
+}

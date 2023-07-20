@@ -1,0 +1,89 @@
+{
+  "pk": 9016,
+  "hid": "drb",
+  "father_pk": 6522,
+  "family_pk": 274,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Dair [dair1239][drb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4103",
+        "label": "Dair"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dair_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12952360",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "110915",
+        "wordlist_or_less",
+        1991,
+        5,
+        "Rouchdy, Aleya 1991"
+      ],
+      [
+        "127744",
+        "wordlist_or_less",
+        1864,
+        5,
+        "Munzinger, Werner 1864"
+      ],
+      [
+        "137392",
+        "wordlist_or_less",
+        1829,
+        1,
+        "Rüppell, Edward 1829"
+      ]
+    ]
+  },
+  "id": "dair1239",
+  "name": "Dair",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.474,
+  "longitude": 30.6782,
+  "classification": [
+    {
+      "name": "Nubian",
+      "id": "nubi1251",
+      "url": "https://glottolog.org/resource/languoid/id/nubi1251"
+    },
+    {
+      "name": "West-Central Nubian",
+      "id": "west2781",
+      "url": "https://glottolog.org/resource/languoid/id/west2781"
+    },
+    {
+      "name": "Central Nubian",
+      "id": "cent2232",
+      "url": "https://glottolog.org/resource/languoid/id/cent2232"
+    },
+    {
+      "name": "Kordofan Nubian",
+      "id": "kord1246",
+      "url": "https://glottolog.org/resource/languoid/id/kord1246"
+    },
+    {
+      "name": "Eastern Kordofan Nubian",
+      "id": "east2715",
+      "url": "https://glottolog.org/resource/languoid/id/east2715"
+    }
+  ],
+  "iso639-3": "drb"
+}

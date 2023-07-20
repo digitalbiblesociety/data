@@ -1,0 +1,82 @@
+{
+  "pk": 8870,
+  "hid": "dsl",
+  "father_pk": 6381,
+  "family_pk": 206,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Sign Language",
+  "newick": "'Danish Sign Language [dani1246][dsl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/7353",
+        "label": "Danish Sign Language"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2605298",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Danish_Sign_Language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "318943",
+        "grammar_sketch",
+        1981,
+        181,
+        "Engberg-Pedersen, Elisabeth and Hansen, Britta and Ruth Kjær Sørensen 1981"
+      ],
+      [
+        "470715",
+        "grammar_sketch",
+        1910,
+        63,
+        "Johannes Jørgensen 1910"
+      ]
+    ]
+  },
+  "id": "dani1246",
+  "name": "Danish Sign Language",
+  "description": null,
+  "markup_description": null,
+  "latitude": 55.8257,
+  "longitude": 12.3187,
+  "classification": [
+    {
+      "name": "Sign Language",
+      "id": "sign1238",
+      "url": "https://glottolog.org/resource/languoid/id/sign1238"
+    },
+    {
+      "name": "Deaf Sign Language",
+      "id": "deaf1237",
+      "url": "https://glottolog.org/resource/languoid/id/deaf1237"
+    },
+    {
+      "name": "LSFic",
+      "id": "lsfi1234",
+      "url": "https://glottolog.org/resource/languoid/id/lsfi1234"
+    },
+    {
+      "name": "West Scandinavian Sign",
+      "id": "west2993",
+      "url": "https://glottolog.org/resource/languoid/id/west2993"
+    },
+    {
+      "name": "Danish Sign",
+      "id": "dani1289",
+      "url": "https://glottolog.org/resource/languoid/id/dani1289"
+    }
+  ],
+  "iso639-3": "dsl"
+}

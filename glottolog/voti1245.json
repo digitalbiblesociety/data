@@ -1,0 +1,111 @@
+{
+  "pk": 9598,
+  "hid": "vot",
+  "father_pk": 6983,
+  "family_pk": 302,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('East Vod [east2327]':1,'Krevin [krev1234][zkv]':1,('Kattila [katt1234]':1,'Lower Luga Votic [lowe1443]':1,'Northeastern Coastal Estonian [nort2406]':1)'West Vod [west2391]':1)'Votic [voti1245][vot]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2993",
+        "label": "Votic"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_vot",
+        "label": "Votic"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Votic_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/voti1245",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q32858",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "552943",
+        "long_grammar",
+        1997,
+        468,
+        "Eberhard Winkler 1997"
+      ],
+      [
+        "317891",
+        "grammar",
+        1856,
+        163,
+        "August Ahlqvist 1856"
+      ],
+      [
+        "573405",
+        "wordlist_or_less",
+        1851,
+        74,
+        "Keppen, P. 1851"
+      ],
+      [
+        "573054",
+        "wordlist_or_less",
+        1840,
+        26,
+        "Jazykov, D. I. 1840"
+      ],
+      [
+        "577312",
+        "wordlist_or_less",
+        1833,
+        0,
+        "Sjogren, A. 1833"
+      ]
+    ]
+  },
+  "id": "voti1245",
+  "name": "Votic",
+  "description": null,
+  "markup_description": null,
+  "latitude": 59.3802,
+  "longitude": 28.6235,
+  "classification": [
+    {
+      "name": "Uralic",
+      "id": "ural1272",
+      "url": "https://glottolog.org/resource/languoid/id/ural1272"
+    },
+    {
+      "name": "Finnic",
+      "id": "finn1317",
+      "url": "https://glottolog.org/resource/languoid/id/finn1317"
+    },
+    {
+      "name": "Coastal Finnic",
+      "id": "coas1319",
+      "url": "https://glottolog.org/resource/languoid/id/coas1319"
+    },
+    {
+      "name": "Neva",
+      "id": "neva1234",
+      "url": "https://glottolog.org/resource/languoid/id/neva1234"
+    },
+    {
+      "name": "Central Finnic",
+      "id": "cent2329",
+      "url": "https://glottolog.org/resource/languoid/id/cent2329"
+    }
+  ],
+  "iso639-3": "vot"
+}

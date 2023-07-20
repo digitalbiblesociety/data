@@ -1,0 +1,123 @@
+{
+  "pk": 22830,
+  "hid": "cld",
+  "father_pk": 21053,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Erbil {Arbel} Christian Neo-Aramaic [erbi1235]':1,('Senaya [sena1268][syn]':1,'Sulemaniyya Christian Neo-Aramaic [sule1247]':1)'Sulemaniyya-Sanandaj Christian Neo-Aramaic [sule1246]':1)'Christian Neo-Aramaic East of Zab [chri1236]':1,('Christian Dihok Neo-Aramaic [diho1238]':1,'Christian Mangesh Neo-Aramaic [mang1421]':1,'Christian Shirnak-Chizre Neo-Aramaic [shir1272]':1,'Christian Zakho Neo-Aramaic [chri1237]':1)'Christian Neo-Aramaic West of Zab [chri1235]':1,('Christian Alqosh [alqo1238]':1,'Christian Baretla [bart1242]':1,'Christian Qaraqosh [chri1238]':1,'Christian Telkepe [telk1238]':1,'Christian Tisqopa [tisq1238]':1)'Mosul Plain Christian Neo-Aramaic [mosu1234]':1)'Chaldean Neo-Aramaic [chal1275][cld]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 16,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q33236",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Chaldean_Neo-Aramaic",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_cld",
+        "label": "Chaldean (Modern)"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_naa",
+        "label": "Neo-Aramaic (Amadiya)"
+      }
+    ],
+    "meds": [
+      [
+        "119701",
+        "long_grammar",
+        2002,
+        774,
+        "Khan, Geoffrey 2002"
+      ],
+      [
+        "302436",
+        "long_grammar",
+        1912,
+        304,
+        "Rhétoré, Jacques 1912"
+      ],
+      [
+        "303432",
+        "grammar_sketch",
+        1895,
+        100,
+        "Sachau, Eduard 1895"
+      ]
+    ]
+  },
+  "id": "chal1275",
+  "name": "Chaldean Neo-Aramaic",
+  "description": null,
+  "markup_description": null,
+  "latitude": 37.0972,
+  "longitude": 43.5027,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Semitic",
+      "id": "semi1276",
+      "url": "https://glottolog.org/resource/languoid/id/semi1276"
+    },
+    {
+      "name": "West Semitic",
+      "id": "west2786",
+      "url": "https://glottolog.org/resource/languoid/id/west2786"
+    },
+    {
+      "name": "Central Semitic",
+      "id": "cent2236",
+      "url": "https://glottolog.org/resource/languoid/id/cent2236"
+    },
+    {
+      "name": "Northwest Semitic",
+      "id": "nort3165",
+      "url": "https://glottolog.org/resource/languoid/id/nort3165"
+    },
+    {
+      "name": "Aramaic",
+      "id": "aram1259",
+      "url": "https://glottolog.org/resource/languoid/id/aram1259"
+    },
+    {
+      "name": "Imperial-Middle-Modern Aramaic",
+      "id": "impe1236",
+      "url": "https://glottolog.org/resource/languoid/id/impe1236"
+    },
+    {
+      "name": "Middle-Modern Aramaic",
+      "id": "midd1367",
+      "url": "https://glottolog.org/resource/languoid/id/midd1367"
+    },
+    {
+      "name": "Eastern Aramaic",
+      "id": "east2680",
+      "url": "https://glottolog.org/resource/languoid/id/east2680"
+    },
+    {
+      "name": "Central Eastern Aramaic",
+      "id": "cent2217",
+      "url": "https://glottolog.org/resource/languoid/id/cent2217"
+    },
+    {
+      "name": "North-Eastern Neo-Aramaic",
+      "id": "nort3241",
+      "url": "https://glottolog.org/resource/languoid/id/nort3241"
+    }
+  ],
+  "iso639-3": "cld"
+}

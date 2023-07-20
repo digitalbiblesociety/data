@@ -1,0 +1,120 @@
+{
+  "pk": 18844,
+  "hid": "ckb",
+  "father_pk": 16579,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Mukri [mukr1239]':1,('Sanandaji [sana1277]':1,'Southern Jafi [sout2641]':1,'Warmawa [warm1239]':1)'Sine''i [sine1239]':1,('Bingird [bing1247]':1,'Garmiyani [garm1241]':1,'Hewleri [hewl1238]':1,'Khanaquin [khan1280]':1,'Pizhdar [pizh1238]':1,'Rewandiz [rewa1238]':1,'Suleimani [sule1239]':1)'Sorani [sora1257]':1)'Central Kurdish [cent1972][ckb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 13,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_krd",
+        "label": "Kurdish (Central)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sorani",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/cent1972",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36811",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "12331",
+        "long_grammar",
+        1967,
+        482,
+        "Jamal J. Abdulla and Ernest N. McCarus 1967"
+      ],
+      [
+        "305065",
+        "grammar",
+        1919,
+        210,
+        "E. B. Soane 1919"
+      ],
+      [
+        "318500",
+        "grammar_sketch",
+        1906,
+        180,
+        "Mann, Oskar 1906"
+      ],
+      [
+        "450040",
+        "grammar_sketch",
+        1904,
+        9,
+        "de Morgan, Jacques 1904"
+      ]
+    ]
+  },
+  "id": "cent1972",
+  "name": "Central Kurdish",
+  "description": null,
+  "markup_description": null,
+  "latitude": 35.6539,
+  "longitude": 45.8077,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Iranian",
+      "id": "iran1269",
+      "url": "https://glottolog.org/resource/languoid/id/iran1269"
+    },
+    {
+      "name": "Central Iranian PBS",
+      "id": "cent2317",
+      "url": "https://glottolog.org/resource/languoid/id/cent2317"
+    },
+    {
+      "name": "Central Iranian PB",
+      "id": "cent2318",
+      "url": "https://glottolog.org/resource/languoid/id/cent2318"
+    },
+    {
+      "name": "Northwestern Iranian",
+      "id": "nort3177",
+      "url": "https://glottolog.org/resource/languoid/id/nort3177"
+    },
+    {
+      "name": "Laki-Kurdish",
+      "id": "laki1246",
+      "url": "https://glottolog.org/resource/languoid/id/laki1246"
+    },
+    {
+      "name": "Kurdish",
+      "id": "kurd1259",
+      "url": "https://glottolog.org/resource/languoid/id/kurd1259"
+    }
+  ],
+  "iso639-3": "ckb"
+}

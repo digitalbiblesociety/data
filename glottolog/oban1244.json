@@ -1,0 +1,93 @@
+{
+  "pk": 18293,
+  "hid": "bzy",
+  "father_pk": 15822,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Basang [basa1278]':1,'Bebi [bebi1241]':1,'Bishiri [bish1245]':1,'Bisu {Atlantic-Congo} [bisu1245]':1,'Busi [busi1239]':1)'Obanliku [oban1244][bzy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q36276",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Obanliku_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "161489",
+        "wordlist_or_less",
+        1919,
+        2,
+        "Johnston, Harry H. 1919, 1922"
+      ],
+      [
+        "150176",
+        "wordlist_or_less",
+        1914,
+        2,
+        "Thomas, Northcote Whitridge 1914"
+      ]
+    ]
+  },
+  "id": "oban1244",
+  "name": "Obanliku",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.4794,
+  "longitude": 9.27156,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Bendic",
+      "id": "bend1256",
+      "url": "https://glottolog.org/resource/languoid/id/bend1256"
+    },
+    {
+      "name": "Nuclear Bendic",
+      "id": "nucl1801",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1801"
+    },
+    {
+      "name": "Bete-Obanliku",
+      "id": "bete1267",
+      "url": "https://glottolog.org/resource/languoid/id/bete1267"
+    }
+  ],
+  "iso639-3": "bzy"
+}

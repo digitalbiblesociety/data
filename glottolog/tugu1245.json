@@ -1,0 +1,76 @@
+{
+  "pk": 12587,
+  "hid": "tzn",
+  "father_pk": 9568,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Arwala [arwa1237]':1,'Ilpokil [ilpo1237]':1,'Kahailin Ilway [kaha1239]':1,'Mahuan [mahu1237]':1,'Masapua [masa1306]':1,'Tomliapat [toml1237]':1)'Tugun [tugu1245][tzn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12953225",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tgn",
+        "label": "Tugun"
+      }
+    ],
+    "meds": [
+      [
+        "162957",
+        "grammar",
+        1991,
+        168,
+        "Hinton, Bryan Douglas 1991"
+      ]
+    ]
+  },
+  "id": "tugu1245",
+  "name": "Tugun",
+  "description": null,
+  "markup_description": null,
+  "latitude": -7.72555,
+  "longitude": 126.7,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Timor-Babar",
+      "id": "timo1265",
+      "url": "https://glottolog.org/resource/languoid/id/timo1265"
+    },
+    {
+      "name": "Wetar-Atauro",
+      "id": "weta1246",
+      "url": "https://glottolog.org/resource/languoid/id/weta1246"
+    },
+    {
+      "name": "Wetar",
+      "id": "weta1245",
+      "url": "https://glottolog.org/resource/languoid/id/weta1245"
+    },
+    {
+      "name": "Perai-Tugun-Aputai",
+      "id": "pera1258",
+      "url": "https://glottolog.org/resource/languoid/id/pera1258"
+    }
+  ],
+  "iso639-3": "tzn"
+}

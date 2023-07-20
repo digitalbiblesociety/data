@@ -1,0 +1,76 @@
+{
+  "pk": 5346,
+  "hid": "pcj",
+  "father_pk": 3501,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Gorum-Parenga [pare1266][pcj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4953",
+        "label": "Gorum"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3111396",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Gorum_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/pare1266",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "136422",
+        "grammar_sketch",
+        1973,
+        78,
+        "Aze, Richard 1973"
+      ],
+      [
+        "17162",
+        "grammar_sketch",
+        1954,
+        19,
+        "Bhattacharya, Sudhibhushan 1954"
+      ]
+    ]
+  },
+  "id": "pare1266",
+  "name": "Gorum-Parenga",
+  "description": null,
+  "markup_description": null,
+  "latitude": 19.075,
+  "longitude": 83.9723,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Mundaic",
+      "id": "mund1335",
+      "url": "https://glottolog.org/resource/languoid/id/mund1335"
+    },
+    {
+      "name": "Sora-Juray-Gorum",
+      "id": "sora1255",
+      "url": "https://glottolog.org/resource/languoid/id/sora1255"
+    }
+  ],
+  "iso639-3": "pcj"
+}

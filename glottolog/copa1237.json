@@ -1,0 +1,100 @@
+{
+  "pk": 8962,
+  "hid": "trc",
+  "father_pk": 6471,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Copala Triqui [copa1237][trc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tri",
+        "label": "Trique (Copala)"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/6193",
+        "label": "Triqui"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Copala_Triqui",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12953935",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "97179",
+        "long_grammar",
+        1984,
+        424,
+        "Hollenbach, Barbara Elaine 1984"
+      ],
+      [
+        "60000",
+        "grammar_sketch",
+        1975,
+        157,
+        "Hollenbach, Bruce E. and Hollenbach, Barbara E. 1975"
+      ],
+      [
+        "26943",
+        "phonology_or_text",
+        1974,
+        6,
+        "Hollenbach, Barbara E. 1974"
+      ],
+      [
+        "303942",
+        "wordlist_or_less",
+        1912,
+        4,
+        "William H. Mechling 1912"
+      ]
+    ]
+  },
+  "id": "copa1237",
+  "name": "Copala Triqui",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.1541,
+  "longitude": -97.9826,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Amuzgo-Mixtecan",
+      "id": "amuz1253",
+      "url": "https://glottolog.org/resource/languoid/id/amuz1253"
+    },
+    {
+      "name": "Mixtecan",
+      "id": "mixt1422",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1422"
+    },
+    {
+      "name": "Trique",
+      "id": "triq1251",
+      "url": "https://glottolog.org/resource/languoid/id/triq1251"
+    }
+  ],
+  "iso639-3": "trc"
+}

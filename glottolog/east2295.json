@@ -1,0 +1,163 @@
+{
+  "pk": 18893,
+  "hid": "ydd",
+  "father_pk": 16611,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Czech Yiddish [czec1262]':1,(('Lodz Yiddish [lodz1235]':1,'Poylish [poyl1235]':1,'Western Galician Yiddish [west2899]':1)'Mideastern Yiddish [mide1238]':1,('Litvish [litv1235]':1,'Northern Ukraine Yiddish [nort3297]':1)'Northeastern Yiddish [nort2632]':1,('Bessarabian Yiddish [bess1237]':1,'Ukrainish [ukra1254]':1)'Southeastern Yiddish [sout2630]':1)'Nuclear Eastern Yiddish [nucl1822]':1)'Eastern Yiddish [east2295][ydd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 12,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3211",
+        "label": "Eastern Yiddish"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ydb",
+        "label": "Yiddish (Bessarabian)"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ylt",
+        "label": "Yiddish (Lithuanian)"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ydl",
+        "label": "Yiddish (Lodz)"
+      },
+      {
+        "url": "https://phoible.org/languages/east2295",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12953980",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "321174",
+        "long_grammar",
+        2010,
+        724,
+        "Annick Prime-Margulis and Nadia Déhan-Rotschild 2010"
+      ],
+      [
+        "320615",
+        "long_grammar",
+        2001,
+        525,
+        "S. A. Sandler 2001"
+      ],
+      [
+        "319202",
+        "long_grammar",
+        1992,
+        410,
+        "Uriel Weinreich 1992"
+      ],
+      [
+        "578820",
+        "long_grammar",
+        1978,
+        405,
+        "Yudel, Mark 1978"
+      ],
+      [
+        "574801",
+        "long_grammar",
+        1927,
+        322,
+        "Jacob R. Mazin and S. de Woolf 1927"
+      ],
+      [
+        "322488",
+        "grammar",
+        1926,
+        236,
+        "Zaretski, Ayzik 1926"
+      ],
+      [
+        "325702",
+        "grammar_sketch",
+        1924,
+        322,
+        "Mieses, Matthias 1924"
+      ],
+      [
+        "318812",
+        "grammar_sketch",
+        1921,
+        0,
+        "Noyakh Prilutski 1921"
+      ],
+      [
+        "320150",
+        "wordlist_or_less",
+        1915,
+        13,
+        "Heinrich Loewe 1915"
+      ]
+    ]
+  },
+  "id": "east2295",
+  "name": "Eastern Yiddish",
+  "description": null,
+  "markup_description": null,
+  "latitude": 51.75,
+  "longitude": 19.42,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Germanic",
+      "id": "germ1287",
+      "url": "https://glottolog.org/resource/languoid/id/germ1287"
+    },
+    {
+      "name": "Northwest Germanic",
+      "id": "nort3152",
+      "url": "https://glottolog.org/resource/languoid/id/nort3152"
+    },
+    {
+      "name": "West Germanic",
+      "id": "west2793",
+      "url": "https://glottolog.org/resource/languoid/id/west2793"
+    },
+    {
+      "name": "High German",
+      "id": "high1289",
+      "url": "https://glottolog.org/resource/languoid/id/high1289"
+    },
+    {
+      "name": "Middle German",
+      "id": "fran1268",
+      "url": "https://glottolog.org/resource/languoid/id/fran1268"
+    },
+    {
+      "name": "East Middle German",
+      "id": "east2832",
+      "url": "https://glottolog.org/resource/languoid/id/east2832"
+    },
+    {
+      "name": "Schlesisch-Wilmesau",
+      "id": "schl1237",
+      "url": "https://glottolog.org/resource/languoid/id/schl1237"
+    }
+  ],
+  "iso639-3": "ydd"
+}

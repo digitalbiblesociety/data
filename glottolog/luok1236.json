@@ -1,0 +1,126 @@
+{
+  "pk": 12635,
+  "hid": "luo",
+  "father_pk": 9675,
+  "family_pk": 316,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Luo {Kenya and Tanzania} [luok1236][luo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_luo",
+        "label": "Luo"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dholuo",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/luok1236",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5414796",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "151260",
+        "long_grammar",
+        1994,
+        633,
+        "Tucker, Archibald N. 1994"
+      ],
+      [
+        "99434",
+        "long_grammar",
+        1982,
+        385,
+        "Omondi, Lucia Ndong'a 1982"
+      ],
+      [
+        "108193",
+        "grammar",
+        1935,
+        262,
+        "na 1935"
+      ],
+      [
+        "67310",
+        "grammar",
+        1928,
+        0,
+        "Willemen, J. 1928"
+      ],
+      [
+        "103463",
+        "grammar",
+        1910,
+        0,
+        "[1910] 1910"
+      ],
+      [
+        "26912",
+        "wordlist_or_less",
+        1894,
+        27,
+        "Baumann, Oscar 1894"
+      ],
+      [
+        "64644",
+        "wordlist_or_less",
+        1887,
+        0,
+        "Wakefield, H. 1887"
+      ]
+    ]
+  },
+  "id": "luok1236",
+  "name": "Luo (Kenya and Tanzania)",
+  "description": null,
+  "markup_description": null,
+  "latitude": -0.93296,
+  "longitude": 34.4896,
+  "classification": [
+    {
+      "name": "Nilotic",
+      "id": "nilo1247",
+      "url": "https://glottolog.org/resource/languoid/id/nilo1247"
+    },
+    {
+      "name": "Western Nilotic",
+      "id": "west2493",
+      "url": "https://glottolog.org/resource/languoid/id/west2493"
+    },
+    {
+      "name": "Lwoo",
+      "id": "lwoo1234",
+      "url": "https://glottolog.org/resource/languoid/id/lwoo1234"
+    },
+    {
+      "name": "Southern Lwoo",
+      "id": "sout2831",
+      "url": "https://glottolog.org/resource/languoid/id/sout2831"
+    },
+    {
+      "name": "Adhola-Alur-Luo",
+      "id": "adho1241",
+      "url": "https://glottolog.org/resource/languoid/id/adho1241"
+    },
+    {
+      "name": "Adhola-Luo",
+      "id": "adho1242",
+      "url": "https://glottolog.org/resource/languoid/id/adho1242"
+    }
+  ],
+  "iso639-3": "luo"
+}

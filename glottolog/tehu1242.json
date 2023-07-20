@@ -1,0 +1,82 @@
+{
+  "pk": 2830,
+  "hid": "teh",
+  "father_pk": 1338,
+  "family_pk": 263,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Tehuelche del Norte [tehu1246]':1,'Tehuelche del Sur [tehu1245]':1)'Tehuelche [tehu1242][teh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2160",
+        "label": "Tehuelche"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33930",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tehuelche_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/tehu1242",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_teh",
+        "label": "Tehuelche"
+      }
+    ],
+    "meds": [
+      [
+        "72810",
+        "long_grammar",
+        1993,
+        488,
+        "Fernández Garay, Ana V. 1993"
+      ],
+      [
+        "140529",
+        "grammar",
+        1860,
+        0,
+        "Schmid, Theophilus 1860"
+      ],
+      [
+        "43376",
+        "wordlist_or_less",
+        1524,
+        30,
+        "Antonio Pigafetta 1906 [1524]"
+      ]
+    ]
+  },
+  "id": "tehu1242",
+  "name": "Tehuelche",
+  "description": null,
+  "markup_description": null,
+  "latitude": -47.5796,
+  "longitude": -68.3235,
+  "classification": [
+    {
+      "name": "Chonan",
+      "id": "chon1288",
+      "url": "https://glottolog.org/resource/languoid/id/chon1288"
+    },
+    {
+      "name": "Continental Chonan",
+      "id": "cont1245",
+      "url": "https://glottolog.org/resource/languoid/id/cont1245"
+    }
+  ],
+  "iso639-3": "teh"
+}

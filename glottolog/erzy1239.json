@@ -1,0 +1,82 @@
+{
+  "pk": 3063,
+  "hid": "myv",
+  "father_pk": 1559,
+  "family_pk": 302,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Erzya [erzy1239][myv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3207",
+        "label": "Erzya"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_moe",
+        "label": "Mordvin (Erzya)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Erzya_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/erzy1239",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q29952",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "661064",
+        "grammar",
+        1931,
+        244,
+        "Evsev'ev, M. E. 1931"
+      ],
+      [
+        "126997",
+        "grammar_sketch",
+        1865,
+        131,
+        "Wiedemann, Ferdinand Johann 1865"
+      ],
+      [
+        "315213",
+        "grammar_sketch",
+        1839,
+        87,
+        "von der Gabelentz, Conor 1839"
+      ]
+    ]
+  },
+  "id": "erzy1239",
+  "name": "Erzya",
+  "description": null,
+  "markup_description": null,
+  "latitude": 52.8548,
+  "longitude": 45.3901,
+  "classification": [
+    {
+      "name": "Uralic",
+      "id": "ural1272",
+      "url": "https://glottolog.org/resource/languoid/id/ural1272"
+    },
+    {
+      "name": "Mordvin",
+      "id": "mord1256",
+      "url": "https://glottolog.org/resource/languoid/id/mord1256"
+    }
+  ],
+  "iso639-3": "myv"
+}

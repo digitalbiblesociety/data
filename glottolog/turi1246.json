@@ -1,0 +1,82 @@
+{
+  "pk": 10611,
+  "hid": "trd",
+  "father_pk": 7711,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Turi [turi1246][trd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3507",
+        "label": "Turi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7854914",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Turi_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "72494",
+        "wordlist_or_less",
+        1991,
+        15,
+        "Osada, Toshiki 1991"
+      ],
+      [
+        "304344",
+        "wordlist_or_less",
+        1906,
+        3,
+        "George A. Grierson 1906"
+      ]
+    ]
+  },
+  "id": "turi1246",
+  "name": "Turi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 22.0122,
+  "longitude": 84.4712,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Mundaic",
+      "id": "mund1335",
+      "url": "https://glottolog.org/resource/languoid/id/mund1335"
+    },
+    {
+      "name": "North Munda",
+      "id": "nort3151",
+      "url": "https://glottolog.org/resource/languoid/id/nort3151"
+    },
+    {
+      "name": "Kherwarian",
+      "id": "kher1245",
+      "url": "https://glottolog.org/resource/languoid/id/kher1245"
+    },
+    {
+      "name": "Mundaric",
+      "id": "mund1336",
+      "url": "https://glottolog.org/resource/languoid/id/mund1336"
+    }
+  ],
+  "iso639-3": "trd"
+}

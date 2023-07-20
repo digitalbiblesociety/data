@@ -1,0 +1,90 @@
+{
+  "pk": 17316,
+  "hid": "lur",
+  "father_pk": 14949,
+  "family_pk": 289,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "('Mbukambero [mbuk1241]':1,'Nuclear Laura [nucl1519]':1)'Laura [laur1249][lur]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "lur",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 has an entry for Laura [lur] as a separate language. But Laura is a ``weinig verschillende dialect van Wajéwa''\n(**hh:s:vanderVelden:Laoraneesche**:57), i.e., a dialect little different from Wewewa [wew]. Laura [lur] is thus spurious as a separate entry, and, in any case, prohibitively inconstitent given that there are many more more divergent lects which do not have separate entries (**hh:hv:Asplund:Sumba**). Since the Laura [lur]\nentry mentions that it is ``not intelligible with Kodi [kod]'' it is possible that there is confusion with the nearby Gaura which is a very divergent dialect of Kodi [kod] which is otherwise not mentioned in any entry in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 (for locations, names and data, see\n**hh:hv:Asplund:Sumba** and **hh:hvw:Putra:Sumba**). See also: Kodi [kod], Wewewa [wew]."
+    },
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q2984540",
+        "label": null
+      }
+    ]
+  },
+  "id": "laur1249",
+  "name": "Laura",
+  "description": null,
+  "markup_description": null,
+  "latitude": -9.4296,
+  "longitude": 119.19,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Bima-Lembata",
+      "id": "bima1248",
+      "url": "https://glottolog.org/resource/languoid/id/bima1248"
+    },
+    {
+      "name": "Flores-Sumba-Hawu",
+      "id": "flor1240",
+      "url": "https://glottolog.org/resource/languoid/id/flor1240"
+    },
+    {
+      "name": "Sumba-Hawu",
+      "id": "sumb1242",
+      "url": "https://glottolog.org/resource/languoid/id/sumb1242"
+    },
+    {
+      "name": "Sumba",
+      "id": "sumb1243",
+      "url": "https://glottolog.org/resource/languoid/id/sumb1243"
+    },
+    {
+      "name": "Wewewa-Laboya",
+      "id": "wewe1239",
+      "url": "https://glottolog.org/resource/languoid/id/wewe1239"
+    },
+    {
+      "name": "Wewewa",
+      "id": "weje1237",
+      "url": "https://glottolog.org/resource/languoid/id/weje1237"
+    }
+  ],
+  "iso639-3": "lur"
+}

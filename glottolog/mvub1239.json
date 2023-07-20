@@ -1,0 +1,80 @@
+{
+  "pk": 5890,
+  "hid": "mxh",
+  "father_pk": 3933,
+  "family_pk": 140,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mvuba [mvub1239][mxh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6944591",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mvuba_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "314345",
+        "phonology_or_text",
+        2013,
+        15,
+        "Constance Kutsch Lojenga 2013"
+      ],
+      [
+        "314419",
+        "phonology_or_text",
+        2012,
+        0,
+        "Lomami Makala, Gabriel 2012"
+      ],
+      [
+        "58624",
+        "wordlist_or_less",
+        1904,
+        13,
+        "Johnston, Harry 1904"
+      ]
+    ]
+  },
+  "id": "mvub1239",
+  "name": "Mvuba",
+  "description": null,
+  "markup_description": null,
+  "latitude": 0.7398,
+  "longitude": 29.6656,
+  "classification": [
+    {
+      "name": "Central Sudanic",
+      "id": "cent2225",
+      "url": "https://glottolog.org/resource/languoid/id/cent2225"
+    },
+    {
+      "name": "Membi-Mangbutu-Efe",
+      "id": "memb1239",
+      "url": "https://glottolog.org/resource/languoid/id/memb1239"
+    },
+    {
+      "name": "Mangbutu-Efe",
+      "id": "mang1425",
+      "url": "https://glottolog.org/resource/languoid/id/mang1425"
+    },
+    {
+      "name": "Leseic",
+      "id": "lese1245",
+      "url": "https://glottolog.org/resource/languoid/id/lese1245"
+    }
+  ],
+  "iso639-3": "mxh"
+}

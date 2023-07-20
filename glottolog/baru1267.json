@@ -1,0 +1,86 @@
+{
+  "pk": 5218,
+  "hid": "byr",
+  "father_pk": 3383,
+  "family_pk": 385,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Gulicha [guli1243]':1,'Nuclear Baruya [nucl1457]':1,'Usirampia [usir1238]':1,'Wantakia [want1250]':1)'Baruya [baru1267][byr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bry",
+        "label": "Baruya"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yipma_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3450812",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "85626",
+        "grammar_sketch",
+        1989,
+        156,
+        "Lloyd, Richard G. 1989"
+      ],
+      [
+        "126864",
+        "phonology_or_text",
+        1987,
+        443,
+        "na 1987"
+      ],
+      [
+        "65421",
+        "phonology_or_text",
+        1969,
+        44,
+        "Lloyd, Richard G. 1969"
+      ],
+      [
+        "164217",
+        "wordlist_or_less",
+        1965,
+        42,
+        "Richard Lloyd and Joy Lloyd 1965-6"
+      ]
+    ]
+  },
+  "id": "baru1267",
+  "name": "Baruya",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.89261,
+  "longitude": 145.818,
+  "classification": [
+    {
+      "name": "Angan",
+      "id": "anga1289",
+      "url": "https://glottolog.org/resource/languoid/id/anga1289"
+    },
+    {
+      "name": "Nuclear Angan",
+      "id": "nucl1763",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1763"
+    },
+    {
+      "name": "Baruya-Simbari",
+      "id": "baru1271",
+      "url": "https://glottolog.org/resource/languoid/id/baru1271"
+    }
+  ],
+  "iso639-3": "byr"
+}

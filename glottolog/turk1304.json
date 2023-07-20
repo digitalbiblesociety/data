@@ -1,0 +1,100 @@
+{
+  "pk": 7814,
+  "hid": "tuk",
+  "father_pk": 5409,
+  "family_pk": 14,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Anauli [anau1242]':1,'Cawdur [cawd1238]':1,'Esari [esar1239]':1,'Goklen [gokl1239]':1,'Khasarli [khas1270]':1,'Nerezim [nere1239]':1,'Nokhurli [nokh1239]':1,'Salyr [saly1244]':1,'Saryq [sary1240]':1,'Teke [teke1272]':1,'Yomud [yomu1239]':1)'Turkmen [turk1304][tuk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 11,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tkm",
+        "label": "Turkmen"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Turkmen_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/turk1304",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q9267",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "308376",
+        "long_grammar",
+        1970,
+        780,
+        "Baskakov, Nikolaj A. 1970, 1977"
+      ],
+      [
+        "75087",
+        "grammar",
+        1966,
+        21,
+        "Azimov, P.A. and Dzh. Amansaryev and K. Saryev 1966"
+      ],
+      [
+        "312517",
+        "grammar_sketch",
+        1960,
+        50,
+        "G. K. Dulling 1960"
+      ],
+      [
+        "567934",
+        "phonology_or_text",
+        1072,
+        427,
+        "al-Kāšɣarī, Maḥmūd 1982, 1984, 1985 [1072-1077]"
+      ]
+    ]
+  },
+  "id": "turk1304",
+  "name": "Turkmen",
+  "description": null,
+  "markup_description": null,
+  "latitude": 37.08719,
+  "longitude": 59.17574,
+  "classification": [
+    {
+      "name": "Turkic",
+      "id": "turk1311",
+      "url": "https://glottolog.org/resource/languoid/id/turk1311"
+    },
+    {
+      "name": "Common Turkic",
+      "id": "comm1245",
+      "url": "https://glottolog.org/resource/languoid/id/comm1245"
+    },
+    {
+      "name": "Oghuz",
+      "id": "oghu1243",
+      "url": "https://glottolog.org/resource/languoid/id/oghu1243"
+    },
+    {
+      "name": "Nuclear Oghuz",
+      "id": "nucl1769",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1769"
+    },
+    {
+      "name": "East Oghuz",
+      "id": "east2334",
+      "url": "https://glottolog.org/resource/languoid/id/east2334"
+    }
+  ],
+  "iso639-3": "tuk"
+}

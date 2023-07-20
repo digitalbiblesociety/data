@@ -1,0 +1,80 @@
+{
+  "pk": 6805,
+  "hid": "mqx",
+  "father_pk": 4637,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Nuclear Mamuju [nucl1567]':1,'Padang [pada1262]':1,'Sinyonyoi [siny1244]':1,'Sumare-Rangas [suma1267]':1)'Mamuju [mamu1255][mqx]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6746004",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mamuju_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "38086",
+        "phonology_or_text",
+        1994,
+        23,
+        "Strømme, Kari K. 1994"
+      ],
+      [
+        "152569",
+        "wordlist_or_less",
+        1984,
+        18,
+        "Stokhof, W. A. L. and Alma E. Almanar 1984"
+      ],
+      [
+        "553798",
+        "wordlist_or_less",
+        1914,
+        6,
+        "Kruijt, Albertus Christiaan and Nicolaus Adriani 1914"
+      ]
+    ]
+  },
+  "id": "mamu1255",
+  "name": "Mamuju",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.50762,
+  "longitude": 119.082,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "South Sulawesi",
+      "id": "sout2923",
+      "url": "https://glottolog.org/resource/languoid/id/sout2923"
+    },
+    {
+      "name": "Northern South Sulawesi",
+      "id": "nort2894",
+      "url": "https://glottolog.org/resource/languoid/id/nort2894"
+    }
+  ],
+  "iso639-3": "mqx"
+}

@@ -1,0 +1,67 @@
+{
+  "pk": 2655,
+  "hid": "yla",
+  "father_pk": 1241,
+  "family_pk": 230,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Manu [manu1264]':1,'Maruat-Dimiri-Yaul [maru1253]':1)'Ulwa {Papua New Guinea} [yaul1241][yla]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10509",
+        "label": "Ulwa"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q8050336",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yaul_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "554079",
+        "long_grammar",
+        2018,
+        560,
+        "Barlow, Russell 2018"
+      ],
+      [
+        "108516",
+        "wordlist_or_less",
+        1973,
+        1,
+        "Laycock, Donald C. 1973"
+      ]
+    ]
+  },
+  "id": "yaul1241",
+  "name": "Ulwa (Papua New Guinea)",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.39912,
+  "longitude": 143.993,
+  "classification": [
+    {
+      "name": "Keram",
+      "id": "kera1258",
+      "url": "https://glottolog.org/resource/languoid/id/kera1258"
+    },
+    {
+      "name": "Ulmapo",
+      "id": "mong1343",
+      "url": "https://glottolog.org/resource/languoid/id/mong1343"
+    }
+  ],
+  "iso639-3": "yla"
+}

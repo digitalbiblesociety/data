@@ -1,0 +1,91 @@
+{
+  "pk": 6361,
+  "hid": "tsq",
+  "father_pk": 4319,
+  "family_pk": 206,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Sign Language",
+  "newick": "'Thai Sign Language [thai1240][tsq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7709156",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Thai_Sign_Language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ths",
+        "label": "Thai Sign Language"
+      }
+    ],
+    "meds": [
+      [
+        "548286",
+        "grammar_sketch",
+        2008,
+        244,
+        "Suksiri Danthanavanich 2008"
+      ],
+      [
+        "545962",
+        "grammar_sketch",
+        1997,
+        0,
+        "na 1997"
+      ],
+      [
+        "545874",
+        "grammar_sketch",
+        1994,
+        0,
+        "na 1994"
+      ],
+      [
+        "546600",
+        "grammar_sketch",
+        1975,
+        0,
+        "na 1975"
+      ]
+    ]
+  },
+  "id": "thai1240",
+  "name": "Thai Sign Language",
+  "description": null,
+  "markup_description": null,
+  "latitude": 13.7837,
+  "longitude": 100.445,
+  "classification": [
+    {
+      "name": "Sign Language",
+      "id": "sign1238",
+      "url": "https://glottolog.org/resource/languoid/id/sign1238"
+    },
+    {
+      "name": "Deaf Sign Language",
+      "id": "deaf1237",
+      "url": "https://glottolog.org/resource/languoid/id/deaf1237"
+    },
+    {
+      "name": "LSFic",
+      "id": "lsfi1234",
+      "url": "https://glottolog.org/resource/languoid/id/lsfi1234"
+    },
+    {
+      "name": "ASLic",
+      "id": "asli1244",
+      "url": "https://glottolog.org/resource/languoid/id/asli1244"
+    }
+  ],
+  "iso639-3": "tsq"
+}

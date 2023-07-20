@@ -1,0 +1,87 @@
+{
+  "pk": 12905,
+  "hid": "gkn",
+  "father_pk": 9938,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bodo {Gokana} [bodo1271]':1,'Bomu {Gokana} [bomu1248]':1,'Dere [dere1242]':1,'Kibangha [kiba1244]':1)'Gokana [goka1239][gkn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_gok",
+        "label": "Gokana"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Gokana_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3075137",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "553392",
+        "grammar_sketch",
+        2003,
+        0,
+        "Isaac, Baridishi Hope 2003"
+      ],
+      [
+        "118541",
+        "phonology_or_text",
+        1964,
+        2,
+        "Wolff, Hans 1964"
+      ]
+    ]
+  },
+  "id": "goka1239",
+  "name": "Gokana",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.61889,
+  "longitude": 7.34457,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Delta Cross",
+      "id": "delt1251",
+      "url": "https://glottolog.org/resource/languoid/id/delt1251"
+    },
+    {
+      "name": "Ogonoid",
+      "id": "ogon1240",
+      "url": "https://glottolog.org/resource/languoid/id/ogon1240"
+    },
+    {
+      "name": "East Ogonoid",
+      "id": "east2401",
+      "url": "https://glottolog.org/resource/languoid/id/east2401"
+    }
+  ],
+  "iso639-3": "gkn"
+}

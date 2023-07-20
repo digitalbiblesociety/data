@@ -1,0 +1,89 @@
+{
+  "pk": 3472,
+  "hid": "dta",
+  "father_pk": 1854,
+  "family_pk": 417,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Haila''er Dagur [hail1246]':1,'Ili Dagur [ilid1234]':1,'Middle Amur Dagur [midd1365]':1,('Buteha [bute1242]':1,'Morin Daba Dagur [mori1279]':1,'Nenjiang Dagur [nenj1234]':1,'Tsitsikar [qiqi1238]':1)'Nonni basin Dagur [nonn1234]':1)'Dagur [daur1238][dta]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 8,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3181",
+        "label": "Dagur"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q32430",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dagur_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/daur1238",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_dgr",
+        "label": "Dagur"
+      }
+    ],
+    "meds": [
+      [
+        "115317",
+        "long_grammar",
+        1997,
+        342,
+        "Martin, Samual Elmo 1997"
+      ],
+      [
+        "143444",
+        "long_grammar",
+        1961,
+        336,
+        "Samuel E. Martin 1961"
+      ],
+      [
+        "76977",
+        "grammar",
+        1930,
+        182,
+        "N. N. Poppe 1930"
+      ],
+      [
+        "309824",
+        "grammar_sketch",
+        1894,
+        40,
+        "Aleksej Osipovič Ivanovskij 1894"
+      ]
+    ]
+  },
+  "id": "daur1238",
+  "name": "Dagur",
+  "description": null,
+  "markup_description": null,
+  "latitude": 48,
+  "longitude": 124,
+  "classification": [
+    {
+      "name": "Mongolic-Khitan",
+      "id": "mong1349",
+      "url": "https://glottolog.org/resource/languoid/id/mong1349"
+    },
+    {
+      "name": "Mongolic",
+      "id": "mong1329",
+      "url": "https://glottolog.org/resource/languoid/id/mong1329"
+    }
+  ],
+  "iso639-3": "dta"
+}

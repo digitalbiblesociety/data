@@ -1,0 +1,68 @@
+{
+  "pk": 4675,
+  "hid": "bdb",
+  "father_pk": 2969,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Karangan-Sangkulirang-Bengalon [kara1491]':1,'Lesan-Inaran [bera1265]':1,'Mangkalihat [mang1439]':1,'Tabalar-Talisayan [duma1254]':1)'Basap [basa1286][bdb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3504208",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Basap_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "314104",
+        "grammar_sketch",
+        1991,
+        159,
+        "Ibrahim, Sjahrial S. A. R. and Rustam Effendi and M. P. Lambut 1991"
+      ],
+      [
+        "326525",
+        "grammar_sketch",
+        1985,
+        96,
+        "Djantera Kawi and Durdje Durasid and Aris Djinal 1985"
+      ]
+    ]
+  },
+  "id": "basa1286",
+  "name": "Basap",
+  "description": null,
+  "markup_description": null,
+  "latitude": 1.41405,
+  "longitude": 117.942,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Basap-Greater Barito",
+      "id": "basa1291",
+      "url": "https://glottolog.org/resource/languoid/id/basa1291"
+    }
+  ],
+  "iso639-3": "bdb"
+}

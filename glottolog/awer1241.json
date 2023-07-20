@@ -1,0 +1,67 @@
+{
+  "pk": 3411,
+  "hid": "awr",
+  "father_pk": 1826,
+  "family_pk": 396,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Awera [awer1241][awr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1352",
+        "label": "Awera"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56379",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Awera_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "68632",
+        "phonology_or_text",
+        1993,
+        1,
+        "Heljä Clouse and Duane Clouse 1993"
+      ],
+      [
+        "64567",
+        "wordlist_or_less",
+        1987,
+        1,
+        "Jones, Larry B. 1987"
+      ]
+    ]
+  },
+  "id": "awer1241",
+  "name": "Awera",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.71886,
+  "longitude": 136.063,
+  "classification": [
+    {
+      "name": "Lakes Plain",
+      "id": "lake1255",
+      "url": "https://glottolog.org/resource/languoid/id/lake1255"
+    },
+    {
+      "name": "Far West Lakes Plain",
+      "id": "farw1236",
+      "url": "https://glottolog.org/resource/languoid/id/farw1236"
+    }
+  ],
+  "iso639-3": "awr"
+}

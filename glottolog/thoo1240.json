@@ -1,0 +1,78 @@
+{
+  "pk": 5356,
+  "hid": "tou",
+  "father_pk": 3505,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Cuoi Cham [cuoi1243]':1,'Mon {Vietnam} [monn1251]':1)'Tho [thoo1240][tou]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q22694631",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "658906",
+        "grammar_sketch",
+        2022,
+        61,
+        "Nguyễn, Hữu Hoành and Bùi, Thị Ngọc Anh and Hoàng, Ngọc Tuệ 2022"
+      ],
+      [
+        "588824",
+        "phonology_or_text",
+        2009,
+        15,
+        "Nguyễn, Hữu Hoành 2009"
+      ],
+      [
+        "161355",
+        "wordlist_or_less",
+        1996,
+        2,
+        "Michel Ferlus 1996"
+      ],
+      [
+        "575451",
+        "wordlist_or_less",
+        1975,
+        6,
+        "Đặng Nghiêm Vạn and Nguyễn Anh Ngọc 1975"
+      ]
+    ]
+  },
+  "id": "thoo1240",
+  "name": "Tho",
+  "description": null,
+  "markup_description": null,
+  "latitude": 19.3563,
+  "longitude": 105.363,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Vietic",
+      "id": "viet1250",
+      "url": "https://glottolog.org/resource/languoid/id/viet1250"
+    },
+    {
+      "name": "Cuoi",
+      "id": "cuoi1242",
+      "url": "https://glottolog.org/resource/languoid/id/cuoi1242"
+    }
+  ],
+  "iso639-3": "tou"
+}

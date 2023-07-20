@@ -1,0 +1,85 @@
+{
+  "pk": 7993,
+  "hid": "sgy",
+  "father_pk": 5610,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Sanglechi [sang1344][sgy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3472220",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sanglechi_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "67125",
+        "grammar_sketch",
+        2008,
+        125,
+        "Yusufbekov, Sh. P. and Dodykhudoeva, L. R. 2008"
+      ],
+      [
+        "77819",
+        "wordlist_or_less",
+        1960,
+        26,
+        "Shah Abdulaah Badakhshi 2004 [1960]"
+      ],
+      [
+        "323987",
+        "wordlist_or_less",
+        1880,
+        10,
+        "Wilhelm Tomaschek 1880"
+      ]
+    ]
+  },
+  "id": "sang1344",
+  "name": "Sanglechi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 36.45,
+  "longitude": 71.3,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Iranian",
+      "id": "iran1269",
+      "url": "https://glottolog.org/resource/languoid/id/iran1269"
+    },
+    {
+      "name": "Sanglechi-Ishkashimi",
+      "id": "sang1343",
+      "url": "https://glottolog.org/resource/languoid/id/sang1343"
+    }
+  ],
+  "iso639-3": "sgy"
+}

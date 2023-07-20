@@ -1,0 +1,80 @@
+{
+  "pk": 5345,
+  "hid": "kfq",
+  "father_pk": 3500,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bondoy [bond1244]':1,'Bouriya [bour1248]':1,'Mawasi [mawa1263]':1,'Ruma {Korku} [ruma1249]':1)'Korku [kork1243][kfq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5621",
+        "label": "Korku"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33715",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Korku_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kork1243",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kku",
+        "label": "Korku"
+      }
+    ],
+    "meds": [
+      [
+        "20567",
+        "long_grammar",
+        1903,
+        490,
+        "John Drake 1903"
+      ],
+      [
+        "98121",
+        "wordlist_or_less",
+        1844,
+        5,
+        "G. Voysey 1844"
+      ]
+    ]
+  },
+  "id": "kork1243",
+  "name": "Korku",
+  "description": null,
+  "markup_description": null,
+  "latitude": 21.8358,
+  "longitude": 77.5541,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Mundaic",
+      "id": "mund1335",
+      "url": "https://glottolog.org/resource/languoid/id/mund1335"
+    },
+    {
+      "name": "North Munda",
+      "id": "nort3151",
+      "url": "https://glottolog.org/resource/languoid/id/nort3151"
+    }
+  ],
+  "iso639-3": "kfq"
+}

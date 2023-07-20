@@ -1,0 +1,96 @@
+{
+  "pk": 10278,
+  "hid": "neh",
+  "father_pk": 7379,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Chutobikha [chut1248]':1,'Phobjikha [phob1239]':1)'Upper Mangdep [nyen1254][neh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5676",
+        "label": "Nyenkha"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3695185",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nyen_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "570858",
+        "phonology_or_text",
+        2018,
+        32,
+        "{Dzongkha Development Commission} 2018"
+      ],
+      [
+        "569325",
+        "phonology_or_text",
+        2016,
+        97,
+        "André Bosch 2016"
+      ],
+      [
+        "162660",
+        "phonology_or_text",
+        2003,
+        4,
+        "John Glennon and Ariana Glennon 2003"
+      ],
+      [
+        "54153",
+        "wordlist_or_less",
+        2001,
+        29,
+        "John Glennon and Ariana Glennon 2001"
+      ]
+    ]
+  },
+  "id": "nyen1254",
+  "name": "Upper Mangdep",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.3732,
+  "longitude": 90.3947,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "Bodish",
+      "id": "bodi1257",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1257"
+    },
+    {
+      "name": "East Bodish",
+      "id": "main1269",
+      "url": "https://glottolog.org/resource/languoid/id/main1269"
+    },
+    {
+      "name": "Phobjib-Chali-Bumthangic",
+      "id": "phob1238",
+      "url": "https://glottolog.org/resource/languoid/id/phob1238"
+    }
+  ],
+  "iso639-3": "neh"
+}

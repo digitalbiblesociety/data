@@ -1,0 +1,102 @@
+{
+  "pk": 18689,
+  "hid": "vas",
+  "father_pk": 16482,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ambodi [ambo1247]':1,'Dehvali [dehv1238]':1,'Dogri {Vasavi} [dogr1251]':1,'Khatalia [khat1247]':1,'Kotni [kotn1238]':1)'Vasavi [vasa1239][vas]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q765418",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Vasavi_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_vas",
+        "label": "Vasavi"
+      }
+    ],
+    "meds": [
+      [
+        "309620",
+        "phonology_or_text",
+        1907,
+        3,
+        "George A. Grierson 1907"
+      ],
+      [
+        "304733",
+        "wordlist_or_less",
+        1850,
+        4,
+        "Christopher P. Rigby 1850"
+      ]
+    ]
+  },
+  "id": "vasa1239",
+  "name": "Vasavi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 21.3624,
+  "longitude": 73.8652,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Indo-Aryan",
+      "id": "indo1321",
+      "url": "https://glottolog.org/resource/languoid/id/indo1321"
+    },
+    {
+      "name": "Middle-Modern Indo-Aryan",
+      "id": "midd1375",
+      "url": "https://glottolog.org/resource/languoid/id/midd1375"
+    },
+    {
+      "name": "Continental Indo-Aryan",
+      "id": "cont1248",
+      "url": "https://glottolog.org/resource/languoid/id/cont1248"
+    },
+    {
+      "name": "Midlands Indo-Aryan",
+      "id": "midl1245",
+      "url": "https://glottolog.org/resource/languoid/id/midl1245"
+    },
+    {
+      "name": "Bhil",
+      "id": "bhil1254",
+      "url": "https://glottolog.org/resource/languoid/id/bhil1254"
+    },
+    {
+      "name": "Vasave-Noiri",
+      "id": "vasa1240",
+      "url": "https://glottolog.org/resource/languoid/id/vasa1240"
+    }
+  ],
+  "iso639-3": "vas"
+}

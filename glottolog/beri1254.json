@@ -1,0 +1,95 @@
+{
+  "pk": 2268,
+  "hid": "bkl",
+  "father_pk": 1046,
+  "family_pk": 147,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Berik [beri1254][bkl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_brk",
+        "label": "Berik"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Berik_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q378743",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "53040",
+        "grammar_sketch",
+        1980,
+        87,
+        "Peter Westrum 1980"
+      ],
+      [
+        "76413",
+        "grammar_sketch",
+        1976,
+        8,
+        "Westrum, Peter N. 1976"
+      ],
+      [
+        "18835",
+        "phonology_or_text",
+        1975,
+        37,
+        "Westrum, Peter N. and Westrum, Susan 1975"
+      ],
+      [
+        "39370",
+        "wordlist_or_less",
+        1961,
+        14,
+        "Oosterwal, Gottfried 1961"
+      ],
+      [
+        "17111",
+        "wordlist_or_less",
+        1955,
+        1,
+        "Galis, Klaas Wilhelm 1955"
+      ],
+      [
+        "29762",
+        "wordlist_or_less",
+        1954,
+        1,
+        "van der Leeden, Alexander Cornelis 1954"
+      ]
+    ]
+  },
+  "id": "beri1254",
+  "name": "Berik",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.26904,
+  "longitude": 138.866,
+  "classification": [
+    {
+      "name": "Tor-Orya",
+      "id": "toro1256",
+      "url": "https://glottolog.org/resource/languoid/id/toro1256"
+    },
+    {
+      "name": "Tor",
+      "id": "tora1268",
+      "url": "https://glottolog.org/resource/languoid/id/tora1268"
+    }
+  ],
+  "iso639-3": "bkl"
+}

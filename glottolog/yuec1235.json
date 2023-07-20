@@ -1,0 +1,121 @@
+{
+  "pk": 10310,
+  "hid": "yue",
+  "father_pk": 7396,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Gaozhou [gaoz1234]':1,'Yangjiang [yang1307]':1)'Gaoyang [gaol1235]':1,'Goulou [guin1237]':1,'Qinlian [qinl1235]':1,('Dancun [danc1234]':1,'Jiangmen [jian1244]':1,'Toishanese [tois1237]':1,'Vancouver Cantonese [vanc1237]':1)'Siyi [siyi1236]':1,'Wuhua [wuhu1235]':1,'Yongxun [yong1286]':1,(('Guangzhou [guan1279]':1,'Hong Kong [xian1255]':1,'Tanka Cantonese [tank1239]':1,'Wuzhou Yue [wuzh1239]':1,'Xiguan [xigu1234]':1)'Cantonese [cant1236]':1,'Guan-Bao [guan1280]':1,'Samyap [samy1234]':1,'Zhongshan [zhon1239]':1)'Yuehai [yueh1236]':1)'Yue Chinese [yuec1235][yue]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 22,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_cnt",
+        "label": "Cantonese"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yue_Chinese",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/yuec1235",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7033959",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "634061",
+        "long_grammar",
+        2011,
+        533,
+        "Stephen Matthews and Virginia Yip 2011"
+      ],
+      [
+        "578821",
+        "long_grammar",
+        2006,
+        445,
+        "Yue-Hashimoto, Anne O. 2006"
+      ],
+      [
+        "75449",
+        "long_grammar",
+        1994,
+        445,
+        "Stephen Matthews and Virginia Yip 1994"
+      ],
+      [
+        "120916",
+        "long_grammar",
+        1970,
+        408,
+        "Boyle, Elizabeth Latimore 1970"
+      ],
+      [
+        "318728",
+        "grammar_sketch",
+        1946,
+        64,
+        "Yiu, Tung 1946"
+      ],
+      [
+        "568615",
+        "grammar_sketch",
+        1907,
+        0,
+        "Ball, James Dyer 1907"
+      ],
+      [
+        "578640",
+        "phonology_or_text",
+        1856,
+        0,
+        "Williams, Samuel Wells 1856"
+      ]
+    ]
+  },
+  "id": "yuec1235",
+  "name": "Yue Chinese",
+  "description": null,
+  "markup_description": null,
+  "latitude": 23,
+  "longitude": 113,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Sinitic",
+      "id": "sini1245",
+      "url": "https://glottolog.org/resource/languoid/id/sini1245"
+    },
+    {
+      "name": "Classical-Middle-Modern Sinitic",
+      "id": "clas1255",
+      "url": "https://glottolog.org/resource/languoid/id/clas1255"
+    },
+    {
+      "name": "Middle-Modern Sinitic",
+      "id": "midd1354",
+      "url": "https://glottolog.org/resource/languoid/id/midd1354"
+    },
+    {
+      "name": "Yue-Pinghua",
+      "id": "yuep1234",
+      "url": "https://glottolog.org/resource/languoid/id/yuep1234"
+    }
+  ],
+  "iso639-3": "yue"
+}

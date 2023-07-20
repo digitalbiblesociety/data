@@ -1,0 +1,70 @@
+{
+  "pk": 2766,
+  "hid": "mod",
+  "father_pk": 1304,
+  "family_pk": 260,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Pidgin",
+  "newick": "'Mobilian [mobi1236][mod]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q13333",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mobilian_Jargon",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "53980",
+        "grammar_sketch",
+        1997,
+        407,
+        "Drechsel, Emanuel J. 1997"
+      ],
+      [
+        "314422",
+        "grammar_sketch",
+        1979,
+        392,
+        "Drechsel, Emanuel J. 1979"
+      ],
+      [
+        "314276",
+        "grammar_sketch",
+        1978,
+        150,
+        "Crawford, J. M. 1978"
+      ]
+    ]
+  },
+  "id": "mobi1236",
+  "name": "Mobilian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 30.47,
+  "longitude": -91.75,
+  "classification": [
+    {
+      "name": "Pidgin",
+      "id": "pidg1258",
+      "url": "https://glottolog.org/resource/languoid/id/pidg1258"
+    },
+    {
+      "name": "Choctaw-based pidgin",
+      "id": "choc1282",
+      "url": "https://glottolog.org/resource/languoid/id/choc1282"
+    }
+  ],
+  "iso639-3": "mod"
+}

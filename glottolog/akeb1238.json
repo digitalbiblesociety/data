@@ -1,0 +1,85 @@
+{
+  "pk": 9890,
+  "hid": "keu",
+  "father_pk": 7149,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Akebu [akeb1238][keu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q35026",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kebu_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "317737",
+        "grammar_sketch",
+        2008,
+        78,
+        "Adjeoda, Dzifa 2008"
+      ],
+      [
+        "69454",
+        "grammar_sketch",
+        1907,
+        42,
+        "Wolf, Frans 1907"
+      ],
+      [
+        "106819",
+        "wordlist_or_less",
+        1898,
+        4,
+        "Seidel, August 1898"
+      ]
+    ]
+  },
+  "id": "akeb1238",
+  "name": "Akebu",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.78365,
+  "longitude": 0.77668,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Kwa Volta-Congo",
+      "id": "kwav1236",
+      "url": "https://glottolog.org/resource/languoid/id/kwav1236"
+    },
+    {
+      "name": "Ka-Togo",
+      "id": "kato1245",
+      "url": "https://glottolog.org/resource/languoid/id/kato1245"
+    },
+    {
+      "name": "Kebu-Animere",
+      "id": "kebu1246",
+      "url": "https://glottolog.org/resource/languoid/id/kebu1246"
+    }
+  ],
+  "iso639-3": "keu"
+}

@@ -1,0 +1,115 @@
+{
+  "pk": 3984,
+  "hid": "mem",
+  "father_pk": 2276,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mangala [mang1383][mem]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/a65",
+        "label": "Mangala"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/5934",
+        "label": "Mangala"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mangarla_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/mang1383",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6748664",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "591398",
+        "long_grammar",
+        2020,
+        611,
+        "Agnew, Brigitte Louise 2020"
+      ],
+      [
+        "668316",
+        "grammar",
+        1996,
+        0,
+        "Thieberger, Nicholas 1996"
+      ],
+      [
+        "556608",
+        "grammar_sketch",
+        1983,
+        42,
+        "McKelson, Kevin R. 1983"
+      ],
+      [
+        "6852",
+        "grammar_sketch",
+        1953,
+        3,
+        "Capell, Arthur 1953"
+      ],
+      [
+        "3842",
+        "grammar_sketch",
+        1952,
+        2,
+        "Capell, Arthur 1952"
+      ],
+      [
+        "4167",
+        "wordlist_or_less",
+        1940,
+        1,
+        "Arthur Capell 1940, 1940"
+      ],
+      [
+        "304666",
+        "wordlist_or_less",
+        1938,
+        3,
+        "Nekes, Hermann 1938"
+      ]
+    ]
+  },
+  "id": "mang1383",
+  "name": "Mangala",
+  "description": null,
+  "markup_description": null,
+  "latitude": -18.6597,
+  "longitude": 123.769,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Desert Nyungic",
+      "id": "dese1234",
+      "url": "https://glottolog.org/resource/languoid/id/dese1234"
+    },
+    {
+      "name": "Marrngu",
+      "id": "marr1265",
+      "url": "https://glottolog.org/resource/languoid/id/marr1265"
+    }
+  ],
+  "iso639-3": "mem"
+}

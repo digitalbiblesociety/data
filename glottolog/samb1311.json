@@ -1,0 +1,98 @@
+{
+  "pk": 15763,
+  "hid": "ccg",
+  "father_pk": 12988,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Sama Daka [nucl1416]':1,'Sama Jangani [samb1314]':1,'Sama Nnakenyare [samb1313]':1,'Sama of Mapeo [samb1312]':1,'Taram [tara1314]':1)'Sama Mum [samb1311][ccg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q33120805",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "11611",
+        "grammar_sketch",
+        2004,
+        96,
+        "Boyd, Raymond 2004"
+      ],
+      [
+        "126380",
+        "wordlist_or_less",
+        1994,
+        69,
+        "Boyd, Raymond 1994"
+      ],
+      [
+        "104832",
+        "wordlist_or_less",
+        1931,
+        5,
+        "Meek, Charles K. 1931"
+      ],
+      [
+        "128741",
+        "wordlist_or_less",
+        1910,
+        1,
+        "Strümpell, F. 1910"
+      ]
+    ]
+  },
+  "id": "samb1311",
+  "name": "Sama Mum",
+  "description": null,
+  "markup_description": null,
+  "latitude": 8.06905,
+  "longitude": 11.7077,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Northern Bantoid",
+      "id": "nort3168",
+      "url": "https://glottolog.org/resource/languoid/id/nort3168"
+    },
+    {
+      "name": "Dakoid",
+      "id": "dako1256",
+      "url": "https://glottolog.org/resource/languoid/id/dako1256"
+    },
+    {
+      "name": "Taram-Dirim-Nnakenyare",
+      "id": "tara1325",
+      "url": "https://glottolog.org/resource/languoid/id/tara1325"
+    }
+  ],
+  "iso639-3": "ccg"
+}

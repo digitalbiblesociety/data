@@ -1,0 +1,113 @@
+{
+  "pk": 18941,
+  "hid": "glv",
+  "father_pk": 16641,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Manx [manx1243][glv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/8601",
+        "label": "Manx"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mnx",
+        "label": "Manx"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Manx_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12175",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "150144",
+        "long_grammar",
+        1984,
+        348,
+        "Broderick, George 1984, 1984, 1986"
+      ],
+      [
+        "565832",
+        "grammar",
+        1847,
+        135,
+        "Leo, Heinrich 1847"
+      ],
+      [
+        "476520",
+        "grammar_sketch",
+        1780,
+        142,
+        "John Kelly 1870 [1780]"
+      ]
+    ]
+  },
+  "id": "manx1243",
+  "name": "Manx",
+  "description": null,
+  "markup_description": null,
+  "latitude": 54.2604,
+  "longitude": -4.45437,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Celtic",
+      "id": "celt1248",
+      "url": "https://glottolog.org/resource/languoid/id/celt1248"
+    },
+    {
+      "name": "Nuclear Celtic",
+      "id": "nucl1715",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1715"
+    },
+    {
+      "name": "TGB Celtic",
+      "id": "tgbc1234",
+      "url": "https://glottolog.org/resource/languoid/id/tgbc1234"
+    },
+    {
+      "name": "Insular Celtic",
+      "id": "insu1254",
+      "url": "https://glottolog.org/resource/languoid/id/insu1254"
+    },
+    {
+      "name": "Goidelic",
+      "id": "goid1240",
+      "url": "https://glottolog.org/resource/languoid/id/goid1240"
+    },
+    {
+      "name": "Modern Goidelic",
+      "id": "mode1265",
+      "url": "https://glottolog.org/resource/languoid/id/mode1265"
+    },
+    {
+      "name": "Eastern Goidelic",
+      "id": "east2734",
+      "url": "https://glottolog.org/resource/languoid/id/east2734"
+    }
+  ],
+  "iso639-3": "glv"
+}

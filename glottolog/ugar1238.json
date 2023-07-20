@@ -1,0 +1,119 @@
+{
+  "pk": 14152,
+  "hid": "uga",
+  "father_pk": 11079,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ugaritic [ugar1238][uga]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "uga",
+      "comment_type": "missing",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "Ugaritic, an extinct ancient Northwest Semitic language whose existence is well-known, is not found in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 (**hh:g:SchniedewingHunt:Ugaritic**)."
+    },
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q36928",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ugaritic",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "16909",
+        "long_grammar",
+        2000,
+        1078,
+        "Tropper, Josef 2000"
+      ],
+      [
+        "8473",
+        "long_grammar",
+        1997,
+        348,
+        "Sivan, Daniel 1997"
+      ],
+      [
+        "101454",
+        "grammar_sketch",
+        1965,
+        106,
+        "Segert, Stanislav 1965"
+      ],
+      [
+        "32297",
+        "phonology_or_text",
+        1949,
+        0,
+        "LaSor, William S. 1949"
+      ]
+    ]
+  },
+  "id": "ugar1238",
+  "name": "Ugaritic",
+  "description": null,
+  "markup_description": null,
+  "latitude": 35.6,
+  "longitude": 35.78,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Semitic",
+      "id": "semi1276",
+      "url": "https://glottolog.org/resource/languoid/id/semi1276"
+    },
+    {
+      "name": "West Semitic",
+      "id": "west2786",
+      "url": "https://glottolog.org/resource/languoid/id/west2786"
+    },
+    {
+      "name": "Central Semitic",
+      "id": "cent2236",
+      "url": "https://glottolog.org/resource/languoid/id/cent2236"
+    },
+    {
+      "name": "Northwest Semitic",
+      "id": "nort3165",
+      "url": "https://glottolog.org/resource/languoid/id/nort3165"
+    },
+    {
+      "name": "Canaanite",
+      "id": "cana1267",
+      "url": "https://glottolog.org/resource/languoid/id/cana1267"
+    },
+    {
+      "name": "Ugarito-Phoenician",
+      "id": "ugar1239",
+      "url": "https://glottolog.org/resource/languoid/id/ugar1239"
+    }
+  ],
+  "iso639-3": "uga"
+}

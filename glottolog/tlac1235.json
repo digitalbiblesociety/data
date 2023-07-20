@@ -1,0 +1,89 @@
+{
+  "pk": 3116,
+  "hid": "tpt",
+  "father_pk": 1595,
+  "family_pk": 319,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tlachichilco Tepehua [tlac1235][tpt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tep",
+        "label": "Tepehua (Tlachichilco)"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/3514",
+        "label": "Tlachichilco Tepehua"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tlachichilco_Tepehua",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/tlac1235",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56330",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "29157",
+        "long_grammar",
+        1988,
+        556,
+        "Watters, James Kenneth 1988"
+      ],
+      [
+        "62996",
+        "phonology_or_text",
+        1985,
+        129,
+        "Watters, James K. 1985"
+      ],
+      [
+        "89480",
+        "phonology_or_text",
+        1980,
+        45,
+        "Watters, James 1980"
+      ],
+      [
+        "304726",
+        "wordlist_or_less",
+        1903,
+        4,
+        "Nicolás León 1903"
+      ]
+    ]
+  },
+  "id": "tlac1235",
+  "name": "Tlachichilco Tepehua",
+  "description": null,
+  "markup_description": null,
+  "latitude": 20.704,
+  "longitude": -98.1947,
+  "classification": [
+    {
+      "name": "Totonacan",
+      "id": "toto1251",
+      "url": "https://glottolog.org/resource/languoid/id/toto1251"
+    },
+    {
+      "name": "Tepehua",
+      "id": "tepe1243",
+      "url": "https://glottolog.org/resource/languoid/id/tepe1243"
+    }
+  ],
+  "iso639-3": "tpt"
+}

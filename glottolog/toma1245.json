@@ -1,0 +1,86 @@
+{
+  "pk": 11312,
+  "hid": "tod",
+  "father_pk": 8324,
+  "family_pk": 121,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Fasalo [fasa1234]':1,'Woibalaga [woib1234]':1)'Central Guinean Loma [cent2376]':1,'Lulama [lula1234]':1,('Guinean Gizima [guin1261]':1,'Koimei [koim1234]':1,'Vekema [veke1234]':1,'Woima [woim1234]':1,'Yala {Loma} [yala1268]':1,'Ziyema [ziye1234]':1)'Southern Guinean Loma [sout3340]':1)'Toma [toma1245][tod]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 11,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q11055484",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "101946",
+        "grammar",
+        1967,
+        170,
+        "Prost, André 1967"
+      ],
+      [
+        "571572",
+        "wordlist_or_less",
+        1926,
+        188,
+        "Gabory-Dubourdeau, P. M. 1926"
+      ],
+      [
+        "576694",
+        "wordlist_or_less",
+        1907,
+        0,
+        "Rouet, F. 1907"
+      ]
+    ]
+  },
+  "id": "toma1245",
+  "name": "Toma",
+  "description": null,
+  "markup_description": null,
+  "latitude": 8.20383,
+  "longitude": -9.23439,
+  "classification": [
+    {
+      "name": "Mande",
+      "id": "mand1469",
+      "url": "https://glottolog.org/resource/languoid/id/mand1469"
+    },
+    {
+      "name": "Western Mande",
+      "id": "west2780",
+      "url": "https://glottolog.org/resource/languoid/id/west2780"
+    },
+    {
+      "name": "Manding-Kpelle",
+      "id": "mand1431",
+      "url": "https://glottolog.org/resource/languoid/id/mand1431"
+    },
+    {
+      "name": "Southwest Mande",
+      "id": "sout2842",
+      "url": "https://glottolog.org/resource/languoid/id/sout2842"
+    },
+    {
+      "name": "Mende-Loma",
+      "id": "mend1263",
+      "url": "https://glottolog.org/resource/languoid/id/mend1263"
+    },
+    {
+      "name": "Loma",
+      "id": "loma1259",
+      "url": "https://glottolog.org/resource/languoid/id/loma1259"
+    }
+  ],
+  "iso639-3": "tod"
+}

@@ -1,0 +1,77 @@
+{
+  "pk": 7113,
+  "hid": "fuh",
+  "father_pk": 4876,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Barani [bara1358]':1,'Barkoundouba [bark1244]':1,'Bitinkoore [biti1244]':1,'Bogandé [boga1246]':1,'Dallol [dall1239]':1,'Fada Ngurma [fada1249]':1,'Gourmantche [gour1242]':1,'Jelgoore [jelg1238]':1,'Liptaakoore [lipt1238]':1,'Ouhiguyua [ouhi1238]':1,'Seeba-Yaga [seeb1238]':1,'Sokoto [soko1247]':1)'Western Niger Fulfulde [west2454][fuh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 12,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_fbf",
+        "label": "Fula (Burkina Faso)"
+      },
+      {
+        "url": "https://phoible.org/languages/west2454",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12952430",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "101316",
+        "grammar",
+        1982,
+        236,
+        "Bidaud, Lucien and Prost, André 1982"
+      ],
+      [
+        "50254",
+        "grammar_sketch",
+        1909,
+        141,
+        "Westermann, Diedrich 1909"
+      ]
+    ]
+  },
+  "id": "west2454",
+  "name": "Western Niger Fulfulde",
+  "description": null,
+  "markup_description": null,
+  "latitude": 14.2471,
+  "longitude": -0.52004,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "North-Central Atlantic",
+      "id": "nort3146",
+      "url": "https://glottolog.org/resource/languoid/id/nort3146"
+    },
+    {
+      "name": "Fula-Sereer",
+      "id": "peul1234",
+      "url": "https://glottolog.org/resource/languoid/id/peul1234"
+    },
+    {
+      "name": "Fula",
+      "id": "fula1264",
+      "url": "https://glottolog.org/resource/languoid/id/fula1264"
+    }
+  ],
+  "iso639-3": "fuh"
+}

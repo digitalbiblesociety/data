@@ -1,0 +1,85 @@
+{
+  "pk": 9123,
+  "hid": "nnf",
+  "father_pk": 6612,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ngaing [ngai1241][nnf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q11732510",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ngaing_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "50871",
+        "wordlist_or_less",
+        1998,
+        20,
+        "Moses Mura 1998"
+      ],
+      [
+        "548072",
+        "wordlist_or_less",
+        1968,
+        12,
+        "Oren Claassen 1968"
+      ],
+      [
+        "313949",
+        "wordlist_or_less",
+        1960,
+        22,
+        "Schmitz, Carl A. 1960"
+      ]
+    ]
+  },
+  "id": "ngai1241",
+  "name": "Ngaing",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.6513,
+  "longitude": 146.343,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Finisterre-Huon",
+      "id": "fini1244",
+      "url": "https://glottolog.org/resource/languoid/id/fini1244"
+    },
+    {
+      "name": "Finisterre-Saruwaged",
+      "id": "fini1245",
+      "url": "https://glottolog.org/resource/languoid/id/fini1245"
+    },
+    {
+      "name": "Gusap-Mot",
+      "id": "gusa1245",
+      "url": "https://glottolog.org/resource/languoid/id/gusa1245"
+    },
+    {
+      "name": "Unclassified Gusap-Mot",
+      "id": "unun9980",
+      "url": "https://glottolog.org/resource/languoid/id/unun9980"
+    }
+  ],
+  "iso639-3": "nnf"
+}

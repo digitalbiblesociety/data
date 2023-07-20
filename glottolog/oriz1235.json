@@ -1,0 +1,92 @@
+{
+  "pk": 8581,
+  "hid": "nlv",
+  "father_pk": 6112,
+  "family_pk": 155,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ixhuatlancillo Nahuatl [ixhu1238]':1)'Orizaba Nahuatl [oriz1235][nlv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3086050",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Orizaba_Nahuatl",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "68253",
+        "grammar_sketch",
+        1991,
+        108,
+        "Tuggy, David T. 1991"
+      ],
+      [
+        "318536",
+        "phonology_or_text",
+        1987,
+        92,
+        "Hasler Hangert, Andrés 1987"
+      ],
+      [
+        "58423",
+        "phonology_or_text",
+        1986,
+        17,
+        "Tuggy, David H. 1986"
+      ],
+      [
+        "99772",
+        "phonology_or_text",
+        1974,
+        6,
+        "Goller, Theodore R. and Goller, Patricia L. and Waterhouse, Viola G. 1974"
+      ]
+    ]
+  },
+  "id": "oriz1235",
+  "name": "Orizaba Nahuatl",
+  "description": null,
+  "markup_description": null,
+  "latitude": 18.63995,
+  "longitude": -96.97648,
+  "classification": [
+    {
+      "name": "Uto-Aztecan",
+      "id": "utoa1244",
+      "url": "https://glottolog.org/resource/languoid/id/utoa1244"
+    },
+    {
+      "name": "Southern Uto-Aztecan",
+      "id": "sout3136",
+      "url": "https://glottolog.org/resource/languoid/id/sout3136"
+    },
+    {
+      "name": "Corachol-Aztecan",
+      "id": "cora1261",
+      "url": "https://glottolog.org/resource/languoid/id/cora1261"
+    },
+    {
+      "name": "Aztec",
+      "id": "azte1234",
+      "url": "https://glottolog.org/resource/languoid/id/azte1234"
+    },
+    {
+      "name": "Eastern Nahuatl",
+      "id": "east2720",
+      "url": "https://glottolog.org/resource/languoid/id/east2720"
+    }
+  ],
+  "iso639-3": "nlv"
+}

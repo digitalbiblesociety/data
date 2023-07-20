@@ -1,0 +1,89 @@
+{
+  "pk": 9749,
+  "hid": "tku",
+  "father_pk": 7090,
+  "family_pk": 319,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Chicontla [chic1276]':1,'Patla-Cacahuatlán [patl1235]':1)'Central-Western Upper Nexaca Totonac [cent2384]':1,'San Pedro Tlaolantongo [sanp1263]':1)'Upper Necaxa Totonac [uppe1275][tku]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3540",
+        "label": "Totonac"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Upper_Necaxa_Totonac",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56343",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "118341",
+        "grammar_sketch",
+        2011,
+        435,
+        "David Beck 2011"
+      ],
+      [
+        "89221",
+        "grammar_sketch",
+        2004,
+        117,
+        "David Beck 2004"
+      ],
+      [
+        "311011",
+        "wordlist_or_less",
+        1978,
+        3,
+        "García Rojas, Blanca Rosa 1978"
+      ]
+    ]
+  },
+  "id": "uppe1275",
+  "name": "Upper Necaxa Totonac",
+  "description": null,
+  "markup_description": null,
+  "latitude": 20.236,
+  "longitude": -97.81,
+  "classification": [
+    {
+      "name": "Totonacan",
+      "id": "toto1251",
+      "url": "https://glottolog.org/resource/languoid/id/toto1251"
+    },
+    {
+      "name": "Totonac",
+      "id": "toto1252",
+      "url": "https://glottolog.org/resource/languoid/id/toto1252"
+    },
+    {
+      "name": "Central Totonacan",
+      "id": "cent1397",
+      "url": "https://glottolog.org/resource/languoid/id/cent1397"
+    },
+    {
+      "name": "Northern Totonacan",
+      "id": "nort3265",
+      "url": "https://glottolog.org/resource/languoid/id/nort3265"
+    },
+    {
+      "name": "Necaxan",
+      "id": "neca1234",
+      "url": "https://glottolog.org/resource/languoid/id/neca1234"
+    }
+  ],
+  "iso639-3": "tku"
+}

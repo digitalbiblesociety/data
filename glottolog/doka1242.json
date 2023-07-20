@@ -1,0 +1,94 @@
+{
+  "pk": 12949,
+  "hid": "dbi",
+  "father_pk": 9958,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ejuele [doka1242][dbi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5011",
+        "label": "Doka"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3913293",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Doka_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "660253",
+        "wordlist_or_less",
+        2022,
+        6,
+        "Ken Decker and Christina Riepe and Longdi Sylvanus 2022"
+      ],
+      [
+        "64189",
+        "wordlist_or_less",
+        1973,
+        1,
+        "Williamson, Kay 1973"
+      ],
+      [
+        "84099",
+        "wordlist_or_less",
+        1968,
+        1,
+        "Williamson, Kay and Shimizu, Kiyoshi 1968"
+      ]
+    ]
+  },
+  "id": "doka1242",
+  "name": "Ejuele",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.2287,
+  "longitude": 7.96099,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Benue-Congo Plateau",
+      "id": "benu1248",
+      "url": "https://glottolog.org/resource/languoid/id/benu1248"
+    },
+    {
+      "name": "Northern Benue-Congo Plateau",
+      "id": "nort3169",
+      "url": "https://glottolog.org/resource/languoid/id/nort3169"
+    },
+    {
+      "name": "Nuclear Northern Benue-Congo Plateau",
+      "id": "nucl1832",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1832"
+    }
+  ],
+  "iso639-3": "dbi"
+}

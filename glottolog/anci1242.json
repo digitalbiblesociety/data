@@ -1,0 +1,104 @@
+{
+  "pk": 10950,
+  "hid": "grc",
+  "father_pk": 8033,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Attic [atti1240]':1,'Central Ionic [cent2405]':1,'Eastern Ionic [ioni1244]':1,'Western Ionic [west2996]':1)'Ionic-Attic Ancient Greek [anci1242][grc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Ancient_Greek",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35497",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "568593",
+        "long_grammar",
+        2018,
+        852,
+        "Evert van Emde Boas and Albert Rijksbaron and Luuk Huitink and Mathieu de Bakker 2018"
+      ],
+      [
+        "157311",
+        "long_grammar",
+        1984,
+        802,
+        "Smyth, Herbert W. 1984"
+      ],
+      [
+        "154979",
+        "long_grammar",
+        1920,
+        800,
+        "H. W. Smyth 1920"
+      ],
+      [
+        "33620",
+        "grammar",
+        1900,
+        242,
+        "William W. Goodwin 1900"
+      ],
+      [
+        "438935",
+        "phonology_or_text",
+        1888,
+        276,
+        "N. V. Fardy 1888"
+      ]
+    ]
+  },
+  "id": "anci1242",
+  "name": "Ionic-Attic Ancient Greek",
+  "description": null,
+  "markup_description": null,
+  "latitude": 39.8155,
+  "longitude": 21.9129,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Graeco-Phrygian",
+      "id": "grae1234",
+      "url": "https://glottolog.org/resource/languoid/id/grae1234"
+    },
+    {
+      "name": "Greek",
+      "id": "gree1276",
+      "url": "https://glottolog.org/resource/languoid/id/gree1276"
+    },
+    {
+      "name": "South Greek",
+      "id": "east2798",
+      "url": "https://glottolog.org/resource/languoid/id/east2798"
+    },
+    {
+      "name": "Central Greek",
+      "id": "cent2404",
+      "url": "https://glottolog.org/resource/languoid/id/cent2404"
+    }
+  ],
+  "iso639-3": "grc"
+}

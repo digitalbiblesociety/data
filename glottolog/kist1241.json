@@ -1,0 +1,103 @@
+{
+  "pk": 14164,
+  "hid": "gru",
+  "father_pk": 11096,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dobbi [dobi1240]':1,'Galila {Lake Wonchi} [gali1268]':1,'Soddo [sodd1242]':1)'Kistane [kist1241][gru]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q13273",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Soddo_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kist1241",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_sod",
+        "label": "Soddo"
+      }
+    ],
+    "meds": [
+      [
+        "578788",
+        "grammar_sketch",
+        2016,
+        300,
+        "Yehualashet, Teshome 2016"
+      ],
+      [
+        "61316",
+        "grammar_sketch",
+        1968,
+        123,
+        "Leslau, Wolf 1968"
+      ],
+      [
+        "34432",
+        "wordlist_or_less",
+        1878,
+        14,
+        "Mayer, Johannes 1878"
+      ]
+    ]
+  },
+  "id": "kist1241",
+  "name": "Kistane",
+  "description": null,
+  "markup_description": null,
+  "latitude": 8.33561,
+  "longitude": 38.4763,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Semitic",
+      "id": "semi1276",
+      "url": "https://glottolog.org/resource/languoid/id/semi1276"
+    },
+    {
+      "name": "West Semitic",
+      "id": "west2786",
+      "url": "https://glottolog.org/resource/languoid/id/west2786"
+    },
+    {
+      "name": "Ethiosemitic",
+      "id": "ethi1244",
+      "url": "https://glottolog.org/resource/languoid/id/ethi1244"
+    },
+    {
+      "name": "South Ethiopic",
+      "id": "sout3078",
+      "url": "https://glottolog.org/resource/languoid/id/sout3078"
+    },
+    {
+      "name": "Outer South Ethiopic",
+      "id": "oute1258",
+      "url": "https://glottolog.org/resource/languoid/id/oute1258"
+    },
+    {
+      "name": "N-Group",
+      "id": "ngro1237",
+      "url": "https://glottolog.org/resource/languoid/id/ngro1237"
+    }
+  ],
+  "iso639-3": "gru"
+}

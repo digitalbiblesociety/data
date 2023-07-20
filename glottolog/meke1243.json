@@ -1,0 +1,128 @@
+{
+  "pk": 21495,
+  "hid": "mek",
+  "father_pk": 19639,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('East Mekeo [east2455]':1,'North Mekeo [nort2850]':1,'Northwest Mekeo [nort2851]':1,'West Mekeo [west2528]':1)'Mekeo [meke1243][mek]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mke",
+        "label": "Mekeo"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mekeo_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3304803",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "31843",
+        "long_grammar",
+        1998,
+        621,
+        "Alan A. Jones 1998"
+      ],
+      [
+        "23368",
+        "grammar_sketch",
+        1913,
+        14,
+        "W. M. Strong 1913-1914"
+      ],
+      [
+        "85172",
+        "wordlist_or_less",
+        1902,
+        5,
+        "Bouellat, {} 1902"
+      ],
+      [
+        "309880",
+        "wordlist_or_less",
+        1892,
+        5,
+        "J. P. Thomson 1892"
+      ],
+      [
+        "324261",
+        "wordlist_or_less",
+        1891,
+        4,
+        "Anonymous, {} 1891"
+      ]
+    ]
+  },
+  "id": "meke1243",
+  "name": "Mekeo",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.23853,
+  "longitude": 146.586,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Western Oceanic linkage",
+      "id": "west2818",
+      "url": "https://glottolog.org/resource/languoid/id/west2818"
+    },
+    {
+      "name": "Papuan Tip linkage",
+      "id": "papu1253",
+      "url": "https://glottolog.org/resource/languoid/id/papu1253"
+    },
+    {
+      "name": "Peripheral Papuan Tip linkage",
+      "id": "peri1258",
+      "url": "https://glottolog.org/resource/languoid/id/peri1258"
+    },
+    {
+      "name": "Central Papuan Oceanic",
+      "id": "cent2070",
+      "url": "https://glottolog.org/resource/languoid/id/cent2070"
+    },
+    {
+      "name": "West Central Papuan linkage",
+      "id": "west2850",
+      "url": "https://glottolog.org/resource/languoid/id/west2850"
+    },
+    {
+      "name": "Nuclear West Central Papuan linkage",
+      "id": "nucl1506",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1506"
+    }
+  ],
+  "iso639-3": "mek"
+}

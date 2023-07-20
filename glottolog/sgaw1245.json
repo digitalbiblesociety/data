@@ -1,0 +1,102 @@
+{
+  "pk": 7306,
+  "hid": "ksw",
+  "father_pk": 4968,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Palakhi [pala1338]':1,'Panapu [pana1290]':1)'S''gaw Karen [sgaw1245][ksw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ksg",
+        "label": "Karen (Sgaw)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/S%27gaw_Karen_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/sgaw1245",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56410",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "153666",
+        "grammar",
+        1961,
+        294,
+        "Jones, Jr., Robert B. 1961"
+      ],
+      [
+        "312329",
+        "grammar",
+        1958,
+        294,
+        "Jones, Jr., Robert B. 1958"
+      ],
+      [
+        "308560",
+        "grammar",
+        1897,
+        256,
+        "Wade, Jonathan 1897"
+      ],
+      [
+        "302699",
+        "grammar",
+        1846,
+        243,
+        "Francis Mason 1846"
+      ],
+      [
+        "56746",
+        "wordlist_or_less",
+        1798,
+        11,
+        "Buchanan, Francis 1798"
+      ]
+    ]
+  },
+  "id": "sgaw1245",
+  "name": "S'gaw Karen",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.9872,
+  "longitude": 97.7126,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Karenic",
+      "id": "kare1337",
+      "url": "https://glottolog.org/resource/languoid/id/kare1337"
+    },
+    {
+      "name": "Southern Karen",
+      "id": "sout1554",
+      "url": "https://glottolog.org/resource/languoid/id/sout1554"
+    },
+    {
+      "name": "Sgaw",
+      "id": "sgaw1244",
+      "url": "https://glottolog.org/resource/languoid/id/sgaw1244"
+    }
+  ],
+  "iso639-3": "ksw"
+}

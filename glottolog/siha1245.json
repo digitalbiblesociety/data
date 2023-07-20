@@ -1,0 +1,78 @@
+{
+  "pk": 9174,
+  "hid": "snr",
+  "father_pk": 6651,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Sihan {Gum} [siha1245][snr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7513400",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sihan_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "39834",
+        "wordlist_or_less",
+        1980,
+        4,
+        "Z'graggen, Johannes A. 1980"
+      ],
+      [
+        "16299",
+        "wordlist_or_less",
+        1975,
+        1,
+        "Z'Graggen, Johannes A. 1975"
+      ]
+    ]
+  },
+  "id": "siha1245",
+  "name": "Sihan (Gum)",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.28029,
+  "longitude": 145.574,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Madang",
+      "id": "mada1298",
+      "url": "https://glottolog.org/resource/languoid/id/mada1298"
+    },
+    {
+      "name": "Croisilles",
+      "id": "croi1234",
+      "url": "https://glottolog.org/resource/languoid/id/croi1234"
+    },
+    {
+      "name": "Mabuso",
+      "id": "mabu1247",
+      "url": "https://glottolog.org/resource/languoid/id/mabu1247"
+    },
+    {
+      "name": "Gum",
+      "id": "gumm1240",
+      "url": "https://glottolog.org/resource/languoid/id/gumm1240"
+    }
+  ],
+  "iso639-3": "snr"
+}

@@ -1,0 +1,105 @@
+{
+  "pk": 11143,
+  "hid": "sur",
+  "father_pk": 8230,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Mupun [mupu1234]':1,'Panyam [pany1246]':1,'Takas [taka1269]':1)'Mwaghavul [mwag1236][sur]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mup",
+        "label": "Mupun"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mwaghavul_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/mwag1236",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3440486",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "42882",
+        "grammar",
+        1999,
+        44,
+        "Heusing, Gerald 1999"
+      ],
+      [
+        "93273",
+        "grammar",
+        1993,
+        25,
+        "Frajzyngier, Zygmunt 1993"
+      ],
+      [
+        "158796",
+        "grammar_sketch",
+        1963,
+        99,
+        "Jungraithmayr, Herrmann 1963"
+      ],
+      [
+        "109280",
+        "wordlist_or_less",
+        1907,
+        2,
+        "Gowers, W.F. 1907"
+      ]
+    ]
+  },
+  "id": "mwag1236",
+  "name": "Mwaghavul",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.47205,
+  "longitude": 8.96522,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "West Chadic",
+      "id": "west2785",
+      "url": "https://glottolog.org/resource/languoid/id/west2785"
+    },
+    {
+      "name": "West Chadic A",
+      "id": "west2714",
+      "url": "https://glottolog.org/resource/languoid/id/west2714"
+    },
+    {
+      "name": "West Chadic A.2-3",
+      "id": "west2799",
+      "url": "https://glottolog.org/resource/languoid/id/west2799"
+    },
+    {
+      "name": "West Chadic A.3",
+      "id": "west2717",
+      "url": "https://glottolog.org/resource/languoid/id/west2717"
+    }
+  ],
+  "iso639-3": "sur"
+}

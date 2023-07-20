@@ -1,0 +1,85 @@
+{
+  "pk": 2028,
+  "hid": "sht",
+  "father_pk": 910,
+  "family_pk": 68,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Shasta [shas1239][sht]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56396",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Shasta_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/shas1239",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_shs",
+        "label": "Shasta"
+      }
+    ],
+    "meds": [
+      [
+        "61349",
+        "grammar",
+        1966,
+        251,
+        "Shirley Silver 1966"
+      ],
+      [
+        "307520",
+        "wordlist_or_less",
+        1959,
+        55,
+        "Bright, William and David L. Olmsted 1959"
+      ],
+      [
+        "110977",
+        "wordlist_or_less",
+        1905,
+        1,
+        "Roland B. Dixon 1905"
+      ],
+      [
+        "38887",
+        "wordlist_or_less",
+        1877,
+        1,
+        "J. W. Powell 1877"
+      ]
+    ]
+  },
+  "id": "shas1239",
+  "name": "Shasta",
+  "description": null,
+  "markup_description": null,
+  "latitude": 41.7587,
+  "longitude": -122.738,
+  "classification": [
+    {
+      "name": "Shastan",
+      "id": "shas1238",
+      "url": "https://glottolog.org/resource/languoid/id/shas1238"
+    },
+    {
+      "name": "Nuclear Shastan",
+      "id": "nucl1814",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1814"
+    }
+  ],
+  "iso639-3": "sht"
+}

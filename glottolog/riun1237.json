@@ -1,0 +1,95 @@
+{
+  "pk": 14962,
+  "hid": "riu",
+  "father_pk": 12099,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Lengkosambi Dialect [leng1264]':1,'Nggolombay Dialect [nggo1235]':1,'Nggolonio [nggo1234]':1)'Riung [riun1237][riu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7336938",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Riung_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "576072",
+        "phonology_or_text",
+        2016,
+        144,
+        "Petrus Pita 2016"
+      ],
+      [
+        "307280",
+        "phonology_or_text",
+        1977,
+        21,
+        "Rosen, Joan M. 1977"
+      ],
+      [
+        "46227",
+        "wordlist_or_less",
+        1975,
+        0,
+        "Verhaar, John W. M. 1975 - 1990"
+      ]
+    ]
+  },
+  "id": "riun1237",
+  "name": "Riung",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.60342,
+  "longitude": 121.122,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Bima-Lembata",
+      "id": "bima1248",
+      "url": "https://glottolog.org/resource/languoid/id/bima1248"
+    },
+    {
+      "name": "Flores-Sumba-Hawu",
+      "id": "flor1240",
+      "url": "https://glottolog.org/resource/languoid/id/flor1240"
+    },
+    {
+      "name": "Flores Barat",
+      "id": "flor1241",
+      "url": "https://glottolog.org/resource/languoid/id/flor1241"
+    },
+    {
+      "name": "Manggaraiic",
+      "id": "mang1430",
+      "url": "https://glottolog.org/resource/languoid/id/mang1430"
+    },
+    {
+      "name": "Manggarai Khusus",
+      "id": "mang1436",
+      "url": "https://glottolog.org/resource/languoid/id/mang1436"
+    }
+  ],
+  "iso639-3": "riu"
+}

@@ -1,0 +1,71 @@
+{
+  "pk": 9209,
+  "hid": "mxd",
+  "father_pk": 6710,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Benehes [bene1245]':1,'Kelingan {Indonesia} [keli1252]':1,'Liah Bing [liah1237]':1,'Long Bento'' [long1404]':1,'Long Glat [long1405]':1,'Nahes [nahe1237]':1)'Modang [moda1244][mxd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6888037",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Modang_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "46403",
+        "wordlist_or_less",
+        1882,
+        172,
+        "Bock, Carl 1882"
+      ]
+    ]
+  },
+  "id": "moda1244",
+  "name": "Modang",
+  "description": null,
+  "markup_description": null,
+  "latitude": 0.80793,
+  "longitude": 116.573,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "North Borneo Malayo-Polynesian",
+      "id": "nort3253",
+      "url": "https://glottolog.org/resource/languoid/id/nort3253"
+    },
+    {
+      "name": "Kayan-Murik-Modang",
+      "id": "kaya1335",
+      "url": "https://glottolog.org/resource/languoid/id/kaya1335"
+    },
+    {
+      "name": "Modang-Segai",
+      "id": "moda1243",
+      "url": "https://glottolog.org/resource/languoid/id/moda1243"
+    }
+  ],
+  "iso639-3": "mxd"
+}

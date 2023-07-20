@@ -1,0 +1,100 @@
+{
+  "pk": 9863,
+  "hid": "mdd",
+  "father_pk": 7140,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Gbete [gbet1241]':1,'Mbere {Mboum} [mber1254]':1,'Mboum [mbou1244]':1)'Mbum [mbum1254][mdd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q36170",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mbum_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/mbum1254",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mbm",
+        "label": "Mbum"
+      }
+    ],
+    "meds": [
+      [
+        "51340",
+        "long_grammar",
+        1970,
+        366,
+        "Hagège, Claude 1970"
+      ],
+      [
+        "90842",
+        "grammar_sketch",
+        1922,
+        96,
+        "von Duisburg, Adolf 1922"
+      ],
+      [
+        "304116",
+        "wordlist_or_less",
+        1915,
+        8,
+        "Louis Périquet 1915"
+      ],
+      [
+        "30951",
+        "wordlist_or_less",
+        1910,
+        2,
+        "Georges Bruel 1910, 1911"
+      ]
+    ]
+  },
+  "id": "mbum1254",
+  "name": "Mbum",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.5789,
+  "longitude": 14.2722,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "North Volta-Congo",
+      "id": "nort3149",
+      "url": "https://glottolog.org/resource/languoid/id/nort3149"
+    },
+    {
+      "name": "Cameroun-Ubangian",
+      "id": "came1255",
+      "url": "https://glottolog.org/resource/languoid/id/came1255"
+    },
+    {
+      "name": "Mbumic",
+      "id": "mbum1257",
+      "url": "https://glottolog.org/resource/languoid/id/mbum1257"
+    }
+  ],
+  "iso639-3": "mdd"
+}

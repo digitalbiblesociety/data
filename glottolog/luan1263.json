@@ -1,0 +1,98 @@
+{
+  "pk": 12570,
+  "hid": "lex",
+  "father_pk": 9553,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Lakor [lako1246]':1,'Luang island [luan1264]':1,'Moa [moaa1237]':1,'Sermata [serm1234]':1)'Nuclear Luang [nucl1536]':1,'Wetan [weta1243]':1)'Luang [luan1263][lex]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/8452",
+        "label": "Luang"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_wet",
+        "label": "Wetan"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Luang_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6695015",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "557618",
+        "grammar",
+        2015,
+        203,
+        "Kathleen B. Taber and Mark H. Taber 2015"
+      ],
+      [
+        "131680",
+        "grammar_sketch",
+        1987,
+        172,
+        "de Josselin de Jong, Jan Petrus Benjamin 1987"
+      ],
+      [
+        "66632",
+        "grammar_sketch",
+        1932,
+        86,
+        "J. C. G. Jonker 1932"
+      ]
+    ]
+  },
+  "id": "luan1263",
+  "name": "Luang",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.18378,
+  "longitude": 127.944,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Timor-Babar",
+      "id": "timo1265",
+      "url": "https://glottolog.org/resource/languoid/id/timo1265"
+    },
+    {
+      "name": "Southwest Maluku",
+      "id": "sout3382",
+      "url": "https://glottolog.org/resource/languoid/id/sout3382"
+    },
+    {
+      "name": "Luangic-Kisaric",
+      "id": "luan1261",
+      "url": "https://glottolog.org/resource/languoid/id/luan1261"
+    },
+    {
+      "name": "Luangic",
+      "id": "luan1262",
+      "url": "https://glottolog.org/resource/languoid/id/luan1262"
+    }
+  ],
+  "iso639-3": "lex"
+}

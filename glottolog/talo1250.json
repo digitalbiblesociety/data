@@ -1,0 +1,80 @@
+{
+  "pk": 3695,
+  "hid": "tlo",
+  "father_pk": 2018,
+  "family_pk": 59,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tasomi-Tata [talo1250][tlo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3537",
+        "label": "Talodi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36525",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Talodi_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/talo1250",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_jom",
+        "label": "Jomang"
+      }
+    ],
+    "meds": [
+      [
+        "141254",
+        "grammar_sketch",
+        1915,
+        21,
+        "Meinhof, Carl 1915-1916"
+      ],
+      [
+        "15091",
+        "wordlist_or_less",
+        1910,
+        2,
+        "Seligmann, Brenda Z. 1910-1911"
+      ]
+    ]
+  },
+  "id": "talo1250",
+  "name": "Tasomi-Tata",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.6453,
+  "longitude": 30.4815,
+  "classification": [
+    {
+      "name": "Narrow Talodi",
+      "id": "narr1279",
+      "url": "https://glottolog.org/resource/languoid/id/narr1279"
+    },
+    {
+      "name": "Buram-Saraf",
+      "id": "bura1298",
+      "url": "https://glottolog.org/resource/languoid/id/bura1298"
+    },
+    {
+      "name": "Nding-Tasomi",
+      "id": "ndin1246",
+      "url": "https://glottolog.org/resource/languoid/id/ndin1246"
+    }
+  ],
+  "iso639-3": "tlo"
+}

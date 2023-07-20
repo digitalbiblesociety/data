@@ -1,0 +1,67 @@
+{
+  "pk": 2263,
+  "hid": "mqr",
+  "father_pk": 1046,
+  "family_pk": 147,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mander [mand1443][mqr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2712",
+        "label": "Mander"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6747979",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mander_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "39370",
+        "wordlist_or_less",
+        1961,
+        14,
+        "Oosterwal, Gottfried 1961"
+      ],
+      [
+        "557565",
+        "wordlist_or_less",
+        1911,
+        2,
+        "J. Th. Stroeve 1911"
+      ]
+    ]
+  },
+  "id": "mand1443",
+  "name": "Mander",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.29479,
+  "longitude": 138.751,
+  "classification": [
+    {
+      "name": "Tor-Orya",
+      "id": "toro1256",
+      "url": "https://glottolog.org/resource/languoid/id/toro1256"
+    },
+    {
+      "name": "Tor",
+      "id": "tora1268",
+      "url": "https://glottolog.org/resource/languoid/id/tora1268"
+    }
+  ],
+  "iso639-3": "mqr"
+}

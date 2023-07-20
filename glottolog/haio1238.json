@@ -1,0 +1,84 @@
+{
+  "pk": 6197,
+  "hid": "hgm",
+  "father_pk": 4176,
+  "family_pk": 171,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Akhoe [akho1238]':1,'Hai||um [hain1254]':1,'Kede [kedi1239]':1)'Hai//om-Akhoe [haio1238][hgm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q4494781",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/%C7%82Aakhoe_dialect",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/haio1238",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "571457",
+        "grammar_sketch",
+        1927,
+        45,
+        "Fourie, L. 1927"
+      ],
+      [
+        "10814",
+        "grammar_sketch",
+        1925,
+        37,
+        "Doke, Clement M. 1925"
+      ],
+      [
+        "51841",
+        "wordlist_or_less",
+        1906,
+        10,
+        "Werner, H. 1906"
+      ]
+    ]
+  },
+  "id": "haio1238",
+  "name": "Hai//om-Akhoe",
+  "description": null,
+  "markup_description": null,
+  "latitude": -19.7637,
+  "longitude": 17.0299,
+  "classification": [
+    {
+      "name": "Khoe-Kwadi",
+      "id": "khoe1240",
+      "url": "https://glottolog.org/resource/languoid/id/khoe1240"
+    },
+    {
+      "name": "Khoe",
+      "id": "khoe1241",
+      "url": "https://glottolog.org/resource/languoid/id/khoe1241"
+    },
+    {
+      "name": "Khoekhoe",
+      "id": "khoe1242",
+      "url": "https://glottolog.org/resource/languoid/id/khoe1242"
+    },
+    {
+      "name": "North Khoekhoe",
+      "id": "nort3245",
+      "url": "https://glottolog.org/resource/languoid/id/nort3245"
+    }
+  ],
+  "iso639-3": "hgm"
+}

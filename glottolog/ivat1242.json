@@ -1,0 +1,84 @@
+{
+  "pk": 6844,
+  "hid": "ivv",
+  "father_pk": 4659,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Itbayat [ivat1242][ivv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Ivatan_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/ivat1242",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3547080",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "578760",
+        "grammar",
+        2014,
+        227,
+        "Yamada, Yukihiro 2014"
+      ],
+      [
+        "641419",
+        "grammar",
+        1966,
+        179,
+        "Reid, Lawrence A. 1966"
+      ],
+      [
+        "69481",
+        "wordlist_or_less",
+        1957,
+        49,
+        "na 1957"
+      ]
+    ]
+  },
+  "id": "ivat1242",
+  "name": "Itbayat",
+  "description": null,
+  "markup_description": null,
+  "latitude": 20.77,
+  "longitude": 121.85,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Batanic",
+      "id": "bata1315",
+      "url": "https://glottolog.org/resource/languoid/id/bata1315"
+    },
+    {
+      "name": "Yami-Itbayat",
+      "id": "yami1257",
+      "url": "https://glottolog.org/resource/languoid/id/yami1257"
+    }
+  ],
+  "iso639-3": "ivv"
+}

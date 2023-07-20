@@ -1,0 +1,89 @@
+{
+  "pk": 8795,
+  "hid": "csw",
+  "father_pk": 6287,
+  "family_pk": 178,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Eastern Swampy Cree [east2541]':1,'Western Swampy Cree [west2628]':1)'Swampy Cree [swam1239][csw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_cea",
+        "label": "Cree (Swampy)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Swampy_Cree_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56696",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "32362",
+        "long_grammar",
+        1983,
+        713,
+        "Ellis, C. Douglas 1983"
+      ],
+      [
+        "469538",
+        "long_grammar",
+        1962,
+        529,
+        "Ellis, C. Douglas 1962"
+      ],
+      [
+        "87341",
+        "grammar",
+        1875,
+        267,
+        "Archdeacon Hunter 1875"
+      ]
+    ]
+  },
+  "id": "swam1239",
+  "name": "Swampy Cree",
+  "description": null,
+  "markup_description": null,
+  "latitude": 56,
+  "longitude": -95,
+  "classification": [
+    {
+      "name": "Algic",
+      "id": "algi1248",
+      "url": "https://glottolog.org/resource/languoid/id/algi1248"
+    },
+    {
+      "name": "Algonquian-Blackfoot",
+      "id": "algo1256",
+      "url": "https://glottolog.org/resource/languoid/id/algo1256"
+    },
+    {
+      "name": "Algonquian",
+      "id": "algo1257",
+      "url": "https://glottolog.org/resource/languoid/id/algo1257"
+    },
+    {
+      "name": "Cree-Montagnais-Naskapi",
+      "id": "cree1271",
+      "url": "https://glottolog.org/resource/languoid/id/cree1271"
+    },
+    {
+      "name": "Cree",
+      "id": "cree1272",
+      "url": "https://glottolog.org/resource/languoid/id/cree1272"
+    }
+  ],
+  "iso639-3": "csw"
+}

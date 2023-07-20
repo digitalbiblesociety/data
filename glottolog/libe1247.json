@@ -1,0 +1,103 @@
+{
+  "pk": 8323,
+  "hid": "xpe",
+  "father_pk": 5831,
+  "family_pk": 121,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Liberia Kpelle [libe1247][xpe]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q20527226",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/libe1247",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kpe",
+        "label": "Kpelle"
+      }
+    ],
+    "meds": [
+      [
+        "82213",
+        "grammar",
+        1924,
+        278,
+        "Westermann, Diedrich 1924"
+      ],
+      [
+        "156784",
+        "grammar_sketch",
+        1923,
+        24,
+        "Westermann, Diedrich 1923/24"
+      ],
+      [
+        "9150",
+        "grammar_sketch",
+        1910,
+        15,
+        "Westermann, Diedrich 1910"
+      ],
+      [
+        "48592",
+        "wordlist_or_less",
+        1841,
+        15,
+        "Norris, Edwin 1841"
+      ],
+      [
+        "19485",
+        "wordlist_or_less",
+        1828,
+        4,
+        "Kilham, Hannah 1828"
+      ]
+    ]
+  },
+  "id": "libe1247",
+  "name": "Liberia Kpelle",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.92048,
+  "longitude": -9.96128,
+  "classification": [
+    {
+      "name": "Mande",
+      "id": "mand1469",
+      "url": "https://glottolog.org/resource/languoid/id/mand1469"
+    },
+    {
+      "name": "Western Mande",
+      "id": "west2780",
+      "url": "https://glottolog.org/resource/languoid/id/west2780"
+    },
+    {
+      "name": "Manding-Kpelle",
+      "id": "mand1431",
+      "url": "https://glottolog.org/resource/languoid/id/mand1431"
+    },
+    {
+      "name": "Southwest Mande",
+      "id": "sout2842",
+      "url": "https://glottolog.org/resource/languoid/id/sout2842"
+    },
+    {
+      "name": "Kpelle",
+      "id": "kpel1252",
+      "url": "https://glottolog.org/resource/languoid/id/kpel1252"
+    }
+  ],
+  "iso639-3": "xpe"
+}

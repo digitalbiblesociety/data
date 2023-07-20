@@ -1,0 +1,93 @@
+{
+  "pk": 10683,
+  "hid": "mxq",
+  "father_pk": 7777,
+  "family_pk": 3,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Nuclear Juquila Mixe [nucl1646]':1,'Ocotepec Mixe [ocot1241]':1)'Juquila Mixe [juqu1238][mxq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q25559721",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "55831",
+        "grammar_sketch",
+        1991,
+        200,
+        "Yoshiho Yasugi 1991"
+      ],
+      [
+        "313944",
+        "grammar_sketch",
+        1902,
+        143,
+        "Francisco Belmar 1902"
+      ],
+      [
+        "302404",
+        "grammar_sketch",
+        1730,
+        57,
+        "Agustín de Quintana 1898 [1730]"
+      ],
+      [
+        "302403",
+        "grammar_sketch",
+        1729,
+        38,
+        "Agustín de Quintana 1891 [1729]"
+      ]
+    ]
+  },
+  "id": "juqu1238",
+  "name": "Juquila Mixe",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.8912,
+  "longitude": -95.8484,
+  "classification": [
+    {
+      "name": "Mixe-Zoque",
+      "id": "mixe1284",
+      "url": "https://glottolog.org/resource/languoid/id/mixe1284"
+    },
+    {
+      "name": "Mixe",
+      "id": "mixe1286",
+      "url": "https://glottolog.org/resource/languoid/id/mixe1286"
+    },
+    {
+      "name": "Oaxaca Mixe",
+      "id": "oaxa1241",
+      "url": "https://glottolog.org/resource/languoid/id/oaxa1241"
+    },
+    {
+      "name": "Lowland-Midland-South Highland Mixe",
+      "id": "lowl1268",
+      "url": "https://glottolog.org/resource/languoid/id/lowl1268"
+    },
+    {
+      "name": "Lowland-Midland Mixe",
+      "id": "lowl1269",
+      "url": "https://glottolog.org/resource/languoid/id/lowl1269"
+    },
+    {
+      "name": "Midland Mixe",
+      "id": "midl1241",
+      "url": "https://glottolog.org/resource/languoid/id/midl1241"
+    }
+  ],
+  "iso639-3": "mxq"
+}

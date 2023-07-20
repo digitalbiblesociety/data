@@ -1,0 +1,85 @@
+{
+  "pk": 2006,
+  "hid": "atr",
+  "father_pk": 900,
+  "family_pk": 56,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Atruahí [atru1239]':1,'Jawaperi [jawa1240]':1,'Waimiri [waim1254]':1)'Waimiri-Atroari [waim1253][atr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1956",
+        "label": "Waimirí-Atroarí"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56865",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Waimiri-Atroar%C3%AD_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/waim1253",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "34280",
+        "grammar",
+        2003,
+        185,
+        "Ana Carla Bruno 2003"
+      ],
+      [
+        "52985",
+        "grammar_sketch",
+        1996,
+        0,
+        "Lacerda, Edith Maria Neves 1996"
+      ],
+      [
+        "556206",
+        "phonology_or_text",
+        1991,
+        0,
+        "Lacerta, Edith Maria Neves 1991"
+      ],
+      [
+        "303027",
+        "wordlist_or_less",
+        1885,
+        274,
+        "Rodrigues, João Barbosa 1885"
+      ]
+    ]
+  },
+  "id": "waim1253",
+  "name": "Waimiri-Atroari",
+  "description": null,
+  "markup_description": null,
+  "latitude": -0.61832,
+  "longitude": -60.4259,
+  "classification": [
+    {
+      "name": "Cariban",
+      "id": "cari1283",
+      "url": "https://glottolog.org/resource/languoid/id/cari1283"
+    },
+    {
+      "name": "Yawaperi",
+      "id": "yawa1262",
+      "url": "https://glottolog.org/resource/languoid/id/yawa1262"
+    }
+  ],
+  "iso639-3": "atr"
+}

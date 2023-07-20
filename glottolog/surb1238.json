@@ -1,0 +1,73 @@
+{
+  "pk": 7036,
+  "hid": "sbj",
+  "father_pk": 4829,
+  "family_pk": 306,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Surbakhal [surb1238][sbj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q759995",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Surbakhal_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "306294",
+        "wordlist_or_less",
+        2013,
+        0,
+        "Lewis, Paul M. and Gary F. Simons and Charles D. Fennig 2013"
+      ],
+      [
+        "111611",
+        "wordlist_or_less",
+        1995,
+        12,
+        "Maass, Antje and Grant, Caroline and Prinz, Angela 1995"
+      ]
+    ]
+  },
+  "id": "surb1238",
+  "name": "Surbakhal",
+  "description": null,
+  "markup_description": null,
+  "latitude": 13.1331,
+  "longitude": 21.6243,
+  "classification": [
+    {
+      "name": "Maban",
+      "id": "maba1274",
+      "url": "https://glottolog.org/resource/languoid/id/maba1274"
+    },
+    {
+      "name": "Mabang",
+      "id": "maba1275",
+      "url": "https://glottolog.org/resource/languoid/id/maba1275"
+    },
+    {
+      "name": "Maba-Masalit",
+      "id": "maba1276",
+      "url": "https://glottolog.org/resource/languoid/id/maba1276"
+    },
+    {
+      "name": "Macro-Masalit",
+      "id": "masa1301",
+      "url": "https://glottolog.org/resource/languoid/id/masa1301"
+    }
+  ],
+  "iso639-3": "sbj"
+}

@@ -1,0 +1,113 @@
+{
+  "pk": 14257,
+  "hid": "dot",
+  "father_pk": 11175,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Durr-Baraza [durr1240]':1,'Wandi [wand1279]':1,'Zodi [zodi1234]':1,'Zumbul [zumb1241]':1)'Dass [dass1243][dot]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10493",
+        "label": "Dass"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3441293",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dass_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "65972",
+        "grammar_sketch",
+        2002,
+        88,
+        "Caron, Bernard 2002"
+      ],
+      [
+        "136865",
+        "wordlist_or_less",
+        1999,
+        20,
+        "Cosper, Ronald 1999"
+      ],
+      [
+        "64085",
+        "wordlist_or_less",
+        1981,
+        7,
+        "Kraft, Charles H. 1981"
+      ],
+      [
+        "76828",
+        "wordlist_or_less",
+        1978,
+        1,
+        "Shimizu, Kiyoshi 1978"
+      ],
+      [
+        "469155",
+        "wordlist_or_less",
+        1960,
+        350,
+        "Conant, F. P. 1960"
+      ]
+    ]
+  },
+  "id": "dass1243",
+  "name": "Dass",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.9325,
+  "longitude": 9.51838,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "West Chadic",
+      "id": "west2785",
+      "url": "https://glottolog.org/resource/languoid/id/west2785"
+    },
+    {
+      "name": "West Chadic B",
+      "id": "west2790",
+      "url": "https://glottolog.org/resource/languoid/id/west2790"
+    },
+    {
+      "name": "West Chadic B.3",
+      "id": "west2800",
+      "url": "https://glottolog.org/resource/languoid/id/west2800"
+    },
+    {
+      "name": "South Bauchi West",
+      "id": "sout3162",
+      "url": "https://glottolog.org/resource/languoid/id/sout3162"
+    },
+    {
+      "name": "Southwest South Bauchi",
+      "id": "sout3170",
+      "url": "https://glottolog.org/resource/languoid/id/sout3170"
+    }
+  ],
+  "iso639-3": "dot"
+}

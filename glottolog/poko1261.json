@@ -1,0 +1,122 @@
+{
+  "pk": 23518,
+  "hid": "pkb",
+  "father_pk": 22010,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Gwano [gwan1243]':1,'Kinakomba [kina1249]':1,'Malalulu [mala1474]':1,'Ndera {Pokomo} [nder1245]':1,'Ndura [ndur1238]':1,'Zubaki [zuba1238]':1)'Pokomo [poko1261][pkb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Pokomo_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7208693",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "59733",
+        "grammar_sketch",
+        1896,
+        45,
+        "Würtz, Ferdinand 1896"
+      ],
+      [
+        "93095",
+        "grammar_sketch",
+        1888,
+        29,
+        "Würtz, Ferdinand 1888-1889"
+      ],
+      [
+        "114802",
+        "wordlist_or_less",
+        1850,
+        11,
+        "Krapf, J. L. 1850"
+      ],
+      [
+        "53657",
+        "wordlist_or_less",
+        1847,
+        0,
+        "Krapf, Johann Ludwig 1847"
+      ]
+    ]
+  },
+  "id": "poko1261",
+  "name": "Pokomo",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.31587,
+  "longitude": 40.2897,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Narrow Bantu",
+      "id": "narr1281",
+      "url": "https://glottolog.org/resource/languoid/id/narr1281"
+    },
+    {
+      "name": "East Bantu",
+      "id": "east2731",
+      "url": "https://glottolog.org/resource/languoid/id/east2731"
+    },
+    {
+      "name": "Northeast Savanna Bantu",
+      "id": "nort3203",
+      "url": "https://glottolog.org/resource/languoid/id/nort3203"
+    },
+    {
+      "name": "Northeast Coastal Bantu",
+      "id": "nort3209",
+      "url": "https://glottolog.org/resource/languoid/id/nort3209"
+    },
+    {
+      "name": "Coastal NEC Bantu",
+      "id": "coas1317",
+      "url": "https://glottolog.org/resource/languoid/id/coas1317"
+    },
+    {
+      "name": "Mijikenda-Pokomo-Comorian",
+      "id": "miji1240",
+      "url": "https://glottolog.org/resource/languoid/id/miji1240"
+    }
+  ],
+  "iso639-3": "pkb"
+}

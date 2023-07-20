@@ -1,0 +1,114 @@
+{
+  "pk": 10931,
+  "hid": "odt",
+  "father_pk": 8016,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Old Dutch [oldd1238]':1,'Old Frankish [fran1264][frk]':1)'Old Dutch-Old Frankish [oldd1237][odt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "odt",
+      "comment_type": "missing",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "A large array of classical or old literary forms of languages have a timespan such that they are not intelligible to their more modern variants which have E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 entries. One of them is Old Dutch (**hh:s:QuakvanderHorst:Oudnederlands**)."
+    },
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q443089",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Old_Dutch",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "306651",
+        "grammar_sketch",
+        2002,
+        111,
+        "Arend Quak and J.M. van der Horst 2002"
+      ],
+      [
+        "570176",
+        "phonology_or_text",
+        1957,
+        61,
+        "Cowan, H.K.J. 1957"
+      ],
+      [
+        "549381",
+        "wordlist_or_less",
+        1900,
+        159,
+        "van Helten, W. 1900"
+      ],
+      [
+        "573409",
+        "wordlist_or_less",
+        1869,
+        96,
+        "Kern, H. 1869"
+      ]
+    ]
+  },
+  "id": "oldd1237",
+  "name": "Old Dutch-Old Frankish",
+  "description": null,
+  "markup_description": null,
+  "latitude": 52.16,
+  "longitude": 5.2,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Germanic",
+      "id": "germ1287",
+      "url": "https://glottolog.org/resource/languoid/id/germ1287"
+    },
+    {
+      "name": "Northwest Germanic",
+      "id": "nort3152",
+      "url": "https://glottolog.org/resource/languoid/id/nort3152"
+    },
+    {
+      "name": "West Germanic",
+      "id": "west2793",
+      "url": "https://glottolog.org/resource/languoid/id/west2793"
+    },
+    {
+      "name": "Macro-Dutch",
+      "id": "macr1270",
+      "url": "https://glottolog.org/resource/languoid/id/macr1270"
+    }
+  ],
+  "iso639-3": "odt"
+}

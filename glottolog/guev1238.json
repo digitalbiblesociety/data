@@ -1,0 +1,114 @@
+{
+  "pk": 21134,
+  "hid": "zpg",
+  "father_pk": 19243,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Guevea de Humboldt [guev1240]':1,'Santa María Guenagati [sant1463]':1)'Guevea De Humboldt Zapotec [guev1238][zpg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3127",
+        "label": "Transyautepecan Zapotec"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Guevea_Zapotec",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q13459953",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "36202",
+        "phonology_or_text",
+        1980,
+        42,
+        "Marks, Donna 1980"
+      ],
+      [
+        "309496",
+        "wordlist_or_less",
+        1979,
+        48,
+        "Instituto Lingüístico de Verano 1979"
+      ],
+      [
+        "308006",
+        "wordlist_or_less",
+        1977,
+        2,
+        "Instituto Lingüístico de Verano 1977"
+      ]
+    ]
+  },
+  "id": "guev1238",
+  "name": "Guevea De Humboldt Zapotec",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.7312,
+  "longitude": -95.3641,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Popoloca-Zapotecan",
+      "id": "popo1292",
+      "url": "https://glottolog.org/resource/languoid/id/popo1292"
+    },
+    {
+      "name": "Zapotecan",
+      "id": "zapo1436",
+      "url": "https://glottolog.org/resource/languoid/id/zapo1436"
+    },
+    {
+      "name": "Zapotec",
+      "id": "zapo1437",
+      "url": "https://glottolog.org/resource/languoid/id/zapo1437"
+    },
+    {
+      "name": "Core Zapotec",
+      "id": "nucl1765",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1765"
+    },
+    {
+      "name": "Narrow Core Zapotec",
+      "id": "core1259",
+      "url": "https://glottolog.org/resource/languoid/id/core1259"
+    },
+    {
+      "name": "Central Core Zapotec",
+      "id": "cent2146",
+      "url": "https://glottolog.org/resource/languoid/id/cent2146"
+    },
+    {
+      "name": "Transyautepecan",
+      "id": "tran1297",
+      "url": "https://glottolog.org/resource/languoid/id/tran1297"
+    },
+    {
+      "name": "Northeast Tehuantepec",
+      "id": "nort3369",
+      "url": "https://glottolog.org/resource/languoid/id/nort3369"
+    }
+  ],
+  "iso639-3": "zpg"
+}

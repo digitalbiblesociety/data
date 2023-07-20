@@ -1,0 +1,65 @@
+{
+  "pk": 3244,
+  "hid": "wre",
+  "father_pk": 1698,
+  "family_pk": 335,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Unattested",
+  "newick": "'Ware [ware1252][wre]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "wre",
+      "name": "Ware",
+      "change_request": "2007-024",
+      "effective": "2008-01-14",
+      "reason": "non-existent",
+      "change_to": [],
+      "remedy": null,
+      "comment": "Neither we, the SIL-UTB survey team, nor any other people we have spoken to have\nheard of the Ware people. Since no information is given in the current\nEthnologue entry as to the location of the Ware it is difficult to say\nconclusively that they do not exist, but the genetic classification of E.10\nsuggest that they would be located in the north of Tanzania.\n\nIn July 2005 and January/February 2006 the UTB survey team was in Mara Region,\nTanzania where many of the languages in the E.10 group to which Ware is said to\nbelong are located, and found no knowledge of the Ware. An SIL language team\nlocated in Arusha Region also failed to discover any knowledge of the Ware\namongst the people in their area.\n\nSince there seems to be no knowledge of the Ware in northern Tanzania now, we\nwould recommend retiring this language code element."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7969260",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ware_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "74876",
+        "wordlist_or_less",
+        1956,
+        1,
+        "Tucker, Archibald N. and Bryan, Margaret A. 1956"
+      ]
+    ]
+  },
+  "id": "ware1252",
+  "name": "Ware",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Unattested",
+      "id": "unat1236",
+      "url": "https://glottolog.org/resource/languoid/id/unat1236"
+    },
+    {
+      "name": "Atlantic-Congo (Unattested)",
+      "id": "atla1280",
+      "url": "https://glottolog.org/resource/languoid/id/atla1280"
+    }
+  ],
+  "iso639-3": "wre"
+}

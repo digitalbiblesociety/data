@@ -1,0 +1,99 @@
+{
+  "pk": 6057,
+  "hid": "wnm",
+  "father_pk": 4063,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Wanggamala [wang1289][wnm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/c9",
+        "label": "Wanggamala"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/3330",
+        "label": "Wanggamala"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Wanggamala_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/wang1289",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7967860",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "155169",
+        "grammar_sketch",
+        1971,
+        14,
+        "Barry J. Blake and Gavan J. Breen 1971"
+      ],
+      [
+        "3750",
+        "phonology_or_text",
+        1904,
+        6,
+        "Howitt, Alfred W. and Siebert, Otto 1904"
+      ],
+      [
+        "6046",
+        "phonology_or_text",
+        1902,
+        0,
+        "Howitt, Mary E. B. 1902"
+      ],
+      [
+        "117699",
+        "wordlist_or_less",
+        1897,
+        1,
+        "Walter Edmund Roth 1897"
+      ]
+    ]
+  },
+  "id": "wang1289",
+  "name": "Wanggamala",
+  "description": null,
+  "markup_description": null,
+  "latitude": -24.7022,
+  "longitude": 137.433,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Karnic",
+      "id": "karn1253",
+      "url": "https://glottolog.org/resource/languoid/id/karn1253"
+    },
+    {
+      "name": "Palku",
+      "id": "palk1239",
+      "url": "https://glottolog.org/resource/languoid/id/palk1239"
+    },
+    {
+      "name": "Pitta-Pitta",
+      "id": "pitt1246",
+      "url": "https://glottolog.org/resource/languoid/id/pitt1246"
+    }
+  ],
+  "iso639-3": "wnm"
+}

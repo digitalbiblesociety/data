@@ -1,0 +1,75 @@
+{
+  "pk": 4937,
+  "hid": "tji",
+  "father_pk": 3160,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Baojing Tujia [baoj1238]':1,'Longshan Tujia [long1377]':1)'Northern Tujia [nort2732][tji]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4225",
+        "label": "Northern Tujia"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12953229",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "142310",
+        "grammar",
+        2006,
+        218,
+        "Cecilia Brassett and Philip Brassett and Meiyan Lu 2006"
+      ],
+      [
+        "83579",
+        "grammar",
+        1986,
+        209,
+        "Tian, Desheng 1986"
+      ],
+      [
+        "553669",
+        "grammar_sketch",
+        1982,
+        14,
+        "Tian, Desheng 1982"
+      ]
+    ]
+  },
+  "id": "nort2732",
+  "name": "Northern Tujia",
+  "description": null,
+  "markup_description": null,
+  "latitude": 29.3016,
+  "longitude": 109.759,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Burmo-Qiangic",
+      "id": "burm1265",
+      "url": "https://glottolog.org/resource/languoid/id/burm1265"
+    },
+    {
+      "name": "Tujia",
+      "id": "tuji1244",
+      "url": "https://glottolog.org/resource/languoid/id/tuji1244"
+    }
+  ],
+  "iso639-3": "tji"
+}

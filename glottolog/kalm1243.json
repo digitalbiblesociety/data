@@ -1,0 +1,136 @@
+{
+  "pk": 10525,
+  "hid": "xal",
+  "father_pk": 7628,
+  "family_pk": 417,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Alasha Oirad [alas1256]':1,('Altai Torguud [alta1279]':1,'Altai Uriankhai [alta1280]':1,'Bayid [bayi1240]':1,'Dambi-Ööld [damb1251]':1,'Khoshuud [khos1234]':1,'Khoton [khot1255]':1,'Khowd Dörwöd [khow1243]':1,'Mingad [ming1257]':1,'Zakhchin [zakh1248]':1)'Altai Oirat [oira1262]':1,'Darkhat [dark1243][drh]':1,'Deed Mongol [deed1234]':1,'Jungarian Oirat [jung1241]':1,('Buzawa [buza1239]':1,'Dörböt [dorb1242]':1,('Orenburgian Torguud [oren1239]':1,'Uralian Torguud [ural1276]':1)'Torgut [torg1245]':1)'Kalmyk [kalm1244]':1,'Sart Qalmaq [sart1247]':1)'Oirad-Kalmyk-Darkhat [kalm1243][xal]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 21,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kiq",
+        "label": "Kalmyk (Issyk-Kul)"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/3260",
+        "label": "Kalmyk-Oirat"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_oir",
+        "label": "Oirat"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kalmyk_Oirat",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kalm1243",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33634",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "586004",
+        "long_grammar",
+        2009,
+        895,
+        "S. S. Saj and V. V. Baranova and N. V. Sedobol'skaya 2009"
+      ],
+      [
+        "550080",
+        "long_grammar",
+        1929,
+        432,
+        "Vl. L. Kotvič 1929"
+      ],
+      [
+        "14034",
+        "long_grammar",
+        1849,
+        412,
+        "Aleksej Bobrovnikov 1849"
+      ],
+      [
+        "551550",
+        "long_grammar",
+        1847,
+        409,
+        "Aleksandr Popov 1847"
+      ],
+      [
+        "320224",
+        "phonology_or_text",
+        1789,
+        17,
+        "von Bergmann, Gustav 1789"
+      ],
+      [
+        "13948",
+        "phonology_or_text",
+        1787,
+        3,
+        "Lorenzo Hervas 1787"
+      ],
+      [
+        "471018",
+        "wordlist_or_less",
+        1730,
+        205,
+        "Krueger, John R. 1975 [1730]"
+      ],
+      [
+        "320011",
+        "wordlist_or_less",
+        1692,
+        52,
+        "Witsen, Nicolaes 1705 [1692]"
+      ]
+    ]
+  },
+  "id": "kalm1243",
+  "name": "Oirad-Kalmyk-Darkhat",
+  "description": null,
+  "markup_description": null,
+  "latitude": 46.566667,
+  "longitude": 45.316667,
+  "classification": [
+    {
+      "name": "Mongolic-Khitan",
+      "id": "mong1349",
+      "url": "https://glottolog.org/resource/languoid/id/mong1349"
+    },
+    {
+      "name": "Mongolic",
+      "id": "mong1329",
+      "url": "https://glottolog.org/resource/languoid/id/mong1329"
+    },
+    {
+      "name": "Eastern Mongolic",
+      "id": "oira1260",
+      "url": "https://glottolog.org/resource/languoid/id/oira1260"
+    },
+    {
+      "name": "Khalkha-Buriat",
+      "id": "khal1273",
+      "url": "https://glottolog.org/resource/languoid/id/khal1273"
+    },
+    {
+      "name": "Mongolian",
+      "id": "mong1331",
+      "url": "https://glottolog.org/resource/languoid/id/mong1331"
+    }
+  ],
+  "iso639-3": "xal"
+}

@@ -1,0 +1,77 @@
+{
+  "pk": 6829,
+  "hid": "agy",
+  "father_pk": 4649,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Southern Alta [sout2905][agy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5465",
+        "label": "Kabulowan"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Southern_Alta_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7569611",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "585647",
+        "long_grammar",
+        2018,
+        578,
+        "Marvin Maximo Abreu 2018"
+      ],
+      [
+        "69069",
+        "wordlist_or_less",
+        1907,
+        2,
+        "G. A. Baer 1907"
+      ]
+    ]
+  },
+  "id": "sout2905",
+  "name": "Southern Alta",
+  "description": null,
+  "markup_description": null,
+  "latitude": 15.1841,
+  "longitude": 121.054,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Northern Luzon",
+      "id": "nort3238",
+      "url": "https://glottolog.org/resource/languoid/id/nort3238"
+    },
+    {
+      "name": "Meso-Cordilleran",
+      "id": "meso1254",
+      "url": "https://glottolog.org/resource/languoid/id/meso1254"
+    }
+  ],
+  "iso639-3": "agy"
+}

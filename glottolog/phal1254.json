@@ -1,0 +1,118 @@
+{
+  "pk": 20710,
+  "hid": "phl",
+  "father_pk": 18764,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ashreti [ashr1238]':1,('Biori [bior1234]':1,'Kalkatak [kalk1248]':1,'Purigal [puri1264]':1)'Northern Palula [nort2667]':1)'Palula [phal1254][phl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4965",
+        "label": "Phalura"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Palula_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/phal1254",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2449549",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "550365",
+        "long_grammar",
+        2016,
+        486,
+        "Henrik Liljegren 2016"
+      ],
+      [
+        "37797",
+        "long_grammar",
+        2008,
+        393,
+        "Henrik Liljegren 2008"
+      ],
+      [
+        "93835",
+        "grammar_sketch",
+        1941,
+        54,
+        "Georg Morgenstierne 1941"
+      ]
+    ]
+  },
+  "id": "phal1254",
+  "name": "Palula",
+  "description": null,
+  "markup_description": null,
+  "latitude": 35.5096,
+  "longitude": 71.8421,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Indo-Aryan",
+      "id": "indo1321",
+      "url": "https://glottolog.org/resource/languoid/id/indo1321"
+    },
+    {
+      "name": "Middle-Modern Indo-Aryan",
+      "id": "midd1375",
+      "url": "https://glottolog.org/resource/languoid/id/midd1375"
+    },
+    {
+      "name": "Eastern Dardic",
+      "id": "dard1244",
+      "url": "https://glottolog.org/resource/languoid/id/dard1244"
+    },
+    {
+      "name": "Nuclear Eastern Dardic",
+      "id": "nucl1819",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1819"
+    },
+    {
+      "name": "Shinaic",
+      "id": "shin1270",
+      "url": "https://glottolog.org/resource/languoid/id/shin1270"
+    },
+    {
+      "name": "Western Shinaic",
+      "id": "west2860",
+      "url": "https://glottolog.org/resource/languoid/id/west2860"
+    },
+    {
+      "name": "Dangari",
+      "id": "palu1255",
+      "url": "https://glottolog.org/resource/languoid/id/palu1255"
+    }
+  ],
+  "iso639-3": "phl"
+}

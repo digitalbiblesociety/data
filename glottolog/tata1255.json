@@ -1,0 +1,117 @@
+{
+  "pk": 5430,
+  "hid": "tat",
+  "father_pk": 3559,
+  "family_pk": 14,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Baraba Tatar [bara1408]':1,('Astrakhan Tatar [astr1246]':1,'Kasimov [kasi1251]':1,'Kazan Tatar [kaza1250]':1)'Central Tatar [midd1325]':1,'Tepter Tatar [tept1239]':1,'Tobol-Irtysh Tatar [tobo1253]':1,'Tomsk Tatar [toms1234]':1,'Ural Tatar [ural1273]':1,'West Tatar [west2405]':1)'Tatar [tata1255][tat]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 10,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tvo",
+        "label": "Tatar"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ttb",
+        "label": "Tatar (Baraba)"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tmi",
+        "label": "Tatar (Mishar)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tatar_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/tata1255",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q25285",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "100783",
+        "long_grammar",
+        1994,
+        978,
+        "Zakiev, Mirfatch Zakievic and Asrafovic, Ganiev Fuat and Zinnatullina, Klara Zijaevna 1994, 1993, 1992"
+      ],
+      [
+        "304404",
+        "long_grammar",
+        1969,
+        379,
+        "N. B. Burganova and M. S. Sakiev and X. R. Kurbatov and X. R. Kurbatov 1969, 1971"
+      ],
+      [
+        "314496",
+        "grammar",
+        1968,
+        282,
+        "Poppe, Nicholas 1968"
+      ],
+      [
+        "108215",
+        "grammar",
+        1963,
+        282,
+        "Poppe, Nicholas 1963"
+      ],
+      [
+        "404079",
+        "grammar_sketch",
+        1814,
+        223,
+        "Trojanskij, Aleksandr 1814"
+      ],
+      [
+        "309459",
+        "wordlist_or_less",
+        1786,
+        20,
+        "Pallas, Peter Simon 1786, 1789"
+      ]
+    ]
+  },
+  "id": "tata1255",
+  "name": "Tatar",
+  "description": null,
+  "markup_description": null,
+  "latitude": 55.79592,
+  "longitude": 49.11577,
+  "classification": [
+    {
+      "name": "Turkic",
+      "id": "turk1311",
+      "url": "https://glottolog.org/resource/languoid/id/turk1311"
+    },
+    {
+      "name": "Common Turkic",
+      "id": "comm1245",
+      "url": "https://glottolog.org/resource/languoid/id/comm1245"
+    },
+    {
+      "name": "Kipchak",
+      "id": "kipc1239",
+      "url": "https://glottolog.org/resource/languoid/id/kipc1239"
+    },
+    {
+      "name": "North Kipchak",
+      "id": "nort2696",
+      "url": "https://glottolog.org/resource/languoid/id/nort2696"
+    }
+  ],
+  "iso639-3": "tat"
+}

@@ -1,0 +1,87 @@
+{
+  "pk": 5258,
+  "hid": "pci",
+  "father_pk": 3427,
+  "family_pk": 404,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dharba [dhar1246]':1,'Kukanar [kuka1245]':1,'Nethanar [neth1239]':1,'Tiriya [tiri1256]':1)'Duruwa [duru1236][pci]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4952",
+        "label": "Duruwa"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56753",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Duruwa_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/duru1236",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_prd",
+        "label": "Parji (Dravidian)"
+      }
+    ],
+    "meds": [
+      [
+        "60438",
+        "grammar",
+        1953,
+        209,
+        "Thomas Burrow and Sudhibhushan Bhattacharya 1953"
+      ],
+      [
+        "21341",
+        "wordlist_or_less",
+        1866,
+        16,
+        "Stephen Hislop 1866"
+      ],
+      [
+        "52313",
+        "wordlist_or_less",
+        1863,
+        4,
+        "C. L. R. Glasfurd 1863"
+      ]
+    ]
+  },
+  "id": "duru1236",
+  "name": "Duruwa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 19.0534,
+  "longitude": 82.4881,
+  "classification": [
+    {
+      "name": "Dravidian",
+      "id": "drav1251",
+      "url": "https://glottolog.org/resource/languoid/id/drav1251"
+    },
+    {
+      "name": "Central Dravidian",
+      "id": "cent2227",
+      "url": "https://glottolog.org/resource/languoid/id/cent2227"
+    },
+    {
+      "name": "Parji-Ollari-Gadaba",
+      "id": "parj1243",
+      "url": "https://glottolog.org/resource/languoid/id/parj1243"
+    }
+  ],
+  "iso639-3": "pci"
+}

@@ -1,0 +1,80 @@
+{
+  "pk": 11856,
+  "hid": "opk",
+  "father_pk": 9047,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Marub [maru1250]':1,'Tokuni [toku1244]':1)'Kopkaka [kopk1238][opk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10686",
+        "label": "Kopkaka"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6431129",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kopka_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "71719",
+        "phonology_or_text",
+        2004,
+        219,
+        "Wilbrink, Ans 2004"
+      ]
+    ]
+  },
+  "id": "kopk1238",
+  "name": "Kopkaka",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.91191,
+  "longitude": 139.926,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Asmat-Awyu-Ok",
+      "id": "cent2116",
+      "url": "https://glottolog.org/resource/languoid/id/cent2116"
+    },
+    {
+      "name": "Awyu-Ok",
+      "id": "awyu1265",
+      "url": "https://glottolog.org/resource/languoid/id/awyu1265"
+    },
+    {
+      "name": "Ok-Oksapmin",
+      "id": "okok1235",
+      "url": "https://glottolog.org/resource/languoid/id/okok1235"
+    },
+    {
+      "name": "Ok",
+      "id": "okkk1242",
+      "url": "https://glottolog.org/resource/languoid/id/okkk1242"
+    },
+    {
+      "name": "Kwer-Kopkaka-Burumakok",
+      "id": "kwer1266",
+      "url": "https://glottolog.org/resource/languoid/id/kwer1266"
+    }
+  ],
+  "iso639-3": "opk"
+}

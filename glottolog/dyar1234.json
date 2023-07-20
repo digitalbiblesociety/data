@@ -1,0 +1,100 @@
+{
+  "pk": 16830,
+  "hid": "dyr",
+  "father_pk": 14255,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Dyarim [dyar1234][dyr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10450",
+        "label": "Dyarim"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q52395140",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "32741",
+        "wordlist_or_less",
+        2007,
+        19,
+        "Blench, Roger 2007"
+      ],
+      [
+        "32743",
+        "wordlist_or_less",
+        2005,
+        0,
+        "Blench, Roger 2005"
+      ],
+      [
+        "31172",
+        "wordlist_or_less",
+        1985,
+        2,
+        "Wente-Lukas, Renate 1985"
+      ]
+    ]
+  },
+  "id": "dyar1234",
+  "name": "Dyarim",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.03,
+  "longitude": 9.065,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "West Chadic",
+      "id": "west2785",
+      "url": "https://glottolog.org/resource/languoid/id/west2785"
+    },
+    {
+      "name": "West Chadic B",
+      "id": "west2790",
+      "url": "https://glottolog.org/resource/languoid/id/west2790"
+    },
+    {
+      "name": "West Chadic B.3",
+      "id": "west2800",
+      "url": "https://glottolog.org/resource/languoid/id/west2800"
+    },
+    {
+      "name": "South Bauchi West",
+      "id": "sout3162",
+      "url": "https://glottolog.org/resource/languoid/id/sout3162"
+    },
+    {
+      "name": "Southwest South Bauchi",
+      "id": "sout3170",
+      "url": "https://glottolog.org/resource/languoid/id/sout3170"
+    },
+    {
+      "name": "Zakse-Saya",
+      "id": "zaks1240",
+      "url": "https://glottolog.org/resource/languoid/id/zaks1240"
+    }
+  ],
+  "iso639-3": "dyr"
+}

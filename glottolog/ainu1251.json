@@ -1,0 +1,112 @@
+{
+  "pk": 10773,
+  "hid": "aib",
+  "father_pk": 7827,
+  "family_pk": 14,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ainu {China} [ainu1251][aib]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3691",
+        "label": "Ainu (China)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q27927",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/%C3%84ynu_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ayn",
+        "label": "Aynu"
+      }
+    ],
+    "meds": [
+      [
+        "657495",
+        "grammar",
+        2011,
+        5,
+        "Zhao, Xiangru and Aximu, {} 2011"
+      ],
+      [
+        "125549",
+        "grammar_sketch",
+        1994,
+        106,
+        "Otto Ladstätter and Andreas Tietze 1994"
+      ],
+      [
+        "314412",
+        "grammar_sketch",
+        1982,
+        21,
+        "Zhao, Xiangru and Haxim, {} 1982"
+      ],
+      [
+        "552800",
+        "wordlist_or_less",
+        1912,
+        14,
+        "Albert von Le Coq 1912"
+      ],
+      [
+        "666389",
+        "wordlist_or_less",
+        1907,
+        13,
+        "Pierre Pelliot 1907"
+      ]
+    ]
+  },
+  "id": "ainu1251",
+  "name": "Ainu (China)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 39.2714,
+  "longitude": 76.4209,
+  "classification": [
+    {
+      "name": "Turkic",
+      "id": "turk1311",
+      "url": "https://glottolog.org/resource/languoid/id/turk1311"
+    },
+    {
+      "name": "Common Turkic",
+      "id": "comm1245",
+      "url": "https://glottolog.org/resource/languoid/id/comm1245"
+    },
+    {
+      "name": "Central Siberian Turkic",
+      "id": "cent2326",
+      "url": "https://glottolog.org/resource/languoid/id/cent2326"
+    },
+    {
+      "name": "South Siberian Turkic",
+      "id": "sout2693",
+      "url": "https://glottolog.org/resource/languoid/id/sout2693"
+    },
+    {
+      "name": "Yenisei-East Siberian Turkic",
+      "id": "yeni1256",
+      "url": "https://glottolog.org/resource/languoid/id/yeni1256"
+    },
+    {
+      "name": "East Siberian Turkic",
+      "id": "east2792",
+      "url": "https://glottolog.org/resource/languoid/id/east2792"
+    }
+  ],
+  "iso639-3": "aib"
+}

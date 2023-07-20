@@ -1,0 +1,71 @@
+{
+  "pk": 4242,
+  "hid": null,
+  "father_pk": 2434,
+  "family_pk": 179,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "('Gudanji [guda1243]':1,'Wambaya [nucl1328]':1)'Wambaya-Gudanji [guda1242]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/c26",
+        "label": "Gudanji"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ngarnji_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3915692",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "8559",
+        "wordlist_or_less",
+        1990,
+        9,
+        "Barry J. Blake 1990"
+      ],
+      [
+        "115428",
+        "wordlist_or_less",
+        1904,
+        819,
+        "Baldwin Spencer and F. J. Gillen 1904"
+      ]
+    ]
+  },
+  "id": "guda1242",
+  "name": "Wambaya-Gudanji",
+  "description": null,
+  "markup_description": null,
+  "latitude": -17.42,
+  "longitude": 134.73,
+  "classification": [
+    {
+      "name": "Mirndi",
+      "id": "mirn1241",
+      "url": "https://glottolog.org/resource/languoid/id/mirn1241"
+    },
+    {
+      "name": "Ngurlun",
+      "id": "guda1245",
+      "url": "https://glottolog.org/resource/languoid/id/guda1245"
+    },
+    {
+      "name": "Wambayan",
+      "id": "wamb1258",
+      "url": "https://glottolog.org/resource/languoid/id/wamb1258"
+    }
+  ]
+}

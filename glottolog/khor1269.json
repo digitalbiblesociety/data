@@ -1,0 +1,93 @@
+{
+  "pk": 7815,
+  "hid": "kmz",
+  "father_pk": 5409,
+  "family_pk": 14,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Langar [lang1340]':1,'North Khorasan Turkic [nort2689]':1,'Northeast Khorasa Turkic [nort3352]':1,'Northwest Khorasan Turkic [west2403]':1,'South Khorasan Turkic [sout2698]':1,'Southeast Khorasan Turkic [sout3335]':1,'West Quchani [west2950]':1)'Khorasan Turkic [khor1269][kmz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tex",
+        "label": "Turkic (East-Central Xorasan)"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_twx",
+        "label": "Turkic (West Xorasan)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Khorasani_Turkic",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35373",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "30726",
+        "long_grammar",
+        1993,
+        694,
+        "Doerfer, Gerhard and Hesche, Wolfram 1993"
+      ],
+      [
+        "314530",
+        "long_grammar",
+        1989,
+        372,
+        "Sultan Tulu 1989"
+      ],
+      [
+        "314528",
+        "grammar_sketch",
+        1975,
+        319,
+        "Fuat Bozkurt 1975"
+      ]
+    ]
+  },
+  "id": "khor1269",
+  "name": "Khorasan Turkic",
+  "description": null,
+  "markup_description": null,
+  "latitude": 36.4438,
+  "longitude": 60.0277,
+  "classification": [
+    {
+      "name": "Turkic",
+      "id": "turk1311",
+      "url": "https://glottolog.org/resource/languoid/id/turk1311"
+    },
+    {
+      "name": "Common Turkic",
+      "id": "comm1245",
+      "url": "https://glottolog.org/resource/languoid/id/comm1245"
+    },
+    {
+      "name": "Oghuz",
+      "id": "oghu1243",
+      "url": "https://glottolog.org/resource/languoid/id/oghu1243"
+    },
+    {
+      "name": "Nuclear Oghuz",
+      "id": "nucl1769",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1769"
+    },
+    {
+      "name": "East Oghuz",
+      "id": "east2334",
+      "url": "https://glottolog.org/resource/languoid/id/east2334"
+    }
+  ],
+  "iso639-3": "kmz"
+}

@@ -1,0 +1,77 @@
+{
+  "pk": 6115,
+  "hid": "ntp",
+  "father_pk": 4107,
+  "family_pk": 155,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Northern Tepehuan [nort2959][ntp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10845",
+        "label": "Northern Tepehuán"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tpn",
+        "label": "Tepehuan (Northern)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q15615651",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "72994",
+        "grammar",
+        1982,
+        127,
+        "Bascom, Burton 1982"
+      ],
+      [
+        "306736",
+        "grammar_sketch",
+        1743,
+        149,
+        "Rinaldini, Benito 1743"
+      ]
+    ]
+  },
+  "id": "nort2959",
+  "name": "Northern Tepehuan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 26.4348,
+  "longitude": -107.379,
+  "classification": [
+    {
+      "name": "Uto-Aztecan",
+      "id": "utoa1244",
+      "url": "https://glottolog.org/resource/languoid/id/utoa1244"
+    },
+    {
+      "name": "Southern Uto-Aztecan",
+      "id": "sout3136",
+      "url": "https://glottolog.org/resource/languoid/id/sout3136"
+    },
+    {
+      "name": "Tepiman",
+      "id": "tepi1240",
+      "url": "https://glottolog.org/resource/languoid/id/tepi1240"
+    },
+    {
+      "name": "Tepehuan",
+      "id": "tepe1281",
+      "url": "https://glottolog.org/resource/languoid/id/tepe1281"
+    }
+  ],
+  "iso639-3": "ntp"
+}

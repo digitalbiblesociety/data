@@ -1,0 +1,85 @@
+{
+  "pk": 9816,
+  "hid": "fuq",
+  "father_pk": 7117,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Leetugal Niger Fulfulde [leet1234]':1,'Wodaabe [woda1240]':1)'Central-Eastern Niger Fulfulde [cent2018][fuq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12628799",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/cent2018",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "104336",
+        "grammar_sketch",
+        1997,
+        96,
+        "Baumbach, Jean Marie 1997"
+      ],
+      [
+        "127403",
+        "phonology_or_text",
+        1986,
+        353,
+        "Eguchi, Paul Kazuhisa 1986"
+      ],
+      [
+        "13843",
+        "phonology_or_text",
+        1971,
+        42,
+        "Sow, Alfâ Ibrâhîm 1971"
+      ]
+    ]
+  },
+  "id": "cent2018",
+  "name": "Central-Eastern Niger Fulfulde",
+  "description": null,
+  "markup_description": null,
+  "latitude": 15.0907,
+  "longitude": 8.43261,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "North-Central Atlantic",
+      "id": "nort3146",
+      "url": "https://glottolog.org/resource/languoid/id/nort3146"
+    },
+    {
+      "name": "Fula-Sereer",
+      "id": "peul1234",
+      "url": "https://glottolog.org/resource/languoid/id/peul1234"
+    },
+    {
+      "name": "Fula",
+      "id": "fula1264",
+      "url": "https://glottolog.org/resource/languoid/id/fula1264"
+    },
+    {
+      "name": "Eastern Fula",
+      "id": "fula1265",
+      "url": "https://glottolog.org/resource/languoid/id/fula1265"
+    }
+  ],
+  "iso639-3": "fuq"
+}

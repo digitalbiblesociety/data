@@ -1,0 +1,110 @@
+{
+  "pk": 21952,
+  "hid": "lon",
+  "father_pk": 20202,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Malawi Lomwe [mala1256][lon]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q10975286",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Malawi_Lomwe_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "17920",
+        "grammar_sketch",
+        2006,
+        106,
+        "Kaunjika, David Jones 2006"
+      ],
+      [
+        "302302",
+        "wordlist_or_less",
+        1950,
+        10,
+        "Mary Tew 1950"
+      ],
+      [
+        "42450",
+        "wordlist_or_less",
+        1902,
+        2,
+        "Moggridge, L.T. 1902"
+      ]
+    ]
+  },
+  "id": "mala1256",
+  "name": "Malawi Lomwe",
+  "description": null,
+  "markup_description": null,
+  "latitude": -15.56729,
+  "longitude": 35.43347,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Narrow Bantu",
+      "id": "narr1281",
+      "url": "https://glottolog.org/resource/languoid/id/narr1281"
+    },
+    {
+      "name": "East Bantu",
+      "id": "east2731",
+      "url": "https://glottolog.org/resource/languoid/id/east2731"
+    },
+    {
+      "name": "North Mozambique Bantu",
+      "id": "maku1247",
+      "url": "https://glottolog.org/resource/languoid/id/maku1247"
+    },
+    {
+      "name": "Makua-Lomwe",
+      "id": "maku1279",
+      "url": "https://glottolog.org/resource/languoid/id/maku1279"
+    },
+    {
+      "name": "Lomweic",
+      "id": "lomw1242",
+      "url": "https://glottolog.org/resource/languoid/id/lomw1242"
+    }
+  ],
+  "iso639-3": "lon"
+}

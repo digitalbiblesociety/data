@@ -1,0 +1,109 @@
+{
+  "pk": 6323,
+  "hid": "oma",
+  "father_pk": 4275,
+  "family_pk": 201,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Omaha [omah1248]':1,'Ponca [ponc1241]':1)'Omaha-Ponca [omah1247][oma]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_omh",
+        "label": "Omaha"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/1920",
+        "label": "Omaha-Ponca"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Omaha%E2%80%93Ponca_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2917968",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "585929",
+        "long_grammar",
+        2018,
+        707,
+        "Mark Awakuni-Swetland and Alberta Grant Canby and Emmaline Walker Sanchez and Rory Larson and Arlene Walker and Delores Black and Aubrey Streit Krug and Loren H. Frerichs 2018"
+      ],
+      [
+        "140531",
+        "grammar_sketch",
+        2005,
+        128,
+        "Eschenberg, Ardis 2005"
+      ],
+      [
+        "95229",
+        "grammar_sketch",
+        1907,
+        21,
+        "Franz Boas 1907"
+      ],
+      [
+        "138219",
+        "grammar_sketch",
+        1868,
+        11,
+        "F. V. Hayden 1868"
+      ],
+      [
+        "14992",
+        "wordlist_or_less",
+        1862,
+        13,
+        "F. V. Hayden 1862"
+      ],
+      [
+        "27878",
+        "wordlist_or_less",
+        1836,
+        4,
+        "Albert Gallatin 1836"
+      ]
+    ]
+  },
+  "id": "omah1247",
+  "name": "Omaha-Ponca",
+  "description": null,
+  "markup_description": null,
+  "latitude": 42.0944,
+  "longitude": -96.5295,
+  "classification": [
+    {
+      "name": "Siouan",
+      "id": "siou1252",
+      "url": "https://glottolog.org/resource/languoid/id/siou1252"
+    },
+    {
+      "name": "Core Siouan",
+      "id": "core1249",
+      "url": "https://glottolog.org/resource/languoid/id/core1249"
+    },
+    {
+      "name": "Mississippi Valley",
+      "id": "miss1254",
+      "url": "https://glottolog.org/resource/languoid/id/miss1254"
+    },
+    {
+      "name": "Dhegiha",
+      "id": "dheg1241",
+      "url": "https://glottolog.org/resource/languoid/id/dheg1241"
+    }
+  ],
+  "iso639-3": "oma"
+}

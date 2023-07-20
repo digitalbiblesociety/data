@@ -1,0 +1,81 @@
+{
+  "pk": 16033,
+  "hid": "emg",
+  "father_pk": 13233,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dibum [dibu1238]':1,'Mulgaon-Wangtang [mulg1243]':1,'Sunsari [suns1242]':1)'Eastern Meohang [east2357][emg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4127",
+        "label": "Eastern Meohang"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12952840",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "144602",
+        "grammar_sketch",
+        2009,
+        10,
+        "Ram Kisun Uranw and Dev Narayan Yadav 2009"
+      ]
+    ]
+  },
+  "id": "east2357",
+  "name": "Eastern Meohang",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.5103,
+  "longitude": 87.1134,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Himalayish",
+      "id": "hima1249",
+      "url": "https://glottolog.org/resource/languoid/id/hima1249"
+    },
+    {
+      "name": "Mahakiranti",
+      "id": "maha1306",
+      "url": "https://glottolog.org/resource/languoid/id/maha1306"
+    },
+    {
+      "name": "Kiranti",
+      "id": "kira1253",
+      "url": "https://glottolog.org/resource/languoid/id/kira1253"
+    },
+    {
+      "name": "Eastern Kiranti",
+      "id": "east2719",
+      "url": "https://glottolog.org/resource/languoid/id/east2719"
+    },
+    {
+      "name": "Upper Arun",
+      "id": "uppe1412",
+      "url": "https://glottolog.org/resource/languoid/id/uppe1412"
+    },
+    {
+      "name": "Mewahang",
+      "id": "mewa1252",
+      "url": "https://glottolog.org/resource/languoid/id/mewa1252"
+    }
+  ],
+  "iso639-3": "emg"
+}

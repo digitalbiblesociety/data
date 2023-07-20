@@ -1,0 +1,110 @@
+{
+  "pk": 17780,
+  "hid": "xmv",
+  "father_pk": 15335,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kibushi-Kimaore [kibu1236]':1,'Mainland Antankarana [main1284]':1)'Antankarana Malagasy [anta1255][xmv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q2167573",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "112316",
+        "long_grammar",
+        1982,
+        376,
+        "Thomas-Fattier, Dominique 1982"
+      ],
+      [
+        "16597",
+        "long_grammar",
+        1976,
+        304,
+        "Bare-Thomas, Dominique 1976"
+      ],
+      [
+        "660126",
+        "phonology_or_text",
+        1922,
+        66,
+        "André Dandouau 1922-1923"
+      ],
+      [
+        "121061",
+        "wordlist_or_less",
+        1901,
+        7,
+        "Jully, Antony 1901"
+      ],
+      [
+        "65616",
+        "wordlist_or_less",
+        1897,
+        1,
+        "John Sibree 1897-1898"
+      ]
+    ]
+  },
+  "id": "anta1255",
+  "name": "Antankarana Malagasy",
+  "description": null,
+  "markup_description": null,
+  "latitude": -13.2164,
+  "longitude": 49.2402,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Basap-Greater Barito",
+      "id": "basa1291",
+      "url": "https://glottolog.org/resource/languoid/id/basa1291"
+    },
+    {
+      "name": "Greater Barito linkage",
+      "id": "grea1283",
+      "url": "https://glottolog.org/resource/languoid/id/grea1283"
+    },
+    {
+      "name": "Southeast Barito",
+      "id": "sout2919",
+      "url": "https://glottolog.org/resource/languoid/id/sout2919"
+    },
+    {
+      "name": "Malagasic",
+      "id": "mala1537",
+      "url": "https://glottolog.org/resource/languoid/id/mala1537"
+    },
+    {
+      "name": "North-Central Malagasic",
+      "id": "nort3196",
+      "url": "https://glottolog.org/resource/languoid/id/nort3196"
+    },
+    {
+      "name": "Northern Malagasic",
+      "id": "nort3207",
+      "url": "https://glottolog.org/resource/languoid/id/nort3207"
+    }
+  ],
+  "iso639-3": "xmv"
+}

@@ -1,0 +1,73 @@
+{
+  "pk": 1578,
+  "hid": "srl",
+  "father_pk": 309,
+  "family_pk": 309,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Eastern Isirawa [east1857]':1,'Western Isirawa [west1399]':1)'Isirawa [isir1237][srl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1806",
+        "label": "Isirawa"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_isi",
+        "label": "Isirawa"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Isirawa_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q4203802",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "660952",
+        "grammar_sketch",
+        1975,
+        81,
+        "Erickson, Carol and Oguri, Hiroko 1975, 1976, 1981"
+      ],
+      [
+        "17111",
+        "wordlist_or_less",
+        1955,
+        1,
+        "Galis, Klaas Wilhelm 1955"
+      ],
+      [
+        "29762",
+        "wordlist_or_less",
+        1954,
+        1,
+        "van der Leeden, Alexander Cornelis 1954"
+      ]
+    ]
+  },
+  "id": "isir1237",
+  "name": "Isirawa",
+  "description": null,
+  "markup_description": null,
+  "latitude": -1.88775,
+  "longitude": 138.595,
+  "classification": [
+    {
+      "name": "Greater Kwerba",
+      "id": "kwer1242",
+      "url": "https://glottolog.org/resource/languoid/id/kwer1242"
+    }
+  ],
+  "iso639-3": "srl"
+}

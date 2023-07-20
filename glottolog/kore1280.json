@@ -1,0 +1,94 @@
+{
+  "pk": 1216,
+  "hid": "kor",
+  "father_pk": 218,
+  "family_pk": 218,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Jollado [chol1278]':1,'Kyongsangdo [kyon1247]':1)'Cholla-Kyongsang [chol1288]':1,('Ch''ungch''ongdo [chun1247]':1,'Hwanghaedo [hwan1238]':1)'Chungchong-Central Korean [chun1248]':1,('Hamgyongdo [hamg1238]':1,'P''yong''ando [pyon1239]':1)'Hamgyong-Pyongan [hamg1239]':1,('Early Middle Korean [earl1249]':1,'Late Middle Korean [late1258]':1)'Middle Korean [midd1372]':1,'Seoul [seou1239]':1)'Korean [kore1280][kor]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 13,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kor",
+        "label": "Korean"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Korean_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kore1280",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q9176",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "64137",
+        "long_grammar",
+        1992,
+        1042,
+        "Samuel E. Martin 1992"
+      ],
+      [
+        "148774",
+        "grammar",
+        1991,
+        294,
+        "O'Grady, William 1991"
+      ],
+      [
+        "556453",
+        "grammar",
+        1954,
+        265,
+        "Lukoff, Fred 1954"
+      ],
+      [
+        "41361",
+        "grammar",
+        1951,
+        230,
+        "Gustaf J. Ramstedt 1951"
+      ],
+      [
+        "44182",
+        "grammar",
+        1939,
+        230,
+        "Gustaf J. Ramstedt 1939"
+      ],
+      [
+        "320011",
+        "wordlist_or_less",
+        1692,
+        52,
+        "Witsen, Nicolaes 1705 [1692]"
+      ]
+    ]
+  },
+  "id": "kore1280",
+  "name": "Korean",
+  "description": null,
+  "markup_description": null,
+  "latitude": 37.54,
+  "longitude": 126.98,
+  "classification": [
+    {
+      "name": "Koreanic",
+      "id": "kore1284",
+      "url": "https://glottolog.org/resource/languoid/id/kore1284"
+    }
+  ],
+  "iso639-3": "kor"
+}

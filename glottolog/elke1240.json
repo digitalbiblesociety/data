@@ -1,0 +1,80 @@
+{
+  "pk": 11063,
+  "hid": "elk",
+  "father_pk": 8157,
+  "family_pk": 103,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Elkei [elke1240][elk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10541",
+        "label": "Elkei"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5364210",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Elkei_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "138610",
+        "wordlist_or_less",
+        1968,
+        1,
+        "Donald C. Laycock 1968"
+      ]
+    ]
+  },
+  "id": "elke1240",
+  "name": "Elkei",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.45544,
+  "longitude": 142.093,
+  "classification": [
+    {
+      "name": "Nuclear Torricelli",
+      "id": "nucl1708",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1708"
+    },
+    {
+      "name": "Wapei-Palei",
+      "id": "wape1249",
+      "url": "https://glottolog.org/resource/languoid/id/wape1249"
+    },
+    {
+      "name": "Central Torricelli",
+      "id": "cent2407",
+      "url": "https://glottolog.org/resource/languoid/id/cent2407"
+    },
+    {
+      "name": "Wapeic",
+      "id": "wape1250",
+      "url": "https://glottolog.org/resource/languoid/id/wape1250"
+    },
+    {
+      "name": "Au-Olo-Elkei",
+      "id": "auol1234",
+      "url": "https://glottolog.org/resource/languoid/id/auol1234"
+    },
+    {
+      "name": "Olo-Elkei",
+      "id": "oloe1234",
+      "url": "https://glottolog.org/resource/languoid/id/oloe1234"
+    }
+  ],
+  "iso639-3": "elk"
+}

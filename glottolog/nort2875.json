@@ -1,0 +1,84 @@
+{
+  "pk": 6828,
+  "hid": "aqn",
+  "father_pk": 4649,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Northern Alta [nort2875][aqn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2833",
+        "label": "Northern Alta"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7058116",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Northern_Alta_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "588143",
+        "long_grammar",
+        2019,
+        472,
+        "Laguía, Alexandro-Xavier Garcia 2019"
+      ],
+      [
+        "665375",
+        "wordlist_or_less",
+        1893,
+        6,
+        "Meyer, Adolf Bernhard 1893"
+      ],
+      [
+        "311231",
+        "wordlist_or_less",
+        1884,
+        3,
+        "Ferdinand Blumentritt 1884"
+      ]
+    ]
+  },
+  "id": "nort2875",
+  "name": "Northern Alta",
+  "description": null,
+  "markup_description": null,
+  "latitude": 15.6913,
+  "longitude": 121.454,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Northern Luzon",
+      "id": "nort3238",
+      "url": "https://glottolog.org/resource/languoid/id/nort3238"
+    },
+    {
+      "name": "Meso-Cordilleran",
+      "id": "meso1254",
+      "url": "https://glottolog.org/resource/languoid/id/meso1254"
+    }
+  ],
+  "iso639-3": "aqn"
+}

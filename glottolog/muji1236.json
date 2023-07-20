@@ -1,0 +1,62 @@
+{
+  "pk": 834,
+  "hid": "ymj",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Muji Yi [muji1236][ymj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "ymj",
+      "name": "Muji Yi",
+      "change_request": "2007-120",
+      "effective": "2008-01-14",
+      "reason": "split",
+      "change_to": [
+        "ymc",
+        "ymi",
+        "ymq",
+        "ymx",
+        "ymz"
+      ],
+      "remedy": "Split into five languages: Muji, Southern [ymc], Mojii [ymi], Qila Muji [ymq], Northern Muji [ymx], and Muzi [ymz]",
+      "comment": "This split is proposed based on findings from formal linguistic survey work on\nthe Phula languages of Yunnan Province, China, carried out from 2005-2006. Eight\nof the 40 villages visited during this research period were closely affiliated\nethnolinguistically with ISO code [ymj]. Research components explored lexicon,\nidentity, contact and intelligibility, and the results point to five\nsynchronically distinct languages originally subsumed under [ymj]. Communication\nand transportation have traditionally been limited between these varieties,\nthough they are all closely related phylogenetically. The most vital and\nprototypical Muji variety, Southern Muji, also has the largest number of\nspeakers. Rationale for identifying the other four languages as distinct from\n[ymj] is given below.\n\n[ymx] or Northern Muji speakers yeilded a mean score of .60 on a recorded text\ntest from [ymc] with a high standard deviation of 24 suggesting that a mobile\ndemographic has learned intelligibility with [ymj]. Anecdotal and perceptual\ninformation from [ymx] and [ymc] speakers alike confirms a distinction between\nthe two, and speakers report significant learning time (longer than two months)\nbeing required in order to communicate in their respective Muji lects. A similar\nsituation is reported between [ymx] and [ymz].\n\nThe smaller [ymi] and [ymq] (Moji and Qila Muji) varieties have apparently been\nseparated from Muji proper for centuries and evidence numerous unique lexical\nand phonological characteristics as a result of independent change and language\ncontact with other varieties. Lexical similarity in core vocabulary between\nthese two and the other Muji varieties is lower than 60%--sufficiently low to\nposit the presence of mutually unintelligible synchronic languages without\nresorting to formal intelligibility testing. Although [ymq] shares a\n\nmarginal 60% core lexical similarity with [ymc], a [ymc] recorded text test\nplayed for [ymq] speakers yeilded a mean score of only .38 with a low standard\ndeviation.\n\n[ymz] or Muzi speakers also scored low on the [ymc] recorded text test (.50) ,\nand [ymx] speakers report that a bride who married out from their area to a\n[ymz] village required six months to one year before she was able to function in\nthe [ymz] variety."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q25559432",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500232",
+        "wordlist_or_less",
+        2007,
+        0,
+        "ISO 639-3 Registration Authority 2007"
+      ]
+    ]
+  },
+  "id": "muji1236",
+  "name": "Muji Yi",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "ymj"
+}

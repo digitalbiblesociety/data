@@ -1,0 +1,95 @@
+{
+  "pk": 13603,
+  "hid": "drh",
+  "father_pk": 10525,
+  "family_pk": 417,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "'Darkhat [dark1243][drh]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "drh",
+      "name": "Darkhat",
+      "change_request": "2009-020",
+      "effective": "2010-01-18",
+      "reason": "merge",
+      "change_to": [
+        "khk"
+      ],
+      "remedy": "Merge with Halh Mongolian [khk]",
+      "comment": "Darkhat is in reality a dialect or regional accent variation of Mongolian Halh\n(Darkhad or Darhad is often used for transcription of its standard form in Halh;\nDarkhat is the preferred older, traditional orthography.) When Darkhad speakers\nconverse with Halh speakers from other regions they understand each other fully\nwithout difficulty. They consider their language to be Halh."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4106",
+        "label": "Darkhat"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Darkhad_dialect",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/dark1243",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56555",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500181",
+        "wordlist_or_less",
+        2009,
+        0,
+        "ISO 639-3 Registration Authority 2009"
+      ]
+    ]
+  },
+  "id": "dark1243",
+  "name": "Darkhat",
+  "description": null,
+  "markup_description": null,
+  "latitude": 50.623,
+  "longitude": 99.4449,
+  "classification": [
+    {
+      "name": "Mongolic-Khitan",
+      "id": "mong1349",
+      "url": "https://glottolog.org/resource/languoid/id/mong1349"
+    },
+    {
+      "name": "Mongolic",
+      "id": "mong1329",
+      "url": "https://glottolog.org/resource/languoid/id/mong1329"
+    },
+    {
+      "name": "Eastern Mongolic",
+      "id": "oira1260",
+      "url": "https://glottolog.org/resource/languoid/id/oira1260"
+    },
+    {
+      "name": "Khalkha-Buriat",
+      "id": "khal1273",
+      "url": "https://glottolog.org/resource/languoid/id/khal1273"
+    },
+    {
+      "name": "Mongolian",
+      "id": "mong1331",
+      "url": "https://glottolog.org/resource/languoid/id/mong1331"
+    },
+    {
+      "name": "Oirad-Kalmyk-Darkhat",
+      "id": "kalm1243",
+      "url": "https://glottolog.org/resource/languoid/id/kalm1243"
+    }
+  ],
+  "iso639-3": "drh"
+}

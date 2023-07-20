@@ -1,0 +1,103 @@
+{
+  "pk": 18093,
+  "hid": "tsw",
+  "father_pk": 15680,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ibeto [ibet1238]':1)'Salka-Tsishingini [tsis1238][tsw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q13123571",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "109452",
+        "long_grammar",
+        1984,
+        319,
+        "Crozier, David 1984"
+      ],
+      [
+        "15127",
+        "wordlist_or_less",
+        1965,
+        26,
+        "Hoffmann, Carl 1965"
+      ],
+      [
+        "79196",
+        "wordlist_or_less",
+        1962,
+        1,
+        "Rowlands, E. C. 1962"
+      ],
+      [
+        "66179",
+        "wordlist_or_less",
+        1854,
+        1,
+        "Koelle, Sigismund W. 1854"
+      ]
+    ]
+  },
+  "id": "tsis1238",
+  "name": "Salka-Tsishingini",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.2882,
+  "longitude": 5.11073,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Kainji",
+      "id": "kain1275",
+      "url": "https://glottolog.org/resource/languoid/id/kain1275"
+    },
+    {
+      "name": "Central Kainji",
+      "id": "cent2242",
+      "url": "https://glottolog.org/resource/languoid/id/cent2242"
+    },
+    {
+      "name": "Kambari-Cicipu",
+      "id": "kamb1317",
+      "url": "https://glottolog.org/resource/languoid/id/kamb1317"
+    },
+    {
+      "name": "Kambaric",
+      "id": "kamb1319",
+      "url": "https://glottolog.org/resource/languoid/id/kamb1319"
+    },
+    {
+      "name": "East Kambaric",
+      "id": "east2739",
+      "url": "https://glottolog.org/resource/languoid/id/east2739"
+    }
+  ],
+  "iso639-3": "tsw"
+}

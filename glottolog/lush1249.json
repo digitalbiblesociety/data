@@ -1,0 +1,112 @@
+{
+  "pk": 13308,
+  "hid": "lus",
+  "father_pk": 10233,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Fannai [fann1238]':1,'Le [leee1238]':1,'Lusei [mizo1245]':1,'Ngente [ngen1250]':1,'Ralte {Lushai} [ralt1243]':1,'Tlau [tlau1238]':1)'Mizo [lush1249][lus]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_miz",
+        "label": "Mizo"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mizo_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/lush1249",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36147",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "90404",
+        "grammar",
+        1986,
+        284,
+        "Chhangte, Lalnunthangi 1986"
+      ],
+      [
+        "550436",
+        "grammar",
+        1898,
+        184,
+        "J. Herbert Lorrain and Fred. W. Savidge 1898"
+      ],
+      [
+        "23204",
+        "grammar_sketch",
+        1884,
+        110,
+        "Shaha, Brojo Nath 1884"
+      ],
+      [
+        "162527",
+        "wordlist_or_less",
+        1874,
+        120,
+        "Lewin, Thomas Herbert 1874"
+      ],
+      [
+        "29610",
+        "wordlist_or_less",
+        1869,
+        8,
+        "Lewin, Thomas Herbert 1869"
+      ]
+    ]
+  },
+  "id": "lush1249",
+  "name": "Mizo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 22.6138,
+  "longitude": 92.6247,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Kuki-Chin",
+      "id": "kuki1246",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1246"
+    },
+    {
+      "name": "Central Kuki-Chin",
+      "id": "cent2330",
+      "url": "https://glottolog.org/resource/languoid/id/cent2330"
+    },
+    {
+      "name": "Core Central Kuki-Chin",
+      "id": "cent2005",
+      "url": "https://glottolog.org/resource/languoid/id/cent2005"
+    },
+    {
+      "name": "Mizoic",
+      "id": "mizo1244",
+      "url": "https://glottolog.org/resource/languoid/id/mizo1244"
+    }
+  ],
+  "iso639-3": "lus"
+}

@@ -1,0 +1,83 @@
+{
+  "pk": 4485,
+  "hid": "kzh",
+  "father_pk": 2873,
+  "family_pk": 274,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dongola [dong1288][dgl]':1,'Kenuzi [kenu1243][xnz]':1)'Kenuzi-Dongola [kenu1236][kzh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "kzh",
+      "name": "Kenuzi-Dongola",
+      "change_request": "2011-143",
+      "effective": "2012-02-03",
+      "reason": "split",
+      "change_to": [
+        "dgl",
+        "xnz"
+      ],
+      "remedy": "Split into Andaandi (Dongolawi) [dgl] and Kenzi (Mattoki) [xnz]",
+      "comment": "1- Both language communities claim different idntities, however all Nile\nNubians, i.e Nobiin speakers, Dongolawi speakers and Kenzi speakers, claim\ninheriting the former Nubian identity, heritage and civilization.\n\n2- The two languages are claimed, beside other dialects, as dialects of the Old\nNubian language, but the difference between the two is to the level that, they\ncan't be claimed or considered as one\n\n3- There is medium intelligibility between the speakers of the two languages,\n\n4- No common literature neither written nor traditional. Written texts in each\nlanguage are availble separately.\n\n5-No any written text claimed or known as Kenuzi-Dongola,\n\n6-Native scholars from each group did and continue doing researches every in\ntheir own language, without any claims in the other language , i.e Kenzi\nscholars do researches in Kenzi/Kenuzi -Self name Mattokki, without mentioning\nDongolawi. The Dongolawi scholars do researches in Dongolawi - Self name\nAndaandi, without mentioning Kenzi. This fact, also implies that the two are\ndivergent to the level that, no native scholar claims them as one. Ultimately\nthere is no language known by the name Kenuzi-Dongola among Kenzi natives as\nwell as among Dongolawi natives.\n\n7- Developing writing system for each language is progressing on its own, by\nnative scholars of each"
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q5295991",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "145793",
+        "long_grammar",
+        1960,
+        492,
+        "Armbruster, Charles H. 1960"
+      ],
+      [
+        "35581",
+        "grammar_sketch",
+        1879,
+        72,
+        "Reinisch, Leo 1879"
+      ],
+      [
+        "117034",
+        "phonology_or_text",
+        1635,
+        381,
+        "Carradori, Arcangelo 1983 [1635]"
+      ]
+    ]
+  },
+  "id": "kenu1236",
+  "name": "Kenuzi-Dongola",
+  "description": null,
+  "markup_description": null,
+  "latitude": 21.2837,
+  "longitude": 31.8992,
+  "classification": [
+    {
+      "name": "Nubian",
+      "id": "nubi1251",
+      "url": "https://glottolog.org/resource/languoid/id/nubi1251"
+    },
+    {
+      "name": "West-Central Nubian",
+      "id": "west2781",
+      "url": "https://glottolog.org/resource/languoid/id/west2781"
+    },
+    {
+      "name": "Central Nubian",
+      "id": "cent2232",
+      "url": "https://glottolog.org/resource/languoid/id/cent2232"
+    }
+  ],
+  "iso639-3": "kzh"
+}

@@ -1,0 +1,101 @@
+{
+  "pk": 11439,
+  "hid": "xjb",
+  "father_pk": 8473,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Minjangbal [minj1242]':1,'Nganduwal [ngan1309]':1,'Ngaraangbal [ngar1298]':1,'Yugumbir [yugu1249]':1)'Tweed-Albert [twee1234][xjb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6790",
+        "label": "Minjungbal"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56285397",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/twee1234",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "304717",
+        "grammar",
+        2005,
+        94,
+        "Sharpe, Margareth C. 2005"
+      ],
+      [
+        "140096",
+        "grammar",
+        1969,
+        54,
+        "Mary C. Cunningham 1969"
+      ],
+      [
+        "301435",
+        "grammar_sketch",
+        1892,
+        25,
+        "H. Livingstone 1892"
+      ],
+      [
+        "107184",
+        "wordlist_or_less",
+        1887,
+        6,
+        "Bray, Joshua 1887"
+      ]
+    ]
+  },
+  "id": "twee1234",
+  "name": "Tweed-Albert",
+  "description": null,
+  "markup_description": null,
+  "latitude": -28.028726,
+  "longitude": 153.286993,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Southeastern Pama-Nyungan",
+      "id": "sout3135",
+      "url": "https://glottolog.org/resource/languoid/id/sout3135"
+    },
+    {
+      "name": "New South Wales Pama-Nyungan",
+      "id": "news1235",
+      "url": "https://glottolog.org/resource/languoid/id/news1235"
+    },
+    {
+      "name": "Greater Bandjalangic",
+      "id": "band1357",
+      "url": "https://glottolog.org/resource/languoid/id/band1357"
+    },
+    {
+      "name": "Bandjalangic",
+      "id": "band1339",
+      "url": "https://glottolog.org/resource/languoid/id/band1339"
+    },
+    {
+      "name": "Coastal Bandjalang",
+      "id": "coas1320",
+      "url": "https://glottolog.org/resource/languoid/id/coas1320"
+    }
+  ],
+  "iso639-3": "xjb"
+}

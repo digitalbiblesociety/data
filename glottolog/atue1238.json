@@ -1,0 +1,56 @@
+{
+  "pk": 654,
+  "hid": "atf",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Atuence [atue1238][atf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "atf",
+      "name": "Atuence",
+      "change_request": "2006-122",
+      "effective": "2007-08-10",
+      "reason": "non-existent",
+      "change_to": [],
+      "remedy": null,
+      "comment": "1. The name is an old town name not associated with any language spoken there\n2. The classification is highly unlikely for the region given\n3. The population figure is ludicrously way higher than Tibetan, also spoken\nthere -- 590,000 Atuence (no date or source) vs 4,800 known Central Tibetans (2006)\n4. All in all, the \"guess is that the Atuence entry is probably based on some\nspurious information reported to Shafer (1966) and compiled by him in his\ncollections."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q11159071",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500371",
+        "wordlist_or_less",
+        2006,
+        0,
+        "ISO 639-3 Registration Authority 2006"
+      ]
+    ]
+  },
+  "id": "atue1238",
+  "name": "Atuence",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "atf"
+}

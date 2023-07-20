@@ -1,0 +1,76 @@
+{
+  "pk": 7723,
+  "hid": "rbb",
+  "father_pk": 5350,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Rumai Palaung [ruma1248][rbb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12953797",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "311461",
+        "grammar_sketch",
+        1983,
+        14,
+        "Yan, Qixiang 1983"
+      ],
+      [
+        "24329",
+        "wordlist_or_less",
+        1977,
+        5,
+        "Yasuyuki Mitani 1977"
+      ],
+      [
+        "553473",
+        "wordlist_or_less",
+        1906,
+        70,
+        "C. C. Lowis 1906"
+      ]
+    ]
+  },
+  "id": "ruma1248",
+  "name": "Rumai Palaung",
+  "description": null,
+  "markup_description": null,
+  "latitude": 23.6404,
+  "longitude": 97.3172,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Khasi-Palaung",
+      "id": "khas1273",
+      "url": "https://glottolog.org/resource/languoid/id/khas1273"
+    },
+    {
+      "name": "Palaungic",
+      "id": "pala1352",
+      "url": "https://glottolog.org/resource/languoid/id/pala1352"
+    },
+    {
+      "name": "West Palaungic",
+      "id": "west2791",
+      "url": "https://glottolog.org/resource/languoid/id/west2791"
+    }
+  ],
+  "iso639-3": "rbb"
+}

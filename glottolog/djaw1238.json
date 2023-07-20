@@ -1,0 +1,69 @@
+{
+  "pk": 5115,
+  "hid": "djw",
+  "father_pk": 3303,
+  "family_pk": 354,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Djawi [djaw1238][djw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4090",
+        "label": "Jawi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3913844",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Jawi_dialect",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/djaw1238",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "4167",
+        "wordlist_or_less",
+        1940,
+        1,
+        "Arthur Capell 1940, 1940"
+      ]
+    ]
+  },
+  "id": "djaw1238",
+  "name": "Djawi",
+  "description": null,
+  "markup_description": null,
+  "latitude": -16.4163,
+  "longitude": 123.186,
+  "classification": [
+    {
+      "name": "Nyulnyulan",
+      "id": "nyul1248",
+      "url": "https://glottolog.org/resource/languoid/id/nyul1248"
+    },
+    {
+      "name": "Western Nyulnyulan",
+      "id": "west2872",
+      "url": "https://glottolog.org/resource/languoid/id/west2872"
+    },
+    {
+      "name": "Bardic",
+      "id": "bard1254",
+      "url": "https://glottolog.org/resource/languoid/id/bard1254"
+    }
+  ],
+  "iso639-3": "djw"
+}

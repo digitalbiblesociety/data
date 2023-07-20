@@ -1,0 +1,80 @@
+{
+  "pk": 4794,
+  "hid": "xas",
+  "father_pk": 3068,
+  "family_pk": 302,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kamas {Uralic} [kama1378]':1,'Samoyed Koibal [samo1299][zkb]':1)'Kamas-Koibal [kama1351][xas]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10474",
+        "label": "Kamas"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35991",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kamassian_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kama1351",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kms",
+        "label": "Kamass"
+      }
+    ],
+    "meds": [
+      [
+        "120352",
+        "grammar_sketch",
+        1944,
+        214,
+        "Aulis J. Joki 1944"
+      ],
+      [
+        "132372",
+        "grammar_sketch",
+        1854,
+        43,
+        "Mathias Alexander, Castrén 1966 [1854]"
+      ]
+    ]
+  },
+  "id": "kama1351",
+  "name": "Kamas-Koibal",
+  "description": null,
+  "markup_description": null,
+  "latitude": 55.07,
+  "longitude": 94.83,
+  "classification": [
+    {
+      "name": "Uralic",
+      "id": "ural1272",
+      "url": "https://glottolog.org/resource/languoid/id/ural1272"
+    },
+    {
+      "name": "Samoyedic",
+      "id": "samo1298",
+      "url": "https://glottolog.org/resource/languoid/id/samo1298"
+    },
+    {
+      "name": "Kamas-Selkup",
+      "id": "kama1376",
+      "url": "https://glottolog.org/resource/languoid/id/kama1376"
+    }
+  ],
+  "iso639-3": "xas"
+}

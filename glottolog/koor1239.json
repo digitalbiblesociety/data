@@ -1,0 +1,90 @@
+{
+  "pk": 5083,
+  "hid": "kqy",
+  "father_pk": 3273,
+  "family_pk": 342,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Koorete [koor1239][kqy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6430753",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Koore_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/koor1239",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kjr",
+        "label": "Koorete"
+      }
+    ],
+    "meds": [
+      [
+        "550722",
+        "grammar",
+        2008,
+        236,
+        "Binyam Sisay Mendisu 2008"
+      ],
+      [
+        "56973",
+        "grammar_sketch",
+        2003,
+        109,
+        "Redda, Beletu 2003"
+      ],
+      [
+        "137757",
+        "grammar_sketch",
+        1982,
+        58,
+        "Hayward, Richard J. 1982"
+      ],
+      [
+        "82603",
+        "grammar_sketch",
+        1929,
+        9,
+        "Cerulli, E. 1929-1930"
+      ]
+    ]
+  },
+  "id": "koor1239",
+  "name": "Koorete",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.80545,
+  "longitude": 37.8679,
+  "classification": [
+    {
+      "name": "Ta-Ne-Omotic",
+      "id": "gong1255",
+      "url": "https://glottolog.org/resource/languoid/id/gong1255"
+    },
+    {
+      "name": "Ometo",
+      "id": "omet1238",
+      "url": "https://glottolog.org/resource/languoid/id/omet1238"
+    },
+    {
+      "name": "East Ometo",
+      "id": "east2423",
+      "url": "https://glottolog.org/resource/languoid/id/east2423"
+    }
+  ],
+  "iso639-3": "kqy"
+}

@@ -1,0 +1,102 @@
+{
+  "pk": 15504,
+  "hid": "gna",
+  "father_pk": 12775,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kpatogo [kpat1245]':1,'Nuclear Kaansa [nucl1369]':1)'Kaansa [kaan1246][gna]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56802",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kaansa_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "112985",
+        "phonology_or_text",
+        2007,
+        15,
+        "Showalter, Stuart D. 2007"
+      ],
+      [
+        "86020",
+        "phonology_or_text",
+        1994,
+        12,
+        "Miehe, Gudrun 1994"
+      ],
+      [
+        "121159",
+        "wordlist_or_less",
+        1958,
+        17,
+        "Labouret, Henri 1958"
+      ],
+      [
+        "8689",
+        "wordlist_or_less",
+        1904,
+        5,
+        "Delafosse, Maurice 1904"
+      ]
+    ]
+  },
+  "id": "kaan1246",
+  "name": "Kaansa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.1675,
+  "longitude": -3.70994,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "North Volta-Congo",
+      "id": "nort3149",
+      "url": "https://glottolog.org/resource/languoid/id/nort3149"
+    },
+    {
+      "name": "Gur",
+      "id": "gura1261",
+      "url": "https://glottolog.org/resource/languoid/id/gura1261"
+    },
+    {
+      "name": "Central Gur",
+      "id": "cent2243",
+      "url": "https://glottolog.org/resource/languoid/id/cent2243"
+    },
+    {
+      "name": "Southern Central Gur",
+      "id": "sout3164",
+      "url": "https://glottolog.org/resource/languoid/id/sout3164"
+    },
+    {
+      "name": "Kaansa-Dogose",
+      "id": "gand1254",
+      "url": "https://glottolog.org/resource/languoid/id/gand1254"
+    }
+  ],
+  "iso639-3": "gna"
+}

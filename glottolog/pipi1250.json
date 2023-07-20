@@ -1,0 +1,105 @@
+{
+  "pk": 11520,
+  "hid": "ppl",
+  "father_pk": 8578,
+  "family_pk": 155,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Pipil [pipi1250][ppl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/481",
+        "label": "Pipil"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_pip",
+        "label": "Pipil"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nawat_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q1186896",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "108770",
+        "long_grammar",
+        1985,
+        971,
+        "Lyle Campbell 1985"
+      ],
+      [
+        "318825",
+        "grammar",
+        1937,
+        160,
+        "Prospero Arauz 1937"
+      ],
+      [
+        "157300",
+        "wordlist_or_less",
+        1920,
+        21,
+        "Walther Lehmann 1920"
+      ],
+      [
+        "320260",
+        "wordlist_or_less",
+        1884,
+        16,
+        "Otto Stoll 1884"
+      ]
+    ]
+  },
+  "id": "pipi1250",
+  "name": "Pipil",
+  "description": null,
+  "markup_description": null,
+  "latitude": 13.8931,
+  "longitude": -89.443,
+  "classification": [
+    {
+      "name": "Uto-Aztecan",
+      "id": "utoa1244",
+      "url": "https://glottolog.org/resource/languoid/id/utoa1244"
+    },
+    {
+      "name": "Southern Uto-Aztecan",
+      "id": "sout3136",
+      "url": "https://glottolog.org/resource/languoid/id/sout3136"
+    },
+    {
+      "name": "Corachol-Aztecan",
+      "id": "cora1261",
+      "url": "https://glottolog.org/resource/languoid/id/cora1261"
+    },
+    {
+      "name": "Aztec",
+      "id": "azte1234",
+      "url": "https://glottolog.org/resource/languoid/id/azte1234"
+    },
+    {
+      "name": "Eastern Nahuatl",
+      "id": "east2720",
+      "url": "https://glottolog.org/resource/languoid/id/east2720"
+    },
+    {
+      "name": "Isthmus-Pipil Nahuatl",
+      "id": "isth1246",
+      "url": "https://glottolog.org/resource/languoid/id/isth1246"
+    }
+  ],
+  "iso639-3": "ppl"
+}

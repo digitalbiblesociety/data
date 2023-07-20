@@ -1,0 +1,103 @@
+{
+  "pk": 3814,
+  "hid": "gnc",
+  "father_pk": 2141,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Guanche [guan1277][gnc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q35762",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Guanche_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "70113",
+        "grammar_sketch",
+        1996,
+        426,
+        "Böhm, Gerhard 1996"
+      ],
+      [
+        "56774",
+        "phonology_or_text",
+        1987,
+        0,
+        "Villarroya, José Luis de Pando 1987"
+      ],
+      [
+        "27088",
+        "wordlist_or_less",
+        1965,
+        946,
+        "Wölfel, Dominik J. 1965"
+      ],
+      [
+        "142263",
+        "wordlist_or_less",
+        1907,
+        229,
+        "de Espinosa, Alonso 1907"
+      ],
+      [
+        "27032",
+        "wordlist_or_less",
+        1883,
+        21,
+        "Basset, René 1883"
+      ],
+      [
+        "19620",
+        "wordlist_or_less",
+        1841,
+        13,
+        "Macedo, J.J. da Costa de 1841"
+      ],
+      [
+        "126119",
+        "wordlist_or_less",
+        1632,
+        0,
+        "Galindo, Juan de Abreu de 1632/1977"
+      ]
+    ]
+  },
+  "id": "guan1277",
+  "name": "Guanche",
+  "description": null,
+  "markup_description": null,
+  "latitude": 28,
+  "longitude": -15.5,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Berber",
+      "id": "berb1260",
+      "url": "https://glottolog.org/resource/languoid/id/berb1260"
+    },
+    {
+      "name": "Unclassified Berber",
+      "id": "unun9880",
+      "url": "https://glottolog.org/resource/languoid/id/unun9880"
+    }
+  ],
+  "iso639-3": "gnc"
+}

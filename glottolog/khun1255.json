@@ -1,0 +1,109 @@
+{
+  "pk": 18817,
+  "hid": "kfm",
+  "father_pk": 16564,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Judeo-Khomeini [jude1274]':1,'Judeo-Khunsari [jude1273]':1,'Khunsari [khun1261]':1,'Mahallati [maha1310]':1,'Vaneshani [vane1234]':1)'Khunsaric [khun1255][kfm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2209",
+        "label": "Khunsari"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Khunsari_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6403030",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "102398",
+        "long_grammar",
+        1976,
+        411,
+        "Eilers, Wilhelm and Schapka, Ulrich 1976"
+      ],
+      [
+        "108870",
+        "grammar_sketch",
+        1926,
+        19,
+        "Mann, Oskar and Karl Hadank 1926"
+      ],
+      [
+        "553115",
+        "wordlist_or_less",
+        1888,
+        23,
+        "Valentin A. Zhukovskij 1888"
+      ]
+    ]
+  },
+  "id": "khun1255",
+  "name": "Khunsaric",
+  "description": null,
+  "markup_description": null,
+  "latitude": 36.6963,
+  "longitude": 49.3742,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Iranian",
+      "id": "iran1269",
+      "url": "https://glottolog.org/resource/languoid/id/iran1269"
+    },
+    {
+      "name": "Central Iranian PBS",
+      "id": "cent2317",
+      "url": "https://glottolog.org/resource/languoid/id/cent2317"
+    },
+    {
+      "name": "Central Iranian PB",
+      "id": "cent2318",
+      "url": "https://glottolog.org/resource/languoid/id/cent2318"
+    },
+    {
+      "name": "Northwestern Iranian",
+      "id": "nort3177",
+      "url": "https://glottolog.org/resource/languoid/id/nort3177"
+    },
+    {
+      "name": "Central Iran Kermanic",
+      "id": "cent2264",
+      "url": "https://glottolog.org/resource/languoid/id/cent2264"
+    },
+    {
+      "name": "Nuclear Central Iran Kermanic",
+      "id": "nucl1790",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1790"
+    }
+  ],
+  "iso639-3": "kfm"
+}

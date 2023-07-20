@@ -1,0 +1,103 @@
+{
+  "pk": 6006,
+  "hid": "zmu",
+  "father_pk": 4021,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Muruwari [muru1266][zmu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/d32",
+        "label": "MURUWARI"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/3133",
+        "label": "Muruwari"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mrw",
+        "label": "Muruwari"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Muruwari_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/muru1266",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3915442",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "308251",
+        "long_grammar",
+        1988,
+        439,
+        "Lynette F. Oates 1988"
+      ],
+      [
+        "302650",
+        "grammar_sketch",
+        1971,
+        7,
+        "Trefry, Judy 1971"
+      ],
+      [
+        "612",
+        "phonology_or_text",
+        1903,
+        6,
+        "Mathews, Robert Hamilton 1903"
+      ],
+      [
+        "477676",
+        "wordlist_or_less",
+        1875,
+        8,
+        "Ridley, William 1875"
+      ]
+    ]
+  },
+  "id": "muru1266",
+  "name": "Muruwari",
+  "description": null,
+  "markup_description": null,
+  "latitude": -28.9618,
+  "longitude": 146.546,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Southeastern Pama-Nyungan",
+      "id": "sout3135",
+      "url": "https://glottolog.org/resource/languoid/id/sout3135"
+    },
+    {
+      "name": "New South Wales Pama-Nyungan",
+      "id": "news1235",
+      "url": "https://glottolog.org/resource/languoid/id/news1235"
+    },
+    {
+      "name": "Muruwaric",
+      "id": "muru1265",
+      "url": "https://glottolog.org/resource/languoid/id/muru1265"
+    }
+  ],
+  "iso639-3": "zmu"
+}

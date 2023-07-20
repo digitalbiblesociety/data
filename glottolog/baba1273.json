@@ -1,0 +1,78 @@
+{
+  "pk": 597,
+  "hid": "bbz",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Babalia Creole Arabic [baba1273][bbz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "bbz",
+      "name": "Babalia Creole Arabic",
+      "change_request": "2019-013",
+      "effective": "2020-01-23",
+      "reason": "non-existent",
+      "change_to": [],
+      "remedy": null,
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10836",
+        "label": "Babalia Creole Arabic"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3504186",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Babalia_Creole_Arabic",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "307108",
+        "phonology_or_text",
+        1977,
+        15,
+        "Christian Décobert 1977"
+      ],
+      [
+        "37817",
+        "wordlist_or_less",
+        1976,
+        12,
+        "Bouquet, Christian 1976"
+      ],
+      [
+        "164563",
+        "wordlist_or_less",
+        1975,
+        21,
+        "Décobert, Christian 1975"
+      ]
+    ]
+  },
+  "id": "baba1273",
+  "name": "Babalia Creole Arabic",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.7617,
+  "longitude": 16.6925,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "bbz"
+}

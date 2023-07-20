@@ -1,0 +1,97 @@
+{
+  "pk": 12779,
+  "hid": "nku",
+  "father_pk": 9855,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Nabanj [naba1252]':1,'Sekwa {Bouna Kulango} [sekw1242]':1)'Bouna Kulango [boun1243][nku]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q20668241",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/boun1243",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "112458",
+        "long_grammar",
+        2008,
+        669,
+        "Elders, Stefan 2008"
+      ],
+      [
+        "308287",
+        "grammar_sketch",
+        2007,
+        187,
+        "Ilaria Micheli 2007"
+      ],
+      [
+        "37849",
+        "grammar_sketch",
+        1974,
+        54,
+        "Prost, André 1974"
+      ],
+      [
+        "8689",
+        "wordlist_or_less",
+        1904,
+        5,
+        "Delafosse, Maurice 1904"
+      ]
+    ]
+  },
+  "id": "boun1243",
+  "name": "Bouna Kulango",
+  "description": null,
+  "markup_description": null,
+  "latitude": 8.46011,
+  "longitude": -2.74627,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "North Volta-Congo",
+      "id": "nort3149",
+      "url": "https://glottolog.org/resource/languoid/id/nort3149"
+    },
+    {
+      "name": "Gur",
+      "id": "gura1261",
+      "url": "https://glottolog.org/resource/languoid/id/gura1261"
+    },
+    {
+      "name": "Kulango-Lorom",
+      "id": "kula1283",
+      "url": "https://glottolog.org/resource/languoid/id/kula1283"
+    },
+    {
+      "name": "Kulango",
+      "id": "kula1277",
+      "url": "https://glottolog.org/resource/languoid/id/kula1277"
+    }
+  ],
+  "iso639-3": "nku"
+}

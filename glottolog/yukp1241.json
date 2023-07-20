@@ -1,0 +1,94 @@
+{
+  "pk": 3677,
+  "hid": "yup",
+  "father_pk": 2004,
+  "family_pk": 56,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Caño Padilla-La Laguna [cano1239]':1,'Rio Negro [rion1245]':1,'Río Casacará [rioc1237]':1,'Río Maracas [riom1237]':1,'Yrapa [yrap1237]':1)'Yukpa [yukp1241][yup]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/632",
+        "label": "Yukpa"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ykp",
+        "label": "Yukpa"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yukpa_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/yukp1241",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3441447",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "160872",
+        "grammar_sketch",
+        1999,
+        158,
+        "Niño Segovia, Elena 1999"
+      ],
+      [
+        "19256",
+        "grammar_sketch",
+        1945,
+        51,
+        "Reichel-Dolmatoff, Gerardo 1945"
+      ],
+      [
+        "94034",
+        "grammar_sketch",
+        1915,
+        7,
+        "Nimuendajú, Curt 1915"
+      ],
+      [
+        "163170",
+        "grammar_sketch",
+        1887,
+        3,
+        "Ernst, A. 1887"
+      ]
+    ]
+  },
+  "id": "yukp1241",
+  "name": "Yukpa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.67534,
+  "longitude": -73.0557,
+  "classification": [
+    {
+      "name": "Cariban",
+      "id": "cari1283",
+      "url": "https://glottolog.org/resource/languoid/id/cari1283"
+    },
+    {
+      "name": "Opon-Yukpan",
+      "id": "yukp1242",
+      "url": "https://glottolog.org/resource/languoid/id/yukp1242"
+    },
+    {
+      "name": "Yukpan",
+      "id": "yukp1243",
+      "url": "https://glottolog.org/resource/languoid/id/yukp1243"
+    }
+  ],
+  "iso639-3": "yup"
+}

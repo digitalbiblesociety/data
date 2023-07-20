@@ -1,0 +1,90 @@
+{
+  "pk": 12911,
+  "hid": "ogg",
+  "father_pk": 9941,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ogbogolo [ogbo1242][ogg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3813405",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ogbogolo_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "553321",
+        "phonology_or_text",
+        1995,
+        0,
+        "Francstan, N. D. 1995"
+      ],
+      [
+        "553561",
+        "phonology_or_text",
+        1994,
+        0,
+        "Olibie, E. I. 1994"
+      ],
+      [
+        "150176",
+        "wordlist_or_less",
+        1914,
+        2,
+        "Thomas, Northcote Whitridge 1914"
+      ]
+    ]
+  },
+  "id": "ogbo1242",
+  "name": "Ogbogolo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.90943,
+  "longitude": 6.54706,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Delta Cross",
+      "id": "delt1251",
+      "url": "https://glottolog.org/resource/languoid/id/delt1251"
+    },
+    {
+      "name": "Central Delta",
+      "id": "cent2028",
+      "url": "https://glottolog.org/resource/languoid/id/cent2028"
+    },
+    {
+      "name": "Kugboic",
+      "id": "kugb1242",
+      "url": "https://glottolog.org/resource/languoid/id/kugb1242"
+    }
+  ],
+  "iso639-3": "ogg"
+}

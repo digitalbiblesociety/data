@@ -1,0 +1,89 @@
+{
+  "pk": 6017,
+  "hid": "NOCODE_Upper-Riverland",
+  "father_pk": 4026,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ngindadj [ngin1247]':1,'Yirawirung [yira1241]':1,'Yuu-Yuu [yuuy1234][yxu]':1)'Upper Riverland [uppe1415]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "NOCODE_Upper-Riverland",
+      "comment_type": "missing",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "The extinct Upper Riverland of the Lower Murray subgroup is missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 (**hh:w:Pegler:Neds**, **hh:hvw:Horgen:Lower-Murray**, **hh:hw:Taplin:South-Australian**, **hh:w:Fulford:River-Murray**)."
+    },
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q8062232",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yuyu_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "306364",
+        "wordlist_or_less",
+        2004,
+        23,
+        "Michael Horgen 2004"
+      ],
+      [
+        "150136",
+        "wordlist_or_less",
+        1879,
+        12,
+        "George Taplin 1879"
+      ]
+    ]
+  },
+  "id": "uppe1415",
+  "name": "Upper Riverland",
+  "description": null,
+  "markup_description": null,
+  "latitude": -34.098823177692,
+  "longitude": 140.99932761004,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Southeastern Pama-Nyungan",
+      "id": "sout3135",
+      "url": "https://glottolog.org/resource/languoid/id/sout3135"
+    },
+    {
+      "name": "Victorian Pama-Nyungan",
+      "id": "vict1234",
+      "url": "https://glottolog.org/resource/languoid/id/vict1234"
+    },
+    {
+      "name": "Lower Murray",
+      "id": "lowe1401",
+      "url": "https://glottolog.org/resource/languoid/id/lowe1401"
+    }
+  ]
+}

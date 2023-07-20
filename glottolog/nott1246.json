@@ -1,0 +1,68 @@
+{
+  "pk": 5129,
+  "hid": "ntw",
+  "father_pk": 3316,
+  "family_pk": 357,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Nottoway [nott1246][ntw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3344791",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nottoway_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "146326",
+        "grammar_sketch",
+        1981,
+        23,
+        "Blair A. Rudes 1981"
+      ],
+      [
+        "27878",
+        "wordlist_or_less",
+        1836,
+        4,
+        "Albert Gallatin 1836"
+      ]
+    ]
+  },
+  "id": "nott1246",
+  "name": "Nottoway",
+  "description": null,
+  "markup_description": null,
+  "latitude": 36.72,
+  "longitude": -77.115,
+  "classification": [
+    {
+      "name": "Iroquoian",
+      "id": "iroq1247",
+      "url": "https://glottolog.org/resource/languoid/id/iroq1247"
+    },
+    {
+      "name": "Northern Iroquoian",
+      "id": "nort2947",
+      "url": "https://glottolog.org/resource/languoid/id/nort2947"
+    },
+    {
+      "name": "Tuscarora-Nottoway",
+      "id": "tusc1256",
+      "url": "https://glottolog.org/resource/languoid/id/tusc1256"
+    }
+  ],
+  "iso639-3": "ntw"
+}

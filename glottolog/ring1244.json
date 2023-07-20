@@ -1,0 +1,85 @@
+{
+  "pk": 15367,
+  "hid": "rgu",
+  "father_pk": 12579,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Landu [land1257]':1,'Nuclear Ringgou [nucl1538]':1,'Oe Pao [oepa1237]':1)'Ringgou [ring1244][rgu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/9109",
+        "label": "Rikou"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7334886",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ringgou_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "68931",
+        "phonology_or_text",
+        1913,
+        6,
+        "J. C. G. Jonker 1913"
+      ]
+    ]
+  },
+  "id": "ring1244",
+  "name": "Ringgou",
+  "description": null,
+  "markup_description": null,
+  "latitude": -10.5515,
+  "longitude": 123.311,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Timor-Babar",
+      "id": "timo1265",
+      "url": "https://glottolog.org/resource/languoid/id/timo1265"
+    },
+    {
+      "name": "Rote-Meto",
+      "id": "rote1234",
+      "url": "https://glottolog.org/resource/languoid/id/rote1234"
+    },
+    {
+      "name": "Nuclear Rote",
+      "id": "east2858",
+      "url": "https://glottolog.org/resource/languoid/id/east2858"
+    },
+    {
+      "name": "Central East Rote",
+      "id": "cent2375",
+      "url": "https://glottolog.org/resource/languoid/id/cent2375"
+    },
+    {
+      "name": "Southeast Rote",
+      "id": "east2859",
+      "url": "https://glottolog.org/resource/languoid/id/east2859"
+    }
+  ],
+  "iso639-3": "rgu"
+}

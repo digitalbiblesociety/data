@@ -1,0 +1,87 @@
+{
+  "pk": 8437,
+  "hid": "xyt",
+  "father_pk": 5968,
+  "family_pk": 153,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "'Mayi-Thakurti [mayi1234][xyt]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "xyt",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 has a separate entry for Mayi-Thakurti [xyt], but on linguistic grounds Mayi-Thakurti is part of one and the same language centered around Maykulan [mnt] (**hh:hvs:Breen:Mayi**). See also: Maykulan [mnt]."
+    },
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6699",
+        "label": "Mayi-Thakurti"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q47004730",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500496",
+        "wordlist_or_less",
+        2012,
+        0,
+        "ISO 639-3 Registration Authority 2012"
+      ]
+    ]
+  },
+  "id": "mayi1234",
+  "name": "Mayi-Thakurti",
+  "description": null,
+  "markup_description": null,
+  "latitude": -20,
+  "longitude": 140.63,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Paman",
+      "id": "pama1251",
+      "url": "https://glottolog.org/resource/languoid/id/pama1251"
+    },
+    {
+      "name": "Mayabic",
+      "id": "maya1279",
+      "url": "https://glottolog.org/resource/languoid/id/maya1279"
+    },
+    {
+      "name": "Nuclear Mayabic",
+      "id": "nucl1332",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1332"
+    },
+    {
+      "name": "Maykulan",
+      "id": "mayk1239",
+      "url": "https://glottolog.org/resource/languoid/id/mayk1239"
+    }
+  ],
+  "iso639-3": "xyt"
+}

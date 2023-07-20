@@ -1,0 +1,93 @@
+{
+  "pk": 10287,
+  "hid": "bfu",
+  "father_pk": 7388,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Bunan [gahr1239][bfu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1612",
+        "label": "Gahri"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5516952",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bunan_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ghr",
+        "label": "Bunan"
+      }
+    ],
+    "meds": [
+      [
+        "478523",
+        "long_grammar",
+        2014,
+        910,
+        "Manuel Widmer 2014"
+      ],
+      [
+        "472409",
+        "grammar_sketch",
+        1992,
+        74,
+        "D. D. Sharma 1992"
+      ],
+      [
+        "160648",
+        "phonology_or_text",
+        1909,
+        11,
+        "Francke, August Hermann 1909"
+      ]
+    ]
+  },
+  "id": "gahr1239",
+  "name": "Bunan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 32.2168,
+  "longitude": 77.9596,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "West Himalayish",
+      "id": "tibe1275",
+      "url": "https://glottolog.org/resource/languoid/id/tibe1275"
+    },
+    {
+      "name": "Eastern West Himalayish",
+      "id": "east2777",
+      "url": "https://glottolog.org/resource/languoid/id/east2777"
+    },
+    {
+      "name": "Central-Eastern West Himalayish",
+      "id": "cent2311",
+      "url": "https://glottolog.org/resource/languoid/id/cent2311"
+    }
+  ],
+  "iso639-3": "bfu"
+}

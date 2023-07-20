@@ -1,0 +1,93 @@
+{
+  "pk": 3621,
+  "hid": "xtc",
+  "father_pk": 1954,
+  "family_pk": 42,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Damba [damb1245]':1,'Kadugli [kadu1257]':1,'Katcha [katc1250]':1,'Miri [miri1267]':1,'Tumma [tumm1238]':1)'Katcha-Kadugli-Miri [katc1249][xtc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Kadugli_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/katc1249",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3407136",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "552651",
+        "grammar_sketch",
+        2016,
+        145,
+        "Turner, Darryl John 2016"
+      ],
+      [
+        "85918",
+        "grammar_sketch",
+        1969,
+        126,
+        "Kutoado [misprint for Kumuado], Abdalla Ibrahim Abdalla 1969"
+      ],
+      [
+        "160138",
+        "grammar_sketch",
+        1956,
+        5,
+        "Stevenson, Roland C. 1956/1957"
+      ],
+      [
+        "160135",
+        "grammar_sketch",
+        1952,
+        0,
+        "Stevenson, Roland C. 1952"
+      ],
+      [
+        "124382",
+        "wordlist_or_less",
+        1916,
+        8,
+        "Meinhof, Carl 1916-1917"
+      ]
+    ]
+  },
+  "id": "katc1249",
+  "name": "Katcha-Kadugli-Miri",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.8423,
+  "longitude": 29.4914,
+  "classification": [
+    {
+      "name": "Kadugli-Krongo",
+      "id": "kadu1256",
+      "url": "https://glottolog.org/resource/languoid/id/kadu1256"
+    },
+    {
+      "name": "Central-Western Kadugli-Krongo",
+      "id": "cent2229",
+      "url": "https://glottolog.org/resource/languoid/id/cent2229"
+    },
+    {
+      "name": "Katcha-Kadugli-Miri-Kanga",
+      "id": "katc1251",
+      "url": "https://glottolog.org/resource/languoid/id/katc1251"
+    }
+  ],
+  "iso639-3": "xtc"
+}

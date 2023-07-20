@@ -1,0 +1,72 @@
+{
+  "pk": 653,
+  "hid": "oda",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Odut [odut1238][oda]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "oda",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 has a separate entry for Odut [oda], an Upper Cross language of Nigeria. The language of this village is extinct and not attested in publication (**hh:hv:Dimmendaal:UpperCross**:36-37). Katherine Barnwell had an unpublished 20-word list showing it to be the same as another Upper Cross language (p.c.~Roger Blench 2011). The entry is thus spurious."
+    },
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4914",
+        "label": "Odut"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3915388",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Odut_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "108472",
+        "wordlist_or_less",
+        1999,
+        8,
+        "Blench, Roger no date [1999]"
+      ]
+    ]
+  },
+  "id": "odut1238",
+  "name": "Odut",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.20317,
+  "longitude": 8.27253,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "oda"
+}

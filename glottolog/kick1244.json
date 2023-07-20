@@ -1,0 +1,89 @@
+{
+  "pk": 8805,
+  "hid": "kic",
+  "father_pk": 6294,
+  "family_pk": 178,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kickapoo [kick1244][kic]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4390",
+        "label": "Kickapoo"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q20162127",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kic",
+        "label": "Kickapoo"
+      }
+    ],
+    "meds": [
+      [
+        "46179",
+        "long_grammar",
+        1967,
+        325,
+        "Voorhis, Paul Hantsch 1967"
+      ],
+      [
+        "573130",
+        "grammar_sketch",
+        1913,
+        4,
+        "Jones, W. 1913"
+      ],
+      [
+        "575154",
+        "wordlist_or_less",
+        1871,
+        21,
+        "Morgan, L. H. 1871"
+      ]
+    ]
+  },
+  "id": "kick1244",
+  "name": "Kickapoo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 41.655145,
+  "longitude": -89.03034,
+  "classification": [
+    {
+      "name": "Algic",
+      "id": "algi1248",
+      "url": "https://glottolog.org/resource/languoid/id/algi1248"
+    },
+    {
+      "name": "Algonquian-Blackfoot",
+      "id": "algo1256",
+      "url": "https://glottolog.org/resource/languoid/id/algo1256"
+    },
+    {
+      "name": "Algonquian",
+      "id": "algo1257",
+      "url": "https://glottolog.org/resource/languoid/id/algo1257"
+    },
+    {
+      "name": "Eastern Great Lakes Algonquian",
+      "id": "east2765",
+      "url": "https://glottolog.org/resource/languoid/id/east2765"
+    },
+    {
+      "name": "Fox",
+      "id": "foxx1245",
+      "url": "https://glottolog.org/resource/languoid/id/foxx1245"
+    }
+  ],
+  "iso639-3": "kic"
+}

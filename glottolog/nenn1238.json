@@ -1,0 +1,79 @@
+{
+  "pk": 4741,
+  "hid": "nqn",
+  "father_pk": 3027,
+  "family_pk": 299,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Nen [nenn1238][nqn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4890",
+        "label": "Nen"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q20816352",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nen_language_(Papuan)",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "318416",
+        "grammar_sketch",
+        2011,
+        232,
+        "Nicholas Evans 2011"
+      ],
+      [
+        "81764",
+        "wordlist_or_less",
+        1923,
+        1,
+        "Sidney H. Ray 1923"
+      ],
+      [
+        "156678",
+        "wordlist_or_less",
+        1915,
+        1,
+        "Lyons, A. P. 1915"
+      ]
+    ]
+  },
+  "id": "nenn1238",
+  "name": "Nen",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.62183,
+  "longitude": 142.032,
+  "classification": [
+    {
+      "name": "Yam",
+      "id": "more1255",
+      "url": "https://glottolog.org/resource/languoid/id/more1255"
+    },
+    {
+      "name": "Morehead-Maro",
+      "id": "more1256",
+      "url": "https://glottolog.org/resource/languoid/id/more1256"
+    },
+    {
+      "name": "Nambu",
+      "id": "namb1292",
+      "url": "https://glottolog.org/resource/languoid/id/namb1292"
+    }
+  ],
+  "iso639-3": "nqn"
+}

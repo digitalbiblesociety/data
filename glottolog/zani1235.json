@@ -1,0 +1,99 @@
+{
+  "pk": 14761,
+  "hid": "zpw",
+  "father_pk": 11790,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Zaniza Zapotec [zani1235][zpw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10953",
+        "label": "Zaniza Zapotec"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Zaniza_Zapotec",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q8066220",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "477408",
+        "grammar_sketch",
+        2015,
+        123,
+        "Operstein, Natalie 2015"
+      ],
+      [
+        "51761",
+        "phonology_or_text",
+        2004,
+        0,
+        "Operstein, Natalie 2004"
+      ],
+      [
+        "135876",
+        "wordlist_or_less",
+        1994,
+        3,
+        "Thomas C. Smith Stark 1994"
+      ]
+    ]
+  },
+  "id": "zani1235",
+  "name": "Zaniza Zapotec",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.6804,
+  "longitude": -97.2876,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Popoloca-Zapotecan",
+      "id": "popo1292",
+      "url": "https://glottolog.org/resource/languoid/id/popo1292"
+    },
+    {
+      "name": "Zapotecan",
+      "id": "zapo1436",
+      "url": "https://glottolog.org/resource/languoid/id/zapo1436"
+    },
+    {
+      "name": "Zapotec",
+      "id": "zapo1437",
+      "url": "https://glottolog.org/resource/languoid/id/zapo1437"
+    },
+    {
+      "name": "Core Zapotec",
+      "id": "nucl1765",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1765"
+    },
+    {
+      "name": "Papabuco",
+      "id": "papa1270",
+      "url": "https://glottolog.org/resource/languoid/id/papa1270"
+    }
+  ],
+  "iso639-3": "zpw"
+}

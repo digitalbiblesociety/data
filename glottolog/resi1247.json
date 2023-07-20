@@ -1,0 +1,106 @@
+{
+  "pk": 6249,
+  "hid": "rgr",
+  "father_pk": 4216,
+  "family_pk": 177,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Resígaro [resi1247][rgr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1859",
+        "label": "Resígaro"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3450504",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Res%C3%ADgaro_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/resi1247",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_res",
+        "label": "Resígaro"
+      }
+    ],
+    "meds": [
+      [
+        "53589",
+        "long_grammar",
+        1976,
+        543,
+        "Allin, Trevor R. 1976"
+      ],
+      [
+        "53588",
+        "long_grammar",
+        1975,
+        543,
+        "Trevor R. Allin 1975-1976"
+      ],
+      [
+        "48084",
+        "phonology_or_text",
+        1938,
+        0,
+        "Javier de Barcelona 1938"
+      ],
+      [
+        "99766",
+        "wordlist_or_less",
+        1936,
+        0,
+        "Plácido de Calella 1936"
+      ],
+      [
+        "51827",
+        "wordlist_or_less",
+        1924,
+        0,
+        "Gaspar de Pinell 1924"
+      ]
+    ]
+  },
+  "id": "resi1247",
+  "name": "Resígaro",
+  "description": null,
+  "markup_description": null,
+  "latitude": -1.169535,
+  "longitude": -71.60524,
+  "classification": [
+    {
+      "name": "Arawakan",
+      "id": "araw1281",
+      "url": "https://glottolog.org/resource/languoid/id/araw1281"
+    },
+    {
+      "name": "Japura-Colombia",
+      "id": "japu1236",
+      "url": "https://glottolog.org/resource/languoid/id/japu1236"
+    },
+    {
+      "name": "Nuclear Japura-Colombia",
+      "id": "nucl1764",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1764"
+    },
+    {
+      "name": "Caqueta",
+      "id": "yucu1252",
+      "url": "https://glottolog.org/resource/languoid/id/yucu1252"
+    }
+  ],
+  "iso639-3": "rgr"
+}

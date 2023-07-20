@@ -1,0 +1,102 @@
+{
+  "pk": 7035,
+  "hid": "mls",
+  "father_pk": 4829,
+  "family_pk": 306,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dar Fur [darf1238]':1,'Northern Masalit [nort2818]':1,'Nyala [nyal1251]':1,'Southern Masalit [sout2839]':1,'Western Masalit [west2497]':1)'Masalit [nucl1440][mls]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56557",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Masalit_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nucl1440",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_msl",
+        "label": "Masalit"
+      }
+    ],
+    "meds": [
+      [
+        "157995",
+        "grammar_sketch",
+        1989,
+        121,
+        "Edgar, John 1989"
+      ],
+      [
+        "309130",
+        "grammar_sketch",
+        1988,
+        118,
+        "Edgar, John Tees 1988"
+      ],
+      [
+        "32313",
+        "phonology_or_text",
+        1980,
+        0,
+        "Ibrahim Yahia, Abdulrahman 1980"
+      ],
+      [
+        "135028",
+        "wordlist_or_less",
+        1922,
+        14,
+        "MacMichael, H. A. 1922"
+      ],
+      [
+        "101907",
+        "wordlist_or_less",
+        1582,
+        99,
+        "d'Anania, Giovanni L. 1582"
+      ]
+    ]
+  },
+  "id": "nucl1440",
+  "name": "Masalit",
+  "description": null,
+  "markup_description": null,
+  "latitude": 13.2733,
+  "longitude": 22.1752,
+  "classification": [
+    {
+      "name": "Maban",
+      "id": "maba1274",
+      "url": "https://glottolog.org/resource/languoid/id/maba1274"
+    },
+    {
+      "name": "Mabang",
+      "id": "maba1275",
+      "url": "https://glottolog.org/resource/languoid/id/maba1275"
+    },
+    {
+      "name": "Maba-Masalit",
+      "id": "maba1276",
+      "url": "https://glottolog.org/resource/languoid/id/maba1276"
+    },
+    {
+      "name": "Macro-Masalit",
+      "id": "masa1301",
+      "url": "https://glottolog.org/resource/languoid/id/masa1301"
+    }
+  ],
+  "iso639-3": "mls"
+}

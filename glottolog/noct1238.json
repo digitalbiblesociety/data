@@ -1,0 +1,102 @@
+{
+  "pk": 7403,
+  "hid": "njb",
+  "father_pk": 5041,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Hahon Naga [hakh1237]':1,'Hakhun [hakh1236]':1)'Kuwa [kuwa1253]':1,'Laju [laju1238]':1,('Bote Naga [bote1240]':1,'Hame Naga [hame1244]':1,'Hasik Naga [hasi1235]':1,'Hathim Naga [hath1235]':1,'Khapa [khap1243]':1,'Lama Naga [lama1296]':1)'Nuclear Nocte [nucl1786]':1)'Nocte Naga [noct1238][njb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 11,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5672",
+        "label": "Nocte Naga"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7046410",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nocte_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_noc",
+        "label": "Nocte"
+      }
+    ],
+    "meds": [
+      [
+        "547615",
+        "long_grammar",
+        2017,
+        652,
+        "Krishna Boro 2017"
+      ],
+      [
+        "550861",
+        "grammar_sketch",
+        2015,
+        231,
+        "Mongchan, Wanglit 2015"
+      ],
+      [
+        "44922",
+        "grammar_sketch",
+        1971,
+        127,
+        "Das Gupta, Kamalesh 1971"
+      ],
+      [
+        "160204",
+        "wordlist_or_less",
+        1875,
+        12,
+        "Butler, John 1875"
+      ],
+      [
+        "38277",
+        "wordlist_or_less",
+        1849,
+        3,
+        "Brown, Nathan 1849"
+      ]
+    ]
+  },
+  "id": "noct1238",
+  "name": "Nocte Naga",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.152,
+  "longitude": 95.3903,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Brahmaputran",
+      "id": "brah1260",
+      "url": "https://glottolog.org/resource/languoid/id/brah1260"
+    },
+    {
+      "name": "Konyak",
+      "id": "kony1246",
+      "url": "https://glottolog.org/resource/languoid/id/kony1246"
+    },
+    {
+      "name": "Tangsa-Nocte",
+      "id": "kony1249",
+      "url": "https://glottolog.org/resource/languoid/id/kony1249"
+    }
+  ],
+  "iso639-3": "njb"
+}

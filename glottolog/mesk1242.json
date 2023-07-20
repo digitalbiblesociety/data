@@ -1,0 +1,114 @@
+{
+  "pk": 8804,
+  "hid": "sac",
+  "father_pk": 6294,
+  "family_pk": 178,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Meskwakie [mesk1243]':1,'Sac [sacc1239]':1)'Meskwaki [mesk1242][sac]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Fox_language",
+        "label": null
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/1528",
+        "label": "Sauk-Fox"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_fox",
+        "label": "Fox"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q1440172",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "661917",
+        "long_grammar",
+        2023,
+        516,
+        "Ives Goddard 2023"
+      ],
+      [
+        "146218",
+        "long_grammar",
+        2003,
+        425,
+        "Thomason, Lucy Grey 2003"
+      ],
+      [
+        "545087",
+        "grammar",
+        1994,
+        0,
+        "na 1994"
+      ],
+      [
+        "159273",
+        "grammar_sketch",
+        1911,
+        140,
+        "William Jones 1911"
+      ],
+      [
+        "625690",
+        "phonology_or_text",
+        1907,
+        0,
+        "William Jones 1907"
+      ],
+      [
+        "27878",
+        "wordlist_or_less",
+        1836,
+        4,
+        "Albert Gallatin 1836"
+      ]
+    ]
+  },
+  "id": "mesk1242",
+  "name": "Meskwaki",
+  "description": null,
+  "markup_description": null,
+  "latitude": 44,
+  "longitude": -89,
+  "classification": [
+    {
+      "name": "Algic",
+      "id": "algi1248",
+      "url": "https://glottolog.org/resource/languoid/id/algi1248"
+    },
+    {
+      "name": "Algonquian-Blackfoot",
+      "id": "algo1256",
+      "url": "https://glottolog.org/resource/languoid/id/algo1256"
+    },
+    {
+      "name": "Algonquian",
+      "id": "algo1257",
+      "url": "https://glottolog.org/resource/languoid/id/algo1257"
+    },
+    {
+      "name": "Eastern Great Lakes Algonquian",
+      "id": "east2765",
+      "url": "https://glottolog.org/resource/languoid/id/east2765"
+    },
+    {
+      "name": "Fox",
+      "id": "foxx1245",
+      "url": "https://glottolog.org/resource/languoid/id/foxx1245"
+    }
+  ],
+  "iso639-3": "sac"
+}

@@ -1,0 +1,73 @@
+{
+  "pk": 7392,
+  "hid": "czo",
+  "father_pk": 5038,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Min Zhong Chinese [minz1235][czo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Central_Min",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56435",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "52867",
+        "grammar_sketch",
+        1980,
+        53,
+        "Norman, Jerry 1980"
+      ],
+      [
+        "108262",
+        "phonology_or_text",
+        1979,
+        31,
+        "Nakajima, Motoki 1979"
+      ]
+    ]
+  },
+  "id": "minz1235",
+  "name": "Min Zhong Chinese",
+  "description": null,
+  "markup_description": null,
+  "latitude": 26.0686,
+  "longitude": 117.376,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Sinitic",
+      "id": "sini1245",
+      "url": "https://glottolog.org/resource/languoid/id/sini1245"
+    },
+    {
+      "name": "Min",
+      "id": "minn1248",
+      "url": "https://glottolog.org/resource/languoid/id/minn1248"
+    },
+    {
+      "name": "Inland Min",
+      "id": "inla1267",
+      "url": "https://glottolog.org/resource/languoid/id/inla1267"
+    }
+  ],
+  "iso639-3": "czo"
+}

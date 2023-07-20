@@ -1,0 +1,119 @@
+{
+  "pk": 8082,
+  "hid": "tzh",
+  "father_pk": 5660,
+  "family_pk": 76,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Chanal Cancuc [chan1320]':1,'Tenango [tena1239]':1)'Tzeltal [tzel1254][tzh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/8602",
+        "label": "Tzeltal"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tze",
+        "label": "Tzeltal"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tza",
+        "label": "Tzeltal (Aguacatenango)"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tzt",
+        "label": "Tzeltal (Tenejapa)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tzeltal_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/tzel1254",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36808",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "324495",
+        "long_grammar",
+        2013,
+        957,
+        "Gilles Polian 2013"
+      ],
+      [
+        "143876",
+        "long_grammar",
+        1980,
+        336,
+        "Walter, Stephen Leslie 1980"
+      ],
+      [
+        "549878",
+        "grammar",
+        1963,
+        233,
+        "Kaufman, Terrence 1963"
+      ],
+      [
+        "319817",
+        "grammar",
+        1888,
+        173,
+        "Pineda, Vicente 1888"
+      ],
+      [
+        "319816",
+        "grammar",
+        1887,
+        0,
+        "Pineda, Vicente 1887"
+      ]
+    ]
+  },
+  "id": "tzel1254",
+  "name": "Tzeltal",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.6384,
+  "longitude": -92.2786,
+  "classification": [
+    {
+      "name": "Mayan",
+      "id": "maya1287",
+      "url": "https://glottolog.org/resource/languoid/id/maya1287"
+    },
+    {
+      "name": "Core Mayan",
+      "id": "core1254",
+      "url": "https://glottolog.org/resource/languoid/id/core1254"
+    },
+    {
+      "name": "Western Mayan",
+      "id": "west2865",
+      "url": "https://glottolog.org/resource/languoid/id/west2865"
+    },
+    {
+      "name": "Cholan-Tzeltalan",
+      "id": "chol1286",
+      "url": "https://glottolog.org/resource/languoid/id/chol1286"
+    },
+    {
+      "name": "Tzeltalan",
+      "id": "tzel1253",
+      "url": "https://glottolog.org/resource/languoid/id/tzel1253"
+    }
+  ],
+  "iso639-3": "tzh"
+}

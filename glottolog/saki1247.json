@@ -1,0 +1,68 @@
+{
+  "pk": 4706,
+  "hid": "szy",
+  "father_pk": 2984,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Sakizaya [saki1247][szy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q718269",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sakizaya_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "589478",
+        "grammar",
+        2018,
+        24,
+        "Shen, Wenqi 2018"
+      ],
+      [
+        "552638",
+        "grammar_sketch",
+        1993,
+        42,
+        "Tsukida, Naomi 1993"
+      ]
+    ]
+  },
+  "id": "saki1247",
+  "name": "Sakizaya",
+  "description": null,
+  "markup_description": null,
+  "latitude": 24.026316,
+  "longitude": 121.531394,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "East Formosan",
+      "id": "east2493",
+      "url": "https://glottolog.org/resource/languoid/id/east2493"
+    },
+    {
+      "name": "Central East Formosan",
+      "id": "cent2103",
+      "url": "https://glottolog.org/resource/languoid/id/cent2103"
+    }
+  ],
+  "iso639-3": "szy"
+}

@@ -1,0 +1,82 @@
+{
+  "pk": 3098,
+  "hid": "kwa",
+  "father_pk": 1579,
+  "family_pk": 312,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Dâw [daww1239][kwa]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2547",
+        "label": "Dâw"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3042278",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/D%C3%A2w_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/daww1239",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_daw",
+        "label": "Dâw"
+      }
+    ],
+    "meds": [
+      [
+        "30235",
+        "long_grammar",
+        2004,
+        706,
+        "Silvana Andrade Martins 2004"
+      ],
+      [
+        "24229",
+        "grammar",
+        1994,
+        222,
+        "Silvana Andrade Martins 1994"
+      ],
+      [
+        "117675",
+        "wordlist_or_less",
+        1906,
+        10,
+        "Theodor Koch-Grünberg 1906"
+      ]
+    ]
+  },
+  "id": "daww1239",
+  "name": "Dâw",
+  "description": null,
+  "markup_description": null,
+  "latitude": -0.1177,
+  "longitude": -67.2934,
+  "classification": [
+    {
+      "name": "Naduhup",
+      "id": "nada1235",
+      "url": "https://glottolog.org/resource/languoid/id/nada1235"
+    },
+    {
+      "name": "Eastern Naduhup",
+      "id": "east2549",
+      "url": "https://glottolog.org/resource/languoid/id/east2549"
+    }
+  ],
+  "iso639-3": "kwa"
+}

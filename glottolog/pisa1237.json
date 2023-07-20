@@ -1,0 +1,67 @@
+{
+  "pk": 3118,
+  "hid": "tpp",
+  "father_pk": 1595,
+  "family_pk": 319,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Pisaflores Tepehua [pisa1237][tpp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6189",
+        "label": "Pisaflores Tepehua"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Pisaflores_Tepehua",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56349",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "574491",
+        "grammar_sketch",
+        2010,
+        377,
+        "Carolyn J. MacKay and Frank R. Trechsel 2010"
+      ],
+      [
+        "310130",
+        "phonology_or_text",
+        1986,
+        132,
+        "Hernández Sierra, Guadalupe Trinidad 1986"
+      ]
+    ]
+  },
+  "id": "pisa1237",
+  "name": "Pisaflores Tepehua",
+  "description": null,
+  "markup_description": null,
+  "latitude": 20.7039,
+  "longitude": -98.0305,
+  "classification": [
+    {
+      "name": "Totonacan",
+      "id": "toto1251",
+      "url": "https://glottolog.org/resource/languoid/id/toto1251"
+    },
+    {
+      "name": "Tepehua",
+      "id": "tepe1243",
+      "url": "https://glottolog.org/resource/languoid/id/tepe1243"
+    }
+  ],
+  "iso639-3": "tpp"
+}

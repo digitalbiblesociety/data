@@ -1,0 +1,94 @@
+{
+  "pk": 4057,
+  "hid": "nha",
+  "father_pk": 2314,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Nhanda [nhan1238][nha]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nha",
+        "label": "Nhanda"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/5965",
+        "label": "Nhanta"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nhanda_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nhan1238",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3339380",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "123243",
+        "grammar",
+        2001,
+        170,
+        "Juliette Blevins 2001"
+      ],
+      [
+        "668316",
+        "grammar",
+        1996,
+        0,
+        "Thieberger, Nicholas 1996"
+      ],
+      [
+        "6855",
+        "phonology_or_text",
+        1994,
+        5,
+        "Blevins, Juliette and Marmion, Doug 1994"
+      ],
+      [
+        "92643",
+        "wordlist_or_less",
+        1886,
+        2,
+        "Goldsworthy, Roger T. 1886"
+      ]
+    ]
+  },
+  "id": "nhan1238",
+  "name": "Nhanda",
+  "description": null,
+  "markup_description": null,
+  "latitude": -27.42523643,
+  "longitude": 114.2680442,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "South-West Pama-Nyungan",
+      "id": "sout3134",
+      "url": "https://glottolog.org/resource/languoid/id/sout3134"
+    },
+    {
+      "name": "Kartu-Nhanda",
+      "id": "kart1249",
+      "url": "https://glottolog.org/resource/languoid/id/kart1249"
+    }
+  ],
+  "iso639-3": "nha"
+}

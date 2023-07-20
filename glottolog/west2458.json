@@ -1,0 +1,92 @@
+{
+  "pk": 15552,
+  "hid": "bbp",
+  "father_pk": 12809,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dakpa [dakp1243]':1,'Gbaga-Nord [gbag1254]':1,'Gbi [gbii1241]':1,'Vita [vita1238]':1,'Wojo [wojo1239]':1)'West Central Banda [west2458][bbp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7984377",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/West_Banda_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/west2458",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "22826",
+        "grammar",
+        1930,
+        62,
+        "Tisserant, Charles 1930"
+      ],
+      [
+        "115231",
+        "wordlist_or_less",
+        1909,
+        74,
+        "E. Lenfant 1909"
+      ]
+    ]
+  },
+  "id": "west2458",
+  "name": "West Central Banda",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.81435,
+  "longitude": 24.1012,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "North Volta-Congo",
+      "id": "nort3149",
+      "url": "https://glottolog.org/resource/languoid/id/nort3149"
+    },
+    {
+      "name": "Cameroun-Ubangian",
+      "id": "came1255",
+      "url": "https://glottolog.org/resource/languoid/id/came1255"
+    },
+    {
+      "name": "Ubangi",
+      "id": "uban1244",
+      "url": "https://glottolog.org/resource/languoid/id/uban1244"
+    },
+    {
+      "name": "Bandaic",
+      "id": "band1341",
+      "url": "https://glottolog.org/resource/languoid/id/band1341"
+    },
+    {
+      "name": "Nuclear Bandaic",
+      "id": "nucl1797",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1797"
+    }
+  ],
+  "iso639-3": "bbp"
+}

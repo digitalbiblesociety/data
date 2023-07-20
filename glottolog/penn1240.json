@@ -1,0 +1,128 @@
+{
+  "pk": 20924,
+  "hid": "pdc",
+  "father_pk": 18896,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Amish Pennsylvania German [amis1245]':1,'Non-Amish Pennsylvania German [nona1239]':1)'Pennsylvania German [penn1240][pdc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/8429",
+        "label": "Pennsylvania German"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Pennsylvania_Dutch_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q22711",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "571512",
+        "long_grammar",
+        1941,
+        478,
+        "J. William Frey 1941"
+      ],
+      [
+        "577201",
+        "grammar",
+        1940,
+        0,
+        "Shoemaker, Alfred L. 1940"
+      ],
+      [
+        "470455",
+        "grammar_sketch",
+        1910,
+        127,
+        "A. R. Horne 1910"
+      ],
+      [
+        "57976",
+        "grammar_sketch",
+        1889,
+        99,
+        "W. J. Hoffman 1889"
+      ],
+      [
+        "28176",
+        "grammar_sketch",
+        1872,
+        77,
+        "Haldeman, Samuel Stehman 1872"
+      ]
+    ]
+  },
+  "id": "penn1240",
+  "name": "Pennsylvania German",
+  "description": null,
+  "markup_description": null,
+  "latitude": 40.030507,
+  "longitude": -76.3211,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Germanic",
+      "id": "germ1287",
+      "url": "https://glottolog.org/resource/languoid/id/germ1287"
+    },
+    {
+      "name": "Northwest Germanic",
+      "id": "nort3152",
+      "url": "https://glottolog.org/resource/languoid/id/nort3152"
+    },
+    {
+      "name": "West Germanic",
+      "id": "west2793",
+      "url": "https://glottolog.org/resource/languoid/id/west2793"
+    },
+    {
+      "name": "High German",
+      "id": "high1289",
+      "url": "https://glottolog.org/resource/languoid/id/high1289"
+    },
+    {
+      "name": "Middle German",
+      "id": "fran1268",
+      "url": "https://glottolog.org/resource/languoid/id/fran1268"
+    },
+    {
+      "name": "West Middle German",
+      "id": "high1287",
+      "url": "https://glottolog.org/resource/languoid/id/high1287"
+    },
+    {
+      "name": "Rhenish Franconian",
+      "id": "rhin1244",
+      "url": "https://glottolog.org/resource/languoid/id/rhin1244"
+    },
+    {
+      "name": "Palatinate",
+      "id": "pala1355",
+      "url": "https://glottolog.org/resource/languoid/id/pala1355"
+    }
+  ],
+  "iso639-3": "pdc"
+}

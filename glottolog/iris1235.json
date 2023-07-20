@@ -1,0 +1,65 @@
+{
+  "pk": 4328,
+  "hid": "isg",
+  "father_pk": 2525,
+  "family_pk": 206,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Sign Language",
+  "newick": "'Irish Sign Language [iris1235][isg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q14183",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Irish_Sign_Language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_irs",
+        "label": "Irish Sign Language"
+      }
+    ],
+    "meds": [
+      [
+        "574773",
+        "grammar",
+        1996,
+        154,
+        "O'Baoill, Dónall and Matthews, Patrick A. 1996, 2000"
+      ]
+    ]
+  },
+  "id": "iris1235",
+  "name": "Irish Sign Language",
+  "description": null,
+  "markup_description": null,
+  "latitude": 53.315,
+  "longitude": -6.36541,
+  "classification": [
+    {
+      "name": "Sign Language",
+      "id": "sign1238",
+      "url": "https://glottolog.org/resource/languoid/id/sign1238"
+    },
+    {
+      "name": "Deaf Sign Language",
+      "id": "deaf1237",
+      "url": "https://glottolog.org/resource/languoid/id/deaf1237"
+    },
+    {
+      "name": "LSFic",
+      "id": "lsfi1234",
+      "url": "https://glottolog.org/resource/languoid/id/lsfi1234"
+    }
+  ],
+  "iso639-3": "isg"
+}

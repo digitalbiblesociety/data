@@ -1,0 +1,75 @@
+{
+  "pk": 2435,
+  "hid": "nug",
+  "father_pk": 1142,
+  "family_pk": 179,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Nungali [nung1291][nug]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4901",
+        "label": "Nungali"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/n28",
+        "label": "Nungali"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nungali_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nung1291",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7069826",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "63006",
+        "grammar",
+        1971,
+        188,
+        "J. E. Bolt and W. G. Hoddinott and F. M. Kofod 1971"
+      ],
+      [
+        "4167",
+        "wordlist_or_less",
+        1940,
+        1,
+        "Arthur Capell 1940, 1940"
+      ]
+    ]
+  },
+  "id": "nung1291",
+  "name": "Nungali",
+  "description": null,
+  "markup_description": null,
+  "latitude": -14.9109,
+  "longitude": 131.641,
+  "classification": [
+    {
+      "name": "Mirndi",
+      "id": "mirn1241",
+      "url": "https://glottolog.org/resource/languoid/id/mirn1241"
+    },
+    {
+      "name": "Yirram",
+      "id": "djam1254",
+      "url": "https://glottolog.org/resource/languoid/id/djam1254"
+    }
+  ],
+  "iso639-3": "nug"
+}

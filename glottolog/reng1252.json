@@ -1,0 +1,82 @@
+{
+  "pk": 10602,
+  "hid": "ren",
+  "father_pk": 7701,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bahnar-Rengao [bahn1261]':1,'Sedang-Rengao [seda1260]':1,'Western Rengao [west2400]':1)'Rengao [reng1252][ren]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6583692",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Rengao_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_rng",
+        "label": "Rengao"
+      }
+    ],
+    "meds": [
+      [
+        "87300",
+        "grammar",
+        1971,
+        191,
+        "Kenneth Gregerson 1971"
+      ],
+      [
+        "28700",
+        "phonology_or_text",
+        1969,
+        12,
+        "Gregerson, Marilyn B. 1969"
+      ]
+    ]
+  },
+  "id": "reng1252",
+  "name": "Rengao",
+  "description": null,
+  "markup_description": null,
+  "latitude": 14.456,
+  "longitude": 107.9459,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Bahnaric",
+      "id": "bahn1264",
+      "url": "https://glottolog.org/resource/languoid/id/bahn1264"
+    },
+    {
+      "name": "North Bahnaric",
+      "id": "nort3150",
+      "url": "https://glottolog.org/resource/languoid/id/nort3150"
+    },
+    {
+      "name": "Hre-Sedang-Todrah-Monam",
+      "id": "hres1236",
+      "url": "https://glottolog.org/resource/languoid/id/hres1236"
+    },
+    {
+      "name": "Hre-Sedang",
+      "id": "hres1237",
+      "url": "https://glottolog.org/resource/languoid/id/hres1237"
+    }
+  ],
+  "iso639-3": "ren"
+}

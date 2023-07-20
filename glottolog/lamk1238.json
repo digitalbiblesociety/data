@@ -1,0 +1,89 @@
+{
+  "pk": 10240,
+  "hid": "lmk",
+  "father_pk": 7358,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Lamkang [lamk1238][lmk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/849",
+        "label": "Lamkang"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12952703",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lamkang_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "102536",
+        "grammar",
+        2007,
+        189,
+        "Harimohon Thounaojam and Chelliah, Shobhana L. 2007"
+      ],
+      [
+        "314255",
+        "grammar_sketch",
+        1998,
+        0,
+        "Harimohon Singh, Thounaojam 1998"
+      ],
+      [
+        "118757",
+        "wordlist_or_less",
+        1904,
+        5,
+        "George A. Grierson 1904"
+      ]
+    ]
+  },
+  "id": "lamk1238",
+  "name": "Lamkang",
+  "description": null,
+  "markup_description": null,
+  "latitude": 24.1523,
+  "longitude": 94.2706,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Kuki-Chin",
+      "id": "kuki1246",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1246"
+    },
+    {
+      "name": "Northwestern Kuki-Chin",
+      "id": "oldk1252",
+      "url": "https://glottolog.org/resource/languoid/id/oldk1252"
+    },
+    {
+      "name": "Anal-Lamgang",
+      "id": "anal1240",
+      "url": "https://glottolog.org/resource/languoid/id/anal1240"
+    }
+  ],
+  "iso639-3": "lmk"
+}

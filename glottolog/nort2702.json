@@ -1,0 +1,102 @@
+{
+  "pk": 10486,
+  "hid": "gno",
+  "father_pk": 7600,
+  "family_pk": 404,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Amravati [amra1237]':1,'Betul [betu1237]':1,'Bhandara [bhan1241]':1,'Chhindwara [chhi1244]':1,'Mandla {Dravidian} [mand1414]':1,'Nagpur [nagp1250]':1,'Seoni [seon1237]':1,'Yavatmal [yava1251]':1)'Northern Gondi [nort2702][gno]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 8,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q18457536",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "146576",
+        "grammar",
+        1981,
+        142,
+        "Clement F. Moss 1981"
+      ],
+      [
+        "130123",
+        "grammar",
+        1950,
+        131,
+        "Moss, Clement F. 1950"
+      ],
+      [
+        "22597",
+        "grammar_sketch",
+        1919,
+        99,
+        "Chenevix Trench, Charles Godfrey 1919"
+      ],
+      [
+        "122386",
+        "grammar_sketch",
+        1889,
+        95,
+        "Williamson, Henry Drummond 1889"
+      ],
+      [
+        "318854",
+        "grammar_sketch",
+        1849,
+        62,
+        "Driberg, J. G. 1849"
+      ],
+      [
+        "319033",
+        "wordlist_or_less",
+        1847,
+        15,
+        "O. Manger 1847"
+      ]
+    ]
+  },
+  "id": "nort2702",
+  "name": "Northern Gondi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 18.1632,
+  "longitude": 81.3842,
+  "classification": [
+    {
+      "name": "Dravidian",
+      "id": "drav1251",
+      "url": "https://glottolog.org/resource/languoid/id/drav1251"
+    },
+    {
+      "name": "South Dravidian",
+      "id": "sout3133",
+      "url": "https://glottolog.org/resource/languoid/id/sout3133"
+    },
+    {
+      "name": "South Dravidian II",
+      "id": "sout3139",
+      "url": "https://glottolog.org/resource/languoid/id/sout3139"
+    },
+    {
+      "name": "Gondi",
+      "id": "gond1265",
+      "url": "https://glottolog.org/resource/languoid/id/gond1265"
+    },
+    {
+      "name": "Northwest Gondi",
+      "id": "nort3258",
+      "url": "https://glottolog.org/resource/languoid/id/nort3258"
+    }
+  ],
+  "iso639-3": "gno"
+}

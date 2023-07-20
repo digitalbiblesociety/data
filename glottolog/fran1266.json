@@ -1,0 +1,75 @@
+{
+  "pk": 3517,
+  "hid": "zos",
+  "father_pk": 1880,
+  "family_pk": 3,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Chapultenango [chap1265]':1,'San Pedro Yaspac [sanp1256]':1)'Francisco León Zoque [fran1266][zos]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_zfl",
+        "label": "Zoque (Francisco León)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12954011",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "319589",
+        "grammar",
+        2011,
+        200,
+        "Sánchez Álvarez, Miguel 2011"
+      ],
+      [
+        "12091",
+        "grammar_sketch",
+        1987,
+        231,
+        "Alvarez, José Mateo and Engel, Mary and Engel, Ralph 1987"
+      ],
+      [
+        "68852",
+        "grammar_sketch",
+        1877,
+        84,
+        "Jose M. Sanchez 1877"
+      ]
+    ]
+  },
+  "id": "fran1266",
+  "name": "Francisco León Zoque",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.3654,
+  "longitude": -93.3633,
+  "classification": [
+    {
+      "name": "Mixe-Zoque",
+      "id": "mixe1284",
+      "url": "https://glottolog.org/resource/languoid/id/mixe1284"
+    },
+    {
+      "name": "Zoque",
+      "id": "zoqu1261",
+      "url": "https://glottolog.org/resource/languoid/id/zoqu1261"
+    },
+    {
+      "name": "Chiapas Zoque",
+      "id": "chia1261",
+      "url": "https://glottolog.org/resource/languoid/id/chia1261"
+    }
+  ],
+  "iso639-3": "zos"
+}

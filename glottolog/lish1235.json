@@ -1,0 +1,80 @@
+{
+  "pk": 7287,
+  "hid": "lsh",
+  "father_pk": 4950,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Khispi [lish1235][lsh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6558822",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lish_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "104643",
+        "wordlist_or_less",
+        2005,
+        10,
+        "Binny Abraham and Kara Sako and Elina Kinny and Isapdaile Zeliang 2005"
+      ],
+      [
+        "9672",
+        "wordlist_or_less",
+        1997,
+        6,
+        "Grewal, Dalvinder Singh 1997"
+      ],
+      [
+        "568726",
+        "wordlist_or_less",
+        1972,
+        32,
+        "Barthakur, J. K. 1972"
+      ]
+    ]
+  },
+  "id": "lish1235",
+  "name": "Khispi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.3688993,
+  "longitude": 92.2394672,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kho-Bwa",
+      "id": "khob1235",
+      "url": "https://glottolog.org/resource/languoid/id/khob1235"
+    },
+    {
+      "name": "Western Kho-Bwa",
+      "id": "meyi1234",
+      "url": "https://glottolog.org/resource/languoid/id/meyi1234"
+    },
+    {
+      "name": "Chug-Lish",
+      "id": "chug1251",
+      "url": "https://glottolog.org/resource/languoid/id/chug1251"
+    }
+  ],
+  "iso639-3": "lsh"
+}

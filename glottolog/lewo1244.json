@@ -1,0 +1,90 @@
+{
+  "pk": 12110,
+  "hid": "lwt",
+  "father_pk": 9230,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Lewotobi [lewo1244][lwt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q14916885",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lewotobi_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "315127",
+        "long_grammar",
+        2012,
+        699,
+        "Nagaya, Naonori 2012"
+      ],
+      [
+        "319026",
+        "phonology_or_text",
+        2010,
+        39,
+        "Nagaya, Naonori 2010"
+      ],
+      [
+        "127725",
+        "wordlist_or_less",
+        1978,
+        1,
+        "Gregorius Keraf 1978"
+      ]
+    ]
+  },
+  "id": "lewo1244",
+  "name": "Lewotobi",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.54573,
+  "longitude": 122.747,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Bima-Lembata",
+      "id": "bima1248",
+      "url": "https://glottolog.org/resource/languoid/id/bima1248"
+    },
+    {
+      "name": "Flores-Lembata",
+      "id": "flor1239",
+      "url": "https://glottolog.org/resource/languoid/id/flor1239"
+    },
+    {
+      "name": "Lamaholot Barat",
+      "id": "lama1293",
+      "url": "https://glottolog.org/resource/languoid/id/lama1293"
+    },
+    {
+      "name": "Flores Lamaholot",
+      "id": "flor1242",
+      "url": "https://glottolog.org/resource/languoid/id/flor1242"
+    }
+  ],
+  "iso639-3": "lwt"
+}

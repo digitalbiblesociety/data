@@ -1,0 +1,83 @@
+{
+  "pk": 4133,
+  "hid": "ulc",
+  "father_pk": 2359,
+  "family_pk": 162,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ulch [ulch1241][ulc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3009",
+        "label": "Ulch"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ulc",
+        "label": "Ulcha"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ulch_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q13239",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "577691",
+        "grammar",
+        1985,
+        0,
+        "Sunik, 0. P. 1985"
+      ],
+      [
+        "41886",
+        "grammar_sketch",
+        1936,
+        154,
+        "Petrova, Taisija Ivanova 1936"
+      ],
+      [
+        "312940",
+        "wordlist_or_less",
+        1923,
+        58,
+        "Schmidt, Paul 1923"
+      ]
+    ]
+  },
+  "id": "ulch1241",
+  "name": "Ulch",
+  "description": null,
+  "markup_description": null,
+  "latitude": 51.85209,
+  "longitude": 140.29045,
+  "classification": [
+    {
+      "name": "Tungusic",
+      "id": "tung1282",
+      "url": "https://glottolog.org/resource/languoid/id/tung1282"
+    },
+    {
+      "name": "Central-Western Tungusic",
+      "id": "orok1264",
+      "url": "https://glottolog.org/resource/languoid/id/orok1264"
+    },
+    {
+      "name": "Ulchaic",
+      "id": "ulch1242",
+      "url": "https://glottolog.org/resource/languoid/id/ulch1242"
+    }
+  ],
+  "iso639-3": "ulc"
+}

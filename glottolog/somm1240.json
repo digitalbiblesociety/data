@@ -1,0 +1,89 @@
+{
+  "pk": 9101,
+  "hid": "smc",
+  "father_pk": 6603,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Som [somm1240][smc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2686",
+        "label": "Som"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7559081",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Som_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "549167",
+        "phonology_or_text",
+        2017,
+        18,
+        "Valérie Guérin 2017"
+      ],
+      [
+        "21928",
+        "wordlist_or_less",
+        1995,
+        1,
+        "Malcolm Ross 1995"
+      ],
+      [
+        "64314",
+        "wordlist_or_less",
+        1970,
+        1,
+        "Oren R. Claassen and Kenneth A. McElhanon 1970"
+      ]
+    ]
+  },
+  "id": "somm1240",
+  "name": "Som",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.07366,
+  "longitude": 146.651,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Finisterre-Huon",
+      "id": "fini1244",
+      "url": "https://glottolog.org/resource/languoid/id/fini1244"
+    },
+    {
+      "name": "Finisterre-Saruwaged",
+      "id": "fini1245",
+      "url": "https://glottolog.org/resource/languoid/id/fini1245"
+    },
+    {
+      "name": "Uruwa",
+      "id": "uruw1240",
+      "url": "https://glottolog.org/resource/languoid/id/uruw1240"
+    },
+    {
+      "name": "Sakam-Som",
+      "id": "saka1297",
+      "url": "https://glottolog.org/resource/languoid/id/saka1297"
+    }
+  ],
+  "iso639-3": "smc"
+}

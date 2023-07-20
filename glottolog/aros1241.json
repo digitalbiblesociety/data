@@ -1,0 +1,111 @@
+{
+  "pk": 17648,
+  "hid": "aia",
+  "father_pk": 15255,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Nuclear Arosi [nucl1473]':1,'Wango [wang1296]':1)'Arosi [aros1241][aia]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_aro",
+        "label": "Arosi"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Arosi_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2863483",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "20150",
+        "grammar_sketch",
+        1971,
+        94,
+        "Arthur Capell 1971"
+      ],
+      [
+        "163659",
+        "phonology_or_text",
+        1970,
+        409,
+        "Fox, C. E. 1970"
+      ],
+      [
+        "53206",
+        "wordlist_or_less",
+        1919,
+        1,
+        "Sidney H. Ray 1919/1920"
+      ],
+      [
+        "99266",
+        "wordlist_or_less",
+        1885,
+        6,
+        "Robert Codrington 1885"
+      ]
+    ]
+  },
+  "id": "aros1241",
+  "name": "Arosi",
+  "description": null,
+  "markup_description": null,
+  "latitude": -10.2441,
+  "longitude": 161.432,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Southeast Solomonic",
+      "id": "sout2853",
+      "url": "https://glottolog.org/resource/languoid/id/sout2853"
+    },
+    {
+      "name": "Longgu-Malaita-Makira",
+      "id": "mala1485",
+      "url": "https://glottolog.org/resource/languoid/id/mala1485"
+    },
+    {
+      "name": "Malaita-Makira",
+      "id": "mala1540",
+      "url": "https://glottolog.org/resource/languoid/id/mala1540"
+    },
+    {
+      "name": "Makira",
+      "id": "sanc1243",
+      "url": "https://glottolog.org/resource/languoid/id/sanc1243"
+    }
+  ],
+  "iso639-3": "aia"
+}

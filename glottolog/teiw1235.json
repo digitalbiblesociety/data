@@ -1,0 +1,87 @@
+{
+  "pk": 11355,
+  "hid": "twe",
+  "father_pk": 8355,
+  "family_pk": 125,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Deing [dein1238]':1,'Lebang [leba1239]':1,'Madar [mada1286]':1)'Teiwa [teiw1235][twe]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2087",
+        "label": "Teiwa"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3519302",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Teiwa_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "32869",
+        "long_grammar",
+        2010,
+        558,
+        "Marian Klamer 2010"
+      ],
+      [
+        "63975",
+        "wordlist_or_less",
+        1973,
+        7,
+        "F. Watuseke 1973"
+      ]
+    ]
+  },
+  "id": "teiw1235",
+  "name": "Teiwa",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.37662,
+  "longitude": 124.174,
+  "classification": [
+    {
+      "name": "Timor-Alor-Pantar",
+      "id": "timo1261",
+      "url": "https://glottolog.org/resource/languoid/id/timo1261"
+    },
+    {
+      "name": "Alor-Pantar",
+      "id": "alor1249",
+      "url": "https://glottolog.org/resource/languoid/id/alor1249"
+    },
+    {
+      "name": "Nuclear Alor-Pantar",
+      "id": "nucl1821",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1821"
+    },
+    {
+      "name": "West Alor-Straits-Pantar",
+      "id": "west2994",
+      "url": "https://glottolog.org/resource/languoid/id/west2994"
+    },
+    {
+      "name": "Pantar",
+      "id": "pant1258",
+      "url": "https://glottolog.org/resource/languoid/id/pant1258"
+    },
+    {
+      "name": "Teiwa-Sar",
+      "id": "teiw1236",
+      "url": "https://glottolog.org/resource/languoid/id/teiw1236"
+    }
+  ],
+  "iso639-3": "twe"
+}

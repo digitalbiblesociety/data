@@ -1,0 +1,68 @@
+{
+  "pk": 5308,
+  "hid": "phg",
+  "father_pk": 3486,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Phuong [phuo1238][phg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7188376",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Phuong_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "147966",
+        "phonology_or_text",
+        1991,
+        90,
+        "Costello, Nancy A. 1991"
+      ],
+      [
+        "91631",
+        "wordlist_or_less",
+        1971,
+        0,
+        "Costello, Nancy A. 1971"
+      ]
+    ]
+  },
+  "id": "phuo1238",
+  "name": "Phuong",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.2118,
+  "longitude": 107.467,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Katuic",
+      "id": "katu1271",
+      "url": "https://glottolog.org/resource/languoid/id/katu1271"
+    },
+    {
+      "name": "Katu",
+      "id": "katu1272",
+      "url": "https://glottolog.org/resource/languoid/id/katu1272"
+    }
+  ],
+  "iso639-3": "phg"
+}

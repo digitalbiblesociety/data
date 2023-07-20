@@ -1,0 +1,107 @@
+{
+  "pk": 8425,
+  "hid": "rxd",
+  "father_pk": 5951,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ngardi [ngar1288][rxd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5246",
+        "label": "Ngardi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7022063",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ngardi_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/ngar1288",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "612839",
+        "long_grammar",
+        2021,
+        796,
+        "Thomas Blake Ennever 2021"
+      ],
+      [
+        "571051",
+        "grammar_sketch",
+        2018,
+        322,
+        "Thomas Blake Ennever 2018"
+      ],
+      [
+        "143363",
+        "grammar_sketch",
+        2005,
+        77,
+        "Tom Honeyman 2005"
+      ],
+      [
+        "557776",
+        "wordlist_or_less",
+        1980,
+        5,
+        "Wafer, James 1980"
+      ],
+      [
+        "83548",
+        "wordlist_or_less",
+        1926,
+        2,
+        "M. Terry 1926"
+      ]
+    ]
+  },
+  "id": "ngar1288",
+  "name": "Ngardi",
+  "description": null,
+  "markup_description": null,
+  "latitude": -21.0231,
+  "longitude": 129.0308,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Desert Nyungic",
+      "id": "dese1234",
+      "url": "https://glottolog.org/resource/languoid/id/dese1234"
+    },
+    {
+      "name": "Ngumpin-Yapa",
+      "id": "ngum1251",
+      "url": "https://glottolog.org/resource/languoid/id/ngum1251"
+    },
+    {
+      "name": "Ngumpin",
+      "id": "ngum1256",
+      "url": "https://glottolog.org/resource/languoid/id/ngum1256"
+    },
+    {
+      "name": "Western Ngumpin",
+      "id": "west3005",
+      "url": "https://glottolog.org/resource/languoid/id/west3005"
+    }
+  ],
+  "iso639-3": "rxd"
+}

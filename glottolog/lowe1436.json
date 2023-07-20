@@ -1,0 +1,81 @@
+{
+  "pk": 6074,
+  "hid": "axl",
+  "father_pk": 4081,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Lower Southern Aranda [lowe1436][axl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6788",
+        "label": "Lower Southern Aranda"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6693295",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lower_Arrernte_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/lowe1436",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "577032",
+        "grammar_sketch",
+        1891,
+        34,
+        "Schulze, L. 1891"
+      ],
+      [
+        "18316",
+        "wordlist_or_less",
+        1886,
+        5,
+        "London, John H. and Mueller, J. F. 1886"
+      ]
+    ]
+  },
+  "id": "lowe1436",
+  "name": "Lower Southern Aranda",
+  "description": null,
+  "markup_description": null,
+  "latitude": -26.3,
+  "longitude": 135.4,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Arandic-Thura-Yura",
+      "id": "aran1266",
+      "url": "https://glottolog.org/resource/languoid/id/aran1266"
+    },
+    {
+      "name": "Arandic",
+      "id": "aran1267",
+      "url": "https://glottolog.org/resource/languoid/id/aran1267"
+    },
+    {
+      "name": "South Arandic",
+      "id": "sout3384",
+      "url": "https://glottolog.org/resource/languoid/id/sout3384"
+    }
+  ],
+  "iso639-3": "axl"
+}

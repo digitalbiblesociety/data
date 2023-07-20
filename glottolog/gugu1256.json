@@ -1,0 +1,71 @@
+{
+  "pk": 2325,
+  "hid": "wrw",
+  "father_pk": 1069,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Roth''s Gugu Warra [gugu1256][wrw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6609",
+        "label": "Gugu-Warra"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/y80",
+        "label": "Kuku-Warra"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Gugu_Warra_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5615286",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "301477",
+        "wordlist_or_less",
+        1976,
+        2,
+        "Sommer, Bruce A. 1976"
+      ],
+      [
+        "59313",
+        "wordlist_or_less",
+        1898,
+        0,
+        "Roth, Walter E. 1898"
+      ]
+    ]
+  },
+  "id": "gugu1256",
+  "name": "Roth's Gugu Warra",
+  "description": null,
+  "markup_description": null,
+  "latitude": -12.713,
+  "longitude": 142.569,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Unclassified Pama-Nyungan",
+      "id": "unun9964",
+      "url": "https://glottolog.org/resource/languoid/id/unun9964"
+    }
+  ],
+  "iso639-3": "wrw"
+}

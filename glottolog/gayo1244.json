@@ -1,0 +1,90 @@
+{
+  "pk": 4638,
+  "hid": "gay",
+  "father_pk": 2955,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bobasan [boba1247]':1,'Dorot [doro1264]':1,'Serbodjadi [serb1268]':1,'Tampur [tamp1253]':1)'Gayo [gayo1244][gay]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_gay",
+        "label": "Gayo"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Gayo_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/gayo1244",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33286",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "129547",
+        "long_grammar",
+        2005,
+        372,
+        "Eades, Domenyk 2005"
+      ],
+      [
+        "30779",
+        "grammar_sketch",
+        1984,
+        133,
+        "Soravia, Giulio 1984"
+      ],
+      [
+        "58588",
+        "phonology_or_text",
+        1907,
+        1168,
+        "Hazeu, Godard Arend Johannes 1907"
+      ],
+      [
+        "549221",
+        "wordlist_or_less",
+        1904,
+        7,
+        "Hagen, Bernhard 1904"
+      ]
+    ]
+  },
+  "id": "gayo1244",
+  "name": "Gayo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.3733,
+  "longitude": 97.3456,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Northwest Sumatra-Barrier Islands",
+      "id": "nort2829",
+      "url": "https://glottolog.org/resource/languoid/id/nort2829"
+    }
+  ],
+  "iso639-3": "gay"
+}

@@ -1,0 +1,86 @@
+{
+  "pk": 3536,
+  "hid": "gut",
+  "father_pk": 1890,
+  "family_pk": 10,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Maléku Jaíka [male1297][gut]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4246",
+        "label": "Guatuso"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mal%C3%A9ku_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3915782",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "158823",
+        "grammar",
+        1998,
+        242,
+        "Constenla Umaña, Adolfo 1998"
+      ],
+      [
+        "149033",
+        "grammar_sketch",
+        1990,
+        42,
+        "Constenla Umaña, Adolfo 1990"
+      ],
+      [
+        "74270",
+        "grammar_sketch",
+        1975,
+        0,
+        "Constenla Umaña, Adolfo 1975"
+      ],
+      [
+        "64476",
+        "wordlist_or_less",
+        1882,
+        46,
+        "Thiel, Bernardo Augusto 1882"
+      ]
+    ]
+  },
+  "id": "male1297",
+  "name": "Maléku Jaíka",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.7485,
+  "longitude": -84.7318,
+  "classification": [
+    {
+      "name": "Chibchan",
+      "id": "chib1249",
+      "url": "https://glottolog.org/resource/languoid/id/chib1249"
+    },
+    {
+      "name": "Core Chibchan",
+      "id": "core1252",
+      "url": "https://glottolog.org/resource/languoid/id/core1252"
+    },
+    {
+      "name": "Votic Chibchan",
+      "id": "voti1248",
+      "url": "https://glottolog.org/resource/languoid/id/voti1248"
+    }
+  ],
+  "iso639-3": "gut"
+}

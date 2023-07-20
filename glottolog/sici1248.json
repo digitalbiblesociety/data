@@ -1,0 +1,110 @@
+{
+  "pk": 20985,
+  "hid": "scn",
+  "father_pk": 18932,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Metafonetica [cent1963]':1,'Eastern Nonmetafonetica [east2279]':1,'Isole Eolie [isol1238]':1,'Messinese [mess1247]':1,'Pantesco [pant1252]':1,'Southeast Metafonetica [sout2617]':1,'Southern Calabro [sout2616]':1,'Western Sicilian [west2346]':1)'Sicilian [sici1248][scn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 8,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Sicilian_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33973",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "300443",
+        "grammar",
+        1882,
+        254,
+        "Corrado Avolio 1882"
+      ],
+      [
+        "575181",
+        "phonology_or_text",
+        1876,
+        1220,
+        "Vincenzo Mortillaro 1876"
+      ],
+      [
+        "13948",
+        "phonology_or_text",
+        1787,
+        3,
+        "Lorenzo Hervas 1787"
+      ]
+    ]
+  },
+  "id": "sici1248",
+  "name": "Sicilian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 37.5735,
+  "longitude": 14.0414,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Italic",
+      "id": "ital1284",
+      "url": "https://glottolog.org/resource/languoid/id/ital1284"
+    },
+    {
+      "name": "Latino-Faliscan",
+      "id": "lati1262",
+      "url": "https://glottolog.org/resource/languoid/id/lati1262"
+    },
+    {
+      "name": "Latinic",
+      "id": "lati1263",
+      "url": "https://glottolog.org/resource/languoid/id/lati1263"
+    },
+    {
+      "name": "Imperial Latin",
+      "id": "impe1234",
+      "url": "https://glottolog.org/resource/languoid/id/impe1234"
+    },
+    {
+      "name": "Romance",
+      "id": "roma1334",
+      "url": "https://glottolog.org/resource/languoid/id/roma1334"
+    },
+    {
+      "name": "Italo-Western Romance",
+      "id": "ital1285",
+      "url": "https://glottolog.org/resource/languoid/id/ital1285"
+    },
+    {
+      "name": "Italo-Dalmatian",
+      "id": "ital1286",
+      "url": "https://glottolog.org/resource/languoid/id/ital1286"
+    },
+    {
+      "name": "Italian Romance",
+      "id": "ital1287",
+      "url": "https://glottolog.org/resource/languoid/id/ital1287"
+    }
+  ],
+  "iso639-3": "scn"
+}

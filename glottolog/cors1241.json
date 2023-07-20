@@ -1,0 +1,121 @@
+{
+  "pk": 20990,
+  "hid": "cos",
+  "father_pk": 18935,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Northern Corsican [nort2611]':1,'Sartenais [sart1246]':1,'Venaco [vena1238]':1,'Vico-Ajaccio [vico1238]':1)'Corsican [cors1241][cos]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3171",
+        "label": "Corsican"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Corsican_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33111",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "22631",
+        "long_grammar",
+        2006,
+        647,
+        "Giudicelli, Ange-Pierre 2006"
+      ],
+      [
+        "316088",
+        "grammar",
+        1999,
+        278,
+        "Jacques Fusina 1999"
+      ],
+      [
+        "112959",
+        "grammar_sketch",
+        1977,
+        143,
+        "Melillo, Armistizio Matteo 1977"
+      ],
+      [
+        "54846",
+        "wordlist_or_less",
+        1862,
+        1,
+        "Latham, Robert Gordon 1862"
+      ]
+    ]
+  },
+  "id": "cors1241",
+  "name": "Corsican",
+  "description": null,
+  "markup_description": null,
+  "latitude": 41.7,
+  "longitude": 9.25537,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Italic",
+      "id": "ital1284",
+      "url": "https://glottolog.org/resource/languoid/id/ital1284"
+    },
+    {
+      "name": "Latino-Faliscan",
+      "id": "lati1262",
+      "url": "https://glottolog.org/resource/languoid/id/lati1262"
+    },
+    {
+      "name": "Latinic",
+      "id": "lati1263",
+      "url": "https://glottolog.org/resource/languoid/id/lati1263"
+    },
+    {
+      "name": "Imperial Latin",
+      "id": "impe1234",
+      "url": "https://glottolog.org/resource/languoid/id/impe1234"
+    },
+    {
+      "name": "Romance",
+      "id": "roma1334",
+      "url": "https://glottolog.org/resource/languoid/id/roma1334"
+    },
+    {
+      "name": "Southern Romance",
+      "id": "sout3158",
+      "url": "https://glottolog.org/resource/languoid/id/sout3158"
+    },
+    {
+      "name": "Sardo-Corsican",
+      "id": "sard1256",
+      "url": "https://glottolog.org/resource/languoid/id/sard1256"
+    },
+    {
+      "name": "Corsic",
+      "id": "cors1242",
+      "url": "https://glottolog.org/resource/languoid/id/cors1242"
+    }
+  ],
+  "iso639-3": "cos"
+}

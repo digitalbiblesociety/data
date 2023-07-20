@@ -1,0 +1,47 @@
+{
+  "pk": 3051,
+  "hid": "kom",
+  "father_pk": 1554,
+  "family_pk": 302,
+  "level": "family",
+  "bookkeeping": false,
+  "category": "Family",
+  "newick": "(('North Permyak [nort2244]':1,'South Permyak [sout2463]':1,'Zyuzdin [zyud1238]':1)'Komi-Permyak [komi1269][koi]-l-':1,'Komi-Yazva [komi1277]-l-':1,(('Lower Vychegda [lowe1461]':1,'Middle Sysola [midd1378]':1,'Middle Vychegda [midd1377]':1,'Upper Vychegda [uppe1482]':1)'Central Zyryan [cent2400]':1,('Izhma [izhm1234]':1,'Pechora [pech1243]':1,'Vym'' [vymm1234]':1)'North Zyryan [nort3401]':1,('Luza-Letka [luza1234]':1,'Upper Sysola [uppe1483]':1)'South Zyryan [sout3379]':1,'West Zyryan [west2991]':1)'Komi-Zyrian [komi1268][kpv]-l-':1)'Komi [komi1267][kom]':1",
+  "child_family_count": 0,
+  "child_language_count": 3,
+  "child_dialect_count": 16,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Komi_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36126",
+        "label": null
+      }
+    ]
+  },
+  "id": "komi1267",
+  "name": "Komi",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Uralic",
+      "id": "ural1272",
+      "url": "https://glottolog.org/resource/languoid/id/ural1272"
+    },
+    {
+      "name": "Permian",
+      "id": "perm1256",
+      "url": "https://glottolog.org/resource/languoid/id/perm1256"
+    }
+  ],
+  "iso639-3": "kom"
+}

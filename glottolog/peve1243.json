@@ -1,0 +1,109 @@
+{
+  "pk": 5787,
+  "hid": "lme",
+  "father_pk": 3835,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dari {Chadic} [dari1254]':1,'Doe {Chadic} [doee1242]':1,'Lamé [lame1268]':1)'Peve [peve1243][lme]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56249",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Peve_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/peve1243",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_lam",
+        "label": "Lamé"
+      }
+    ],
+    "meds": [
+      [
+        "577153",
+        "long_grammar",
+        2019,
+        383,
+        "Erin Shay 2019"
+      ],
+      [
+        "104306",
+        "grammar",
+        1982,
+        0,
+        "Sachnine, Michka 1982"
+      ],
+      [
+        "59576",
+        "phonology_or_text",
+        1978,
+        14,
+        "Jungraithmayr, Herrmann 1978"
+      ],
+      [
+        "93408",
+        "phonology_or_text",
+        1975,
+        18,
+        "Venberg, Rodney 1975"
+      ],
+      [
+        "102268",
+        "wordlist_or_less",
+        1937,
+        2,
+        "Lukas, Johannes 1937"
+      ],
+      [
+        "128741",
+        "wordlist_or_less",
+        1910,
+        1,
+        "Strümpell, F. 1910"
+      ]
+    ]
+  },
+  "id": "peve1243",
+  "name": "Peve",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.16111,
+  "longitude": 14.441,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "Masa",
+      "id": "masa1323",
+      "url": "https://glottolog.org/resource/languoid/id/masa1323"
+    },
+    {
+      "name": "South Masa",
+      "id": "sout3146",
+      "url": "https://glottolog.org/resource/languoid/id/sout3146"
+    }
+  ],
+  "iso639-3": "lme"
+}

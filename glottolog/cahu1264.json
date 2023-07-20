@@ -1,0 +1,107 @@
+{
+  "pk": 8603,
+  "hid": "chl",
+  "father_pk": 6127,
+  "family_pk": 155,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Desert Cahuilla [dese1235]':1,'Mountain Cahuilla [moun1256]':1,'Pass Cahuilla [pass1251]':1)'Cahuilla [cahu1264][chl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1679",
+        "label": "Cahuilla"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cahuilla_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_cah",
+        "label": "Cahuilla"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56438",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "118676",
+        "long_grammar",
+        1977,
+        371,
+        "Seiler, Hansjakob 1977"
+      ],
+      [
+        "667569",
+        "grammar",
+        1972,
+        0,
+        "Seiler, Hansjakob 1972"
+      ],
+      [
+        "31050",
+        "grammar_sketch",
+        1967,
+        13,
+        "Seiler, Hansjakob 1967"
+      ],
+      [
+        "308539",
+        "wordlist_or_less",
+        1903,
+        16,
+        "Nicolás León 1903"
+      ],
+      [
+        "75804",
+        "wordlist_or_less",
+        1855,
+        8,
+        "Amiel W. Whipple and Thomas Ewbank and William W. Turner 1855"
+      ]
+    ]
+  },
+  "id": "cahu1264",
+  "name": "Cahuilla",
+  "description": null,
+  "markup_description": null,
+  "latitude": 33.5324,
+  "longitude": -116.691,
+  "classification": [
+    {
+      "name": "Uto-Aztecan",
+      "id": "utoa1244",
+      "url": "https://glottolog.org/resource/languoid/id/utoa1244"
+    },
+    {
+      "name": "Northern Uto-Aztecan",
+      "id": "nort2953",
+      "url": "https://glottolog.org/resource/languoid/id/nort2953"
+    },
+    {
+      "name": "Californian Uto-Aztecan",
+      "id": "cali1246",
+      "url": "https://glottolog.org/resource/languoid/id/cali1246"
+    },
+    {
+      "name": "Cupan",
+      "id": "cupa1239",
+      "url": "https://glottolog.org/resource/languoid/id/cupa1239"
+    },
+    {
+      "name": "Cahuilla-Cupeno",
+      "id": "cahu1263",
+      "url": "https://glottolog.org/resource/languoid/id/cahu1263"
+    }
+  ],
+  "iso639-3": "chl"
+}

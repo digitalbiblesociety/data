@@ -1,0 +1,81 @@
+{
+  "pk": 6285,
+  "hid": "atj",
+  "father_pk": 4235,
+  "family_pk": 178,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Atikamekw [atik1240][atj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ati",
+        "label": "Atikamekw"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/1673",
+        "label": "Attikamek"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Atikamekw_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56590",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "123048",
+        "long_grammar",
+        1978,
+        666,
+        "Beland, Jean Pierre 1978"
+      ],
+      [
+        "80481",
+        "grammar_sketch",
+        1945,
+        9,
+        "John M. Cooper 1945"
+      ]
+    ]
+  },
+  "id": "atik1240",
+  "name": "Atikamekw",
+  "description": null,
+  "markup_description": null,
+  "latitude": 47.9555,
+  "longitude": -73.7989,
+  "classification": [
+    {
+      "name": "Algic",
+      "id": "algi1248",
+      "url": "https://glottolog.org/resource/languoid/id/algi1248"
+    },
+    {
+      "name": "Algonquian-Blackfoot",
+      "id": "algo1256",
+      "url": "https://glottolog.org/resource/languoid/id/algo1256"
+    },
+    {
+      "name": "Algonquian",
+      "id": "algo1257",
+      "url": "https://glottolog.org/resource/languoid/id/algo1257"
+    },
+    {
+      "name": "Cree-Montagnais-Naskapi",
+      "id": "cree1271",
+      "url": "https://glottolog.org/resource/languoid/id/cree1271"
+    }
+  ],
+  "iso639-3": "atj"
+}

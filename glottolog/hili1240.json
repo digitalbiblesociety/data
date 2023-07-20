@@ -1,0 +1,108 @@
+{
+  "pk": 17412,
+  "hid": "hil",
+  "father_pk": 15078,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bantayan [bant1287]':1,'Kari {Austronesian} [kari1307]':1,'Kawayan [kawa1279]':1,'Nuclear Hiligaynon [nucl1546]':1)'Hiligaynon [hili1240][hil]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_hil",
+        "label": "Hiligaynon"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Hiligaynon_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/hili1240",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35978",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "323940",
+        "long_grammar",
+        1971,
+        453,
+        "Motus, Cecile L. 1971"
+      ],
+      [
+        "300230",
+        "long_grammar",
+        1894,
+        306,
+        "Alonso de Méntrida-Aparicio 1894"
+      ],
+      [
+        "588534",
+        "grammar",
+        1618,
+        279,
+        "Alonso de Méntrida 1818 [1618]"
+      ]
+    ]
+  },
+  "id": "hili1240",
+  "name": "Hiligaynon",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.4018,
+  "longitude": 122.974,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Greater Central Philippine",
+      "id": "grea1284",
+      "url": "https://glottolog.org/resource/languoid/id/grea1284"
+    },
+    {
+      "name": "Central Philippine",
+      "id": "cent2246",
+      "url": "https://glottolog.org/resource/languoid/id/cent2246"
+    },
+    {
+      "name": "Bisayan",
+      "id": "bisa1268",
+      "url": "https://glottolog.org/resource/languoid/id/bisa1268"
+    },
+    {
+      "name": "Central Bisayan",
+      "id": "cent2263",
+      "url": "https://glottolog.org/resource/languoid/id/cent2263"
+    },
+    {
+      "name": "Peripheral Central Bisayan",
+      "id": "peri1261",
+      "url": "https://glottolog.org/resource/languoid/id/peri1261"
+    },
+    {
+      "name": "Capiznon-Ilonggo-Kawayan",
+      "id": "capi1240",
+      "url": "https://glottolog.org/resource/languoid/id/capi1240"
+    }
+  ],
+  "iso639-3": "hil"
+}

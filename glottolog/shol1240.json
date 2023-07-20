@@ -1,0 +1,94 @@
+{
+  "pk": 13540,
+  "hid": "sle",
+  "father_pk": 10478,
+  "family_pk": 404,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Sholaga [shol1240][sle]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2061",
+        "label": "Sholaga"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7500203",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sholaga_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "7631",
+        "long_grammar",
+        1968,
+        340,
+        "K. S. Gurubasave Gowda 1968"
+      ],
+      [
+        "65082",
+        "wordlist_or_less",
+        1909,
+        131,
+        "Thurston, Edgar 1909"
+      ],
+      [
+        "89140",
+        "wordlist_or_less",
+        1903,
+        4,
+        "Edgar Thurston 1903"
+      ]
+    ]
+  },
+  "id": "shol1240",
+  "name": "Sholaga",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.9458,
+  "longitude": 77.2211,
+  "classification": [
+    {
+      "name": "Dravidian",
+      "id": "drav1251",
+      "url": "https://glottolog.org/resource/languoid/id/drav1251"
+    },
+    {
+      "name": "South Dravidian",
+      "id": "sout3133",
+      "url": "https://glottolog.org/resource/languoid/id/sout3133"
+    },
+    {
+      "name": "South Dravidian I",
+      "id": "sout3138",
+      "url": "https://glottolog.org/resource/languoid/id/sout3138"
+    },
+    {
+      "name": "Tamil-Kannada",
+      "id": "tami1291",
+      "url": "https://glottolog.org/resource/languoid/id/tami1291"
+    },
+    {
+      "name": "Badaga-Kannada",
+      "id": "bada1263",
+      "url": "https://glottolog.org/resource/languoid/id/bada1263"
+    },
+    {
+      "name": "Kannadoid",
+      "id": "kann1259",
+      "url": "https://glottolog.org/resource/languoid/id/kann1259"
+    }
+  ],
+  "iso639-3": "sle"
+}

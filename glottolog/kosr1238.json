@@ -1,0 +1,105 @@
+{
+  "pk": 12480,
+  "hid": "kos",
+  "father_pk": 9501,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Lelu-Tafunsak [lelu1237]':1,'Malen-Utwe [male1285]':1)'Kosraean [kosr1238][kos]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4428",
+        "label": "Kosraean"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kos",
+        "label": "Kosraean"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kosraean_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33464",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "98156",
+        "long_grammar",
+        1975,
+        432,
+        "Kee-Dong Lee 1975"
+      ],
+      [
+        "589932",
+        "grammar_sketch",
+        1969,
+        0,
+        "Vesper, Ethel R. 1969"
+      ],
+      [
+        "551936",
+        "wordlist_or_less",
+        1920,
+        142,
+        "Ernst Gotthilf Sarfert 1920"
+      ],
+      [
+        "551935",
+        "wordlist_or_less",
+        1919,
+        429,
+        "Ernst Gotthilf Sarfert 1919"
+      ]
+    ]
+  },
+  "id": "kosr1238",
+  "name": "Kosraean",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.31,
+  "longitude": 162.98,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Micronesian",
+      "id": "micr1243",
+      "url": "https://glottolog.org/resource/languoid/id/micr1243"
+    },
+    {
+      "name": "Kosraean-Nauruan",
+      "id": "kosr1239",
+      "url": "https://glottolog.org/resource/languoid/id/kosr1239"
+    }
+  ],
+  "iso639-3": "kos"
+}

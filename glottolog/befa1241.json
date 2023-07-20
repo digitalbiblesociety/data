@@ -1,0 +1,80 @@
+{
+  "pk": 13005,
+  "hid": "bby",
+  "father_pk": 9990,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Bangui [bang1355]':1,'Befang [nucl1410]':1,'Obang {Befang} [oban1245]':1)'Befangic [befa1242]':1,('Modele [mode1249]':1,'Ushaku [usha1238]':1)'Modele-Ushaku [mode1269]':1,'Okomanjang [okom1242]':1)'Menchum [befa1241][bby]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 8,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q34960",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Menchum_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/befa1241",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "78255",
+        "grammar",
+        1981,
+        281,
+        "Boum, Marie Anne 1981"
+      ]
+    ]
+  },
+  "id": "befa1241",
+  "name": "Menchum",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.27562,
+  "longitude": 10.0342,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Wide Grassfields",
+      "id": "wide1239",
+      "url": "https://glottolog.org/resource/languoid/id/wide1239"
+    }
+  ],
+  "iso639-3": "bby"
+}

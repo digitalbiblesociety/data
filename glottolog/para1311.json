@@ -1,0 +1,132 @@
+{
+  "pk": 16462,
+  "hid": "gug",
+  "father_pk": 13872,
+  "family_pk": 51,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Jopará [jopa1240]':1,'Modern Paraguayan Guarani [mode1267]':1,'Old Guarani [oldp1258]':1)'Paraguayan Guaraní [para1311][gug]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_gua",
+        "label": "Guaraní"
+      },
+      {
+        "url": "https://phoible.org/languages/para1311",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q17478066",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "547135",
+        "long_grammar",
+        1996,
+        437,
+        "Ayala, José Valentín 1996"
+      ],
+      [
+        "142233",
+        "long_grammar",
+        1978,
+        430,
+        "Guasch, Antonio 1978"
+      ],
+      [
+        "30213",
+        "long_grammar",
+        1724,
+        350,
+        "Paulo Restivo 2010 [1724]"
+      ],
+      [
+        "581511",
+        "grammar",
+        1696,
+        251,
+        "Pretovio, Blas [Pablo Restivo] 1696"
+      ],
+      [
+        "25057",
+        "grammar",
+        1640,
+        246,
+        "Antonio Ruiz de Montoya 1876 [1640]"
+      ],
+      [
+        "313082",
+        "grammar_sketch",
+        1639,
+        829,
+        "Ruíz de Montoya, Antonio 1724 [1639]"
+      ],
+      [
+        "80231",
+        "grammar_sketch",
+        1627,
+        39,
+        "Bartolomeu Meliá 1979 [1627]"
+      ]
+    ]
+  },
+  "id": "para1311",
+  "name": "Paraguayan Guaraní",
+  "description": null,
+  "markup_description": null,
+  "latitude": -25.60551,
+  "longitude": -57.08816,
+  "classification": [
+    {
+      "name": "Tupian",
+      "id": "tupi1275",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1275"
+    },
+    {
+      "name": "Maweti-Guarani",
+      "id": "mawe1252",
+      "url": "https://glottolog.org/resource/languoid/id/mawe1252"
+    },
+    {
+      "name": "Aweti-Guarani",
+      "id": "awet1245",
+      "url": "https://glottolog.org/resource/languoid/id/awet1245"
+    },
+    {
+      "name": "Tupi-Guarani",
+      "id": "tupi1276",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1276"
+    },
+    {
+      "name": "Southern Tupi-Guarani",
+      "id": "sout3271",
+      "url": "https://glottolog.org/resource/languoid/id/sout3271"
+    },
+    {
+      "name": "Tupi-Guarani Subgroup I",
+      "id": "tupi1277",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1277"
+    },
+    {
+      "name": "Tupi-Guarani Subgroup I.A",
+      "id": "tupi1282",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1282"
+    },
+    {
+      "name": "Paraguay-Brazil Guarani",
+      "id": "para1319",
+      "url": "https://glottolog.org/resource/languoid/id/para1319"
+    }
+  ],
+  "iso639-3": "gug"
+}

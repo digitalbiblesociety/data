@@ -1,0 +1,91 @@
+{
+  "pk": 6981,
+  "hid": "sju",
+  "father_pk": 4783,
+  "family_pk": 302,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ume Saami [umes1235][sju]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3007",
+        "label": "Ume Saami"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ume_S%C3%A1mi",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56415",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "552920",
+        "grammar_sketch",
+        2015,
+        161,
+        "Wiinka, Valborg 2015"
+      ],
+      [
+        "300491",
+        "grammar_sketch",
+        1738,
+        128,
+        "Fiellstrom, Petrus 1738"
+      ],
+      [
+        "551175",
+        "phonology_or_text",
+        1715,
+        76,
+        "Erik Nordberg 1969 [1715]"
+      ],
+      [
+        "551156",
+        "wordlist_or_less",
+        1645,
+        28,
+        "Niurenius, Olaus Petri 1905 [1645]"
+      ]
+    ]
+  },
+  "id": "umes1235",
+  "name": "Ume Saami",
+  "description": null,
+  "markup_description": null,
+  "latitude": 64.6383,
+  "longitude": 18.646,
+  "classification": [
+    {
+      "name": "Uralic",
+      "id": "ural1272",
+      "url": "https://glottolog.org/resource/languoid/id/ural1272"
+    },
+    {
+      "name": "Saami",
+      "id": "saam1281",
+      "url": "https://glottolog.org/resource/languoid/id/saam1281"
+    },
+    {
+      "name": "Western Saami",
+      "id": "west2390",
+      "url": "https://glottolog.org/resource/languoid/id/west2390"
+    },
+    {
+      "name": "Southwestern Saami",
+      "id": "sout3150",
+      "url": "https://glottolog.org/resource/languoid/id/sout3150"
+    }
+  ],
+  "iso639-3": "sju"
+}

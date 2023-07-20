@@ -1,0 +1,102 @@
+{
+  "pk": 19552,
+  "hid": "duf",
+  "father_pk": 17545,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Nrumee [nrum1234]':1,'Paita-Unya [pait1249]':1,'Wenyii [weny1239]':1)'Dumbea [dumb1241][duf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6983819",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ndrumbea_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_pta",
+        "label": "Paita"
+      }
+    ],
+    "meds": [
+      [
+        "159319",
+        "grammar_sketch",
+        1990,
+        114,
+        "Yvonne Païta and Shintani, Tadahiko L. A. 1990"
+      ],
+      [
+        "303461",
+        "phonology_or_text",
+        1946,
+        5,
+        "Leenhardt, Maurice 1946"
+      ]
+    ]
+  },
+  "id": "dumb1241",
+  "name": "Dumbea",
+  "description": null,
+  "markup_description": null,
+  "latitude": -22.0947,
+  "longitude": 166.531,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Southern Melanesian",
+      "id": "sout3173",
+      "url": "https://glottolog.org/resource/languoid/id/sout3173"
+    },
+    {
+      "name": "New Caledonian",
+      "id": "newc1243",
+      "url": "https://glottolog.org/resource/languoid/id/newc1243"
+    },
+    {
+      "name": "Mainland New Caledonian",
+      "id": "main1286",
+      "url": "https://glottolog.org/resource/languoid/id/main1286"
+    },
+    {
+      "name": "Southern New Caledonian",
+      "id": "sout3313",
+      "url": "https://glottolog.org/resource/languoid/id/sout3313"
+    },
+    {
+      "name": "Extreme Southern New Caledonian",
+      "id": "extr1245",
+      "url": "https://glottolog.org/resource/languoid/id/extr1245"
+    }
+  ],
+  "iso639-3": "duf"
+}

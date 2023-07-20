@@ -1,0 +1,73 @@
+{
+  "pk": 6949,
+  "hid": "pep",
+  "father_pk": 4753,
+  "family_pk": 299,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kánchá [kunj1246][pep]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6444807",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kunja_language_(Papuan)",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "72902",
+        "wordlist_or_less",
+        1939,
+        9,
+        "Nevermann, Hans 1939"
+      ],
+      [
+        "121169",
+        "wordlist_or_less",
+        1897,
+        6,
+        "William MacGregor 1897"
+      ]
+    ]
+  },
+  "id": "kunj1246",
+  "name": "Kánchá",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.92289,
+  "longitude": 141.424,
+  "classification": [
+    {
+      "name": "Yam",
+      "id": "more1255",
+      "url": "https://glottolog.org/resource/languoid/id/more1255"
+    },
+    {
+      "name": "Morehead-Maro",
+      "id": "more1256",
+      "url": "https://glottolog.org/resource/languoid/id/more1256"
+    },
+    {
+      "name": "Tonda",
+      "id": "tond1250",
+      "url": "https://glottolog.org/resource/languoid/id/tond1250"
+    },
+    {
+      "name": "Eastern Tonda",
+      "id": "wara1293",
+      "url": "https://glottolog.org/resource/languoid/id/wara1293"
+    }
+  ],
+  "iso639-3": "pep"
+}

@@ -1,0 +1,95 @@
+{
+  "pk": 6145,
+  "hid": "neg",
+  "father_pk": 4129,
+  "family_pk": 162,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Nizovsk [nizo1239]':1,'Samagir [sama1299]':1,'Verkhovsk [verk1237]':1)'Negidal [negi1245][neg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2891",
+        "label": "Negidal"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_neg",
+        "label": "Negidal"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Negidal_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33676",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "157451",
+        "long_grammar",
+        1982,
+        310,
+        "Vera I. Tsintsius 1982"
+      ],
+      [
+        "62284",
+        "grammar",
+        1968,
+        20,
+        "Kolesnikova, V. D. and Konstantinova, O. A. 1968"
+      ],
+      [
+        "575334",
+        "grammar_sketch",
+        1931,
+        112,
+        "Myl'nikova, Klavdija M. and Vera I. Tsintsius 1931"
+      ],
+      [
+        "301511",
+        "wordlist_or_less",
+        1923,
+        36,
+        "Schmidt, Paul 1923"
+      ]
+    ]
+  },
+  "id": "negi1245",
+  "name": "Negidal",
+  "description": null,
+  "markup_description": null,
+  "latitude": 52.96584,
+  "longitude": 139.20575,
+  "classification": [
+    {
+      "name": "Tungusic",
+      "id": "tung1282",
+      "url": "https://glottolog.org/resource/languoid/id/tung1282"
+    },
+    {
+      "name": "Northeastern Tungusic",
+      "id": "nort3417",
+      "url": "https://glottolog.org/resource/languoid/id/nort3417"
+    },
+    {
+      "name": "Northern Tungusic",
+      "id": "nort3147",
+      "url": "https://glottolog.org/resource/languoid/id/nort3147"
+    },
+    {
+      "name": "Negidalic",
+      "id": "negi1246",
+      "url": "https://glottolog.org/resource/languoid/id/negi1246"
+    }
+  ],
+  "iso639-3": "neg"
+}

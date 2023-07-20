@@ -1,0 +1,70 @@
+{
+  "pk": 7691,
+  "hid": "spu",
+  "father_pk": 5327,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Sapuan [sapu1248][spu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7421168",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sapuan_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_sap",
+        "label": "Sapuan"
+      }
+    ],
+    "meds": [
+      [
+        "16055",
+        "grammar_sketch",
+        1999,
+        62,
+        "Pascale Jacq and Paul Sidwell 1999"
+      ]
+    ]
+  },
+  "id": "sapu1248",
+  "name": "Sapuan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 15.3692,
+  "longitude": 106.843,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Bahnaric",
+      "id": "bahn1264",
+      "url": "https://glottolog.org/resource/languoid/id/bahn1264"
+    },
+    {
+      "name": "West Bahnaric",
+      "id": "west2399",
+      "url": "https://glottolog.org/resource/languoid/id/west2399"
+    },
+    {
+      "name": "Nuclear West Bahnaric",
+      "id": "nucl1299",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1299"
+    }
+  ],
+  "iso639-3": "spu"
+}

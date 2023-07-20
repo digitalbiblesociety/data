@@ -1,0 +1,79 @@
+{
+  "pk": 2297,
+  "hid": "drl",
+  "father_pk": 1059,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bagundji [bagu1250]':1,'Kula {Australia} [kula1275]':1,'Wiljakali [wilj1239]':1)'Paakantyi [darl1243][drl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/d12",
+        "label": "PAAKANTYI / PAAKANTJI / BARKINDJI"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/2564",
+        "label": "Paakantyi"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_pkn",
+        "label": "Paakantyi"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Paakantyi_(Darling_language)",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/darl1243",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5223941",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "302303",
+        "long_grammar",
+        1982,
+        347,
+        "Luise A. Hercus 1982"
+      ],
+      [
+        "1504",
+        "grammar_sketch",
+        1872,
+        5,
+        "Pechey, W. A. 1872"
+      ]
+    ]
+  },
+  "id": "darl1243",
+  "name": "Paakantyi",
+  "description": null,
+  "markup_description": null,
+  "latitude": -32.7021,
+  "longitude": 142.695,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Yarli-Baagandji",
+      "id": "yarl1237",
+      "url": "https://glottolog.org/resource/languoid/id/yarl1237"
+    }
+  ],
+  "iso639-3": "drl"
+}

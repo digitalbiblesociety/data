@@ -1,0 +1,74 @@
+{
+  "pk": 2123,
+  "hid": "ayr",
+  "father_pk": 973,
+  "family_pk": 109,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Central Aymara [cent2142][ayr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_aym",
+        "label": "Aymara (Central)"
+      },
+      {
+        "url": "https://phoible.org/languages/cent2142",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q20526610",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "14563",
+        "long_grammar",
+        1967,
+        502,
+        "Wexler, Paul 1967"
+      ],
+      [
+        "44342",
+        "long_grammar",
+        1603,
+        360,
+        "Bertonio, P. Ludovico 1603"
+      ],
+      [
+        "144600",
+        "wordlist_or_less",
+        1574,
+        0,
+        "Diez de San Miguel, Garci 1964 [1574]"
+      ]
+    ]
+  },
+  "id": "cent2142",
+  "name": "Central Aymara",
+  "description": null,
+  "markup_description": null,
+  "latitude": -17,
+  "longitude": -68.5,
+  "classification": [
+    {
+      "name": "Aymaran",
+      "id": "ayma1253",
+      "url": "https://glottolog.org/resource/languoid/id/ayma1253"
+    },
+    {
+      "name": "Central-Southern Aymara",
+      "id": "nucl1667",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1667"
+    }
+  ],
+  "iso639-3": "ayr"
+}

@@ -1,0 +1,96 @@
+{
+  "pk": 9316,
+  "hid": "kei",
+  "father_pk": 6780,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kei Besar [keib1237]':1,'Kei Kecil [keik1237]':1,'Ta''am [taam1237]':1,'Tanimbar Kei [tani1256]':1,'Tayando [taya1252]':1)'Kei [keii1239][kei]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q2410352",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kei_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kei",
+        "label": "Kei"
+      }
+    ],
+    "meds": [
+      [
+        "123448",
+        "grammar_sketch",
+        1985,
+        86,
+        "Tetelepta, J. and E.A. Apituley and J. Kasihuw and E. Wattimury and I. Talakua 1985"
+      ],
+      [
+        "70158",
+        "grammar_sketch",
+        1921,
+        86,
+        "Geurtjens, Hendrik 1921"
+      ],
+      [
+        "162931",
+        "wordlist_or_less",
+        1885,
+        4,
+        "Adolf Bastian 1885"
+      ],
+      [
+        "14372",
+        "wordlist_or_less",
+        1864,
+        3,
+        "H. C. van Eijbergen 1864"
+      ]
+    ]
+  },
+  "id": "keii1239",
+  "name": "Kei",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.63948,
+  "longitude": 133.02,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Tanimbar-Bomberai",
+      "id": "tani1260",
+      "url": "https://glottolog.org/resource/languoid/id/tani1260"
+    },
+    {
+      "name": "Nuclear Tanimbar-Bomberai",
+      "id": "keit1238",
+      "url": "https://glottolog.org/resource/languoid/id/keit1238"
+    },
+    {
+      "name": "Kei-Fordata",
+      "id": "keif1237",
+      "url": "https://glottolog.org/resource/languoid/id/keif1237"
+    }
+  ],
+  "iso639-3": "kei"
+}

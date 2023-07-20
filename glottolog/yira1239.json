@@ -1,0 +1,73 @@
+{
+  "pk": 6030,
+  "hid": "ljw",
+  "father_pk": 4033,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Yirandhali [yira1239][ljw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q17059380",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yirandhali_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "149053",
+        "wordlist_or_less",
+        1886,
+        8,
+        "Tompson, F. M. and Chatfield, William 1886"
+      ],
+      [
+        "1835",
+        "wordlist_or_less",
+        1883,
+        6,
+        "Palmer, Edward 1883"
+      ]
+    ]
+  },
+  "id": "yira1239",
+  "name": "Yirandhali",
+  "description": null,
+  "markup_description": null,
+  "latitude": -20.65810118,
+  "longitude": 143.9625916,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Greater Maric",
+      "id": "grea1282",
+      "url": "https://glottolog.org/resource/languoid/id/grea1282"
+    },
+    {
+      "name": "Guwa-Maric",
+      "id": "guwa1245",
+      "url": "https://glottolog.org/resource/languoid/id/guwa1245"
+    },
+    {
+      "name": "Maric",
+      "id": "mari1445",
+      "url": "https://glottolog.org/resource/languoid/id/mari1445"
+    }
+  ],
+  "iso639-3": "ljw"
+}

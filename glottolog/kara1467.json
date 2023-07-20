@@ -1,0 +1,81 @@
+{
+  "pk": 5428,
+  "hid": "kaa",
+  "father_pk": 3558,
+  "family_pk": 14,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Northeastern Karakalpak [nort2694]':1,'Southeastern Karakalpak [sout2703]':1)'Kara-Kalpak [kara1467][kaa]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kkp",
+        "label": "Karakalpak"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Karakalpak_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kara1467",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33541",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "57765",
+        "grammar_sketch",
+        1951,
+        318,
+        "Baskakov, Nikolaj A. 1951, 1952"
+      ],
+      [
+        "94339",
+        "phonology_or_text",
+        1947,
+        127,
+        "Menges, Karl Heinrich 1947"
+      ]
+    ]
+  },
+  "id": "kara1467",
+  "name": "Kara-Kalpak",
+  "description": null,
+  "markup_description": null,
+  "latitude": 39.98005,
+  "longitude": 63.32233,
+  "classification": [
+    {
+      "name": "Turkic",
+      "id": "turk1311",
+      "url": "https://glottolog.org/resource/languoid/id/turk1311"
+    },
+    {
+      "name": "Common Turkic",
+      "id": "comm1245",
+      "url": "https://glottolog.org/resource/languoid/id/comm1245"
+    },
+    {
+      "name": "Kipchak",
+      "id": "kipc1239",
+      "url": "https://glottolog.org/resource/languoid/id/kipc1239"
+    },
+    {
+      "name": "South Kipchak",
+      "id": "sout2701",
+      "url": "https://glottolog.org/resource/languoid/id/sout2701"
+    }
+  ],
+  "iso639-3": "kaa"
+}

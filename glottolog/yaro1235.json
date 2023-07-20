@@ -1,0 +1,68 @@
+{
+  "pk": 4490,
+  "hid": "yro",
+  "father_pk": 2879,
+  "family_pk": 275,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Mohihatetea [mohi1234]':1,'Yaroame das Baixadas [nano1240]':1,'Yaroame das Serras [jaua1242]':1)'Yaroame [yaro1235][yro]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/%E1%BB%B8aroam%C3%AB_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q24190396",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "142485",
+        "grammar_sketch",
+        2011,
+        75,
+        "Helder Perri Ferreira 2011"
+      ],
+      [
+        "126928",
+        "wordlist_or_less",
+        1932,
+        5,
+        "Salathé, Georges 1932"
+      ]
+    ]
+  },
+  "id": "yaro1235",
+  "name": "Yaroame",
+  "description": null,
+  "markup_description": null,
+  "latitude": 1.720201,
+  "longitude": -62.230225,
+  "classification": [
+    {
+      "name": "Yanomamic",
+      "id": "yano1268",
+      "url": "https://glottolog.org/resource/languoid/id/yano1268"
+    },
+    {
+      "name": "Ninam-Yanomam-Yaroame",
+      "id": "nina1239",
+      "url": "https://glottolog.org/resource/languoid/id/nina1239"
+    },
+    {
+      "name": "Yanomam-Yaroame",
+      "id": "yano1266",
+      "url": "https://glottolog.org/resource/languoid/id/yano1266"
+    }
+  ],
+  "iso639-3": "yro"
+}

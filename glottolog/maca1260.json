@@ -1,0 +1,82 @@
+{
+  "pk": 2467,
+  "hid": "mca",
+  "father_pk": 1177,
+  "family_pk": 194,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Maca [maca1260][mca]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mca",
+        "label": "Maca"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/3020",
+        "label": "Maká"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mak%C3%A1_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/maca1260",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3281043",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "23647",
+        "grammar",
+        1994,
+        256,
+        "Ana Gerzenstein 1994"
+      ],
+      [
+        "71512",
+        "grammar_sketch",
+        1934,
+        8,
+        "Belaieff, Juan 1934"
+      ],
+      [
+        "310113",
+        "wordlist_or_less",
+        1931,
+        15,
+        "Belaieff, Juan 1931"
+      ]
+    ]
+  },
+  "id": "maca1260",
+  "name": "Maca",
+  "description": null,
+  "markup_description": null,
+  "latitude": -25.0119,
+  "longitude": -57.3694,
+  "classification": [
+    {
+      "name": "Matacoan",
+      "id": "mata1289",
+      "url": "https://glottolog.org/resource/languoid/id/mata1289"
+    },
+    {
+      "name": "Mataguayo I",
+      "id": "mata1290",
+      "url": "https://glottolog.org/resource/languoid/id/mata1290"
+    }
+  ],
+  "iso639-3": "mca"
+}

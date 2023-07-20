@@ -1,0 +1,82 @@
+{
+  "pk": 10208,
+  "hid": "pzn",
+  "father_pk": 7347,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Jejara Naga [para1302][pzn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10415",
+        "label": "Jejara"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7133667",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Para_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "451070",
+        "grammar",
+        2014,
+        243,
+        "Barkman, Tiffany 2014"
+      ],
+      [
+        "133158",
+        "wordlist_or_less",
+        2005,
+        10,
+        "Saul, Jamie D. 2005"
+      ]
+    ]
+  },
+  "id": "para1302",
+  "name": "Jejara Naga",
+  "description": null,
+  "markup_description": null,
+  "latitude": 25.48,
+  "longitude": 94.92,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Angami-Ao",
+      "id": "anga1312",
+      "url": "https://glottolog.org/resource/languoid/id/anga1312"
+    },
+    {
+      "name": "Central Naga",
+      "id": "aoic1235",
+      "url": "https://glottolog.org/resource/languoid/id/aoic1235"
+    },
+    {
+      "name": "Yimchingric",
+      "id": "yimc1239",
+      "url": "https://glottolog.org/resource/languoid/id/yimc1239"
+    }
+  ],
+  "iso639-3": "pzn"
+}

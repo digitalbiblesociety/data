@@ -1,0 +1,90 @@
+{
+  "pk": 5373,
+  "hid": "che",
+  "father_pk": 3512,
+  "family_pk": 426,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Itumkala [itum1244]':1,'Melkhin [melk1240]':1,'Ploskost [plos1238]':1)'Chechen [chec1245][che]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_chc",
+        "label": "Chechen"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Chechen_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/chec1245",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33350",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "11208",
+        "long_grammar",
+        2005,
+        536,
+        "Shamilov, Saidamin and Paskushova, Elza 2005"
+      ],
+      [
+        "38919",
+        "long_grammar",
+        1888,
+        434,
+        "Uslar, Petr K. 1888"
+      ],
+      [
+        "90531",
+        "grammar_sketch",
+        1864,
+        83,
+        "Anton Schiefner 1864"
+      ],
+      [
+        "565632",
+        "wordlist_or_less",
+        1814,
+        0,
+        "Klaproth, Julius 1814"
+      ]
+    ]
+  },
+  "id": "chec1245",
+  "name": "Chechen",
+  "description": null,
+  "markup_description": null,
+  "latitude": 43.5,
+  "longitude": 45.5,
+  "classification": [
+    {
+      "name": "Nakh-Daghestanian",
+      "id": "nakh1245",
+      "url": "https://glottolog.org/resource/languoid/id/nakh1245"
+    },
+    {
+      "name": "Nakh",
+      "id": "nakh1246",
+      "url": "https://glottolog.org/resource/languoid/id/nakh1246"
+    },
+    {
+      "name": "Chechen-Ingush",
+      "id": "chec1244",
+      "url": "https://glottolog.org/resource/languoid/id/chec1244"
+    }
+  ],
+  "iso639-3": "che"
+}

@@ -1,0 +1,97 @@
+{
+  "pk": 8481,
+  "hid": "gjm",
+  "father_pk": 6016,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kurnkopanut [gund1249][wkr]':1,'Pikwurrung [pikw1234]':1,'Tjakut [tjak1234]':1,'Wuluwurrung [wulu1244]':1)'Warrnambool [warr1257][gjm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6731",
+        "label": "Warrnambool"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dhauwurd_Wurrung_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/warr1257",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_wrb",
+        "label": "Warrnambool"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6448731",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "2030",
+        "grammar_sketch",
+        1978,
+        155,
+        "Wilkinson, Melanie P. 1978"
+      ],
+      [
+        "151687",
+        "grammar_sketch",
+        1881,
+        20,
+        "James Dawson 1881"
+      ],
+      [
+        "309388",
+        "wordlist_or_less",
+        1867,
+        39,
+        "Redmond Barry 1867"
+      ]
+    ]
+  },
+  "id": "warr1257",
+  "name": "Warrnambool",
+  "description": null,
+  "markup_description": null,
+  "latitude": -38.155612905976,
+  "longitude": 141.53965852318,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Southeastern Pama-Nyungan",
+      "id": "sout3135",
+      "url": "https://glottolog.org/resource/languoid/id/sout3135"
+    },
+    {
+      "name": "Victorian Pama-Nyungan",
+      "id": "vict1234",
+      "url": "https://glottolog.org/resource/languoid/id/vict1234"
+    },
+    {
+      "name": "Kulin-Bunganditj",
+      "id": "kuli1256",
+      "url": "https://glottolog.org/resource/languoid/id/kuli1256"
+    },
+    {
+      "name": "Warrnambool-Bunganditj",
+      "id": "warr1256",
+      "url": "https://glottolog.org/resource/languoid/id/warr1256"
+    }
+  ],
+  "iso639-3": "gjm"
+}

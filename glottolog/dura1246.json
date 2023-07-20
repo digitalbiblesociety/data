@@ -1,0 +1,93 @@
+{
+  "pk": 14558,
+  "hid": "nln",
+  "father_pk": 11514,
+  "family_pk": 155,
+  "level": "family",
+  "bookkeeping": false,
+  "category": "Family",
+  "newick": "('Eastern Durango Nahuatl [east2695][azd]-l-':1,'Western Durango Nahuatl [west2778][azn]-l-':1)'Durango Nahuatl [dura1246][nln]':1",
+  "child_family_count": 0,
+  "child_language_count": 2,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "nln",
+      "name": "Durango Nahuatl",
+      "change_request": "2011-111",
+      "effective": "2012-02-03",
+      "reason": "split",
+      "change_to": [
+        "azd",
+        "azn"
+      ],
+      "remedy": "Split into Eastern Durango Nahuatl [azd] and Western Durango Nahuatl [azn]",
+      "comment": "Based on phonological, grammatical, and lexical differences (see attached\ndocumentation), there are two linguistic variants in this language which make it\ndifficult to convert materials in one variant directly to the other. When\nspeakers of the two variants try to communicate in their language, they have so\nmuch trouble understanding each other that they usually use Spanish instead.\nFurthermore, there are several words that appear to be the same in the two\nvariants that show significant semantic shift. There is approximately 85%\ncomprehension between the two variants, which makes the speakers think they\nshould be able to communicate in their language, but in fact they usually find\nit impossible. This has been confirmed by linguistic and sociolinguistic studies\n(see bibliography).\n\nIn the cultural realm, the Eastern variant has conserved more of their\ntraditional beliefs than has the Western variant, where only some very elderly\nspeakers still know them. Another factor has been the invasion of the Eastern\nvariant by migrating speakers of Southeastern Tepehuan (stp), causing cultural\nand linguistic changes. In the Western variant, there are fewer such influences,\nespecially in the communities in Durango State (San Agustin de Buenaventura,\nCurachitos de Buenavista, San Diego, Tepetates II (Berenjenas), Alacranes and\nTepalcates). Except for Tepalcates, all these communities still use the language\nin all aspects of daily life, probably because there are few other linguistic\ninfluences in their isolated area. They even use Nahuatl when they talk on their\n\"walkie talkies.\" Thus this area can be considered the heart of the ethnic\ngroup, because there the language and culture are preserved.\n\nThere are, however, some trends toward moderization that threated their cultural\nidentity.\n\nIn Nayarit State, the same Western variant is spoken in four places (Santa Cruz,\nLa Laguna, Mesa de las Arpas, and El Duraznito). The language is more threatened\nthere, since these four communities have fewer speakers and are surrounded by\nlarge communities of Cora and Huichol speakers. This has caused the loss of the\nlanguage in some parts to the extent that symptoms of language death are\nevident. In the schools of these four communities, Nayarit State has created a\nprogram to promote the use of the language, including training teachers in the\nlanguage and in positive attitudes toward it, but in the homes it is often not\nspoken by the children, although they still understand it. The older traditional\nauthorities also favor the creation of materials to promote the use of the\nlanguage."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q2386361",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mexicanero_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500426",
+        "wordlist_or_less",
+        2011,
+        0,
+        "ISO 639-3 Registration Authority 2011"
+      ]
+    ]
+  },
+  "id": "dura1246",
+  "name": "Durango Nahuatl",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Uto-Aztecan",
+      "id": "utoa1244",
+      "url": "https://glottolog.org/resource/languoid/id/utoa1244"
+    },
+    {
+      "name": "Southern Uto-Aztecan",
+      "id": "sout3136",
+      "url": "https://glottolog.org/resource/languoid/id/sout3136"
+    },
+    {
+      "name": "Corachol-Aztecan",
+      "id": "cora1261",
+      "url": "https://glottolog.org/resource/languoid/id/cora1261"
+    },
+    {
+      "name": "Aztec",
+      "id": "azte1234",
+      "url": "https://glottolog.org/resource/languoid/id/azte1234"
+    },
+    {
+      "name": "Western Nahuatl",
+      "id": "west2809",
+      "url": "https://glottolog.org/resource/languoid/id/west2809"
+    },
+    {
+      "name": "Western Periphery-North Guerrero Nahuatl",
+      "id": "west2814",
+      "url": "https://glottolog.org/resource/languoid/id/west2814"
+    },
+    {
+      "name": "Western Periphery Nahuatl",
+      "id": "west2825",
+      "url": "https://glottolog.org/resource/languoid/id/west2825"
+    }
+  ],
+  "iso639-3": "nln"
+}

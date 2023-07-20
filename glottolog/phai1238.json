@@ -1,0 +1,100 @@
+{
+  "pk": 10561,
+  "hid": "prt",
+  "father_pk": 7654,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Prai [phai1238][prt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5288",
+        "label": "Prai"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7180184",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Prai_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/phai1238",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "60478",
+        "grammar",
+        1989,
+        238,
+        "Mingkwan Malapol 1989"
+      ],
+      [
+        "30811",
+        "phonology_or_text",
+        1988,
+        223,
+        "Singnoi, Unchalee 1988"
+      ],
+      [
+        "573138",
+        "phonology_or_text",
+        1980,
+        36,
+        "David Jordan 1980"
+      ],
+      [
+        "102520",
+        "wordlist_or_less",
+        1971,
+        15,
+        "David Filbeck 1971"
+      ]
+    ]
+  },
+  "id": "phai1238",
+  "name": "Prai",
+  "description": null,
+  "markup_description": null,
+  "latitude": 19.0383,
+  "longitude": 101.218,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Khmuic",
+      "id": "khmu1236",
+      "url": "https://glottolog.org/resource/languoid/id/khmu1236"
+    },
+    {
+      "name": "Phay-Pram",
+      "id": "phay1242",
+      "url": "https://glottolog.org/resource/languoid/id/phay1242"
+    },
+    {
+      "name": "Tinic",
+      "id": "tini1248",
+      "url": "https://glottolog.org/resource/languoid/id/tini1248"
+    },
+    {
+      "name": "Tin",
+      "id": "tinn1239",
+      "url": "https://glottolog.org/resource/languoid/id/tinn1239"
+    }
+  ],
+  "iso639-3": "prt"
+}

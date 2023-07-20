@@ -1,0 +1,72 @@
+{
+  "pk": 3696,
+  "hid": "eli",
+  "father_pk": 2018,
+  "family_pk": 59,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Nding [ndin1245][eli]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4123",
+        "label": "Nding"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36176",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nding_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "128301",
+        "grammar_sketch",
+        1916,
+        15,
+        "Meinhof, Carl 1916-1917"
+      ],
+      [
+        "15091",
+        "wordlist_or_less",
+        1910,
+        2,
+        "Seligmann, Brenda Z. 1910-1911"
+      ]
+    ]
+  },
+  "id": "ndin1245",
+  "name": "Nding",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.2741,
+  "longitude": 30.7306,
+  "classification": [
+    {
+      "name": "Narrow Talodi",
+      "id": "narr1279",
+      "url": "https://glottolog.org/resource/languoid/id/narr1279"
+    },
+    {
+      "name": "Buram-Saraf",
+      "id": "bura1298",
+      "url": "https://glottolog.org/resource/languoid/id/bura1298"
+    },
+    {
+      "name": "Nding-Tasomi",
+      "id": "ndin1246",
+      "url": "https://glottolog.org/resource/languoid/id/ndin1246"
+    }
+  ],
+  "iso639-3": "eli"
+}

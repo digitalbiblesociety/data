@@ -1,0 +1,103 @@
+{
+  "pk": 15508,
+  "hid": "cme",
+  "father_pk": 12778,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Banfora-Sienena [banf1238]':1,'Gouindougouba [goui1239]':1,'Niangoloko-Diarabakoko [nian1243]':1,'Soubakanedougou [soub1241]':1)'Cerma [cerm1238][cme]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kir",
+        "label": "Kirma"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cerma_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/cerm1238",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35074",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "545827",
+        "grammar_sketch",
+        1964,
+        55,
+        "Prost, André 1964"
+      ],
+      [
+        "156706",
+        "wordlist_or_less",
+        1933,
+        13,
+        "Tauxier, Louis 1933"
+      ],
+      [
+        "577831",
+        "wordlist_or_less",
+        1931,
+        2,
+        "Tauxier, Louis 1931"
+      ]
+    ]
+  },
+  "id": "cerm1238",
+  "name": "Cerma",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.1245,
+  "longitude": -4.94917,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "North Volta-Congo",
+      "id": "nort3149",
+      "url": "https://glottolog.org/resource/languoid/id/nort3149"
+    },
+    {
+      "name": "Gur",
+      "id": "gura1261",
+      "url": "https://glottolog.org/resource/languoid/id/gura1261"
+    },
+    {
+      "name": "Central Gur",
+      "id": "cent2243",
+      "url": "https://glottolog.org/resource/languoid/id/cent2243"
+    },
+    {
+      "name": "Southern Central Gur",
+      "id": "sout3164",
+      "url": "https://glottolog.org/resource/languoid/id/sout3164"
+    },
+    {
+      "name": "Kirma-Tyurama",
+      "id": "kirm1250",
+      "url": "https://glottolog.org/resource/languoid/id/kirm1250"
+    }
+  ],
+  "iso639-3": "cme"
+}

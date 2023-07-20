@@ -1,0 +1,79 @@
+{
+  "pk": 3737,
+  "hid": "ney",
+  "father_pk": 2059,
+  "family_pk": 83,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Neyo [neyo1238][ney]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q36410",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Neyo_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ney",
+        "label": "Neyo"
+      }
+    ],
+    "meds": [
+      [
+        "33829",
+        "long_grammar",
+        1983,
+        314,
+        "Grah, Claire 1983"
+      ],
+      [
+        "103071",
+        "grammar",
+        1905,
+        226,
+        "Thomann, Georges 1905"
+      ],
+      [
+        "8689",
+        "wordlist_or_less",
+        1904,
+        5,
+        "Delafosse, Maurice 1904"
+      ]
+    ]
+  },
+  "id": "neyo1238",
+  "name": "Neyo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.95048,
+  "longitude": -6.08043,
+  "classification": [
+    {
+      "name": "Kru",
+      "id": "krua1234",
+      "url": "https://glottolog.org/resource/languoid/id/krua1234"
+    },
+    {
+      "name": "Eastern Kru",
+      "id": "east2415",
+      "url": "https://glottolog.org/resource/languoid/id/east2415"
+    },
+    {
+      "name": "Neyo-Dida",
+      "id": "dida1244",
+      "url": "https://glottolog.org/resource/languoid/id/dida1244"
+    }
+  ],
+  "iso639-3": "ney"
+}

@@ -1,0 +1,101 @@
+{
+  "pk": 11273,
+  "hid": "mug",
+  "father_pk": 8299,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Beege [beeg1236]':1,'Mpus [mpus1238]':1,'Muzuk [muzu1238]':1,'Vulum [vulu1239]':1)'Munjuk-Nord [munj1246]':1,'Munjuk-Sud [munj1247]':1)'Musgu [musg1254][mug]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3123545",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Musgu_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mgu",
+        "label": "Musgu"
+      }
+    ],
+    "meds": [
+      [
+        "313747",
+        "long_grammar",
+        1978,
+        331,
+        "Tourneux, Henry 1978"
+      ],
+      [
+        "37778",
+        "grammar",
+        1972,
+        239,
+        "Meyer-Bahlburg, Hilke 1972"
+      ],
+      [
+        "88597",
+        "grammar_sketch",
+        1941,
+        121,
+        "Lukas, Johannes 1941"
+      ],
+      [
+        "69423",
+        "grammar_sketch",
+        1886,
+        69,
+        "Müller, Friedrich 1886"
+      ]
+    ]
+  },
+  "id": "musg1254",
+  "name": "Musgu",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.8439,
+  "longitude": 15.1065,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "Biu-Mandara",
+      "id": "bium1280",
+      "url": "https://glottolog.org/resource/languoid/id/bium1280"
+    },
+    {
+      "name": "North Biu-Mandara",
+      "id": "nort3156",
+      "url": "https://glottolog.org/resource/languoid/id/nort3156"
+    },
+    {
+      "name": "Musguic",
+      "id": "bium1279",
+      "url": "https://glottolog.org/resource/languoid/id/bium1279"
+    },
+    {
+      "name": "Musgu-Mbara",
+      "id": "musg1256",
+      "url": "https://glottolog.org/resource/languoid/id/musg1256"
+    }
+  ],
+  "iso639-3": "mug"
+}

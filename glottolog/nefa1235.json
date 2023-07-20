@@ -1,0 +1,63 @@
+{
+  "pk": 2799,
+  "hid": "nef",
+  "father_pk": 1323,
+  "family_pk": 260,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Pidgin",
+  "newick": "'Nefamese [nefa1235][nef]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6987002",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nefamese",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "579327",
+        "grammar_sketch",
+        2013,
+        106,
+        "Bhuyan, Nupur Chandra 2013"
+      ],
+      [
+        "326114",
+        "phonology_or_text",
+        2012,
+        17,
+        "Bhuyan, Nupur Chandra 2012"
+      ]
+    ]
+  },
+  "id": "nefa1235",
+  "name": "Nefamese",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.688,
+  "longitude": 96.349,
+  "classification": [
+    {
+      "name": "Pidgin",
+      "id": "pidg1258",
+      "url": "https://glottolog.org/resource/languoid/id/pidg1258"
+    },
+    {
+      "name": "Assamese-based pidgin",
+      "id": "assa1271",
+      "url": "https://glottolog.org/resource/languoid/id/assa1271"
+    }
+  ],
+  "iso639-3": "nef"
+}

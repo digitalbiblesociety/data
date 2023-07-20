@@ -1,0 +1,97 @@
+{
+  "pk": 4766,
+  "hid": "kca",
+  "father_pk": 3053,
+  "family_pk": 302,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Berezover Khanty [bere1252]':1,'Kazym Khanty [nort2672]':1,'Middle Ob Khanty [midd1353]':1,'Suryskarer Khanty [sury1234]':1)'Kazym-Berezover-Suryskarer Khanty [khan1273][kca]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kty",
+        "label": "Khanty"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Khanty_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/khan1273",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33563",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "549806",
+        "grammar",
+        2010,
+        175,
+        "Kaksin, Andrej D. 2010"
+      ],
+      [
+        "549805",
+        "grammar",
+        2007,
+        133,
+        "Kaksin, Andrej D. 2007"
+      ],
+      [
+        "151064",
+        "grammar",
+        1966,
+        24,
+        "Tereshkin, N.I. 1966"
+      ],
+      [
+        "552348",
+        "grammar_sketch",
+        1939,
+        230,
+        "Steinitz, Wolfgang 1939"
+      ],
+      [
+        "549554",
+        "grammar_sketch",
+        1859,
+        65,
+        "Hunfalvy, Pál 1859"
+      ]
+    ]
+  },
+  "id": "khan1273",
+  "name": "Kazym-Berezover-Suryskarer Khanty",
+  "description": null,
+  "markup_description": null,
+  "latitude": 62.4308,
+  "longitude": 66.1218,
+  "classification": [
+    {
+      "name": "Uralic",
+      "id": "ural1272",
+      "url": "https://glottolog.org/resource/languoid/id/ural1272"
+    },
+    {
+      "name": "Khantyic",
+      "id": "khan1279",
+      "url": "https://glottolog.org/resource/languoid/id/khan1279"
+    },
+    {
+      "name": "Northern Khanty",
+      "id": "nort3264",
+      "url": "https://glottolog.org/resource/languoid/id/nort3264"
+    }
+  ],
+  "iso639-3": "kca"
+}

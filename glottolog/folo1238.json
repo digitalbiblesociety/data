@@ -1,0 +1,97 @@
+{
+  "pk": 1550,
+  "hid": "ppo",
+  "father_pk": 300,
+  "family_pk": 300,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Aurei [aure1239]':1,'Bara {Papua New Guinea} [bara1374]':1,'Boro {Papua New Guinea} [boro1278]':1,'Keba-Wopasali [keba1251]':1,'Kewah [kewa1247]':1,'Pupitau [pupi1239]':1,'Ro [rooo1240]':1,'Sesa [sesa1245]':1,'Siligi [sili1248]':1,'Sopese [sope1239]':1,'Suri {Papua New Guinea} [suri1271]':1,'Tebera [tebe1252]':1,'Waraga [wara1301]':1)'Folopa [folo1238][ppo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 13,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_pdp",
+        "label": "Folopa"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Folopa_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5464843",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "313766",
+        "grammar_sketch",
+        2010,
+        109,
+        "Anderson, Carol 2010"
+      ],
+      [
+        "71804",
+        "phonology_or_text",
+        1989,
+        23,
+        "Anderson, Neil 1989"
+      ],
+      [
+        "142333",
+        "wordlist_or_less",
+        1975,
+        1,
+        "John Z'graggen 1975"
+      ],
+      [
+        "77107",
+        "wordlist_or_less",
+        1973,
+        1,
+        "Karl J. Franklin 1973"
+      ],
+      [
+        "322162",
+        "wordlist_or_less",
+        1924,
+        1,
+        "Sydney H. Chance 1924"
+      ],
+      [
+        "325882",
+        "wordlist_or_less",
+        1923,
+        1,
+        "Leo V. Lind 1923"
+      ],
+      [
+        "325756",
+        "wordlist_or_less",
+        1921,
+        1,
+        "Johnston, H. L. C. 1921"
+      ]
+    ]
+  },
+  "id": "folo1238",
+  "name": "Folopa",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.86321,
+  "longitude": 144.458,
+  "classification": [
+    {
+      "name": "Teberan",
+      "id": "tebe1251",
+      "url": "https://glottolog.org/resource/languoid/id/tebe1251"
+    }
+  ],
+  "iso639-3": "ppo"
+}

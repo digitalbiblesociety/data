@@ -1,0 +1,70 @@
+{
+  "pk": 7732,
+  "hid": "pkt",
+  "father_pk": 5353,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bo-Maleng [bola1249][bgl]':1,'Kha Phong [khap1242]':1,'Malieng [mali1278]':1)'Maleng [male1282][pkt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5879",
+        "label": "Maleng"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6583562",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Maleng_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "17202",
+        "wordlist_or_less",
+        1950,
+        3,
+        "Fraisse, André 1950"
+      ]
+    ]
+  },
+  "id": "male1282",
+  "name": "Maleng",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.913525,
+  "longitude": 105.52746,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Vietic",
+      "id": "viet1250",
+      "url": "https://glottolog.org/resource/languoid/id/viet1250"
+    },
+    {
+      "name": "Chutic",
+      "id": "chut1252",
+      "url": "https://glottolog.org/resource/languoid/id/chut1252"
+    },
+    {
+      "name": "East Chutic",
+      "id": "chut1246",
+      "url": "https://glottolog.org/resource/languoid/id/chut1246"
+    }
+  ],
+  "iso639-3": "pkt"
+}

@@ -1,0 +1,81 @@
+{
+  "pk": 15108,
+  "hid": "mfp",
+  "father_pk": 12238,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Makassar Malay [maka1305][mfp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Makassar_Malay",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12952776",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "568371",
+        "phonology_or_text",
+        1985,
+        153,
+        "Aburaerah Arief and Abdul Muthalib and Abdul Kadar Mulya and Zainuddin Hakim 1985"
+      ]
+    ]
+  },
+  "id": "maka1305",
+  "name": "Makassar Malay",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.16108,
+  "longitude": 119.408,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Malayo-Sumbawan",
+      "id": "mala1536",
+      "url": "https://glottolog.org/resource/languoid/id/mala1536"
+    },
+    {
+      "name": "North and East Malayo-Sumbawan",
+      "id": "nort3170",
+      "url": "https://glottolog.org/resource/languoid/id/nort3170"
+    },
+    {
+      "name": "Malayic",
+      "id": "mala1538",
+      "url": "https://glottolog.org/resource/languoid/id/mala1538"
+    },
+    {
+      "name": "Nuclear Malayic",
+      "id": "nucl1806",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1806"
+    },
+    {
+      "name": "Vehicular Malay",
+      "id": "vehi1234",
+      "url": "https://glottolog.org/resource/languoid/id/vehi1234"
+    }
+  ],
+  "iso639-3": "mfp"
+}

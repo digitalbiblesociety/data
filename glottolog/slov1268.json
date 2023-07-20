@@ -1,0 +1,105 @@
+{
+  "pk": 10917,
+  "hid": "slv",
+  "father_pk": 8006,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Cividale [civi1238]':1,'Lower Carniola [lowe1384]':1,'Prekmurski [prek1239]':1,'Primorski [prim1242]':1,'Resia [resi1246]':1,'Stajerski [staj1239]':1,'Upper Carniola [uppe1393]':1,'Windisch [wind1243]':1)'Slovenian [slov1268][slv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 8,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_slo",
+        "label": "Slovene"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Slovene_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/slov1268",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q9063",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "34150",
+        "long_grammar",
+        2000,
+        382,
+        "Herrity, Peter 2000"
+      ],
+      [
+        "128992",
+        "long_grammar",
+        1992,
+        375,
+        "Han Steenwijk 1992"
+      ],
+      [
+        "130888",
+        "grammar",
+        1982,
+        250,
+        "Lencek, Rado Ludovik 1982"
+      ],
+      [
+        "586237",
+        "grammar_sketch",
+        1584,
+        178,
+        "Adam Bohorič 1584"
+      ]
+    ]
+  },
+  "id": "slov1268",
+  "name": "Slovenian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 46.2543,
+  "longitude": 14.7766,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Balto-Slavic",
+      "id": "balt1263",
+      "url": "https://glottolog.org/resource/languoid/id/balt1263"
+    },
+    {
+      "name": "Slavic",
+      "id": "slav1255",
+      "url": "https://glottolog.org/resource/languoid/id/slav1255"
+    },
+    {
+      "name": "South Slavic",
+      "id": "sout3147",
+      "url": "https://glottolog.org/resource/languoid/id/sout3147"
+    },
+    {
+      "name": "Western South Slavic",
+      "id": "west2804",
+      "url": "https://glottolog.org/resource/languoid/id/west2804"
+    }
+  ],
+  "iso639-3": "slv"
+}

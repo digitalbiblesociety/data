@@ -1,0 +1,101 @@
+{
+  "pk": 4840,
+  "hid": "jup",
+  "father_pk": 3097,
+  "family_pk": 312,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Hup [nehu1238]':1,'Eastern Hup [tuhu1238]':1,'Western Hup [hupd1245]':1)'Hup [hupd1244][jup]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_hpd",
+        "label": "Hup"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/3275",
+        "label": "Hupda"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Hup_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/hupd1244",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3143384",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "60289",
+        "long_grammar",
+        2005,
+        1134,
+        "Patience Epps 2005"
+      ],
+      [
+        "158929",
+        "grammar",
+        1977,
+        0,
+        "Woods, Frances M. and Longacre, Robert E. 1977"
+      ],
+      [
+        "137493",
+        "grammar",
+        1976,
+        0,
+        "Longacre, Robert E. and Woods, Frances 1976"
+      ],
+      [
+        "82029",
+        "grammar_sketch",
+        1955,
+        101,
+        "Giacone, Antônio 1955"
+      ],
+      [
+        "38570",
+        "wordlist_or_less",
+        1925,
+        60,
+        "Paul Rivet and P. de Kok and Tastevin, Constant 1925"
+      ]
+    ]
+  },
+  "id": "hupd1244",
+  "name": "Hup",
+  "description": null,
+  "markup_description": null,
+  "latitude": 0.58622,
+  "longitude": -69.8359,
+  "classification": [
+    {
+      "name": "Naduhup",
+      "id": "nada1235",
+      "url": "https://glottolog.org/resource/languoid/id/nada1235"
+    },
+    {
+      "name": "Eastern Naduhup",
+      "id": "east2549",
+      "url": "https://glottolog.org/resource/languoid/id/east2549"
+    },
+    {
+      "name": "Hup-Yuhup",
+      "id": "hupy1235",
+      "url": "https://glottolog.org/resource/languoid/id/hupy1235"
+    }
+  ],
+  "iso639-3": "jup"
+}

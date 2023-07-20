@@ -1,0 +1,102 @@
+{
+  "pk": 13329,
+  "hid": "gvr",
+  "father_pk": 10267,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Eastern Gurung [east2345][ggn]':1,'Gorkha Gurung [gork1242]':1,'Lamjung Gurung [lamj1244]':1,'Tamu Kyi [tamu1246]':1,('Northwestern Gurung [nort2710]':1,'Southern Gurung [sout2716]':1)'Western Gurung [west2414]':1)'Gurung [guru1261][gvr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4251",
+        "label": "Western Gurung"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2392342",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Gurung_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/guru1261",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_gur",
+        "label": "Gurung"
+      }
+    ],
+    "meds": [
+      [
+        "54948",
+        "grammar",
+        1974,
+        255,
+        "Warren W. Glover 1974"
+      ],
+      [
+        "17283",
+        "grammar_sketch",
+        1969,
+        21,
+        "Glover, Jessie R. 1969"
+      ],
+      [
+        "1708",
+        "phonology_or_text",
+        1862,
+        0,
+        "Thomas, William 1862"
+      ]
+    ]
+  },
+  "id": "guru1261",
+  "name": "Gurung",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.41687,
+  "longitude": 86.28988,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "Kaike-Ghale-Tamangic",
+      "id": "kaik1248",
+      "url": "https://glottolog.org/resource/languoid/id/kaik1248"
+    },
+    {
+      "name": "Ghale-Tamangic",
+      "id": "ghal1247",
+      "url": "https://glottolog.org/resource/languoid/id/ghal1247"
+    },
+    {
+      "name": "Tamangic",
+      "id": "tama1367",
+      "url": "https://glottolog.org/resource/languoid/id/tama1367"
+    },
+    {
+      "name": "Gurungic",
+      "id": "guru1260",
+      "url": "https://glottolog.org/resource/languoid/id/guru1260"
+    }
+  ],
+  "iso639-3": "gvr"
+}

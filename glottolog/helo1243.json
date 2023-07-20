@@ -1,0 +1,86 @@
+{
+  "pk": 4681,
+  "hid": "heg",
+  "father_pk": 2970,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Funai [funa1237]':1,'Helong Darat [helo1244]':1,'Helong Pulau [helo1245]':1)'Helong [helo1243][heg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1747",
+        "label": "Helong"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Helong_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35432",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "54487",
+        "grammar_sketch",
+        1977,
+        160,
+        "Maryanto, Sandi 1977"
+      ],
+      [
+        "101190",
+        "phonology_or_text",
+        1904,
+        12,
+        "J. C. G. Jonker 1904"
+      ],
+      [
+        "321429",
+        "wordlist_or_less",
+        1848,
+        3,
+        "Earl, George Windsor 1848"
+      ],
+      [
+        "158330",
+        "wordlist_or_less",
+        1834,
+        2,
+        "William Marsden 1834"
+      ]
+    ]
+  },
+  "id": "helo1243",
+  "name": "Helong",
+  "description": null,
+  "markup_description": null,
+  "latitude": -10.2647,
+  "longitude": 123.377,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Timor-Babar",
+      "id": "timo1265",
+      "url": "https://glottolog.org/resource/languoid/id/timo1265"
+    }
+  ],
+  "iso639-3": "heg"
+}

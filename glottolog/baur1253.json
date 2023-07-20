@@ -1,0 +1,80 @@
+{
+  "pk": 4227,
+  "hid": "brg",
+  "father_pk": 2428,
+  "family_pk": 177,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Carmelito Baure [carm1234]':1,'Historical Baure [hist1234]':1,'Joaquiniano [joaq1235]':1,'Modern Baure [baur1256]':1,'Muxojeona [muxo1234]':1,'Paiconeca [paic1240]':1)'Baure [baur1253][brg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1845",
+        "label": "Baure"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2839722",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Baure_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/baur1253",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_baq",
+        "label": "Baure"
+      }
+    ],
+    "meds": [
+      [
+        "78694",
+        "long_grammar",
+        2007,
+        500,
+        "Swintha Danielsen 2007"
+      ],
+      [
+        "110375",
+        "grammar",
+        1749,
+        121,
+        "Lucien Adam and C. Leclerc 1880 [1749]"
+      ]
+    ]
+  },
+  "id": "baur1253",
+  "name": "Baure",
+  "description": null,
+  "markup_description": null,
+  "latitude": -13.61,
+  "longitude": -63.68,
+  "classification": [
+    {
+      "name": "Arawakan",
+      "id": "araw1281",
+      "url": "https://glottolog.org/resource/languoid/id/araw1281"
+    },
+    {
+      "name": "Southern Maipuran",
+      "id": "sout3131",
+      "url": "https://glottolog.org/resource/languoid/id/sout3131"
+    },
+    {
+      "name": "Bolivian Arawakan",
+      "id": "boli1260",
+      "url": "https://glottolog.org/resource/languoid/id/boli1260"
+    }
+  ],
+  "iso639-3": "brg"
+}

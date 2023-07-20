@@ -1,0 +1,97 @@
+{
+  "pk": 3591,
+  "hid": "myh",
+  "father_pk": 1920,
+  "family_pk": 28,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Makah [maka1318][myh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1930",
+        "label": "Makah"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3280640",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Makah_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mak",
+        "label": "Makah"
+      }
+    ],
+    "meds": [
+      [
+        "103290",
+        "grammar_sketch",
+        1999,
+        69,
+        "Jacobsen, Jr., William H. 1999"
+      ],
+      [
+        "142701",
+        "grammar_sketch",
+        1979,
+        62,
+        "Jacobsen, William H. 1979"
+      ],
+      [
+        "576946",
+        "wordlist_or_less",
+        1978,
+        0,
+        "Schalk, R. F. 1978"
+      ],
+      [
+        "554704",
+        "wordlist_or_less",
+        1953,
+        0,
+        "Colson, Elizabeth 1953"
+      ],
+      [
+        "577733",
+        "wordlist_or_less",
+        1868,
+        106,
+        "Swan, J. G. 1868"
+      ]
+    ]
+  },
+  "id": "maka1318",
+  "name": "Makah",
+  "description": null,
+  "markup_description": null,
+  "latitude": 48.3258,
+  "longitude": -124.616,
+  "classification": [
+    {
+      "name": "Wakashan",
+      "id": "waka1280",
+      "url": "https://glottolog.org/resource/languoid/id/waka1280"
+    },
+    {
+      "name": "Southern Wakashan",
+      "id": "sout2981",
+      "url": "https://glottolog.org/resource/languoid/id/sout2981"
+    },
+    {
+      "name": "Makah-Nitinat",
+      "id": "maka1326",
+      "url": "https://glottolog.org/resource/languoid/id/maka1326"
+    }
+  ],
+  "iso639-3": "myh"
+}

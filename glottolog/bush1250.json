@@ -1,0 +1,81 @@
+{
+  "pk": 15336,
+  "hid": "buc",
+  "father_pk": 12509,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kiantalaotse [kian1236]':1,'Majunga [maju1234]':1)'Kibosy Kiantalaotsy-Majunga [bush1250][buc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Bushi_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5150795",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "26819",
+        "phonology_or_text",
+        1986,
+        187,
+        "Noel J. Gueunier 1986"
+      ]
+    ]
+  },
+  "id": "bush1250",
+  "name": "Kibosy Kiantalaotsy-Majunga",
+  "description": null,
+  "markup_description": null,
+  "latitude": -12.9652,
+  "longitude": 45.1368,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Basap-Greater Barito",
+      "id": "basa1291",
+      "url": "https://glottolog.org/resource/languoid/id/basa1291"
+    },
+    {
+      "name": "Greater Barito linkage",
+      "id": "grea1283",
+      "url": "https://glottolog.org/resource/languoid/id/grea1283"
+    },
+    {
+      "name": "Southeast Barito",
+      "id": "sout2919",
+      "url": "https://glottolog.org/resource/languoid/id/sout2919"
+    },
+    {
+      "name": "Malagasic",
+      "id": "mala1537",
+      "url": "https://glottolog.org/resource/languoid/id/mala1537"
+    },
+    {
+      "name": "North-Central Malagasic",
+      "id": "nort3196",
+      "url": "https://glottolog.org/resource/languoid/id/nort3196"
+    }
+  ],
+  "iso639-3": "buc"
+}

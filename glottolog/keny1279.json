@@ -1,0 +1,105 @@
+{
+  "pk": 13010,
+  "hid": "ken",
+  "father_pk": 9992,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bakoni [bako1251]':1,'Lower Kenyang [lowe1405]':1,'Upper Kenyang [uppe1419]':1)'Kenyang [keny1279][ken]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kyg",
+        "label": "Kenyang"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kenyang_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/keny1279",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35650",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "147894",
+        "grammar_sketch",
+        1935,
+        129,
+        "Ittman, Johannes 1935-1936"
+      ],
+      [
+        "577536",
+        "wordlist_or_less",
+        1917,
+        34,
+        "F. Staschewski 1917"
+      ],
+      [
+        "54846",
+        "wordlist_or_less",
+        1862,
+        1,
+        "Latham, Robert Gordon 1862"
+      ],
+      [
+        "66179",
+        "wordlist_or_less",
+        1854,
+        1,
+        "Koelle, Sigismund W. 1854"
+      ]
+    ]
+  },
+  "id": "keny1279",
+  "name": "Kenyang",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.58288,
+  "longitude": 9.55918,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Mamfe",
+      "id": "mamf1238",
+      "url": "https://glottolog.org/resource/languoid/id/mamf1238"
+    }
+  ],
+  "iso639-3": "ken"
+}

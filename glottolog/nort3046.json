@@ -1,0 +1,95 @@
+{
+  "pk": 14346,
+  "hid": "mfk",
+  "father_pk": 11267,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Douroun [dour1242]':1,'Wazan [waza1238]':1)'North Mofu [nort3046][mfk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56303",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/North_Mofu_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "74328",
+        "grammar_sketch",
+        2004,
+        128,
+        "Abdou, Raihanatou Yadji 2004"
+      ],
+      [
+        "107382",
+        "grammar_sketch",
+        1978,
+        14,
+        "Barreteau, Daniel 1978"
+      ],
+      [
+        "8660",
+        "wordlist_or_less",
+        1977,
+        16,
+        "Barreteau, Daniel 1977"
+      ]
+    ]
+  },
+  "id": "nort3046",
+  "name": "North Mofu",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.6834,
+  "longitude": 14.1117,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "Biu-Mandara",
+      "id": "bium1280",
+      "url": "https://glottolog.org/resource/languoid/id/bium1280"
+    },
+    {
+      "name": "North Biu-Mandara",
+      "id": "nort3156",
+      "url": "https://glottolog.org/resource/languoid/id/nort3156"
+    },
+    {
+      "name": "Margi-Mandara-Mofu",
+      "id": "marg1267",
+      "url": "https://glottolog.org/resource/languoid/id/marg1267"
+    },
+    {
+      "name": "Mofuic",
+      "id": "mofu1249",
+      "url": "https://glottolog.org/resource/languoid/id/mofu1249"
+    },
+    {
+      "name": "Mofu",
+      "id": "mofu1250",
+      "url": "https://glottolog.org/resource/languoid/id/mofu1250"
+    }
+  ],
+  "iso639-3": "mfk"
+}

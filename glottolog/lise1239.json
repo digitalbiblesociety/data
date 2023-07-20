@@ -1,0 +1,82 @@
+{
+  "pk": 9220,
+  "hid": "lcl",
+  "father_pk": 6721,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Nuclear Lisela [nucl1526]':1,'Tagalisa [taga1267]':1)'Lisela [lise1239][lcl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2288",
+        "label": "Lisela"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6558753",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lisela_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "49306",
+        "wordlist_or_less",
+        1982,
+        24,
+        "Hersri 1982"
+      ],
+      [
+        "26365",
+        "wordlist_or_less",
+        1869,
+        5,
+        "Wallace, Alfred R. 1869"
+      ]
+    ]
+  },
+  "id": "lise1239",
+  "name": "Lisela",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.27358,
+  "longitude": 126.981,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "West Central Maluku",
+      "id": "west2817",
+      "url": "https://glottolog.org/resource/languoid/id/west2817"
+    },
+    {
+      "name": "Sula-Buru",
+      "id": "sula1247",
+      "url": "https://glottolog.org/resource/languoid/id/sula1247"
+    },
+    {
+      "name": "Buruic",
+      "id": "buru1322",
+      "url": "https://glottolog.org/resource/languoid/id/buru1322"
+    }
+  ],
+  "iso639-3": "lcl"
+}

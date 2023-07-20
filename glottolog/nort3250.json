@@ -1,0 +1,58 @@
+{
+  "pk": 811,
+  "hid": "krg",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'North Korowai [nort3250][krg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "krg",
+      "name": "North Korowai",
+      "change_request": "2007-222",
+      "effective": "2008-01-14",
+      "reason": "merge",
+      "change_to": [
+        "khe"
+      ],
+      "remedy": "Merge into Korowai [khe]",
+      "comment": "There is currently an SIL linguist working in the area who is finding out that\nNorth Korowai is intelligible with Korowai. Quoting him from an email: \"We\nhaven't done any dialect intelligibility testing yet, but lexical similarity is\n90% and they seem to understand each other without trouble. During the Baseline\nStudy we had a South Korowai speaker do the interpretation and when we asked\nNorth Korowai speakers if they had any questions about the purpose of our\nBaseline Study they replied that they had just heard the explanation in their\nown language, so they had no questions. And from their actions is was clear that\nthey understood. I myself can understand North Korowai speakers, if they do not\nspeak too fast. Their pronunciation is a bit different and I plan to look into\nthat in the future. North and South have some differing vocabulary but seem to\nhave no problem understanding each other. Grammar doesn't seem to be different.\""
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12952661",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500317",
+        "wordlist_or_less",
+        2007,
+        0,
+        "ISO 639-3 Registration Authority 2007"
+      ]
+    ]
+  },
+  "id": "nort3250",
+  "name": "North Korowai",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "krg"
+}

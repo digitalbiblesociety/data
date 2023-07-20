@@ -1,0 +1,95 @@
+{
+  "pk": 13343,
+  "hid": "lbj",
+  "father_pk": 10272,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Leh Ladakhi [lada1244][lbj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5656",
+        "label": "Ladakhi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35833",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ladakhi_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/lada1244",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_lad",
+        "label": "Ladakhi"
+      }
+    ],
+    "meds": [
+      [
+        "7561",
+        "long_grammar",
+        1979,
+        1979,
+        "Francke, A. H. 1979"
+      ],
+      [
+        "318411",
+        "grammar_sketch",
+        1901,
+        63,
+        "Francke, August Hermann 1901"
+      ]
+    ]
+  },
+  "id": "lada1244",
+  "name": "Leh Ladakhi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 33.468,
+  "longitude": 80.6013,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "Bodish",
+      "id": "bodi1257",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1257"
+    },
+    {
+      "name": "Early Old Tibetan",
+      "id": "oldm1245",
+      "url": "https://glottolog.org/resource/languoid/id/oldm1245"
+    },
+    {
+      "name": "Western Archaic Tibetan",
+      "id": "lada1242",
+      "url": "https://glottolog.org/resource/languoid/id/lada1242"
+    },
+    {
+      "name": "Kenhatic",
+      "id": "kenh1234",
+      "url": "https://glottolog.org/resource/languoid/id/kenh1234"
+    }
+  ],
+  "iso639-3": "lbj"
+}

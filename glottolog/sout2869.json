@@ -1,0 +1,104 @@
+{
+  "pk": 17551,
+  "hid": "nwi",
+  "father_pk": 15224,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Nowai [nowa1237]':1,'Nvhal [nvha1237]':1)'Southwest Tanna [sout2869][nwi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tns",
+        "label": "Tanna (Southwest)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Southwest_Tanna_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3504488",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "72143",
+        "grammar_sketch",
+        1982,
+        92,
+        "John Lynch 1982"
+      ],
+      [
+        "52375",
+        "wordlist_or_less",
+        1976,
+        1,
+        "Darrell T. Tryon 1976"
+      ],
+      [
+        "572842",
+        "wordlist_or_less",
+        1926,
+        0,
+        "Humphreys, C. B. 1926"
+      ]
+    ]
+  },
+  "id": "sout2869",
+  "name": "Southwest Tanna",
+  "description": null,
+  "markup_description": null,
+  "latitude": -19.57953,
+  "longitude": 169.35603,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Southern Melanesian",
+      "id": "sout3173",
+      "url": "https://glottolog.org/resource/languoid/id/sout3173"
+    },
+    {
+      "name": "Southern Vanuatu",
+      "id": "sout2868",
+      "url": "https://glottolog.org/resource/languoid/id/sout2868"
+    },
+    {
+      "name": "Tanna",
+      "id": "tann1242",
+      "url": "https://glottolog.org/resource/languoid/id/tann1242"
+    },
+    {
+      "name": "Southern Tanna",
+      "id": "sout3195",
+      "url": "https://glottolog.org/resource/languoid/id/sout3195"
+    }
+  ],
+  "iso639-3": "nwi"
+}

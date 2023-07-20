@@ -1,0 +1,77 @@
+{
+  "pk": 7416,
+  "hid": "aot",
+  "father_pk": 5047,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Atong {India} [aton1241][aot]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1582",
+        "label": "Atong (India)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5646",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Atong_language_(Sino-Tibetan)",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "22866",
+        "long_grammar",
+        2008,
+        760,
+        "Seino van Breugel 2008"
+      ],
+      [
+        "162861",
+        "wordlist_or_less",
+        1903,
+        4,
+        "George A. Grierson 1903"
+      ]
+    ]
+  },
+  "id": "aton1241",
+  "name": "Atong (India)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 25.346508,
+  "longitude": 90.658722,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Brahmaputran",
+      "id": "brah1260",
+      "url": "https://glottolog.org/resource/languoid/id/brah1260"
+    },
+    {
+      "name": "Bodo-Garo",
+      "id": "bodo1279",
+      "url": "https://glottolog.org/resource/languoid/id/bodo1279"
+    },
+    {
+      "name": "Kochic",
+      "id": "koch1249",
+      "url": "https://glottolog.org/resource/languoid/id/koch1249"
+    }
+  ],
+  "iso639-3": "aot"
+}

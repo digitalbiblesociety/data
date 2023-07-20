@@ -1,0 +1,98 @@
+{
+  "pk": 19568,
+  "hid": "bbv",
+  "father_pk": 17556,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Karnai [karn1252][bbv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6372803",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Karnai_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "314448",
+        "grammar_sketch",
+        2005,
+        43,
+        "Mary Raymond 2005"
+      ],
+      [
+        "57452",
+        "wordlist_or_less",
+        1928,
+        6,
+        "E. W. P. Chinnery 1928"
+      ]
+    ]
+  },
+  "id": "karn1252",
+  "name": "Karnai",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.74133,
+  "longitude": 147.917,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Western Oceanic linkage",
+      "id": "west2818",
+      "url": "https://glottolog.org/resource/languoid/id/west2818"
+    },
+    {
+      "name": "North New Guinea linkage",
+      "id": "nort3206",
+      "url": "https://glottolog.org/resource/languoid/id/nort3206"
+    },
+    {
+      "name": "Ngero-Vitiaz linkage",
+      "id": "nger1241",
+      "url": "https://glottolog.org/resource/languoid/id/nger1241"
+    },
+    {
+      "name": "Vitiaz linkage",
+      "id": "viti1243",
+      "url": "https://glottolog.org/resource/languoid/id/viti1243"
+    },
+    {
+      "name": "Korap linkage",
+      "id": "kora1297",
+      "url": "https://glottolog.org/resource/languoid/id/kora1297"
+    }
+  ],
+  "iso639-3": "bbv"
+}

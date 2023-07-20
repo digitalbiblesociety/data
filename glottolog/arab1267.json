@@ -1,0 +1,110 @@
+{
+  "pk": 6058,
+  "hid": "ard",
+  "father_pk": 4064,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Midlaliri [midl1244]':1,'Piltapalta [pilt1234]':1,'Wangkakupa [wang1303]':1)'Arabana [arab1267][ard]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/l13",
+        "label": "ARABANA"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_abn",
+        "label": "Arabana"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/3857",
+        "label": "Arabana-Wangkangurru"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Arabana_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/arab1267",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3507959",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "158324",
+        "grammar",
+        1994,
+        172,
+        "Luise A. Hercus 1994"
+      ],
+      [
+        "13262",
+        "grammar_sketch",
+        1973,
+        7,
+        "Hercus, Luise and White, Isobel M. 1973"
+      ],
+      [
+        "3750",
+        "phonology_or_text",
+        1904,
+        6,
+        "Howitt, Alfred W. and Siebert, Otto 1904"
+      ],
+      [
+        "6046",
+        "phonology_or_text",
+        1902,
+        0,
+        "Howitt, Mary E. B. 1902"
+      ],
+      [
+        "147327",
+        "wordlist_or_less",
+        1886,
+        3,
+        "Warren, John 1886"
+      ]
+    ]
+  },
+  "id": "arab1267",
+  "name": "Arabana",
+  "description": null,
+  "markup_description": null,
+  "latitude": -28.705,
+  "longitude": 135.449,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Karnic",
+      "id": "karn1253",
+      "url": "https://glottolog.org/resource/languoid/id/karn1253"
+    },
+    {
+      "name": "Palku",
+      "id": "palk1239",
+      "url": "https://glottolog.org/resource/languoid/id/palk1239"
+    },
+    {
+      "name": "Arabana-Wangganguru",
+      "id": "arab1266",
+      "url": "https://glottolog.org/resource/languoid/id/arab1266"
+    }
+  ],
+  "iso639-3": "ard"
+}

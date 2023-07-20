@@ -1,0 +1,82 @@
+{
+  "pk": 8379,
+  "hid": "kcm",
+  "father_pk": 5877,
+  "family_pk": 140,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Bubu Gula [bubu1235]':1,'Koto Gula [koto1271]':1,'Koyo Gula [koyo1246]':1,'Ngulu Gula [ngur1264]':1,'Zura [zura1238]':1)'Kotoic Gula [gula1267]':1,('Gélé {Dar Fongoro} [fong1243][fgr]':1,'Malu {Central African Republic} [molo1258]':1,'Moto-Mar [motm1238]':1,'Mèlè {Central African Republic} [mele1249]':1,'Méré [mere1241]':1)'Mereic Gula [mere1247]':1,'Sar Gula [sarr1245]':1)'Gula {Central African Republic} [gula1266][kcm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 13,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_gul",
+        "label": "Gula (in Central African Republic)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tar_Gula_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q277963",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "92825",
+        "long_grammar",
+        1999,
+        382,
+        "Nougayrol, Pierre 1999"
+      ],
+      [
+        "310824",
+        "wordlist_or_less",
+        1961,
+        6,
+        "Paul Dalmais 1961"
+      ]
+    ]
+  },
+  "id": "gula1266",
+  "name": "Gula (Central African Republic)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.49092,
+  "longitude": 23.3805,
+  "classification": [
+    {
+      "name": "Central Sudanic",
+      "id": "cent2225",
+      "url": "https://glottolog.org/resource/languoid/id/cent2225"
+    },
+    {
+      "name": "Sara-Bongo-Bagirmi",
+      "id": "sara1341",
+      "url": "https://glottolog.org/resource/languoid/id/sara1341"
+    },
+    {
+      "name": "SBB Occidental",
+      "id": "sbbo1237",
+      "url": "https://glottolog.org/resource/languoid/id/sbbo1237"
+    },
+    {
+      "name": "Nuclear SBB Occidental",
+      "id": "nucl1719",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1719"
+    },
+    {
+      "name": "Fer-Gula",
+      "id": "ferg1237",
+      "url": "https://glottolog.org/resource/languoid/id/ferg1237"
+    }
+  ],
+  "iso639-3": "kcm"
+}

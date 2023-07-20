@@ -1,0 +1,96 @@
+{
+  "pk": 9815,
+  "hid": "fuv",
+  "father_pk": 7117,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bauchi Fulfulde [bauc1239]':1,'Bororo of Kano and Zaria [boro1274]':1,'Gombe [gomb1248]':1,'Kano-Katsina [kano1242]':1,'Zaria Fulfulde [zari1243]':1)'Hausa States Fulfulde [nige1253][fuv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_fni",
+        "label": "Fulfulde (Nigerian)"
+      },
+      {
+        "url": "https://phoible.org/languages/nige1253",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36129",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "45626",
+        "long_grammar",
+        1970,
+        446,
+        "Arnott, David Whitehorn 1970"
+      ],
+      [
+        "130345",
+        "grammar_sketch",
+        1922,
+        210,
+        "Leith-Ross, Sylvia 1922"
+      ],
+      [
+        "139090",
+        "grammar_sketch",
+        1884,
+        108,
+        "Krause, Gottlob Adolf 1884"
+      ],
+      [
+        "135309",
+        "grammar_sketch",
+        1862,
+        108,
+        "Barth, Heinrich 1862"
+      ]
+    ]
+  },
+  "id": "nige1253",
+  "name": "Hausa States Fulfulde",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.9972,
+  "longitude": 11.1188,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "North-Central Atlantic",
+      "id": "nort3146",
+      "url": "https://glottolog.org/resource/languoid/id/nort3146"
+    },
+    {
+      "name": "Fula-Sereer",
+      "id": "peul1234",
+      "url": "https://glottolog.org/resource/languoid/id/peul1234"
+    },
+    {
+      "name": "Fula",
+      "id": "fula1264",
+      "url": "https://glottolog.org/resource/languoid/id/fula1264"
+    },
+    {
+      "name": "Eastern Fula",
+      "id": "fula1265",
+      "url": "https://glottolog.org/resource/languoid/id/fula1265"
+    }
+  ],
+  "iso639-3": "fuv"
+}

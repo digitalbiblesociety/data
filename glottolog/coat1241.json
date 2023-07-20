@@ -1,0 +1,103 @@
+{
+  "pk": 14736,
+  "hid": "miz",
+  "father_pk": 11776,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Coatzospan Mixtec [coat1241][miz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mxz",
+        "label": "Mixtec (Coatzospan)"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/10533",
+        "label": "Northern Alta Mixtec"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Coatzospan_Mixtec",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3317290",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "55568",
+        "grammar",
+        1990,
+        244,
+        "Hollenbach, Barbara E. and Bradley, C. Henry 1990"
+      ],
+      [
+        "545399",
+        "phonology_or_text",
+        1979,
+        0,
+        "na 1979"
+      ],
+      [
+        "84687",
+        "wordlist_or_less",
+        1974,
+        30,
+        "Small, Priscilla and Eunice V. Pike 1974"
+      ]
+    ]
+  },
+  "id": "coat1241",
+  "name": "Coatzospan Mixtec",
+  "description": null,
+  "markup_description": null,
+  "latitude": 18.048748,
+  "longitude": -96.763633,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Amuzgo-Mixtecan",
+      "id": "amuz1253",
+      "url": "https://glottolog.org/resource/languoid/id/amuz1253"
+    },
+    {
+      "name": "Mixtecan",
+      "id": "mixt1422",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1422"
+    },
+    {
+      "name": "Mixtec-Cuicatec",
+      "id": "mixt1423",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1423"
+    },
+    {
+      "name": "Mixtec",
+      "id": "mixt1427",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1427"
+    },
+    {
+      "name": "Northern Alta Mixtec",
+      "id": "nort3199",
+      "url": "https://glottolog.org/resource/languoid/id/nort3199"
+    }
+  ],
+  "iso639-3": "miz"
+}

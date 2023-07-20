@@ -1,0 +1,103 @@
+{
+  "pk": 9264,
+  "hid": "gor",
+  "father_pk": 6749,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('East Gorontalo [east2479]':1,'Gorontalo Kota [goro1260]':1,'Limboto [limb1269]':1,'Tilamuta [tila1238]':1,'West Gorontalo [west2556]':1)'Gorontalo [goro1259][gor]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_grt",
+        "label": "Gorontalo"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Gorontalo_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2501174",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "574276",
+        "long_grammar",
+        1978,
+        415,
+        "Little, Jr., Albert John 1978"
+      ],
+      [
+        "140063",
+        "grammar_sketch",
+        1906,
+        101,
+        "J. Breukink 1906"
+      ],
+      [
+        "91865",
+        "grammar_sketch",
+        1883,
+        93,
+        "Wilhelm Joest 1883"
+      ],
+      [
+        "112913",
+        "wordlist_or_less",
+        1878,
+        14,
+        "von Rosenberg, Carl Benjamin Hermann 1878"
+      ],
+      [
+        "154263",
+        "wordlist_or_less",
+        1868,
+        2,
+        "Riedel, J. G. F. 1868"
+      ]
+    ]
+  },
+  "id": "goro1259",
+  "name": "Gorontalo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 0.62689,
+  "longitude": 122.288,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Greater Central Philippine",
+      "id": "grea1284",
+      "url": "https://glottolog.org/resource/languoid/id/grea1284"
+    },
+    {
+      "name": "Gorontalo-Mongondow",
+      "id": "goro1257",
+      "url": "https://glottolog.org/resource/languoid/id/goro1257"
+    },
+    {
+      "name": "Gorontalic",
+      "id": "goro1273",
+      "url": "https://glottolog.org/resource/languoid/id/goro1273"
+    }
+  ],
+  "iso639-3": "gor"
+}

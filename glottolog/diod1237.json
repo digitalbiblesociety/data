@@ -1,0 +1,98 @@
+{
+  "pk": 19625,
+  "hid": "ddi",
+  "father_pk": 17591,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Awale [awal1237]':1,'Central Diodio [cent2065]':1,'Iauiaula [iaui1237]':1,'Utalo [utal1237]':1)'Diodio [diod1237][ddi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3028668",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Diodio_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "313196",
+        "wordlist_or_less",
+        2012,
+        3,
+        "Alison Kassell and Philip Lambrecht 2012"
+      ],
+      [
+        "98107",
+        "wordlist_or_less",
+        1988,
+        2,
+        "Malcolm Ross 1988"
+      ]
+    ]
+  },
+  "id": "diod1237",
+  "name": "Diodio",
+  "description": null,
+  "markup_description": null,
+  "latitude": -9.38654,
+  "longitude": 150.168,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Western Oceanic linkage",
+      "id": "west2818",
+      "url": "https://glottolog.org/resource/languoid/id/west2818"
+    },
+    {
+      "name": "Papuan Tip linkage",
+      "id": "papu1253",
+      "url": "https://glottolog.org/resource/languoid/id/papu1253"
+    },
+    {
+      "name": "Nuclear Papuan Tip linkage",
+      "id": "nucl1744",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1744"
+    },
+    {
+      "name": "North Papuan Mainland-D'Entrecasteaux linkage",
+      "id": "nort2848",
+      "url": "https://glottolog.org/resource/languoid/id/nort2848"
+    },
+    {
+      "name": "Bwaidoga linkage",
+      "id": "bwai1241",
+      "url": "https://glottolog.org/resource/languoid/id/bwai1241"
+    }
+  ],
+  "iso639-3": "ddi"
+}

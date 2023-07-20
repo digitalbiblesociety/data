@@ -1,0 +1,71 @@
+{
+  "pk": 4832,
+  "hid": "kie",
+  "father_pk": 3092,
+  "family_pk": 306,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dagel [dage1243]':1,'Murru [murr1262]':1,'Nuclear Kibet [nucl1439]':1)'Kibet [kibe1241][kie]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56893",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "94466",
+        "grammar_sketch",
+        1986,
+        18,
+        "Nougayrol, Pierre 1986"
+      ],
+      [
+        "121033",
+        "wordlist_or_less",
+        1983,
+        1,
+        "Doornbos, Paul and Bender, Lionel M. 1983"
+      ],
+      [
+        "152131",
+        "wordlist_or_less",
+        1854,
+        0,
+        "Johnes, Arthur James 1854"
+      ]
+    ]
+  },
+  "id": "kibe1241",
+  "name": "Kibet",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.32054,
+  "longitude": 20.87674,
+  "classification": [
+    {
+      "name": "Maban",
+      "id": "maba1274",
+      "url": "https://glottolog.org/resource/languoid/id/maba1274"
+    },
+    {
+      "name": "Mabang",
+      "id": "maba1275",
+      "url": "https://glottolog.org/resource/languoid/id/maba1275"
+    },
+    {
+      "name": "Runga-Kibet",
+      "id": "rung1257",
+      "url": "https://glottolog.org/resource/languoid/id/rung1257"
+    }
+  ],
+  "iso639-3": "kie"
+}

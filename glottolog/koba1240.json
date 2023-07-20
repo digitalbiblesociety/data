@@ -1,0 +1,71 @@
+{
+  "pk": 9302,
+  "hid": "kpd",
+  "father_pk": 6771,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Southeast Koba [sout2887]':1)'Koba [koba1240][kpd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6424249",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Koba_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "162931",
+        "wordlist_or_less",
+        1885,
+        4,
+        "Adolf Bastian 1885"
+      ]
+    ]
+  },
+  "id": "koba1240",
+  "name": "Koba",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.47901,
+  "longitude": 134.61,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Aru",
+      "id": "aruu1241",
+      "url": "https://glottolog.org/resource/languoid/id/aruu1241"
+    },
+    {
+      "name": "Central Aru",
+      "id": "cent2309",
+      "url": "https://glottolog.org/resource/languoid/id/cent2309"
+    },
+    {
+      "name": "Dobel-Koba",
+      "id": "dobe1243",
+      "url": "https://glottolog.org/resource/languoid/id/dobe1243"
+    }
+  ],
+  "iso639-3": "kpd"
+}

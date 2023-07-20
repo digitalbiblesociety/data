@@ -1,0 +1,103 @@
+{
+  "pk": 2312,
+  "hid": "nys",
+  "father_pk": 1066,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bibbulman [bibb1234][xbp]':1,'Goreng [gore1235][xgg]':1,'Kaniyang [kani1276]':1,'Pinjarup [pinj1244][pnj]':1,'Wajuk [waju1234][xwj]':1,'Wardandi [ward1248][wxw]':1)'Nyunga [nyun1247][nys]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/w41",
+        "label": "NOONGAR / NYOONGAR"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nju",
+        "label": "Nyungar"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nyungar_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nyun1247",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7049771",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "3215",
+        "grammar_sketch",
+        2005,
+        165,
+        "Wykman, Harry 2005"
+      ],
+      [
+        "609",
+        "grammar_sketch",
+        1968,
+        101,
+        "Wilfred H. Douglas 1968"
+      ],
+      [
+        "3198",
+        "grammar_sketch",
+        1910,
+        18,
+        "Mathews, Robert Hamilton 1910"
+      ],
+      [
+        "5622",
+        "phonology_or_text",
+        1884,
+        271,
+        "Moore, George Fletcher 1884"
+      ],
+      [
+        "4060",
+        "phonology_or_text",
+        1842,
+        172,
+        "Moore, George Fletcher 1842"
+      ],
+      [
+        "74195",
+        "wordlist_or_less",
+        1827,
+        198,
+        "Phillip P. King 1827"
+      ]
+    ]
+  },
+  "id": "nyun1247",
+  "name": "Nyunga",
+  "description": null,
+  "markup_description": null,
+  "latitude": -33.1199,
+  "longitude": 118.151,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "South-West Pama-Nyungan",
+      "id": "sout3134",
+      "url": "https://glottolog.org/resource/languoid/id/sout3134"
+    }
+  ],
+  "iso639-3": "nys"
+}

@@ -1,0 +1,88 @@
+{
+  "pk": 5451,
+  "hid": "tex",
+  "father_pk": 3571,
+  "family_pk": 18,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tennet [tenn1246][tex]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5060",
+        "label": "Tennet"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56346",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tennet_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ten",
+        "label": "Tennet"
+      }
+    ],
+    "meds": [
+      [
+        "552814",
+        "grammar_sketch",
+        2012,
+        114,
+        "Christine Waag 2012"
+      ],
+      [
+        "67043",
+        "grammar_sketch",
+        1995,
+        113,
+        "Randal, Scott 1995"
+      ],
+      [
+        "89487",
+        "wordlist_or_less",
+        1983,
+        14,
+        "Dimmendaal, Gerrit J. 1983"
+      ]
+    ]
+  },
+  "id": "tenn1246",
+  "name": "Tennet",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.91107,
+  "longitude": 32.6307,
+  "classification": [
+    {
+      "name": "Surmic",
+      "id": "surm1244",
+      "url": "https://glottolog.org/resource/languoid/id/surm1244"
+    },
+    {
+      "name": "South Surmic",
+      "id": "sout2836",
+      "url": "https://glottolog.org/resource/languoid/id/sout2836"
+    },
+    {
+      "name": "Southwest Surmic",
+      "id": "sout2838",
+      "url": "https://glottolog.org/resource/languoid/id/sout2838"
+    },
+    {
+      "name": "Didinga-Murle",
+      "id": "didi1256",
+      "url": "https://glottolog.org/resource/languoid/id/didi1256"
+    }
+  ],
+  "iso639-3": "tex"
+}

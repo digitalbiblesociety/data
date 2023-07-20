@@ -1,0 +1,85 @@
+{
+  "pk": 9681,
+  "hid": "thu",
+  "father_pk": 7066,
+  "family_pk": 316,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bodho [bodh1239]':1,'Colo [colo1255]':1,'Manangeer [mana1292]':1)'Thuri [thur1255][thu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7799291",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Thuri_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "55032",
+        "phonology_or_text",
+        2005,
+        14,
+        "Storch, Anne 2005"
+      ],
+      [
+        "18717",
+        "wordlist_or_less",
+        1952,
+        27,
+        "Butt, Audrey J. 1952"
+      ],
+      [
+        "99253",
+        "wordlist_or_less",
+        1938,
+        8,
+        "Santandrea, Stefano 1938"
+      ]
+    ]
+  },
+  "id": "thur1255",
+  "name": "Thuri",
+  "description": null,
+  "markup_description": null,
+  "latitude": 8.72567,
+  "longitude": 26.4858,
+  "classification": [
+    {
+      "name": "Nilotic",
+      "id": "nilo1247",
+      "url": "https://glottolog.org/resource/languoid/id/nilo1247"
+    },
+    {
+      "name": "Western Nilotic",
+      "id": "west2493",
+      "url": "https://glottolog.org/resource/languoid/id/west2493"
+    },
+    {
+      "name": "Lwoo",
+      "id": "lwoo1234",
+      "url": "https://glottolog.org/resource/languoid/id/lwoo1234"
+    },
+    {
+      "name": "Northern Lwoo",
+      "id": "nort2814",
+      "url": "https://glottolog.org/resource/languoid/id/nort2814"
+    },
+    {
+      "name": "Luwo-Thuri",
+      "id": "luwo1240",
+      "url": "https://glottolog.org/resource/languoid/id/luwo1240"
+    }
+  ],
+  "iso639-3": "thu"
+}

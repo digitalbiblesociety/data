@@ -1,0 +1,101 @@
+{
+  "pk": 4041,
+  "hid": "dyy",
+  "father_pk": 2302,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Gulay {Dyaabugay} [gula1264]':1,'Njakali [njak1238]':1,'Nuclear Dyaabugay [nucl1336]':1)'Dyaabugay [dyaa1242][dyy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4118",
+        "label": "Djabugay"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2591320",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Djabugay_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/dyaa1242",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_dja",
+        "label": "Djabugay"
+      }
+    ],
+    "meds": [
+      [
+        "122621",
+        "grammar",
+        1991,
+        104,
+        "Elisabeth Patz 1991"
+      ],
+      [
+        "100915",
+        "grammar_sketch",
+        1978,
+        96,
+        "Elisabeth Patz 1978"
+      ],
+      [
+        "7112",
+        "wordlist_or_less",
+        1976,
+        47,
+        "Sutton, Peter J. 1976"
+      ],
+      [
+        "143928",
+        "wordlist_or_less",
+        1970,
+        4,
+        "R. M. W. Dixon 1970"
+      ],
+      [
+        "1435",
+        "wordlist_or_less",
+        1889,
+        0,
+        "Meston, Archibald 1889"
+      ]
+    ]
+  },
+  "id": "dyaa1242",
+  "name": "Dyaabugay",
+  "description": null,
+  "markup_description": null,
+  "latitude": -16.596,
+  "longitude": 145.388,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Yimidhirr-Yalanji-Yidinic",
+      "id": "yimi1234",
+      "url": "https://glottolog.org/resource/languoid/id/yimi1234"
+    },
+    {
+      "name": "Yidinic",
+      "id": "yidi1249",
+      "url": "https://glottolog.org/resource/languoid/id/yidi1249"
+    }
+  ],
+  "iso639-3": "dyy"
+}

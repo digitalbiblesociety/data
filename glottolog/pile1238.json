@@ -1,0 +1,108 @@
+{
+  "pk": 17532,
+  "hid": "piv",
+  "father_pk": 15212,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Aua {Pileni} [auaa1240]':1,'Matema [mate1237]':1,'Nuclear Pileni [nucl1486]':1,'Nukapu [nuka1241]':1,'Nupani [nupa1238]':1,'Taumako [taum1237]':1)'Vaeakau-Taumako [pile1238][piv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10369",
+        "label": "Vaeakau-Taumako"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2976736",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Vaeakau-Taumako_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_pil",
+        "label": "Pileni"
+      }
+    ],
+    "meds": [
+      [
+        "105009",
+        "long_grammar",
+        2011,
+        519,
+        "Åshild Næss and Even Hovdhaugen 2011"
+      ],
+      [
+        "141230",
+        "grammar_sketch",
+        2000,
+        94,
+        "Åshild Næss 2000"
+      ],
+      [
+        "311044",
+        "wordlist_or_less",
+        1912,
+        4,
+        "Sidney H. Ray 1912, 1915, 1915, 1916, 1917, 1917, 1917, 1919, 1920, 1921, 1921"
+      ]
+    ]
+  },
+  "id": "pile1238",
+  "name": "Vaeakau-Taumako",
+  "description": null,
+  "markup_description": null,
+  "latitude": -10.173335,
+  "longitude": 166.247188,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Central Pacific linkage",
+      "id": "cent2060",
+      "url": "https://glottolog.org/resource/languoid/id/cent2060"
+    },
+    {
+      "name": "Tokalau Fijian",
+      "id": "east2445",
+      "url": "https://glottolog.org/resource/languoid/id/east2445"
+    },
+    {
+      "name": "Polynesian",
+      "id": "poly1242",
+      "url": "https://glottolog.org/resource/languoid/id/poly1242"
+    },
+    {
+      "name": "Nuclear Polynesian",
+      "id": "nucl1485",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1485"
+    }
+  ],
+  "iso639-3": "piv"
+}

@@ -1,0 +1,80 @@
+{
+  "pk": 4156,
+  "hid": "crd",
+  "father_pk": 2385,
+  "family_pk": 166,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Coeur d''Alene [coeu1236][crd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1695",
+        "label": "Coeur d'Alene"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q32915",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Coeur_d%27Alene_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/coeu1236",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_coe",
+        "label": "Coeur d'Alene"
+      }
+    ],
+    "meds": [
+      [
+        "73758",
+        "long_grammar",
+        1997,
+        347,
+        "Ivy G. Doak 1997"
+      ],
+      [
+        "22829",
+        "grammar",
+        1933,
+        193,
+        "Gladys A. Reichard 1933-1938"
+      ]
+    ]
+  },
+  "id": "coeu1236",
+  "name": "Coeur d'Alene",
+  "description": null,
+  "markup_description": null,
+  "latitude": 47.2958,
+  "longitude": -116.715,
+  "classification": [
+    {
+      "name": "Salishan",
+      "id": "sali1255",
+      "url": "https://glottolog.org/resource/languoid/id/sali1255"
+    },
+    {
+      "name": "Interior Salish",
+      "id": "inte1241",
+      "url": "https://glottolog.org/resource/languoid/id/inte1241"
+    },
+    {
+      "name": "Southern Interior Salish",
+      "id": "sout1559",
+      "url": "https://glottolog.org/resource/languoid/id/sout1559"
+    }
+  ],
+  "iso639-3": "crd"
+}

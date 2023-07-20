@@ -1,0 +1,83 @@
+{
+  "pk": 13634,
+  "hid": "ssm",
+  "father_pk": 10575,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Semnam [semn1250][ssm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7449713",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Semnam_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "54594",
+        "phonology_or_text",
+        2009,
+        15,
+        "Niclas Burenhult and Claudia Wegener 2009"
+      ],
+      [
+        "160516",
+        "wordlist_or_less",
+        1906,
+        7,
+        "W. W. Skeat and C. O. Blagden 1906"
+      ]
+    ]
+  },
+  "id": "semn1250",
+  "name": "Semnam",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.27617,
+  "longitude": 101.058,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Aslian",
+      "id": "asli1243",
+      "url": "https://glottolog.org/resource/languoid/id/asli1243"
+    },
+    {
+      "name": "Central-Northern Aslian",
+      "id": "cent1987",
+      "url": "https://glottolog.org/resource/languoid/id/cent1987"
+    },
+    {
+      "name": "Senoic",
+      "id": "seno1278",
+      "url": "https://glottolog.org/resource/languoid/id/seno1278"
+    },
+    {
+      "name": "Lanoh-Semnam-Temiar",
+      "id": "lano1244",
+      "url": "https://glottolog.org/resource/languoid/id/lano1244"
+    },
+    {
+      "name": "Lanoh-Semnam",
+      "id": "lano1246",
+      "url": "https://glottolog.org/resource/languoid/id/lano1246"
+    }
+  ],
+  "iso639-3": "ssm"
+}

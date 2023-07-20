@@ -1,0 +1,91 @@
+{
+  "pk": 8444,
+  "hid": "dgt",
+  "father_pk": 5976,
+  "family_pk": 153,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "'Ndra''ngith [ndra1239][dgt]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "dgt",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 has separate entries for Ndra'ngith [dgt] and Awngthim [gwm], but they are all part of the same intelligible language on linguistic grounds (**hh:hv:Sommer:Roth-Peninsular**, **hh:hv:Hale:Paman**). See also: Tyanngayt-Mamngayt-Ntrwangayt-Ntrangit [NOCODE_Awngtim-Ntrangit]."
+    },
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6983809",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ndra%27ngith_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/ndra1239",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500432",
+        "wordlist_or_less",
+        2011,
+        0,
+        "ISO 639-3 Registration Authority 2011"
+      ]
+    ]
+  },
+  "id": "ndra1239",
+  "name": "Ndra'ngith",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Paman",
+      "id": "pama1251",
+      "url": "https://glottolog.org/resource/languoid/id/pama1251"
+    },
+    {
+      "name": "Northern Pama",
+      "id": "nort2758",
+      "url": "https://glottolog.org/resource/languoid/id/nort2758"
+    },
+    {
+      "name": "Albatross Bay",
+      "id": "alba1272",
+      "url": "https://glottolog.org/resource/languoid/id/alba1272"
+    },
+    {
+      "name": "Tyanngayt-Mamngayt-Ntrwangayt-Ntrangit",
+      "id": "tyan1235",
+      "url": "https://glottolog.org/resource/languoid/id/tyan1235"
+    }
+  ],
+  "iso639-3": "dgt"
+}

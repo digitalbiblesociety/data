@@ -1,0 +1,97 @@
+{
+  "pk": 3569,
+  "hid": "xwg",
+  "father_pk": 1908,
+  "family_pk": 18,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Muguji [mugu1242]':1,'Yidinich [yidi1251]':1)'Kwegu [kweg1241][xwg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2677",
+        "label": "Kwegu"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56723",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kwegu_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_koe",
+        "label": "Koegu"
+      }
+    ],
+    "meds": [
+      [
+        "156197",
+        "grammar_sketch",
+        1998,
+        29,
+        "Hieda, Osamu 1998"
+      ],
+      [
+        "141710",
+        "grammar_sketch",
+        1992,
+        25,
+        "Hieda, Osamu 1992"
+      ],
+      [
+        "148463",
+        "wordlist_or_less",
+        1991,
+        35,
+        "Hieda, Osamu 1991"
+      ],
+      [
+        "18844",
+        "wordlist_or_less",
+        1990,
+        12,
+        "Hieda, Osamu 1990"
+      ],
+      [
+        "78995",
+        "wordlist_or_less",
+        1966,
+        4,
+        "Haberland, Eike 1966"
+      ]
+    ]
+  },
+  "id": "kweg1241",
+  "name": "Kwegu",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.40416,
+  "longitude": 36.1702,
+  "classification": [
+    {
+      "name": "Surmic",
+      "id": "surm1244",
+      "url": "https://glottolog.org/resource/languoid/id/surm1244"
+    },
+    {
+      "name": "South Surmic",
+      "id": "sout2836",
+      "url": "https://glottolog.org/resource/languoid/id/sout2836"
+    },
+    {
+      "name": "Southeast Surmic",
+      "id": "sout2837",
+      "url": "https://glottolog.org/resource/languoid/id/sout2837"
+    }
+  ],
+  "iso639-3": "xwg"
+}

@@ -1,0 +1,58 @@
+{
+  "pk": 1168,
+  "hid": "bqe",
+  "father_pk": 190,
+  "family_pk": 190,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "('Eastern Low Navarrese [east1470]':1,'Labourdin [labo1236]':1,'Western Low Navarrese [west1508]':1)'Navarro-Labourdin Basque [basq1249][bqe]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "bqe",
+      "name": "Navarro-Labourdin Basque",
+      "change_request": "2006-119",
+      "effective": "2007-08-10",
+      "reason": "merge",
+      "change_to": [
+        "eus"
+      ],
+      "remedy": "Merge into Basque [eus]",
+      "comment": "Navarro-Labourdin is just a dialect of Basque, and so is asserted by all\nspeakers from the Low Navarrese and Labourdin regions from the first written\nrecords in 16th century to the present. Nobody identifies his or her language as\n\"Navarro-Labourdin\". All their putative speakers uniformly self-identify as\nBasque speakers. The term \"Navarro-Labourdin\" refers to a written variety of\nBasque used in the French part of the Basque Country in the first part of the\n20th century. The name was coined by Pierre Lafitte (1944) before the Basque\nAcademy had developed a standard variety for the language. In his book, Lafitte\ncrucially refers to \"literary Navarro-Labourdin\" as a specific Basque variety,\nused by some Basque writers from the regions of Labourd and Low Navarre, in the\nFrench Basque Country, not as a different language from Basque. From 1964 there\nis a standard Basque (\"euskara batua\" or unified Basque), which is the language\ntaught in most schools, including those in the French Basque Country, and used\nin the media and official documents of the Basque Country."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12953386",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500546",
+        "wordlist_or_less",
+        2006,
+        0,
+        "ISO 639-3 Registration Authority 2006"
+      ]
+    ]
+  },
+  "id": "basq1249",
+  "name": "Navarro-Labourdin Basque",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Basque",
+      "id": "basq1248",
+      "url": "https://glottolog.org/resource/languoid/id/basq1248"
+    }
+  ],
+  "iso639-3": "bqe"
+}

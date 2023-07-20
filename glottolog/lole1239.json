@@ -1,0 +1,89 @@
+{
+  "pk": 9561,
+  "hid": "llg",
+  "father_pk": 6910,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ba''a [baaa1237]':1,'North Lole [nort2870]':1,'South Lole [sout2899]':1)'Lole [lole1239][llg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/8451",
+        "label": "Lole"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6668883",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lole_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "83615",
+        "phonology_or_text",
+        2011,
+        10,
+        "June Jacob and Charles E. Grimes 2011"
+      ],
+      [
+        "68931",
+        "phonology_or_text",
+        1913,
+        6,
+        "J. C. G. Jonker 1913"
+      ],
+      [
+        "574615",
+        "wordlist_or_less",
+        1889,
+        3,
+        "D.P. Manafe 1889"
+      ]
+    ]
+  },
+  "id": "lole1239",
+  "name": "Lole",
+  "description": null,
+  "markup_description": null,
+  "latitude": -10.8069,
+  "longitude": 123.085,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Timor-Babar",
+      "id": "timo1265",
+      "url": "https://glottolog.org/resource/languoid/id/timo1265"
+    },
+    {
+      "name": "Rote-Meto",
+      "id": "rote1234",
+      "url": "https://glottolog.org/resource/languoid/id/rote1234"
+    },
+    {
+      "name": "Nuclear Rote",
+      "id": "east2858",
+      "url": "https://glottolog.org/resource/languoid/id/east2858"
+    }
+  ],
+  "iso639-3": "llg"
+}

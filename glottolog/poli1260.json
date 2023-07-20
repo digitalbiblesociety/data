@@ -1,0 +1,117 @@
+{
+  "pk": 13986,
+  "hid": "pol",
+  "father_pk": 10905,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Great Poland [grea1303]':1,'Little Poland [litt1243]':1,'Old Polish [oldp1256]':1)'Polish [poli1260][pol]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_pol",
+        "label": "Polish"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Polish_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/poli1260",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q809",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "568732",
+        "long_grammar",
+        2004,
+        630,
+        "Barbara Bartnicka and Björn Hansen and Wojtek Klemm 2004"
+      ],
+      [
+        "108673",
+        "long_grammar",
+        1975,
+        596,
+        "Brooks, Maria Zagorska 1975"
+      ],
+      [
+        "577757",
+        "long_grammar",
+        1931,
+        494,
+        "Szober, Stanisław 1931"
+      ],
+      [
+        "320124",
+        "grammar_sketch",
+        1568,
+        216,
+        "Petrus Statorius 1568"
+      ],
+      [
+        "320443",
+        "grammar_sketch",
+        1519,
+        0,
+        "Stanisław Zaborowski 1519"
+      ]
+    ]
+  },
+  "id": "poli1260",
+  "name": "Polish",
+  "description": null,
+  "markup_description": null,
+  "latitude": 51.8439,
+  "longitude": 18.6255,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Balto-Slavic",
+      "id": "balt1263",
+      "url": "https://glottolog.org/resource/languoid/id/balt1263"
+    },
+    {
+      "name": "Slavic",
+      "id": "slav1255",
+      "url": "https://glottolog.org/resource/languoid/id/slav1255"
+    },
+    {
+      "name": "West Slavic",
+      "id": "west2792",
+      "url": "https://glottolog.org/resource/languoid/id/west2792"
+    },
+    {
+      "name": "Lechitic",
+      "id": "lech1241",
+      "url": "https://glottolog.org/resource/languoid/id/lech1241"
+    },
+    {
+      "name": "Polish-Silesian",
+      "id": "poli1262",
+      "url": "https://glottolog.org/resource/languoid/id/poli1262"
+    }
+  ],
+  "iso639-3": "pol"
+}

@@ -1,0 +1,84 @@
+{
+  "pk": 7639,
+  "hid": "crv",
+  "father_pk": 5299,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Chaura [chau1258][crv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4053",
+        "label": "Chaura"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2605680",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Chaura_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "656661",
+        "grammar_sketch",
+        2020,
+        215,
+        "Abbi, Anvita and Pachori, Rahul 2020"
+      ],
+      [
+        "13045",
+        "wordlist_or_less",
+        1907,
+        16,
+        "Temple, Richard Carnac 1907"
+      ],
+      [
+        "11273",
+        "wordlist_or_less",
+        1889,
+        2,
+        "Edward H. Man 1889"
+      ]
+    ]
+  },
+  "id": "chau1258",
+  "name": "Chaura",
+  "description": null,
+  "markup_description": null,
+  "latitude": 8.45745,
+  "longitude": 93.0331,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Nicobaric",
+      "id": "nico1262",
+      "url": "https://glottolog.org/resource/languoid/id/nico1262"
+    },
+    {
+      "name": "Nuclear Nicobaric",
+      "id": "nucl1758",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1758"
+    },
+    {
+      "name": "Chowra-Teressa",
+      "id": "chow1240",
+      "url": "https://glottolog.org/resource/languoid/id/chow1240"
+    }
+  ],
+  "iso639-3": "crv"
+}

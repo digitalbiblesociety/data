@@ -1,0 +1,83 @@
+{
+  "pk": 4270,
+  "hid": "hid",
+  "father_pk": 2479,
+  "family_pk": 201,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Hidatsa [hida1246][hid]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2376",
+        "label": "Hidatsa"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3135234",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Hidatsa_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_hid",
+        "label": "Hidatsa"
+      }
+    ],
+    "meds": [
+      [
+        "309312",
+        "long_grammar",
+        2012,
+        580,
+        "Park, Indrek 2012"
+      ],
+      [
+        "99400",
+        "long_grammar",
+        2007,
+        426,
+        "John P. Boyle 2007"
+      ],
+      [
+        "26580",
+        "grammar",
+        1873,
+        0,
+        "Mathews, Washington 1873"
+      ]
+    ]
+  },
+  "id": "hida1246",
+  "name": "Hidatsa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 47.33,
+  "longitude": -102,
+  "classification": [
+    {
+      "name": "Siouan",
+      "id": "siou1252",
+      "url": "https://glottolog.org/resource/languoid/id/siou1252"
+    },
+    {
+      "name": "Core Siouan",
+      "id": "core1249",
+      "url": "https://glottolog.org/resource/languoid/id/core1249"
+    },
+    {
+      "name": "Missouri River Siouan",
+      "id": "miss1252",
+      "url": "https://glottolog.org/resource/languoid/id/miss1252"
+    }
+  ],
+  "iso639-3": "hid"
+}

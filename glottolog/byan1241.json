@@ -1,0 +1,103 @@
+{
+  "pk": 16187,
+  "hid": "bee",
+  "father_pk": 13366,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dhuleli [dhul1234]':1,'Kuti [kuti1243]':1,'Pangjungkho Boli [pang1283]':1,'Yerjungkhu Boli [yerj1238]':1)'Byangsi [byan1241][bee]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1616",
+        "label": "Byangsi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56904",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Byangsi_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bya",
+        "label": "Byansi"
+      }
+    ],
+    "meds": [
+      [
+        "148623",
+        "grammar",
+        1991,
+        233,
+        "G. M. Trivedi 1991"
+      ],
+      [
+        "472408",
+        "grammar_sketch",
+        1989,
+        94,
+        "D. D. Sharma 1989"
+      ],
+      [
+        "78648",
+        "wordlist_or_less",
+        1909,
+        4,
+        "George A. Grierson 1909"
+      ]
+    ]
+  },
+  "id": "byan1241",
+  "name": "Byangsi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 29.92002,
+  "longitude": 80.63653,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "West Himalayish",
+      "id": "tibe1275",
+      "url": "https://glottolog.org/resource/languoid/id/tibe1275"
+    },
+    {
+      "name": "Eastern West Himalayish",
+      "id": "east2777",
+      "url": "https://glottolog.org/resource/languoid/id/east2777"
+    },
+    {
+      "name": "Pithauragarh",
+      "id": "pith1234",
+      "url": "https://glottolog.org/resource/languoid/id/pith1234"
+    },
+    {
+      "name": "Darma-Byangsi-Chaudangsi",
+      "id": "darm1241",
+      "url": "https://glottolog.org/resource/languoid/id/darm1241"
+    },
+    {
+      "name": "Darma-Byangsi",
+      "id": "darm1242",
+      "url": "https://glottolog.org/resource/languoid/id/darm1242"
+    }
+  ],
+  "iso639-3": "bee"
+}

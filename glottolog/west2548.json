@@ -1,0 +1,92 @@
+{
+  "pk": 9551,
+  "hid": "drn",
+  "father_pk": 6904,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'West Damar [west2548][drn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3450459",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/West_Damar_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "159808",
+        "grammar_sketch",
+        2008,
+        15,
+        "Svetlana F. Chlenova 2008"
+      ],
+      [
+        "7572",
+        "wordlist_or_less",
+        2006,
+        13,
+        "Svetlana F.Chlenova and Mikhail A. Chlenov 2006"
+      ],
+      [
+        "110693",
+        "wordlist_or_less",
+        1993,
+        1,
+        "Mark Taber 1993"
+      ],
+      [
+        "304213",
+        "wordlist_or_less",
+        1991,
+        1176,
+        "Pannell, Sandra N. 1991"
+      ]
+    ]
+  },
+  "id": "west2548",
+  "name": "West Damar",
+  "description": null,
+  "markup_description": null,
+  "latitude": -7.12065,
+  "longitude": 128.585,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Timor-Babar",
+      "id": "timo1265",
+      "url": "https://glottolog.org/resource/languoid/id/timo1265"
+    },
+    {
+      "name": "Southwest Maluku",
+      "id": "sout3382",
+      "url": "https://glottolog.org/resource/languoid/id/sout3382"
+    },
+    {
+      "name": "Babar",
+      "id": "baba1274",
+      "url": "https://glottolog.org/resource/languoid/id/baba1274"
+    }
+  ],
+  "iso639-3": "drn"
+}

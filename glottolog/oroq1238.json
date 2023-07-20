@@ -1,0 +1,79 @@
+{
+  "pk": 4127,
+  "hid": "orh",
+  "father_pk": 2357,
+  "family_pk": 162,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Oroqen [gank1239]':1,'Northeastern Oroqen [nort3333]':1,('Birar [bira1250]':1,'Shengli [shen1253]':1)'Southeastern Oroqen [heil1245]':1,'Western Oroqen [west2935]':1)'Oroqen [oroq1238][orh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1187",
+        "label": "Oroqen"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q1367309",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Oroqen_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "47012",
+        "grammar",
+        1986,
+        209,
+        "Hu, Zengyi 1986"
+      ],
+      [
+        "470963",
+        "wordlist_or_less",
+        1950,
+        12,
+        "Władysław Kotwicz 1950"
+      ],
+      [
+        "557467",
+        "wordlist_or_less",
+        1899,
+        12,
+        "Skurlatovъ, Ivanъ 1899"
+      ]
+    ]
+  },
+  "id": "oroq1238",
+  "name": "Oroqen",
+  "description": null,
+  "markup_description": null,
+  "latitude": 50.6319,
+  "longitude": 125.017,
+  "classification": [
+    {
+      "name": "Tungusic",
+      "id": "tung1282",
+      "url": "https://glottolog.org/resource/languoid/id/tung1282"
+    },
+    {
+      "name": "Northeastern Tungusic",
+      "id": "nort3417",
+      "url": "https://glottolog.org/resource/languoid/id/nort3417"
+    },
+    {
+      "name": "Northern Tungusic",
+      "id": "nort3147",
+      "url": "https://glottolog.org/resource/languoid/id/nort3147"
+    }
+  ],
+  "iso639-3": "orh"
+}

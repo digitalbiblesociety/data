@@ -1,0 +1,63 @@
+{
+  "pk": 672,
+  "hid": "lba",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Lui [luia1234][lba]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "lba",
+      "name": "Lui",
+      "change_request": "2018-016",
+      "effective": "2019-01-25",
+      "reason": "non-existent",
+      "change_to": [],
+      "remedy": null,
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q23009966",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "560374",
+        "wordlist_or_less",
+        2018,
+        0,
+        "ISO 639-3 Registration Authority 2018"
+      ],
+      [
+        "500307",
+        "wordlist_or_less",
+        2011,
+        0,
+        "ISO 639-3 Registration Authority 2011"
+      ]
+    ]
+  },
+  "id": "luia1234",
+  "name": "Lui",
+  "description": null,
+  "markup_description": null,
+  "latitude": 21.3635,
+  "longitude": 99.6619,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "lba"
+}

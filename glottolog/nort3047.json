@@ -1,0 +1,98 @@
+{
+  "pk": 11287,
+  "hid": "gis",
+  "father_pk": 8308,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Muturuwa [mutu1250]':1)'North Giziga [nort3047][gis]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_giz",
+        "label": "Giziga"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/North_Giziga_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nort3047",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3515084",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "589472",
+        "long_grammar",
+        2021,
+        399,
+        "Erin Shay 2021"
+      ],
+      [
+        "133545",
+        "grammar_sketch",
+        1970,
+        194,
+        "Lukas, Johannes 1970"
+      ],
+      [
+        "312368",
+        "wordlist_or_less",
+        1922,
+        2,
+        "Strümpell, F. 1922-1923"
+      ]
+    ]
+  },
+  "id": "nort3047",
+  "name": "North Giziga",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.6755,
+  "longitude": 14.219,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "Biu-Mandara",
+      "id": "bium1280",
+      "url": "https://glottolog.org/resource/languoid/id/bium1280"
+    },
+    {
+      "name": "North Biu-Mandara",
+      "id": "nort3156",
+      "url": "https://glottolog.org/resource/languoid/id/nort3156"
+    },
+    {
+      "name": "Maroua",
+      "id": "maro1246",
+      "url": "https://glottolog.org/resource/languoid/id/maro1246"
+    },
+    {
+      "name": "Giziga",
+      "id": "gizi1243",
+      "url": "https://glottolog.org/resource/languoid/id/gizi1243"
+    }
+  ],
+  "iso639-3": "gis"
+}

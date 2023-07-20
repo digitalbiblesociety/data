@@ -1,0 +1,109 @@
+{
+  "pk": 10907,
+  "hid": "csb",
+  "father_pk": 8002,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kashubian Proper [kash1275]':1,'Slovincian [slov1270]':1)'Kashubian [kash1274][csb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3454",
+        "label": "Kashubian"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ksu",
+        "label": "Kashubian"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_svc",
+        "label": "Slovincian"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kashubian_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33690",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "17672",
+        "long_grammar",
+        1903,
+        412,
+        "Lorentz, Friedrich 1903"
+      ],
+      [
+        "325673",
+        "grammar_sketch",
+        1896,
+        100,
+        "Gotthelf Bronisch 1896, 1898"
+      ],
+      [
+        "475080",
+        "grammar_sketch",
+        1879,
+        0,
+        "Cenôva, F. 1879"
+      ],
+      [
+        "309459",
+        "wordlist_or_less",
+        1786,
+        20,
+        "Pallas, Peter Simon 1786, 1789"
+      ]
+    ]
+  },
+  "id": "kash1274",
+  "name": "Kashubian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 54.2996,
+  "longitude": 18.6163,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Balto-Slavic",
+      "id": "balt1263",
+      "url": "https://glottolog.org/resource/languoid/id/balt1263"
+    },
+    {
+      "name": "Slavic",
+      "id": "slav1255",
+      "url": "https://glottolog.org/resource/languoid/id/slav1255"
+    },
+    {
+      "name": "West Slavic",
+      "id": "west2792",
+      "url": "https://glottolog.org/resource/languoid/id/west2792"
+    },
+    {
+      "name": "Lechitic",
+      "id": "lech1241",
+      "url": "https://glottolog.org/resource/languoid/id/lech1241"
+    }
+  ],
+  "iso639-3": "csb"
+}

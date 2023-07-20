@@ -1,0 +1,86 @@
+{
+  "pk": 662,
+  "hid": "cqd",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Chuanqiandian Cluster Miao [chua1256][cqd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "cqd",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "The entry Chuanqiandian Cluster Miao [cqd] entry subsumes varieties already included in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 under different entries\n(**hh:hvb:Niederer:Hmong-Mjen**). As a macro-language the [cqd] makes sense, but not as a distinct language in addition to the Miao languages already having entries."
+    },
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3307894",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Hmong_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/chua1256",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "122388",
+        "wordlist_or_less",
+        1983,
+        6,
+        "Wang, Fushi 1983"
+      ],
+      [
+        "49987",
+        "wordlist_or_less",
+        1976,
+        10,
+        "Smalley, William A. 1976"
+      ],
+      [
+        "63961",
+        "wordlist_or_less",
+        1972,
+        0,
+        "na 1972"
+      ]
+    ]
+  },
+  "id": "chua1256",
+  "name": "Chuanqiandian Cluster Miao",
+  "description": null,
+  "markup_description": null,
+  "latitude": 22.5638,
+  "longitude": 101.95,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "cqd"
+}

@@ -1,0 +1,95 @@
+{
+  "pk": 15061,
+  "hid": "krj",
+  "father_pk": 12174,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Anini-Y [anin1241]':1,'Guimaras Island [guim1241]':1,'Hamtik [hamt1248]':1,'Lambunao [lamb1274]':1,'Miag-Ao [miag1237]':1,'Pandan [pand1266]':1,'Pototan [poto1251]':1)'Kinaray-a [kina1250][krj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Karay-a_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33720",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "305474",
+        "grammar_sketch",
+        1967,
+        20,
+        "David R. Zorc 1967"
+      ],
+      [
+        "69069",
+        "wordlist_or_less",
+        1907,
+        2,
+        "G. A. Baer 1907"
+      ],
+      [
+        "152673",
+        "wordlist_or_less",
+        1604,
+        75,
+        "Pedro Chirino 1604"
+      ]
+    ]
+  },
+  "id": "kina1250",
+  "name": "Kinaray-a",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.8131,
+  "longitude": 122.297,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Greater Central Philippine",
+      "id": "grea1284",
+      "url": "https://glottolog.org/resource/languoid/id/grea1284"
+    },
+    {
+      "name": "Central Philippine",
+      "id": "cent2246",
+      "url": "https://glottolog.org/resource/languoid/id/cent2246"
+    },
+    {
+      "name": "Bisayan",
+      "id": "bisa1268",
+      "url": "https://glottolog.org/resource/languoid/id/bisa1268"
+    },
+    {
+      "name": "West Bisayan",
+      "id": "west2820",
+      "url": "https://glottolog.org/resource/languoid/id/west2820"
+    },
+    {
+      "name": "Kinarayan",
+      "id": "kina1255",
+      "url": "https://glottolog.org/resource/languoid/id/kina1255"
+    }
+  ],
+  "iso639-3": "krj"
+}

@@ -1,0 +1,71 @@
+{
+  "pk": 8547,
+  "hid": "nwo",
+  "father_pk": 6077,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Nauo [nauo1235][nwo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6981305",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nauo_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "143121",
+        "wordlist_or_less",
+        1879,
+        12,
+        "Clamor W. Schürmann 1879"
+      ]
+    ]
+  },
+  "id": "nauo1235",
+  "name": "Nauo",
+  "description": null,
+  "markup_description": null,
+  "latitude": -33.79661078,
+  "longitude": 135.828014,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Arandic-Thura-Yura",
+      "id": "aran1266",
+      "url": "https://glottolog.org/resource/languoid/id/aran1266"
+    },
+    {
+      "name": "Thura-Yura",
+      "id": "thur1253",
+      "url": "https://glottolog.org/resource/languoid/id/thur1253"
+    },
+    {
+      "name": "Core Thura Yura",
+      "id": "core1260",
+      "url": "https://glottolog.org/resource/languoid/id/core1260"
+    },
+    {
+      "name": "Unclassified Core Thura-Yura",
+      "id": "unun9967",
+      "url": "https://glottolog.org/resource/languoid/id/unun9967"
+    }
+  ],
+  "iso639-3": "nwo"
+}

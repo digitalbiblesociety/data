@@ -1,0 +1,115 @@
+{
+  "pk": 18299,
+  "hid": "etu",
+  "father_pk": 15828,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Keaka [keak1238]':1,'Obang [oban1246]':1)'Eastern Ejagham [east2411]':1,'Southern Ejagham [sout2823]':1,('Akamkpa-Ejagham [akam1238]':1,'Bendeghe Etung [bend1259]':1,'Ekwe [ekwe1238]':1,'Northern Etung [nort2807]':1,'Southern Etung [sout2824]':1)'Western Ejagham [west2482]':1)'Ejagham [ejag1239][etu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 10,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_eja",
+        "label": "Ejagham"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Jagham_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/ejag1239",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35296",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "33746",
+        "long_grammar",
+        1981,
+        567,
+        "Watters, John R. 1981"
+      ],
+      [
+        "110458",
+        "grammar",
+        1966,
+        18,
+        "Edmondson, Tom 1966"
+      ],
+      [
+        "569631",
+        "grammar_sketch",
+        1954,
+        3126,
+        "Bystrom, K. 1954"
+      ],
+      [
+        "112476",
+        "wordlist_or_less",
+        1908,
+        55,
+        "Mansfeld, Alfred 1908"
+      ]
+    ]
+  },
+  "id": "ejag1239",
+  "name": "Ejagham",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.54442,
+  "longitude": 8.90959,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Ekoid-Mbe",
+      "id": "ekoi1237",
+      "url": "https://glottolog.org/resource/languoid/id/ekoi1237"
+    },
+    {
+      "name": "Ekoid",
+      "id": "ekoi1236",
+      "url": "https://glottolog.org/resource/languoid/id/ekoi1236"
+    },
+    {
+      "name": "Bakor-Ejagham",
+      "id": "ejag1240",
+      "url": "https://glottolog.org/resource/languoid/id/ejag1240"
+    }
+  ],
+  "iso639-3": "etu"
+}

@@ -1,0 +1,114 @@
+{
+  "pk": 20941,
+  "hid": "zea",
+  "father_pk": 18904,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Axels [axel1238]':1,'Bevelands [beve1238]':1,'Duvelands [duve1239]':1,'Flakkees [flak1238]':1,'Fluplands [flup1238]':1,'Goerees [goer1238]':1,'Kezands [keza1236]':1,'Schouws [scho1241]':1,'Walchers [walc1238]':1)'Zeeuws [zeeu1238][zea]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 9,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_duz",
+        "label": "Dutch (Zeeuws)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Zeelandic",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q237409",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "578503",
+        "grammar_sketch",
+        1904,
+        184,
+        "Marinus A. van Weel 1904"
+      ],
+      [
+        "578286",
+        "phonology_or_text",
+        1902,
+        200,
+        "Andries Verschuur 1902"
+      ],
+      [
+        "549041",
+        "wordlist_or_less",
+        1882,
+        5,
+        "J. Goemans 1882"
+      ]
+    ]
+  },
+  "id": "zeeu1238",
+  "name": "Zeeuws",
+  "description": null,
+  "markup_description": null,
+  "latitude": 51.4981,
+  "longitude": 3.85428,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Germanic",
+      "id": "germ1287",
+      "url": "https://glottolog.org/resource/languoid/id/germ1287"
+    },
+    {
+      "name": "Northwest Germanic",
+      "id": "nort3152",
+      "url": "https://glottolog.org/resource/languoid/id/nort3152"
+    },
+    {
+      "name": "West Germanic",
+      "id": "west2793",
+      "url": "https://glottolog.org/resource/languoid/id/west2793"
+    },
+    {
+      "name": "Macro-Dutch",
+      "id": "macr1270",
+      "url": "https://glottolog.org/resource/languoid/id/macr1270"
+    },
+    {
+      "name": "Middle-Modern Dutch",
+      "id": "midd1347",
+      "url": "https://glottolog.org/resource/languoid/id/midd1347"
+    },
+    {
+      "name": "Modern Dutch",
+      "id": "mode1257",
+      "url": "https://glottolog.org/resource/languoid/id/mode1257"
+    },
+    {
+      "name": "Southwestern Dutch",
+      "id": "sout3292",
+      "url": "https://glottolog.org/resource/languoid/id/sout3292"
+    },
+    {
+      "name": "Zeeuwic",
+      "id": "zeeu1239",
+      "url": "https://glottolog.org/resource/languoid/id/zeeu1239"
+    }
+  ],
+  "iso639-3": "zea"
+}

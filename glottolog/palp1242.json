@@ -1,0 +1,60 @@
+{
+  "pk": 753,
+  "hid": "plp",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Palpa [palp1242][plp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "plp",
+      "name": "Palpa",
+      "change_request": "2019-034",
+      "effective": "2020-01-23",
+      "reason": "non-existent",
+      "change_to": [],
+      "remedy": null,
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Palpa_language_(Indo-Aryan)",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3832956",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "50321",
+        "phonology_or_text",
+        1916,
+        8,
+        "George A. Grierson 1916"
+      ]
+    ]
+  },
+  "id": "palp1242",
+  "name": "Palpa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.8741,
+  "longitude": 83.3928,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "plp"
+}

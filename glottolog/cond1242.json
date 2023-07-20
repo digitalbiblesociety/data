@@ -1,0 +1,91 @@
+{
+  "pk": 11441,
+  "hid": "gih",
+  "father_pk": 8474,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dinggabal [ding1241]':1,'Galibal [gali1267]':1,'Gidabal [gida1240]':1,'Warwick [warw1234]':1)'Condamine-Upper Clarence Bandjalang [cond1242][gih]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_gid",
+        "label": "Gidabal"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/6780",
+        "label": "Githabul"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Githabul_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q48987680",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "22112",
+        "grammar",
+        1971,
+        91,
+        "Brian Geytenbeek and Helen Geytenbeek 1971"
+      ],
+      [
+        "49325",
+        "wordlist_or_less",
+        1887,
+        4,
+        "Edwards, Charles 1887"
+      ]
+    ]
+  },
+  "id": "cond1242",
+  "name": "Condamine-Upper Clarence Bandjalang",
+  "description": null,
+  "markup_description": null,
+  "latitude": -28.289642,
+  "longitude": 152.151281,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Southeastern Pama-Nyungan",
+      "id": "sout3135",
+      "url": "https://glottolog.org/resource/languoid/id/sout3135"
+    },
+    {
+      "name": "New South Wales Pama-Nyungan",
+      "id": "news1235",
+      "url": "https://glottolog.org/resource/languoid/id/news1235"
+    },
+    {
+      "name": "Greater Bandjalangic",
+      "id": "band1357",
+      "url": "https://glottolog.org/resource/languoid/id/band1357"
+    },
+    {
+      "name": "Bandjalangic",
+      "id": "band1339",
+      "url": "https://glottolog.org/resource/languoid/id/band1339"
+    },
+    {
+      "name": "Inland Bandjalang",
+      "id": "inla1268",
+      "url": "https://glottolog.org/resource/languoid/id/inla1268"
+    }
+  ],
+  "iso639-3": "gih"
+}

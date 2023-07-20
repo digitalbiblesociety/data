@@ -1,0 +1,97 @@
+{
+  "pk": 7255,
+  "hid": "NOCODE_Lizu",
+  "father_pk": 4934,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kala Lizu [lisu1245]':1,'Mianning Lizu [mian1258]':1,'Naiqu Lizu [naiq1234]':1)'Lizu [lizu1234]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "NOCODE_Lizu",
+      "comment_type": "missing",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "Lizu is an Ersuic language not intelligible to Ersu [ers] (or Duoxu) and should be a language separate from the Ersu [ers] entry (**hh:hvw:Yu:Ersuic**:2, **hh:vw:Chirkova:Duoxu**:107). See also: Ersu [ers]."
+    },
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10624",
+        "label": "Lizu"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lizu_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/lizu1234",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6660653",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "143788",
+        "grammar_sketch",
+        2008,
+        43,
+        "Katia Chirkova 2008"
+      ],
+      [
+        "469243",
+        "phonology_or_text",
+        1991,
+        10,
+        "Dai, Qingxia and Huang, Bufan and Fu, Ailan and Renzeng, Wangmu and Liu, Juhuang 1991"
+      ]
+    ]
+  },
+  "id": "lizu1234",
+  "name": "Lizu",
+  "description": null,
+  "markup_description": null,
+  "latitude": 28.333425,
+  "longitude": 101.350309,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Burmo-Qiangic",
+      "id": "burm1265",
+      "url": "https://glottolog.org/resource/languoid/id/burm1265"
+    },
+    {
+      "name": "Na-Qiangic",
+      "id": "naqi1236",
+      "url": "https://glottolog.org/resource/languoid/id/naqi1236"
+    },
+    {
+      "name": "Ersuic",
+      "id": "ersu1242",
+      "url": "https://glottolog.org/resource/languoid/id/ersu1242"
+    }
+  ]
+}

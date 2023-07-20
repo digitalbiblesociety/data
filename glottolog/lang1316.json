@@ -1,0 +1,78 @@
+{
+  "pk": 10418,
+  "hid": "yln",
+  "father_pk": 7465,
+  "family_pk": 356,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Langnian Buyang [lang1316][yln]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1512",
+        "label": "Langnian Buyang"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2929025",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "662637",
+        "phonology_or_text",
+        2011,
+        1,
+        "Jinfang Li and Yancheng He 2011"
+      ],
+      [
+        "163697",
+        "wordlist_or_less",
+        1998,
+        6,
+        "Li, Jingfang and Zhou, Guoyan 1998"
+      ]
+    ]
+  },
+  "id": "lang1316",
+  "name": "Langnian Buyang",
+  "description": null,
+  "markup_description": null,
+  "latitude": 23.550258,
+  "longitude": 106.016896,
+  "classification": [
+    {
+      "name": "Tai-Kadai",
+      "id": "taik1256",
+      "url": "https://glottolog.org/resource/languoid/id/taik1256"
+    },
+    {
+      "name": "Kadaic",
+      "id": "kada1291",
+      "url": "https://glottolog.org/resource/languoid/id/kada1291"
+    },
+    {
+      "name": "Eastern Kra",
+      "id": "east2365",
+      "url": "https://glottolog.org/resource/languoid/id/east2365"
+    },
+    {
+      "name": "Buyang",
+      "id": "buya1244",
+      "url": "https://glottolog.org/resource/languoid/id/buya1244"
+    },
+    {
+      "name": "Northern Buyang",
+      "id": "nort2744",
+      "url": "https://glottolog.org/resource/languoid/id/nort2744"
+    }
+  ],
+  "iso639-3": "yln"
+}

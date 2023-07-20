@@ -1,0 +1,98 @@
+{
+  "pk": 19061,
+  "hid": "glo",
+  "father_pk": 16799,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Galambu [gala1264][glo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q2598797",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Galambu_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "309603",
+        "grammar_sketch",
+        1978,
+        17,
+        "Schuh, Russell G. 1978"
+      ],
+      [
+        "109280",
+        "wordlist_or_less",
+        1907,
+        2,
+        "Gowers, W.F. 1907"
+      ]
+    ]
+  },
+  "id": "gala1264",
+  "name": "Galambu",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.1258,
+  "longitude": 10.2542,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "West Chadic",
+      "id": "west2785",
+      "url": "https://glottolog.org/resource/languoid/id/west2785"
+    },
+    {
+      "name": "West Chadic A",
+      "id": "west2714",
+      "url": "https://glottolog.org/resource/languoid/id/west2714"
+    },
+    {
+      "name": "West Chadic A.2-3",
+      "id": "west2799",
+      "url": "https://glottolog.org/resource/languoid/id/west2799"
+    },
+    {
+      "name": "West Chadic A.2",
+      "id": "west2715",
+      "url": "https://glottolog.org/resource/languoid/id/west2715"
+    },
+    {
+      "name": "Boleic",
+      "id": "bole1261",
+      "url": "https://glottolog.org/resource/languoid/id/bole1261"
+    },
+    {
+      "name": "Nuclear Boleic",
+      "id": "nucl1735",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1735"
+    },
+    {
+      "name": "Galambu-Bele",
+      "id": "gala1265",
+      "url": "https://glottolog.org/resource/languoid/id/gala1265"
+    }
+  ],
+  "iso639-3": "glo"
+}

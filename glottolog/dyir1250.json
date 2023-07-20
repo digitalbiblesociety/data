@@ -1,0 +1,98 @@
+{
+  "pk": 1068,
+  "hid": "dbl",
+  "father_pk": 153,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dyiru [dyir1251]':1,'Girramy [girr1240]':1,'Gulnguy [guln1239]':1,'Mamu [mamu1253]':1,'Ngadjan [ngad1260]':1)'Dyirbal [dyir1250][dbl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/504",
+        "label": "Dyirbal"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_dyi",
+        "label": "Dyirbal"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dyirbal_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/dyir1250",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35465",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "660494",
+        "long_grammar",
+        2022,
+        496,
+        "R. M. W. Dixon 2022"
+      ],
+      [
+        "118330",
+        "long_grammar",
+        1972,
+        444,
+        "R. M. W. Dixon 1972"
+      ],
+      [
+        "303245",
+        "grammar",
+        1971,
+        36,
+        "Dixon, R. M. W. 1971"
+      ],
+      [
+        "62632",
+        "phonology_or_text",
+        1968,
+        6,
+        "Dixon, R. M. W. 1968"
+      ],
+      [
+        "2680",
+        "wordlist_or_less",
+        1900,
+        2,
+        "Douglas, A. Douglas 1900"
+      ],
+      [
+        "1435",
+        "wordlist_or_less",
+        1889,
+        0,
+        "Meston, Archibald 1889"
+      ]
+    ]
+  },
+  "id": "dyir1250",
+  "name": "Dyirbal",
+  "description": null,
+  "markup_description": null,
+  "latitude": -17.4516,
+  "longitude": 145.544,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    }
+  ],
+  "iso639-3": "dbl"
+}

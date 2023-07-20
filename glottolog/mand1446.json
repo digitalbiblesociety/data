@@ -1,0 +1,85 @@
+{
+  "pk": 2480,
+  "hid": "mhq",
+  "father_pk": 1190,
+  "family_pk": 201,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mandan [mand1446][mhq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/865",
+        "label": "Mandan"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q1957120",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mandan_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mdn",
+        "label": "Mandan"
+      }
+    ],
+    "meds": [
+      [
+        "667924",
+        "grammar",
+        2010,
+        0,
+        "Spotted Bear, Alyce 2010"
+      ],
+      [
+        "552311",
+        "grammar_sketch",
+        1906,
+        92,
+        "G. F. Will and H. J. Spinden 1906"
+      ],
+      [
+        "14992",
+        "wordlist_or_less",
+        1862,
+        13,
+        "F. V. Hayden 1862"
+      ],
+      [
+        "322307",
+        "wordlist_or_less",
+        1853,
+        4,
+        "David V. Whiting 1853"
+      ]
+    ]
+  },
+  "id": "mand1446",
+  "name": "Mandan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 46.83,
+  "longitude": -101,
+  "classification": [
+    {
+      "name": "Siouan",
+      "id": "siou1252",
+      "url": "https://glottolog.org/resource/languoid/id/siou1252"
+    },
+    {
+      "name": "Core Siouan",
+      "id": "core1249",
+      "url": "https://glottolog.org/resource/languoid/id/core1249"
+    }
+  ],
+  "iso639-3": "mhq"
+}

@@ -1,0 +1,85 @@
+{
+  "pk": 14961,
+  "hid": "mqy",
+  "father_pk": 12099,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Manggarai [cent2073]':1,'Eastern Manggarai [east2463]':1,'West-Central Manggarai [west2536]':1,'Western Manggarai [west2537]':1)'Manggarai [mang1405][mqy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3285748",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Manggarai_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mng",
+        "label": "Manggarai"
+      }
+    ],
+    "meds": [
+      [
+        "307457",
+        "grammar",
+        1946,
+        251,
+        "Adolf Burger 1946"
+      ]
+    ]
+  },
+  "id": "mang1405",
+  "name": "Manggarai",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.55748,
+  "longitude": 120.329,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Bima-Lembata",
+      "id": "bima1248",
+      "url": "https://glottolog.org/resource/languoid/id/bima1248"
+    },
+    {
+      "name": "Flores-Sumba-Hawu",
+      "id": "flor1240",
+      "url": "https://glottolog.org/resource/languoid/id/flor1240"
+    },
+    {
+      "name": "Flores Barat",
+      "id": "flor1241",
+      "url": "https://glottolog.org/resource/languoid/id/flor1241"
+    },
+    {
+      "name": "Manggaraiic",
+      "id": "mang1430",
+      "url": "https://glottolog.org/resource/languoid/id/mang1430"
+    },
+    {
+      "name": "Manggarai Khusus",
+      "id": "mang1436",
+      "url": "https://glottolog.org/resource/languoid/id/mang1436"
+    }
+  ],
+  "iso639-3": "mqy"
+}

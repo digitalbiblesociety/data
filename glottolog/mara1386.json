@@ -1,0 +1,79 @@
+{
+  "pk": 3090,
+  "hid": "zmr",
+  "father_pk": 1572,
+  "family_pk": 305,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Maranunggu [mara1386][zmr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1905",
+        "label": "Emmi"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/n13",
+        "label": "Maranunggu"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Marranj_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/mara1386",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mku",
+        "label": "Maranungku"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6772792",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "14",
+        "grammar",
+        1970,
+        119,
+        "Darrell T. Tryon 1970"
+      ],
+      [
+        "148903",
+        "wordlist_or_less",
+        1968,
+        1,
+        "Darrell T. Tryon 1968"
+      ]
+    ]
+  },
+  "id": "mara1386",
+  "name": "Maranunggu",
+  "description": null,
+  "markup_description": null,
+  "latitude": -13.6754,
+  "longitude": 130.12,
+  "classification": [
+    {
+      "name": "Western Daly",
+      "id": "west2434",
+      "url": "https://glottolog.org/resource/languoid/id/west2434"
+    },
+    {
+      "name": "Maranunggu-Ame-Manda",
+      "id": "waga1259",
+      "url": "https://glottolog.org/resource/languoid/id/waga1259"
+    }
+  ],
+  "iso639-3": "zmr"
+}

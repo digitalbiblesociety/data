@@ -1,0 +1,128 @@
+{
+  "pk": 13574,
+  "hid": "kxu",
+  "father_pk": 10490,
+  "family_pk": 404,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Gumsai [gums1237][uki]':1,'Khondi [khon1247]':1)'Kui {India} [kuii1252][kxu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "kxu",
+      "name": "Kui (India)",
+      "change_request": "2019-005",
+      "effective": "2020-01-23",
+      "reason": "split",
+      "change_to": [
+        "dwk",
+        "uki"
+      ],
+      "remedy": "Split into [dwk] Dawik Kui and [uki] Kui (India)",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5652",
+        "label": "Kui (India)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33919",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kui_language_(India)",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kuii1252",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kui",
+        "label": "Kui (in India)"
+      }
+    ],
+    "meds": [
+      [
+        "323434",
+        "long_grammar",
+        2008,
+        422,
+        "Maheswaran, C. 2008"
+      ],
+      [
+        "101504",
+        "grammar",
+        1928,
+        248,
+        "W. W. Winfield 1928"
+      ],
+      [
+        "39508",
+        "grammar",
+        1909,
+        89,
+        "Friend Pereira, J. E. 1909"
+      ],
+      [
+        "581884",
+        "grammar_sketch",
+        1876,
+        140,
+        "Smith, J. M. D. 1876"
+      ],
+      [
+        "589728",
+        "wordlist_or_less",
+        1837,
+        32,
+        "Taylor, W. 1837"
+      ]
+    ]
+  },
+  "id": "kuii1252",
+  "name": "Kui (India)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 19.2043,
+  "longitude": 83.5859,
+  "classification": [
+    {
+      "name": "Dravidian",
+      "id": "drav1251",
+      "url": "https://glottolog.org/resource/languoid/id/drav1251"
+    },
+    {
+      "name": "South Dravidian",
+      "id": "sout3133",
+      "url": "https://glottolog.org/resource/languoid/id/sout3133"
+    },
+    {
+      "name": "South Dravidian II",
+      "id": "sout3139",
+      "url": "https://glottolog.org/resource/languoid/id/sout3139"
+    },
+    {
+      "name": "Konda-Kui",
+      "id": "kond1294",
+      "url": "https://glottolog.org/resource/languoid/id/kond1294"
+    },
+    {
+      "name": "Manda-Kui",
+      "id": "mand1411",
+      "url": "https://glottolog.org/resource/languoid/id/mand1411"
+    },
+    {
+      "name": "Kui-Kuvi",
+      "id": "kuik1244",
+      "url": "https://glottolog.org/resource/languoid/id/kuik1244"
+    }
+  ],
+  "iso639-3": "kxu"
+}

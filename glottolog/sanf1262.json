@@ -1,0 +1,78 @@
+{
+  "pk": 8955,
+  "hid": "mat",
+  "father_pk": 6464,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'San Francisco Matlatzinca [sanf1262][mat]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6150",
+        "label": "Matlatzinca"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12953704",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "140116",
+        "grammar_sketch",
+        1999,
+        189,
+        "Escalante Hernández, Roberto and Hernández, Marciano 1999"
+      ],
+      [
+        "304536",
+        "grammar_sketch",
+        1638,
+        64,
+        "Miguel de Guevara 1862 [1638]"
+      ]
+    ]
+  },
+  "id": "sanf1262",
+  "name": "San Francisco Matlatzinca",
+  "description": null,
+  "markup_description": null,
+  "latitude": 19.3584,
+  "longitude": -100.058,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Western Otomanguean",
+      "id": "west2783",
+      "url": "https://glottolog.org/resource/languoid/id/west2783"
+    },
+    {
+      "name": "Otopame-Chinantecan",
+      "id": "otop1241",
+      "url": "https://glottolog.org/resource/languoid/id/otop1241"
+    },
+    {
+      "name": "Otopamean",
+      "id": "otop1242",
+      "url": "https://glottolog.org/resource/languoid/id/otop1242"
+    },
+    {
+      "name": "Matlatzincan",
+      "id": "matl1258",
+      "url": "https://glottolog.org/resource/languoid/id/matl1258"
+    }
+  ],
+  "iso639-3": "mat"
+}

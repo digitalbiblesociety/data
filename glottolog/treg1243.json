@@ -1,0 +1,75 @@
+{
+  "pk": 7983,
+  "hid": "trm",
+  "father_pk": 5605,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tregami [treg1243][trm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3505",
+        "label": "Tregami"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q34081",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tregami_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "128018",
+        "wordlist_or_less",
+        1952,
+        2,
+        "Georg Morgenstierne 1952"
+      ]
+    ]
+  },
+  "id": "treg1243",
+  "name": "Tregami",
+  "description": null,
+  "markup_description": null,
+  "latitude": 34.998117,
+  "longitude": 71.099792,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Nuristani",
+      "id": "nuri1243",
+      "url": "https://glottolog.org/resource/languoid/id/nuri1243"
+    },
+    {
+      "name": "Nuristani Kalasha-Tregami",
+      "id": "waig1246",
+      "url": "https://glottolog.org/resource/languoid/id/waig1246"
+    }
+  ],
+  "iso639-3": "trm"
+}

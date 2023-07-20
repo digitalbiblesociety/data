@@ -1,0 +1,63 @@
+{
+  "pk": 705,
+  "hid": "tbb",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Tapeba [tape1236][tbb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "tbb",
+      "name": "Tapeba",
+      "change_request": "2019-032",
+      "effective": "2020-01-23",
+      "reason": "non-existent",
+      "change_to": [],
+      "remedy": null,
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12953908",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "31451",
+        "wordlist_or_less",
+        1989,
+        3,
+        "Barretto Filho, Henyo Trindade 1989"
+      ],
+      [
+        "119005",
+        "wordlist_or_less",
+        1985,
+        0,
+        "Gomes, Jussara Vieira 1985"
+      ]
+    ]
+  },
+  "id": "tape1236",
+  "name": "Tapeba",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.99999,
+  "longitude": -40.3333,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "tbb"
+}

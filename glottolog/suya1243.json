@@ -1,0 +1,109 @@
+{
+  "pk": 7509,
+  "hid": "suy",
+  "father_pk": 5185,
+  "family_pk": 376,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Beiço de Pau [beic1238]':1,'Yaruma [yaru1258]':1)'Suyá [suya1243][suy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2725",
+        "label": "Suyá"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Suy%C3%A1_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/suya1243",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3505859",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "154409",
+        "grammar",
+        1993,
+        277,
+        "Marymarcia Guedes 1993"
+      ],
+      [
+        "30941",
+        "grammar_sketch",
+        1980,
+        37,
+        "Seeger, Anthony 1980"
+      ],
+      [
+        "129437",
+        "phonology_or_text",
+        1967,
+        15,
+        "DAVIS, Irvine 1967"
+      ],
+      [
+        "75664",
+        "wordlist_or_less",
+        1966,
+        4,
+        "Irvine Davis 1966"
+      ],
+      [
+        "302244",
+        "wordlist_or_less",
+        1961,
+        18,
+        "Harald Schultz 1961"
+      ],
+      [
+        "71296",
+        "wordlist_or_less",
+        1948,
+        3,
+        "Claude Lévi-Strauss 1948"
+      ]
+    ]
+  },
+  "id": "suya1243",
+  "name": "Suyá",
+  "description": null,
+  "markup_description": null,
+  "latitude": -11.5178,
+  "longitude": -53.0743,
+  "classification": [
+    {
+      "name": "Nuclear-Macro-Je",
+      "id": "nucl1710",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1710"
+    },
+    {
+      "name": "Je",
+      "id": "jeee1236",
+      "url": "https://glottolog.org/resource/languoid/id/jeee1236"
+    },
+    {
+      "name": "Je Setentrional",
+      "id": "jese1235",
+      "url": "https://glottolog.org/resource/languoid/id/jese1235"
+    },
+    {
+      "name": "Core Northern Je",
+      "id": "core1264",
+      "url": "https://glottolog.org/resource/languoid/id/core1264"
+    }
+  ],
+  "iso639-3": "suy"
+}

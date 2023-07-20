@@ -1,0 +1,55 @@
+{
+  "pk": 964,
+  "hid": "wmo",
+  "father_pk": 103,
+  "family_pk": 103,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Wom {Papua New Guinea} [womp1235][wmo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10565",
+        "label": "Wom"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q8030620",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Wom_language_(Papua_New_Guinea)",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "97332",
+        "wordlist_or_less",
+        1964,
+        2,
+        "David Glasgow and Richard Loving 1964"
+      ]
+    ]
+  },
+  "id": "womp1235",
+  "name": "Wom (Papua New Guinea)",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.5332,
+  "longitude": 142.87,
+  "classification": [
+    {
+      "name": "Nuclear Torricelli",
+      "id": "nucl1708",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1708"
+    }
+  ],
+  "iso639-3": "wmo"
+}

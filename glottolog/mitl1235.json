@@ -1,0 +1,85 @@
+{
+  "pk": 14724,
+  "hid": "vmm",
+  "father_pk": 11769,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mitlatongo Mixtec [mitl1235][vmm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10529",
+        "label": "Eastern Alta Mixtec"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6881813",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mitlatongo-Yutanduchi_Mixtec",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "655033",
+        "wordlist_or_less",
+        2001,
+        70,
+        "McKendry, Inga 2001"
+      ]
+    ]
+  },
+  "id": "mitl1235",
+  "name": "Mitlatongo Mixtec",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.16,
+  "longitude": -97.1757,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Amuzgo-Mixtecan",
+      "id": "amuz1253",
+      "url": "https://glottolog.org/resource/languoid/id/amuz1253"
+    },
+    {
+      "name": "Mixtecan",
+      "id": "mixt1422",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1422"
+    },
+    {
+      "name": "Mixtec-Cuicatec",
+      "id": "mixt1423",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1423"
+    },
+    {
+      "name": "Mixtec",
+      "id": "mixt1427",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1427"
+    },
+    {
+      "name": "Eastern Alta Mixtec",
+      "id": "east2735",
+      "url": "https://glottolog.org/resource/languoid/id/east2735"
+    }
+  ],
+  "iso639-3": "vmm"
+}

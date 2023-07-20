@@ -1,0 +1,94 @@
+{
+  "pk": 5224,
+  "hid": "sja",
+  "father_pk": 3395,
+  "family_pk": 390,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Basurudó [basu1242]':1)'Epena [epen1239][sja]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5377",
+        "label": "Epena"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_epe",
+        "label": "Epena Pedee"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Eperara_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/epen1239",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3055682",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "145062",
+        "grammar",
+        1994,
+        227,
+        "Philip L. Harms 1994"
+      ],
+      [
+        "111936",
+        "grammar",
+        1982,
+        0,
+        "Livia Correa Botero 1982"
+      ],
+      [
+        "14444",
+        "wordlist_or_less",
+        1934,
+        6,
+        "Tucker, Archibald N. 1934"
+      ],
+      [
+        "319366",
+        "wordlist_or_less",
+        1921,
+        155,
+        "Merizalde del Carmen, Bernardo 1921"
+      ]
+    ]
+  },
+  "id": "epen1239",
+  "name": "Epena",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.25877,
+  "longitude": -77.3566,
+  "classification": [
+    {
+      "name": "Chocoan",
+      "id": "choc1280",
+      "url": "https://glottolog.org/resource/languoid/id/choc1280"
+    },
+    {
+      "name": "Embera",
+      "id": "embe1258",
+      "url": "https://glottolog.org/resource/languoid/id/embe1258"
+    },
+    {
+      "name": "San Juan",
+      "id": "sanj1278",
+      "url": "https://glottolog.org/resource/languoid/id/sanj1278"
+    }
+  ],
+  "iso639-3": "sja"
+}

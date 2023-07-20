@@ -1,0 +1,117 @@
+{
+  "pk": 11310,
+  "hid": "daf",
+  "father_pk": 8320,
+  "family_pk": 121,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kla-Dan [klad1234][lda]':1,(('Bia Dan [biad1234]':1,'Blong Dan [blon1234]':1,'Gaan Dan [gaan1244]':1,'Gama Dan [gama1259]':1,'Gbapen [gbap1234]':1,'Gblee Dan [gble1234]':1,'Gwaan Dan [gwaa1240]':1,'Gweetaawu [gwee1242]':1,'Kaa Dan [kaad1239]':1,'Saan Dan [saan1247]':1,'Sleng Dan [slen1234]':1,'Tee Dan [teed1234]':1,'Yii Dan [yiid1234]':1,'Yoon Dan [yoon1234]':1)'Eastern Dan [east2794]':1,('Blowo [blow1238]':1,'Dhoo Dan [dhoo1234]':1,'Ka Dan [kada1293]':1,'Loo Dan [lood1234]':1,'Lower Gio [lowe1406]':1,'River Cess Gio [rive1259]':1,'Upper Gio [uppe1420]':1,'Vain Dan [vain1234]':1,'Wao Dan [waod1234]':1,'West Yacouba Dan [west2878]':1,'Yizue [yizu1234]':1)'Western Dan [west2877]':1)'Nuclear Dan [nucl1770][dnj]':1)'Dan [dann1241][daf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 29,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "daf",
+      "name": "Dan",
+      "change_request": "2012-083",
+      "effective": "2013-01-23",
+      "reason": "split",
+      "change_to": [
+        "dnj",
+        "lda"
+      ],
+      "remedy": "Split into Dan [dnj] and Kla-Dan [lda]",
+      "comment": "Kla-Dan is different enough from the Dan to make mutual intelligibility\nmarginal; the percentage of cognates in Swadesh's 100-wordlist between Kla-Dan\nand different Dan dialects varies between 88 and 90%. Kla-Dan and Dan have no\ncommon literature; Kla- Dan speakers have an ethnolinguistic identity of their\nown, separate from the rest of Dan.\n\nDan and Kla-Dan can still be regarded as closely related languages, their\nspeakers are aware of their common origin. Kla-Dan speakers do not accept their\ncommon identity with \"Yakuba\", the term commonly used in Côte d'Ivoire for the\nother Dan speakers, but they agree that they belong to the Dan community.\n\nFurther explanation from email:\n\nAbout Dan and Kla-Dan: well... I see the point. For me, 90% of Swadesh's\n100-word list is about the limit of inellegibility. In the Mande families, there\nare lots of varieties which are considered as separate languages although they\nhave 95 to 98% of cognates in the 100- wordlist with other ones! If we take the\n80% range as the limit, I'm afraid, many European languages will loose their\nstatus of languages...\n\nIt is true that when a 100-wordlis is collected badly, or based on unreliable\nand incomplete data, or do not take account of established regular\ncorrespondences, the rate is normally lower than in the contrary case. For\nexample, in Ronald Long's dissertation (1971) \"A comparative study of the\nNorthern Mande languages\" (which is still regarded by many as the main reference\nin the field), the rates are systematically lower than in my analysis (2009).\nHere are some examples:\n\nLong 1971 Susu-Maninka 27-36%\n\nMandinka-Maninka 79-83%\n\nMau-Maninka 74-93%\n\nVai-Maninka 53-62%\n\netc. - this tendency is valid for every pair of languages without exception!\nTherefore, if I want to justify the necessity to split one language into two, I\ncan simply take Long's data (instead of mine), and the critics will be\nconvinced. Isn't it absurd?"
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_dan",
+        "label": "Dan"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dan_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/dann1241",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q1158971",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "453873",
+        "long_grammar",
+        2012,
+        342,
+        "Makeeva, Nadežda V. 2012"
+      ],
+      [
+        "314380",
+        "grammar_sketch",
+        1960,
+        187,
+        "Kenneth E. Griffes and William Everett Welmers 1960"
+      ],
+      [
+        "121543",
+        "grammar_sketch",
+        1953,
+        21,
+        "Prost, André 1953"
+      ],
+      [
+        "66179",
+        "wordlist_or_less",
+        1854,
+        1,
+        "Koelle, Sigismund W. 1854"
+      ]
+    ]
+  },
+  "id": "dann1241",
+  "name": "Dan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.22812,
+  "longitude": -8.24535,
+  "classification": [
+    {
+      "name": "Mande",
+      "id": "mand1469",
+      "url": "https://glottolog.org/resource/languoid/id/mand1469"
+    },
+    {
+      "name": "Eastern Mande",
+      "id": "east2697",
+      "url": "https://glottolog.org/resource/languoid/id/east2697"
+    },
+    {
+      "name": "Southeastern Mande",
+      "id": "sout3140",
+      "url": "https://glottolog.org/resource/languoid/id/sout3140"
+    },
+    {
+      "name": "Mano-Dan",
+      "id": "guro1245",
+      "url": "https://glottolog.org/resource/languoid/id/guro1245"
+    },
+    {
+      "name": "Guro-Dan",
+      "id": "guro1246",
+      "url": "https://glottolog.org/resource/languoid/id/guro1246"
+    },
+    {
+      "name": "Dan-Toura",
+      "id": "dant1235",
+      "url": "https://glottolog.org/resource/languoid/id/dant1235"
+    }
+  ],
+  "iso639-3": "daf"
+}

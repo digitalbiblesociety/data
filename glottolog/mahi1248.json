@@ -1,0 +1,83 @@
+{
+  "pk": 11668,
+  "hid": "mjy",
+  "father_pk": 8799,
+  "family_pk": 178,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Eastern Mahican [stoc1240]':1,'Western Mahican [west3003]':1)'Mahican [mahi1248][mjy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Mohican_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3182562",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "668646",
+        "grammar_sketch",
+        1842,
+        50,
+        "Micaela Verlato 2013 [1842]"
+      ],
+      [
+        "97875",
+        "wordlist_or_less",
+        1788,
+        51,
+        "Edwards, Jonathan 2002 [1788]"
+      ]
+    ]
+  },
+  "id": "mahi1248",
+  "name": "Mahican",
+  "description": null,
+  "markup_description": null,
+  "latitude": 42.587,
+  "longitude": -73.788,
+  "classification": [
+    {
+      "name": "Algic",
+      "id": "algi1248",
+      "url": "https://glottolog.org/resource/languoid/id/algi1248"
+    },
+    {
+      "name": "Algonquian-Blackfoot",
+      "id": "algo1256",
+      "url": "https://glottolog.org/resource/languoid/id/algo1256"
+    },
+    {
+      "name": "Algonquian",
+      "id": "algo1257",
+      "url": "https://glottolog.org/resource/languoid/id/algo1257"
+    },
+    {
+      "name": "Eastern Algonquian",
+      "id": "east2700",
+      "url": "https://glottolog.org/resource/languoid/id/east2700"
+    },
+    {
+      "name": "Delawaran",
+      "id": "dela1253",
+      "url": "https://glottolog.org/resource/languoid/id/dela1253"
+    },
+    {
+      "name": "Mahican-Woronoco-Pojassick",
+      "id": "mahi1250",
+      "url": "https://glottolog.org/resource/languoid/id/mahi1250"
+    }
+  ],
+  "iso639-3": "mjy"
+}

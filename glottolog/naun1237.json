@@ -1,0 +1,92 @@
+{
+  "pk": 15198,
+  "hid": "ncn",
+  "father_pk": 12431,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Nauna [naun1237][ncn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2370",
+        "label": "Nauna"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3337158",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nauna_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "586206",
+        "phonology_or_text",
+        2021,
+        38,
+        "Robert Blust 2021"
+      ],
+      [
+        "98107",
+        "wordlist_or_less",
+        1988,
+        2,
+        "Malcolm Ross 1988"
+      ]
+    ]
+  },
+  "id": "naun1237",
+  "name": "Nauna",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.21213,
+  "longitude": 148.201,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Admiralty Islands",
+      "id": "admi1239",
+      "url": "https://glottolog.org/resource/languoid/id/admi1239"
+    },
+    {
+      "name": "Eastern Admiralty Islands",
+      "id": "east2459",
+      "url": "https://glottolog.org/resource/languoid/id/east2459"
+    },
+    {
+      "name": "South-East Admiralty",
+      "id": "sout2879",
+      "url": "https://glottolog.org/resource/languoid/id/sout2879"
+    }
+  ],
+  "iso639-3": "ncn"
+}

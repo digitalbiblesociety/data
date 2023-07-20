@@ -1,0 +1,96 @@
+{
+  "pk": 21993,
+  "hid": "tga",
+  "father_pk": 20224,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dambi {Kenya} [damb1244]':1,'Gimba [gimb1238]':1,'Kasigau [kasi1253]':1,'Kishamba [kish1246]':1,'Mugange [muga1242]':1,'Teri [teri1243]':1)'Sagalla [saga1262][tga]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4786",
+        "label": "Sagalla"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12953082",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "122744",
+        "grammar_sketch",
+        1894,
+        9,
+        "Wray, J. Alfred 1894"
+      ]
+    ]
+  },
+  "id": "saga1262",
+  "name": "Sagalla",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.60164,
+  "longitude": 38.5037,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Narrow Bantu",
+      "id": "narr1281",
+      "url": "https://glottolog.org/resource/languoid/id/narr1281"
+    },
+    {
+      "name": "East Bantu",
+      "id": "east2731",
+      "url": "https://glottolog.org/resource/languoid/id/east2731"
+    },
+    {
+      "name": "Northeast Savanna Bantu",
+      "id": "nort3203",
+      "url": "https://glottolog.org/resource/languoid/id/nort3203"
+    },
+    {
+      "name": "Kilimanjaro-Taita",
+      "id": "kili1269",
+      "url": "https://glottolog.org/resource/languoid/id/kili1269"
+    },
+    {
+      "name": "Taita-Sagalla",
+      "id": "tait1249",
+      "url": "https://glottolog.org/resource/languoid/id/tait1249"
+    }
+  ],
+  "iso639-3": "tga"
+}

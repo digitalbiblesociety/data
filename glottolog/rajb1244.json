@@ -1,0 +1,63 @@
+{
+  "pk": 686,
+  "hid": "rjb",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Rajbanshi {Retired} [rajb1244][rjb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "rjb",
+      "name": "Rajbanshi",
+      "change_request": "2007-008",
+      "effective": "2008-01-14",
+      "reason": "split",
+      "change_to": [
+        "rkt",
+        "rjs"
+      ],
+      "remedy": "Split into Kamta (India) / Rangpuri (Bangladesh) [rkt] and Rajbanshi (Nepal) [rjs]",
+      "comment": "What has formerly been listed as Rajbanshi_rjb in Nepal, India and Bangladesh\ncan more accurately be represented by using 3 different names and 2 different\niso codes. Survey revealed 62-69% intelligibility of Nepal Rajbanshi by speakers\nof Rajbanshi in West Bengal, India. What is spoken in India is intelligible with\nthe variety in Bangladesh and can share an iso code but it is proposed to give\nthem separate main names."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Rajbanshi_language_(Nepal)",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12640969",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500190",
+        "wordlist_or_less",
+        2007,
+        0,
+        "ISO 639-3 Registration Authority 2007"
+      ]
+    ]
+  },
+  "id": "rajb1244",
+  "name": "Rajbanshi (Retired)",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "rjb"
+}

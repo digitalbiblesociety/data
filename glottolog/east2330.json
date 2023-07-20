@@ -1,0 +1,91 @@
+{
+  "pk": 16417,
+  "hid": "lwl",
+  "father_pk": 13713,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Phalo [phal1255]':1)'Eastern Lawa [east2330][lwl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q18644464",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "426794",
+        "grammar",
+        2013,
+        227,
+        "Blok, Greg 2013"
+      ],
+      [
+        "20186",
+        "phonology_or_text",
+        1966,
+        23,
+        "Mitani, Yasuyuki 1966"
+      ],
+      [
+        "153074",
+        "wordlist_or_less",
+        1927,
+        6,
+        "Kerr, A. F. G. 1927"
+      ]
+    ]
+  },
+  "id": "east2330",
+  "name": "Eastern Lawa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 19.0136,
+  "longitude": 98.7613,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Khasi-Palaung",
+      "id": "khas1273",
+      "url": "https://glottolog.org/resource/languoid/id/khas1273"
+    },
+    {
+      "name": "Palaungic",
+      "id": "pala1352",
+      "url": "https://glottolog.org/resource/languoid/id/pala1352"
+    },
+    {
+      "name": "East Palaungic",
+      "id": "east2331",
+      "url": "https://glottolog.org/resource/languoid/id/east2331"
+    },
+    {
+      "name": "Waic",
+      "id": "waic1245",
+      "url": "https://glottolog.org/resource/languoid/id/waic1245"
+    },
+    {
+      "name": "Wa-Lawa",
+      "id": "wala1271",
+      "url": "https://glottolog.org/resource/languoid/id/wala1271"
+    },
+    {
+      "name": "Lawa",
+      "id": "lawa1256",
+      "url": "https://glottolog.org/resource/languoid/id/lawa1256"
+    }
+  ],
+  "iso639-3": "lwl"
+}

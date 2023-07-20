@@ -1,0 +1,82 @@
+{
+  "pk": 10520,
+  "hid": "bxr",
+  "father_pk": 7627,
+  "family_pk": 417,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Alar [alar1239]':1,'Barguzin [barg1250]':1,'Bohaan [boha1238]':1,'Bulagat [bula1254]':1,'Ekhirit [ekhi1238]':1,'Ninzne-Udinsk [ninz1245]':1,'Oka [okaa1242]':1,'Tunka [tunk1240]':1,'Unga [unga1252]':1)'Russia Buriat [russ1264][bxr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 9,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4012",
+        "label": "Western Buryat"
+      },
+      {
+        "url": "https://phoible.org/languages/russ1264",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q16116629",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "62408",
+        "long_grammar",
+        1962,
+        340,
+        "G. D. Sanžeev 1962"
+      ],
+      [
+        "108571",
+        "grammar",
+        1857,
+        259,
+        "Castrén, Matthias Alexander 1857"
+      ]
+    ]
+  },
+  "id": "russ1264",
+  "name": "Russia Buriat",
+  "description": null,
+  "markup_description": null,
+  "latitude": 50.85331,
+  "longitude": 105.5637,
+  "classification": [
+    {
+      "name": "Mongolic-Khitan",
+      "id": "mong1349",
+      "url": "https://glottolog.org/resource/languoid/id/mong1349"
+    },
+    {
+      "name": "Mongolic",
+      "id": "mong1329",
+      "url": "https://glottolog.org/resource/languoid/id/mong1329"
+    },
+    {
+      "name": "Eastern Mongolic",
+      "id": "oira1260",
+      "url": "https://glottolog.org/resource/languoid/id/oira1260"
+    },
+    {
+      "name": "Khalkha-Buriat",
+      "id": "khal1273",
+      "url": "https://glottolog.org/resource/languoid/id/khal1273"
+    },
+    {
+      "name": "Buriat",
+      "id": "buri1258",
+      "url": "https://glottolog.org/resource/languoid/id/buri1258"
+    }
+  ],
+  "iso639-3": "bxr"
+}

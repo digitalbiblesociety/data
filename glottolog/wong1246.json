@@ -1,0 +1,95 @@
+{
+  "pk": 8527,
+  "hid": "xwk",
+  "father_pk": 6061,
+  "family_pk": 153,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "'Wangkumara [wong1246][xwk]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "xwk",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "Wangkumara [xwk] is close enough to the varieties of Ngura [nbx] to be intelligible to it\n(**hh:hvw:Breen:Western-Queensland:1971**, **hh:hv:Breen:Karnic**). See also: Wilson River (Grey Range) [nbx]."
+    },
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6803",
+        "label": "Wangkumara"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Wilson_River_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/wong1246",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7967891",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500218",
+        "wordlist_or_less",
+        2012,
+        0,
+        "ISO 639-3 Registration Authority 2012"
+      ]
+    ]
+  },
+  "id": "wong1246",
+  "name": "Wangkumara",
+  "description": null,
+  "markup_description": null,
+  "latitude": -27.10149,
+  "longitude": 143.19619,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Karnic",
+      "id": "karn1253",
+      "url": "https://glottolog.org/resource/languoid/id/karn1253"
+    },
+    {
+      "name": "Badjiri-Eastern Karnic",
+      "id": "badj1246",
+      "url": "https://glottolog.org/resource/languoid/id/badj1246"
+    },
+    {
+      "name": "Eastern Karnic",
+      "id": "east2872",
+      "url": "https://glottolog.org/resource/languoid/id/east2872"
+    },
+    {
+      "name": "Wilson River (Grey Range)",
+      "id": "ngur1261",
+      "url": "https://glottolog.org/resource/languoid/id/ngur1261"
+    }
+  ],
+  "iso639-3": "xwk"
+}

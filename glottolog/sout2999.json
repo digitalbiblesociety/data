@@ -1,0 +1,85 @@
+{
+  "pk": 8961,
+  "hid": "pmz",
+  "father_pk": 6467,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Southern Pame [sout2999][pmz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_pam",
+        "label": "Pame"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3361765",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "588406",
+        "grammar_sketch",
+        1960,
+        50,
+        "Manrique Castañeda, Leonardo 1960"
+      ],
+      [
+        "317838",
+        "grammar_sketch",
+        1925,
+        40,
+        "Rudolf Schuller 1925 [1700s]"
+      ],
+      [
+        "12164",
+        "wordlist_or_less",
+        1766,
+        15,
+        "Leonarde Manrique Castañeda 1975 [1766]"
+      ]
+    ]
+  },
+  "id": "sout2999",
+  "name": "Southern Pame",
+  "description": null,
+  "markup_description": null,
+  "latitude": 20.966,
+  "longitude": -99.334,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Western Otomanguean",
+      "id": "west2783",
+      "url": "https://glottolog.org/resource/languoid/id/west2783"
+    },
+    {
+      "name": "Otopame-Chinantecan",
+      "id": "otop1241",
+      "url": "https://glottolog.org/resource/languoid/id/otop1241"
+    },
+    {
+      "name": "Otopamean",
+      "id": "otop1242",
+      "url": "https://glottolog.org/resource/languoid/id/otop1242"
+    },
+    {
+      "name": "Pamean",
+      "id": "pame1260",
+      "url": "https://glottolog.org/resource/languoid/id/pame1260"
+    }
+  ],
+  "iso639-3": "pmz"
+}

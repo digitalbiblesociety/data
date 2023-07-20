@@ -1,0 +1,106 @@
+{
+  "pk": 6470,
+  "hid": "amu",
+  "father_pk": 4420,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Guerrero Amuzgo [guer1243][amu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_amz",
+        "label": "Amuzgo"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/2905",
+        "label": "Guerrero Amuzgo"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Guerrero_Amuzgo_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/guer1243",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3501942",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "554942",
+        "long_grammar",
+        2018,
+        540,
+        "Do Bui, Bien 2018"
+      ],
+      [
+        "554436",
+        "long_grammar",
+        2015,
+        314,
+        "Marjorie J. Buck 2015"
+      ],
+      [
+        "477540",
+        "grammar_sketch",
+        2014,
+        130,
+        "Apóstol Polanco, Jair 2014"
+      ],
+      [
+        "308900",
+        "grammar_sketch",
+        1957,
+        24,
+        "Hart, Helen L. 1957"
+      ],
+      [
+        "452011",
+        "wordlist_or_less",
+        1941,
+        10,
+        "George M. Cowan 1941-1946"
+      ]
+    ]
+  },
+  "id": "guer1243",
+  "name": "Guerrero Amuzgo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.77226,
+  "longitude": -98.18953,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Amuzgo-Mixtecan",
+      "id": "amuz1253",
+      "url": "https://glottolog.org/resource/languoid/id/amuz1253"
+    },
+    {
+      "name": "Amuzgoan",
+      "id": "amuz1254",
+      "url": "https://glottolog.org/resource/languoid/id/amuz1254"
+    }
+  ],
+  "iso639-3": "amu"
+}

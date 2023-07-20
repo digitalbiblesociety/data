@@ -1,0 +1,89 @@
+{
+  "pk": 8076,
+  "hid": "quv",
+  "father_pk": 5658,
+  "family_pk": 76,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Sacapulteco [saca1238][quv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5311",
+        "label": "Sakapulteko"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sakapultek_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36412",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "319373",
+        "long_grammar",
+        2006,
+        779,
+        "Romelia Mó Isém 2006"
+      ],
+      [
+        "26143",
+        "long_grammar",
+        1981,
+        320,
+        "DuBois, John William 1981"
+      ],
+      [
+        "64496",
+        "wordlist_or_less",
+        1977,
+        3,
+        "McCluggage, Ralph and Hile, Pat 1977"
+      ]
+    ]
+  },
+  "id": "saca1238",
+  "name": "Sacapulteco",
+  "description": null,
+  "markup_description": null,
+  "latitude": 15.274,
+  "longitude": -91.109,
+  "classification": [
+    {
+      "name": "Mayan",
+      "id": "maya1287",
+      "url": "https://glottolog.org/resource/languoid/id/maya1287"
+    },
+    {
+      "name": "Core Mayan",
+      "id": "core1254",
+      "url": "https://glottolog.org/resource/languoid/id/core1254"
+    },
+    {
+      "name": "Quichean-Mamean",
+      "id": "quic1274",
+      "url": "https://glottolog.org/resource/languoid/id/quic1274"
+    },
+    {
+      "name": "Greater Quichean",
+      "id": "grea1276",
+      "url": "https://glottolog.org/resource/languoid/id/grea1276"
+    },
+    {
+      "name": "Core Quichean",
+      "id": "core1251",
+      "url": "https://glottolog.org/resource/languoid/id/core1251"
+    }
+  ],
+  "iso639-3": "quv"
+}

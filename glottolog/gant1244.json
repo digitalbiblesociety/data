@@ -1,0 +1,97 @@
+{
+  "pk": 11972,
+  "hid": "gao",
+  "father_pk": 9157,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Gants [gant1244][gao]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q5521529",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Gants_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "469265",
+        "grammar_sketch",
+        2015,
+        97,
+        "Don Daniels 2015"
+      ],
+      [
+        "130469",
+        "wordlist_or_less",
+        2000,
+        3,
+        "Bernard Comrie 2000"
+      ],
+      [
+        "37308",
+        "wordlist_or_less",
+        1969,
+        2,
+        "John A. Z'graggen 1969"
+      ],
+      [
+        "67339",
+        "wordlist_or_less",
+        1960,
+        2,
+        "Heinrich Aufenanger 1960"
+      ]
+    ]
+  },
+  "id": "gant1244",
+  "name": "Gants",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.28113,
+  "longitude": 144.771,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Madang",
+      "id": "mada1298",
+      "url": "https://glottolog.org/resource/languoid/id/mada1298"
+    },
+    {
+      "name": "Kalamic-South Adelbert",
+      "id": "kala1403",
+      "url": "https://glottolog.org/resource/languoid/id/kala1403"
+    },
+    {
+      "name": "South Adelbert",
+      "id": "sout3148",
+      "url": "https://glottolog.org/resource/languoid/id/sout3148"
+    },
+    {
+      "name": "Sogeram",
+      "id": "soge1235",
+      "url": "https://glottolog.org/resource/languoid/id/soge1235"
+    },
+    {
+      "name": "East Sogeram",
+      "id": "east2767",
+      "url": "https://glottolog.org/resource/languoid/id/east2767"
+    }
+  ],
+  "iso639-3": "gao"
+}

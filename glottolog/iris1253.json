@@ -1,0 +1,134 @@
+{
+  "pk": 16640,
+  "hid": "gle",
+  "father_pk": 14070,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Connacht [conn1243]':1,'Donegal [done1238]':1,'Munster-Leinster [muns1250]':1)'Irish [iris1253][gle]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3437",
+        "label": "Irish"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_iri",
+        "label": "Irish"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ird",
+        "label": "Irish (Donegal)"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_irm",
+        "label": "Irish (Munster)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Irish_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/iris1253",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q9142",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "25164",
+        "long_grammar",
+        1998,
+        725,
+        "Thurneysen, Rudolf 1998"
+      ],
+      [
+        "60434",
+        "long_grammar",
+        1845,
+        459,
+        "J. O'Donovan 1845"
+      ],
+      [
+        "320378",
+        "grammar_sketch",
+        1773,
+        286,
+        "Vallancey, Charles 1773"
+      ],
+      [
+        "320040",
+        "grammar_sketch",
+        1677,
+        0,
+        "O'Molloy, Franciscus 1677"
+      ],
+      [
+        "666071",
+        "wordlist_or_less",
+        1000,
+        0,
+        "O'Donnaile, Caoimhin P. 1000"
+      ]
+    ]
+  },
+  "id": "iris1253",
+  "name": "Irish",
+  "description": null,
+  "markup_description": null,
+  "latitude": 53.2186,
+  "longitude": -7.61509,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Celtic",
+      "id": "celt1248",
+      "url": "https://glottolog.org/resource/languoid/id/celt1248"
+    },
+    {
+      "name": "Nuclear Celtic",
+      "id": "nucl1715",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1715"
+    },
+    {
+      "name": "TGB Celtic",
+      "id": "tgbc1234",
+      "url": "https://glottolog.org/resource/languoid/id/tgbc1234"
+    },
+    {
+      "name": "Insular Celtic",
+      "id": "insu1254",
+      "url": "https://glottolog.org/resource/languoid/id/insu1254"
+    },
+    {
+      "name": "Goidelic",
+      "id": "goid1240",
+      "url": "https://glottolog.org/resource/languoid/id/goid1240"
+    },
+    {
+      "name": "Modern Goidelic",
+      "id": "mode1265",
+      "url": "https://glottolog.org/resource/languoid/id/mode1265"
+    }
+  ],
+  "iso639-3": "gle"
+}

@@ -1,0 +1,114 @@
+{
+  "pk": 20776,
+  "hid": "gbz",
+  "father_pk": 18816,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Gabri {Iranian} [gabr1257]':1,('Judeo-Kermani [kerm1245]':1,'Judeo-Yazdi [yazd1240]':1)'Judeo-Yazdi-Kermani [jude1275]':1,'Parsi {Zoroastrian} [pars1253]':1,'Zoroastrian Dari [zoro1245]':1)'Zoroastrian Yazdi [zoro1242][gbz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4196",
+        "label": "Zoroastrian Dari"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q32389",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Zoroastrian_Dari_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "587702",
+        "grammar",
+        2014,
+        196,
+        "Fakhr al-Sādāt Khāmisī Hāmānah 1393 [2014]"
+      ],
+      [
+        "550844",
+        "grammar_sketch",
+        2008,
+        109,
+        "E.K. Molchanova 2008"
+      ],
+      [
+        "318528",
+        "grammar_sketch",
+        1881,
+        88,
+        "Justi, Ferdinand 1881"
+      ]
+    ]
+  },
+  "id": "zoro1242",
+  "name": "Zoroastrian Yazdi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 31.8161,
+  "longitude": 54.4469,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Iranian",
+      "id": "iran1269",
+      "url": "https://glottolog.org/resource/languoid/id/iran1269"
+    },
+    {
+      "name": "Central Iranian PBS",
+      "id": "cent2317",
+      "url": "https://glottolog.org/resource/languoid/id/cent2317"
+    },
+    {
+      "name": "Central Iranian PB",
+      "id": "cent2318",
+      "url": "https://glottolog.org/resource/languoid/id/cent2318"
+    },
+    {
+      "name": "Northwestern Iranian",
+      "id": "nort3177",
+      "url": "https://glottolog.org/resource/languoid/id/nort3177"
+    },
+    {
+      "name": "Central Iran Kermanic",
+      "id": "cent2264",
+      "url": "https://glottolog.org/resource/languoid/id/cent2264"
+    },
+    {
+      "name": "Nuclear Central Iran Kermanic",
+      "id": "nucl1790",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1790"
+    },
+    {
+      "name": "Yazdi-Kermani-Nayini",
+      "id": "yazd1241",
+      "url": "https://glottolog.org/resource/languoid/id/yazd1241"
+    }
+  ],
+  "iso639-3": "gbz"
+}

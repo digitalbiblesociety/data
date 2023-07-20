@@ -1,0 +1,112 @@
+{
+  "pk": 7330,
+  "hid": "bca",
+  "father_pk": 5005,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Eryuan [eryu1239]':1,'Heqing [heqi1238]':1,'Jianchuan [jian1239]':1,'Lanping [lanp1241]':1,'Yunlong [yunl1238]':1)'Central Bai [cent2004][bca]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12628803",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/cent2004",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bai",
+        "label": "Bai"
+      }
+    ],
+    "meds": [
+      [
+        "149858",
+        "long_grammar",
+        1990,
+        422,
+        "Grace Wiersma 1990"
+      ],
+      [
+        "14113",
+        "grammar_sketch",
+        1984,
+        179,
+        "Xu, Lin and Zhao, Yansun 1984"
+      ],
+      [
+        "307742",
+        "grammar_sketch",
+        1964,
+        15,
+        "Xu, Lin and Zhao, Yan-Sun 1964"
+      ],
+      [
+        "439579",
+        "wordlist_or_less",
+        1909,
+        21,
+        "Davies, Henry R. 1909"
+      ],
+      [
+        "40495",
+        "wordlist_or_less",
+        1908,
+        16,
+        "Madrolle, Claudius 1908"
+      ],
+      [
+        "136143",
+        "wordlist_or_less",
+        1892,
+        2,
+        "Lefèvre-Pontalis, Pierre 1892, 1896, 1896"
+      ],
+      [
+        "72757",
+        "wordlist_or_less",
+        1888,
+        11,
+        "Terrien de Lacouperie 1888"
+      ]
+    ]
+  },
+  "id": "cent2004",
+  "name": "Central Bai",
+  "description": null,
+  "markup_description": null,
+  "latitude": 26.1666,
+  "longitude": 99.7052,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Macro-Bai",
+      "id": "macr1275",
+      "url": "https://glottolog.org/resource/languoid/id/macr1275"
+    },
+    {
+      "name": "Baic",
+      "id": "baic1239",
+      "url": "https://glottolog.org/resource/languoid/id/baic1239"
+    },
+    {
+      "name": "South-Central Bai",
+      "id": "sout3254",
+      "url": "https://glottolog.org/resource/languoid/id/sout3254"
+    }
+  ],
+  "iso639-3": "bca"
+}

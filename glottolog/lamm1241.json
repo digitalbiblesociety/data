@@ -1,0 +1,77 @@
+{
+  "pk": 5849,
+  "hid": "lev",
+  "father_pk": 3881,
+  "family_pk": 125,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Biangwala [bian1250]':1,'Kalondama [kalo1261]':1,'Tubal [tuba1277]':1)'Western Pantar [lamm1241][lev]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/9449",
+        "label": "Western Pantar"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Western_Pantar_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6583582",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "90761",
+        "grammar_sketch",
+        2001,
+        149,
+        "Nitbani, Semuel H. and Jeladu Kosmas and Sisila Wona and Hilda Naley 2001"
+      ],
+      [
+        "161717",
+        "wordlist_or_less",
+        1975,
+        1,
+        "W. A. L. Stokhof 1975"
+      ]
+    ]
+  },
+  "id": "lamm1241",
+  "name": "Western Pantar",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.52787,
+  "longitude": 124.057,
+  "classification": [
+    {
+      "name": "Timor-Alor-Pantar",
+      "id": "timo1261",
+      "url": "https://glottolog.org/resource/languoid/id/timo1261"
+    },
+    {
+      "name": "Alor-Pantar",
+      "id": "alor1249",
+      "url": "https://glottolog.org/resource/languoid/id/alor1249"
+    },
+    {
+      "name": "Nuclear Alor-Pantar",
+      "id": "nucl1821",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1821"
+    },
+    {
+      "name": "West Alor-Straits-Pantar",
+      "id": "west2994",
+      "url": "https://glottolog.org/resource/languoid/id/west2994"
+    }
+  ],
+  "iso639-3": "lev"
+}

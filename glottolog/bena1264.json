@@ -1,0 +1,103 @@
+{
+  "pk": 9076,
+  "hid": "bef",
+  "father_pk": 6569,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Benabena [bena1264][bef]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_beb",
+        "label": "Benabena"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Benabena_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2895638",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "586965",
+        "grammar",
+        2015,
+        161,
+        "Emkow, Carola 2015"
+      ],
+      [
+        "300023",
+        "grammar",
+        2006,
+        0,
+        "Young, Robert 2006 [1969?]"
+      ],
+      [
+        "567817",
+        "grammar",
+        1969,
+        0,
+        "na 1969"
+      ],
+      [
+        "101153",
+        "grammar_sketch",
+        1960,
+        26,
+        "Robert A. Young late 1960s?"
+      ],
+      [
+        "100477",
+        "wordlist_or_less",
+        1935,
+        1,
+        "Michael J. Leahy 1935"
+      ]
+    ]
+  },
+  "id": "bena1264",
+  "name": "Benabena",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.09974,
+  "longitude": 145.534,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Kainantu-Goroka",
+      "id": "kain1273",
+      "url": "https://glottolog.org/resource/languoid/id/kain1273"
+    },
+    {
+      "name": "Goroka",
+      "id": "goro1272",
+      "url": "https://glottolog.org/resource/languoid/id/goro1272"
+    },
+    {
+      "name": "Nuclear Goroka",
+      "id": "nucl1760",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1760"
+    },
+    {
+      "name": "Siane-Yagaria",
+      "id": "nucl1756",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1756"
+    }
+  ],
+  "iso639-3": "bef"
+}

@@ -1,0 +1,127 @@
+{
+  "pk": 18845,
+  "hid": "kmr",
+  "father_pk": 16579,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Bayezidi [baye1238]':1,'Bitlis Kurmanji [bitl1234]':1,'Erevan Kurmanji [erev1241]':1,'Mush Kurmanji [mush1241]':1,'Van Kurmanji [vank1234]':1)'Northern Kurmanji [nort3328]':1,('Akre [akre1239]':1,'Amadiye Kurdish [amad1240]':1,'Barwari Jor [barw1242]':1,'Gulli [gull1240]':1,'Hakkari [heka1238]':1,'Mhallami [mhal1238]':1,'Sheikhan-Dohuk [shei1239]':1,'Shemdinani [shem1238]':1,'Surchi [surc1239]':1,'Zakho Kurdish [zakh1242]':1)'Southeastern Kurmanji [sout3317]':1,('Ashiti [ashi1242]':1,'Boti [boti1239]':1)'Southern Kurmanji [sout3316]':1,(('Elbistan Kurmanji [mara1374]':1,'Sivas [siva1240]':1)'Northwest Kurmanji [nort3329]':1,('Aleppo Kurmanji [alep1242]':1,'Khorasani Kurmanji [khor1267]':1,'Urfa Kurmanji [urfa1239]':1)'Southwest Kurmanji [sout3318]':1)'Western Kurmanji [west2933]':1)'Northern Kurdish [nort2641][kmr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 28,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kji",
+        "label": "Kurmanji"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kurmanji",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nort2641",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36163",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "92919",
+        "long_grammar",
+        1991,
+        382,
+        "Bedir-Xan, Celadet Ali and Lescot, Roger 1991"
+      ],
+      [
+        "300497",
+        "long_grammar",
+        1970,
+        382,
+        "Bedir-Khan, Celadet Ali and Lescot, Roger 1970"
+      ],
+      [
+        "86281",
+        "long_grammar",
+        1957,
+        350,
+        "Kanat K. Kurdoev 1957"
+      ],
+      [
+        "318185",
+        "long_grammar",
+        1880,
+        304,
+        "Justi, Ferdinand 1880"
+      ],
+      [
+        "95463",
+        "grammar",
+        1787,
+        145,
+        "Maurizio Garzoni 1787"
+      ]
+    ]
+  },
+  "id": "nort2641",
+  "name": "Northern Kurdish",
+  "description": null,
+  "markup_description": null,
+  "latitude": 37,
+  "longitude": 43,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Iranian",
+      "id": "iran1269",
+      "url": "https://glottolog.org/resource/languoid/id/iran1269"
+    },
+    {
+      "name": "Central Iranian PBS",
+      "id": "cent2317",
+      "url": "https://glottolog.org/resource/languoid/id/cent2317"
+    },
+    {
+      "name": "Central Iranian PB",
+      "id": "cent2318",
+      "url": "https://glottolog.org/resource/languoid/id/cent2318"
+    },
+    {
+      "name": "Northwestern Iranian",
+      "id": "nort3177",
+      "url": "https://glottolog.org/resource/languoid/id/nort3177"
+    },
+    {
+      "name": "Laki-Kurdish",
+      "id": "laki1246",
+      "url": "https://glottolog.org/resource/languoid/id/laki1246"
+    },
+    {
+      "name": "Kurdish",
+      "id": "kurd1259",
+      "url": "https://glottolog.org/resource/languoid/id/kurd1259"
+    }
+  ],
+  "iso639-3": "kmr"
+}

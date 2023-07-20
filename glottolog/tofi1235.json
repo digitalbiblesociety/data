@@ -1,0 +1,94 @@
+{
+  "pk": 12865,
+  "hid": "tfi",
+  "father_pk": 9906,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ajra [ajra1238]':1,'Asento [asen1243]':1,'Seto {Gbe} [seto1242]':1,'Toli [toli1243]':1)'Tofin Gbe [tofi1235][tfi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3530330",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tofin_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/tofi1235",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "572414",
+        "wordlist_or_less",
+        1990,
+        9,
+        "Hazoume, Marc-Laurent 1990"
+      ],
+      [
+        "80686",
+        "wordlist_or_less",
+        1980,
+        1,
+        "Capo, Hounkpatin C. 1980"
+      ],
+      [
+        "304065",
+        "wordlist_or_less",
+        1953,
+        8,
+        "de Lavergne de Tressan, M. 1953"
+      ]
+    ]
+  },
+  "id": "tofi1235",
+  "name": "Tofin Gbe",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.51774,
+  "longitude": 2.43226,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Kwa Volta-Congo",
+      "id": "kwav1236",
+      "url": "https://glottolog.org/resource/languoid/id/kwav1236"
+    },
+    {
+      "name": "Gbe",
+      "id": "gbee1241",
+      "url": "https://glottolog.org/resource/languoid/id/gbee1241"
+    },
+    {
+      "name": "Eastern Gbe",
+      "id": "east2711",
+      "url": "https://glottolog.org/resource/languoid/id/east2711"
+    },
+    {
+      "name": "Eastern Phla-Phera",
+      "id": "east2845",
+      "url": "https://glottolog.org/resource/languoid/id/east2845"
+    }
+  ],
+  "iso639-3": "tfi"
+}

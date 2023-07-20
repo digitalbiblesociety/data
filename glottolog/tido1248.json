@@ -1,0 +1,90 @@
+{
+  "pk": 3532,
+  "hid": "tvo",
+  "father_pk": 1889,
+  "family_pk": 5,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tidore [tido1248][tvo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10935",
+        "label": "Tidore"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tidore_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tid",
+        "label": "Tidore"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3528199",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "54761",
+        "long_grammar",
+        2000,
+        584,
+        "Miriam van Staden 2000"
+      ],
+      [
+        "128886",
+        "grammar_sketch",
+        1982,
+        0,
+        "Lilipaly, {} 1982"
+      ],
+      [
+        "22553",
+        "wordlist_or_less",
+        1862,
+        27,
+        "van der Crab, Petrus 1862"
+      ],
+      [
+        "158330",
+        "wordlist_or_less",
+        1834,
+        2,
+        "William Marsden 1834"
+      ]
+    ]
+  },
+  "id": "tido1248",
+  "name": "Tidore",
+  "description": null,
+  "markup_description": null,
+  "latitude": 0.02461,
+  "longitude": 127.746,
+  "classification": [
+    {
+      "name": "North Halmahera",
+      "id": "nort2923",
+      "url": "https://glottolog.org/resource/languoid/id/nort2923"
+    },
+    {
+      "name": "Northern North Halmahera",
+      "id": "nort2924",
+      "url": "https://glottolog.org/resource/languoid/id/nort2924"
+    },
+    {
+      "name": "Ternatean",
+      "id": "tern1246",
+      "url": "https://glottolog.org/resource/languoid/id/tern1246"
+    }
+  ],
+  "iso639-3": "tvo"
+}

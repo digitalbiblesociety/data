@@ -1,0 +1,90 @@
+{
+  "pk": 4182,
+  "hid": "ems",
+  "father_pk": 2400,
+  "family_pk": 172,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Chugach [chug1254]':1,'Koniag [koni1262]':1)'Pacific Gulf Yupik [paci1278][ems]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/672",
+        "label": "Alutiiq"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q27992",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Alutiiq_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_atq",
+        "label": "Alutiiq"
+      }
+    ],
+    "meds": [
+      [
+        "136829",
+        "long_grammar",
+        1901,
+        409,
+        "Francis Barnum 1901"
+      ],
+      [
+        "168164",
+        "wordlist_or_less",
+        1863,
+        0,
+        "Verman, Fedor Karlovich 1863"
+      ],
+      [
+        "166167",
+        "wordlist_or_less",
+        1846,
+        0,
+        "Veniaminov, Ivan. and Terent'ev, Gergory (translator) and Geoghegan, Richard Henry. (translator) 1846"
+      ],
+      [
+        "167142",
+        "wordlist_or_less",
+        1839,
+        0,
+        "Wrangell, Ferdinand von. and Baer, Karl Ernst von 1839"
+      ]
+    ]
+  },
+  "id": "paci1278",
+  "name": "Pacific Gulf Yupik",
+  "description": null,
+  "markup_description": null,
+  "latitude": 60.4238,
+  "longitude": -148.043,
+  "classification": [
+    {
+      "name": "Eskimo-Aleut",
+      "id": "eski1264",
+      "url": "https://glottolog.org/resource/languoid/id/eski1264"
+    },
+    {
+      "name": "Eskimo",
+      "id": "eski1265",
+      "url": "https://glottolog.org/resource/languoid/id/eski1265"
+    },
+    {
+      "name": "Yupik",
+      "id": "yupi1267",
+      "url": "https://glottolog.org/resource/languoid/id/yupi1267"
+    }
+  ],
+  "iso639-3": "ems"
+}

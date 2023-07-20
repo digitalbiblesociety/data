@@ -1,0 +1,119 @@
+{
+  "pk": 7413,
+  "hid": "sgp",
+  "father_pk": 5044,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Dingga [ding1242]':1,'Duleng [dulo1242]':1)'Northeastern Jinghpaw [nort3289]':1,('Numphuk [nump1234]':1,'Turung {Jinghpaw} [turu1252]':1)'Northwestern Jinghpaw [nort3288]':1)'Northern Jinghpaw [sing1264][sgp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1067",
+        "label": "Singpho"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7524158",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Singpho_dialect",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "11804",
+        "long_grammar",
+        2010,
+        676,
+        "Stephen Morey 2010"
+      ],
+      [
+        "665583",
+        "grammar",
+        2005,
+        0,
+        "Morey, Stephen 2005"
+      ],
+      [
+        "311125",
+        "grammar_sketch",
+        1889,
+        138,
+        "Needham, Jack F. 1889"
+      ],
+      [
+        "156048",
+        "grammar_sketch",
+        1880,
+        22,
+        "J. N. Cushing 1880"
+      ],
+      [
+        "52757",
+        "wordlist_or_less",
+        1874,
+        9,
+        "Campbell, George 1874"
+      ],
+      [
+        "83951",
+        "wordlist_or_less",
+        1872,
+        5,
+        "Dalton, Edward Tuite 1872"
+      ],
+      [
+        "54846",
+        "wordlist_or_less",
+        1862,
+        1,
+        "Latham, Robert Gordon 1862"
+      ],
+      [
+        "115954",
+        "wordlist_or_less",
+        1837,
+        1,
+        "Brown, Nathan 1837"
+      ]
+    ]
+  },
+  "id": "sing1264",
+  "name": "Northern Jinghpaw",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.296,
+  "longitude": 95.606,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Brahmaputran",
+      "id": "brah1260",
+      "url": "https://glottolog.org/resource/languoid/id/brah1260"
+    },
+    {
+      "name": "Jingpho-Luish",
+      "id": "jing1259",
+      "url": "https://glottolog.org/resource/languoid/id/jing1259"
+    },
+    {
+      "name": "Jingpho",
+      "id": "jing1260",
+      "url": "https://glottolog.org/resource/languoid/id/jing1260"
+    }
+  ],
+  "iso639-3": "sgp"
+}

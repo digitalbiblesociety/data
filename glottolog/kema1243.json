@@ -1,0 +1,91 @@
+{
+  "pk": 6719,
+  "hid": "kem",
+  "father_pk": 4588,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Nogo [nogo1237]':1,'Nuclear Kemak [nucl1540]':1)'Kemak [kema1243][kem]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/381",
+        "label": "Kemak"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35549",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kemak_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "307670",
+        "grammar_sketch",
+        1999,
+        195,
+        "I Nengah Semeta Sadnyana and I Putu Sutama and Anak Agung Dewi Sunihati and Ida Ayu Putu Aridawati 1999"
+      ],
+      [
+        "323913",
+        "grammar_sketch",
+        1998,
+        136,
+        "Mandaru, A. Mans and Haan, John W. and Liufeto, Gomer 1998"
+      ],
+      [
+        "120629",
+        "phonology_or_text",
+        1987,
+        138,
+        "Schaefer, Ronald P. 1987"
+      ],
+      [
+        "100844",
+        "wordlist_or_less",
+        1967,
+        7,
+        "Alan M. Stevens 1967"
+      ]
+    ]
+  },
+  "id": "kema1243",
+  "name": "Kemak",
+  "description": null,
+  "markup_description": null,
+  "latitude": -9.00299,
+  "longitude": 125.159,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Central Timor",
+      "id": "west2945",
+      "url": "https://glottolog.org/resource/languoid/id/west2945"
+    },
+    {
+      "name": "Kemak-Tukudede",
+      "id": "west2547",
+      "url": "https://glottolog.org/resource/languoid/id/west2547"
+    }
+  ],
+  "iso639-3": "kem"
+}

@@ -1,0 +1,91 @@
+{
+  "pk": 13000,
+  "hid": "kid",
+  "father_pk": 9989,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Koshin [kosh1246][kid]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/8869",
+        "label": "Koshin"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35632",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Koshin_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kosh1246",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "575764",
+        "long_grammar",
+        2014,
+        462,
+        "Ousmanou, {} 2014"
+      ],
+      [
+        "25058",
+        "wordlist_or_less",
+        1974,
+        3,
+        "Chilver, Elizabeth M. and Kaberry, Phyllis M. 1974"
+      ]
+    ]
+  },
+  "id": "kosh1246",
+  "name": "Koshin",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.5817,
+  "longitude": 10.299,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Yemne-Kimbi",
+      "id": "yemn1234",
+      "url": "https://glottolog.org/resource/languoid/id/yemn1234"
+    }
+  ],
+  "iso639-3": "kid"
+}

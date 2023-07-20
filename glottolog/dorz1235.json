@@ -1,0 +1,94 @@
+{
+  "pk": 7440,
+  "hid": "doz",
+  "father_pk": 5080,
+  "family_pk": 342,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Dorze [dorz1235][doz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56336",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dorze_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "100012",
+        "phonology_or_text",
+        2001,
+        0,
+        "Adane, Feleke 2001"
+      ],
+      [
+        "26287",
+        "phonology_or_text",
+        1981,
+        0,
+        "Haile, Eyesus Engdashet 1981"
+      ],
+      [
+        "90018",
+        "wordlist_or_less",
+        1971,
+        3,
+        "Bender, Lionel M. 1971"
+      ],
+      [
+        "300668",
+        "wordlist_or_less",
+        1963,
+        67,
+        "Straube, Helmut 1963"
+      ],
+      [
+        "577628",
+        "wordlist_or_less",
+        1957,
+        12,
+        "Straube, H. 1957"
+      ]
+    ]
+  },
+  "id": "dorz1235",
+  "name": "Dorze",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.25237,
+  "longitude": 37.5554,
+  "classification": [
+    {
+      "name": "Ta-Ne-Omotic",
+      "id": "gong1255",
+      "url": "https://glottolog.org/resource/languoid/id/gong1255"
+    },
+    {
+      "name": "Ometo",
+      "id": "omet1238",
+      "url": "https://glottolog.org/resource/languoid/id/omet1238"
+    },
+    {
+      "name": "North-West Ometo",
+      "id": "nort3161",
+      "url": "https://glottolog.org/resource/languoid/id/nort3161"
+    },
+    {
+      "name": "Central Ometo",
+      "id": "cent2046",
+      "url": "https://glottolog.org/resource/languoid/id/cent2046"
+    }
+  ],
+  "iso639-3": "doz"
+}

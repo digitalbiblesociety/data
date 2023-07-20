@@ -1,0 +1,78 @@
+{
+  "pk": 8243,
+  "hid": "mse",
+  "father_pk": 5782,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bongor-Jodo-Tagal-Berem-Gunu [bong1299]':1,'Jaraw-Domo [jara1273]':1,'Lew [leww1238]':1,'Pe {Chadic} [peee1242]':1,'Pe-Holom-Gamé [peho1238]':1)'Musey [muse1242][mse]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56328",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Musey_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "118421",
+        "grammar_sketch",
+        1968,
+        96,
+        "Platiel, Suzanne 1968"
+      ],
+      [
+        "324987",
+        "wordlist_or_less",
+        1965,
+        23,
+        "Jéan Cabot 1965"
+      ]
+    ]
+  },
+  "id": "muse1242",
+  "name": "Musey",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.81612,
+  "longitude": 15.4115,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "Masa",
+      "id": "masa1323",
+      "url": "https://glottolog.org/resource/languoid/id/masa1323"
+    },
+    {
+      "name": "North Masa",
+      "id": "nort3157",
+      "url": "https://glottolog.org/resource/languoid/id/nort3157"
+    },
+    {
+      "name": "Marba-Musey-Ham",
+      "id": "marb1244",
+      "url": "https://glottolog.org/resource/languoid/id/marb1244"
+    }
+  ],
+  "iso639-3": "mse"
+}

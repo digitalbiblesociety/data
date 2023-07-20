@@ -1,0 +1,135 @@
+{
+  "pk": 16167,
+  "hid": "khg",
+  "father_pk": 13347,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Chamdo Tibetan [cham1333]':1,'Dagyab Tibetan [dagy1234]':1)'Central Khams [cent2347]':1,'Chaphreng Tibetan [chap1275]':1,('Amdo of Hor [amdo1238]':1,'Bachen of Hor [bach1244]':1,'Gertse [gert1234]':1,'Hor of Hor [horo1250]':1,'Nakchu of Hor [nakc1234]':1)'Hor [west2413]':1,'Nangchen Tibetan [nort2707]':1,('East Yunling Mountain [east2887]':1,'Lamdo [lamd1241]':1,'Melung [melu1236]':1,'dNgo [dngo1236]':1,'rGyalthang [rgya1244]':1)'Sems-kyi-nyila Tibetan [sout2714]':1,('Bathang {Batang} [bath1249]':1,'Dartsedo [dart1238]':1,'Derge {Dege} [derg1234]':1,'Kardze {Ganzi} [kard1234]':1,'Lithang {Litang} [lith1253]':1,'Mili Tibetan [mili1236]':1,'Nyarong {Xinlong} [nyar1249]':1)'Sichuan Khams [east2344]':1,('Bodgrong [bodg1236]':1,'West Yunling Mountain [west2988]':1,'gYagrwa [gyag1236]':1,'mBalhag [mbal1265]':1,'sPomtserag [spom1236]':1)'sDerong-nJol Tibetan [sder1236]':1)'Khams Tibetan [kham1282][khg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 31,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56601",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Khams_Tibetan",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kham1282",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_khd",
+        "label": "Kham (Dege)"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_knz",
+        "label": "Kham (Tibetan) (Nangchen)"
+      }
+    ],
+    "meds": [
+      [
+        "125301",
+        "long_grammar",
+        2007,
+        568,
+        "Bartee, Ellen Lynn 2007"
+      ],
+      [
+        "135987",
+        "grammar",
+        1999,
+        295,
+        "Katrin Häsler 1999"
+      ],
+      [
+        "141801",
+        "grammar",
+        1989,
+        207,
+        "Causemann, Margret 1989"
+      ],
+      [
+        "588846",
+        "wordlist_or_less",
+        1970,
+        355,
+        "Nishida, Tatsuo 1970"
+      ],
+      [
+        "551154",
+        "wordlist_or_less",
+        1963,
+        90,
+        "Nishida, Tatsuo 1963"
+      ],
+      [
+        "101493",
+        "wordlist_or_less",
+        1957,
+        17,
+        "André Migot 1957"
+      ],
+      [
+        "78648",
+        "wordlist_or_less",
+        1909,
+        4,
+        "George A. Grierson 1909"
+      ]
+    ]
+  },
+  "id": "kham1282",
+  "name": "Khams Tibetan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 31.9313,
+  "longitude": 91.7062,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "Bodish",
+      "id": "bodi1257",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1257"
+    },
+    {
+      "name": "Early Old Tibetan",
+      "id": "oldm1245",
+      "url": "https://glottolog.org/resource/languoid/id/oldm1245"
+    },
+    {
+      "name": "Middle Old Tibetan",
+      "id": "tibe1276",
+      "url": "https://glottolog.org/resource/languoid/id/tibe1276"
+    },
+    {
+      "name": "Late Old Tibetan",
+      "id": "late1253",
+      "url": "https://glottolog.org/resource/languoid/id/late1253"
+    },
+    {
+      "name": "Kham-Hor",
+      "id": "kham1299",
+      "url": "https://glottolog.org/resource/languoid/id/kham1299"
+    }
+  ],
+  "iso639-3": "khg"
+}

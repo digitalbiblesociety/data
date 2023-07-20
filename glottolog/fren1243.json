@@ -1,0 +1,79 @@
+{
+  "pk": 4330,
+  "hid": "fsl",
+  "father_pk": 2525,
+  "family_pk": 206,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Sign Language",
+  "newick": "('Marseille Sign Language [mars1235]':1)'French Sign Language [fren1243][fsl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q33302",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/French_Sign_Language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_lsf",
+        "label": "Langue des Signes Française"
+      }
+    ],
+    "meds": [
+      [
+        "575438",
+        "long_grammar",
+        1996,
+        472,
+        "Nève, François-Xavier 1996"
+      ],
+      [
+        "146673",
+        "grammar",
+        1983,
+        0,
+        "Moody, Bill and others 1983"
+      ],
+      [
+        "472758",
+        "grammar_sketch",
+        1854,
+        219,
+        "Rémi Valade, Y. L. 1854"
+      ]
+    ]
+  },
+  "id": "fren1243",
+  "name": "French Sign Language",
+  "description": null,
+  "markup_description": null,
+  "latitude": 47,
+  "longitude": 3,
+  "classification": [
+    {
+      "name": "Sign Language",
+      "id": "sign1238",
+      "url": "https://glottolog.org/resource/languoid/id/sign1238"
+    },
+    {
+      "name": "Deaf Sign Language",
+      "id": "deaf1237",
+      "url": "https://glottolog.org/resource/languoid/id/deaf1237"
+    },
+    {
+      "name": "LSFic",
+      "id": "lsfi1234",
+      "url": "https://glottolog.org/resource/languoid/id/lsfi1234"
+    }
+  ],
+  "iso639-3": "fsl"
+}

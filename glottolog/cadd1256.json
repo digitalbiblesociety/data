@@ -1,0 +1,84 @@
+{
+  "pk": 1145,
+  "hid": "cad",
+  "father_pk": 183,
+  "family_pk": 183,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Caddo [cadd1256][cad]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1678",
+        "label": "Caddo"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56756",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Caddo_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/cadd1256",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_cad",
+        "label": "Caddo"
+      }
+    ],
+    "meds": [
+      [
+        "655055",
+        "grammar_sketch",
+        2004,
+        242,
+        "Melnar, Lynette R. 2004"
+      ],
+      [
+        "28509",
+        "grammar_sketch",
+        1998,
+        242,
+        "Lynette R. Melnar 1998"
+      ],
+      [
+        "575872",
+        "grammar_sketch",
+        1941,
+        76,
+        "Parsons, Elsie C. 1941"
+      ],
+      [
+        "62380",
+        "wordlist_or_less",
+        1855,
+        4,
+        "R. B. Marcy 1855"
+      ]
+    ]
+  },
+  "id": "cadd1256",
+  "name": "Caddo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 33.33,
+  "longitude": -93.5,
+  "classification": [
+    {
+      "name": "Caddoan",
+      "id": "cadd1255",
+      "url": "https://glottolog.org/resource/languoid/id/cadd1255"
+    }
+  ],
+  "iso639-3": "cad"
+}

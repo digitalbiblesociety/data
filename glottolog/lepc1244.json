@@ -1,0 +1,89 @@
+{
+  "pk": 3173,
+  "hid": "lep",
+  "father_pk": 1650,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ilammu [ilam1238]':1,'Rengjongmu [reng1254]':1,'Tamsangmu [tams1238]':1)'Lepcha [lepc1244][lep]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4495",
+        "label": "Lepcha"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35990",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lepcha_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/lepc1244",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_lep",
+        "label": "Lepcha"
+      }
+    ],
+    "meds": [
+      [
+        "160021",
+        "long_grammar",
+        1966,
+        425,
+        "Sinhā, Prabhakar 1966"
+      ],
+      [
+        "114613",
+        "grammar",
+        1876,
+        173,
+        "G. B. Mainwaring 1876"
+      ],
+      [
+        "153209",
+        "wordlist_or_less",
+        1868,
+        12,
+        "Hunter, William Wilson 1868"
+      ],
+      [
+        "54846",
+        "wordlist_or_less",
+        1862,
+        1,
+        "Latham, Robert Gordon 1862"
+      ]
+    ]
+  },
+  "id": "lepc1244",
+  "name": "Lepcha",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.0869,
+  "longitude": 88.5726,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Himalayish",
+      "id": "hima1249",
+      "url": "https://glottolog.org/resource/languoid/id/hima1249"
+    }
+  ],
+  "iso639-3": "lep"
+}

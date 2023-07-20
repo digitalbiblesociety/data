@@ -1,0 +1,82 @@
+{
+  "pk": 10220,
+  "hid": "npo",
+  "father_pk": 7351,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Pochuri Naga [poch1243][npo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5663",
+        "label": "Pochuri Naga"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7206342",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Pochuri_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "319892",
+        "grammar_sketch",
+        1972,
+        28,
+        "Kumar, Braj Bihari 1972"
+      ],
+      [
+        "156671",
+        "phonology_or_text",
+        1937,
+        72,
+        "J. P. Mills 1937"
+      ]
+    ]
+  },
+  "id": "poch1243",
+  "name": "Pochuri Naga",
+  "description": null,
+  "markup_description": null,
+  "latitude": 25.4478,
+  "longitude": 94.1119,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Angami-Ao",
+      "id": "anga1312",
+      "url": "https://glottolog.org/resource/languoid/id/anga1312"
+    },
+    {
+      "name": "Angami-Pochuri",
+      "id": "anga1286",
+      "url": "https://glottolog.org/resource/languoid/id/anga1286"
+    },
+    {
+      "name": "Pochuri-Northern Rengma",
+      "id": "poch1242",
+      "url": "https://glottolog.org/resource/languoid/id/poch1242"
+    }
+  ],
+  "iso639-3": "npo"
+}

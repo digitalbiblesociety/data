@@ -1,0 +1,116 @@
+{
+  "pk": 7389,
+  "hid": "cdo",
+  "father_pk": 5037,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Funing [funi1234]':1,'Houguan [fuzh1239]':1)'Min Dong Chinese [mind1253][cdo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_fuz",
+        "label": "Fuzhou"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Eastern_Min",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/mind1253",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36455",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "74544",
+        "grammar",
+        2002,
+        289,
+        "Zhuging, Li 2002"
+      ],
+      [
+        "547992",
+        "grammar",
+        1998,
+        226,
+        "Chen, Zeping 1998"
+      ],
+      [
+        "319606",
+        "grammar_sketch",
+        1971,
+        169,
+        "Norman, Jerry L. 1971"
+      ],
+      [
+        "81387",
+        "grammar_sketch",
+        1965,
+        0,
+        "Chen, Leo and Jerry Norman 1965"
+      ],
+      [
+        "68097",
+        "grammar_sketch",
+        1960,
+        0,
+        "Hanyu, Fangyan Gaiyao 1960"
+      ],
+      [
+        "568607",
+        "phonology_or_text",
+        1929,
+        1901,
+        "Robert Samuel Maclay and C. C. Baldwin and Samuel Howard Leger 1929"
+      ],
+      [
+        "468446",
+        "phonology_or_text",
+        1870,
+        1144,
+        "R. S. Maclay and C. C. Baldwin 1870"
+      ]
+    ]
+  },
+  "id": "mind1253",
+  "name": "Min Dong Chinese",
+  "description": null,
+  "markup_description": null,
+  "latitude": 26,
+  "longitude": 119.5,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Sinitic",
+      "id": "sini1245",
+      "url": "https://glottolog.org/resource/languoid/id/sini1245"
+    },
+    {
+      "name": "Min",
+      "id": "minn1248",
+      "url": "https://glottolog.org/resource/languoid/id/minn1248"
+    },
+    {
+      "name": "Coastal Min",
+      "id": "coas1318",
+      "url": "https://glottolog.org/resource/languoid/id/coas1318"
+    }
+  ],
+  "iso639-3": "cdo"
+}

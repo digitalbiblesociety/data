@@ -1,0 +1,73 @@
+{
+  "pk": 6895,
+  "hid": "dun",
+  "father_pk": 4676,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Dusun Deyah [dusu1271][dun]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Deyah_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2784033",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "320763",
+        "grammar_sketch",
+        1983,
+        152,
+        "Djantera Kawi and Durdje Durasid and Aris Djinal 1983"
+      ],
+      [
+        "312062",
+        "wordlist_or_less",
+        1967,
+        15,
+        "Hudson, Alfred B. 1967"
+      ]
+    ]
+  },
+  "id": "dusu1271",
+  "name": "Dusun Deyah",
+  "description": null,
+  "markup_description": null,
+  "latitude": -1.95514,
+  "longitude": 115.578,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Basap-Greater Barito",
+      "id": "basa1291",
+      "url": "https://glottolog.org/resource/languoid/id/basa1291"
+    },
+    {
+      "name": "Greater Barito linkage",
+      "id": "grea1283",
+      "url": "https://glottolog.org/resource/languoid/id/grea1283"
+    }
+  ],
+  "iso639-3": "dun"
+}

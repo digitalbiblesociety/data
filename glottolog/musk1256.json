@@ -1,0 +1,78 @@
+{
+  "pk": 8300,
+  "hid": "mje",
+  "father_pk": 5806,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Muskum [musk1256][mje]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3913334",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Muskum_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "60752",
+        "wordlist_or_less",
+        1977,
+        22,
+        "Tourneux, Henry 1977"
+      ],
+      [
+        "102268",
+        "wordlist_or_less",
+        1937,
+        2,
+        "Lukas, Johannes 1937"
+      ]
+    ]
+  },
+  "id": "musk1256",
+  "name": "Muskum",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.5697,
+  "longitude": 15.4113,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "Biu-Mandara",
+      "id": "bium1280",
+      "url": "https://glottolog.org/resource/languoid/id/bium1280"
+    },
+    {
+      "name": "North Biu-Mandara",
+      "id": "nort3156",
+      "url": "https://glottolog.org/resource/languoid/id/nort3156"
+    },
+    {
+      "name": "Musguic",
+      "id": "bium1279",
+      "url": "https://glottolog.org/resource/languoid/id/bium1279"
+    }
+  ],
+  "iso639-3": "mje"
+}

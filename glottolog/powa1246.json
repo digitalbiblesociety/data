@@ -1,0 +1,91 @@
+{
+  "pk": 18722,
+  "hid": "pwr",
+  "father_pk": 16491,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bhoyar Powari [bhoy1242]':1,'Govari of Seoni [gova1250]':1,'Khalari [khal1272]':1,'Koshti [kosh1244]':1,'Kumbhari [kumb1266]':1,'Lodhi {Indo-European} [lodh1245]':1,'Marari [mara1376]':1,'Vyneganga Powari [vyne1238]':1)'Powari [powa1246][pwr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 8,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Powari_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12640277",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "119160",
+        "wordlist_or_less",
+        1904,
+        4,
+        "George A. Grierson 1904"
+      ]
+    ]
+  },
+  "id": "powa1246",
+  "name": "Powari",
+  "description": null,
+  "markup_description": null,
+  "latitude": 21.797,
+  "longitude": 79.239,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Indo-Aryan",
+      "id": "indo1321",
+      "url": "https://glottolog.org/resource/languoid/id/indo1321"
+    },
+    {
+      "name": "Middle-Modern Indo-Aryan",
+      "id": "midd1375",
+      "url": "https://glottolog.org/resource/languoid/id/midd1375"
+    },
+    {
+      "name": "Continental Indo-Aryan",
+      "id": "cont1248",
+      "url": "https://glottolog.org/resource/languoid/id/cont1248"
+    },
+    {
+      "name": "Midlands Indo-Aryan",
+      "id": "midl1245",
+      "url": "https://glottolog.org/resource/languoid/id/midl1245"
+    },
+    {
+      "name": "Shaurasenic",
+      "id": "shau1239",
+      "url": "https://glottolog.org/resource/languoid/id/shau1239"
+    },
+    {
+      "name": "Eastern Hindi",
+      "id": "east2726",
+      "url": "https://glottolog.org/resource/languoid/id/east2726"
+    }
+  ],
+  "iso639-3": "pwr"
+}

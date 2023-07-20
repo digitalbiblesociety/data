@@ -1,0 +1,101 @@
+{
+  "pk": 11508,
+  "hid": "nhm",
+  "father_pk": 8574,
+  "family_pk": 155,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Morelos Nahuatl [more1259][nhm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nmp",
+        "label": "Nahuatl (Milpa Alta)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Morelos_Nahuatl",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q4800819",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "325837",
+        "grammar_sketch",
+        2012,
+        130,
+        "Montero Baeza, Marcelino 2012"
+      ],
+      [
+        "318801",
+        "grammar_sketch",
+        1979,
+        112,
+        "Guzmán Betancourt, Ignacio 1979"
+      ],
+      [
+        "318824",
+        "grammar_sketch",
+        1974,
+        95,
+        "Guzmán Betancourt, Ignacio 1974"
+      ],
+      [
+        "137225",
+        "grammar_sketch",
+        1946,
+        31,
+        "Benjamin L. Whorf 1946"
+      ]
+    ]
+  },
+  "id": "more1259",
+  "name": "Morelos Nahuatl",
+  "description": null,
+  "markup_description": null,
+  "latitude": 18.9161,
+  "longitude": -99.1322,
+  "classification": [
+    {
+      "name": "Uto-Aztecan",
+      "id": "utoa1244",
+      "url": "https://glottolog.org/resource/languoid/id/utoa1244"
+    },
+    {
+      "name": "Southern Uto-Aztecan",
+      "id": "sout3136",
+      "url": "https://glottolog.org/resource/languoid/id/sout3136"
+    },
+    {
+      "name": "Corachol-Aztecan",
+      "id": "cora1261",
+      "url": "https://glottolog.org/resource/languoid/id/cora1261"
+    },
+    {
+      "name": "Aztec",
+      "id": "azte1234",
+      "url": "https://glottolog.org/resource/languoid/id/azte1234"
+    },
+    {
+      "name": "Western Nahuatl",
+      "id": "west2809",
+      "url": "https://glottolog.org/resource/languoid/id/west2809"
+    },
+    {
+      "name": "Central Nahuatl",
+      "id": "cent2258",
+      "url": "https://glottolog.org/resource/languoid/id/cent2258"
+    }
+  ],
+  "iso639-3": "nhm"
+}

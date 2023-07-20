@@ -1,0 +1,81 @@
+{
+  "pk": 6162,
+  "hid": "lut",
+  "father_pk": 4147,
+  "family_pk": 166,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Skagit [skag1239][ska]':1,'Snohomish [snoh1241][sno]':1)'Northern Lushootseed [lush1252][lut]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_lus",
+        "label": "Lushootseed"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lushootseed",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/lush1252",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33658",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "300898",
+        "long_grammar",
+        1980,
+        420,
+        "Hess, Thom and Hilbert, Vi 1980"
+      ],
+      [
+        "326061",
+        "grammar_sketch",
+        1880,
+        139,
+        "Eugene Casimir Chirouse 1880"
+      ]
+    ]
+  },
+  "id": "lush1252",
+  "name": "Northern Lushootseed",
+  "description": null,
+  "markup_description": null,
+  "latitude": 48.42,
+  "longitude": -122.529,
+  "classification": [
+    {
+      "name": "Salishan",
+      "id": "sali1255",
+      "url": "https://glottolog.org/resource/languoid/id/sali1255"
+    },
+    {
+      "name": "Coast Salish",
+      "id": "coas1325",
+      "url": "https://glottolog.org/resource/languoid/id/coas1325"
+    },
+    {
+      "name": "Central Salish",
+      "id": "cent2129",
+      "url": "https://glottolog.org/resource/languoid/id/cent2129"
+    },
+    {
+      "name": "Lushootseed-Puget",
+      "id": "lush1251",
+      "url": "https://glottolog.org/resource/languoid/id/lush1251"
+    }
+  ],
+  "iso639-3": "lut"
+}

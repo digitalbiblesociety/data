@@ -1,0 +1,88 @@
+{
+  "pk": 14020,
+  "hid": "goh",
+  "father_pk": 10929,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Old High German {ca. 750-1050} [oldh1241][goh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Old_High_German",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35218",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "151677",
+        "grammar",
+        1906,
+        170,
+        "J. Wright 1906"
+      ],
+      [
+        "468893",
+        "wordlist_or_less",
+        1895,
+        354,
+        "Bruckner, Wilhelm 1895"
+      ]
+    ]
+  },
+  "id": "oldh1241",
+  "name": "Old High German (ca. 750-1050)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 52,
+  "longitude": 10,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Germanic",
+      "id": "germ1287",
+      "url": "https://glottolog.org/resource/languoid/id/germ1287"
+    },
+    {
+      "name": "Northwest Germanic",
+      "id": "nort3152",
+      "url": "https://glottolog.org/resource/languoid/id/nort3152"
+    },
+    {
+      "name": "West Germanic",
+      "id": "west2793",
+      "url": "https://glottolog.org/resource/languoid/id/west2793"
+    },
+    {
+      "name": "High German",
+      "id": "high1289",
+      "url": "https://glottolog.org/resource/languoid/id/high1289"
+    },
+    {
+      "name": "Upper German",
+      "id": "high1286",
+      "url": "https://glottolog.org/resource/languoid/id/high1286"
+    }
+  ],
+  "iso639-3": "goh"
+}

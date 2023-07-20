@@ -1,0 +1,87 @@
+{
+  "pk": 10870,
+  "hid": "ydg",
+  "father_pk": 7987,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Yidgha [yidg1240][ydg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3210",
+        "label": "Yidgha"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q34179",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yidgha_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "326484",
+        "grammar_sketch",
+        1938,
+        76,
+        "Morgenstierne, Georg 1938"
+      ],
+      [
+        "318199",
+        "phonology_or_text",
+        1880,
+        10,
+        "John Biddulph 1880"
+      ]
+    ]
+  },
+  "id": "yidg1240",
+  "name": "Yidgha",
+  "description": null,
+  "markup_description": null,
+  "latitude": 36.014,
+  "longitude": 71.5077,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Iranian",
+      "id": "iran1269",
+      "url": "https://glottolog.org/resource/languoid/id/iran1269"
+    },
+    {
+      "name": "Central Eastern Iranian",
+      "id": "cent2399",
+      "url": "https://glottolog.org/resource/languoid/id/cent2399"
+    },
+    {
+      "name": "Yidgha-Munji",
+      "id": "yidg1239",
+      "url": "https://glottolog.org/resource/languoid/id/yidg1239"
+    }
+  ],
+  "iso639-3": "ydg"
+}

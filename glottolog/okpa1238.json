@@ -1,0 +1,95 @@
+{
+  "pk": 15855,
+  "hid": "opa",
+  "father_pk": 13031,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Emhalhe [emha1238]':1,('Dagbala [dagb1247]':1,'Makeke [make1248]':1,'Oja [ojaa1238]':1,'Ojirami [ojir1238]':1,'Oma [omaa1238]':1)'Okulosho [okul1238]':1,('Aiyegunle [aiye1241]':1,'Bekuma [beku1238]':1,'Ebunn-Oke [ebun1242]':1,'Ebunn-Ugbo [ebun1241]':1,'Eko [ekoo1238]':1,'Ekpe [ekpe1252]':1,'Igbo-Ola-Oke [igbo1257]':1,'Igbo-Ola-Sale [igbo1256]':1,'Ikaran-Ele [ikar1241]':1,'Ikaran-Oke [ikar1242]':1,'Ikpesa [ikpe1244]':1,'Imoga [imog1238]':1,'Lankpese [lank1242]':1,'Ogbe-Oke [ogbe1246]':1,'Ogbe-Sale [ogbe1245]':1,'Ogugu {Western Okpamheri} [ogug1242]':1,'Onumo [onum1238]':1)'Western Okpamheri [west2472]':1)'Okpamheri [okpa1238][opa]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 25,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3913331",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Okpamheri_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "547092",
+        "phonology_or_text",
+        1984,
+        0,
+        "Ashofor, Raphael O. 1984"
+      ],
+      [
+        "120815",
+        "phonology_or_text",
+        1973,
+        20,
+        "Elugbe, Benny Ohiomamhe 1973"
+      ],
+      [
+        "310528",
+        "wordlist_or_less",
+        1910,
+        12,
+        "Thomas, Northcote W. 1910"
+      ]
+    ]
+  },
+  "id": "okpa1238",
+  "name": "Okpamheri",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.33708,
+  "longitude": 5.97843,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Akpes-Edoid",
+      "id": "akpe1249",
+      "url": "https://glottolog.org/resource/languoid/id/akpe1249"
+    },
+    {
+      "name": "Edoid",
+      "id": "edoi1239",
+      "url": "https://glottolog.org/resource/languoid/id/edoi1239"
+    },
+    {
+      "name": "Northwestern Edoid",
+      "id": "nort3183",
+      "url": "https://glottolog.org/resource/languoid/id/nort3183"
+    },
+    {
+      "name": "Southern Northwestern Edoid",
+      "id": "sout3171",
+      "url": "https://glottolog.org/resource/languoid/id/sout3171"
+    }
+  ],
+  "iso639-3": "opa"
+}

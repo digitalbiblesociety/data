@@ -1,0 +1,61 @@
+{
+  "pk": 3735,
+  "hid": "hwa",
+  "father_pk": 2058,
+  "family_pk": 83,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Wané [wane1242][hwa]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3914887",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Wan%C3%A9_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "8689",
+        "wordlist_or_less",
+        1904,
+        5,
+        "Delafosse, Maurice 1904"
+      ]
+    ]
+  },
+  "id": "wane1242",
+  "name": "Wané",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.85171,
+  "longitude": -6.44406,
+  "classification": [
+    {
+      "name": "Kru",
+      "id": "krua1234",
+      "url": "https://glottolog.org/resource/languoid/id/krua1234"
+    },
+    {
+      "name": "Eastern Kru",
+      "id": "east2415",
+      "url": "https://glottolog.org/resource/languoid/id/east2415"
+    },
+    {
+      "name": "Bakwe-Wane",
+      "id": "bakw1242",
+      "url": "https://glottolog.org/resource/languoid/id/bakw1242"
+    }
+  ],
+  "iso639-3": "hwa"
+}

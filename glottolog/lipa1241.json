@@ -1,0 +1,87 @@
+{
+  "pk": 11697,
+  "hid": "apl",
+  "father_pk": 8891,
+  "family_pk": 238,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Lipan Apache [lipa1241][apl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/654",
+        "label": "Lipan"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q28269",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lipan_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "113743",
+        "phonology_or_text",
+        1920,
+        369,
+        "Goddard, Pliny Earle 1920"
+      ],
+      [
+        "124058",
+        "wordlist_or_less",
+        1828,
+        0,
+        "Berlandier, Jean Louis and Rafael Chowell 1828-1829"
+      ]
+    ]
+  },
+  "id": "lipa1241",
+  "name": "Lipan Apache",
+  "description": null,
+  "markup_description": null,
+  "latitude": 33.2748,
+  "longitude": -105.819,
+  "classification": [
+    {
+      "name": "Athabaskan-Eyak-Tlingit",
+      "id": "atha1245",
+      "url": "https://glottolog.org/resource/languoid/id/atha1245"
+    },
+    {
+      "name": "Athabaskan-Eyak",
+      "id": "atha1246",
+      "url": "https://glottolog.org/resource/languoid/id/atha1246"
+    },
+    {
+      "name": "Athabaskan",
+      "id": "atha1247",
+      "url": "https://glottolog.org/resource/languoid/id/atha1247"
+    },
+    {
+      "name": "Apachean",
+      "id": "apac1239",
+      "url": "https://glottolog.org/resource/languoid/id/apac1239"
+    },
+    {
+      "name": "Southwestern Apachean",
+      "id": "sout3151",
+      "url": "https://glottolog.org/resource/languoid/id/sout3151"
+    },
+    {
+      "name": "Eastern Southwestern Apachean",
+      "id": "east2723",
+      "url": "https://glottolog.org/resource/languoid/id/east2723"
+    }
+  ],
+  "iso639-3": "apl"
+}

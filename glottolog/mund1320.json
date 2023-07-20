@@ -1,0 +1,137 @@
+{
+  "pk": 13690,
+  "hid": "unr",
+  "father_pk": 10612,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bhumij [bhum1234]':1,'Hasada'' [hasa1250]':1,'Kera'' Mundari [kera1257]':1,'Naguri [nagu1245]':1,'Tamuria [tamu1248]':1)'Mundari [mund1320][unr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3327828",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mundari_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/mund1320",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bhu",
+        "label": "Bhumij"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mun",
+        "label": "Mundari"
+      }
+    ],
+    "meds": [
+      [
+        "131756",
+        "long_grammar",
+        2001,
+        387,
+        "Hoffmann, Johann 2001"
+      ],
+      [
+        "152623",
+        "long_grammar",
+        1965,
+        321,
+        "Cook, Walter Anthony 1965"
+      ],
+      [
+        "32011",
+        "long_grammar",
+        1964,
+        321,
+        "Cook, Walter Anthony 1964"
+      ],
+      [
+        "155524",
+        "grammar",
+        1903,
+        236,
+        "John Hoffmann 1903"
+      ],
+      [
+        "160988",
+        "grammar_sketch",
+        1882,
+        104,
+        "Nottrott, Carl Gustav Rudolph Eduard Alfred 1882"
+      ],
+      [
+        "38693",
+        "grammar_sketch",
+        1873,
+        40,
+        "T. Jellinghaus 1873"
+      ],
+      [
+        "153209",
+        "wordlist_or_less",
+        1868,
+        12,
+        "Hunter, William Wilson 1868"
+      ],
+      [
+        "44162",
+        "wordlist_or_less",
+        1849,
+        2,
+        "Brian H. Hodgson 1849"
+      ]
+    ]
+  },
+  "id": "mund1320",
+  "name": "Mundari",
+  "description": null,
+  "markup_description": null,
+  "latitude": 23.03,
+  "longitude": 85.85,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Mundaic",
+      "id": "mund1335",
+      "url": "https://glottolog.org/resource/languoid/id/mund1335"
+    },
+    {
+      "name": "North Munda",
+      "id": "nort3151",
+      "url": "https://glottolog.org/resource/languoid/id/nort3151"
+    },
+    {
+      "name": "Kherwarian",
+      "id": "kher1245",
+      "url": "https://glottolog.org/resource/languoid/id/kher1245"
+    },
+    {
+      "name": "Mundaric",
+      "id": "mund1336",
+      "url": "https://glottolog.org/resource/languoid/id/mund1336"
+    },
+    {
+      "name": "Ho-Mundari",
+      "id": "homu1234",
+      "url": "https://glottolog.org/resource/languoid/id/homu1234"
+    }
+  ],
+  "iso639-3": "unr"
+}

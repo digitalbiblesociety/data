@@ -1,0 +1,84 @@
+{
+  "pk": 5870,
+  "hid": "aci",
+  "father_pk": 3908,
+  "family_pk": 134,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Akacari [akac1240][aci]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q2670418",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Aka-Cari_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_akc",
+        "label": "Aka-Cari"
+      }
+    ],
+    "meds": [
+      [
+        "128381",
+        "grammar_sketch",
+        2006,
+        5,
+        "Anvita Abbi 2006"
+      ],
+      [
+        "151283",
+        "wordlist_or_less",
+        1887,
+        30,
+        "Maurice V. Portman 1887"
+      ],
+      [
+        "550566",
+        "wordlist_or_less",
+        1885,
+        42,
+        "Edward H. Man 1885"
+      ]
+    ]
+  },
+  "id": "akac1240",
+  "name": "Akacari",
+  "description": null,
+  "markup_description": null,
+  "latitude": 13.49086,
+  "longitude": 92.94855,
+  "classification": [
+    {
+      "name": "Great Andamanese",
+      "id": "grea1241",
+      "url": "https://glottolog.org/resource/languoid/id/grea1241"
+    },
+    {
+      "name": "North Andamanese-Akakede",
+      "id": "nort3276",
+      "url": "https://glottolog.org/resource/languoid/id/nort3276"
+    },
+    {
+      "name": "Northern Great Andamanese",
+      "id": "nort2678",
+      "url": "https://glottolog.org/resource/languoid/id/nort2678"
+    },
+    {
+      "name": "Bo-Cari",
+      "id": "boca1235",
+      "url": "https://glottolog.org/resource/languoid/id/boca1235"
+    }
+  ],
+  "iso639-3": "aci"
+}

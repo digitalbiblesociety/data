@@ -1,0 +1,99 @@
+{
+  "pk": 15014,
+  "hid": "wlo",
+  "father_pk": 12124,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Wolio [woli1241][wlo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q1185114",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Wolio_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_wlo",
+        "label": "Wolio"
+      }
+    ],
+    "meds": [
+      [
+        "33244",
+        "grammar_sketch",
+        1983,
+        75,
+        "Abas, Husen and A. Kadir Manyambeang and Ibnu Nandar and Shaidy, {} 1983"
+      ],
+      [
+        "102411",
+        "grammar_sketch",
+        1952,
+        66,
+        "Johannes Cornelis Anceaux 1952"
+      ],
+      [
+        "26365",
+        "wordlist_or_less",
+        1869,
+        5,
+        "Wallace, Alfred R. 1869"
+      ]
+    ]
+  },
+  "id": "woli1241",
+  "name": "Wolio",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.33,
+  "longitude": 122.67,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Celebic",
+      "id": "cele1242",
+      "url": "https://glottolog.org/resource/languoid/id/cele1242"
+    },
+    {
+      "name": "Kaili-Wolio",
+      "id": "kail1255",
+      "url": "https://glottolog.org/resource/languoid/id/kail1255"
+    },
+    {
+      "name": "Southern Kaili-Wolio",
+      "id": "wotu1239",
+      "url": "https://glottolog.org/resource/languoid/id/wotu1239"
+    },
+    {
+      "name": "Island Kaili-Wolio",
+      "id": "isla1281",
+      "url": "https://glottolog.org/resource/languoid/id/isla1281"
+    },
+    {
+      "name": "Wolio-Kamaru",
+      "id": "woli1240",
+      "url": "https://glottolog.org/resource/languoid/id/woli1240"
+    }
+  ],
+  "iso639-3": "wlo"
+}

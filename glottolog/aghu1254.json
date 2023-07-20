@@ -1,0 +1,87 @@
+{
+  "pk": 5990,
+  "hid": "ggr",
+  "father_pk": 4014,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Aghu Tharnggalu [aghu1254][ggr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "ggr",
+      "name": "Aghu Tharnggalu",
+      "change_request": "2012-138",
+      "effective": "2013-01-23",
+      "reason": "split",
+      "change_to": [
+        "gtu",
+        "ggm",
+        "ikr"
+      ],
+      "remedy": "Split into Aghu-Tharnggala [gtu], Gugu-Mini [ggm], and Ikarranggal [ikr]",
+      "comment": "Ethnologue currently lists \"Ikarranggali\" and \"Kuku-Mini\" as alternate names of\nAghu Tharnggalu [ISO 639-3: ggr]. Australian language scholarship, however,\npoints to the need to identify these as distinct languages.\n\nAUSTLANG classifies Aghu-Tharnggala and Ikarranggal as distinct languages in the\nRarmul Pama subgroup. Oates also recognizes these as two separate languages\n(1975: 287, 292).\n\nAUSTLANG tentatively lists Gugu Mini, noting it is unclear if Gugu Mini refers\nto a specific language or is used as a broader cover term. Sommer says that Kuku\nMini [AIATSIS Code Y94] literally means ‘speech good’ and is generally applied\nto languages and dialects of the Central Paman type (2008 p.c.). Gugu Mini and\nAghu-Tharnggala are considered separate entities in Wurm (1972, 1994), Oates\n(1975), and Walsh (1981).\n\nDr. Claire Bowern identifies distinct locations for Aghu-Tharnggala and Gugu\nMini in her map \"Centroid Coordinates for Australian languages\" (2011)."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/y65",
+        "label": "Aghu Tharnggala"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Aghu_Tharrnggala_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/aghu1254",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q16825981",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "73578",
+        "grammar_sketch",
+        1989,
+        189,
+        "Jolly, Lesley 1989"
+      ]
+    ]
+  },
+  "id": "aghu1254",
+  "name": "Aghu Tharnggalu",
+  "description": null,
+  "markup_description": null,
+  "latitude": -13.735,
+  "longitude": 142.426,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Paman",
+      "id": "pama1251",
+      "url": "https://glottolog.org/resource/languoid/id/pama1251"
+    },
+    {
+      "name": "Alaya-Athima",
+      "id": "alay1234",
+      "url": "https://glottolog.org/resource/languoid/id/alay1234"
+    },
+    {
+      "name": "Thaypanic",
+      "id": "thay1250",
+      "url": "https://glottolog.org/resource/languoid/id/thay1250"
+    }
+  ],
+  "iso639-3": "ggr"
+}

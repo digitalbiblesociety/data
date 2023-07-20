@@ -1,0 +1,83 @@
+{
+  "pk": 12058,
+  "hid": "dro",
+  "father_pk": 9205,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Daro Melanau [daro1240]':1,'Matu Melanau [matu1262]':1)'Daro-Matu Melanau [daro1239][dro]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q5224156",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Daro-Matu_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "24033",
+        "wordlist_or_less",
+        1947,
+        35,
+        "R. G. Aikman 1947"
+      ],
+      [
+        "307580",
+        "wordlist_or_less",
+        1896,
+        16,
+        "Roth, Henry Ling 1896"
+      ]
+    ]
+  },
+  "id": "daro1239",
+  "name": "Daro-Matu Melanau",
+  "description": null,
+  "markup_description": null,
+  "latitude": 2.54435,
+  "longitude": 111.536,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "North Borneo Malayo-Polynesian",
+      "id": "nort3253",
+      "url": "https://glottolog.org/resource/languoid/id/nort3253"
+    },
+    {
+      "name": "Central Sarawak",
+      "id": "sara1342",
+      "url": "https://glottolog.org/resource/languoid/id/sara1342"
+    },
+    {
+      "name": "Melanau-Kajang",
+      "id": "mela1262",
+      "url": "https://glottolog.org/resource/languoid/id/mela1262"
+    },
+    {
+      "name": "Melanau",
+      "id": "mela1255",
+      "url": "https://glottolog.org/resource/languoid/id/mela1255"
+    }
+  ],
+  "iso639-3": "dro"
+}

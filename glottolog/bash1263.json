@@ -1,0 +1,92 @@
+{
+  "pk": 13936,
+  "hid": "bsg",
+  "father_pk": 10866,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(((('Jirofti [jiro1234]':1,'Kahnuji [kahn1234]':1,'Rudbāri {Halilrud} [rudb1239]':1)'Halilrudi [hali1246]':1,('Bandar Abbas [band1359]':1,'Manujani [manu1265]':1,'Minabi [mina1282]':1,'Rudani [ruda1234]':1)'Minabic [mina1281]':1)'Garmsiri [garm1243]':1,'North Bashkardi [nort3346]':1)'Northern Bashaka [nort2644]':1,('Garahven [gara1270]':1,'Gwafr [gwaf1234]':1,'Parmont [parm1234]':1,'Pirou [piro1250]':1,'Shahbavek [shah1264]':1)'Southern Bashaka [sout2644]':1)'Bashkardi [bash1263][bsg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 18,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3978",
+        "label": "Bashkardi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33030",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bashkardi_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "579798",
+        "grammar_sketch",
+        1998,
+        467,
+        "Dehqani, Eslam Niknafs 1377 [1998]"
+      ],
+      [
+        "84111",
+        "wordlist_or_less",
+        1882,
+        262,
+        "Ernest Ayscoghe Floyer 1882"
+      ]
+    ]
+  },
+  "id": "bash1263",
+  "name": "Bashkardi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 32,
+  "longitude": 53,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Iranian",
+      "id": "iran1269",
+      "url": "https://glottolog.org/resource/languoid/id/iran1269"
+    },
+    {
+      "name": "Southwestern Iranian",
+      "id": "sout3157",
+      "url": "https://glottolog.org/resource/languoid/id/sout3157"
+    },
+    {
+      "name": "Middle-Modern Persian",
+      "id": "midd1352",
+      "url": "https://glottolog.org/resource/languoid/id/midd1352"
+    },
+    {
+      "name": "Modern Southwestern Iranian",
+      "id": "mode1259",
+      "url": "https://glottolog.org/resource/languoid/id/mode1259"
+    }
+  ],
+  "iso639-3": "bsg"
+}

@@ -1,0 +1,86 @@
+{
+  "pk": 12141,
+  "hid": "stb",
+  "father_pk": 9247,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dapitan [dapi1237]':1,'Dikayu [dika1237]':1,'Salog [salo1238]':1)'Northern Subanen [nort2885][stb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12953892",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "302234",
+        "long_grammar",
+        2013,
+        684,
+        "Josephine Sanicas-Daguman 2013"
+      ],
+      [
+        "21750",
+        "long_grammar",
+        2004,
+        660,
+        "Josephine Daguman 2004"
+      ],
+      [
+        "98423",
+        "grammar",
+        1997,
+        277,
+        "Galorport, Ryan C. and Galorport, Diolia D. 1997"
+      ]
+    ]
+  },
+  "id": "nort2885",
+  "name": "Northern Subanen",
+  "description": null,
+  "markup_description": null,
+  "latitude": 8.5232,
+  "longitude": 123.588,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Greater Central Philippine",
+      "id": "grea1284",
+      "url": "https://glottolog.org/resource/languoid/id/grea1284"
+    },
+    {
+      "name": "Subanen",
+      "id": "suba1253",
+      "url": "https://glottolog.org/resource/languoid/id/suba1253"
+    },
+    {
+      "name": "Nuclear Subanen",
+      "id": "nucl1726",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1726"
+    },
+    {
+      "name": "East Nuclear Subanen",
+      "id": "east2769",
+      "url": "https://glottolog.org/resource/languoid/id/east2769"
+    }
+  ],
+  "iso639-3": "stb"
+}

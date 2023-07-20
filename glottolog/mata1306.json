@@ -1,0 +1,102 @@
+{
+  "pk": 14350,
+  "hid": "mfh",
+  "father_pk": 11269,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Matal [mata1306][mfh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Matal_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3501751",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "578273",
+        "phonology_or_text",
+        2018,
+        54,
+        "Verdizade, Allahverdi 2018"
+      ],
+      [
+        "32077",
+        "phonology_or_text",
+        1978,
+        23,
+        "Rossing, Mervin Olaf 1978"
+      ],
+      [
+        "324662",
+        "wordlist_or_less",
+        1971,
+        271,
+        "Bernard Juillerat 1971"
+      ],
+      [
+        "18230",
+        "wordlist_or_less",
+        1968,
+        24,
+        "Juillerat, Bernard 1968"
+      ]
+    ]
+  },
+  "id": "mata1306",
+  "name": "Matal",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.9284,
+  "longitude": 14.0474,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "Biu-Mandara",
+      "id": "bium1280",
+      "url": "https://glottolog.org/resource/languoid/id/bium1280"
+    },
+    {
+      "name": "North Biu-Mandara",
+      "id": "nort3156",
+      "url": "https://glottolog.org/resource/languoid/id/nort3156"
+    },
+    {
+      "name": "Margi-Mandara-Mofu",
+      "id": "marg1267",
+      "url": "https://glottolog.org/resource/languoid/id/marg1267"
+    },
+    {
+      "name": "Mandaraic",
+      "id": "mand1472",
+      "url": "https://glottolog.org/resource/languoid/id/mand1472"
+    },
+    {
+      "name": "Podoko",
+      "id": "podo1243",
+      "url": "https://glottolog.org/resource/languoid/id/podo1243"
+    }
+  ],
+  "iso639-3": "mfh"
+}

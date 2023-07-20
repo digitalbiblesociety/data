@@ -1,0 +1,58 @@
+{
+  "pk": 666,
+  "hid": "cru",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Carútana [caru1240][cru]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "cru",
+      "name": "Carútana",
+      "change_request": "2007-006",
+      "effective": "2008-01-14",
+      "reason": "merge",
+      "change_to": [
+        "bwi"
+      ],
+      "remedy": "Merge into Baniwa [bwi]",
+      "comment": "Recent research indicates that Carútana is a dialect of Baniwa, not a separate\nlanguage."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12628715",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500186",
+        "wordlist_or_less",
+        2007,
+        0,
+        "ISO 639-3 Registration Authority 2007"
+      ]
+    ]
+  },
+  "id": "caru1240",
+  "name": "Carútana",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "cru"
+}

@@ -1,0 +1,98 @@
+{
+  "pk": 19505,
+  "hid": "rak",
+  "father_pk": 17512,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bohuai [bohu1238]':1,'Keli [keli1250]':1,'Tulu {Papua New Guinea} [tulu1260]':1)'Tulu-Bohuai [tulu1259][rak]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q2908807",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tulu-Bohuai_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "36109",
+        "wordlist_or_less",
+        1975,
+        3,
+        "Z'graggen, Johannes A. 1975"
+      ],
+      [
+        "11123",
+        "wordlist_or_less",
+        1890,
+        1,
+        "Otto Schellong 1890"
+      ]
+    ]
+  },
+  "id": "tulu1259",
+  "name": "Tulu-Bohuai",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.14155,
+  "longitude": 146.934,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Admiralty Islands",
+      "id": "admi1239",
+      "url": "https://glottolog.org/resource/languoid/id/admi1239"
+    },
+    {
+      "name": "Eastern Admiralty Islands",
+      "id": "east2459",
+      "url": "https://glottolog.org/resource/languoid/id/east2459"
+    },
+    {
+      "name": "Manus",
+      "id": "manu1262",
+      "url": "https://glottolog.org/resource/languoid/id/manu1262"
+    },
+    {
+      "name": "West Manus",
+      "id": "west2533",
+      "url": "https://glottolog.org/resource/languoid/id/west2533"
+    },
+    {
+      "name": "West Manus II",
+      "id": "west2849",
+      "url": "https://glottolog.org/resource/languoid/id/west2849"
+    }
+  ],
+  "iso639-3": "rak"
+}

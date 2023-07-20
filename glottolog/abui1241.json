@@ -1,0 +1,93 @@
+{
+  "pk": 8342,
+  "hid": "abz",
+  "father_pk": 5845,
+  "family_pk": 125,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Alakaman [alak1254]':1,'Atimelang [atim1239]':1,'Kobola [kobo1247]':1,'Papuna [papu1257]':1)'Abui [abui1241][abz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1381",
+        "label": "Abui"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2822110",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Abui_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_abv",
+        "label": "Abui"
+      }
+    ],
+    "meds": [
+      [
+        "91131",
+        "long_grammar",
+        2007,
+        560,
+        "František Kratochvíl 2007"
+      ],
+      [
+        "145639",
+        "grammar_sketch",
+        1984,
+        57,
+        "W. Stokhof 1984"
+      ],
+      [
+        "307826",
+        "phonology_or_text",
+        1940,
+        93,
+        "Nicolspeyer, Martha Margaretha 1940"
+      ]
+    ]
+  },
+  "id": "abui1241",
+  "name": "Abui",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.31058,
+  "longitude": 124.588,
+  "classification": [
+    {
+      "name": "Timor-Alor-Pantar",
+      "id": "timo1261",
+      "url": "https://glottolog.org/resource/languoid/id/timo1261"
+    },
+    {
+      "name": "Alor-Pantar",
+      "id": "alor1249",
+      "url": "https://glottolog.org/resource/languoid/id/alor1249"
+    },
+    {
+      "name": "Nuclear Alor-Pantar",
+      "id": "nucl1821",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1821"
+    },
+    {
+      "name": "Central Alor",
+      "id": "alor1250",
+      "url": "https://glottolog.org/resource/languoid/id/alor1250"
+    },
+    {
+      "name": "Abuic",
+      "id": "abui1242",
+      "url": "https://glottolog.org/resource/languoid/id/abui1242"
+    }
+  ],
+  "iso639-3": "abz"
+}

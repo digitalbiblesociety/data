@@ -1,0 +1,91 @@
+{
+  "pk": 6952,
+  "hid": "kcd",
+  "father_pk": 4757,
+  "family_pk": 299,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ngkontar Ngkolmpu [ngka1235][kcd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4350",
+        "label": "Ngkâlmpw Kanum"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12952566",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_knp",
+        "label": "Kanum (Ngkâlmpw)"
+      }
+    ],
+    "meds": [
+      [
+        "547882",
+        "long_grammar",
+        2017,
+        428,
+        "Matthew Carroll 2017"
+      ],
+      [
+        "81498",
+        "grammar_sketch",
+        1954,
+        19,
+        "Drabbe, Peter 1954"
+      ],
+      [
+        "141795",
+        "grammar_sketch",
+        1950,
+        6,
+        "J. H. M. C. Boelaars 1950"
+      ],
+      [
+        "72902",
+        "wordlist_or_less",
+        1939,
+        9,
+        "Nevermann, Hans 1939"
+      ]
+    ]
+  },
+  "id": "ngka1235",
+  "name": "Ngkontar Ngkolmpu",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.87044,
+  "longitude": 140.818,
+  "classification": [
+    {
+      "name": "Yam",
+      "id": "more1255",
+      "url": "https://glottolog.org/resource/languoid/id/more1255"
+    },
+    {
+      "name": "Kanum",
+      "id": "kanu1280",
+      "url": "https://glottolog.org/resource/languoid/id/kanu1280"
+    },
+    {
+      "name": "Ngkrn-Ngkantr",
+      "id": "ngkr1234",
+      "url": "https://glottolog.org/resource/languoid/id/ngkr1234"
+    },
+    {
+      "name": "Ngkantr",
+      "id": "ngka1236",
+      "url": "https://glottolog.org/resource/languoid/id/ngka1236"
+    }
+  ],
+  "iso639-3": "kcd"
+}

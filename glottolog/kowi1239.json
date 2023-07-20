@@ -1,0 +1,80 @@
+{
+  "pk": 12418,
+  "hid": "kwh",
+  "father_pk": 9469,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Adijaya [adij1237]':1,'Keroi [kero1244]':1,'Namatota [nama1269]':1,'Waikala [waik1244]':1)'Kowiai [kowi1239][kwh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2279",
+        "label": "Kowiai"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6435028",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kowiai_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "303544",
+        "wordlist_or_less",
+        1830,
+        33,
+        "Justin Modera 1830"
+      ]
+    ]
+  },
+  "id": "kowi1239",
+  "name": "Kowiai",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.21954,
+  "longitude": 133.468,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Greater Seram Laut",
+      "id": "grea1302",
+      "url": "https://glottolog.org/resource/languoid/id/grea1302"
+    },
+    {
+      "name": "Banda-Geser",
+      "id": "band1354",
+      "url": "https://glottolog.org/resource/languoid/id/band1354"
+    },
+    {
+      "name": "Seran Laut",
+      "id": "gese1239",
+      "url": "https://glottolog.org/resource/languoid/id/gese1239"
+    },
+    {
+      "name": "Geser-Gorom-Bati",
+      "id": "gese1241",
+      "url": "https://glottolog.org/resource/languoid/id/gese1241"
+    }
+  ],
+  "iso639-3": "kwh"
+}

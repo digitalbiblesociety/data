@@ -1,0 +1,135 @@
+{
+  "pk": 20599,
+  "hid": "rmc",
+  "father_pk": 18720,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Gurvari [gurv1234]':1,('Bohemian Romani [bohe1241]':1,'East Slovakian Romani [east2314]':1,'Galician Romani [gali1259]':1,'Moravian Romani [mora1270]':1,'North Transylvanian Romani [nort3372]':1,'West Slovakian Romani [west2376]':1)'North Central Romani [nort3324]':1,('Romungro [tran1280]':1,('Burgenland Romani [burg1246]':1,'Prekmurje Romani [prek1240]':1,'Western Hungarian Vend [west2927]':1)'Vend [vend1247]':1)'South Central Romani [sout3308]':1)'Central Romani [carp1235][rmc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 14,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3263",
+        "label": "Carpathian Romani"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5045611",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Carpathian_Romani",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "579287",
+        "long_grammar",
+        2017,
+        497,
+        "Beníšek, Michael 2017"
+      ],
+      [
+        "579374",
+        "long_grammar",
+        2015,
+        353,
+        "Bodnárová, Zuzana 2015"
+      ],
+      [
+        "311122",
+        "grammar",
+        1886,
+        246,
+        "Josef Ješina 1886"
+      ],
+      [
+        "321110",
+        "grammar_sketch",
+        1844,
+        548,
+        "Pott, August F. 1844-1845"
+      ],
+      [
+        "303344",
+        "grammar_sketch",
+        1821,
+        102,
+        "Puchmayer, Anton Jaroslaw 1821"
+      ],
+      [
+        "578937",
+        "wordlist_or_less",
+        1597,
+        0,
+        "Vulcanius [= De Smet], Bonaventura 1597"
+      ]
+    ]
+  },
+  "id": "carp1235",
+  "name": "Central Romani",
+  "description": null,
+  "markup_description": null,
+  "latitude": 48.1968,
+  "longitude": 20.3129,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Indo-Aryan",
+      "id": "indo1321",
+      "url": "https://glottolog.org/resource/languoid/id/indo1321"
+    },
+    {
+      "name": "Middle-Modern Indo-Aryan",
+      "id": "midd1375",
+      "url": "https://glottolog.org/resource/languoid/id/midd1375"
+    },
+    {
+      "name": "Continental Indo-Aryan",
+      "id": "cont1248",
+      "url": "https://glottolog.org/resource/languoid/id/cont1248"
+    },
+    {
+      "name": "Midlands Indo-Aryan",
+      "id": "midl1245",
+      "url": "https://glottolog.org/resource/languoid/id/midl1245"
+    },
+    {
+      "name": "Shaurasenic",
+      "id": "shau1239",
+      "url": "https://glottolog.org/resource/languoid/id/shau1239"
+    },
+    {
+      "name": "Indo-Aryan Central zone",
+      "id": "indo1322",
+      "url": "https://glottolog.org/resource/languoid/id/indo1322"
+    },
+    {
+      "name": "Romani",
+      "id": "roma1329",
+      "url": "https://glottolog.org/resource/languoid/id/roma1329"
+    }
+  ],
+  "iso639-3": "rmc"
+}

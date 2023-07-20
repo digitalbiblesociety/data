@@ -1,0 +1,69 @@
+{
+  "pk": 7689,
+  "hid": "stg",
+  "father_pk": 5326,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Trieng [trie1243][stg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q13018603",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "114708",
+        "wordlist_or_less",
+        2009,
+        82,
+        "Sidwell, Paul James 2009"
+      ],
+      [
+        "309250",
+        "wordlist_or_less",
+        1998,
+        5,
+        "Joachim Schliesinger 1998"
+      ]
+    ]
+  },
+  "id": "trie1243",
+  "name": "Trieng",
+  "description": null,
+  "markup_description": null,
+  "latitude": 15.5002,
+  "longitude": 107.515,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Bahnaric",
+      "id": "bahn1264",
+      "url": "https://glottolog.org/resource/languoid/id/bahn1264"
+    },
+    {
+      "name": "West Bahnaric",
+      "id": "west2399",
+      "url": "https://glottolog.org/resource/languoid/id/west2399"
+    },
+    {
+      "name": "Triengic",
+      "id": "trie1245",
+      "url": "https://glottolog.org/resource/languoid/id/trie1245"
+    }
+  ],
+  "iso639-3": "stg"
+}

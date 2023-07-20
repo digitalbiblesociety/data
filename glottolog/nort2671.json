@@ -1,0 +1,99 @@
+{
+  "pk": 6979,
+  "hid": "sme",
+  "father_pk": 4782,
+  "family_pk": 302,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Eastern Finnmarku Saami [east2866]':1,'Western Finnmarku Saami [west2962]':1)'Finnmárku Saami [finn1320]':1,'Sea Lappish [seal1238]':1,('Gárasavvon [gara1271]':1,'Čohkkiras [cohk1234]':1)'Torne Saami [torn1243]':1)'North Saami [nort2671][sme]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3282",
+        "label": "North Saami"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_sno",
+        "label": "Saami (Northern)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Northern_Sami",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nort2671",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33947",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "312347",
+        "long_grammar",
+        2011,
+        691,
+        "Klaus Peter Nickel and Pekka Sammallahti 2011"
+      ],
+      [
+        "318011",
+        "long_grammar",
+        1926,
+        654,
+        "Nielsen, Konrad 1926, 1926, 1929"
+      ],
+      [
+        "318692",
+        "long_grammar",
+        1748,
+        506,
+        "Leem, Knud 1748"
+      ],
+      [
+        "319412",
+        "grammar_sketch",
+        1743,
+        199,
+        "Henricus Ganander 1743"
+      ]
+    ]
+  },
+  "id": "nort2671",
+  "name": "North Saami",
+  "description": null,
+  "markup_description": null,
+  "latitude": 68.725,
+  "longitude": 22.1113,
+  "classification": [
+    {
+      "name": "Uralic",
+      "id": "ural1272",
+      "url": "https://glottolog.org/resource/languoid/id/ural1272"
+    },
+    {
+      "name": "Saami",
+      "id": "saam1281",
+      "url": "https://glottolog.org/resource/languoid/id/saam1281"
+    },
+    {
+      "name": "Western Saami",
+      "id": "west2390",
+      "url": "https://glottolog.org/resource/languoid/id/west2390"
+    },
+    {
+      "name": "Central Western Saami",
+      "id": "cent2240",
+      "url": "https://glottolog.org/resource/languoid/id/cent2240"
+    }
+  ],
+  "iso639-3": "sme"
+}

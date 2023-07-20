@@ -1,0 +1,102 @@
+{
+  "pk": 6514,
+  "hid": "rey",
+  "father_pk": 4478,
+  "family_pk": 273,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Reyesano [reye1240][rey]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2759",
+        "label": "Reyesano"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3111857",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Reyesano_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/reye1240",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "305949",
+        "grammar_sketch",
+        2012,
+        42,
+        "Antoine Guillaume 2012"
+      ],
+      [
+        "61136",
+        "wordlist_or_less",
+        1906,
+        120,
+        "Armentia, Fray Nicolás de 1906"
+      ],
+      [
+        "118174",
+        "wordlist_or_less",
+        1839,
+        38,
+        "d'Orbigny, Alcide Dessalines 1839"
+      ],
+      [
+        "104642",
+        "wordlist_or_less",
+        1794,
+        16,
+        "Palau, Mercedes and Blanca Saiz 1989 [1794]"
+      ],
+      [
+        "113070",
+        "wordlist_or_less",
+        1787,
+        4,
+        "Lorenzo Hervas 1787"
+      ]
+    ]
+  },
+  "id": "reye1240",
+  "name": "Reyesano",
+  "description": null,
+  "markup_description": null,
+  "latitude": -14.8333,
+  "longitude": -67.0833,
+  "classification": [
+    {
+      "name": "Pano-Tacanan",
+      "id": "pano1259",
+      "url": "https://glottolog.org/resource/languoid/id/pano1259"
+    },
+    {
+      "name": "Tacanan",
+      "id": "taca1255",
+      "url": "https://glottolog.org/resource/languoid/id/taca1255"
+    },
+    {
+      "name": "Takanik-Chamik",
+      "id": "taka1267",
+      "url": "https://glottolog.org/resource/languoid/id/taka1267"
+    },
+    {
+      "name": "Takanik",
+      "id": "taka1268",
+      "url": "https://glottolog.org/resource/languoid/id/taka1268"
+    }
+  ],
+  "iso639-3": "rey"
+}

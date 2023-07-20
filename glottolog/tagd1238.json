@@ -1,0 +1,79 @@
+{
+  "pk": 3630,
+  "hid": "tda",
+  "father_pk": 1966,
+  "family_pk": 48,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kel Ilokkod [azaw1238]':1,'Tabarog [taba1272]':1,'Tarbun [airr1238]':1)'Tagdal [tagd1238][tda]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5812",
+        "label": "Tagdal"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36570",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tagdal_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "586096",
+        "grammar",
+        2021,
+        252,
+        "Benítez-Torres, Carlos M. 2021"
+      ],
+      [
+        "579288",
+        "phonology_or_text",
+        2020,
+        7,
+        "Benítez-Torres, Carlos M. 2020"
+      ],
+      [
+        "130054",
+        "phonology_or_text",
+        1980,
+        34,
+        "Nicolaï, Robert 1980"
+      ]
+    ]
+  },
+  "id": "tagd1238",
+  "name": "Tagdal",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.1908,
+  "longitude": 6.83992,
+  "classification": [
+    {
+      "name": "Songhay",
+      "id": "song1307",
+      "url": "https://glottolog.org/resource/languoid/id/song1307"
+    },
+    {
+      "name": "Northwest Songhay",
+      "id": "nort2822",
+      "url": "https://glottolog.org/resource/languoid/id/nort2822"
+    },
+    {
+      "name": "Northern Songhay",
+      "id": "nort2823",
+      "url": "https://glottolog.org/resource/languoid/id/nort2823"
+    }
+  ],
+  "iso639-3": "tda"
+}

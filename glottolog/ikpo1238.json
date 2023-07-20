@@ -1,0 +1,110 @@
+{
+  "pk": 9893,
+  "hid": "kpo",
+  "father_pk": 7150,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Amou Oblou [amou1238]':1,'Ikponu [ikpo1239]':1,'Iwi [iwii1238]':1,'Litime [liti1241]':1,'Logbo [logb1246]':1,'Uma {Ikposo} [umaa1241]':1)'Ikposo [ikpo1238][kpo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q35029",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kposo_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kpo",
+        "label": "Kposo"
+      }
+    ],
+    "meds": [
+      [
+        "319039",
+        "long_grammar",
+        2013,
+        562,
+        "Soubrier, Aude 2013"
+      ],
+      [
+        "128062",
+        "grammar",
+        1988,
+        0,
+        "Eklo, Alubue Amavi 1988"
+      ],
+      [
+        "128076",
+        "grammar",
+        1981,
+        0,
+        "Wolf, P. Franz 1981"
+      ],
+      [
+        "28232",
+        "grammar",
+        1971,
+        0,
+        "Wolf, Franz 1971"
+      ],
+      [
+        "24918",
+        "grammar_sketch",
+        1909,
+        56,
+        "Wolf, Frans 1909"
+      ],
+      [
+        "51426",
+        "wordlist_or_less",
+        1867,
+        3,
+        "Hornberger, Chr. 1867"
+      ]
+    ]
+  },
+  "id": "ikpo1238",
+  "name": "Ikposo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.44776,
+  "longitude": 0.83312,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Kwa Volta-Congo",
+      "id": "kwav1236",
+      "url": "https://glottolog.org/resource/languoid/id/kwav1236"
+    },
+    {
+      "name": "Ka-Togo",
+      "id": "kato1245",
+      "url": "https://glottolog.org/resource/languoid/id/kato1245"
+    },
+    {
+      "name": "Kposo-Ahlo-Bowili",
+      "id": "kpos1239",
+      "url": "https://glottolog.org/resource/languoid/id/kpos1239"
+    }
+  ],
+  "iso639-3": "kpo"
+}

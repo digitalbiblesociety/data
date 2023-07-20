@@ -1,0 +1,88 @@
+{
+  "pk": 7580,
+  "hid": "coc",
+  "father_pk": 5254,
+  "family_pk": 403,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Cocopa [coco1261][coc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1694",
+        "label": "Cocopah"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33044",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cocopah_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ccp",
+        "label": "Cocopa"
+      }
+    ],
+    "meds": [
+      [
+        "161957",
+        "grammar",
+        1966,
+        262,
+        "Crawford, Jr., James Mack 1966"
+      ],
+      [
+        "320623",
+        "wordlist_or_less",
+        1928,
+        7,
+        "Gifford, E. W. and Robert H. Lowie 1928"
+      ],
+      [
+        "326384",
+        "wordlist_or_less",
+        1911,
+        6,
+        "Thomas, Cyrus and John R. Swanton 1911"
+      ]
+    ]
+  },
+  "id": "coco1261",
+  "name": "Cocopa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 32.376,
+  "longitude": -114.848,
+  "classification": [
+    {
+      "name": "Cochimi-Yuman",
+      "id": "coch1271",
+      "url": "https://glottolog.org/resource/languoid/id/coch1271"
+    },
+    {
+      "name": "Yuman",
+      "id": "yuma1250",
+      "url": "https://glottolog.org/resource/languoid/id/yuma1250"
+    },
+    {
+      "name": "General Yuman",
+      "id": "gene1244",
+      "url": "https://glottolog.org/resource/languoid/id/gene1244"
+    },
+    {
+      "name": "Delta-Californian Yuman",
+      "id": "delt1253",
+      "url": "https://glottolog.org/resource/languoid/id/delt1253"
+    }
+  ],
+  "iso639-3": "coc"
+}

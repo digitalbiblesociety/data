@@ -1,0 +1,98 @@
+{
+  "pk": 13875,
+  "hid": "xsd",
+  "father_pk": 10838,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Sidetic [side1240][xsd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "xsd",
+      "comment_type": "missing",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "A number of ancient Indo-European languages of Anatolia are not listed in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26. One of them is Sidetic (**hh:hv:Melchert:Anatolia**:2157-2158, **hh:ld:Kassian:Sidetskij**)."
+    },
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q36659",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sidetic_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "69297",
+        "wordlist_or_less",
+        1995,
+        3,
+        "Craig Melchert 1995"
+      ]
+    ]
+  },
+  "id": "side1240",
+  "name": "Sidetic",
+  "description": null,
+  "markup_description": null,
+  "latitude": 36.764,
+  "longitude": 31.917,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Anatolian",
+      "id": "anat1257",
+      "url": "https://glottolog.org/resource/languoid/id/anat1257"
+    },
+    {
+      "name": "Luvo-Lydian",
+      "id": "luvo1234",
+      "url": "https://glottolog.org/resource/languoid/id/luvo1234"
+    },
+    {
+      "name": "Luvo-Palaic",
+      "id": "luvo1235",
+      "url": "https://glottolog.org/resource/languoid/id/luvo1235"
+    },
+    {
+      "name": "Luvic",
+      "id": "luvi1234",
+      "url": "https://glottolog.org/resource/languoid/id/luvi1234"
+    },
+    {
+      "name": "Lyco-Carian",
+      "id": "lyco1238",
+      "url": "https://glottolog.org/resource/languoid/id/lyco1238"
+    },
+    {
+      "name": "Lyco-Sidetic",
+      "id": "lyco1239",
+      "url": "https://glottolog.org/resource/languoid/id/lyco1239"
+    }
+  ],
+  "iso639-3": "xsd"
+}

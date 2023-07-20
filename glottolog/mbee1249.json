@@ -1,0 +1,101 @@
+{
+  "pk": 13012,
+  "hid": "mfo",
+  "father_pk": 9993,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Idum [idum1242]':1,'Ikumtale [ikum1242]':1,'Odaje [odaj1238]':1)'Mbe [mbee1249][mfo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q36075",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mbe_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/mbee1249",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "18779",
+        "grammar_sketch",
+        1981,
+        115,
+        "Pohlig, James 1981"
+      ],
+      [
+        "133118",
+        "grammar_sketch",
+        1967,
+        7,
+        "Bamgbose, Ayo 1967"
+      ],
+      [
+        "68433",
+        "phonology_or_text",
+        1966,
+        21,
+        "Bamgbose, Ayo 1966/67"
+      ],
+      [
+        "137692",
+        "wordlist_or_less",
+        1965,
+        22,
+        "Bamgbose, Ayo 1965"
+      ]
+    ]
+  },
+  "id": "mbee1249",
+  "name": "Mbe",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.57067,
+  "longitude": 8.82998,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Ekoid-Mbe",
+      "id": "ekoi1237",
+      "url": "https://glottolog.org/resource/languoid/id/ekoi1237"
+    }
+  ],
+  "iso639-3": "mfo"
+}

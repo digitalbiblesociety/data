@@ -1,0 +1,111 @@
+{
+  "pk": 10152,
+  "hid": "cdm",
+  "father_pk": 7297,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Eastern Chepang [east2353]':1,'Western Chepang [west2419]':1)'Chepang [chep1245][cdm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1622",
+        "label": "Chepang"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5091700",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Chepang_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/chep1245",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_cpn",
+        "label": "Chepang"
+      }
+    ],
+    "meds": [
+      [
+        "666588",
+        "long_grammar",
+        2022,
+        689,
+        "Pons, Marie-Caroline 2022"
+      ],
+      [
+        "68886",
+        "grammar",
+        1982,
+        0,
+        "Caughley, Ross Charles 1982"
+      ],
+      [
+        "667633",
+        "grammar_sketch",
+        1974,
+        541,
+        "Shafer, Robert 1974"
+      ],
+      [
+        "153225",
+        "phonology_or_text",
+        1969,
+        36,
+        "Caughley, Ross S. 1969"
+      ],
+      [
+        "109758",
+        "wordlist_or_less",
+        1857,
+        5,
+        "Brian H. Hodgson 1857"
+      ]
+    ]
+  },
+  "id": "chep1245",
+  "name": "Chepang",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.7206,
+  "longitude": 84.9017,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Himalayish",
+      "id": "hima1249",
+      "url": "https://glottolog.org/resource/languoid/id/hima1249"
+    },
+    {
+      "name": "Mahakiranti",
+      "id": "maha1306",
+      "url": "https://glottolog.org/resource/languoid/id/maha1306"
+    },
+    {
+      "name": "Kham-Magar-Chepang",
+      "id": "kham1285",
+      "url": "https://glottolog.org/resource/languoid/id/kham1285"
+    },
+    {
+      "name": "Chepangic",
+      "id": "chep1244",
+      "url": "https://glottolog.org/resource/languoid/id/chep1244"
+    }
+  ],
+  "iso639-3": "cdm"
+}

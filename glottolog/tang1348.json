@@ -1,0 +1,110 @@
+{
+  "pk": 17612,
+  "hid": "tgg",
+  "father_pk": 15241,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Fanamaket [make1251][bjp]':1,('Niwer Mil [niwe1234][hrc]':1,'Warwar Feni [anir1237][hrw]':1)'Niwer Mil-Warwar Feni [niwe1235]':1)'Tangga [tang1348][tgg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "tgg",
+      "name": "Tangga",
+      "change_request": "2012-141",
+      "effective": "2013-01-23",
+      "reason": "split",
+      "change_to": [
+        "bjp",
+        "hrc",
+        "hrw"
+      ],
+      "remedy": "Split into Fanamaket [bjp], Niwer Mil [hrc], and Warwar Feni [hrw]",
+      "comment": "The Tangga language is said to be spoken in three different locations; the\nTangga Islands, the Feni Islands, and mainland New Ireland, PNG. A 2005 survey\nconducted by SIL-PNG showed that the three varieties spoken in the three\nlocations consider themselves distinct, though sharing a common history. Even\nthough all three groups say there was a time when they all spoke the same\nlanguage, now they no longer understand each other. (Please note the\naccompanying survey report is a draft.)\n\nThis is shown through a lexicostatistic comparison, where Fanamaket scores an\naverage of 69 with Warwar Feni, highest is a 70, and an average of 69 with Niwer\nMil, highest a 69 (see pages 16 and 17 of the accompanying survey report).\n\nThis is verified by the reported comprehension between the varieties. Speakers\nof Warwar Feni and Niwer Mil said that children understand very little or\nnothing of the Fanamaket variety, while speakers of Fanamaket said the same of\nthe other two varieties. (19 and 20).\n\nThe lexicostatistic comparison between Warwar Feni and Niwer Mil showed an\naverage score of 83, the highest being 84 (pages 16-17).\n\nThe reported comprehension between the varieties is stark. Respondents in two\nNiwer Mil villages reported that children can understand nothing of Warwar Feni,\nwhile respondents in the other two Niwer Mil villages reported that children can\nunderstand little of Warwar Feni. On the other side, respondents in three Warwar\nFeni villages reported that children can understand nothing of Niwer Mil while\nthe other two villages reported children can understand only a little. (pages 19\nand 20)\n\nWhen asked specifically about the acceptance of language development in the\nother varieties, each said they would refuse to use them. Each group wants\nlanguage development in their own variety. (page 22)\n\n\"People from the Tanga Islands, Feni Islands, and the three New Ireland villages\nperceive themselves to be speaking different languages. They recognise that the\nthree languages are related and they report that they have a shared origin on\nNew Ireland, but speakers of any one dialect do not think that the other two\ndialects sound good, they do not think that the other two dialects are very\ncomprehensible, and they generally say they would not be willing to use\nliterature in either of the other two dialects. People from each group would\nprefer to use literature in their own dialect. Even if Warwar Feni speakers\ncould understand literature in the Niwer Mil dialect, they probably would not\nuse Niwer Mil materials. Therefore, Niwer Mil and Warwar Feni speakers should\nnot be grouped together to use the same literature.\n\nIn conclusion, for the purposes of language development, Niwer Mil, Warwar Feni,\nand Fanamaket can be considered different languages and should each have their\nown literature.\" (page 23)"
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tga",
+        "label": "Tangga"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tangga_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3515111",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "161887",
+        "grammar_sketch",
+        1966,
+        174,
+        "Maurer, Heinrich 1966"
+      ],
+      [
+        "92012",
+        "wordlist_or_less",
+        1908,
+        5,
+        "Otto Schlaginhaufen 1908"
+      ]
+    ]
+  },
+  "id": "tang1348",
+  "name": "Tangga",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.08824,
+  "longitude": 153.611,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Western Oceanic linkage",
+      "id": "west2818",
+      "url": "https://glottolog.org/resource/languoid/id/west2818"
+    },
+    {
+      "name": "Meso Melanesian linkage",
+      "id": "meso1253",
+      "url": "https://glottolog.org/resource/languoid/id/meso1253"
+    },
+    {
+      "name": "New Ireland-Northwest Solomonic linkage",
+      "id": "newi1242",
+      "url": "https://glottolog.org/resource/languoid/id/newi1242"
+    },
+    {
+      "name": "St George linkage",
+      "id": "stge1234",
+      "url": "https://glottolog.org/resource/languoid/id/stge1234"
+    }
+  ],
+  "iso639-3": "tgg"
+}

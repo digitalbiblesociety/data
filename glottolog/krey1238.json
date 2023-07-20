@@ -1,0 +1,75 @@
+{
+  "pk": 10445,
+  "hid": "xre",
+  "father_pk": 7511,
+  "family_pk": 376,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Northeastern Timbira [krey1238][xre]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2670",
+        "label": "Kreye"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kr%E1%BA%BDje_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3199686",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "8992",
+        "wordlist_or_less",
+        1914,
+        11,
+        "Curt Nimuendajú-Unkel 1914"
+      ]
+    ]
+  },
+  "id": "krey1238",
+  "name": "Northeastern Timbira",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.199179,
+  "longitude": -44.8295387,
+  "classification": [
+    {
+      "name": "Nuclear-Macro-Je",
+      "id": "nucl1710",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1710"
+    },
+    {
+      "name": "Je",
+      "id": "jeee1236",
+      "url": "https://glottolog.org/resource/languoid/id/jeee1236"
+    },
+    {
+      "name": "Je Setentrional",
+      "id": "jese1235",
+      "url": "https://glottolog.org/resource/languoid/id/jese1235"
+    },
+    {
+      "name": "Core Northern Je",
+      "id": "core1264",
+      "url": "https://glottolog.org/resource/languoid/id/core1264"
+    },
+    {
+      "name": "Eastern Timbira",
+      "id": "timb1253",
+      "url": "https://glottolog.org/resource/languoid/id/timb1253"
+    }
+  ],
+  "iso639-3": "xre"
+}

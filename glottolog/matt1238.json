@@ -1,0 +1,75 @@
+{
+  "pk": 8920,
+  "hid": "mvb",
+  "father_pk": 6434,
+  "family_pk": 238,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bear River [bear1242]':1,'Mattole [matt1239]':1)'Mattole-Bear River [matt1238][mvb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q20824",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mattole_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mtl",
+        "label": "Mattole"
+      }
+    ],
+    "meds": [
+      [
+        "29548",
+        "long_grammar",
+        1929,
+        356,
+        "Li, Fang-Kuei 1929"
+      ]
+    ]
+  },
+  "id": "matt1238",
+  "name": "Mattole-Bear River",
+  "description": null,
+  "markup_description": null,
+  "latitude": 40.4321,
+  "longitude": -122.863,
+  "classification": [
+    {
+      "name": "Athabaskan-Eyak-Tlingit",
+      "id": "atha1245",
+      "url": "https://glottolog.org/resource/languoid/id/atha1245"
+    },
+    {
+      "name": "Athabaskan-Eyak",
+      "id": "atha1246",
+      "url": "https://glottolog.org/resource/languoid/id/atha1246"
+    },
+    {
+      "name": "Athabaskan",
+      "id": "atha1247",
+      "url": "https://glottolog.org/resource/languoid/id/atha1247"
+    },
+    {
+      "name": "Pacific Coast Athabaskan",
+      "id": "paci1277",
+      "url": "https://glottolog.org/resource/languoid/id/paci1277"
+    },
+    {
+      "name": "California Athabaskan",
+      "id": "cali1245",
+      "url": "https://glottolog.org/resource/languoid/id/cali1245"
+    }
+  ],
+  "iso639-3": "mvb"
+}

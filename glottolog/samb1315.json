@@ -1,0 +1,90 @@
+{
+  "pk": 12652,
+  "hid": "saq",
+  "father_pk": 9745,
+  "family_pk": 316,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Chamus [cham1311]':1)'Samburu [samb1315][saq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56536",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Samburu_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "28276",
+        "grammar_sketch",
+        1980,
+        42,
+        "Heine, Bernd 1980"
+      ],
+      [
+        "104770",
+        "grammar_sketch",
+        1935,
+        0,
+        "Clarke, W.A.W. 1935"
+      ],
+      [
+        "22582",
+        "wordlist_or_less",
+        1896,
+        190,
+        "Chanler, W. A. 1896"
+      ]
+    ]
+  },
+  "id": "samb1315",
+  "name": "Samburu",
+  "description": null,
+  "markup_description": null,
+  "latitude": 1.60735,
+  "longitude": 37.0539,
+  "classification": [
+    {
+      "name": "Nilotic",
+      "id": "nilo1247",
+      "url": "https://glottolog.org/resource/languoid/id/nilo1247"
+    },
+    {
+      "name": "Eastern Nilotic",
+      "id": "east2418",
+      "url": "https://glottolog.org/resource/languoid/id/east2418"
+    },
+    {
+      "name": "Teso-Lotuxo-Maa",
+      "id": "teso1247",
+      "url": "https://glottolog.org/resource/languoid/id/teso1247"
+    },
+    {
+      "name": "Lotuxo-Maa",
+      "id": "lotu1248",
+      "url": "https://glottolog.org/resource/languoid/id/lotu1248"
+    },
+    {
+      "name": "Ongamo-Maa",
+      "id": "onga1238",
+      "url": "https://glottolog.org/resource/languoid/id/onga1238"
+    },
+    {
+      "name": "Nuclear Maa",
+      "id": "nucl1431",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1431"
+    }
+  ],
+  "iso639-3": "saq"
+}

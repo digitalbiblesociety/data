@@ -1,0 +1,72 @@
+{
+  "pk": 4454,
+  "hid": "sta",
+  "father_pk": 2821,
+  "family_pk": 260,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Pidgin",
+  "newick": "'KiSetla [sett1235][sta]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5419",
+        "label": "Settla"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7456938",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Settler_Swahili",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "13109",
+        "grammar_sketch",
+        1980,
+        19,
+        "Vitale, Anthony J. 1980"
+      ],
+      [
+        "469476",
+        "wordlist_or_less",
+        1979,
+        23,
+        "Duran, James Joseph 1979"
+      ]
+    ]
+  },
+  "id": "sett1235",
+  "name": "KiSetla",
+  "description": null,
+  "markup_description": null,
+  "latitude": -15.6067,
+  "longitude": 28.6923,
+  "classification": [
+    {
+      "name": "Pidgin",
+      "id": "pidg1258",
+      "url": "https://glottolog.org/resource/languoid/id/pidg1258"
+    },
+    {
+      "name": "Swahili-based pidgin",
+      "id": "swah1255",
+      "url": "https://glottolog.org/resource/languoid/id/swah1255"
+    },
+    {
+      "name": "Upcountry Swahili",
+      "id": "upco1238",
+      "url": "https://glottolog.org/resource/languoid/id/upco1238"
+    }
+  ],
+  "iso639-3": "sta"
+}

@@ -1,0 +1,81 @@
+{
+  "pk": 3367,
+  "hid": "xam",
+  "father_pk": 1793,
+  "family_pk": 380,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Achterveld [acht1239]':1,'Aliwal North [aliw1234]':1,'Burghersdorp [burg1247]':1,'Colesberg [cole1234]':1,'N|uusaa [nuus1234]':1,'Orange N|usa [oran1264]':1,'Strandberg-Katkop [stra1247]':1)'/Xam [xamm1241][xam]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q2086145",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/%C7%80Xam_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_xam",
+        "label": "/Xam"
+      }
+    ],
+    "meds": [
+      [
+        "131630",
+        "grammar_sketch",
+        1928,
+        55,
+        "Meriggi, Piero 1928-1929"
+      ],
+      [
+        "62719",
+        "grammar_sketch",
+        1812,
+        4,
+        "Lichtenstein, Hinrich [Martin] [Karl] 1812"
+      ],
+      [
+        "100960",
+        "wordlist_or_less",
+        1808,
+        13,
+        "Lichtenstein, Hinrich 1808"
+      ],
+      [
+        "568713",
+        "wordlist_or_less",
+        1801,
+        0,
+        "Barrow, J. 1801-04"
+      ]
+    ]
+  },
+  "id": "xamm1241",
+  "name": "/Xam",
+  "description": null,
+  "markup_description": null,
+  "latitude": -31.7612,
+  "longitude": 20.1733,
+  "classification": [
+    {
+      "name": "Tuu",
+      "id": "tuuu1241",
+      "url": "https://glottolog.org/resource/languoid/id/tuuu1241"
+    },
+    {
+      "name": "!Ui",
+      "id": "kwii1241",
+      "url": "https://glottolog.org/resource/languoid/id/kwii1241"
+    }
+  ],
+  "iso639-3": "xam"
+}

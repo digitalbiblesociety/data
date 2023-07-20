@@ -1,0 +1,78 @@
+{
+  "pk": 10258,
+  "hid": "pub",
+  "father_pk": 7361,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Purum [puru1266][pub]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6400562",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Purum_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "552212",
+        "grammar",
+        2003,
+        246,
+        "Singh, Nameirakpam Gopendro 2003"
+      ],
+      [
+        "118757",
+        "wordlist_or_less",
+        1904,
+        5,
+        "George A. Grierson 1904"
+      ]
+    ]
+  },
+  "id": "puru1266",
+  "name": "Purum",
+  "description": null,
+  "markup_description": null,
+  "latitude": 25.3887,
+  "longitude": 95.0935,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Kuki-Chin",
+      "id": "kuki1246",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1246"
+    },
+    {
+      "name": "Northwestern Kuki-Chin",
+      "id": "oldk1252",
+      "url": "https://glottolog.org/resource/languoid/id/oldk1252"
+    },
+    {
+      "name": "Central Old Kuki",
+      "id": "cent2411",
+      "url": "https://glottolog.org/resource/languoid/id/cent2411"
+    }
+  ],
+  "iso639-3": "pub"
+}

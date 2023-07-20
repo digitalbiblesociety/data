@@ -1,0 +1,84 @@
+{
+  "pk": 6885,
+  "hid": "tnt",
+  "father_pk": 4674,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Langoan [lang1325]':1,'Sonder [sond1251]':1,'Tompaso [tomp1242]':1)'Tontemboan [tont1239][tnt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3531666",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tontemboan_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tnt",
+        "label": "Tontemboan"
+      }
+    ],
+    "meds": [
+      [
+        "21368",
+        "grammar",
+        1908,
+        273,
+        "Schwarz, J. Alb. T. and Adriani, N. and M.L. Adriani-Gunning 1908"
+      ],
+      [
+        "131714",
+        "grammar_sketch",
+        1892,
+        100,
+        "Jellesma, E.J. and A.L. Waworoentoe 1892"
+      ],
+      [
+        "154263",
+        "wordlist_or_less",
+        1868,
+        2,
+        "Riedel, J. G. F. 1868"
+      ]
+    ]
+  },
+  "id": "tont1239",
+  "name": "Tontemboan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 1.24813,
+  "longitude": 124.654,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Minahasan",
+      "id": "mina1272",
+      "url": "https://glottolog.org/resource/languoid/id/mina1272"
+    },
+    {
+      "name": "North Minahasan",
+      "id": "nort2886",
+      "url": "https://glottolog.org/resource/languoid/id/nort2886"
+    }
+  ],
+  "iso639-3": "tnt"
+}

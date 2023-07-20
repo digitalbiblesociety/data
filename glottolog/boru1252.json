@@ -1,0 +1,95 @@
+{
+  "pk": 5397,
+  "hid": "brn",
+  "father_pk": 3540,
+  "family_pk": 10,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Boruca [boru1252][brn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2596",
+        "label": "Boruca"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q4946773",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Boruca_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_brc",
+        "label": "Boruca"
+      }
+    ],
+    "meds": [
+      [
+        "576239",
+        "grammar",
+        2018,
+        226,
+        "Quesada Pacheco, Miguel Ángel 2018"
+      ],
+      [
+        "35513",
+        "grammar_sketch",
+        1941,
+        97,
+        "Henry Pittier 1941"
+      ],
+      [
+        "64476",
+        "wordlist_or_less",
+        1882,
+        46,
+        "Thiel, Bernardo Augusto 1882"
+      ],
+      [
+        "94560",
+        "wordlist_or_less",
+        1875,
+        24,
+        "William M. Gabb 1875"
+      ]
+    ]
+  },
+  "id": "boru1252",
+  "name": "Boruca",
+  "description": null,
+  "markup_description": null,
+  "latitude": 8.88093,
+  "longitude": -83.2124,
+  "classification": [
+    {
+      "name": "Chibchan",
+      "id": "chib1249",
+      "url": "https://glottolog.org/resource/languoid/id/chib1249"
+    },
+    {
+      "name": "Core Chibchan",
+      "id": "core1252",
+      "url": "https://glottolog.org/resource/languoid/id/core1252"
+    },
+    {
+      "name": "Isthmic Chibchan",
+      "id": "isth1243",
+      "url": "https://glottolog.org/resource/languoid/id/isth1243"
+    },
+    {
+      "name": "Western Isthmic Chibchan",
+      "id": "west2641",
+      "url": "https://glottolog.org/resource/languoid/id/west2641"
+    }
+  ],
+  "iso639-3": "brn"
+}

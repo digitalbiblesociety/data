@@ -1,0 +1,97 @@
+{
+  "pk": 16695,
+  "hid": "ayp",
+  "father_pk": 14131,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Diyarbakir [diya1234]':1,'Kozluk-Sason-Mush [kozl1234]':1,('Azex [azex1234]':1,'Kosa-Mhallami [kosa1252]':1,'Mardin Plains [mard1249]':1,'Mardin Town [mard1247]':1,'Mardin Villages [mard1248]':1)'Mardinic [mard1246]':1,'Mosul Arabic [mosu1235]':1,'Siirt [siir1234]':1)'Anatolian Qeltu [anat1261]':1,'Euphrat Qeltu [euph1239]':1,'Tigris Qeltu [tigr1278]':1)'North Mesopotamian Arabic [nort3142][ayp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 13,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10838",
+        "label": "North Mesopotamian Arabic"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/North_Mesopotamian_Arabic",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56577",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "665171",
+        "long_grammar",
+        1964,
+        1119,
+        "McCarthy, Robert J. and Raffouli, Faraj 1964, 1965"
+      ],
+      [
+        "478031",
+        "grammar_sketch",
+        1882,
+        93,
+        "Socin, Albert 1882"
+      ]
+    ]
+  },
+  "id": "nort3142",
+  "name": "North Mesopotamian Arabic",
+  "description": null,
+  "markup_description": null,
+  "latitude": 36.2986,
+  "longitude": 42.0047,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Semitic",
+      "id": "semi1276",
+      "url": "https://glottolog.org/resource/languoid/id/semi1276"
+    },
+    {
+      "name": "West Semitic",
+      "id": "west2786",
+      "url": "https://glottolog.org/resource/languoid/id/west2786"
+    },
+    {
+      "name": "Central Semitic",
+      "id": "cent2236",
+      "url": "https://glottolog.org/resource/languoid/id/cent2236"
+    },
+    {
+      "name": "Arabian",
+      "id": "arab1394",
+      "url": "https://glottolog.org/resource/languoid/id/arab1394"
+    },
+    {
+      "name": "Arabic",
+      "id": "arab1395",
+      "url": "https://glottolog.org/resource/languoid/id/arab1395"
+    },
+    {
+      "name": "Eastern Arabic",
+      "id": "east2729",
+      "url": "https://glottolog.org/resource/languoid/id/east2729"
+    },
+    {
+      "name": "Qeltu",
+      "id": "qelt1235",
+      "url": "https://glottolog.org/resource/languoid/id/qelt1235"
+    }
+  ],
+  "iso639-3": "ayp"
+}

@@ -1,0 +1,77 @@
+{
+  "pk": 6322,
+  "hid": "qua",
+  "father_pk": 4275,
+  "family_pk": 201,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Quapaw [quap1242][qua]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5305",
+        "label": "Quapaw"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3412974",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Quapaw_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "22523",
+        "grammar_sketch",
+        2005,
+        45,
+        "Robert L. Rankin 2005"
+      ],
+      [
+        "95858",
+        "wordlist_or_less",
+        1982,
+        28,
+        "Rankin, R.L. 1982"
+      ]
+    ]
+  },
+  "id": "quap1242",
+  "name": "Quapaw",
+  "description": null,
+  "markup_description": null,
+  "latitude": 34.15,
+  "longitude": -92,
+  "classification": [
+    {
+      "name": "Siouan",
+      "id": "siou1252",
+      "url": "https://glottolog.org/resource/languoid/id/siou1252"
+    },
+    {
+      "name": "Core Siouan",
+      "id": "core1249",
+      "url": "https://glottolog.org/resource/languoid/id/core1249"
+    },
+    {
+      "name": "Mississippi Valley",
+      "id": "miss1254",
+      "url": "https://glottolog.org/resource/languoid/id/miss1254"
+    },
+    {
+      "name": "Dhegiha",
+      "id": "dheg1241",
+      "url": "https://glottolog.org/resource/languoid/id/dheg1241"
+    }
+  ],
+  "iso639-3": "qua"
+}

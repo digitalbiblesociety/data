@@ -1,0 +1,104 @@
+{
+  "pk": 17628,
+  "hid": "bjl",
+  "father_pk": 15248,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Bulu {Papua New Guinea} [bulu1253][bjl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3924",
+        "label": "Bulu"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q4997162",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bulu_language_(Oceanic)",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "123329",
+        "wordlist_or_less",
+        1980,
+        2,
+        "Raymond Leslie Johnston 1980"
+      ],
+      [
+        "64585",
+        "wordlist_or_less",
+        1969,
+        1,
+        "Chowning, Ann 1969"
+      ],
+      [
+        "618255",
+        "wordlist_or_less",
+        1952,
+        9,
+        "Ward H. Goodenough 1952"
+      ]
+    ]
+  },
+  "id": "bulu1253",
+  "name": "Bulu (Papua New Guinea)",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.06134,
+  "longitude": 150.101,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Western Oceanic linkage",
+      "id": "west2818",
+      "url": "https://glottolog.org/resource/languoid/id/west2818"
+    },
+    {
+      "name": "Meso Melanesian linkage",
+      "id": "meso1253",
+      "url": "https://glottolog.org/resource/languoid/id/meso1253"
+    },
+    {
+      "name": "Willaumez linkage",
+      "id": "will1243",
+      "url": "https://glottolog.org/resource/languoid/id/will1243"
+    },
+    {
+      "name": "Bola-Bulu",
+      "id": "bola1253",
+      "url": "https://glottolog.org/resource/languoid/id/bola1253"
+    }
+  ],
+  "iso639-3": "bjl"
+}

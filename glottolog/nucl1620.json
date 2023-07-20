@@ -1,0 +1,86 @@
+{
+  "pk": 4535,
+  "hid": "wgi",
+  "father_pk": 2921,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kambia [kamb1305]':1,'Kunjip [kunj1247]':1,'Kup-Minj [kupm1238]':1,'Mid-Wahgi [midw1243]':1,'Pukamigl-Andegabu [puka1243]':1)'Wahgi [nucl1620][wgi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Wahgi_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nucl1620",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3565122",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "56275",
+        "grammar",
+        1954,
+        245,
+        "Luzbetak, Louis 1954"
+      ],
+      [
+        "15483",
+        "wordlist_or_less",
+        1948,
+        1,
+        "Arthur Capell 1948-1949"
+      ],
+      [
+        "472682",
+        "wordlist_or_less",
+        1939,
+        70,
+        "Herbert Tischner 1939"
+      ],
+      [
+        "100477",
+        "wordlist_or_less",
+        1935,
+        1,
+        "Michael J. Leahy 1935"
+      ]
+    ]
+  },
+  "id": "nucl1620",
+  "name": "Wahgi",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.11629,
+  "longitude": 144.665,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Chimbu-Wahgi",
+      "id": "cent2120",
+      "url": "https://glottolog.org/resource/languoid/id/cent2120"
+    },
+    {
+      "name": "Wahgic",
+      "id": "wahg1249",
+      "url": "https://glottolog.org/resource/languoid/id/wahg1249"
+    }
+  ],
+  "iso639-3": "wgi"
+}

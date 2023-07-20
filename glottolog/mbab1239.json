@@ -1,0 +1,87 @@
+{
+  "pk": 4005,
+  "hid": "vmb",
+  "father_pk": 2284,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mbabaram [mbab1239][vmb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3379",
+        "label": "Mbabaram"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mbb",
+        "label": "Mbabaram"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mbabaram_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/mbab1239",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3303475",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "137200",
+        "grammar_sketch",
+        1991,
+        62,
+        "R. M. W. Dixon 1991"
+      ],
+      [
+        "3236",
+        "phonology_or_text",
+        1965,
+        56,
+        "Dixon, R. M. W. 1965"
+      ],
+      [
+        "5797",
+        "wordlist_or_less",
+        1899,
+        8,
+        "Mathew, John 1899"
+      ]
+    ]
+  },
+  "id": "mbab1239",
+  "name": "Mbabaram",
+  "description": null,
+  "markup_description": null,
+  "latitude": -20.1389,
+  "longitude": 143.438,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Paman",
+      "id": "pama1251",
+      "url": "https://glottolog.org/resource/languoid/id/pama1251"
+    },
+    {
+      "name": "Finasleigh Pama",
+      "id": "fina1240",
+      "url": "https://glottolog.org/resource/languoid/id/fina1240"
+    }
+  ],
+  "iso639-3": "vmb"
+}

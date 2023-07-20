@@ -1,0 +1,119 @@
+{
+  "pk": 4126,
+  "hid": "evn",
+  "father_pk": 2357,
+  "family_pk": 162,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Aoluguya [aolu1238]':1,'Borzya Khamnigan Evenki [chen1257]':1,('Amur basin Solon [amur1244]':1,'Hulun Buir Solon [huih1238]':1,'Morigele [mori1265]':1,'Nonni basin Solon [nonn1235]':1,'Ongkor Solon [ongk1234]':1)'Solon [solo1263]':1,'Urulyungui Khamnigan Evenki [hail1248]':1)'Manchurian Evenki [manc1253]':1,(('Bareya-Amgun'' [bare1281]':1,'Barguzin Evenki [barg1253]':1,'Chul''man-Gilyui [chul1247]':1,'Sakhalin Evenki [sakh1246]':1,'Uchur-Zeya [uchu1234]':1,'Vitim-Olyokma [viti1244]':1)'Eastern Evenki [east2846]':1,('Ilimpeya [ilim1234]':1,'Yerbogachon [yerb1234]':1)'Northern Evenki [nort3334]':1,('Hissing Evenki [hiss1234]':1,'Hushing Evenki [hush1235]':1)'Southern Evenki [sout3321]':1)'Siberian Evenki [sibe1251]':1)'Evenki [even1259][evn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 24,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1186",
+        "label": "Evenki"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_eve",
+        "label": "Evenki"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_sol",
+        "label": "Solon"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Evenki_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/even1259",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q30004",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "549888",
+        "long_grammar",
+        2009,
+        373,
+        "Ke, Chao 2009"
+      ],
+      [
+        "78678",
+        "long_grammar",
+        1997,
+        366,
+        "Igor Nedjalkov 1997"
+      ],
+      [
+        "110905",
+        "grammar",
+        1964,
+        271,
+        "Konstantinova, Olga A. 1964"
+      ],
+      [
+        "478415",
+        "grammar_sketch",
+        1958,
+        402,
+        "G. M. Vasilevič 1958"
+      ],
+      [
+        "155325",
+        "grammar_sketch",
+        1856,
+        155,
+        "Castrén, Matthias Alexander 1856"
+      ],
+      [
+        "43361",
+        "wordlist_or_less",
+        1730,
+        76,
+        "Philipp Johann von Strahlenberg 1730"
+      ],
+      [
+        "320011",
+        "wordlist_or_less",
+        1692,
+        52,
+        "Witsen, Nicolaes 1705 [1692]"
+      ]
+    ]
+  },
+  "id": "even1259",
+  "name": "Evenki",
+  "description": null,
+  "markup_description": null,
+  "latitude": 61.972,
+  "longitude": 94.689,
+  "classification": [
+    {
+      "name": "Tungusic",
+      "id": "tung1282",
+      "url": "https://glottolog.org/resource/languoid/id/tung1282"
+    },
+    {
+      "name": "Northeastern Tungusic",
+      "id": "nort3417",
+      "url": "https://glottolog.org/resource/languoid/id/nort3417"
+    },
+    {
+      "name": "Northern Tungusic",
+      "id": "nort3147",
+      "url": "https://glottolog.org/resource/languoid/id/nort3147"
+    }
+  ],
+  "iso639-3": "evn"
+}

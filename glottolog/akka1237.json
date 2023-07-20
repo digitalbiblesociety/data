@@ -1,0 +1,77 @@
+{
+  "pk": 6978,
+  "hid": "sia",
+  "father_pk": 4781,
+  "family_pk": 302,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Akkala Saami [akka1237][sia]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/942",
+        "label": "Akkala Saami"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Akkala_Sami",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35241",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "149037",
+        "grammar",
+        1987,
+        199,
+        "Zajkov, Petr Mefodievič 1987"
+      ],
+      [
+        "319259",
+        "grammar_sketch",
+        1883,
+        12,
+        "Halász, Ignácz 1883"
+      ]
+    ]
+  },
+  "id": "akka1237",
+  "name": "Akkala Saami",
+  "description": null,
+  "markup_description": null,
+  "latitude": 67.8625,
+  "longitude": 32.4046,
+  "classification": [
+    {
+      "name": "Uralic",
+      "id": "ural1272",
+      "url": "https://glottolog.org/resource/languoid/id/ural1272"
+    },
+    {
+      "name": "Saami",
+      "id": "saam1281",
+      "url": "https://glottolog.org/resource/languoid/id/saam1281"
+    },
+    {
+      "name": "Eastern Saami",
+      "id": "east2324",
+      "url": "https://glottolog.org/resource/languoid/id/east2324"
+    },
+    {
+      "name": "Mainland Eastern Saami",
+      "id": "main1280",
+      "url": "https://glottolog.org/resource/languoid/id/main1280"
+    }
+  ],
+  "iso639-3": "sia"
+}

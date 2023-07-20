@@ -1,0 +1,98 @@
+{
+  "pk": 19539,
+  "hid": "lmv",
+  "father_pk": 17538,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Lomaiviti [loma1261][lmv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3130221",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lomaiviti_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "104698",
+        "wordlist_or_less",
+        1983,
+        7,
+        "Paul A. Geraghty 1983"
+      ],
+      [
+        "303036",
+        "wordlist_or_less",
+        1979,
+        6,
+        "Geraghty, Paul 1979"
+      ]
+    ]
+  },
+  "id": "loma1261",
+  "name": "Lomaiviti",
+  "description": null,
+  "markup_description": null,
+  "latitude": -18.0001,
+  "longitude": 179.306,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Central Pacific linkage",
+      "id": "cent2060",
+      "url": "https://glottolog.org/resource/languoid/id/cent2060"
+    },
+    {
+      "name": "Tokalau Fijian",
+      "id": "east2445",
+      "url": "https://glottolog.org/resource/languoid/id/east2445"
+    },
+    {
+      "name": "Eastern Fijian",
+      "id": "east2446",
+      "url": "https://glottolog.org/resource/languoid/id/east2446"
+    },
+    {
+      "name": "Nuclear Eastern Fijian",
+      "id": "nucl1823",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1823"
+    },
+    {
+      "name": "Viwa-Lomaiviti-East Viti Levu",
+      "id": "viwa1234",
+      "url": "https://glottolog.org/resource/languoid/id/viwa1234"
+    }
+  ],
+  "iso639-3": "lmv"
+}

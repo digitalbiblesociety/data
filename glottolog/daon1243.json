@@ -1,0 +1,91 @@
+{
+  "pk": 6413,
+  "hid": "dnd",
+  "father_pk": 4378,
+  "family_pk": 225,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Daonda [daon1243][dnd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4095",
+        "label": "Daonda"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5221528",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Daonda_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "42038",
+        "wordlist_or_less",
+        1994,
+        4,
+        "Smits, Leo and Voorhoeve, C. L. 1994"
+      ],
+      [
+        "305732",
+        "wordlist_or_less",
+        1985,
+        1,
+        "Walter Seiler 1985"
+      ],
+      [
+        "108516",
+        "wordlist_or_less",
+        1973,
+        1,
+        "Laycock, Donald C. 1973"
+      ],
+      [
+        "24303",
+        "wordlist_or_less",
+        1964,
+        1,
+        "Richard Loving and Jack Bass 1964"
+      ]
+    ]
+  },
+  "id": "daon1243",
+  "name": "Daonda",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.31443,
+  "longitude": 141.22,
+  "classification": [
+    {
+      "name": "Border",
+      "id": "bord1247",
+      "url": "https://glottolog.org/resource/languoid/id/bord1247"
+    },
+    {
+      "name": "Warisic",
+      "id": "wari1265",
+      "url": "https://glottolog.org/resource/languoid/id/wari1265"
+    },
+    {
+      "name": "Nuclear Warisic",
+      "id": "nucl1773",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1773"
+    },
+    {
+      "name": "Simog-Daonda",
+      "id": "simo1242",
+      "url": "https://glottolog.org/resource/languoid/id/simo1242"
+    }
+  ],
+  "iso639-3": "dnd"
+}

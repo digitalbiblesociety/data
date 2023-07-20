@@ -1,0 +1,151 @@
+{
+  "pk": 22793,
+  "hid": "cat",
+  "father_pk": 20987,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "((('Pallarès [pall1245]':1,'Ribagorçà [riba1251]':1,'Tortosì [tort1234]':1)'Català Nord-Occidental [cata1291]':1,('Valencià Apitxat [vale1254]':1,'Valencià Meridional [vale1255]':1,'Valencià Septentrional [vale1253]':1)'Valencià [vale1252]':1)'Català Occidental [cata1290]':1,('Algherese [algh1238]':1,('Eivissenc i formenterer [eivi1239]':1,'Mallorquí [mall1248]':1,'Menorquí [meno1253]':1)'Balear [bale1256]':1,('Barceloní [barc1237]':1,'Català Central Septentrional de Transició [cata1292]':1,'Salat {Català} [sala1282]':1,'Tarragoní [tarr1234]':1,'Xipella [xipe1234]':1)'Central Catalan [nons1235]':1,'Rossellonès [ross1234]':1)'Català Oriental [cata1289]':1,'Old Catalan [oldc1251]':1)'Catalan [stan1289][cat]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 23,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ctl",
+        "label": "Catalan"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Catalan_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/stan1289",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7026",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "586665",
+        "long_grammar",
+        2017,
+        1480,
+        "{Institut d'Estudis Catalans} 2017"
+      ],
+      [
+        "82578",
+        "long_grammar",
+        1999,
+        654,
+        "Wheeler, Max W. and Yates, Alan and Dols, Nicolau 1999"
+      ],
+      [
+        "157964",
+        "long_grammar",
+        1992,
+        451,
+        "José I. Hualde 1992"
+      ],
+      [
+        "145619",
+        "grammar",
+        1956,
+        0,
+        "Fabra, Pompeu 1956"
+      ],
+      [
+        "477439",
+        "grammar_sketch",
+        1906,
+        53,
+        "Giovanni Palomba 1906"
+      ],
+      [
+        "26219",
+        "phonology_or_text",
+        1870,
+        6,
+        "Marietti, Petro 1870"
+      ],
+      [
+        "13948",
+        "phonology_or_text",
+        1787,
+        3,
+        "Lorenzo Hervas 1787"
+      ]
+    ]
+  },
+  "id": "stan1289",
+  "name": "Catalan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 41.453,
+  "longitude": 1.569,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Italic",
+      "id": "ital1284",
+      "url": "https://glottolog.org/resource/languoid/id/ital1284"
+    },
+    {
+      "name": "Latino-Faliscan",
+      "id": "lati1262",
+      "url": "https://glottolog.org/resource/languoid/id/lati1262"
+    },
+    {
+      "name": "Latinic",
+      "id": "lati1263",
+      "url": "https://glottolog.org/resource/languoid/id/lati1263"
+    },
+    {
+      "name": "Imperial Latin",
+      "id": "impe1234",
+      "url": "https://glottolog.org/resource/languoid/id/impe1234"
+    },
+    {
+      "name": "Romance",
+      "id": "roma1334",
+      "url": "https://glottolog.org/resource/languoid/id/roma1334"
+    },
+    {
+      "name": "Italo-Western Romance",
+      "id": "ital1285",
+      "url": "https://glottolog.org/resource/languoid/id/ital1285"
+    },
+    {
+      "name": "Western Romance",
+      "id": "west2813",
+      "url": "https://glottolog.org/resource/languoid/id/west2813"
+    },
+    {
+      "name": "Shifted Western Romance",
+      "id": "shif1234",
+      "url": "https://glottolog.org/resource/languoid/id/shif1234"
+    },
+    {
+      "name": "Southwestern Shifted Romance",
+      "id": "sout3183",
+      "url": "https://glottolog.org/resource/languoid/id/sout3183"
+    }
+  ],
+  "iso639-3": "cat"
+}

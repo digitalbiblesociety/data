@@ -1,0 +1,142 @@
+{
+  "pk": 10036,
+  "hid": "ibo",
+  "father_pk": 7203,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Afikpo [afik1238]':1,'Aniocha [anio1238]':1,'Bonny-Opobo [bonn1242]':1,'Eche [eche1239]':1,'Egbema [egbe1246]':1,'Mbaise [mbai1248]':1,'Ngwa [ngwa1247]':1,'Nsa [nsaa1238]':1,'Nsuka [nsuk1238]':1,'Oguta [ogut1238]':1,'Ohuhu [ohuh1238]':1,'Oka {Nigeria} [okaa1243]':1,'Onitsha [onit1238]':1,'Orlu [orlu1238]':1,'Owerri [ower1238]':1,'Umuahia [umua1240]':1,'Unwana [unwa1238]':1)'Igbo [nucl1417][ibo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 17,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_igb",
+        "label": "Igbo"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Igbo_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nucl1417",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33578",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "475601",
+        "long_grammar",
+        2015,
+        672,
+        "Emenanjo, Nolue Emmanuel 2015"
+      ],
+      [
+        "50631",
+        "long_grammar",
+        1962,
+        512,
+        "Swift, Lloyd B. and A. Ahaghotu and E. Ugorji 1962"
+      ],
+      [
+        "39242",
+        "grammar",
+        1936,
+        215,
+        "Ward, Ida Caroline 1936"
+      ],
+      [
+        "123337",
+        "grammar",
+        1932,
+        206,
+        "Adams, R. F. G. 1932"
+      ],
+      [
+        "39833",
+        "grammar",
+        1916,
+        0,
+        "Spencer, Julius 1916"
+      ],
+      [
+        "113658",
+        "grammar",
+        1892,
+        0,
+        "Spencer, Julius 1892"
+      ],
+      [
+        "152577",
+        "grammar_sketch",
+        1861,
+        86,
+        "Schön, James Frederick 1861"
+      ],
+      [
+        "48592",
+        "wordlist_or_less",
+        1841,
+        15,
+        "Norris, Edwin 1841"
+      ],
+      [
+        "85000",
+        "wordlist_or_less",
+        1790,
+        0,
+        "Crow, Hugh [Capt.] 1790"
+      ],
+      [
+        "114999",
+        "wordlist_or_less",
+        1627,
+        0,
+        "Sandoval, P. Alonso de 1627"
+      ]
+    ]
+  },
+  "id": "nucl1417",
+  "name": "Igbo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.62705,
+  "longitude": 7.23441,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Igboid",
+      "id": "igbo1258",
+      "url": "https://glottolog.org/resource/languoid/id/igbo1258"
+    },
+    {
+      "name": "Nuclear Igboid",
+      "id": "igbo1259",
+      "url": "https://glottolog.org/resource/languoid/id/igbo1259"
+    }
+  ],
+  "iso639-3": "ibo"
+}

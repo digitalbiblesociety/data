@@ -1,0 +1,81 @@
+{
+  "pk": 10060,
+  "hid": "qxu",
+  "father_pk": 7230,
+  "family_pk": 321,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Antabamba {Arequipa-La Union Quechua} [anta1257]':1,'Cotahuasi [cota1243]':1,'Highland Arequipa [high1279]':1,'Northern Arequipa [nort2977]':1)'Arequipa-La Unión Quechua [areq1237][qxu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12953837",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "8019",
+        "grammar_sketch",
+        1998,
+        327,
+        "Courtney, Ellen Hazlehurst 1998"
+      ],
+      [
+        "149702",
+        "phonology_or_text",
+        1987,
+        115,
+        "Anonymous 1987"
+      ],
+      [
+        "110105",
+        "wordlist_or_less",
+        1976,
+        0,
+        "Adams, Stewart M. 1976"
+      ]
+    ]
+  },
+  "id": "areq1237",
+  "name": "Arequipa-La Unión Quechua",
+  "description": null,
+  "markup_description": null,
+  "latitude": -15.1806,
+  "longitude": -72.6333,
+  "classification": [
+    {
+      "name": "Quechuan",
+      "id": "quec1387",
+      "url": "https://glottolog.org/resource/languoid/id/quec1387"
+    },
+    {
+      "name": "Quechua II",
+      "id": "quec1388",
+      "url": "https://glottolog.org/resource/languoid/id/quec1388"
+    },
+    {
+      "name": "Chinchay",
+      "id": "chin1494",
+      "url": "https://glottolog.org/resource/languoid/id/chin1494"
+    },
+    {
+      "name": "Quechua IIC",
+      "id": "quec1389",
+      "url": "https://glottolog.org/resource/languoid/id/quec1389"
+    },
+    {
+      "name": "Ayacuchan Quechua",
+      "id": "ayac1238",
+      "url": "https://glottolog.org/resource/languoid/id/ayac1238"
+    }
+  ],
+  "iso639-3": "qxu"
+}

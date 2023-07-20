@@ -1,0 +1,102 @@
+{
+  "pk": 14681,
+  "hid": "cnl",
+  "father_pk": 11754,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Lalana Chinantec [lala1270][cnl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/9869",
+        "label": "Lower Southeastern Chinantec"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12953437",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "123617",
+        "phonology_or_text",
+        1982,
+        216,
+        "Mugele, Robert Louis 1982"
+      ],
+      [
+        "68911",
+        "phonology_or_text",
+        1968,
+        122,
+        "Rensch, Calvin Ross 1968"
+      ],
+      [
+        "94066",
+        "wordlist_or_less",
+        1966,
+        424,
+        "Rensch, Calvin R. 1966"
+      ],
+      [
+        "159823",
+        "wordlist_or_less",
+        1963,
+        10,
+        "Rensch, Calvin R. 1963"
+      ]
+    ]
+  },
+  "id": "lala1270",
+  "name": "Lalana Chinantec",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.58251,
+  "longitude": -96.00645,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Western Otomanguean",
+      "id": "west2783",
+      "url": "https://glottolog.org/resource/languoid/id/west2783"
+    },
+    {
+      "name": "Otopame-Chinantecan",
+      "id": "otop1241",
+      "url": "https://glottolog.org/resource/languoid/id/otop1241"
+    },
+    {
+      "name": "Chinantecan",
+      "id": "chin1484",
+      "url": "https://glottolog.org/resource/languoid/id/chin1484"
+    },
+    {
+      "name": "Central-Eastern Chinantec",
+      "id": "cent2365",
+      "url": "https://glottolog.org/resource/languoid/id/cent2365"
+    },
+    {
+      "name": "Southeastern Chinantec",
+      "id": "sout3333",
+      "url": "https://glottolog.org/resource/languoid/id/sout3333"
+    },
+    {
+      "name": "Chinantec Group IV",
+      "id": "chin1489",
+      "url": "https://glottolog.org/resource/languoid/id/chin1489"
+    }
+  ],
+  "iso639-3": "cnl"
+}

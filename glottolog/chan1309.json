@@ -1,0 +1,76 @@
+{
+  "pk": 13342,
+  "hid": "cna",
+  "father_pk": 10272,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Lalok [lalo1241]':1,'Nyoma Block [nyom1234]':1,'Upper Indus Changthang [uppe1470]':1)'Changthang [chan1309][cna]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12952322",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Changthang_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "159980",
+        "phonology_or_text",
+        2004,
+        57,
+        "Zeisler, Bettina 2004"
+      ]
+    ]
+  },
+  "id": "chan1309",
+  "name": "Changthang",
+  "description": null,
+  "markup_description": null,
+  "latitude": 34.0662,
+  "longitude": 78.2389,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "Bodish",
+      "id": "bodi1257",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1257"
+    },
+    {
+      "name": "Early Old Tibetan",
+      "id": "oldm1245",
+      "url": "https://glottolog.org/resource/languoid/id/oldm1245"
+    },
+    {
+      "name": "Western Archaic Tibetan",
+      "id": "lada1242",
+      "url": "https://glottolog.org/resource/languoid/id/lada1242"
+    },
+    {
+      "name": "Kenhatic",
+      "id": "kenh1234",
+      "url": "https://glottolog.org/resource/languoid/id/kenh1234"
+    }
+  ],
+  "iso639-3": "cna"
+}

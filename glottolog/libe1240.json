@@ -1,0 +1,88 @@
+{
+  "pk": 2815,
+  "hid": "lir",
+  "father_pk": 1329,
+  "family_pk": 260,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Pidgin",
+  "newick": "'Kru Pidgin English [libe1240][lir]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Liberian_Kreyol",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/libe1240",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6541128",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "552220",
+        "grammar_sketch",
+        2004,
+        19,
+        "John Victor Singler 2004"
+      ],
+      [
+        "142724",
+        "wordlist_or_less",
+        1972,
+        1,
+        "Massing, Andreas 1972"
+      ],
+      [
+        "52612",
+        "wordlist_or_less",
+        1971,
+        14,
+        "Jack Berry 1971"
+      ],
+      [
+        "112054",
+        "wordlist_or_less",
+        1928,
+        2,
+        "Hall, G. R. 1928"
+      ],
+      [
+        "53778",
+        "wordlist_or_less",
+        1920,
+        0,
+        "Maugham, Reginald Charles Fulke 1920"
+      ]
+    ]
+  },
+  "id": "libe1240",
+  "name": "Kru Pidgin English",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.423,
+  "longitude": -10.5284,
+  "classification": [
+    {
+      "name": "Pidgin",
+      "id": "pidg1258",
+      "url": "https://glottolog.org/resource/languoid/id/pidg1258"
+    },
+    {
+      "name": "English-based pidgin",
+      "id": "engl1287",
+      "url": "https://glottolog.org/resource/languoid/id/engl1287"
+    }
+  ],
+  "iso639-3": "lir"
+}

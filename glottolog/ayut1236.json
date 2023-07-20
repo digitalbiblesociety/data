@@ -1,0 +1,96 @@
+{
+  "pk": 14695,
+  "hid": "miy",
+  "father_pk": 11765,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ayutla Mixtec [ayut1236][miy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10535",
+        "label": "Southern Baja Mixtec"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q13583508",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ayutla_Mixtec",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mxt",
+        "label": "Mixtec (Ayutla)"
+      }
+    ],
+    "meds": [
+      [
+        "34958",
+        "grammar",
+        1990,
+        260,
+        "Hills, Robert A. 1990"
+      ],
+      [
+        "72572",
+        "phonology_or_text",
+        1967,
+        13,
+        "Pankraz, Leo and Eunice V. Pike 1967"
+      ]
+    ]
+  },
+  "id": "ayut1236",
+  "name": "Ayutla Mixtec",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.96667,
+  "longitude": -99.0967,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Amuzgo-Mixtecan",
+      "id": "amuz1253",
+      "url": "https://glottolog.org/resource/languoid/id/amuz1253"
+    },
+    {
+      "name": "Mixtecan",
+      "id": "mixt1422",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1422"
+    },
+    {
+      "name": "Mixtec-Cuicatec",
+      "id": "mixt1423",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1423"
+    },
+    {
+      "name": "Mixtec",
+      "id": "mixt1427",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1427"
+    },
+    {
+      "name": "Southern Baja Mixtec",
+      "id": "sout3179",
+      "url": "https://glottolog.org/resource/languoid/id/sout3179"
+    }
+  ],
+  "iso639-3": "miy"
+}

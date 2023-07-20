@@ -1,0 +1,66 @@
+{
+  "pk": 7700,
+  "hid": "moo",
+  "father_pk": 5334,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Monom [mono1268][moo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6901726",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Monom_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "581466",
+        "wordlist_or_less",
+        1959,
+        2,
+        "Richard L. Phillips 1959"
+      ]
+    ]
+  },
+  "id": "mono1268",
+  "name": "Monom",
+  "description": null,
+  "markup_description": null,
+  "latitude": 14.5948,
+  "longitude": 108.348,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Bahnaric",
+      "id": "bahn1264",
+      "url": "https://glottolog.org/resource/languoid/id/bahn1264"
+    },
+    {
+      "name": "North Bahnaric",
+      "id": "nort3150",
+      "url": "https://glottolog.org/resource/languoid/id/nort3150"
+    },
+    {
+      "name": "Hre-Sedang-Todrah-Monam",
+      "id": "hres1236",
+      "url": "https://glottolog.org/resource/languoid/id/hres1236"
+    }
+  ],
+  "iso639-3": "moo"
+}

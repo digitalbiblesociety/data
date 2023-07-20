@@ -1,0 +1,146 @@
+{
+  "pk": 24159,
+  "hid": "oci",
+  "father_pk": 22791,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Aranese [aran1260]':1,('Ariégeois [arie1239]':1,'Baish Aranés [bais1241]':1,'Béarnais [bear1240]':1,'Landais [land1254]':1,'Mijaranés Aranés [mija1240]':1,'Naut Aranés [naut1238]':1)'Nuclear Gascon [nucl1269]':1)'Gascon [gasc1240]':1,(('Bas-Auvergnat [basa1276]':1,'Haut-Auvergnat [haut1245]':1)'Auvergnat Occitan [auve1239]':1,('Bas-Limousin [basl1242]':1,'Haut-Limousin [haut1246]':1)'Limousin Occitan [limo1246]':1,'Vivaro-Alpine Occitan [viva1235]':1)'Northern Occitan [nort2608]':1,(('Bas-Languedocien [basl1241]':1,'Guyennais [guye1238]':1,'Haut-Languedocien [haut1244]':1,'Languedocien Moyen [lang1310]':1)'Languedocian Occitan [lang1309]':1,('Dauphinois [daup1248]':1,'Gavot [gavo1238]':1,'Maritime Provençal [mari1412]':1,'Niçard [nica1249]':1,'Rhodanien [rhod1240]':1,'Transalpin [tran1278]':1)'Provençal [prov1235]':1)'Southern Occitan [sout2612]':1)'Occitan [occi1239][oci]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 30,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_occ",
+        "label": "Occitan"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_pro",
+        "label": "Provençal"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Occitan_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/occi1239",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q14185",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "324128",
+        "long_grammar",
+        2014,
+        726,
+        "Quint, Nicolas 2014"
+      ],
+      [
+        "546919",
+        "long_grammar",
+        1976,
+        530,
+        "Loïs Alibèrt 1976"
+      ],
+      [
+        "551812",
+        "long_grammar",
+        1930,
+        481,
+        "Ronjat, Jules 1930"
+      ],
+      [
+        "304052",
+        "long_grammar",
+        1876,
+        400,
+        "Chabaneau, Camille 1876"
+      ],
+      [
+        "308122",
+        "phonology_or_text",
+        1824,
+        366,
+        "Béronie, Nicolas 1824"
+      ]
+    ]
+  },
+  "id": "occi1239",
+  "name": "Occitan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 44.1415,
+  "longitude": 6.82979,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Italic",
+      "id": "ital1284",
+      "url": "https://glottolog.org/resource/languoid/id/ital1284"
+    },
+    {
+      "name": "Latino-Faliscan",
+      "id": "lati1262",
+      "url": "https://glottolog.org/resource/languoid/id/lati1262"
+    },
+    {
+      "name": "Latinic",
+      "id": "lati1263",
+      "url": "https://glottolog.org/resource/languoid/id/lati1263"
+    },
+    {
+      "name": "Imperial Latin",
+      "id": "impe1234",
+      "url": "https://glottolog.org/resource/languoid/id/impe1234"
+    },
+    {
+      "name": "Romance",
+      "id": "roma1334",
+      "url": "https://glottolog.org/resource/languoid/id/roma1334"
+    },
+    {
+      "name": "Italo-Western Romance",
+      "id": "ital1285",
+      "url": "https://glottolog.org/resource/languoid/id/ital1285"
+    },
+    {
+      "name": "Western Romance",
+      "id": "west2813",
+      "url": "https://glottolog.org/resource/languoid/id/west2813"
+    },
+    {
+      "name": "Shifted Western Romance",
+      "id": "shif1234",
+      "url": "https://glottolog.org/resource/languoid/id/shif1234"
+    },
+    {
+      "name": "Southwestern Shifted Romance",
+      "id": "sout3183",
+      "url": "https://glottolog.org/resource/languoid/id/sout3183"
+    },
+    {
+      "name": "Occitanic",
+      "id": "occi1240",
+      "url": "https://glottolog.org/resource/languoid/id/occi1240"
+    }
+  ],
+  "iso639-3": "oci"
+}

@@ -1,0 +1,118 @@
+{
+  "pk": 8970,
+  "hid": "maq",
+  "father_pk": 6474,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Chiquihuitlán Mazatec [chiq1250][maq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4625",
+        "label": "Chiquihuitlán Mazatec"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mzc",
+        "label": "Mazatec (Chiquihuitlán)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Chiquihuitl%C3%A1n_Mazatec",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/chiq1250",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5101757",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "127639",
+        "grammar",
+        1988,
+        183,
+        "de Jamieson, Carole VandenHoek 1988"
+      ],
+      [
+        "151511",
+        "grammar_sketch",
+        1978,
+        151,
+        "Jamieson, Allan R. and Tejeda, Ernesto 1978"
+      ],
+      [
+        "82248",
+        "phonology_or_text",
+        1977,
+        30,
+        "Jamieson, Allan R. 1977"
+      ],
+      [
+        "124535",
+        "phonology_or_text",
+        1974,
+        7,
+        "Jamieson, Carole 1974"
+      ],
+      [
+        "92322",
+        "phonology_or_text",
+        1966,
+        11,
+        "Kirk, Paul Livingston 1966"
+      ],
+      [
+        "662210",
+        "wordlist_or_less",
+        1956,
+        4,
+        "Sarah C. Gudschinsky 1956"
+      ]
+    ]
+  },
+  "id": "chiq1250",
+  "name": "Chiquihuitlán Mazatec",
+  "description": null,
+  "markup_description": null,
+  "latitude": 18.0541,
+  "longitude": -96.6659,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Popoloca-Zapotecan",
+      "id": "popo1292",
+      "url": "https://glottolog.org/resource/languoid/id/popo1292"
+    },
+    {
+      "name": "Popolocan-Mazatecan",
+      "id": "popo1293",
+      "url": "https://glottolog.org/resource/languoid/id/popo1293"
+    },
+    {
+      "name": "Mazatecan",
+      "id": "maza1295",
+      "url": "https://glottolog.org/resource/languoid/id/maza1295"
+    }
+  ],
+  "iso639-3": "maq"
+}

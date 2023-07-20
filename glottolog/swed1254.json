@@ -1,0 +1,119 @@
+{
+  "pk": 16621,
+  "hid": "swe",
+  "father_pk": 14051,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Götamål [gota1234]':1,'Old Swedish [olds1252]':1,'Standard Swedish [stan1279]':1,'Sveamål [svea1239]':1)'Swedish [swed1254][swe]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_swe",
+        "label": "Swedish"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_swv",
+        "label": "Swedish (Västerbotten)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Swedish_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/swed1254",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q9027",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "474448",
+        "long_grammar",
+        1999,
+        1069,
+        "Ulf Teleman and Staffan Hellberg and Erik Andersson 1999"
+      ],
+      [
+        "162991",
+        "long_grammar",
+        1994,
+        637,
+        "Holmes, Philip and Hinchliffe, Ian 1994"
+      ],
+      [
+        "577930",
+        "grammar",
+        1696,
+        294,
+        "Nils Tiällman 1696"
+      ],
+      [
+        "632563",
+        "phonology_or_text",
+        1650,
+        96,
+        "Ludolf, Hiob 2017 [1650]"
+      ]
+    ]
+  },
+  "id": "swed1254",
+  "name": "Swedish",
+  "description": null,
+  "markup_description": null,
+  "latitude": 59.800634,
+  "longitude": 17.389526,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Germanic",
+      "id": "germ1287",
+      "url": "https://glottolog.org/resource/languoid/id/germ1287"
+    },
+    {
+      "name": "Northwest Germanic",
+      "id": "nort3152",
+      "url": "https://glottolog.org/resource/languoid/id/nort3152"
+    },
+    {
+      "name": "North Germanic",
+      "id": "nort3160",
+      "url": "https://glottolog.org/resource/languoid/id/nort3160"
+    },
+    {
+      "name": "North Scandinavian",
+      "id": "nort3266",
+      "url": "https://glottolog.org/resource/languoid/id/nort3266"
+    },
+    {
+      "name": "East-Central Swedic",
+      "id": "east2780",
+      "url": "https://glottolog.org/resource/languoid/id/east2780"
+    },
+    {
+      "name": "East Swedic",
+      "id": "east2781",
+      "url": "https://glottolog.org/resource/languoid/id/east2781"
+    }
+  ],
+  "iso639-3": "swe"
+}

@@ -1,0 +1,97 @@
+{
+  "pk": 11323,
+  "hid": "sos",
+  "father_pk": 8330,
+  "family_pk": 121,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Northern Seeku [nort2820]':1,'Southern Seeku [sout2841]':1)'Seeku [seek1238][sos]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q36274",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sembla_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "574850",
+        "long_grammar",
+        2020,
+        592,
+        "Laura McPherson 2020"
+      ],
+      [
+        "41853",
+        "grammar_sketch",
+        1971,
+        78,
+        "Prost, André 1971"
+      ],
+      [
+        "14050",
+        "wordlist_or_less",
+        1967,
+        3,
+        "Morse, Mary Lynn 1967"
+      ],
+      [
+        "304065",
+        "wordlist_or_less",
+        1953,
+        8,
+        "de Lavergne de Tressan, M. 1953"
+      ]
+    ]
+  },
+  "id": "seek1238",
+  "name": "Seeku",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.1285,
+  "longitude": -4.58203,
+  "classification": [
+    {
+      "name": "Mande",
+      "id": "mand1469",
+      "url": "https://glottolog.org/resource/languoid/id/mand1469"
+    },
+    {
+      "name": "Western Mande",
+      "id": "west2780",
+      "url": "https://glottolog.org/resource/languoid/id/west2780"
+    },
+    {
+      "name": "Northwestern Mande",
+      "id": "samo1308",
+      "url": "https://glottolog.org/resource/languoid/id/samo1308"
+    },
+    {
+      "name": "Duun-Bobo",
+      "id": "duun1243",
+      "url": "https://glottolog.org/resource/languoid/id/duun1243"
+    },
+    {
+      "name": "Duun-Jo",
+      "id": "duun1244",
+      "url": "https://glottolog.org/resource/languoid/id/duun1244"
+    },
+    {
+      "name": "Duun-Seenku",
+      "id": "samo1309",
+      "url": "https://glottolog.org/resource/languoid/id/samo1309"
+    }
+  ],
+  "iso639-3": "sos"
+}

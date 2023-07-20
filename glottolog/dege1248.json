@@ -1,0 +1,100 @@
+{
+  "pk": 8911,
+  "hid": "ing",
+  "father_pk": 6431,
+  "family_pk": 238,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Lower Yukon Ingalik [lowe1452]':1,'Middle Kuskokwim Ingalik [midd1368]':1)'Degexit''an [dege1248][ing]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2371",
+        "label": "Deg Xinag"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Deg_Xinag_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_dgx",
+        "label": "Degexit'an"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q27782",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "172691",
+        "phonology_or_text",
+        1978,
+        108,
+        "Kari, James 1978"
+      ],
+      [
+        "172659",
+        "phonology_or_text",
+        1911,
+        55,
+        "Chapman, John W 1911"
+      ],
+      [
+        "172633",
+        "phonology_or_text",
+        1900,
+        6,
+        "Perron, Joseph 1900"
+      ],
+      [
+        "172702",
+        "wordlist_or_less",
+        1847,
+        0,
+        "Zagoskin, Lavrenty Alekseevich 1847"
+      ]
+    ]
+  },
+  "id": "dege1248",
+  "name": "Degexit'an",
+  "description": null,
+  "markup_description": null,
+  "latitude": 62.0697,
+  "longitude": -160.044,
+  "classification": [
+    {
+      "name": "Athabaskan-Eyak-Tlingit",
+      "id": "atha1245",
+      "url": "https://glottolog.org/resource/languoid/id/atha1245"
+    },
+    {
+      "name": "Athabaskan-Eyak",
+      "id": "atha1246",
+      "url": "https://glottolog.org/resource/languoid/id/atha1246"
+    },
+    {
+      "name": "Athabaskan",
+      "id": "atha1247",
+      "url": "https://glottolog.org/resource/languoid/id/atha1247"
+    },
+    {
+      "name": "Central Alaska-Yukon Athabaskan",
+      "id": "cent2371",
+      "url": "https://glottolog.org/resource/languoid/id/cent2371"
+    },
+    {
+      "name": "Koyukonic",
+      "id": "koyu1238",
+      "url": "https://glottolog.org/resource/languoid/id/koyu1238"
+    }
+  ],
+  "iso639-3": "ing"
+}

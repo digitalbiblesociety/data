@@ -1,0 +1,108 @@
+{
+  "pk": 4411,
+  "hid": "tnc",
+  "father_pk": 2671,
+  "family_pk": 242,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Retuarã [retu1239]':1,'Tanimuca [tani1258]':1)'Tanimuca-Retuarã [tani1257][tnc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ret",
+        "label": "Retuarã"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/5155",
+        "label": "Tanimuca-Retuarã"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tanimuca-Retuar%C3%A3_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/tani1257",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36535",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "549901",
+        "long_grammar",
+        2015,
+        528,
+        "Eraso Keller, Natalia María 2015"
+      ],
+      [
+        "43895",
+        "grammar",
+        1992,
+        240,
+        "Clay Strom 1992"
+      ],
+      [
+        "108798",
+        "grammar_sketch",
+        1981,
+        387,
+        "Azcárate G., Luis José 1981"
+      ],
+      [
+        "307775",
+        "phonology_or_text",
+        1979,
+        97,
+        "Gaviria, Sofía Victoria and Azcárate, Luis José 1979"
+      ],
+      [
+        "70844",
+        "wordlist_or_less",
+        1964,
+        20,
+        "Hanke, Wanda 1964"
+      ],
+      [
+        "161469",
+        "wordlist_or_less",
+        1963,
+        1,
+        "Čestmír Loukotka 1963"
+      ]
+    ]
+  },
+  "id": "tani1257",
+  "name": "Tanimuca-Retuarã",
+  "description": null,
+  "markup_description": null,
+  "latitude": -0.59023,
+  "longitude": -70.3853,
+  "classification": [
+    {
+      "name": "Tucanoan",
+      "id": "tuca1253",
+      "url": "https://glottolog.org/resource/languoid/id/tuca1253"
+    },
+    {
+      "name": "Eastern Tucanoan",
+      "id": "east2698",
+      "url": "https://glottolog.org/resource/languoid/id/east2698"
+    },
+    {
+      "name": "South Eastern Tucanoan",
+      "id": "sout3144",
+      "url": "https://glottolog.org/resource/languoid/id/sout3144"
+    }
+  ],
+  "iso639-3": "tnc"
+}

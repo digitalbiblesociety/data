@@ -1,0 +1,90 @@
+{
+  "pk": 10704,
+  "hid": "uzs",
+  "father_pk": 7808,
+  "family_pk": 14,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Southern Uzbek [sout2699][uzs]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q1066787",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Southern_Uzbek_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "18811",
+        "grammar_sketch",
+        1983,
+        82,
+        "Boeschoten, Hendrik E. 1983"
+      ],
+      [
+        "556641",
+        "grammar_sketch",
+        1946,
+        38,
+        "Karl Menges 1946-1949"
+      ],
+      [
+        "555873",
+        "phonology_or_text",
+        1938,
+        251,
+        "Jarring, Gunnar 1938"
+      ]
+    ]
+  },
+  "id": "sout2699",
+  "name": "Southern Uzbek",
+  "description": null,
+  "markup_description": null,
+  "latitude": 36.6099,
+  "longitude": 60.6907,
+  "classification": [
+    {
+      "name": "Turkic",
+      "id": "turk1311",
+      "url": "https://glottolog.org/resource/languoid/id/turk1311"
+    },
+    {
+      "name": "Common Turkic",
+      "id": "comm1245",
+      "url": "https://glottolog.org/resource/languoid/id/comm1245"
+    },
+    {
+      "name": "Turkestan Turkic",
+      "id": "karl1243",
+      "url": "https://glottolog.org/resource/languoid/id/karl1243"
+    },
+    {
+      "name": "Uyghur-Uzbek",
+      "id": "uygh1241",
+      "url": "https://glottolog.org/resource/languoid/id/uygh1241"
+    },
+    {
+      "name": "Modern Uyghur-Uzbek",
+      "id": "uygh1240",
+      "url": "https://glottolog.org/resource/languoid/id/uygh1240"
+    },
+    {
+      "name": "Uzbek",
+      "id": "uzbe1247",
+      "url": "https://glottolog.org/resource/languoid/id/uzbe1247"
+    }
+  ],
+  "iso639-3": "uzs"
+}

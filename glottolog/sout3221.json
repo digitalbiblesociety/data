@@ -1,0 +1,62 @@
+{
+  "pk": 778,
+  "hid": "ccy",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Southern Zhuang [sout3221][ccy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "ccy",
+      "name": "Southern Zhuang",
+      "change_request": "2006-128",
+      "effective": "2007-07-18",
+      "reason": "split",
+      "change_to": [
+        "zhn",
+        "zyg",
+        "zyn",
+        "zzj",
+        "zhd"
+      ],
+      "remedy": "Split into five languages: Nong Zhuang [zhn]; Yang Zhuang [zyg]; Yongnan Zhuang [zyn]; Zuojiang Zhuang [zzj]; Dai Zhuang [zhd].",
+      "comment": "These five Southern Zhuang languages are not mutually intelligible with each\nother and have no common literature. They have been grouped into the same\nofficial nationality (Zhuang) since 1958 by the government (along with speakers\nof ccx, Northern Zhuang,\n\nand Buyang), but previously did not share a common ethnolinguistic identity.\nThere is no central variety or reference dialect for all five either (most\ncommonly some dialect of Chinese is used as lingua franca among speakers of\ndifferent Southern Zhuang langauges)."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12954012",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500681",
+        "wordlist_or_less",
+        2006,
+        0,
+        "ISO 639-3 Registration Authority 2006"
+      ]
+    ]
+  },
+  "id": "sout3221",
+  "name": "Southern Zhuang",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "ccy"
+}

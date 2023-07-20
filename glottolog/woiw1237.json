@@ -1,0 +1,95 @@
+{
+  "pk": 11444,
+  "hid": "wyi",
+  "father_pk": 8479,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Boonwurrung [boon1243]':1,'Daungwurrung [daun1234][dgw]':1,'Woiwurrung [woiw1238]':1)'Woiwurrung-Thagungwurrung [woiw1237][wyi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6734",
+        "label": "Woiwurrung"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_wwr",
+        "label": "Woiwurrung"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Woiwurrung%E2%80%93Daungwurrung_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/woiw1237",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q8029099",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "3994",
+        "grammar_sketch",
+        1878,
+        121,
+        "Smyth, Robert Brough 1878"
+      ],
+      [
+        "302462",
+        "grammar_sketch",
+        1858,
+        11,
+        "Thomas, William 1858"
+      ]
+    ]
+  },
+  "id": "woiw1237",
+  "name": "Woiwurrung-Thagungwurrung",
+  "description": null,
+  "markup_description": null,
+  "latitude": -37.64264501,
+  "longitude": 145.5879962,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Southeastern Pama-Nyungan",
+      "id": "sout3135",
+      "url": "https://glottolog.org/resource/languoid/id/sout3135"
+    },
+    {
+      "name": "Victorian Pama-Nyungan",
+      "id": "vict1234",
+      "url": "https://glottolog.org/resource/languoid/id/vict1234"
+    },
+    {
+      "name": "Kulin-Bunganditj",
+      "id": "kuli1256",
+      "url": "https://glottolog.org/resource/languoid/id/kuli1256"
+    },
+    {
+      "name": "Kulin",
+      "id": "kuli1251",
+      "url": "https://glottolog.org/resource/languoid/id/kuli1251"
+    },
+    {
+      "name": "Nuclear Kulin",
+      "id": "nucl1335",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1335"
+    }
+  ],
+  "iso639-3": "wyi"
+}

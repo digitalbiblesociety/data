@@ -1,0 +1,73 @@
+{
+  "pk": 3243,
+  "hid": "dek",
+  "father_pk": 1698,
+  "family_pk": 335,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Unattested",
+  "newick": "'Dek [dekk1240][dek]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "dek",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 lists Dek [dek] as an unmapped language of Cameroon.  It goes back to a name Dek on a map by\n**hh:he:Tessmann:Mbakka-Limba**, but no data has surfaced to assert it is/was a language of its own (**hh:hv:Elders:Kebi-Benue**)."
+    },
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q5252754",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dek_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "114627",
+        "wordlist_or_less",
+        1989,
+        3,
+        "Boyd, Raymond 1989"
+      ]
+    ]
+  },
+  "id": "dekk1240",
+  "name": "Dek",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.0183,
+  "longitude": 14.4833,
+  "classification": [
+    {
+      "name": "Unattested",
+      "id": "unat1236",
+      "url": "https://glottolog.org/resource/languoid/id/unat1236"
+    },
+    {
+      "name": "Atlantic-Congo (Unattested)",
+      "id": "atla1280",
+      "url": "https://glottolog.org/resource/languoid/id/atla1280"
+    }
+  ],
+  "iso639-3": "dek"
+}

@@ -1,0 +1,89 @@
+{
+  "pk": 9018,
+  "hid": "dil",
+  "father_pk": 6523,
+  "family_pk": 274,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Debri [debr1242]':1,'Nuclear Dilling [nucl1344]':1)'Dilling [dill1242][dil]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4082",
+        "label": "Dilling"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35152",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dilling_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "39593",
+        "long_grammar",
+        1920,
+        370,
+        "Kauczor, Daniel 1920"
+      ],
+      [
+        "87044",
+        "wordlist_or_less",
+        1917,
+        4,
+        "Meinhof, Carl 1917-1918"
+      ],
+      [
+        "137392",
+        "wordlist_or_less",
+        1829,
+        1,
+        "Rüppell, Edward 1829"
+      ]
+    ]
+  },
+  "id": "dill1242",
+  "name": "Dilling",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.0347,
+  "longitude": 29.6056,
+  "classification": [
+    {
+      "name": "Nubian",
+      "id": "nubi1251",
+      "url": "https://glottolog.org/resource/languoid/id/nubi1251"
+    },
+    {
+      "name": "West-Central Nubian",
+      "id": "west2781",
+      "url": "https://glottolog.org/resource/languoid/id/west2781"
+    },
+    {
+      "name": "Central Nubian",
+      "id": "cent2232",
+      "url": "https://glottolog.org/resource/languoid/id/cent2232"
+    },
+    {
+      "name": "Kordofan Nubian",
+      "id": "kord1246",
+      "url": "https://glottolog.org/resource/languoid/id/kord1246"
+    },
+    {
+      "name": "Western Kordofan Nubian",
+      "id": "west2807",
+      "url": "https://glottolog.org/resource/languoid/id/west2807"
+    }
+  ],
+  "iso639-3": "dil"
+}

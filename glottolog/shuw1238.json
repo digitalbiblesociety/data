@@ -1,0 +1,68 @@
+{
+  "pk": 3246,
+  "hid": "ksa",
+  "father_pk": 1698,
+  "family_pk": 335,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Unattested",
+  "newick": "'Shuwa-Zamani [shuw1238][ksa]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "ksa",
+      "name": "Shuwa-Zamani",
+      "change_request": "2022-024",
+      "effective": "2023-01-20",
+      "reason": "split",
+      "change_to": [
+        "rsw",
+        "izm"
+      ],
+      "remedy": "Split into [rsw] Rishiwa and [izm] Kizamani",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3913929",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Shuwa-Zamani_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "666863",
+        "wordlist_or_less",
+        2022,
+        0,
+        "ISO 639-3 Registration Authority 2022"
+      ]
+    ]
+  },
+  "id": "shuw1238",
+  "name": "Shuwa-Zamani",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.25,
+  "longitude": 14,
+  "classification": [
+    {
+      "name": "Unattested",
+      "id": "unat1236",
+      "url": "https://glottolog.org/resource/languoid/id/unat1236"
+    },
+    {
+      "name": "Atlantic-Congo (Unattested)",
+      "id": "atla1280",
+      "url": "https://glottolog.org/resource/languoid/id/atla1280"
+    }
+  ],
+  "iso639-3": "ksa"
+}

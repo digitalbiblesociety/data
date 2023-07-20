@@ -1,0 +1,89 @@
+{
+  "pk": 8356,
+  "hid": "nec",
+  "father_pk": 5850,
+  "family_pk": 125,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Nedebang [nede1245][nec]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/9409",
+        "label": "Nedebang"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q4925378",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nedebang_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "581752",
+        "grammar_sketch",
+        2020,
+        86,
+        "Schapper, Antoinette 2020"
+      ],
+      [
+        "662927",
+        "grammar_sketch",
+        2004,
+        0,
+        "Holton, Gary 2004"
+      ],
+      [
+        "161717",
+        "wordlist_or_less",
+        1975,
+        1,
+        "W. A. L. Stokhof 1975"
+      ]
+    ]
+  },
+  "id": "nede1245",
+  "name": "Nedebang",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.28776,
+  "longitude": 124.192,
+  "classification": [
+    {
+      "name": "Timor-Alor-Pantar",
+      "id": "timo1261",
+      "url": "https://glottolog.org/resource/languoid/id/timo1261"
+    },
+    {
+      "name": "Alor-Pantar",
+      "id": "alor1249",
+      "url": "https://glottolog.org/resource/languoid/id/alor1249"
+    },
+    {
+      "name": "Nuclear Alor-Pantar",
+      "id": "nucl1821",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1821"
+    },
+    {
+      "name": "West Alor-Straits-Pantar",
+      "id": "west2994",
+      "url": "https://glottolog.org/resource/languoid/id/west2994"
+    },
+    {
+      "name": "Pantar",
+      "id": "pant1258",
+      "url": "https://glottolog.org/resource/languoid/id/pant1258"
+    }
+  ],
+  "iso639-3": "nec"
+}

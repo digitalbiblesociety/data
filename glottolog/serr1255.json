@@ -1,0 +1,99 @@
+{
+  "pk": 6124,
+  "hid": "ser",
+  "father_pk": 4115,
+  "family_pk": 155,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kitanemuk [kita1252]':1,'Nuclear Serrano [nucl1789]':1,'Vanyume [vany1234]':1)'Serrano [serr1255][ser]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1518",
+        "label": "Serrano"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3479942",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Serrano_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/serr1255",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_srr",
+        "label": "Serrano"
+      }
+    ],
+    "meds": [
+      [
+        "89039",
+        "long_grammar",
+        1988,
+        726,
+        "Anderton, Alice Jean 1988"
+      ],
+      [
+        "70347",
+        "grammar",
+        1967,
+        291,
+        "Hill, Kenneth C. 1967"
+      ],
+      [
+        "568917",
+        "grammar_sketch",
+        1924,
+        27,
+        "Benedict , R. F. 1924"
+      ],
+      [
+        "156492",
+        "wordlist_or_less",
+        1907,
+        4,
+        "Kroeber, Alfred L. 1907"
+      ]
+    ]
+  },
+  "id": "serr1255",
+  "name": "Serrano",
+  "description": null,
+  "markup_description": null,
+  "latitude": 33.9479,
+  "longitude": -116.772,
+  "classification": [
+    {
+      "name": "Uto-Aztecan",
+      "id": "utoa1244",
+      "url": "https://glottolog.org/resource/languoid/id/utoa1244"
+    },
+    {
+      "name": "Northern Uto-Aztecan",
+      "id": "nort2953",
+      "url": "https://glottolog.org/resource/languoid/id/nort2953"
+    },
+    {
+      "name": "Californian Uto-Aztecan",
+      "id": "cali1246",
+      "url": "https://glottolog.org/resource/languoid/id/cali1246"
+    },
+    {
+      "name": "Serran",
+      "id": "serr1254",
+      "url": "https://glottolog.org/resource/languoid/id/serr1254"
+    }
+  ],
+  "iso639-3": "ser"
+}

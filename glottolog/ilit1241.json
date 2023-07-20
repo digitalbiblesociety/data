@@ -1,0 +1,87 @@
+{
+  "pk": 10706,
+  "hid": "ili",
+  "father_pk": 7809,
+  "family_pk": 14,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ili Turki [ilit1241][ili]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3429",
+        "label": "Ili Turki"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ili_Turki_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33627",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "21694",
+        "grammar_sketch",
+        1989,
+        25,
+        "Zhào, Xiāngrú and Reinhard F. Hahn 1989"
+      ],
+      [
+        "590204",
+        "phonology_or_text",
+        1985,
+        10,
+        "Zhào, Xiāngrú and Āxīmù, {} 1985"
+      ]
+    ]
+  },
+  "id": "ilit1241",
+  "name": "Ili Turki",
+  "description": null,
+  "markup_description": null,
+  "latitude": 44.0089,
+  "longitude": 80.4957,
+  "classification": [
+    {
+      "name": "Turkic",
+      "id": "turk1311",
+      "url": "https://glottolog.org/resource/languoid/id/turk1311"
+    },
+    {
+      "name": "Common Turkic",
+      "id": "comm1245",
+      "url": "https://glottolog.org/resource/languoid/id/comm1245"
+    },
+    {
+      "name": "Turkestan Turkic",
+      "id": "karl1243",
+      "url": "https://glottolog.org/resource/languoid/id/karl1243"
+    },
+    {
+      "name": "Uyghur-Uzbek",
+      "id": "uygh1241",
+      "url": "https://glottolog.org/resource/languoid/id/uygh1241"
+    },
+    {
+      "name": "Modern Uyghur-Uzbek",
+      "id": "uygh1240",
+      "url": "https://glottolog.org/resource/languoid/id/uygh1240"
+    },
+    {
+      "name": "Uighur-Ili",
+      "id": "uigh1243",
+      "url": "https://glottolog.org/resource/languoid/id/uigh1243"
+    }
+  ],
+  "iso639-3": "ili"
+}

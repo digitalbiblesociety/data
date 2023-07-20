@@ -1,0 +1,82 @@
+{
+  "pk": 9947,
+  "hid": "res",
+  "father_pk": 7170,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Reshe [resh1242][res]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2825",
+        "label": "Reshe"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36258",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Reshe_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "572333",
+        "grammar_sketch",
+        1930,
+        42,
+        "Harris, P. G. 1930"
+      ],
+      [
+        "308259",
+        "wordlist_or_less",
+        1922,
+        7,
+        "Temple, C. L. 1922"
+      ]
+    ]
+  },
+  "id": "resh1242",
+  "name": "Reshe",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.77046,
+  "longitude": 4.62395,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Kainji",
+      "id": "kain1275",
+      "url": "https://glottolog.org/resource/languoid/id/kain1275"
+    },
+    {
+      "name": "Kainji Lake",
+      "id": "kain1276",
+      "url": "https://glottolog.org/resource/languoid/id/kain1276"
+    }
+  ],
+  "iso639-3": "res"
+}

@@ -1,0 +1,102 @@
+{
+  "pk": 13937,
+  "hid": "lrl",
+  "father_pk": 10866,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bastak [bast1244]':1,'Bixa [bikh1237]':1,'Evaz [evaz1237]':1,'Gerash [gera1240]':1,'Lari [nucl1274]':1,'Xonj [khon1246]':1)'Larestani [lari1253][lrl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4531",
+        "label": "Lari"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33468",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "573443",
+        "grammar_sketch",
+        2000,
+        300,
+        "Khonji, Loṭf-ʿAli 1379 [2000]"
+      ],
+      [
+        "318478",
+        "grammar_sketch",
+        1955,
+        167,
+        "Ahmad Eqtedārī 1334 [1955]"
+      ],
+      [
+        "320221",
+        "grammar_sketch",
+        1945,
+        56,
+        "Romaškevič, A. A. 1945"
+      ],
+      [
+        "32407",
+        "grammar_sketch",
+        1909,
+        8,
+        "Oskar Mann 1909"
+      ]
+    ]
+  },
+  "id": "lari1253",
+  "name": "Larestani",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.6436,
+  "longitude": 54.63449,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Iranian",
+      "id": "iran1269",
+      "url": "https://glottolog.org/resource/languoid/id/iran1269"
+    },
+    {
+      "name": "Southwestern Iranian",
+      "id": "sout3157",
+      "url": "https://glottolog.org/resource/languoid/id/sout3157"
+    },
+    {
+      "name": "Middle-Modern Persian",
+      "id": "midd1352",
+      "url": "https://glottolog.org/resource/languoid/id/midd1352"
+    },
+    {
+      "name": "Modern Southwestern Iranian",
+      "id": "mode1259",
+      "url": "https://glottolog.org/resource/languoid/id/mode1259"
+    }
+  ],
+  "iso639-3": "lrl"
+}

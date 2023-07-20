@@ -1,0 +1,109 @@
+{
+  "pk": 19248,
+  "hid": "zat",
+  "father_pk": 17183,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tabaa Zapotec [taba1268][zat]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/9069",
+        "label": "Cajonos Zapotec"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Taba%C3%A1_Zapotec",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7672849",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "611900",
+        "grammar_sketch",
+        2011,
+        117,
+        "Earl, Robert 2011"
+      ],
+      [
+        "128542",
+        "wordlist_or_less",
+        1986,
+        1,
+        "Marlett, Stephen A. and Pickett, Velma B. 1986"
+      ],
+      [
+        "568785",
+        "wordlist_or_less",
+        1916,
+        3,
+        "Wilhelm Bauer-Thoma 1916"
+      ]
+    ]
+  },
+  "id": "taba1268",
+  "name": "Tabaa Zapotec",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.2822,
+  "longitude": -96.2777,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Popoloca-Zapotecan",
+      "id": "popo1292",
+      "url": "https://glottolog.org/resource/languoid/id/popo1292"
+    },
+    {
+      "name": "Zapotecan",
+      "id": "zapo1436",
+      "url": "https://glottolog.org/resource/languoid/id/zapo1436"
+    },
+    {
+      "name": "Zapotec",
+      "id": "zapo1437",
+      "url": "https://glottolog.org/resource/languoid/id/zapo1437"
+    },
+    {
+      "name": "Core Zapotec",
+      "id": "nucl1765",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1765"
+    },
+    {
+      "name": "Narrow Core Zapotec",
+      "id": "core1259",
+      "url": "https://glottolog.org/resource/languoid/id/core1259"
+    },
+    {
+      "name": "Northern Core Zapotec",
+      "id": "nort2987",
+      "url": "https://glottolog.org/resource/languoid/id/nort2987"
+    },
+    {
+      "name": "Cajonosic",
+      "id": "cajo1239",
+      "url": "https://glottolog.org/resource/languoid/id/cajo1239"
+    }
+  ],
+  "iso639-3": "zat"
+}

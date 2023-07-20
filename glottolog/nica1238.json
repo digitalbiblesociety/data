@@ -1,0 +1,60 @@
+{
+  "pk": 2515,
+  "hid": "ncs",
+  "father_pk": 1197,
+  "family_pk": 206,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Sign Language",
+  "newick": "'Nicaraguan Sign Language [nica1238][ncs]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/7112",
+        "label": "Nicaraguan Sign Language"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33765",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nicaraguan_Sign_Language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "322119",
+        "phonology_or_text",
+        1997,
+        244,
+        "López Gómez, Juan Javier and Pérez Castellón, Adrián M. and Rivera Rostrán, Johana M. and Baltodano Baltodano, Jimmy F. 1997"
+      ]
+    ]
+  },
+  "id": "nica1238",
+  "name": "Nicaraguan Sign Language",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.2509,
+  "longitude": -86.3399,
+  "classification": [
+    {
+      "name": "Sign Language",
+      "id": "sign1238",
+      "url": "https://glottolog.org/resource/languoid/id/sign1238"
+    },
+    {
+      "name": "Deaf Sign Language",
+      "id": "deaf1237",
+      "url": "https://glottolog.org/resource/languoid/id/deaf1237"
+    }
+  ],
+  "iso639-3": "ncs"
+}

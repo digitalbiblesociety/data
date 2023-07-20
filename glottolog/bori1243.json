@@ -1,0 +1,102 @@
+{
+  "pk": 7285,
+  "hid": "adi",
+  "father_pk": 4945,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bori {India} [bori1245]':1,'Karko {India} [kark1255]':1,'Komkar [komk1238]':1,'Pasi {India} [pasi1253]':1,'Shimong [shim1250]':1)'Bori-Karko [bori1243][adi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1130",
+        "label": "Adi"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_boj",
+        "label": "Bori"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Adi_languages",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56440",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "29964",
+        "grammar",
+        2005,
+        155,
+        "Lalrempuii, C. 2005"
+      ],
+      [
+        "86841",
+        "grammar",
+        1991,
+        142,
+        "Prasad, Bal Ram and Devi Prasada Sastry, G. and Abraham, P. T. 1991"
+      ],
+      [
+        "143817",
+        "grammar",
+        1985,
+        121,
+        "Ouyang, Jueya 1985"
+      ],
+      [
+        "106752",
+        "grammar_sketch",
+        1949,
+        0,
+        "Barooah, Gangadhar Roy 1949"
+      ],
+      [
+        "570777",
+        "wordlist_or_less",
+        1915,
+        0,
+        "Duff-Sutherland-Dunbar, G. 1915"
+      ]
+    ]
+  },
+  "id": "bori1243",
+  "name": "Bori-Karko",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.62812,
+  "longitude": 94.3538,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Macro-Tani",
+      "id": "macr1268",
+      "url": "https://glottolog.org/resource/languoid/id/macr1268"
+    },
+    {
+      "name": "Tani",
+      "id": "tani1259",
+      "url": "https://glottolog.org/resource/languoid/id/tani1259"
+    },
+    {
+      "name": "Eastern Tani",
+      "id": "east2361",
+      "url": "https://glottolog.org/resource/languoid/id/east2361"
+    }
+  ],
+  "iso639-3": "adi"
+}

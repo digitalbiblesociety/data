@@ -1,0 +1,122 @@
+{
+  "pk": 20934,
+  "hid": "bar",
+  "father_pk": 18902,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "((('Lower Austria-Vienna Bavarian [vien1238]':1,('Hausruckviertel [haus1259]':1,'Transylvanian Landler [land1263]':1)'Upper Austria Bavarian [uppe1398]':1)'East Central Bavarian [east2868]':1,'West Central Bavarian [west2966]':1)'Central Bavarian [cent1967]':1,'North Bavarian [nort2634]':1,('Carinthian Bavarian [cari1287]':1,'Gottscheerisch [gott1234]':1,'Tyrol Bavarian [tyro1234]':1)'South Bavarian [sout2632]':1)'Bavarian [bava1246][bar]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 12,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_gba",
+        "label": "German (Bavarian)"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_gau",
+        "label": "German (Upper Austrian)"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_gvi",
+        "label": "German (Viennese)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bavarian_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q29540",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "318044",
+        "long_grammar",
+        1899,
+        641,
+        "Schiepek, J. 1899, 1908"
+      ],
+      [
+        "552882",
+        "long_grammar",
+        1867,
+        408,
+        "Karl Weinhold 1867"
+      ],
+      [
+        "317676",
+        "grammar_sketch",
+        1821,
+        638,
+        "Schmeller, Johann A. 1821"
+      ]
+    ]
+  },
+  "id": "bava1246",
+  "name": "Bavarian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 47.9232,
+  "longitude": 13.246,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Germanic",
+      "id": "germ1287",
+      "url": "https://glottolog.org/resource/languoid/id/germ1287"
+    },
+    {
+      "name": "Northwest Germanic",
+      "id": "nort3152",
+      "url": "https://glottolog.org/resource/languoid/id/nort3152"
+    },
+    {
+      "name": "West Germanic",
+      "id": "west2793",
+      "url": "https://glottolog.org/resource/languoid/id/west2793"
+    },
+    {
+      "name": "High German",
+      "id": "high1289",
+      "url": "https://glottolog.org/resource/languoid/id/high1289"
+    },
+    {
+      "name": "Upper German",
+      "id": "high1286",
+      "url": "https://glottolog.org/resource/languoid/id/high1286"
+    },
+    {
+      "name": "Middle-Modern High German",
+      "id": "midd1349",
+      "url": "https://glottolog.org/resource/languoid/id/midd1349"
+    },
+    {
+      "name": "Modern High German",
+      "id": "mode1258",
+      "url": "https://glottolog.org/resource/languoid/id/mode1258"
+    },
+    {
+      "name": "Bairisch",
+      "id": "baye1239",
+      "url": "https://glottolog.org/resource/languoid/id/baye1239"
+    }
+  ],
+  "iso639-3": "bar"
+}

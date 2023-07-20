@@ -1,0 +1,158 @@
+{
+  "pk": 25055,
+  "hid": "spa",
+  "father_pk": 24163,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Adaeseño Spanish [adae1234]':1,'Andalusian [anda1279]':1,('Brule Spanish [brul1240]':1,'Canary Islands Spanish [cana1269]':1,'Isleño Spanish of St. Bernard Parish [loui1241]':1)'Canaric Spanish [cana1258]':1,'Castilian [cast1244]':1,('Andean Spanish [ande1249]':1,('Afro-Bolivian Spanish [afro1260]':1,'Andean Bolivian Spanish [ande1250]':1,'Camba Spanish [camb1246]':1,'Chapaco Spanish [chap1272]':1,'Valluno Spanish [vall1258]':1)'Bolivian Spanish [boli1265]':1,('Cuban Spanish [cuba1237]':1,'Dominican Spanish [domi1242]':1,'Puerto Rican Spanish [puer1238]':1)'Caribbean Spanish [cari1288]':1,'Central American Spanish [cent2388]':1,'Chilean Spanish [chil1286]':1,('Abajeño Mexican Spanish [abaj1234]':1,'Central Mexican Spanish [cent2389]':1,'Coastal Mexican Spanish [coas1329]':1,'Northeastern Mexican Spanish [nort3383]':1,'Northern Peninsular Mexican Spanish [nort3385]':1,'Northwestern Mexican Spanish [nort3384]':1,'Southern Mexican Spanish [sout3359]':1,'Western Mexican Spanish [west2971]':1,'Yucatecan Spanish [yuca1256]':1)'Mexican Spanish [mexi1248]':1,'New Mexican Spanish [newm1235]':1,'Rioplatense Spanish [riop1234]':1,'Venezuelan Spanish [vene1262]':1)'Latin American Spanish [amer1254]':1,'Modern Castilian of Aragon [arag1246]':1,'Murcian [murc1238]':1,'Navarrese [nava1242]':1,'Spanish of Equatorial Guinea [span1270]':1)'Spanish [stan1288][spa]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 38,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_spa",
+        "label": "Spanish"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_spc",
+        "label": "Spanish (Canary Islands)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Spanish_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/stan1288",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q1321",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "666839",
+        "long_grammar",
+        2011,
+        4808,
+        "{Real Academia Española} 2011"
+      ],
+      [
+        "114417",
+        "long_grammar",
+        2000,
+        584,
+        "Butt, John 2000"
+      ],
+      [
+        "154786",
+        "long_grammar",
+        1966,
+        548,
+        "Rodolfo Oroz 1966"
+      ],
+      [
+        "307703",
+        "long_grammar",
+        1847,
+        329,
+        "Andres Bello 1847"
+      ],
+      [
+        "156249",
+        "grammar",
+        1684,
+        174,
+        "Valdivia, Luis de 1684"
+      ],
+      [
+        "581268",
+        "grammar_sketch",
+        1492,
+        147,
+        "Antonio de Nebrija 1492"
+      ]
+    ]
+  },
+  "id": "stan1288",
+  "name": "Spanish",
+  "description": null,
+  "markup_description": null,
+  "latitude": 40.4414,
+  "longitude": -1.11788,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Italic",
+      "id": "ital1284",
+      "url": "https://glottolog.org/resource/languoid/id/ital1284"
+    },
+    {
+      "name": "Latino-Faliscan",
+      "id": "lati1262",
+      "url": "https://glottolog.org/resource/languoid/id/lati1262"
+    },
+    {
+      "name": "Latinic",
+      "id": "lati1263",
+      "url": "https://glottolog.org/resource/languoid/id/lati1263"
+    },
+    {
+      "name": "Imperial Latin",
+      "id": "impe1234",
+      "url": "https://glottolog.org/resource/languoid/id/impe1234"
+    },
+    {
+      "name": "Romance",
+      "id": "roma1334",
+      "url": "https://glottolog.org/resource/languoid/id/roma1334"
+    },
+    {
+      "name": "Italo-Western Romance",
+      "id": "ital1285",
+      "url": "https://glottolog.org/resource/languoid/id/ital1285"
+    },
+    {
+      "name": "Western Romance",
+      "id": "west2813",
+      "url": "https://glottolog.org/resource/languoid/id/west2813"
+    },
+    {
+      "name": "Shifted Western Romance",
+      "id": "shif1234",
+      "url": "https://glottolog.org/resource/languoid/id/shif1234"
+    },
+    {
+      "name": "Southwestern Shifted Romance",
+      "id": "sout3183",
+      "url": "https://glottolog.org/resource/languoid/id/sout3183"
+    },
+    {
+      "name": "West Ibero-Romance",
+      "id": "west2838",
+      "url": "https://glottolog.org/resource/languoid/id/west2838"
+    },
+    {
+      "name": "Castilic",
+      "id": "cast1243",
+      "url": "https://glottolog.org/resource/languoid/id/cast1243"
+    }
+  ],
+  "iso639-3": "spa"
+}

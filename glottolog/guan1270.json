@@ -1,0 +1,87 @@
+{
+  "pk": 6277,
+  "hid": "gqn",
+  "father_pk": 4229,
+  "family_pk": 177,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "'Kinikinao [guan1270][gqn]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "gqn",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "The southern Arawakan Guana (Brazil) [gqn] is listed in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 as a separate language. But the examination by **hh:v:deCarvalho:Terena** shows that it can be subsumed as Tereno [ter] on purely linguistic grounds. See also: Terena-Kinikinao-Chane [ter]."
+    },
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/509",
+        "label": "Guana (Brazil)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q53386731",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/guan1270",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "104446",
+        "wordlist_or_less",
+        1972,
+        0,
+        "na 1972"
+      ]
+    ]
+  },
+  "id": "guan1270",
+  "name": "Kinikinao",
+  "description": null,
+  "markup_description": null,
+  "latitude": -19.1667,
+  "longitude": -54.0333,
+  "classification": [
+    {
+      "name": "Arawakan",
+      "id": "araw1281",
+      "url": "https://glottolog.org/resource/languoid/id/araw1281"
+    },
+    {
+      "name": "Southern Maipuran",
+      "id": "sout3131",
+      "url": "https://glottolog.org/resource/languoid/id/sout3131"
+    },
+    {
+      "name": "Bolivian Arawakan",
+      "id": "boli1260",
+      "url": "https://glottolog.org/resource/languoid/id/boli1260"
+    },
+    {
+      "name": "Terena-Kinikinao-Chane",
+      "id": "tere1279",
+      "url": "https://glottolog.org/resource/languoid/id/tere1279"
+    }
+  ],
+  "iso639-3": "gqn"
+}

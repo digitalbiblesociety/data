@@ -1,0 +1,73 @@
+{
+  "pk": 6769,
+  "hid": "lrn",
+  "father_pk": 4612,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Lorang [lora1237][lrn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6678781",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lorang_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "660967",
+        "wordlist_or_less",
+        2022,
+        4,
+        "Erniati, {} and Mujahid Taha and Fida Febriningsih and Dendi Wijaya and Jusmianti Garing 2022"
+      ],
+      [
+        "109488",
+        "wordlist_or_less",
+        1987,
+        3,
+        "Jock Hughes 1987"
+      ]
+    ]
+  },
+  "id": "lora1237",
+  "name": "Lorang",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.30338,
+  "longitude": 134.41,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Aru",
+      "id": "aruu1241",
+      "url": "https://glottolog.org/resource/languoid/id/aruu1241"
+    },
+    {
+      "name": "Central Aru",
+      "id": "cent2309",
+      "url": "https://glottolog.org/resource/languoid/id/cent2309"
+    }
+  ],
+  "iso639-3": "lrn"
+}

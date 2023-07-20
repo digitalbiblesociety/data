@@ -1,0 +1,108 @@
+{
+  "pk": 17914,
+  "hid": "lee",
+  "father_pk": 15501,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Lyélé [cent2025]':1,'Kandéré [kand1294]':1,'Northern Lyélé [nort2783]':1,'Southern Lyélé [sout2794]':1)'Lyélé [lyel1241][lee]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_lye",
+        "label": "Lyele"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ly%C3%A9l%C3%A9_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/lyel1241",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3089032",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "142297",
+        "grammar_sketch",
+        1953,
+        122,
+        "Bon, Gilbert 1953"
+      ],
+      [
+        "147213",
+        "phonology_or_text",
+        1951,
+        10,
+        "Nicolas, François-Joseph 1951/52"
+      ],
+      [
+        "66963",
+        "wordlist_or_less",
+        1889,
+        2,
+        "Christaller, J. G. 1889-1890"
+      ]
+    ]
+  },
+  "id": "lyel1241",
+  "name": "Lyélé",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.4305,
+  "longitude": -2.59229,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "North Volta-Congo",
+      "id": "nort3149",
+      "url": "https://glottolog.org/resource/languoid/id/nort3149"
+    },
+    {
+      "name": "Gur",
+      "id": "gura1261",
+      "url": "https://glottolog.org/resource/languoid/id/gura1261"
+    },
+    {
+      "name": "Central Gur",
+      "id": "cent2243",
+      "url": "https://glottolog.org/resource/languoid/id/cent2243"
+    },
+    {
+      "name": "Southern Central Gur",
+      "id": "sout3164",
+      "url": "https://glottolog.org/resource/languoid/id/sout3164"
+    },
+    {
+      "name": "Grusi",
+      "id": "grus1239",
+      "url": "https://glottolog.org/resource/languoid/id/grus1239"
+    },
+    {
+      "name": "Northern Grusi",
+      "id": "nort2782",
+      "url": "https://glottolog.org/resource/languoid/id/nort2782"
+    }
+  ],
+  "iso639-3": "lee"
+}

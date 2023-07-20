@@ -1,0 +1,88 @@
+{
+  "pk": 14935,
+  "hid": "sjb",
+  "father_pk": 12064,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Latti [latt1234]':1,'Punan Basap [puna1273]':1,'Punan Batu 2 [puna1272]':1,'Punan Sajau [puna1271]':1)'Sajau-Latti [saja1241][sjb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q4684353",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sajau_Basap_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "118053",
+        "wordlist_or_less",
+        1982,
+        11,
+        "Hildebrand, Hartmut K. 1982"
+      ],
+      [
+        "163694",
+        "wordlist_or_less",
+        1916,
+        9,
+        "L. Rutten 1916"
+      ]
+    ]
+  },
+  "id": "saja1241",
+  "name": "Sajau-Latti",
+  "description": null,
+  "markup_description": null,
+  "latitude": 2.43432,
+  "longitude": 117.401,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "North Borneo Malayo-Polynesian",
+      "id": "nort3253",
+      "url": "https://glottolog.org/resource/languoid/id/nort3253"
+    },
+    {
+      "name": "Central Sarawak",
+      "id": "sara1342",
+      "url": "https://glottolog.org/resource/languoid/id/sara1342"
+    },
+    {
+      "name": "Punan-Muller-Schwaner",
+      "id": "puna1279",
+      "url": "https://glottolog.org/resource/languoid/id/puna1279"
+    },
+    {
+      "name": "Punan",
+      "id": "puna1280",
+      "url": "https://glottolog.org/resource/languoid/id/puna1280"
+    },
+    {
+      "name": "Punan Tubu-Bah",
+      "id": "puna1281",
+      "url": "https://glottolog.org/resource/languoid/id/puna1281"
+    }
+  ],
+  "iso639-3": "sjb"
+}

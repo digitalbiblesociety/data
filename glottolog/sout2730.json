@@ -1,0 +1,76 @@
+{
+  "pk": 7331,
+  "hid": "bfs",
+  "father_pk": 5005,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Qiliqiao [qili1234]':1,'Zhoucheng [zhou1234]':1)'Dali [dali1242]':1,'Xiangyun [xian1250]':1)'Southern Bai [sout2730][bfs]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12952250",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "548255",
+        "grammar",
+        2012,
+        9,
+        "Zhào, Yànzhēn and Dai, Qingxia 2012"
+      ],
+      [
+        "557978",
+        "grammar",
+        2009,
+        0,
+        "Zhào, Yànzhēn 2009"
+      ],
+      [
+        "55001",
+        "grammar_sketch",
+        1941,
+        140,
+        "Fitzgerald, Charles Patrick 1941"
+      ]
+    ]
+  },
+  "id": "sout2730",
+  "name": "Southern Bai",
+  "description": null,
+  "markup_description": null,
+  "latitude": 25.519,
+  "longitude": 100.289,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Macro-Bai",
+      "id": "macr1275",
+      "url": "https://glottolog.org/resource/languoid/id/macr1275"
+    },
+    {
+      "name": "Baic",
+      "id": "baic1239",
+      "url": "https://glottolog.org/resource/languoid/id/baic1239"
+    },
+    {
+      "name": "South-Central Bai",
+      "id": "sout3254",
+      "url": "https://glottolog.org/resource/languoid/id/sout3254"
+    }
+  ],
+  "iso639-3": "bfs"
+}

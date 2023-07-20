@@ -1,0 +1,72 @@
+{
+  "pk": 12139,
+  "hid": "sfe",
+  "father_pk": 9247,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Eastern Subanen [east2694][sfe]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q63311321",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "311151",
+        "grammar_sketch",
+        1973,
+        16,
+        "Verstraelen, Eugene 1973"
+      ]
+    ]
+  },
+  "id": "east2694",
+  "name": "Eastern Subanen",
+  "description": null,
+  "markup_description": null,
+  "latitude": 8.2475,
+  "longitude": 123.5234,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Greater Central Philippine",
+      "id": "grea1284",
+      "url": "https://glottolog.org/resource/languoid/id/grea1284"
+    },
+    {
+      "name": "Subanen",
+      "id": "suba1253",
+      "url": "https://glottolog.org/resource/languoid/id/suba1253"
+    },
+    {
+      "name": "Nuclear Subanen",
+      "id": "nucl1726",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1726"
+    },
+    {
+      "name": "East Nuclear Subanen",
+      "id": "east2769",
+      "url": "https://glottolog.org/resource/languoid/id/east2769"
+    }
+  ],
+  "iso639-3": "sfe"
+}

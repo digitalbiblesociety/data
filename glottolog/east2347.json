@@ -1,0 +1,97 @@
+{
+  "pk": 13332,
+  "hid": "taj",
+  "father_pk": 10268,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central-Eastern Tamang [cent2001]':1,'Outer-Eastern Tamang [oute1247]':1)'Eastern Tamang [east2347][taj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://phoible.org/languages/east2347",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12953177",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "314320",
+        "long_grammar",
+        2002,
+        415,
+        "Poudel, Kedar Prasad 2002"
+      ],
+      [
+        "78463",
+        "grammar",
+        1997,
+        0,
+        "Yoncan, Amrit 2054 B.S. [1997]"
+      ],
+      [
+        "21609",
+        "grammar_sketch",
+        1976,
+        0,
+        "Mazaudon, Martine 1976"
+      ],
+      [
+        "155381",
+        "grammar_sketch",
+        1973,
+        0,
+        "Trail, Ronald L. 1973"
+      ]
+    ]
+  },
+  "id": "east2347",
+  "name": "Eastern Tamang",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.3239,
+  "longitude": 87.0832,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "Kaike-Ghale-Tamangic",
+      "id": "kaik1248",
+      "url": "https://glottolog.org/resource/languoid/id/kaik1248"
+    },
+    {
+      "name": "Ghale-Tamangic",
+      "id": "ghal1247",
+      "url": "https://glottolog.org/resource/languoid/id/ghal1247"
+    },
+    {
+      "name": "Tamangic",
+      "id": "tama1367",
+      "url": "https://glottolog.org/resource/languoid/id/tama1367"
+    },
+    {
+      "name": "Nuclear Tamang",
+      "id": "nucl1729",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1729"
+    }
+  ],
+  "iso639-3": "taj"
+}

@@ -1,0 +1,120 @@
+{
+  "pk": 19538,
+  "hid": "fij",
+  "father_pk": 17538,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Northeast Viti Levu [nort2842]':1,('Bau {Fijian} [bauu1243]':1,'Lutu [lutu1234]':1,'Nadrau [nadr1234]':1,'Naimasimasi [naim1234]':1,'Namosi [namo1250]':1,'Waidina [waid1240]':1)'Southeast Viti Levu [sout2864]':1)'East Viti Levu [east2898]':1,'Kadavu [kada1285]':1,('Central Vanua Levu [cent2061]':1,'Northeast Vanua Levu [nort2843]':1,'West Vanua Levu [west2514]':1)'Nuclear Vanua Levu [nucl1825]':1,'Southeast Vanua Levu [sout2863]':1)'Fijian [fiji1243][fij]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 15,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_fij",
+        "label": "Fijian"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Fijian_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/fiji1243",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33295",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "77371",
+        "long_grammar",
+        1985,
+        719,
+        "Albert J. Schütz 1985"
+      ],
+      [
+        "134282",
+        "grammar",
+        1972,
+        192,
+        "Milner, George Bertram 1972"
+      ],
+      [
+        "35150",
+        "grammar",
+        1950,
+        157,
+        "Milner, George Bertram 1950"
+      ],
+      [
+        "93385",
+        "grammar_sketch",
+        1850,
+        195,
+        "David Hazlewood 1850"
+      ]
+    ]
+  },
+  "id": "fiji1243",
+  "name": "Fijian",
+  "description": null,
+  "markup_description": null,
+  "latitude": -18,
+  "longitude": 178.33,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Central Pacific linkage",
+      "id": "cent2060",
+      "url": "https://glottolog.org/resource/languoid/id/cent2060"
+    },
+    {
+      "name": "Tokalau Fijian",
+      "id": "east2445",
+      "url": "https://glottolog.org/resource/languoid/id/east2445"
+    },
+    {
+      "name": "Eastern Fijian",
+      "id": "east2446",
+      "url": "https://glottolog.org/resource/languoid/id/east2446"
+    },
+    {
+      "name": "Nuclear Eastern Fijian",
+      "id": "nucl1823",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1823"
+    },
+    {
+      "name": "Viwa-Lomaiviti-East Viti Levu",
+      "id": "viwa1234",
+      "url": "https://glottolog.org/resource/languoid/id/viwa1234"
+    }
+  ],
+  "iso639-3": "fij"
+}

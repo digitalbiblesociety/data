@@ -1,0 +1,70 @@
+{
+  "pk": 2140,
+  "hid": "jbn",
+  "father_pk": 980,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Jbali-Tamezret [jbal1238]':1,'Jerba [jerb1241]':1,'Jerbi [jerb1242]':1,'Tamezret [tame1243]':1)'Nafusi [nafu1238][jbn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q36151",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nafusi_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "55943",
+        "long_grammar",
+        1942,
+        344,
+        "Beguinot, Francesco 1942"
+      ],
+      [
+        "300090",
+        "grammar_sketch",
+        1898,
+        80,
+        "de Calassanti-Motylinski, Adolphe 1898"
+      ],
+      [
+        "145875",
+        "wordlist_or_less",
+        1893,
+        30,
+        "de Guiraudon, Thomas Grimal 1893"
+      ]
+    ]
+  },
+  "id": "nafu1238",
+  "name": "Nafusi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 33.4398,
+  "longitude": 9.83329,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Berber",
+      "id": "berb1260",
+      "url": "https://glottolog.org/resource/languoid/id/berb1260"
+    }
+  ],
+  "iso639-3": "jbn"
+}

@@ -1,0 +1,85 @@
+{
+  "pk": 8382,
+  "hid": "ndy",
+  "father_pk": 5878,
+  "family_pk": 140,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Konga [kong1291]':1,'Nduka [nduk1240]':1,'Nuclear Lutos [nucl1423]':1,'Wada {Central Sudanic} [wada1261]':1)'Lutos [luto1241][ndy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6705910",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lutos_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "665522",
+        "grammar_sketch",
+        2013,
+        286,
+        "Sélézilo, Apollinaire and André Mololi 2013"
+      ],
+      [
+        "131928",
+        "grammar_sketch",
+        1975,
+        0,
+        "E. Moundo 1975"
+      ],
+      [
+        "665496",
+        "wordlist_or_less",
+        1912,
+        3,
+        "J. J. V. Modat 1912"
+      ]
+    ]
+  },
+  "id": "luto1241",
+  "name": "Lutos",
+  "description": null,
+  "markup_description": null,
+  "latitude": 8.52074,
+  "longitude": 19.0071,
+  "classification": [
+    {
+      "name": "Central Sudanic",
+      "id": "cent2225",
+      "url": "https://glottolog.org/resource/languoid/id/cent2225"
+    },
+    {
+      "name": "Sara-Bongo-Bagirmi",
+      "id": "sara1341",
+      "url": "https://glottolog.org/resource/languoid/id/sara1341"
+    },
+    {
+      "name": "SBB Occidental",
+      "id": "sbbo1237",
+      "url": "https://glottolog.org/resource/languoid/id/sbbo1237"
+    },
+    {
+      "name": "Nuclear SBB Occidental",
+      "id": "nucl1719",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1719"
+    },
+    {
+      "name": "Nduga-Luto",
+      "id": "ndug1243",
+      "url": "https://glottolog.org/resource/languoid/id/ndug1243"
+    }
+  ],
+  "iso639-3": "ndy"
+}

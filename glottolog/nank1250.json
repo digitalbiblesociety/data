@@ -1,0 +1,88 @@
+{
+  "pk": 6600,
+  "hid": "nnk",
+  "father_pk": 4543,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Nankina [nank1250][nnk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q11732502",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nankina_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nank1250",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nnk",
+        "label": "Nankina"
+      }
+    ],
+    "meds": [
+      [
+        "56283",
+        "grammar",
+        1994,
+        266,
+        "Craig Spaulding and Pat Spaulding 1994"
+      ],
+      [
+        "111126",
+        "grammar_sketch",
+        1988,
+        32,
+        "Honenuo Anikap and Boko Zinkawa Gworeka Uwang and Craig Spaulding and Pat Spaulding 1988"
+      ],
+      [
+        "64314",
+        "wordlist_or_less",
+        1970,
+        1,
+        "Oren R. Claassen and Kenneth A. McElhanon 1970"
+      ]
+    ]
+  },
+  "id": "nank1250",
+  "name": "Nankina",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.80804,
+  "longitude": 146.464,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Finisterre-Huon",
+      "id": "fini1244",
+      "url": "https://glottolog.org/resource/languoid/id/fini1244"
+    },
+    {
+      "name": "Finisterre-Saruwaged",
+      "id": "fini1245",
+      "url": "https://glottolog.org/resource/languoid/id/fini1245"
+    },
+    {
+      "name": "Yupna",
+      "id": "yupn1242",
+      "url": "https://glottolog.org/resource/languoid/id/yupn1242"
+    }
+  ],
+  "iso639-3": "nnk"
+}

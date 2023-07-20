@@ -1,0 +1,99 @@
+{
+  "pk": 7692,
+  "hid": "brb",
+  "father_pk": 5327,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "((('Hamong [hamo1235]':1,'Ka-nying [kany1249]':1,'Ombaa [omba1245]':1)'Northeastern Brao [nort3344]':1,('Jrii [jrii1235]':1,'Kavet [kave1238][krv]':1)'Northwestern Brao [nort3343]':1)'Northern Brao [nort3342]':1,('Krung [krun1240][krr]':1,'Lowland Brao [pala1337]':1,'Lun {Brao} [lunb1239]':1)'Southern Brao [sout3329]':1)'Brao [lave1249][brb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 12,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3968",
+        "label": "Lave"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q4957737",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Brao_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/lave1249",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bra",
+        "label": "Brao"
+      }
+    ],
+    "meds": [
+      [
+        "583897",
+        "grammar",
+        2003,
+        117,
+        "Sidwell, Paul and Jacq, Pascale 2003"
+      ],
+      [
+        "22713",
+        "grammar_sketch",
+        1976,
+        118,
+        "Keller, Charles 1976"
+      ],
+      [
+        "17556",
+        "wordlist_or_less",
+        1905,
+        27,
+        "Antoine Cabaton 1905"
+      ],
+      [
+        "305536",
+        "wordlist_or_less",
+        1888,
+        8,
+        "J. Taupin 1888"
+      ]
+    ]
+  },
+  "id": "lave1249",
+  "name": "Brao",
+  "description": null,
+  "markup_description": null,
+  "latitude": 14.5994,
+  "longitude": 107.008,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Bahnaric",
+      "id": "bahn1264",
+      "url": "https://glottolog.org/resource/languoid/id/bahn1264"
+    },
+    {
+      "name": "West Bahnaric",
+      "id": "west2399",
+      "url": "https://glottolog.org/resource/languoid/id/west2399"
+    },
+    {
+      "name": "Nuclear West Bahnaric",
+      "id": "nucl1299",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1299"
+    }
+  ],
+  "iso639-3": "brb"
+}

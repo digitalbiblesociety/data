@@ -1,0 +1,81 @@
+{
+  "pk": 2404,
+  "hid": "mud",
+  "father_pk": 1120,
+  "family_pk": 172,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mednyj Aleut [medn1235][mud]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Mednyj_Aleut_language",
+        "label": null
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/673",
+        "label": "Mednyj Aleut"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q1977419",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "13113",
+        "grammar_sketch",
+        1997,
+        20,
+        "Sarah G. Thomason 1997"
+      ],
+      [
+        "42407",
+        "grammar_sketch",
+        1994,
+        18,
+        "Sekerina, Irina A. 1994"
+      ],
+      [
+        "320126",
+        "grammar_sketch",
+        1988,
+        14,
+        "Evgenij V. Golovko 1988, 1989"
+      ],
+      [
+        "579113",
+        "wordlist_or_less",
+        1983,
+        9,
+        "Asinovskij, A. S. and Nikolai B. Vakhtin and Golovko, Evgenij V. 1983"
+      ]
+    ]
+  },
+  "id": "medn1235",
+  "name": "Mednyj Aleut",
+  "description": null,
+  "markup_description": null,
+  "latitude": 54.6601,
+  "longitude": 167.782,
+  "classification": [
+    {
+      "name": "Eskimo-Aleut",
+      "id": "eski1264",
+      "url": "https://glottolog.org/resource/languoid/id/eski1264"
+    },
+    {
+      "name": "Aleutic",
+      "id": "aleu1261",
+      "url": "https://glottolog.org/resource/languoid/id/aleu1261"
+    }
+  ],
+  "iso639-3": "mud"
+}

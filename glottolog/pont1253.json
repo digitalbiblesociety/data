@@ -1,0 +1,102 @@
+{
+  "pk": 18923,
+  "hid": "pnt",
+  "father_pk": 16630,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Inland Pontic Greek [inla1270]':1,('Of [offf1234]':1,'Sürmene [surm1245]':1,'Tonya [tony1234]':1)'Muslim Pontic Greek [musl1237]':1)'Eastern Pontic Greek [east2844]':1,'Niotika [niot1234]':1)'Pontic [pont1253][pnt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3265",
+        "label": "Pontic"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Pontic_Greek",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36748",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "70117",
+        "long_grammar",
+        1997,
+        816,
+        "Georges Drettas 1997"
+      ],
+      [
+        "582048",
+        "grammar_sketch",
+        1932,
+        816,
+        "Topxaras, Konstantinos 1999 [1932]"
+      ]
+    ]
+  },
+  "id": "pont1253",
+  "name": "Pontic",
+  "description": null,
+  "markup_description": null,
+  "latitude": 41.266015,
+  "longitude": 36.097421,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Graeco-Phrygian",
+      "id": "grae1234",
+      "url": "https://glottolog.org/resource/languoid/id/grae1234"
+    },
+    {
+      "name": "Greek",
+      "id": "gree1276",
+      "url": "https://glottolog.org/resource/languoid/id/gree1276"
+    },
+    {
+      "name": "South Greek",
+      "id": "east2798",
+      "url": "https://glottolog.org/resource/languoid/id/east2798"
+    },
+    {
+      "name": "Central Greek",
+      "id": "cent2404",
+      "url": "https://glottolog.org/resource/languoid/id/cent2404"
+    },
+    {
+      "name": "Koineic Greek",
+      "id": "koin1234",
+      "url": "https://glottolog.org/resource/languoid/id/koin1234"
+    },
+    {
+      "name": "Modern Koineic Greek",
+      "id": "mode1266",
+      "url": "https://glottolog.org/resource/languoid/id/mode1266"
+    },
+    {
+      "name": "Pontic-Cappadocian Greek",
+      "id": "pont1257",
+      "url": "https://glottolog.org/resource/languoid/id/pont1257"
+    }
+  ],
+  "iso639-3": "pnt"
+}

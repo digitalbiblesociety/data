@@ -1,0 +1,87 @@
+{
+  "pk": 5225,
+  "hid": "cto",
+  "father_pk": 3396,
+  "family_pk": 390,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Emberá-Catío [embe1260][cto]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_cat",
+        "label": "Catio"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/2665",
+        "label": "Emberá-Catío"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Catio_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/embe1260",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3052039",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "77658",
+        "grammar_sketch",
+        2002,
+        176,
+        "Ángel Cayo Atienza 2002"
+      ],
+      [
+        "144961",
+        "grammar_sketch",
+        1936,
+        113,
+        "del Santísimo Sacramento, Pablo 1936"
+      ],
+      [
+        "147211",
+        "wordlist_or_less",
+        1887,
+        1,
+        "Ernst, Adolf 1887"
+      ]
+    ]
+  },
+  "id": "embe1260",
+  "name": "Emberá-Catío",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.52721,
+  "longitude": -76.7476,
+  "classification": [
+    {
+      "name": "Chocoan",
+      "id": "choc1280",
+      "url": "https://glottolog.org/resource/languoid/id/choc1280"
+    },
+    {
+      "name": "Embera",
+      "id": "embe1258",
+      "url": "https://glottolog.org/resource/languoid/id/embe1258"
+    },
+    {
+      "name": "Atrato",
+      "id": "atra1235",
+      "url": "https://glottolog.org/resource/languoid/id/atra1235"
+    }
+  ],
+  "iso639-3": "cto"
+}

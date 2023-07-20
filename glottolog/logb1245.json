@@ -1,0 +1,95 @@
+{
+  "pk": 7152,
+  "hid": "lgq",
+  "father_pk": 4890,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ikpana [logb1245][lgq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6030",
+        "label": "Logba"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35813",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Logba_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/logb1245",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "142887",
+        "long_grammar",
+        2008,
+        441,
+        "Dorvlo, Kofi 2008"
+      ],
+      [
+        "113623",
+        "grammar_sketch",
+        1903,
+        18,
+        "Westermann, Diedrich 1903"
+      ],
+      [
+        "79179",
+        "phonology_or_text",
+        1899,
+        4,
+        "Seidel, August 1899"
+      ],
+      [
+        "106819",
+        "wordlist_or_less",
+        1898,
+        4,
+        "Seidel, August 1898"
+      ]
+    ]
+  },
+  "id": "logb1245",
+  "name": "Ikpana",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.92838,
+  "longitude": 0.43068,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Kwa Volta-Congo",
+      "id": "kwav1236",
+      "url": "https://glottolog.org/resource/languoid/id/kwav1236"
+    },
+    {
+      "name": "Na-Togo",
+      "id": "nato1234",
+      "url": "https://glottolog.org/resource/languoid/id/nato1234"
+    }
+  ],
+  "iso639-3": "lgq"
+}

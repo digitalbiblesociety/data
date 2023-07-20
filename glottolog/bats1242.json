@@ -1,0 +1,75 @@
+{
+  "pk": 3513,
+  "hid": "bbl",
+  "father_pk": 1874,
+  "family_pk": 426,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Bats [bats1242][bbl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1124",
+        "label": "Batsbi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33259",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bats_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/bats1242",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ttu",
+        "label": "Tsova-Tush"
+      }
+    ],
+    "meds": [
+      [
+        "148406",
+        "long_grammar",
+        1953,
+        357,
+        "Yunus D. Desheriev 1953"
+      ],
+      [
+        "39054",
+        "grammar",
+        1856,
+        160,
+        "Anton Schiefner 1856"
+      ]
+    ]
+  },
+  "id": "bats1242",
+  "name": "Bats",
+  "description": null,
+  "markup_description": null,
+  "latitude": 42.1806,
+  "longitude": 45.344,
+  "classification": [
+    {
+      "name": "Nakh-Daghestanian",
+      "id": "nakh1245",
+      "url": "https://glottolog.org/resource/languoid/id/nakh1245"
+    },
+    {
+      "name": "Nakh",
+      "id": "nakh1246",
+      "url": "https://glottolog.org/resource/languoid/id/nakh1246"
+    }
+  ],
+  "iso639-3": "bbl"
+}

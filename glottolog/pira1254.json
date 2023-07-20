@@ -1,0 +1,93 @@
+{
+  "pk": 8928,
+  "hid": "pir",
+  "father_pk": 6450,
+  "family_pk": 242,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Wa''ikhana [pira1254][pir]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2951",
+        "label": "Piratapuyo"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_prt",
+        "label": "Piratapuyo"
+      },
+      {
+        "url": "https://phoible.org/languages/pira1254",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3389119",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "589991",
+        "grammar_sketch",
+        2015,
+        44,
+        "Waltz, Carolyn and Waltz, Nathan 2015"
+      ],
+      [
+        "45964",
+        "grammar_sketch",
+        1966,
+        0,
+        "Waltz, Nathan E. 1966"
+      ],
+      [
+        "310990",
+        "wordlist_or_less",
+        1909,
+        8,
+        "Stradelli, Ermanno 1909"
+      ]
+    ]
+  },
+  "id": "pira1254",
+  "name": "Wa'ikhana",
+  "description": null,
+  "markup_description": null,
+  "latitude": 0.50714,
+  "longitude": -69.5032,
+  "classification": [
+    {
+      "name": "Tucanoan",
+      "id": "tuca1253",
+      "url": "https://glottolog.org/resource/languoid/id/tuca1253"
+    },
+    {
+      "name": "Eastern Tucanoan",
+      "id": "east2698",
+      "url": "https://glottolog.org/resource/languoid/id/east2698"
+    },
+    {
+      "name": "Eastern Eastern Tucanoan",
+      "id": "east2702",
+      "url": "https://glottolog.org/resource/languoid/id/east2702"
+    },
+    {
+      "name": "Eastern Eastern Tucanoan II",
+      "id": "east2708",
+      "url": "https://glottolog.org/resource/languoid/id/east2708"
+    },
+    {
+      "name": "Kotiria-Piratapuyo",
+      "id": "wana1272",
+      "url": "https://glottolog.org/resource/languoid/id/wana1272"
+    }
+  ],
+  "iso639-3": "pir"
+}

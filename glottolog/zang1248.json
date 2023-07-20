@@ -1,0 +1,80 @@
+{
+  "pk": 13341,
+  "hid": "zau",
+  "father_pk": 10272,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Zanskari [cent2368]':1,'Lower Zanskari [lowe1448]':1,'Lungnak [lung1254]':1,'Upper Zanskari [uppe1471]':1)'Zangskari [zang1248][zau]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3144",
+        "label": "Zangskari"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Zangskari_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q771203",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "127730",
+        "phonology_or_text",
+        1978,
+        104,
+        "Hoshi, Michiyo and Tondup, Tsering 1978"
+      ]
+    ]
+  },
+  "id": "zang1248",
+  "name": "Zangskari",
+  "description": null,
+  "markup_description": null,
+  "latitude": 33.2397,
+  "longitude": 77.4013,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "Bodish",
+      "id": "bodi1257",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1257"
+    },
+    {
+      "name": "Early Old Tibetan",
+      "id": "oldm1245",
+      "url": "https://glottolog.org/resource/languoid/id/oldm1245"
+    },
+    {
+      "name": "Western Archaic Tibetan",
+      "id": "lada1242",
+      "url": "https://glottolog.org/resource/languoid/id/lada1242"
+    },
+    {
+      "name": "Kenhatic",
+      "id": "kenh1234",
+      "url": "https://glottolog.org/resource/languoid/id/kenh1234"
+    }
+  ],
+  "iso639-3": "zau"
+}

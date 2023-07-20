@@ -1,0 +1,82 @@
+{
+  "pk": 10655,
+  "hid": "bph",
+  "father_pk": 7748,
+  "family_pk": 426,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Miarso [miar1237]':1,'Nuclear Botlikh [nucl1323]':1)'Botlikh [botl1242][bph]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1728",
+        "label": "Botlikh"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Botlikh_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56560",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "302441",
+        "grammar_sketch",
+        1962,
+        88,
+        "T'ogo E. Gudava 1962"
+      ],
+      [
+        "18941",
+        "wordlist_or_less",
+        1928,
+        30,
+        "Adolf Dirr 1928"
+      ]
+    ]
+  },
+  "id": "botl1242",
+  "name": "Botlikh",
+  "description": null,
+  "markup_description": null,
+  "latitude": 42.665,
+  "longitude": 46.22,
+  "classification": [
+    {
+      "name": "Nakh-Daghestanian",
+      "id": "nakh1245",
+      "url": "https://glottolog.org/resource/languoid/id/nakh1245"
+    },
+    {
+      "name": "Daghestanian",
+      "id": "dagh1238",
+      "url": "https://glottolog.org/resource/languoid/id/dagh1238"
+    },
+    {
+      "name": "Avar-Andic-Tsezic",
+      "id": "avar1255",
+      "url": "https://glottolog.org/resource/languoid/id/avar1255"
+    },
+    {
+      "name": "Andic",
+      "id": "andi1254",
+      "url": "https://glottolog.org/resource/languoid/id/andi1254"
+    },
+    {
+      "name": "Botlikh-Godoberi",
+      "id": "botl1243",
+      "url": "https://glottolog.org/resource/languoid/id/botl1243"
+    }
+  ],
+  "iso639-3": "bph"
+}

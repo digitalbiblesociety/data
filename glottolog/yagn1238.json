@@ -1,0 +1,119 @@
+{
+  "pk": 16556,
+  "hid": "yai",
+  "father_pk": 13960,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Eastern Yagnobi [east2307]':1,'Western Yagnobi [west2371]':1)'Yagnobi [yagn1238][yai]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3217",
+        "label": "Yaghnobi"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ygn",
+        "label": "Yaghnobi"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yaghnobi_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/yagn1238",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q34247",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "669181",
+        "grammar",
+        1987,
+        0,
+        "Xromov, A. L. 1987"
+      ],
+      [
+        "301058",
+        "grammar_sketch",
+        1972,
+        210,
+        "Al'bert L. Xromov 1972"
+      ],
+      [
+        "310728",
+        "grammar_sketch",
+        1882,
+        22,
+        "P. de Ujfalvy 1882"
+      ],
+      [
+        "323987",
+        "wordlist_or_less",
+        1880,
+        10,
+        "Wilhelm Tomaschek 1880"
+      ]
+    ]
+  },
+  "id": "yagn1238",
+  "name": "Yagnobi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 39.1486,
+  "longitude": 69.2422,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Iranian",
+      "id": "iran1269",
+      "url": "https://glottolog.org/resource/languoid/id/iran1269"
+    },
+    {
+      "name": "Central Iranian PBS",
+      "id": "cent2317",
+      "url": "https://glottolog.org/resource/languoid/id/cent2317"
+    },
+    {
+      "name": "Sogdic-Ossetic",
+      "id": "sogd1247",
+      "url": "https://glottolog.org/resource/languoid/id/sogd1247"
+    },
+    {
+      "name": "Sogdic",
+      "id": "sogd1248",
+      "url": "https://glottolog.org/resource/languoid/id/sogd1248"
+    },
+    {
+      "name": "Sogdian-Yagnobi",
+      "id": "sogd1246",
+      "url": "https://glottolog.org/resource/languoid/id/sogd1246"
+    }
+  ],
+  "iso639-3": "yai"
+}

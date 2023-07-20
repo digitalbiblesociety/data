@@ -1,0 +1,107 @@
+{
+  "pk": 18320,
+  "hid": "atg",
+  "father_pk": 15848,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Arhe [arhe1238]':1,'Ivbie North [ivbi1242]':1,'Okpela [okpe1248]':1)'Ivbie North-Okpela-Arhe [ivbi1241][atg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Okpela_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7082551",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "152705",
+        "grammar_sketch",
+        1997,
+        123,
+        "Emuekpere-Masagbor, Grace Aboshuogwe 1997"
+      ],
+      [
+        "176845",
+        "phonology_or_text",
+        1989,
+        16,
+        "Masagbor, R. A. 1989"
+      ],
+      [
+        "161418",
+        "phonology_or_text",
+        1984,
+        16,
+        "Schaefer, Ronald P. and Masagbor, R. 1984"
+      ],
+      [
+        "99683",
+        "wordlist_or_less",
+        1924,
+        5,
+        "Thomas, Northcote Whitridge 1924"
+      ]
+    ]
+  },
+  "id": "ivbi1241",
+  "name": "Ivbie North-Okpela-Arhe",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.15307,
+  "longitude": 6.21209,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Akpes-Edoid",
+      "id": "akpe1249",
+      "url": "https://glottolog.org/resource/languoid/id/akpe1249"
+    },
+    {
+      "name": "Edoid",
+      "id": "edoi1239",
+      "url": "https://glottolog.org/resource/languoid/id/edoi1239"
+    },
+    {
+      "name": "Northwestern Edoid",
+      "id": "nort3183",
+      "url": "https://glottolog.org/resource/languoid/id/nort3183"
+    },
+    {
+      "name": "Igwic",
+      "id": "igwi1234",
+      "url": "https://glottolog.org/resource/languoid/id/igwi1234"
+    },
+    {
+      "name": "Ikpeshic",
+      "id": "ikpe1246",
+      "url": "https://glottolog.org/resource/languoid/id/ikpe1246"
+    }
+  ],
+  "iso639-3": "atg"
+}

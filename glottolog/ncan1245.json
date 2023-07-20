@@ -1,0 +1,124 @@
+{
+  "pk": 21803,
+  "hid": "ncr",
+  "father_pk": 20085,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Mungong [mung1267]':1,'Ncane [nucl1415]':1)'Ncane-Mungong [ncan1245][ncr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q11297920",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/ncan1245",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "579415",
+        "long_grammar",
+        2020,
+        417,
+        "Richard L. Boutwell 2020"
+      ],
+      [
+        "325450",
+        "grammar_sketch",
+        2014,
+        48,
+        "Richard L. Boutwell 2014"
+      ],
+      [
+        "316899",
+        "grammar_sketch",
+        2010,
+        42,
+        "Richard L. Boutwell 2010"
+      ],
+      [
+        "20527",
+        "phonology_or_text",
+        1991,
+        202,
+        "Richards, Russell 1991"
+      ],
+      [
+        "25058",
+        "wordlist_or_less",
+        1974,
+        3,
+        "Chilver, Elizabeth M. and Kaberry, Phyllis M. 1974"
+      ]
+    ]
+  },
+  "id": "ncan1245",
+  "name": "Ncane-Mungong",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.50696,
+  "longitude": 10.5312,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Beboid",
+      "id": "bebo1243",
+      "url": "https://glottolog.org/resource/languoid/id/bebo1243"
+    },
+    {
+      "name": "Eastern Beboid",
+      "id": "east2730",
+      "url": "https://glottolog.org/resource/languoid/id/east2730"
+    },
+    {
+      "name": "Nsari-Nooni-Ncane",
+      "id": "nsar1239",
+      "url": "https://glottolog.org/resource/languoid/id/nsar1239"
+    },
+    {
+      "name": "Nooni-Ncane",
+      "id": "noon1245",
+      "url": "https://glottolog.org/resource/languoid/id/noon1245"
+    },
+    {
+      "name": "Ncane-Cung",
+      "id": "ncan1246",
+      "url": "https://glottolog.org/resource/languoid/id/ncan1246"
+    }
+  ],
+  "iso639-3": "ncr"
+}

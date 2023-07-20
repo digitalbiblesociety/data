@@ -1,0 +1,110 @@
+{
+  "pk": 10244,
+  "hid": "nkd",
+  "father_pk": 7359,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Koireng [koir1240][nkd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4867",
+        "label": "Koireng"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6426342",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Koireng_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "552824",
+        "long_grammar",
+        2013,
+        330,
+        "Waikhom, Kunjalata Devi 2013"
+      ],
+      [
+        "185290",
+        "grammar",
+        2010,
+        250,
+        "Singh, Chungkham Yasawanta 2010"
+      ],
+      [
+        "320726",
+        "phonology_or_text",
+        2006,
+        116,
+        "Lienjang Zeite 2006"
+      ],
+      [
+        "118757",
+        "wordlist_or_less",
+        1904,
+        5,
+        "George A. Grierson 1904"
+      ],
+      [
+        "132693",
+        "wordlist_or_less",
+        1880,
+        1,
+        "G. H. Damant 1880"
+      ],
+      [
+        "115954",
+        "wordlist_or_less",
+        1837,
+        1,
+        "Brown, Nathan 1837"
+      ]
+    ]
+  },
+  "id": "koir1240",
+  "name": "Koireng",
+  "description": null,
+  "markup_description": null,
+  "latitude": 25.2857,
+  "longitude": 94.2141,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Kuki-Chin",
+      "id": "kuki1246",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1246"
+    },
+    {
+      "name": "Northwestern Kuki-Chin",
+      "id": "oldk1252",
+      "url": "https://glottolog.org/resource/languoid/id/oldk1252"
+    },
+    {
+      "name": "Kolhrengic",
+      "id": "kolh1241",
+      "url": "https://glottolog.org/resource/languoid/id/kolh1241"
+    }
+  ],
+  "iso639-3": "nkd"
+}

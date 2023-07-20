@@ -1,0 +1,103 @@
+{
+  "pk": 3393,
+  "hid": "cho",
+  "father_pk": 1812,
+  "family_pk": 388,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Choctaw [choc1276][cho]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1692",
+        "label": "Choctaw"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_cct",
+        "label": "Choctaw"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Choctaw_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/choc1276",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q32979",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "7860",
+        "long_grammar",
+        1981,
+        494,
+        "William D. Davies 1981"
+      ],
+      [
+        "151376",
+        "grammar",
+        1974,
+        273,
+        "Nicklas, Thurston Dale 1974"
+      ],
+      [
+        "20496",
+        "grammar_sketch",
+        1869,
+        51,
+        "Cyrus Byington 1869"
+      ],
+      [
+        "75804",
+        "wordlist_or_less",
+        1855,
+        8,
+        "Amiel W. Whipple and Thomas Ewbank and William W. Turner 1855"
+      ],
+      [
+        "141714",
+        "wordlist_or_less",
+        1852,
+        6,
+        "Henry R. Schoolcraft 1852"
+      ],
+      [
+        "564249",
+        "wordlist_or_less",
+        1790,
+        0,
+        "Castiglioni, Luigi 1790"
+      ]
+    ]
+  },
+  "id": "choc1276",
+  "name": "Choctaw",
+  "description": null,
+  "markup_description": null,
+  "latitude": 32.25,
+  "longitude": -88.5,
+  "classification": [
+    {
+      "name": "Muskogean",
+      "id": "musk1252",
+      "url": "https://glottolog.org/resource/languoid/id/musk1252"
+    },
+    {
+      "name": "Western Muskogean",
+      "id": "west2614",
+      "url": "https://glottolog.org/resource/languoid/id/west2614"
+    }
+  ],
+  "iso639-3": "cho"
+}

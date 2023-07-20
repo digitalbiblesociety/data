@@ -1,0 +1,85 @@
+{
+  "pk": 9913,
+  "hid": "aba",
+  "father_pk": 7159,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Abbey-Ve [abbe1238]':1,'Kos [koss1238]':1,'Morie [mori1266]':1,'Tioffo [tiof1238]':1)'Abé [abee1242][aba]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q34833",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ab%C3%A9_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "85115",
+        "grammar",
+        1987,
+        233,
+        "Gbery, Eddy Aime 1987"
+      ],
+      [
+        "38125",
+        "grammar_sketch",
+        1983,
+        27,
+        "N'Guessan, Jérémie Kouadio 1983"
+      ],
+      [
+        "55307",
+        "wordlist_or_less",
+        1971,
+        10,
+        "Dumestre, Gérard 1971"
+      ]
+    ]
+  },
+  "id": "abee1242",
+  "name": "Abé",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.59682,
+  "longitude": -4.38497,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Kwa Volta-Congo",
+      "id": "kwav1236",
+      "url": "https://glottolog.org/resource/languoid/id/kwav1236"
+    },
+    {
+      "name": "Nyo",
+      "id": "nyoa1234",
+      "url": "https://glottolog.org/resource/languoid/id/nyoa1234"
+    },
+    {
+      "name": "Agneby",
+      "id": "agne1238",
+      "url": "https://glottolog.org/resource/languoid/id/agne1238"
+    }
+  ],
+  "iso639-3": "aba"
+}

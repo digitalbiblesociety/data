@@ -1,0 +1,54 @@
+{
+  "pk": 163,
+  "hid": "arf",
+  "father_pk": null,
+  "family_pk": null,
+  "level": "family",
+  "bookkeeping": false,
+  "category": "Family",
+  "newick": "(('Andambit [anda1288]':1,'Imboin [imbo1239]':1,'Kaiyam [kaiy1240]':1,'Kupin [kupi1239]':1,'Namata [nama1271]':1)'Andai [anda1283][afd]-l-':1,('Awiakay [awia1235]':1,'Karimba [kari1320]':1)'Awiakay-Karimba [awia1234]-l-':1,('Imanmeri [iman1240]':1,('Wamblamas [wamb1260]':1,'Yamandim [yama1266]':1)'Nanbay [nanb1234]':1)'Nanubae-Imangae [nanu1240][afk]-l-':1,('Awim [awim1234]':1,'Imboin-Awim [imbo1240]':1)'Tapei [tape1242][afp]-l-':1,('Meakambut [meak1234]-l-':1)'Unclassified Arafundi [uncl1510]':1)'Arafundi [araf1243][arf]':1",
+  "child_family_count": 1,
+  "child_language_count": 5,
+  "child_dialect_count": 13,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "arf",
+      "name": "Arafundi",
+      "change_request": "2007-026",
+      "effective": "2008-01-14",
+      "reason": "split",
+      "change_to": [
+        "afd",
+        "afk",
+        "afp"
+      ],
+      "remedy": "Split into three languages: Andai [afd]; Nanubae [afk]; Tapei [afp]",
+      "comment": "An SIL-PNG survey (Kassell, MacKenzie and Potter 2005) found the three proposed\nlanguages were distinct from each other, using both lexicostatistical and\nintelligibility testing. Average lexical similarity of the three speech\nvarieties is between 39% and 58%, as measured with a 170-item standard word\nlist. The accepted threshold for regarding speech varieties as dialects of a\nsingle language is 70% lexical similarity (SIL 1991); these scores are well\nbelow that threshold. Testing of intelligibility found that speakers of each\nvariety had 13 - 56% comprehension of recorded texts in the other varieties. SIL\nguidelines give a recorded text test score of 75% as the lowest acceptable\nindicator of comprehension; again these scores are well below that threshold.\nThe survey team concluded that Andai, Nanubae and Tapei should be considered\nthree distinct languages."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q11170629",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500616",
+        "wordlist_or_less",
+        2007,
+        0,
+        "ISO 639-3 Registration Authority 2007"
+      ]
+    ]
+  },
+  "id": "araf1243",
+  "name": "Arafundi",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [],
+  "iso639-3": "arf"
+}

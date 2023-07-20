@@ -1,0 +1,77 @@
+{
+  "pk": 7597,
+  "hid": "brw",
+  "father_pk": 5260,
+  "family_pk": 404,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Bellari [bell1261][brw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1597",
+        "label": "Bellari"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q4883496",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bellari_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "131285",
+        "wordlist_or_less",
+        2003,
+        114,
+        "Michail S. Andronov 2003"
+      ],
+      [
+        "474744",
+        "wordlist_or_less",
+        1971,
+        3,
+        "Bhat, D. N. S. 1971"
+      ]
+    ]
+  },
+  "id": "bell1261",
+  "name": "Bellari",
+  "description": null,
+  "markup_description": null,
+  "latitude": 13.64667,
+  "longitude": 74.86354,
+  "classification": [
+    {
+      "name": "Dravidian",
+      "id": "drav1251",
+      "url": "https://glottolog.org/resource/languoid/id/drav1251"
+    },
+    {
+      "name": "South Dravidian",
+      "id": "sout3133",
+      "url": "https://glottolog.org/resource/languoid/id/sout3133"
+    },
+    {
+      "name": "South Dravidian I",
+      "id": "sout3138",
+      "url": "https://glottolog.org/resource/languoid/id/sout3138"
+    },
+    {
+      "name": "South-Western Dravidian",
+      "id": "tulu1261",
+      "url": "https://glottolog.org/resource/languoid/id/tulu1261"
+    }
+  ],
+  "iso639-3": "brw"
+}

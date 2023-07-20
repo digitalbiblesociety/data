@@ -1,0 +1,111 @@
+{
+  "pk": 10260,
+  "hid": "nmf",
+  "father_pk": 7365,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Tangkhul Tui [tang1386]':1,'Ukhrul [ukhr1238]':1)'Central Tangkhul [cent2412]':1,('Kachai [kach1286]':1,'Phadang [phad1238]':1)'Eastern Tangkhul [east2903]':1)'East-Central Tangkhul Naga [tang1336][nmf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ngt",
+        "label": "Naga (Tangkhul)"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/7374",
+        "label": "Tangkhul Naga"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tangkhul_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/tang1336",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7682992",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "22270",
+        "long_grammar",
+        2002,
+        476,
+        "Pettigrew, W. 2002"
+      ],
+      [
+        "320685",
+        "long_grammar",
+        1997,
+        306,
+        "Ahum Victor 1997"
+      ],
+      [
+        "19066",
+        "grammar_sketch",
+        1918,
+        245,
+        "Pettigrew, William 1918"
+      ],
+      [
+        "51830",
+        "wordlist_or_less",
+        1859,
+        5,
+        "McCulloch, W. 1859"
+      ],
+      [
+        "115954",
+        "wordlist_or_less",
+        1837,
+        1,
+        "Brown, Nathan 1837"
+      ]
+    ]
+  },
+  "id": "tang1336",
+  "name": "East-Central Tangkhul Naga",
+  "description": null,
+  "markup_description": null,
+  "latitude": 25.0489,
+  "longitude": 94.3567,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Tangkhul-Maring",
+      "id": "tang1335",
+      "url": "https://glottolog.org/resource/languoid/id/tang1335"
+    },
+    {
+      "name": "Tangkhulic",
+      "id": "sino1246",
+      "url": "https://glottolog.org/resource/languoid/id/sino1246"
+    },
+    {
+      "name": "Nuclear Tangkhulic",
+      "id": "nucl1829",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1829"
+    }
+  ],
+  "iso639-3": "nmf"
+}

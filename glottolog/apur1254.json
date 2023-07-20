@@ -1,0 +1,92 @@
+{
+  "pk": 6267,
+  "hid": "apu",
+  "father_pk": 4226,
+  "family_pk": 177,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Apurinã [apur1254][apu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3202",
+        "label": "Apuriná"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_apu",
+        "label": "Apurinã"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Apurin%C3%A3_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/apur1254",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2859081",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "8990",
+        "long_grammar",
+        2000,
+        705,
+        "Facundes, Sidney da Silva 2000"
+      ],
+      [
+        "104611",
+        "grammar_sketch",
+        1894,
+        60,
+        "J. E. R. Polak 1894"
+      ],
+      [
+        "10978",
+        "wordlist_or_less",
+        1866,
+        9,
+        "William Chandless 1866"
+      ]
+    ]
+  },
+  "id": "apur1254",
+  "name": "Apurinã",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.21692,
+  "longitude": -66.7714,
+  "classification": [
+    {
+      "name": "Arawakan",
+      "id": "araw1281",
+      "url": "https://glottolog.org/resource/languoid/id/araw1281"
+    },
+    {
+      "name": "Southern Maipuran",
+      "id": "sout3131",
+      "url": "https://glottolog.org/resource/languoid/id/sout3131"
+    },
+    {
+      "name": "Purus-Chamicuro",
+      "id": "puru1269",
+      "url": "https://glottolog.org/resource/languoid/id/puru1269"
+    },
+    {
+      "name": "Purus",
+      "id": "puru1265",
+      "url": "https://glottolog.org/resource/languoid/id/puru1265"
+    }
+  ],
+  "iso639-3": "apu"
+}

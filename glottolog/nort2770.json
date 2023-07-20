@@ -1,0 +1,83 @@
+{
+  "pk": 7124,
+  "hid": "fll",
+  "father_pk": 4881,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bossoum [boss1241]':1,'Bveri [bver1238]':1,'Dourbeye [dour1238]':1)'North Fali [nort2770][fll]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12952419",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "41701",
+        "phonology_or_text",
+        1981,
+        19,
+        "Sweetman, Gary 1981"
+      ],
+      [
+        "61759",
+        "wordlist_or_less",
+        1941,
+        3,
+        "Lebeuf, Jean-Paul 1941"
+      ],
+      [
+        "102268",
+        "wordlist_or_less",
+        1937,
+        2,
+        "Lukas, Johannes 1937"
+      ],
+      [
+        "312368",
+        "wordlist_or_less",
+        1922,
+        2,
+        "Strümpell, F. 1922-1923"
+      ]
+    ]
+  },
+  "id": "nort2770",
+  "name": "North Fali",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.9249,
+  "longitude": 13.6567,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Unclassified Volta-Congo",
+      "id": "unun9902",
+      "url": "https://glottolog.org/resource/languoid/id/unun9902"
+    },
+    {
+      "name": "Adamawa Fali",
+      "id": "adam1254",
+      "url": "https://glottolog.org/resource/languoid/id/adam1254"
+    }
+  ],
+  "iso639-3": "fll"
+}

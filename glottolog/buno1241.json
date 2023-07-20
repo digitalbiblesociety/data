@@ -1,0 +1,72 @@
+{
+  "pk": 3860,
+  "hid": "dgb",
+  "father_pk": 2161,
+  "family_pk": 117,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Bunoge Dogon [buno1241][dgb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/8742",
+        "label": "Bunoge"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q4985178",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Budu_Dogon",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "300492",
+        "long_grammar",
+        2014,
+        354,
+        "Heath, Jeffrey 2014"
+      ],
+      [
+        "51982",
+        "wordlist_or_less",
+        2005,
+        29,
+        "Blench, Roger and Douyon, Denis 2005"
+      ]
+    ]
+  },
+  "id": "buno1241",
+  "name": "Bunoge Dogon",
+  "description": null,
+  "markup_description": null,
+  "latitude": 14.43,
+  "longitude": -3.49,
+  "classification": [
+    {
+      "name": "Dogon",
+      "id": "dogo1299",
+      "url": "https://glottolog.org/resource/languoid/id/dogo1299"
+    },
+    {
+      "name": "West Dogon",
+      "id": "west2779",
+      "url": "https://glottolog.org/resource/languoid/id/west2779"
+    },
+    {
+      "name": "Penangic",
+      "id": "pena1272",
+      "url": "https://glottolog.org/resource/languoid/id/pena1272"
+    }
+  ],
+  "iso639-3": "dgb"
+}

@@ -1,0 +1,101 @@
+{
+  "pk": 13189,
+  "hid": "atb",
+  "father_pk": 10123,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Langwa [lang1311]':1,'Nuclear Zaiwa [nucl1311]':1,'Polo [polo1241]':1)'Zaiwa [zaiw1241][atb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Zaiwa_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/zaiw1241",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56594",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "164048",
+        "long_grammar",
+        2002,
+        706,
+        "Anton Lustig 2002"
+      ],
+      [
+        "120892",
+        "grammar",
+        1984,
+        176,
+        "Xu, Xijian and Xu, Guizhen 1984"
+      ],
+      [
+        "147423",
+        "phonology_or_text",
+        1982,
+        134,
+        "Yabu, Shiro 1982"
+      ],
+      [
+        "439579",
+        "wordlist_or_less",
+        1909,
+        21,
+        "Davies, Henry R. 1909"
+      ]
+    ]
+  },
+  "id": "zaiw1241",
+  "name": "Zaiwa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 24.1726,
+  "longitude": 98.3643,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Burmo-Qiangic",
+      "id": "burm1265",
+      "url": "https://glottolog.org/resource/languoid/id/burm1265"
+    },
+    {
+      "name": "Lolo-Burmese",
+      "id": "lolo1265",
+      "url": "https://glottolog.org/resource/languoid/id/lolo1265"
+    },
+    {
+      "name": "Burmish",
+      "id": "burm1266",
+      "url": "https://glottolog.org/resource/languoid/id/burm1266"
+    },
+    {
+      "name": "Northern Burmish",
+      "id": "nort2720",
+      "url": "https://glottolog.org/resource/languoid/id/nort2720"
+    },
+    {
+      "name": "Maruic",
+      "id": "maru1254",
+      "url": "https://glottolog.org/resource/languoid/id/maru1254"
+    }
+  ],
+  "iso639-3": "atb"
+}

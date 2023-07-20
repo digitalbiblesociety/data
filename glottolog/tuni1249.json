@@ -1,0 +1,66 @@
+{
+  "pk": 6384,
+  "hid": "tse",
+  "father_pk": 4336,
+  "family_pk": 206,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Sign Language",
+  "newick": "'Tunisian Sign Language [tuni1249][tse]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7853191",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tunisian_Sign_Language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "549932",
+        "wordlist_or_less",
+        2011,
+        18,
+        "Manel Khayech 2011"
+      ]
+    ]
+  },
+  "id": "tuni1249",
+  "name": "Tunisian Sign Language",
+  "description": null,
+  "markup_description": null,
+  "latitude": 36.49562,
+  "longitude": 10.03348,
+  "classification": [
+    {
+      "name": "Sign Language",
+      "id": "sign1238",
+      "url": "https://glottolog.org/resource/languoid/id/sign1238"
+    },
+    {
+      "name": "Deaf Sign Language",
+      "id": "deaf1237",
+      "url": "https://glottolog.org/resource/languoid/id/deaf1237"
+    },
+    {
+      "name": "LSFic",
+      "id": "lsfi1234",
+      "url": "https://glottolog.org/resource/languoid/id/lsfi1234"
+    },
+    {
+      "name": "Italian Sign",
+      "id": "ital1288",
+      "url": "https://glottolog.org/resource/languoid/id/ital1288"
+    }
+  ],
+  "iso639-3": "tse"
+}

@@ -1,0 +1,87 @@
+{
+  "pk": 12200,
+  "hid": "bya",
+  "father_pk": 9290,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Batak [bata1301][bya]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2849",
+        "label": "Batak"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bat",
+        "label": "Batak"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q50934420",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "589264",
+        "grammar_sketch",
+        1968,
+        79,
+        "Rodda, Rosemary 1968"
+      ],
+      [
+        "45985",
+        "phonology_or_text",
+        1861,
+        557,
+        "Tuuk, Hermanus Neubronner van der 1861"
+      ]
+    ]
+  },
+  "id": "bata1301",
+  "name": "Batak",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.1115,
+  "longitude": 119.025,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Greater Central Philippine",
+      "id": "grea1284",
+      "url": "https://glottolog.org/resource/languoid/id/grea1284"
+    },
+    {
+      "name": "Palawanic",
+      "id": "pala1354",
+      "url": "https://glottolog.org/resource/languoid/id/pala1354"
+    },
+    {
+      "name": "Northern Palawanic",
+      "id": "nort3185",
+      "url": "https://glottolog.org/resource/languoid/id/nort3185"
+    },
+    {
+      "name": "Batak-Central Tagbanwa",
+      "id": "bata1317",
+      "url": "https://glottolog.org/resource/languoid/id/bata1317"
+    }
+  ],
+  "iso639-3": "bya"
+}

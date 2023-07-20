@@ -1,0 +1,93 @@
+{
+  "pk": 5212,
+  "hid": "dgz",
+  "father_pk": 3380,
+  "family_pk": 384,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Daga [daga1275][dgz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_dag",
+        "label": "Daga"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Daga_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5208442",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "49393",
+        "long_grammar",
+        1974,
+        459,
+        "Elizabeth Murane 1974"
+      ],
+      [
+        "84134",
+        "grammar_sketch",
+        1972,
+        12,
+        "Longacre, Robert E. 1972"
+      ],
+      [
+        "304182",
+        "phonology_or_text",
+        1963,
+        0,
+        "Murane, John and Elizabeth Murane, compilers 2007- [1963-1977]"
+      ],
+      [
+        "157114",
+        "wordlist_or_less",
+        1914,
+        2,
+        "Anonymous, {} 1914"
+      ],
+      [
+        "324644",
+        "wordlist_or_less",
+        1913,
+        1,
+        "Anonymous 1913"
+      ]
+    ]
+  },
+  "id": "daga1275",
+  "name": "Daga",
+  "description": null,
+  "markup_description": null,
+  "latitude": -9.9747,
+  "longitude": 149.263,
+  "classification": [
+    {
+      "name": "Dagan",
+      "id": "daga1274",
+      "url": "https://glottolog.org/resource/languoid/id/daga1274"
+    },
+    {
+      "name": "Central Dagan",
+      "id": "cent2401",
+      "url": "https://glottolog.org/resource/languoid/id/cent2401"
+    },
+    {
+      "name": "Southwest Dagan",
+      "id": "sout3381",
+      "url": "https://glottolog.org/resource/languoid/id/sout3381"
+    }
+  ],
+  "iso639-3": "dgz"
+}

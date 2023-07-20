@@ -1,0 +1,93 @@
+{
+  "pk": 10314,
+  "hid": "wuu",
+  "father_pk": 7398,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Jiangshan [long1386]':1,'Qingtian [qing1241]':1,'Quzhou [chuz1238]':1)'Chuqu [chuq1241]':1,'Jinhua [jinh1238]':1,(('Lin-Shao [lins1238]':1,('Ningbo [ning1280]':1,'Zhoushan [zhou1235]':1)'Yongjiang [yong1273]':1)'Northern Zhejiang [nort3273]':1,('Hangzhou [hang1257]':1,'Piling [pili1238]':1)'Northwestern Wu [nort3274]':1,('Jiaxing [jiax1234]':1,'Shanghainese [shan1293]':1,'Suzhou [suzh1234]':1,'Wuxi [wuxi1234]':1)'Su-Hu-Jia [suhu1238]':1,('Huzhou [huzh1239]':1,'Southeast Guangde [sout3256]':1)'Tiaoxi [tiao1238]':1)'Taihu [taih1244]':1,'Taizhou [taiz1238]':1,'Wenzhou [ouji1238]':1,'Wuzhou Wu [wuzh1238]':1,('Shiling [shil1262]':1,'Taigao [taig1246]':1,'Tongjing [tong1313]':1)'Xuanzhou [xuan1238]':1)'Wu Chinese [wuch1236][wuu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 29,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_wuc",
+        "label": "Wu"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Wu_Chinese",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/wuch1236",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q34290",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "551617",
+        "long_grammar",
+        1992,
+        561,
+        "Qian, Nairong 1992"
+      ],
+      [
+        "553363",
+        "long_grammar",
+        1971,
+        353,
+        "Mantaro J. Hashimoto 1971"
+      ],
+      [
+        "475564",
+        "grammar_sketch",
+        1853,
+        248,
+        "Edkins, Joseph 1853"
+      ]
+    ]
+  },
+  "id": "wuch1236",
+  "name": "Wu Chinese",
+  "description": null,
+  "markup_description": null,
+  "latitude": 29.8621,
+  "longitude": 119.682,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Sinitic",
+      "id": "sini1245",
+      "url": "https://glottolog.org/resource/languoid/id/sini1245"
+    },
+    {
+      "name": "Classical-Middle-Modern Sinitic",
+      "id": "clas1255",
+      "url": "https://glottolog.org/resource/languoid/id/clas1255"
+    },
+    {
+      "name": "Middle-Modern Sinitic",
+      "id": "midd1354",
+      "url": "https://glottolog.org/resource/languoid/id/midd1354"
+    },
+    {
+      "name": "Wu-Hui Chinese",
+      "id": "wuhu1234",
+      "url": "https://glottolog.org/resource/languoid/id/wuhu1234"
+    }
+  ],
+  "iso639-3": "wuu"
+}

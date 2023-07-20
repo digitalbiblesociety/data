@@ -1,0 +1,94 @@
+{
+  "pk": 12990,
+  "hid": "ags",
+  "father_pk": 9984,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Esimbi [esim1238][ags]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q35260",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Esimbi_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/esim1238",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "320178",
+        "grammar_sketch",
+        2004,
+        78,
+        "Arnie Coleman and Karen Coleman and Brad Koenig 2004"
+      ],
+      [
+        "120218",
+        "phonology_or_text",
+        1980,
+        16,
+        "Stallcup, Kenneth Lyell 1980"
+      ],
+      [
+        "12240",
+        "wordlist_or_less",
+        1956,
+        3,
+        "Jacquot, André and Richardson, Irvine 1956"
+      ]
+    ]
+  },
+  "id": "esim1238",
+  "name": "Esimbi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.50094,
+  "longitude": 9.86936,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Tivoid",
+      "id": "tivo1239",
+      "url": "https://glottolog.org/resource/languoid/id/tivo1239"
+    }
+  ],
+  "iso639-3": "ags"
+}

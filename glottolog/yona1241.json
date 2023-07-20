@@ -1,0 +1,84 @@
+{
+  "pk": 6221,
+  "hid": "yoi",
+  "father_pk": 4191,
+  "family_pk": 176,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Yonaguni [yona1241][yoi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Yonaguni_language",
+        "label": null
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/3170",
+        "label": "Dunan (Yonaguni Ryukyuan)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q34243",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "665075",
+        "grammar",
+        2015,
+        30,
+        "Yamada and Masahiro and Pellard and Thomas and and Shimoji, Michinori 2015"
+      ],
+      [
+        "578165",
+        "grammar_sketch",
+        2009,
+        277,
+        "Uwano, Zendō 2009"
+      ],
+      [
+        "49982",
+        "grammar_sketch",
+        1964,
+        230,
+        "Hirayama, Teruo and Nakamoto, Masachie 1964"
+      ]
+    ]
+  },
+  "id": "yona1241",
+  "name": "Yonaguni",
+  "description": null,
+  "markup_description": null,
+  "latitude": 24.44997,
+  "longitude": 122.99075,
+  "classification": [
+    {
+      "name": "Japonic",
+      "id": "japo1237",
+      "url": "https://glottolog.org/resource/languoid/id/japo1237"
+    },
+    {
+      "name": "Ryukyuan",
+      "id": "ryuk1243",
+      "url": "https://glottolog.org/resource/languoid/id/ryuk1243"
+    },
+    {
+      "name": "Southern Ryukyu",
+      "id": "ryuk1244",
+      "url": "https://glottolog.org/resource/languoid/id/ryuk1244"
+    },
+    {
+      "name": "Macro-Yaeyama",
+      "id": "macr1267",
+      "url": "https://glottolog.org/resource/languoid/id/macr1267"
+    }
+  ],
+  "iso639-3": "yoi"
+}

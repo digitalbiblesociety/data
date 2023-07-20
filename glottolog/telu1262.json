@@ -1,0 +1,102 @@
+{
+  "pk": 7608,
+  "hid": "tel",
+  "father_pk": 5263,
+  "family_pk": 404,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Berad [bera1250]':1,'Dasaru [dasa1237]':1,'Dommara [domm1245]':1,'East Godaweri [east2338]':1,'Golari [gola1244]':1,'Guntur [gunt1240]':1,'Kamathi [kama1355]':1,'Komtao [komt1238]':1,'Manna-Dora [mann1245][mju]':1,'Nellore [nell1237]':1,'Rayalseema [raya1237]':1,'Salewari [sale1243]':1,'Srikakula [srik1237]':1,'Telangana [tela1240]':1,'Vadaga [vada1240]':1,'Vadari [vada1239]':1,'Vishakhapatnam [vish1244]':1,'Yanadi [yana1267]':1)'Telugu [telu1262][tel]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 18,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tel",
+        "label": "Telugu"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Telugu_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/telu1262",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q8097",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "551681",
+        "long_grammar",
+        1986,
+        828,
+        "Appa Rao, L. 1986"
+      ],
+      [
+        "23825",
+        "long_grammar",
+        1985,
+        493,
+        "Sastri, Korada Mahadeva 1985"
+      ],
+      [
+        "315274",
+        "long_grammar",
+        1905,
+        486,
+        "Albert Arden 1905"
+      ],
+      [
+        "301826",
+        "grammar",
+        1820,
+        223,
+        "A. D. Campbell 1820"
+      ],
+      [
+        "77937",
+        "wordlist_or_less",
+        1728,
+        204,
+        "Schultze, Benjamin 1984 [1728]"
+      ]
+    ]
+  },
+  "id": "telu1262",
+  "name": "Telugu",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.4529,
+  "longitude": 78.7024,
+  "classification": [
+    {
+      "name": "Dravidian",
+      "id": "drav1251",
+      "url": "https://glottolog.org/resource/languoid/id/drav1251"
+    },
+    {
+      "name": "South Dravidian",
+      "id": "sout3133",
+      "url": "https://glottolog.org/resource/languoid/id/sout3133"
+    },
+    {
+      "name": "South Dravidian II",
+      "id": "sout3139",
+      "url": "https://glottolog.org/resource/languoid/id/sout3139"
+    },
+    {
+      "name": "Teluguic",
+      "id": "telu1265",
+      "url": "https://glottolog.org/resource/languoid/id/telu1265"
+    }
+  ],
+  "iso639-3": "tel"
+}

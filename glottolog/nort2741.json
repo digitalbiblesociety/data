@@ -1,0 +1,105 @@
+{
+  "pk": 23696,
+  "hid": "tts",
+  "father_pk": 22186,
+  "family_pk": 356,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Isan [cent2011]':1,'Northern Isan [nort2742]':1,'Southern Isan [sout2745]':1)'Northeastern Thai [nort2741][tts]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Isan_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nort2741",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33417",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "550047",
+        "long_grammar",
+        1979,
+        542,
+        "Phramaha Kham-Iang Kongsin 1979"
+      ]
+    ]
+  },
+  "id": "nort2741",
+  "name": "Northeastern Thai",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.03,
+  "longitude": 103.67,
+  "classification": [
+    {
+      "name": "Tai-Kadai",
+      "id": "taik1256",
+      "url": "https://glottolog.org/resource/languoid/id/taik1256"
+    },
+    {
+      "name": "Kam-Tai",
+      "id": "kamt1241",
+      "url": "https://glottolog.org/resource/languoid/id/kamt1241"
+    },
+    {
+      "name": "Daic-Beic",
+      "id": "daic1238",
+      "url": "https://glottolog.org/resource/languoid/id/daic1238"
+    },
+    {
+      "name": "Daic",
+      "id": "daic1237",
+      "url": "https://glottolog.org/resource/languoid/id/daic1237"
+    },
+    {
+      "name": "Central-Southwestern Tai",
+      "id": "cent2251",
+      "url": "https://glottolog.org/resource/languoid/id/cent2251"
+    },
+    {
+      "name": "Wenma-Southwestern Tai",
+      "id": "wenm1239",
+      "url": "https://glottolog.org/resource/languoid/id/wenm1239"
+    },
+    {
+      "name": "Sapa-Southwestern Tai",
+      "id": "sapa1255",
+      "url": "https://glottolog.org/resource/languoid/id/sapa1255"
+    },
+    {
+      "name": "Southwestern Tai",
+      "id": "sout3184",
+      "url": "https://glottolog.org/resource/languoid/id/sout3184"
+    },
+    {
+      "name": "Southwestern Thai PH",
+      "id": "sput1235",
+      "url": "https://glottolog.org/resource/languoid/id/sput1235"
+    },
+    {
+      "name": "Lao-Thai",
+      "id": "laot1235",
+      "url": "https://glottolog.org/resource/languoid/id/laot1235"
+    },
+    {
+      "name": "Sakon Nakhon",
+      "id": "sako1234",
+      "url": "https://glottolog.org/resource/languoid/id/sako1234"
+    }
+  ],
+  "iso639-3": "tts"
+}

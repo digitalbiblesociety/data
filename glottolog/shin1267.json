@@ -1,0 +1,61 @@
+{
+  "pk": 3217,
+  "hid": "snh",
+  "father_pk": 1670,
+  "family_pk": 335,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Unattested",
+  "newick": "'Shinabo [shin1267][snh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "snh",
+      "name": "Shinabo",
+      "change_request": "2016-004",
+      "effective": "2017-01-31",
+      "reason": "non-existent",
+      "change_to": [],
+      "remedy": "Retire",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12953884",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "535675",
+        "wordlist_or_less",
+        2016,
+        0,
+        "ISO 639-3 Registration Authority 2016"
+      ]
+    ]
+  },
+  "id": "shin1267",
+  "name": "Shinabo",
+  "description": null,
+  "markup_description": null,
+  "latitude": -14.3798,
+  "longitude": -62.3404,
+  "classification": [
+    {
+      "name": "Unattested",
+      "id": "unat1236",
+      "url": "https://glottolog.org/resource/languoid/id/unat1236"
+    },
+    {
+      "name": "Pano-Tacanan (Unattested)",
+      "id": "pano1260",
+      "url": "https://glottolog.org/resource/languoid/id/pano1260"
+    }
+  ],
+  "iso639-3": "snh"
+}

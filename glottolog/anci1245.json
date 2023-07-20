@@ -1,0 +1,78 @@
+{
+  "pk": 8174,
+  "hid": "xna",
+  "father_pk": 5733,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dadanitic [dada1236]':1,'Dumaitic [duma1255]':1,'Hasaitic [hasa1249]':1,'Hismaic [hism1236]':1,'Safaitic [safa1245]':1,'Taymanitic [taym1240]':1)'Ancient North Arabian [anci1245][xna]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q1472213",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ancient_North_Arabian",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "573475",
+        "grammar_sketch",
+        1990,
+        278,
+        "Geraldine Margaret Harmsworth King 1990"
+      ],
+      [
+        "324926",
+        "grammar_sketch",
+        1954,
+        56,
+        "Werner Caskel 1954"
+      ]
+    ]
+  },
+  "id": "anci1245",
+  "name": "Ancient North Arabian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 29.044,
+  "longitude": 39.776,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Semitic",
+      "id": "semi1276",
+      "url": "https://glottolog.org/resource/languoid/id/semi1276"
+    },
+    {
+      "name": "West Semitic",
+      "id": "west2786",
+      "url": "https://glottolog.org/resource/languoid/id/west2786"
+    },
+    {
+      "name": "Central Semitic",
+      "id": "cent2236",
+      "url": "https://glottolog.org/resource/languoid/id/cent2236"
+    },
+    {
+      "name": "Arabian",
+      "id": "arab1394",
+      "url": "https://glottolog.org/resource/languoid/id/arab1394"
+    }
+  ],
+  "iso639-3": "xna"
+}

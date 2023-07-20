@@ -1,0 +1,89 @@
+{
+  "pk": 9538,
+  "hid": "sya",
+  "father_pk": 6897,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Murung 2 [muru1269]':1,'Nuclear Siang [nucl1556]':1)'Siang [sian1254][sya]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3482903",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Siang_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/sian1254",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "324833",
+        "grammar_sketch",
+        1990,
+        154,
+        "R. Budi Santoso and Dewi Mulyani Santoso and Tandang, {} 1990"
+      ],
+      [
+        "312062",
+        "wordlist_or_less",
+        1967,
+        15,
+        "Hudson, Alfred B. 1967"
+      ],
+      [
+        "45224",
+        "wordlist_or_less",
+        1889,
+        7,
+        "C. den Hamer 1889"
+      ]
+    ]
+  },
+  "id": "sian1254",
+  "name": "Siang",
+  "description": null,
+  "markup_description": null,
+  "latitude": -0.38398,
+  "longitude": 114.693,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Basap-Greater Barito",
+      "id": "basa1291",
+      "url": "https://glottolog.org/resource/languoid/id/basa1291"
+    },
+    {
+      "name": "Greater Barito linkage",
+      "id": "grea1283",
+      "url": "https://glottolog.org/resource/languoid/id/grea1283"
+    },
+    {
+      "name": "North West Greater Barito",
+      "id": "nort2891",
+      "url": "https://glottolog.org/resource/languoid/id/nort2891"
+    }
+  ],
+  "iso639-3": "sya"
+}

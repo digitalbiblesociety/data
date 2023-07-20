@@ -1,0 +1,104 @@
+{
+  "pk": 10218,
+  "hid": "nsm",
+  "father_pk": 7350,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dayang [daya1244]':1,'Lazemi [laze1239]':1,'Zhimomi [zhim1238]':1,'Zumomi [zumo1240]':1)'Sumi Naga [sumi1235][nsm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1860",
+        "label": "Sumi Naga"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/S%C3%BCmi_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/sumi1235",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_sem",
+        "label": "Sema"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3478238",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "102441",
+        "grammar",
+        1980,
+        205,
+        "Sreedhar, Mangadan Veetil 1980"
+      ],
+      [
+        "23487",
+        "grammar_sketch",
+        1916,
+        98,
+        "Hutton, John Henry 1916"
+      ],
+      [
+        "162861",
+        "wordlist_or_less",
+        1903,
+        4,
+        "George A. Grierson 1903"
+      ],
+      [
+        "571552",
+        "wordlist_or_less",
+        1902,
+        11,
+        "W. H. Furness 1902"
+      ]
+    ]
+  },
+  "id": "sumi1235",
+  "name": "Sumi Naga",
+  "description": null,
+  "markup_description": null,
+  "latitude": 25.9996,
+  "longitude": 94.4235,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Angami-Ao",
+      "id": "anga1312",
+      "url": "https://glottolog.org/resource/languoid/id/anga1312"
+    },
+    {
+      "name": "Angami-Pochuri",
+      "id": "anga1286",
+      "url": "https://glottolog.org/resource/languoid/id/anga1286"
+    },
+    {
+      "name": "Rengma-Simi",
+      "id": "reng1253",
+      "url": "https://glottolog.org/resource/languoid/id/reng1253"
+    }
+  ],
+  "iso639-3": "nsm"
+}

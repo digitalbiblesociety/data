@@ -1,0 +1,82 @@
+{
+  "pk": 8845,
+  "hid": "ase",
+  "father_pk": 6353,
+  "family_pk": 206,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Sign Language",
+  "newick": "('American Sign Language in the USA [amer1260]':1,'Burundi Sign Language [buru1325][lsb]':1)'American Sign Language [amer1248][ase]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q14759",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/American_Sign_Language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_asl",
+        "label": "American Sign Language"
+      }
+    ],
+    "meds": [
+      [
+        "315528",
+        "long_grammar",
+        1980,
+        570,
+        "Baker-Shenk, Charlotte and Dennis Cokely 1980, 1981, 1981"
+      ],
+      [
+        "471263",
+        "grammar_sketch",
+        1910,
+        226,
+        "Long, J. Schuyler 1910"
+      ]
+    ]
+  },
+  "id": "amer1248",
+  "name": "American Sign Language",
+  "description": null,
+  "markup_description": null,
+  "latitude": 33.8117,
+  "longitude": -81.6121,
+  "classification": [
+    {
+      "name": "Sign Language",
+      "id": "sign1238",
+      "url": "https://glottolog.org/resource/languoid/id/sign1238"
+    },
+    {
+      "name": "Deaf Sign Language",
+      "id": "deaf1237",
+      "url": "https://glottolog.org/resource/languoid/id/deaf1237"
+    },
+    {
+      "name": "LSFic",
+      "id": "lsfi1234",
+      "url": "https://glottolog.org/resource/languoid/id/lsfi1234"
+    },
+    {
+      "name": "ASLic",
+      "id": "asli1244",
+      "url": "https://glottolog.org/resource/languoid/id/asli1244"
+    },
+    {
+      "name": "American Sign",
+      "id": "amer1258",
+      "url": "https://glottolog.org/resource/languoid/id/amer1258"
+    }
+  ],
+  "iso639-3": "ase"
+}

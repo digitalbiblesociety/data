@@ -1,0 +1,113 @@
+{
+  "pk": 7552,
+  "hid": "cmi",
+  "father_pk": 5223,
+  "family_pk": 390,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Emberá-Chamí [embe1262][cmi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2597",
+        "label": "Southern Emberá"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3052042",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Chami_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/embe1262",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_emc",
+        "label": "Embera Chami"
+      }
+    ],
+    "meds": [
+      [
+        "151991",
+        "grammar",
+        1999,
+        164,
+        "Aguirre Licht, Daniel 1999"
+      ],
+      [
+        "17904",
+        "grammar",
+        1998,
+        164,
+        "Aguirre Licht, Daniel 1998"
+      ],
+      [
+        "30665",
+        "grammar",
+        1993,
+        0,
+        "na 1993"
+      ],
+      [
+        "129451",
+        "grammar_sketch",
+        1955,
+        67,
+        "Caudmont, Jean 1955, 1956, 1956"
+      ],
+      [
+        "75830",
+        "wordlist_or_less",
+        1943,
+        14,
+        "Paul Rivet 1943, 1944"
+      ],
+      [
+        "124344",
+        "wordlist_or_less",
+        1878,
+        4,
+        "Greiffenstein, C. 1878"
+      ]
+    ]
+  },
+  "id": "embe1262",
+  "name": "Emberá-Chamí",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.8791,
+  "longitude": -76.0749,
+  "classification": [
+    {
+      "name": "Chocoan",
+      "id": "choc1280",
+      "url": "https://glottolog.org/resource/languoid/id/choc1280"
+    },
+    {
+      "name": "Embera",
+      "id": "embe1258",
+      "url": "https://glottolog.org/resource/languoid/id/embe1258"
+    },
+    {
+      "name": "San Juan",
+      "id": "sanj1278",
+      "url": "https://glottolog.org/resource/languoid/id/sanj1278"
+    },
+    {
+      "name": "Upper San Juan",
+      "id": "uppe1440",
+      "url": "https://glottolog.org/resource/languoid/id/uppe1440"
+    }
+  ],
+  "iso639-3": "cmi"
+}

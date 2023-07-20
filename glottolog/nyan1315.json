@@ -1,0 +1,92 @@
+{
+  "pk": 9742,
+  "hid": "nnj",
+  "father_pk": 7087,
+  "family_pk": 316,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Nyangatom [nyan1315][nnj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q4662604",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nyangatom_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "320421",
+        "grammar_sketch",
+        2011,
+        59,
+        "Schröder, Martin and Kadanya, James Lokuuda 2011"
+      ],
+      [
+        "161206",
+        "grammar_sketch",
+        1981,
+        42,
+        "Tornay, Serge 1981"
+      ],
+      [
+        "126960",
+        "wordlist_or_less",
+        1950,
+        3,
+        "Pauli, Elisabeth 1950"
+      ],
+      [
+        "85914",
+        "wordlist_or_less",
+        1927,
+        1,
+        "Rossini, Carlo Conti 1927"
+      ]
+    ]
+  },
+  "id": "nyan1315",
+  "name": "Nyangatom",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.39809,
+  "longitude": 35.6232,
+  "classification": [
+    {
+      "name": "Nilotic",
+      "id": "nilo1247",
+      "url": "https://glottolog.org/resource/languoid/id/nilo1247"
+    },
+    {
+      "name": "Eastern Nilotic",
+      "id": "east2418",
+      "url": "https://glottolog.org/resource/languoid/id/east2418"
+    },
+    {
+      "name": "Teso-Lotuxo-Maa",
+      "id": "teso1247",
+      "url": "https://glottolog.org/resource/languoid/id/teso1247"
+    },
+    {
+      "name": "Teso-Turkana",
+      "id": "teso1248",
+      "url": "https://glottolog.org/resource/languoid/id/teso1248"
+    },
+    {
+      "name": "Turkanic",
+      "id": "turk1307",
+      "url": "https://glottolog.org/resource/languoid/id/turk1307"
+    }
+  ],
+  "iso639-3": "nnj"
+}

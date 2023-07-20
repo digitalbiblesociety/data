@@ -1,0 +1,92 @@
+{
+  "pk": 14286,
+  "hid": "mmy",
+  "father_pk": 11214,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dambiya [damb1250]':1,'Doga {Chad} [doga1242]':1,'Gamiya [gami1251]':1,'Nuclear Migaama [nucl1674]':1)'Migaama [miga1249][mmy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56259",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Migaama_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mig",
+        "label": "Migama"
+      }
+    ],
+    "meds": [
+      [
+        "161798",
+        "grammar_sketch",
+        1992,
+        167,
+        "Jungraithmayr, Herrmann and Adams, Abakar 1992"
+      ],
+      [
+        "140812",
+        "grammar_sketch",
+        1953,
+        33,
+        "Mathieu, Augustin 1953"
+      ]
+    ]
+  },
+  "id": "miga1249",
+  "name": "Migaama",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.2367,
+  "longitude": 18.9614,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "East Chadic",
+      "id": "east2632",
+      "url": "https://glottolog.org/resource/languoid/id/east2632"
+    },
+    {
+      "name": "East Chadic B",
+      "id": "east2633",
+      "url": "https://glottolog.org/resource/languoid/id/east2633"
+    },
+    {
+      "name": "East Chadic B.1",
+      "id": "east2709",
+      "url": "https://glottolog.org/resource/languoid/id/east2709"
+    },
+    {
+      "name": "Dangla-Mabire-Birgit",
+      "id": "dang1275",
+      "url": "https://glottolog.org/resource/languoid/id/dang1275"
+    },
+    {
+      "name": "Dangla",
+      "id": "dang1276",
+      "url": "https://glottolog.org/resource/languoid/id/dang1276"
+    }
+  ],
+  "iso639-3": "mmy"
+}

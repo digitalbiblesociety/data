@@ -1,0 +1,115 @@
+{
+  "pk": 17621,
+  "hid": "tgc",
+  "father_pk": 15243,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Tigak [cent2064]':1,'Island Tigak [isla1272]':1,'South Tigak [sout2871]':1,'West Tigak [west2525]':1)'Tigak [tiga1245][tgc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3528276",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tigak_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/tiga1245",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tgk",
+        "label": "Tigak"
+      }
+    ],
+    "meds": [
+      [
+        "301176",
+        "grammar",
+        1979,
+        174,
+        "Clive H. Beaumont 1979"
+      ],
+      [
+        "33466",
+        "grammar",
+        1974,
+        174,
+        "Clive H. Beaumont 1974"
+      ],
+      [
+        "57662",
+        "wordlist_or_less",
+        1891,
+        4,
+        "Zöller, Hugo 1891"
+      ],
+      [
+        "72868",
+        "wordlist_or_less",
+        1890,
+        1,
+        "Hugo Zöller 1890"
+      ]
+    ]
+  },
+  "id": "tiga1245",
+  "name": "Tigak",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.70951,
+  "longitude": 150.893,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Western Oceanic linkage",
+      "id": "west2818",
+      "url": "https://glottolog.org/resource/languoid/id/west2818"
+    },
+    {
+      "name": "Meso Melanesian linkage",
+      "id": "meso1253",
+      "url": "https://glottolog.org/resource/languoid/id/meso1253"
+    },
+    {
+      "name": "New Ireland-Northwest Solomonic linkage",
+      "id": "newi1242",
+      "url": "https://glottolog.org/resource/languoid/id/newi1242"
+    },
+    {
+      "name": "Tungak-Nalik",
+      "id": "tung1294",
+      "url": "https://glottolog.org/resource/languoid/id/tung1294"
+    }
+  ],
+  "iso639-3": "tgc"
+}

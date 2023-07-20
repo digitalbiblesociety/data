@@ -1,0 +1,88 @@
+{
+  "pk": 14388,
+  "hid": "gov",
+  "father_pk": 11309,
+  "family_pk": 121,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Goo [gooa1234][gov]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q16927208",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Goo_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "419460",
+        "grammar_sketch",
+        2014,
+        61,
+        "Valentin Vydrin 2014"
+      ],
+      [
+        "417396",
+        "grammar_sketch",
+        2013,
+        24,
+        "Valentin Vydrin 2013"
+      ]
+    ]
+  },
+  "id": "gooa1234",
+  "name": "Goo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.580998,
+  "longitude": -7.562563,
+  "classification": [
+    {
+      "name": "Mande",
+      "id": "mand1469",
+      "url": "https://glottolog.org/resource/languoid/id/mand1469"
+    },
+    {
+      "name": "Eastern Mande",
+      "id": "east2697",
+      "url": "https://glottolog.org/resource/languoid/id/east2697"
+    },
+    {
+      "name": "Southeastern Mande",
+      "id": "sout3140",
+      "url": "https://glottolog.org/resource/languoid/id/sout3140"
+    },
+    {
+      "name": "Mano-Dan",
+      "id": "guro1245",
+      "url": "https://glottolog.org/resource/languoid/id/guro1245"
+    },
+    {
+      "name": "Guro-Dan",
+      "id": "guro1246",
+      "url": "https://glottolog.org/resource/languoid/id/guro1246"
+    },
+    {
+      "name": "Dan-Toura",
+      "id": "dant1235",
+      "url": "https://glottolog.org/resource/languoid/id/dant1235"
+    },
+    {
+      "name": "Toura-Goo",
+      "id": "tour1245",
+      "url": "https://glottolog.org/resource/languoid/id/tour1245"
+    }
+  ],
+  "iso639-3": "gov"
+}

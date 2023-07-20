@@ -1,0 +1,77 @@
+{
+  "pk": 4056,
+  "hid": "nju",
+  "father_pk": 2313,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ngadjunmaya [ngad1258][nju]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/a3",
+        "label": "Ngadjumaya / Ngadju"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ngadjunmaya_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/ngad1258",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mrj",
+        "label": "Mirniny"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ngj",
+        "label": "Ngadjumaja"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7021846",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "575516",
+        "grammar",
+        1831,
+        16,
+        "Nind, S. 1831"
+      ]
+    ]
+  },
+  "id": "ngad1258",
+  "name": "Ngadjunmaya",
+  "description": null,
+  "markup_description": null,
+  "latitude": -32.02447,
+  "longitude": 124.46601,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "South-West Pama-Nyungan",
+      "id": "sout3134",
+      "url": "https://glottolog.org/resource/languoid/id/sout3134"
+    },
+    {
+      "name": "Mirning",
+      "id": "mirn1243",
+      "url": "https://glottolog.org/resource/languoid/id/mirn1243"
+    }
+  ],
+  "iso639-3": "nju"
+}

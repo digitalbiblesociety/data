@@ -1,0 +1,107 @@
+{
+  "pk": 10619,
+  "hid": "kha",
+  "father_pk": 7720,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bhoi-Khasi [bhoi1239]':1,'Cherrapunji [cher1270]':1,'Khynrium [khyn1238]':1,'Nuclear Khasi [nucl1293]':1)'Khasi [khas1269][kha]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_khs",
+        "label": "Khasi"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Khasi_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/khas1269",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33584",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "550997",
+        "long_grammar",
+        1977,
+        327,
+        "K.S. Nagaraja 1977"
+      ],
+      [
+        "29098",
+        "grammar",
+        1961,
+        263,
+        "Rabel, Lili 1961"
+      ],
+      [
+        "116625",
+        "grammar",
+        1958,
+        248,
+        "Rabel, Lili 1958"
+      ],
+      [
+        "313479",
+        "grammar",
+        1891,
+        229,
+        "H. Roberts 1891"
+      ],
+      [
+        "27675",
+        "grammar",
+        1855,
+        202,
+        "Pryse, W. 1855"
+      ]
+    ]
+  },
+  "id": "khas1269",
+  "name": "Khasi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 24.977,
+  "longitude": 91.9998,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Khasi-Palaung",
+      "id": "khas1273",
+      "url": "https://glottolog.org/resource/languoid/id/khas1273"
+    },
+    {
+      "name": "Khasian",
+      "id": "khas1268",
+      "url": "https://glottolog.org/resource/languoid/id/khas1268"
+    },
+    {
+      "name": "Khasi-Pnar-Lyngngam",
+      "id": "khas1274",
+      "url": "https://glottolog.org/resource/languoid/id/khas1274"
+    },
+    {
+      "name": "Khasi-Pnar",
+      "id": "khas1275",
+      "url": "https://glottolog.org/resource/languoid/id/khas1275"
+    }
+  ],
+  "iso639-3": "kha"
+}

@@ -1,0 +1,96 @@
+{
+  "pk": 1999,
+  "hid": "car",
+  "father_pk": 897,
+  "family_pk": 56,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Murato [mura1272]':1,'Tabajari [taba1267]':1,'Tyrewuju [tyre1237]':1)'Galibi Carib [gali1262][car]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_car",
+        "label": "Carib"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/2114",
+        "label": "Kari'nja"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Carib_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/gali1262",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56611",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "568075",
+        "long_grammar",
+        1956,
+        544,
+        "W. Ahlbrinck 1956"
+      ],
+      [
+        "19177",
+        "grammar",
+        1931,
+        0,
+        "W. Ahlbrinck 1931"
+      ],
+      [
+        "587269",
+        "grammar_sketch",
+        1909,
+        91,
+        "de Goeje, Claudius Henricus 1909"
+      ],
+      [
+        "322795",
+        "grammar_sketch",
+        1763,
+        91,
+        "de la Salle de l'Estaing, M. 1763"
+      ],
+      [
+        "53492",
+        "grammar_sketch",
+        1655,
+        31,
+        "Pelleprat, Pierre 1655"
+      ]
+    ]
+  },
+  "id": "gali1262",
+  "name": "Galibi Carib",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.83772,
+  "longitude": -56.8323,
+  "classification": [
+    {
+      "name": "Cariban",
+      "id": "cari1283",
+      "url": "https://glottolog.org/resource/languoid/id/cari1283"
+    },
+    {
+      "name": "Guianan",
+      "id": "guia1242",
+      "url": "https://glottolog.org/resource/languoid/id/guia1242"
+    }
+  ],
+  "iso639-3": "car"
+}

@@ -1,0 +1,101 @@
+{
+  "pk": 8370,
+  "hid": "gac",
+  "father_pk": 5873,
+  "family_pk": 134,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "'Mixed Great Andamanese [mixe1288][gac]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "gac",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 has an entry for Mixed Great Andamanese [gac], the Koiné formed by the last speakers of the Great Andamanese varities. But Mixed Great Andamanese cannot be asserted to be unintelligible with its source varieties, in particular Aka-Jeru [akj] (**hh:g:Abbi:Great-Andamanese**).\nSee also: Aka-Jeru [akj]."
+    },
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2064",
+        "label": "Mixed Great Andamanese"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56329630",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "143825",
+        "wordlist_or_less",
+        2009,
+        4,
+        "Anvita Abbi 2009"
+      ],
+      [
+        "657448",
+        "wordlist_or_less",
+        2008,
+        0,
+        "Austin, Peter 2008"
+      ],
+      [
+        "547517",
+        "wordlist_or_less",
+        1966,
+        0,
+        "Blevins, Juliette 1966"
+      ]
+    ]
+  },
+  "id": "mixe1288",
+  "name": "Mixed Great Andamanese",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.67,
+  "longitude": 92.74,
+  "classification": [
+    {
+      "name": "Great Andamanese",
+      "id": "grea1241",
+      "url": "https://glottolog.org/resource/languoid/id/grea1241"
+    },
+    {
+      "name": "North Andamanese-Akakede",
+      "id": "nort3276",
+      "url": "https://glottolog.org/resource/languoid/id/nort3276"
+    },
+    {
+      "name": "Northern Great Andamanese",
+      "id": "nort2678",
+      "url": "https://glottolog.org/resource/languoid/id/nort2678"
+    },
+    {
+      "name": "Jeru-Kora",
+      "id": "jeru1239",
+      "url": "https://glottolog.org/resource/languoid/id/jeru1239"
+    },
+    {
+      "name": "Akajeru",
+      "id": "akaj1239",
+      "url": "https://glottolog.org/resource/languoid/id/akaj1239"
+    }
+  ],
+  "iso639-3": "gac"
+}

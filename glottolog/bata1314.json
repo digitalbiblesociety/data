@@ -1,0 +1,99 @@
+{
+  "pk": 8273,
+  "hid": "bta",
+  "father_pk": 5798,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Demsa [dems1242]':1,'Garoua {Bata} [garo1255]':1,'Jirai [jira1247]':1,'Kobotachi [kobo1254]':1,'Malabu {Bata} [mala1531]':1,'Ndeewe [ndee1246]':1,'Ribaw [riba1250]':1,'Wadi {Bata} [wadi1258]':1,'Zumu [zumu1241]':1)'Bata [bata1314][bta]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 9,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56254",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bata_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "147529",
+        "phonology_or_text",
+        2002,
+        60,
+        "Boyd, Raymond 2002"
+      ],
+      [
+        "506768",
+        "phonology_or_text",
+        2001,
+        60,
+        "Boyd, Raymond 2001"
+      ],
+      [
+        "19688",
+        "wordlist_or_less",
+        1912,
+        6,
+        "Benton, Philip A. 1912"
+      ],
+      [
+        "156414",
+        "wordlist_or_less",
+        1855,
+        2,
+        "Latham, Robert Gordon 1855"
+      ],
+      [
+        "64299",
+        "wordlist_or_less",
+        1852,
+        2,
+        "Barth, Heinrich 1852"
+      ]
+    ]
+  },
+  "id": "bata1314",
+  "name": "Bata",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.68091,
+  "longitude": 12.677,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "Biu-Mandara",
+      "id": "bium1280",
+      "url": "https://glottolog.org/resource/languoid/id/bium1280"
+    },
+    {
+      "name": "South Biu-Mandara",
+      "id": "sout3145",
+      "url": "https://glottolog.org/resource/languoid/id/sout3145"
+    },
+    {
+      "name": "Bataic",
+      "id": "bium1271",
+      "url": "https://glottolog.org/resource/languoid/id/bium1271"
+    }
+  ],
+  "iso639-3": "bta"
+}

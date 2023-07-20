@@ -1,0 +1,83 @@
+{
+  "pk": 12857,
+  "hid": "kef",
+  "father_pk": 9904,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kpessi [kpes1238][kef]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5078",
+        "label": "Kpessi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35748",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "55833",
+        "wordlist_or_less",
+        2011,
+        1,
+        "Angela Kluge 2011"
+      ],
+      [
+        "80686",
+        "wordlist_or_less",
+        1980,
+        1,
+        "Capo, Hounkpatin C. 1980"
+      ]
+    ]
+  },
+  "id": "kpes1238",
+  "name": "Kpessi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 8.05471,
+  "longitude": 1.21078,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Kwa Volta-Congo",
+      "id": "kwav1236",
+      "url": "https://glottolog.org/resource/languoid/id/kwav1236"
+    },
+    {
+      "name": "Gbe",
+      "id": "gbee1241",
+      "url": "https://glottolog.org/resource/languoid/id/gbee1241"
+    },
+    {
+      "name": "Western Gbe",
+      "id": "west2802",
+      "url": "https://glottolog.org/resource/languoid/id/west2802"
+    },
+    {
+      "name": "Kpesi-Waci",
+      "id": "kpes1239",
+      "url": "https://glottolog.org/resource/languoid/id/kpes1239"
+    }
+  ],
+  "iso639-3": "kef"
+}

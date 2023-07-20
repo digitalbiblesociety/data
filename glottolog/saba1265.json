@@ -1,0 +1,93 @@
+{
+  "pk": 9196,
+  "hid": "snv",
+  "father_pk": 6704,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Nuclear Sa''ban [nucl1810]':1,'Pa'' Dalan [pada1263]':1,'Tang Paye [tang1383]':1)'Sa''ban [saba1265][snv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3474891",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sa%27ban_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/saba1265",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_sab",
+        "label": "Sa'ban"
+      }
+    ],
+    "meds": [
+      [
+        "302285",
+        "phonology_or_text",
+        1994,
+        17,
+        "Clayre, Beatrice 1994"
+      ],
+      [
+        "44143",
+        "phonology_or_text",
+        1973,
+        21,
+        "Clayre, I. F. C. S. 1973"
+      ],
+      [
+        "96094",
+        "wordlist_or_less",
+        1970,
+        14,
+        "Beatrice Clayre 1970"
+      ]
+    ]
+  },
+  "id": "saba1265",
+  "name": "Sa'ban",
+  "description": null,
+  "markup_description": null,
+  "latitude": 3.58723,
+  "longitude": 115.664,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "North Borneo Malayo-Polynesian",
+      "id": "nort3253",
+      "url": "https://glottolog.org/resource/languoid/id/nort3253"
+    },
+    {
+      "name": "North Sarawakan",
+      "id": "nort3171",
+      "url": "https://glottolog.org/resource/languoid/id/nort3171"
+    },
+    {
+      "name": "Dayic",
+      "id": "kela1257",
+      "url": "https://glottolog.org/resource/languoid/id/kela1257"
+    }
+  ],
+  "iso639-3": "snv"
+}

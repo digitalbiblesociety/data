@@ -1,0 +1,85 @@
+{
+  "pk": 9261,
+  "hid": "swu",
+  "father_pk": 6749,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bunda [bund1256]':1)'Suwawa [suwa1241][swu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7650588",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Suwawa_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "65343",
+        "grammar_sketch",
+        1985,
+        266,
+        "Jahja, M.A. and Harasa Alitu-Pakaya and H.T. Usup and Waney-Kaunang, Ny. and J. Rangubang 1985-1986"
+      ],
+      [
+        "51322",
+        "grammar_sketch",
+        1981,
+        150,
+        "Kasim, M.M. and Habu Wahidji and Mansoer Pateda and Husain Junus and Nani Tuloli 1981"
+      ],
+      [
+        "70974",
+        "phonology_or_text",
+        1908,
+        86,
+        "Schröder, E.E.W.G. 1908"
+      ]
+    ]
+  },
+  "id": "suwa1241",
+  "name": "Suwawa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 0.4907,
+  "longitude": 123.362,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Greater Central Philippine",
+      "id": "grea1284",
+      "url": "https://glottolog.org/resource/languoid/id/grea1284"
+    },
+    {
+      "name": "Gorontalo-Mongondow",
+      "id": "goro1257",
+      "url": "https://glottolog.org/resource/languoid/id/goro1257"
+    },
+    {
+      "name": "Gorontalic",
+      "id": "goro1273",
+      "url": "https://glottolog.org/resource/languoid/id/goro1273"
+    }
+  ],
+  "iso639-3": "swu"
+}

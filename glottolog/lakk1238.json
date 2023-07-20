@@ -1,0 +1,98 @@
+{
+  "pk": 5124,
+  "hid": "lbc",
+  "father_pk": 3309,
+  "family_pk": 356,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Lakkia [lakk1238][lbc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1505",
+        "label": "Laji"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/1434",
+        "label": "Lakkia"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_lkk",
+        "label": "Lakkia"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lakkia_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/lakk1238",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3027879",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "571201",
+        "long_grammar",
+        2019,
+        356,
+        "Wenjia Fan 2019"
+      ],
+      [
+        "573889",
+        "grammar",
+        2011,
+        271,
+        "Lan, Qingyuan 2011"
+      ],
+      [
+        "664958",
+        "grammar",
+        1982,
+        0,
+        "Mao, Zongwu 毛宗武 and Meng, Chaoji 蒙朝吉 and Zheng, Zongze 鄭宗澤 1982"
+      ],
+      [
+        "136615",
+        "phonology_or_text",
+        1966,
+        18,
+        "André Haudricourt 1966"
+      ]
+    ]
+  },
+  "id": "lakk1238",
+  "name": "Lakkia",
+  "description": null,
+  "markup_description": null,
+  "latitude": 24.1169,
+  "longitude": 110.106,
+  "classification": [
+    {
+      "name": "Tai-Kadai",
+      "id": "taik1256",
+      "url": "https://glottolog.org/resource/languoid/id/taik1256"
+    },
+    {
+      "name": "Kam-Tai",
+      "id": "kamt1241",
+      "url": "https://glottolog.org/resource/languoid/id/kamt1241"
+    },
+    {
+      "name": "Lakkia-Biao",
+      "id": "lakk1237",
+      "url": "https://glottolog.org/resource/languoid/id/lakk1237"
+    }
+  ],
+  "iso639-3": "lbc"
+}

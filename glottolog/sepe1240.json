@@ -1,0 +1,89 @@
+{
+  "pk": 8405,
+  "hid": "spm",
+  "father_pk": 5942,
+  "family_pk": 143,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Sepen [sepe1240][spm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10651",
+        "label": "Sepen"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q4701931",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Akukem_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "590199",
+        "wordlist_or_less",
+        1974,
+        17,
+        "John A. Z'graggen 1974"
+      ],
+      [
+        "306728",
+        "wordlist_or_less",
+        1972,
+        15,
+        "John A. Z'graggen 1972"
+      ],
+      [
+        "37308",
+        "wordlist_or_less",
+        1969,
+        2,
+        "John A. Z'graggen 1969"
+      ]
+    ]
+  },
+  "id": "sepe1240",
+  "name": "Sepen",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.22789,
+  "longitude": 144.809,
+  "classification": [
+    {
+      "name": "Lower Sepik-Ramu",
+      "id": "lowe1437",
+      "url": "https://glottolog.org/resource/languoid/id/lowe1437"
+    },
+    {
+      "name": "Ramu",
+      "id": "ramu1234",
+      "url": "https://glottolog.org/resource/languoid/id/ramu1234"
+    },
+    {
+      "name": "Lower Ramu",
+      "id": "lowe1439",
+      "url": "https://glottolog.org/resource/languoid/id/lowe1439"
+    },
+    {
+      "name": "Ruboni",
+      "id": "kire1239",
+      "url": "https://glottolog.org/resource/languoid/id/kire1239"
+    },
+    {
+      "name": "Mikarewan",
+      "id": "mika1254",
+      "url": "https://glottolog.org/resource/languoid/id/mika1254"
+    }
+  ],
+  "iso639-3": "spm"
+}

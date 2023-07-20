@@ -1,0 +1,87 @@
+{
+  "pk": 11164,
+  "hid": "scw",
+  "father_pk": 8233,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Sya [shaa1247][scw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5032",
+        "label": "Sha"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3438816",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sha_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "102157",
+        "grammar_sketch",
+        1970,
+        29,
+        "Jungraithmayr, Herrmann 1970"
+      ],
+      [
+        "89756",
+        "wordlist_or_less",
+        1968,
+        2,
+        "Jungraithmayr, Herrmann 1968"
+      ]
+    ]
+  },
+  "id": "shaa1247",
+  "name": "Sya",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.23281,
+  "longitude": 8.77569,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "West Chadic",
+      "id": "west2785",
+      "url": "https://glottolog.org/resource/languoid/id/west2785"
+    },
+    {
+      "name": "West Chadic A",
+      "id": "west2714",
+      "url": "https://glottolog.org/resource/languoid/id/west2714"
+    },
+    {
+      "name": "West Chadic A.4",
+      "id": "west2716",
+      "url": "https://glottolog.org/resource/languoid/id/west2716"
+    },
+    {
+      "name": "Ronic",
+      "id": "roni1235",
+      "url": "https://glottolog.org/resource/languoid/id/roni1235"
+    }
+  ],
+  "iso639-3": "scw"
+}

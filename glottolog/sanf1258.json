@@ -1,0 +1,63 @@
+{
+  "pk": 1960,
+  "hid": "hue",
+  "father_pk": 871,
+  "family_pk": 45,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'San Francisco del Mar Huave [sanf1258][hue]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4292",
+        "label": "Huave"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q25559715",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "43187",
+        "grammar",
+        2008,
+        10,
+        "Kim, Yuni 2008"
+      ],
+      [
+        "549965",
+        "grammar_sketch",
+        2005,
+        0,
+        "Yuni Kim 2005"
+      ]
+    ]
+  },
+  "id": "sanf1258",
+  "name": "San Francisco del Mar Huave",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.2836,
+  "longitude": -94.5738,
+  "classification": [
+    {
+      "name": "Huavean",
+      "id": "huav1256",
+      "url": "https://glottolog.org/resource/languoid/id/huav1256"
+    },
+    {
+      "name": "San Francisco-Santa María Huave",
+      "id": "sanf1267",
+      "url": "https://glottolog.org/resource/languoid/id/sanf1267"
+    }
+  ],
+  "iso639-3": "hue"
+}

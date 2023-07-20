@@ -1,0 +1,100 @@
+{
+  "pk": 4707,
+  "hid": "ami",
+  "father_pk": 2984,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Amis [cent2104]':1,'Northern Amis [nata1254][ais]':1,'Southern Amis [sout2929]':1,'Tavalong-Vataan [tava1241]':1)'Amis [amis1246][ami]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ami",
+        "label": "Amis"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Amis_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35132",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "143664",
+        "long_grammar",
+        2006,
+        491,
+        "Wu, Jing-lan Joy 2006"
+      ],
+      [
+        "461863",
+        "grammar",
+        2000,
+        242,
+        "Wu, Jinglan 2000"
+      ],
+      [
+        "143432",
+        "grammar_sketch",
+        1986,
+        185,
+        "He, Rufen and Zeng, Siqi 1986"
+      ],
+      [
+        "569890",
+        "phonology_or_text",
+        1985,
+        325,
+        "Teresa M. Chen 1985"
+      ],
+      [
+        "149162",
+        "phonology_or_text",
+        1982,
+        0,
+        "Teresa M. Chen 1982"
+      ],
+      [
+        "29621",
+        "wordlist_or_less",
+        1910,
+        1,
+        "W. Müller 1910"
+      ]
+    ]
+  },
+  "id": "amis1246",
+  "name": "Amis",
+  "description": null,
+  "markup_description": null,
+  "latitude": 23.0917,
+  "longitude": 121.348,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "East Formosan",
+      "id": "east2493",
+      "url": "https://glottolog.org/resource/languoid/id/east2493"
+    },
+    {
+      "name": "Central East Formosan",
+      "id": "cent2103",
+      "url": "https://glottolog.org/resource/languoid/id/cent2103"
+    }
+  ],
+  "iso639-3": "ami"
+}

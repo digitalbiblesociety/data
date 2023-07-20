@@ -1,0 +1,75 @@
+{
+  "pk": 7994,
+  "hid": "prc",
+  "father_pk": 5611,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ghujulan [ghuj1238]':1,'Nijrau [nijr1238]':1,'Shutul [shut1241]':1)'Parachi [para1299][prc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5289",
+        "label": "Parachi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2640637",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Parachi_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "471598",
+        "long_grammar",
+        1973,
+        316,
+        "Georg Morgenstierne 1973"
+      ]
+    ]
+  },
+  "id": "para1299",
+  "name": "Parachi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 36.0432,
+  "longitude": 70.8805,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Iranian",
+      "id": "iran1269",
+      "url": "https://glottolog.org/resource/languoid/id/iran1269"
+    },
+    {
+      "name": "Ormuri-Parachi",
+      "id": "ormu1249",
+      "url": "https://glottolog.org/resource/languoid/id/ormu1249"
+    }
+  ],
+  "iso639-3": "prc"
+}

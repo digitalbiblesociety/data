@@ -1,0 +1,114 @@
+{
+  "pk": 7802,
+  "hid": "cjp",
+  "father_pk": 5396,
+  "family_pk": 10,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Chirripó [chir1293]':1,'Estrella [estr1249]':1,'Telire [teli1245]':1,'Ujarrás [ujar1238]':1)'Cabécar [cabe1245][cjp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3070",
+        "label": "Cabécar"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_cab",
+        "label": "Cabécar"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cab%C3%A9car_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q27878",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "159986",
+        "grammar_sketch",
+        1989,
+        338,
+        "Margery Peña, Enrique 1989"
+      ],
+      [
+        "52271",
+        "grammar_sketch",
+        1976,
+        64,
+        "Bourland, David H. 1976"
+      ],
+      [
+        "150078",
+        "phonology_or_text",
+        1975,
+        20,
+        "Bourland Hawley, David H. 1975"
+      ],
+      [
+        "52268",
+        "wordlist_or_less",
+        1892,
+        64,
+        "Fernández, León 1892"
+      ],
+      [
+        "64476",
+        "wordlist_or_less",
+        1882,
+        46,
+        "Thiel, Bernardo Augusto 1882"
+      ],
+      [
+        "94560",
+        "wordlist_or_less",
+        1875,
+        24,
+        "William M. Gabb 1875"
+      ]
+    ]
+  },
+  "id": "cabe1245",
+  "name": "Cabécar",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.67031,
+  "longitude": -83.4102,
+  "classification": [
+    {
+      "name": "Chibchan",
+      "id": "chib1249",
+      "url": "https://glottolog.org/resource/languoid/id/chib1249"
+    },
+    {
+      "name": "Core Chibchan",
+      "id": "core1252",
+      "url": "https://glottolog.org/resource/languoid/id/core1252"
+    },
+    {
+      "name": "Isthmic Chibchan",
+      "id": "isth1243",
+      "url": "https://glottolog.org/resource/languoid/id/isth1243"
+    },
+    {
+      "name": "Western Isthmic Chibchan",
+      "id": "west2641",
+      "url": "https://glottolog.org/resource/languoid/id/west2641"
+    },
+    {
+      "name": "Viceitic",
+      "id": "vice1244",
+      "url": "https://glottolog.org/resource/languoid/id/vice1244"
+    }
+  ],
+  "iso639-3": "cjp"
+}

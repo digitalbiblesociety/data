@@ -1,0 +1,86 @@
+{
+  "pk": 16493,
+  "hid": "psu",
+  "father_pk": 13883,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Sauraseni Prakrit [saur1252][psu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Shauraseni_Prakrit",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2452885",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "319327",
+        "grammar_sketch",
+        1150,
+        199,
+        "Richard Pischel 1877, 1880 [1150]"
+      ]
+    ]
+  },
+  "id": "saur1252",
+  "name": "Sauraseni Prakrit",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.46,
+  "longitude": 77.56,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Indo-Aryan",
+      "id": "indo1321",
+      "url": "https://glottolog.org/resource/languoid/id/indo1321"
+    },
+    {
+      "name": "Middle-Modern Indo-Aryan",
+      "id": "midd1375",
+      "url": "https://glottolog.org/resource/languoid/id/midd1375"
+    },
+    {
+      "name": "Continental Indo-Aryan",
+      "id": "cont1248",
+      "url": "https://glottolog.org/resource/languoid/id/cont1248"
+    },
+    {
+      "name": "Midlands Indo-Aryan",
+      "id": "midl1245",
+      "url": "https://glottolog.org/resource/languoid/id/midl1245"
+    },
+    {
+      "name": "Shaurasenic",
+      "id": "shau1239",
+      "url": "https://glottolog.org/resource/languoid/id/shau1239"
+    }
+  ],
+  "iso639-3": "psu"
+}

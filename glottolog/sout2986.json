@@ -1,0 +1,46 @@
+{
+  "pk": 2190,
+  "hid": null,
+  "father_pk": 1007,
+  "family_pk": 128,
+  "level": "family",
+  "bookkeeping": false,
+  "category": "Family",
+  "newick": "('Chalon [chal1270]-l-':1,'Mutsun [muts1243][css]-l-':1,'Rumsen [rums1243]-l-':1)'Southern Costanoan [sout2986]':1",
+  "child_family_count": 0,
+  "child_language_count": 3,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mut",
+        "label": "Mutsun"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q25559664",
+        "label": null
+      }
+    ]
+  },
+  "id": "sout2986",
+  "name": "Southern Costanoan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 36.787073,
+  "longitude": -121.487098,
+  "classification": [
+    {
+      "name": "Miwok-Costanoan",
+      "id": "miwo1274",
+      "url": "https://glottolog.org/resource/languoid/id/miwo1274"
+    },
+    {
+      "name": "Costanoan",
+      "id": "cost1250",
+      "url": "https://glottolog.org/resource/languoid/id/cost1250"
+    }
+  ]
+}

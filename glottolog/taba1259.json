@@ -1,0 +1,98 @@
+{
+  "pk": 13781,
+  "hid": "tab",
+  "father_pk": 10677,
+  "family_pk": 426,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('North Tabasaran [nort3393]':1,'South Tabasaran [sout2752]':1)'Tabasaran [taba1259][tab]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3051",
+        "label": "Tabasaran"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tbs",
+        "label": "Tabassaran"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tabasaran_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q34079",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "80199",
+        "long_grammar",
+        1979,
+        535,
+        "Uslar, Petr K. 1979"
+      ],
+      [
+        "95189",
+        "long_grammar",
+        1965,
+        416,
+        "Aleksandr A. Magometov 1965"
+      ],
+      [
+        "660488",
+        "grammar_sketch",
+        1905,
+        260,
+        "Adolf M. Dirr 1905"
+      ]
+    ]
+  },
+  "id": "taba1259",
+  "name": "Tabasaran",
+  "description": null,
+  "markup_description": null,
+  "latitude": 42.0198,
+  "longitude": 47.8379,
+  "classification": [
+    {
+      "name": "Nakh-Daghestanian",
+      "id": "nakh1245",
+      "url": "https://glottolog.org/resource/languoid/id/nakh1245"
+    },
+    {
+      "name": "Daghestanian",
+      "id": "dagh1238",
+      "url": "https://glottolog.org/resource/languoid/id/dagh1238"
+    },
+    {
+      "name": "Lezgic",
+      "id": "lezg1248",
+      "url": "https://glottolog.org/resource/languoid/id/lezg1248"
+    },
+    {
+      "name": "Samur",
+      "id": "nucl1321",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1321"
+    },
+    {
+      "name": "Eastern Samur",
+      "id": "east2790",
+      "url": "https://glottolog.org/resource/languoid/id/east2790"
+    },
+    {
+      "name": "Tabasaran-Aghul-Lezgi",
+      "id": "east2367",
+      "url": "https://glottolog.org/resource/languoid/id/east2367"
+    }
+  ],
+  "iso639-3": "tab"
+}

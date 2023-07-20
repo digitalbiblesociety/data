@@ -1,0 +1,87 @@
+{
+  "pk": 5402,
+  "hid": "grs",
+  "father_pk": 3544,
+  "family_pk": 11,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Gresi [gres1240][grs]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q5607612",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Gresi_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "34329",
+        "grammar_sketch",
+        2002,
+        263,
+        "Theodorus T. Purba and Yacobus Paidi and Semuin Karoba 2002"
+      ],
+      [
+        "42038",
+        "wordlist_or_less",
+        1994,
+        4,
+        "Smits, Leo and Voorhoeve, C. L. 1994"
+      ],
+      [
+        "126692",
+        "wordlist_or_less",
+        1975,
+        1,
+        "C. L. Voorhoeve 1975"
+      ],
+      [
+        "667969",
+        "wordlist_or_less",
+        1973,
+        105,
+        "{No Author Stated} 1973"
+      ]
+    ]
+  },
+  "id": "gres1240",
+  "name": "Gresi",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.72229,
+  "longitude": 140.279,
+  "classification": [
+    {
+      "name": "Nimboranic",
+      "id": "nimb1257",
+      "url": "https://glottolog.org/resource/languoid/id/nimb1257"
+    },
+    {
+      "name": "Outer Nimboranic",
+      "id": "oute1261",
+      "url": "https://glottolog.org/resource/languoid/id/oute1261"
+    },
+    {
+      "name": "Mlap-Gresi-Kemtuik",
+      "id": "mlap1239",
+      "url": "https://glottolog.org/resource/languoid/id/mlap1239"
+    },
+    {
+      "name": "Gresi-Kemtuik",
+      "id": "gres1241",
+      "url": "https://glottolog.org/resource/languoid/id/gres1241"
+    }
+  ],
+  "iso639-3": "grs"
+}

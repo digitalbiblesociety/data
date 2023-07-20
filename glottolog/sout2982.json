@@ -1,0 +1,77 @@
+{
+  "pk": 1208,
+  "hid": "pom",
+  "father_pk": 214,
+  "family_pk": 214,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Southeastern Pomo [sout2982][pom]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4987",
+        "label": "Southeastern Pomo"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3396025",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Southeastern_Pomo_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/sout2982",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_pso",
+        "label": "Pomo (Southeastern)"
+      }
+    ],
+    "meds": [
+      [
+        "550906",
+        "grammar",
+        1970,
+        254,
+        "Moshinsky, Julius 1970"
+      ],
+      [
+        "157804",
+        "wordlist_or_less",
+        1908,
+        16,
+        "Barrett, Samuel A. 1908"
+      ],
+      [
+        "38887",
+        "wordlist_or_less",
+        1877,
+        1,
+        "J. W. Powell 1877"
+      ]
+    ]
+  },
+  "id": "sout2982",
+  "name": "Southeastern Pomo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 38.9354,
+  "longitude": -122.599,
+  "classification": [
+    {
+      "name": "Pomoan",
+      "id": "pomo1273",
+      "url": "https://glottolog.org/resource/languoid/id/pomo1273"
+    }
+  ],
+  "iso639-3": "pom"
+}

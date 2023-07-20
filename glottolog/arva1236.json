@@ -1,0 +1,82 @@
+{
+  "pk": 8024,
+  "hid": "aat",
+  "father_pk": 5627,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Northwestern Arvanitika [nort2603]':1,'South Central Arvanitika [sout2608]':1,'Thracian Arvanitika [thra1249]':1)'Arvanitika Albanian [arva1236][aat]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3582",
+        "label": "Arvanitika"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Arvanitika",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q29347",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "92222",
+        "long_grammar",
+        1991,
+        547,
+        "Sasse, Hans-Jürgen 1991"
+      ],
+      [
+        "317923",
+        "grammar",
+        1965,
+        178,
+        "Haebler, Claus 1965"
+      ]
+    ]
+  },
+  "id": "arva1236",
+  "name": "Arvanitika Albanian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 38.283,
+  "longitude": 23.3703,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Albanian",
+      "id": "alba1267",
+      "url": "https://glottolog.org/resource/languoid/id/alba1267"
+    },
+    {
+      "name": "Albanian-Tosk",
+      "id": "alba1268",
+      "url": "https://glottolog.org/resource/languoid/id/alba1268"
+    },
+    {
+      "name": "Southern Tosk",
+      "id": "sout3378",
+      "url": "https://glottolog.org/resource/languoid/id/sout3378"
+    }
+  ],
+  "iso639-3": "aat"
+}

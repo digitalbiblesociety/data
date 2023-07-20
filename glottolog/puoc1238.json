@@ -1,0 +1,76 @@
+{
+  "pk": 5312,
+  "hid": "puo",
+  "father_pk": 3487,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ksingmul [puoc1238][puo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6440803",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ksingmul_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/puoc1238",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ksi",
+        "label": "Ksingmul"
+      }
+    ],
+    "meds": [
+      [
+        "27550",
+        "long_grammar",
+        1990,
+        418,
+        "Pogibenko, T.G. and Buy, Kxany Txe 1990"
+      ],
+      [
+        "130340",
+        "wordlist_or_less",
+        1906,
+        3,
+        "Paul Macey 1906"
+      ]
+    ]
+  },
+  "id": "puoc1238",
+  "name": "Ksingmul",
+  "description": null,
+  "markup_description": null,
+  "latitude": 20.8862,
+  "longitude": 103.931,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Khmuic",
+      "id": "khmu1236",
+      "url": "https://glottolog.org/resource/languoid/id/khmu1236"
+    },
+    {
+      "name": "Phay-Pram",
+      "id": "phay1242",
+      "url": "https://glottolog.org/resource/languoid/id/phay1242"
+    }
+  ],
+  "iso639-3": "puo"
+}

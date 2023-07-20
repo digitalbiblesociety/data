@@ -1,0 +1,65 @@
+{
+  "pk": 4053,
+  "hid": "pnj",
+  "father_pk": 2312,
+  "family_pk": 153,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "'Pinjarup [pinj1244][pnj]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6721",
+        "label": "Pinjarup"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33103591",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/pinj1244",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "668316",
+        "grammar",
+        1996,
+        0,
+        "Thieberger, Nicholas 1996"
+      ]
+    ]
+  },
+  "id": "pinj1244",
+  "name": "Pinjarup",
+  "description": null,
+  "markup_description": null,
+  "latitude": -32.7,
+  "longitude": 115.7,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "South-West Pama-Nyungan",
+      "id": "sout3134",
+      "url": "https://glottolog.org/resource/languoid/id/sout3134"
+    },
+    {
+      "name": "Nyunga",
+      "id": "nyun1247",
+      "url": "https://glottolog.org/resource/languoid/id/nyun1247"
+    }
+  ],
+  "iso639-3": "pnj"
+}

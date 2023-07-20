@@ -1,0 +1,82 @@
+{
+  "pk": 3903,
+  "hid": "yak",
+  "father_pk": 2193,
+  "family_pk": 129,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Klikitat [klik1240]':1,'Nuclear Yakima [nucl1237]':1)'Northwest Sahaptin [yaki1237][yak]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_shp",
+        "label": "Klikitat"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35976053",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "51883",
+        "long_grammar",
+        2010,
+        529,
+        "Jansen, Joana Worth 2010"
+      ],
+      [
+        "85136",
+        "grammar",
+        1931,
+        208,
+        "Melville Jacobs 1931"
+      ],
+      [
+        "302051",
+        "grammar_sketch",
+        1862,
+        73,
+        "Marie-Charles Pandosy 1862"
+      ],
+      [
+        "162143",
+        "wordlist_or_less",
+        1841,
+        2,
+        "John Scouler 1841"
+      ]
+    ]
+  },
+  "id": "yaki1237",
+  "name": "Northwest Sahaptin",
+  "description": null,
+  "markup_description": null,
+  "latitude": 46.2655,
+  "longitude": -120.756,
+  "classification": [
+    {
+      "name": "Sahaptian",
+      "id": "saha1239",
+      "url": "https://glottolog.org/resource/languoid/id/saha1239"
+    },
+    {
+      "name": "Sahaptin",
+      "id": "saha1240",
+      "url": "https://glottolog.org/resource/languoid/id/saha1240"
+    },
+    {
+      "name": "Northern Sahaptin",
+      "id": "nort1527",
+      "url": "https://glottolog.org/resource/languoid/id/nort1527"
+    }
+  ],
+  "iso639-3": "yak"
+}

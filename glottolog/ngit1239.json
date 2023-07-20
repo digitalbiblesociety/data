@@ -1,0 +1,71 @@
+{
+  "pk": 2241,
+  "hid": "niy",
+  "father_pk": 1029,
+  "family_pk": 140,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Ngiti [cent2348]':1,'Northern Ngiti [nort3306]':1,'Southern Ngiti [sout3288]':1)'Ngiti [ngit1239][niy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7022396",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ngiti_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/ngit1239",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nti",
+        "label": "Ngiti"
+      }
+    ],
+    "meds": [
+      [
+        "145707",
+        "long_grammar",
+        1994,
+        531,
+        "Kutsch Lojenga, Constance 1994"
+      ],
+      [
+        "152523",
+        "wordlist_or_less",
+        1993,
+        0,
+        "na 1993"
+      ]
+    ]
+  },
+  "id": "ngit1239",
+  "name": "Ngiti",
+  "description": null,
+  "markup_description": null,
+  "latitude": 1.30455,
+  "longitude": 30.2242,
+  "classification": [
+    {
+      "name": "Central Sudanic",
+      "id": "cent2225",
+      "url": "https://glottolog.org/resource/languoid/id/cent2225"
+    },
+    {
+      "name": "Lenduic",
+      "id": "lend1246",
+      "url": "https://glottolog.org/resource/languoid/id/lend1246"
+    }
+  ],
+  "iso639-3": "niy"
+}

@@ -1,0 +1,66 @@
+{
+  "pk": 3071,
+  "hid": "mtm",
+  "father_pk": 1562,
+  "family_pk": 302,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Karagas {Mator} [kara1461]':1,'Nuclear Mator [nucl1288]':1,'Taigi [taig1245]':1)'Mator-Taigi-Karagas [mato1250][mtm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q20669419",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "89909",
+        "grammar_sketch",
+        1997,
+        238,
+        "Eugen Helimski 1997"
+      ],
+      [
+        "318243",
+        "grammar_sketch",
+        1993,
+        8,
+        "E. A. Xelimskij 1993"
+      ],
+      [
+        "34023",
+        "wordlist_or_less",
+        1806,
+        32,
+        "Johann Christoph Adelung 1806"
+      ]
+    ]
+  },
+  "id": "mato1250",
+  "name": "Mator-Taigi-Karagas",
+  "description": null,
+  "markup_description": null,
+  "latitude": 53.4349,
+  "longitude": 102.856,
+  "classification": [
+    {
+      "name": "Uralic",
+      "id": "ural1272",
+      "url": "https://glottolog.org/resource/languoid/id/ural1272"
+    },
+    {
+      "name": "Samoyedic",
+      "id": "samo1298",
+      "url": "https://glottolog.org/resource/languoid/id/samo1298"
+    }
+  ],
+  "iso639-3": "mtm"
+}

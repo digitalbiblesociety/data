@@ -1,0 +1,89 @@
+{
+  "pk": 8034,
+  "hid": "tsd",
+  "father_pk": 5634,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Northern Tsakonian [nort2602]':1,'Propontis Tsakonian [prop1240]':1,'Southern Tsakonian [sout2607]':1)'Tsakonian [tsak1248][tsd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3499",
+        "label": "Tsakonian"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tsakonian_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q220607",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "109977",
+        "long_grammar",
+        1934,
+        550,
+        "Pernot, Hubert 1934"
+      ],
+      [
+        "551230",
+        "grammar_sketch",
+        1870,
+        97,
+        "Oikonomos, Theōdoros Μ. 1870"
+      ],
+      [
+        "570516",
+        "grammar_sketch",
+        1866,
+        77,
+        "Gustave Deville 1866"
+      ]
+    ]
+  },
+  "id": "tsak1248",
+  "name": "Tsakonian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 37.1405,
+  "longitude": 22.7341,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Graeco-Phrygian",
+      "id": "grae1234",
+      "url": "https://glottolog.org/resource/languoid/id/grae1234"
+    },
+    {
+      "name": "Greek",
+      "id": "gree1276",
+      "url": "https://glottolog.org/resource/languoid/id/gree1276"
+    },
+    {
+      "name": "North Greek",
+      "id": "nort3405",
+      "url": "https://glottolog.org/resource/languoid/id/nort3405"
+    }
+  ],
+  "iso639-3": "tsd"
+}

@@ -1,0 +1,76 @@
+{
+  "pk": 4132,
+  "hid": "oaa",
+  "father_pk": 2359,
+  "family_pk": 162,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Poronaisk [poro1251]':1,'Val-Nogliki [valn1238]':1)'Orok [orok1265][oaa]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3043",
+        "label": "Orok"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33928",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Orok_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ork",
+        "label": "Orok"
+      }
+    ],
+    "meds": [
+      [
+        "48103",
+        "grammar",
+        1967,
+        155,
+        "T. I. Petrova 1967"
+      ],
+      [
+        "319525",
+        "grammar_sketch",
+        1926,
+        86,
+        "Nakanome, Akira 1926"
+      ]
+    ]
+  },
+  "id": "orok1265",
+  "name": "Orok",
+  "description": null,
+  "markup_description": null,
+  "latitude": 49.36393,
+  "longitude": 143.12819,
+  "classification": [
+    {
+      "name": "Tungusic",
+      "id": "tung1282",
+      "url": "https://glottolog.org/resource/languoid/id/tung1282"
+    },
+    {
+      "name": "Central-Western Tungusic",
+      "id": "orok1264",
+      "url": "https://glottolog.org/resource/languoid/id/orok1264"
+    },
+    {
+      "name": "Ulchaic",
+      "id": "ulch1242",
+      "url": "https://glottolog.org/resource/languoid/id/ulch1242"
+    }
+  ],
+  "iso639-3": "oaa"
+}

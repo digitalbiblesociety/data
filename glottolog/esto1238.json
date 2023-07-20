@@ -1,0 +1,65 @@
+{
+  "pk": 4337,
+  "hid": "eso",
+  "father_pk": 2527,
+  "family_pk": 206,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Sign Language",
+  "newick": "'Estonian Sign Language [esto1238][eso]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/7179",
+        "label": "Estonian Sign Language"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3196221",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Estonian_Sign_Language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "478325",
+        "phonology_or_text",
+        1988,
+        80,
+        "Toom, Koostaja R. 1988"
+      ]
+    ]
+  },
+  "id": "esto1238",
+  "name": "Estonian Sign Language",
+  "description": null,
+  "markup_description": null,
+  "latitude": 58.947,
+  "longitude": 24.566,
+  "classification": [
+    {
+      "name": "Sign Language",
+      "id": "sign1238",
+      "url": "https://glottolog.org/resource/languoid/id/sign1238"
+    },
+    {
+      "name": "Deaf Sign Language",
+      "id": "deaf1237",
+      "url": "https://glottolog.org/resource/languoid/id/deaf1237"
+    },
+    {
+      "name": "RSLic",
+      "id": "russ1270",
+      "url": "https://glottolog.org/resource/languoid/id/russ1270"
+    }
+  ],
+  "iso639-3": "eso"
+}

@@ -1,0 +1,70 @@
+{
+  "pk": 1895,
+  "hid": "msf",
+  "father_pk": 443,
+  "family_pk": 11,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mekwei [mekw1241][msf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q4544752",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mekwei_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "42038",
+        "wordlist_or_less",
+        1994,
+        4,
+        "Smits, Leo and Voorhoeve, C. L. 1994"
+      ],
+      [
+        "126692",
+        "wordlist_or_less",
+        1975,
+        1,
+        "C. L. Voorhoeve 1975"
+      ],
+      [
+        "17111",
+        "wordlist_or_less",
+        1955,
+        1,
+        "Galis, Klaas Wilhelm 1955"
+      ]
+    ]
+  },
+  "id": "mekw1241",
+  "name": "Mekwei",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.52264,
+  "longitude": 140.326,
+  "classification": [
+    {
+      "name": "Nimboranic",
+      "id": "nimb1257",
+      "url": "https://glottolog.org/resource/languoid/id/nimb1257"
+    },
+    {
+      "name": "Outer Nimboranic",
+      "id": "oute1261",
+      "url": "https://glottolog.org/resource/languoid/id/oute1261"
+    }
+  ],
+  "iso639-3": "msf"
+}

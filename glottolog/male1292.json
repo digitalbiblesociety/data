@@ -1,0 +1,110 @@
+{
+  "pk": 14644,
+  "hid": "pqm",
+  "father_pk": 11671,
+  "family_pk": 178,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Malecite [male1293]':1,'Passamaquoddy [pass1249]':1)'Malecite-Passamaquoddy [male1292][pqm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1748",
+        "label": "Maliseet-Passamaquoddy"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3183144",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Malecite-Passamaquoddy_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_psm",
+        "label": "Passamaquoddy-Maliseet"
+      }
+    ],
+    "meds": [
+      [
+        "85836",
+        "long_grammar",
+        2001,
+        319,
+        "B. Bruening 2001"
+      ],
+      [
+        "150712",
+        "grammar",
+        1971,
+        59,
+        "Teeter, Karl V. 1971"
+      ],
+      [
+        "26939",
+        "wordlist_or_less",
+        1885,
+        16,
+        "Abby Langdon Alger 1885"
+      ],
+      [
+        "105291",
+        "wordlist_or_less",
+        1855,
+        3,
+        "S. T. Rand 1855"
+      ]
+    ]
+  },
+  "id": "male1292",
+  "name": "Malecite-Passamaquoddy",
+  "description": null,
+  "markup_description": null,
+  "latitude": 45.494475,
+  "longitude": -67.40805,
+  "classification": [
+    {
+      "name": "Algic",
+      "id": "algi1248",
+      "url": "https://glottolog.org/resource/languoid/id/algi1248"
+    },
+    {
+      "name": "Algonquian-Blackfoot",
+      "id": "algo1256",
+      "url": "https://glottolog.org/resource/languoid/id/algo1256"
+    },
+    {
+      "name": "Algonquian",
+      "id": "algo1257",
+      "url": "https://glottolog.org/resource/languoid/id/algo1257"
+    },
+    {
+      "name": "Eastern Algonquian",
+      "id": "east2700",
+      "url": "https://glottolog.org/resource/languoid/id/east2700"
+    },
+    {
+      "name": "Maritimes-Southern New England Algonquian",
+      "id": "mari1452",
+      "url": "https://glottolog.org/resource/languoid/id/mari1452"
+    },
+    {
+      "name": "Northern Eastern Algonquian",
+      "id": "nort3414",
+      "url": "https://glottolog.org/resource/languoid/id/nort3414"
+    },
+    {
+      "name": "Micmacic",
+      "id": "micm1234",
+      "url": "https://glottolog.org/resource/languoid/id/micm1234"
+    }
+  ],
+  "iso639-3": "pqm"
+}

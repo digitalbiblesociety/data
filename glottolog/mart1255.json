@@ -1,0 +1,101 @@
+{
+  "pk": 8502,
+  "hid": "vma",
+  "father_pk": 6042,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Martuthunira [mart1255][vma]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3380",
+        "label": "Martuthunira"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/w35",
+        "label": "Martuthunira"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Martuthunira_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/mart1255",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mrt",
+        "label": "Martuthunira"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q975399",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "128387",
+        "long_grammar",
+        1987,
+        390,
+        "Alan Dench 1987"
+      ],
+      [
+        "1317",
+        "phonology_or_text",
+        1978,
+        0,
+        "Scheffler, H. W. 1978"
+      ],
+      [
+        "393",
+        "wordlist_or_less",
+        1899,
+        0,
+        "Yabaroo (Cameron, Alexander Stewart) 1899"
+      ]
+    ]
+  },
+  "id": "mart1255",
+  "name": "Martuthunira",
+  "description": null,
+  "markup_description": null,
+  "latitude": -20.9294,
+  "longitude": 116.607,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "South-West Pama-Nyungan",
+      "id": "sout3134",
+      "url": "https://glottolog.org/resource/languoid/id/sout3134"
+    },
+    {
+      "name": "Pilbara",
+      "id": "pilb1234",
+      "url": "https://glottolog.org/resource/languoid/id/pilb1234"
+    },
+    {
+      "name": "Ngayarda",
+      "id": "ngay1241",
+      "url": "https://glottolog.org/resource/languoid/id/ngay1241"
+    },
+    {
+      "name": "Central Ngayarda",
+      "id": "cent2248",
+      "url": "https://glottolog.org/resource/languoid/id/cent2248"
+    }
+  ],
+  "iso639-3": "vma"
+}

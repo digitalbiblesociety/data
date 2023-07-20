@@ -1,0 +1,82 @@
+{
+  "pk": 3052,
+  "hid": "udm",
+  "father_pk": 1554,
+  "family_pk": 302,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Besermyan [bese1243]':1,'Central Udmurt [cent2320]':1,'North Udmurt [nort2676]':1,('Peripheral South Udmurt [peri1263]':1)'South Udmurt [sout2681]':1)'Udmurt [udmu1245][udm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3010",
+        "label": "Udmurt"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_udm",
+        "label": "Udmurt"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Udmurt_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/udmu1245",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q13238",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "128913",
+        "long_grammar",
+        1962,
+        375,
+        "Perevoščikov, Petr Nikolaevič 1962"
+      ],
+      [
+        "158626",
+        "long_grammar",
+        1851,
+        337,
+        "Ferdinand J. Wiedemann 1851"
+      ],
+      [
+        "546887",
+        "grammar_sketch",
+        1775,
+        147,
+        "Alatyrev, V. I. 1975 [1775]"
+      ]
+    ]
+  },
+  "id": "udmu1245",
+  "name": "Udmurt",
+  "description": null,
+  "markup_description": null,
+  "latitude": 56.12921,
+  "longitude": 52.63548,
+  "classification": [
+    {
+      "name": "Uralic",
+      "id": "ural1272",
+      "url": "https://glottolog.org/resource/languoid/id/ural1272"
+    },
+    {
+      "name": "Permian",
+      "id": "perm1256",
+      "url": "https://glottolog.org/resource/languoid/id/perm1256"
+    }
+  ],
+  "iso639-3": "udm"
+}

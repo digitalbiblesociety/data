@@ -1,0 +1,112 @@
+{
+  "pk": 19475,
+  "hid": "kne",
+  "father_pk": 17481,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bakun-Kibungan [baku1262]':1,'Guinzadan [guin1257]':1,'Kapangan [kapa1253]':1,'Mankayan-Buguias [mank1255]':1)'Kankanaey [kank1243][kne]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kky",
+        "label": "Kankanay"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q18753329",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "416362",
+        "long_grammar",
+        2014,
+        427,
+        "Janet L. Allen 2014"
+      ],
+      [
+        "303319",
+        "grammar",
+        2011,
+        295,
+        "Janet L. Allen 2011"
+      ],
+      [
+        "46182",
+        "grammar_sketch",
+        1976,
+        67,
+        "na 1976"
+      ],
+      [
+        "548916",
+        "wordlist_or_less",
+        1903,
+        9,
+        "Vicente Garcia 1903"
+      ]
+    ]
+  },
+  "id": "kank1243",
+  "name": "Kankanaey",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.8548,
+  "longitude": 120.689,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Northern Luzon",
+      "id": "nort3238",
+      "url": "https://glottolog.org/resource/languoid/id/nort3238"
+    },
+    {
+      "name": "Meso-Cordilleran",
+      "id": "meso1254",
+      "url": "https://glottolog.org/resource/languoid/id/meso1254"
+    },
+    {
+      "name": "South-Central Cordilleran",
+      "id": "sout3211",
+      "url": "https://glottolog.org/resource/languoid/id/sout3211"
+    },
+    {
+      "name": "Central Cordilleran",
+      "id": "cent2296",
+      "url": "https://glottolog.org/resource/languoid/id/cent2296"
+    },
+    {
+      "name": "Nuclear Cordilleran",
+      "id": "nucl1754",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1754"
+    },
+    {
+      "name": "Bontok-Kankanay",
+      "id": "bont1246",
+      "url": "https://glottolog.org/resource/languoid/id/bont1246"
+    },
+    {
+      "name": "Kankanay",
+      "id": "kank1245",
+      "url": "https://glottolog.org/resource/languoid/id/kank1245"
+    }
+  ],
+  "iso639-3": "kne"
+}

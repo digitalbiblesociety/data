@@ -1,0 +1,112 @@
+{
+  "pk": 12868,
+  "hid": "fon",
+  "father_pk": 9907,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Agbome [agbo1241]':1,'Arohun [aroh1238]':1,'Kpase [kpas1241]':1)'Fon [fonn1241][fon]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_fon",
+        "label": "Fongbe"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Fon_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/fonn1241",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33291",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "546879",
+        "long_grammar",
+        1991,
+        736,
+        "Akoha, Albert Bienvenu 1991"
+      ],
+      [
+        "64247",
+        "long_grammar",
+        1985,
+        524,
+        "Guédou, Georges A. G. 1985"
+      ],
+      [
+        "94471",
+        "long_grammar",
+        1894,
+        441,
+        "Delafosse, Maurice 1894"
+      ],
+      [
+        "111131",
+        "grammar_sketch",
+        1891,
+        97,
+        "Henrici, Ernst 1891"
+      ],
+      [
+        "577315",
+        "wordlist_or_less",
+        1874,
+        0,
+        "Skertchley, J. A. 1874"
+      ]
+    ]
+  },
+  "id": "fonn1241",
+  "name": "Fon",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.15484,
+  "longitude": 1.66495,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Kwa Volta-Congo",
+      "id": "kwav1236",
+      "url": "https://glottolog.org/resource/languoid/id/kwav1236"
+    },
+    {
+      "name": "Gbe",
+      "id": "gbee1241",
+      "url": "https://glottolog.org/resource/languoid/id/gbee1241"
+    },
+    {
+      "name": "Eastern Gbe",
+      "id": "east2711",
+      "url": "https://glottolog.org/resource/languoid/id/east2711"
+    },
+    {
+      "name": "Fongbeic",
+      "id": "fong1244",
+      "url": "https://glottolog.org/resource/languoid/id/fong1244"
+    }
+  ],
+  "iso639-3": "fon"
+}

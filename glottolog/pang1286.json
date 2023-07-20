@@ -1,0 +1,81 @@
+{
+  "pk": 15521,
+  "hid": "pgs",
+  "father_pk": 12787,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Jega [jega1239]':1,'Komo [komo1259]':1,'Nuclear Pangseng [nucl1356]':1)'Pangseng [pang1286][pgs]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3914027",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Pangseng_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "19354",
+        "wordlist_or_less",
+        1979,
+        3,
+        "Shimizu, Kiyoshi 1979"
+      ]
+    ]
+  },
+  "id": "pang1286",
+  "name": "Pangseng",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.304,
+  "longitude": 11.196,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "North Volta-Congo",
+      "id": "nort3149",
+      "url": "https://glottolog.org/resource/languoid/id/nort3149"
+    },
+    {
+      "name": "Cameroun-Ubangian",
+      "id": "came1255",
+      "url": "https://glottolog.org/resource/languoid/id/came1255"
+    },
+    {
+      "name": "Central Adamawa",
+      "id": "samb1322",
+      "url": "https://glottolog.org/resource/languoid/id/samb1322"
+    },
+    {
+      "name": "Mumuye-Yandang",
+      "id": "mumu1249",
+      "url": "https://glottolog.org/resource/languoid/id/mumu1249"
+    },
+    {
+      "name": "Mumuyic",
+      "id": "mumu1250",
+      "url": "https://glottolog.org/resource/languoid/id/mumu1250"
+    }
+  ],
+  "iso639-3": "pgs"
+}

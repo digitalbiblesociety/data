@@ -1,0 +1,93 @@
+{
+  "pk": 8448,
+  "hid": "bpt",
+  "father_pk": 5980,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Barrow Point [barr1247][bpt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3960",
+        "label": "Barrow Point"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Barrow_Point_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/barr1247",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2567916",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "95211",
+        "wordlist_or_less",
+        1998,
+        82,
+        "John Beard Haviland and Roger Hart 1998"
+      ],
+      [
+        "303831",
+        "wordlist_or_less",
+        1933,
+        10,
+        "Hale, Herbert M. and Tindale, Norman B. 1933, 1934"
+      ],
+      [
+        "40780",
+        "wordlist_or_less",
+        1886,
+        3,
+        "Hodgkinson, William Oswald 1886"
+      ]
+    ]
+  },
+  "id": "barr1247",
+  "name": "Barrow Point",
+  "description": null,
+  "markup_description": null,
+  "latitude": -14.1219,
+  "longitude": 144.531,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Paman",
+      "id": "pama1251",
+      "url": "https://glottolog.org/resource/languoid/id/pama1251"
+    },
+    {
+      "name": "Compromise Middle Pama",
+      "id": "comp1236",
+      "url": "https://glottolog.org/resource/languoid/id/comp1236"
+    },
+    {
+      "name": "Wik",
+      "id": "wika1239",
+      "url": "https://glottolog.org/resource/languoid/id/wika1239"
+    },
+    {
+      "name": "Flinders-Barrow",
+      "id": "flin1248",
+      "url": "https://glottolog.org/resource/languoid/id/flin1248"
+    }
+  ],
+  "iso639-3": "bpt"
+}

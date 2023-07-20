@@ -1,0 +1,116 @@
+{
+  "pk": 20498,
+  "hid": "dzo",
+  "father_pk": 18499,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ha {Bhutan} [haaa1251]':1,'Northern Thimphu [nort2708]':1,'Wang-The [wang1287]':1)'Dzongkha [dzon1239][dzo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Dzongkha",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/dzon1239",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33081",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "570726",
+        "long_grammar",
+        2019,
+        719,
+        "Karma Tshering of Gaselô and George van Driem 2019"
+      ],
+      [
+        "578491",
+        "long_grammar",
+        2018,
+        642,
+        "Watters, Stephen 2018"
+      ],
+      [
+        "90405",
+        "long_grammar",
+        1998,
+        504,
+        "van Driem, George 1998"
+      ],
+      [
+        "547797",
+        "grammar_sketch",
+        1909,
+        92,
+        "Quintin Byrne 1909"
+      ]
+    ]
+  },
+  "id": "dzon1239",
+  "name": "Dzongkha",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.410786,
+  "longitude": 89.581604,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "Bodish",
+      "id": "bodi1257",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1257"
+    },
+    {
+      "name": "Early Old Tibetan",
+      "id": "oldm1245",
+      "url": "https://glottolog.org/resource/languoid/id/oldm1245"
+    },
+    {
+      "name": "Middle Old Tibetan",
+      "id": "tibe1276",
+      "url": "https://glottolog.org/resource/languoid/id/tibe1276"
+    },
+    {
+      "name": "Late Old Tibetan",
+      "id": "late1253",
+      "url": "https://glottolog.org/resource/languoid/id/late1253"
+    },
+    {
+      "name": "Southern Tibetic",
+      "id": "sout3217",
+      "url": "https://glottolog.org/resource/languoid/id/sout3217"
+    },
+    {
+      "name": "Dzongkhic",
+      "id": "dzon1238",
+      "url": "https://glottolog.org/resource/languoid/id/dzon1238"
+    },
+    {
+      "name": "Nuclear Dzongkhic",
+      "id": "nucl1307",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1307"
+    }
+  ],
+  "iso639-3": "dzo"
+}

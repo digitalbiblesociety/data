@@ -1,0 +1,65 @@
+{
+  "pk": 4356,
+  "hid": "aac",
+  "father_pk": 2614,
+  "family_pk": 213,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ari [arii1243][aac]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2887",
+        "label": "Ari"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q1811224",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ari_language_(New_Guinea)",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "112728",
+        "wordlist_or_less",
+        1976,
+        3,
+        "Ger P. Reesink 1976"
+      ]
+    ]
+  },
+  "id": "arii1243",
+  "name": "Ari",
+  "description": null,
+  "markup_description": null,
+  "latitude": -7.95526,
+  "longitude": 142.4,
+  "classification": [
+    {
+      "name": "Suki-Gogodala",
+      "id": "suki1244",
+      "url": "https://glottolog.org/resource/languoid/id/suki1244"
+    },
+    {
+      "name": "Gogodalic",
+      "id": "gogo1264",
+      "url": "https://glottolog.org/resource/languoid/id/gogo1264"
+    },
+    {
+      "name": "Ari-Waruna",
+      "id": "ariw1234",
+      "url": "https://glottolog.org/resource/languoid/id/ariw1234"
+    }
+  ],
+  "iso639-3": "aac"
+}

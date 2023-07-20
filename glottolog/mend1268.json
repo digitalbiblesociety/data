@@ -1,0 +1,72 @@
+{
+  "pk": 4807,
+  "hid": "sim",
+  "father_pk": 3075,
+  "family_pk": 304,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mende {Papua New Guinea} [mend1268][sim]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10605",
+        "label": "Mende"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Seim_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7446815",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "105341",
+        "grammar_sketch",
+        1994,
+        129,
+        "Hanna Marie Hoel and Tarja Ikäheimonen and Michiyo Nozawa 1994"
+      ],
+      [
+        "138610",
+        "wordlist_or_less",
+        1968,
+        1,
+        "Donald C. Laycock 1968"
+      ]
+    ]
+  },
+  "id": "mend1268",
+  "name": "Mende (Papua New Guinea)",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.67233,
+  "longitude": 142.683,
+  "classification": [
+    {
+      "name": "Sepik",
+      "id": "sepi1257",
+      "url": "https://glottolog.org/resource/languoid/id/sepi1257"
+    },
+    {
+      "name": "Nukuma",
+      "id": "nuku1256",
+      "url": "https://glottolog.org/resource/languoid/id/nuku1256"
+    },
+    {
+      "name": "Kwanga-Mende",
+      "id": "kwan1286",
+      "url": "https://glottolog.org/resource/languoid/id/kwan1286"
+    }
+  ],
+  "iso639-3": "sim"
+}

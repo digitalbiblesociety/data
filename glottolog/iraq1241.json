@@ -1,0 +1,105 @@
+{
+  "pk": 11138,
+  "hid": "irk",
+  "father_pk": 8228,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Asa [asaa1238]':1)'Iraqw [iraq1241][irk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_irq",
+        "label": "Iraqw"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Iraqw_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/iraq1241",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33595",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "123238",
+        "long_grammar",
+        1992,
+        384,
+        "Mous, Maarten 1992"
+      ],
+      [
+        "38488",
+        "long_grammar",
+        1988,
+        326,
+        "Nordbustad, Frøydis 1988"
+      ],
+      [
+        "160803",
+        "grammar",
+        1926,
+        231,
+        "Verhoeven, Pierre 1926"
+      ],
+      [
+        "129452",
+        "grammar_sketch",
+        1911,
+        13,
+        "Struck, Bernhard 1911"
+      ]
+    ]
+  },
+  "id": "iraq1241",
+  "name": "Iraqw",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.19948,
+  "longitude": 35.2939,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Cushitic",
+      "id": "cush1243",
+      "url": "https://glottolog.org/resource/languoid/id/cush1243"
+    },
+    {
+      "name": "South Cushitic",
+      "id": "sout3054",
+      "url": "https://glottolog.org/resource/languoid/id/sout3054"
+    },
+    {
+      "name": "West Rift South Cushitic",
+      "id": "west2720",
+      "url": "https://glottolog.org/resource/languoid/id/west2720"
+    },
+    {
+      "name": "Northern West Rift South Cushitic",
+      "id": "nort3164",
+      "url": "https://glottolog.org/resource/languoid/id/nort3164"
+    },
+    {
+      "name": "Iraqwoid",
+      "id": "iraq1240",
+      "url": "https://glottolog.org/resource/languoid/id/iraq1240"
+    }
+  ],
+  "iso639-3": "irk"
+}

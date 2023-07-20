@@ -1,0 +1,88 @@
+{
+  "pk": 15195,
+  "hid": "pkg",
+  "father_pk": 12430,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Pak [pakk1242]':1,'Tong [tong1326]':1)'Pak-Tong [pakt1239][pkg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3360711",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Pak-Tong_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "586208",
+        "phonology_or_text",
+        2021,
+        33,
+        "Robert Blust 2021"
+      ],
+      [
+        "74050",
+        "wordlist_or_less",
+        1912,
+        24,
+        "Georg Friederici 1912"
+      ]
+    ]
+  },
+  "id": "pakt1239",
+  "name": "Pak-Tong",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.05269,
+  "longitude": 147.767,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Admiralty Islands",
+      "id": "admi1239",
+      "url": "https://glottolog.org/resource/languoid/id/admi1239"
+    },
+    {
+      "name": "Eastern Admiralty Islands",
+      "id": "east2459",
+      "url": "https://glottolog.org/resource/languoid/id/east2459"
+    },
+    {
+      "name": "Manus",
+      "id": "manu1262",
+      "url": "https://glottolog.org/resource/languoid/id/manu1262"
+    }
+  ],
+  "iso639-3": "pkg"
+}

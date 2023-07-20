@@ -1,0 +1,100 @@
+{
+  "pk": 17528,
+  "hid": "tkp",
+  "father_pk": 15212,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tikopia [tiko1237][tkp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q36682",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tikopia_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "317941",
+        "grammar_sketch",
+        1981,
+        150,
+        "Early, Robert J. 1981"
+      ],
+      [
+        "304812",
+        "wordlist_or_less",
+        1926,
+        72,
+        "Herbert W. Williams 1926, 1927, 1927"
+      ],
+      [
+        "148483",
+        "wordlist_or_less",
+        1834,
+        14,
+        "Dumont d'Urville, Jules 1834"
+      ]
+    ]
+  },
+  "id": "tiko1237",
+  "name": "Tikopia",
+  "description": null,
+  "markup_description": null,
+  "latitude": -12.2766,
+  "longitude": 168.822,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Central Pacific linkage",
+      "id": "cent2060",
+      "url": "https://glottolog.org/resource/languoid/id/cent2060"
+    },
+    {
+      "name": "Tokalau Fijian",
+      "id": "east2445",
+      "url": "https://glottolog.org/resource/languoid/id/east2445"
+    },
+    {
+      "name": "Polynesian",
+      "id": "poly1242",
+      "url": "https://glottolog.org/resource/languoid/id/poly1242"
+    },
+    {
+      "name": "Nuclear Polynesian",
+      "id": "nucl1485",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1485"
+    }
+  ],
+  "iso639-3": "tkp"
+}

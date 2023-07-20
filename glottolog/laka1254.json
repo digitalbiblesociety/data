@@ -1,0 +1,100 @@
+{
+  "pk": 17028,
+  "hid": "lap",
+  "father_pk": 14457,
+  "family_pk": 140,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bémour [bemo1238]':1,'Goula [goul1238]':1,'Mang {Chad} [mang1397]':1,'Maïngao [main1274]':1,'Paï {Laka} [paii1251]':1)'Laka {Chad} [laka1254][lap]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6474528",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Laka_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "49472",
+        "grammar_sketch",
+        1930,
+        10,
+        "Tessmann, Günter 1930"
+      ],
+      [
+        "304116",
+        "wordlist_or_less",
+        1915,
+        8,
+        "Louis Périquet 1915"
+      ],
+      [
+        "17699",
+        "wordlist_or_less",
+        1907,
+        2,
+        "Gaudefroy-Demombynes, Maurice 1907"
+      ]
+    ]
+  },
+  "id": "laka1254",
+  "name": "Laka (Chad)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.78997,
+  "longitude": 16.0193,
+  "classification": [
+    {
+      "name": "Central Sudanic",
+      "id": "cent2225",
+      "url": "https://glottolog.org/resource/languoid/id/cent2225"
+    },
+    {
+      "name": "Sara-Bongo-Bagirmi",
+      "id": "sara1341",
+      "url": "https://glottolog.org/resource/languoid/id/sara1341"
+    },
+    {
+      "name": "SBB Occidental",
+      "id": "sbbo1237",
+      "url": "https://glottolog.org/resource/languoid/id/sbbo1237"
+    },
+    {
+      "name": "Nuclear SBB Occidental",
+      "id": "nucl1719",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1719"
+    },
+    {
+      "name": "Saraic",
+      "id": "sara1349",
+      "url": "https://glottolog.org/resource/languoid/id/sara1349"
+    },
+    {
+      "name": "Sara Central",
+      "id": "cent2044",
+      "url": "https://glottolog.org/resource/languoid/id/cent2044"
+    },
+    {
+      "name": "Sara Central Logone",
+      "id": "sara1345",
+      "url": "https://glottolog.org/resource/languoid/id/sara1345"
+    },
+    {
+      "name": "Gore",
+      "id": "gore1234",
+      "url": "https://glottolog.org/resource/languoid/id/gore1234"
+    }
+  ],
+  "iso639-3": "lap"
+}

@@ -1,0 +1,86 @@
+{
+  "pk": 8127,
+  "hid": "aah",
+  "father_pk": 5696,
+  "family_pk": 103,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Abu'' Arapesh [abua1245][aah]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10569",
+        "label": "Abu'"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_aab",
+        "label": "Arapesh (Abu)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Abu%CA%BC_Arapesh_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q4670715",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "43025",
+        "long_grammar",
+        1985,
+        314,
+        "Otto Nekitel 1985"
+      ],
+      [
+        "106174",
+        "phonology_or_text",
+        1977,
+        48,
+        "Nekitel, Otto Ignatius Manganau Soko'um 1977"
+      ]
+    ]
+  },
+  "id": "abua1245",
+  "name": "Abu' Arapesh",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.461612,
+  "longitude": 142.917031,
+  "classification": [
+    {
+      "name": "Nuclear Torricelli",
+      "id": "nucl1708",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1708"
+    },
+    {
+      "name": "Kombio-Arapesh-Urat",
+      "id": "komb1276",
+      "url": "https://glottolog.org/resource/languoid/id/komb1276"
+    },
+    {
+      "name": "Arapesh",
+      "id": "arap1279",
+      "url": "https://glottolog.org/resource/languoid/id/arap1279"
+    },
+    {
+      "name": "Mufian-Bukiyip-Abu",
+      "id": "mufi1239",
+      "url": "https://glottolog.org/resource/languoid/id/mufi1239"
+    },
+    {
+      "name": "Bukiyip-Abu",
+      "id": "buki1250",
+      "url": "https://glottolog.org/resource/languoid/id/buki1250"
+    }
+  ],
+  "iso639-3": "aah"
+}

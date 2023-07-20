@@ -1,0 +1,77 @@
+{
+  "pk": 7200,
+  "hid": "ibe",
+  "father_pk": 4905,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Akunnu [akun1239]':1,'Ase [asee1238]':1,'Daja [daja1240]':1,'Efifa [efif1238]':1,'Esuku [esuk1238]':1,'Gedegede [gede1241]':1,'Ibaram [ibar1241]':1,'Ikorom [ikor1238]':1,'Iyani [iyan1238]':1)'Akpes [akpe1248][ibe]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 9,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q35457",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Akpes_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/akpe1248",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "68587",
+        "phonology_or_text",
+        1986,
+        114,
+        "Ayoola, Olasujo Julius 1986"
+      ],
+      [
+        "77729",
+        "phonology_or_text",
+        1984,
+        0,
+        "Daramola, Samuel 1984"
+      ]
+    ]
+  },
+  "id": "akpe1248",
+  "name": "Akpes",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.50256,
+  "longitude": 5.95559,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Akpes-Edoid",
+      "id": "akpe1249",
+      "url": "https://glottolog.org/resource/languoid/id/akpe1249"
+    }
+  ],
+  "iso639-3": "ibe"
+}

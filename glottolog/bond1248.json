@@ -1,0 +1,79 @@
+{
+  "pk": 3842,
+  "hid": "dbu",
+  "father_pk": 2152,
+  "family_pk": 117,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bondum Dom [bond1252]':1,'Kindige [kind1242]':1,'Najamba [nadj1238]':1)'Najamba-Kindige [bond1248][dbu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/8736",
+        "label": "Bondu So"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3912758",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bondum_Dogon",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "302029",
+        "long_grammar",
+        2014,
+        467,
+        "Heath, Jeffrey 2014"
+      ],
+      [
+        "300692",
+        "phonology_or_text",
+        1987,
+        0,
+        "Kassambara, M. 1987"
+      ],
+      [
+        "70852",
+        "wordlist_or_less",
+        1953,
+        2,
+        "Bertho, J. 1953"
+      ]
+    ]
+  },
+  "id": "bond1248",
+  "name": "Najamba-Kindige",
+  "description": null,
+  "markup_description": null,
+  "latitude": 14.9066,
+  "longitude": -3.32636,
+  "classification": [
+    {
+      "name": "Dogon",
+      "id": "dogo1299",
+      "url": "https://glottolog.org/resource/languoid/id/dogo1299"
+    },
+    {
+      "name": "North Plateau Dogon",
+      "id": "nort2824",
+      "url": "https://glottolog.org/resource/languoid/id/nort2824"
+    },
+    {
+      "name": "Yanda-Bondum-Tebul",
+      "id": "yand1255",
+      "url": "https://glottolog.org/resource/languoid/id/yand1255"
+    }
+  ],
+  "iso639-3": "dbu"
+}

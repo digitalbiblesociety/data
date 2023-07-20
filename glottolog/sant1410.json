@@ -1,0 +1,93 @@
+{
+  "pk": 10615,
+  "hid": "sat",
+  "father_pk": 7712,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kamari-Santali [kama1353]':1,'Karmali [karm1240]':1,'Lohari-Santali [loha1252]':1,'Mahali {Santali} [maha1292]':1,'Manjhi {Santali} [manj1249]':1,'Paharia [paha1253]':1)'Santali [sant1410][sat]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_stl",
+        "label": "Santali"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Santali_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/sant1410",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33965",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "34167",
+        "long_grammar",
+        1873,
+        387,
+        "L. O. Skrefsrud 1873"
+      ],
+      [
+        "129966",
+        "grammar",
+        1852,
+        187,
+        "Phillips, J. 1852"
+      ],
+      [
+        "44162",
+        "wordlist_or_less",
+        1849,
+        2,
+        "Brian H. Hodgson 1849"
+      ]
+    ]
+  },
+  "id": "sant1410",
+  "name": "Santali",
+  "description": null,
+  "markup_description": null,
+  "latitude": 25.0317,
+  "longitude": 87.8185,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Mundaic",
+      "id": "mund1335",
+      "url": "https://glottolog.org/resource/languoid/id/mund1335"
+    },
+    {
+      "name": "North Munda",
+      "id": "nort3151",
+      "url": "https://glottolog.org/resource/languoid/id/nort3151"
+    },
+    {
+      "name": "Kherwarian",
+      "id": "kher1245",
+      "url": "https://glottolog.org/resource/languoid/id/kher1245"
+    },
+    {
+      "name": "Santalic",
+      "id": "sant1457",
+      "url": "https://glottolog.org/resource/languoid/id/sant1457"
+    }
+  ],
+  "iso639-3": "sat"
+}

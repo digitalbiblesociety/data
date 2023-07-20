@@ -1,0 +1,60 @@
+{
+  "pk": 768,
+  "hid": "slq",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Salchuq [salc1238][slq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "slq",
+      "name": "Salchuq",
+      "change_request": "2022-015",
+      "effective": "2023-01-20",
+      "reason": "non-existent",
+      "change_to": [],
+      "remedy": null,
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56752",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Salchuq_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "305206",
+        "wordlist_or_less",
+        2001,
+        101,
+        "Clifford Edmund Bosworth 2001"
+      ]
+    ]
+  },
+  "id": "salc1238",
+  "name": "Salchuq",
+  "description": null,
+  "markup_description": null,
+  "latitude": 37.0392,
+  "longitude": 47.3487,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "slq"
+}

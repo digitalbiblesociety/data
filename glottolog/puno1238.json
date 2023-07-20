@@ -1,0 +1,92 @@
+{
+  "pk": 10063,
+  "hid": "qxp",
+  "father_pk": 7231,
+  "family_pk": 321,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Cailloma Quechua [cail1238]':1)'Puno Quechua [puno1238][qxp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7260479",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Puno_Quechua",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "14755",
+        "phonology_or_text",
+        1983,
+        213,
+        "Clodoaldo Soto Ruiz and Kurt Komarek and Marie-M. Büttner 1983, 1984"
+      ],
+      [
+        "72271",
+        "wordlist_or_less",
+        1975,
+        30,
+        "Aranguren Paz, A. 1975"
+      ],
+      [
+        "83730",
+        "wordlist_or_less",
+        1967,
+        15,
+        "Biro de Stern, A. 1967"
+      ],
+      [
+        "11755",
+        "wordlist_or_less",
+        1963,
+        15,
+        "Bourricaud, François 1963"
+      ]
+    ]
+  },
+  "id": "puno1238",
+  "name": "Puno Quechua",
+  "description": null,
+  "markup_description": null,
+  "latitude": -14.608,
+  "longitude": -70.2084,
+  "classification": [
+    {
+      "name": "Quechuan",
+      "id": "quec1387",
+      "url": "https://glottolog.org/resource/languoid/id/quec1387"
+    },
+    {
+      "name": "Quechua II",
+      "id": "quec1388",
+      "url": "https://glottolog.org/resource/languoid/id/quec1388"
+    },
+    {
+      "name": "Chinchay",
+      "id": "chin1494",
+      "url": "https://glottolog.org/resource/languoid/id/chin1494"
+    },
+    {
+      "name": "Quechua IIC",
+      "id": "quec1389",
+      "url": "https://glottolog.org/resource/languoid/id/quec1389"
+    },
+    {
+      "name": "Cuscan Quechua",
+      "id": "cusc1235",
+      "url": "https://glottolog.org/resource/languoid/id/cusc1235"
+    }
+  ],
+  "iso639-3": "qxp"
+}

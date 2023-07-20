@@ -1,0 +1,102 @@
+{
+  "pk": 14453,
+  "hid": "gvl",
+  "father_pk": 11385,
+  "family_pk": 140,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Nuclear Gulay [nucl1424]':1,'Pen [penn1241]':1)'Gulay [gula1268][gvl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q641737",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Gulay_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "308546",
+        "phonology_or_text",
+        2014,
+        135,
+        "Ngaradoumbay Clement and Nadjirisengar Moise and John M. Keegan 2014"
+      ],
+      [
+        "568456",
+        "phonology_or_text",
+        2012,
+        0,
+        "A.T.P.L.G. 2012"
+      ],
+      [
+        "17699",
+        "wordlist_or_less",
+        1907,
+        2,
+        "Gaudefroy-Demombynes, Maurice 1907"
+      ],
+      [
+        "29527",
+        "wordlist_or_less",
+        1905,
+        4,
+        "Bruel, Georges 1905"
+      ]
+    ]
+  },
+  "id": "gula1268",
+  "name": "Gulay",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.06629,
+  "longitude": 17.3151,
+  "classification": [
+    {
+      "name": "Central Sudanic",
+      "id": "cent2225",
+      "url": "https://glottolog.org/resource/languoid/id/cent2225"
+    },
+    {
+      "name": "Sara-Bongo-Bagirmi",
+      "id": "sara1341",
+      "url": "https://glottolog.org/resource/languoid/id/sara1341"
+    },
+    {
+      "name": "SBB Occidental",
+      "id": "sbbo1237",
+      "url": "https://glottolog.org/resource/languoid/id/sbbo1237"
+    },
+    {
+      "name": "Nuclear SBB Occidental",
+      "id": "nucl1719",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1719"
+    },
+    {
+      "name": "Saraic",
+      "id": "sara1349",
+      "url": "https://glottolog.org/resource/languoid/id/sara1349"
+    },
+    {
+      "name": "Sara Central",
+      "id": "cent2044",
+      "url": "https://glottolog.org/resource/languoid/id/cent2044"
+    },
+    {
+      "name": "Sara Central Chari",
+      "id": "sara1344",
+      "url": "https://glottolog.org/resource/languoid/id/sara1344"
+    }
+  ],
+  "iso639-3": "gvl"
+}

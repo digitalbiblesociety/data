@@ -1,0 +1,81 @@
+{
+  "pk": 4066,
+  "hid": "jbi",
+  "father_pk": 2318,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Badjirri [badj1244][jbi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "jbi",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "Badjiri [jbi] was close enough to the varieties of Ngura [nbx]\nto be intelligible to it (**hh:hv:Breen:Karnic**, **hh:g:McDonaldWurm:Wangkumara**). See also: Wilson River (Grey Range) [nbx]."
+    },
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6349",
+        "label": "Badjiri"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Badjiri_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q4840986",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "5262",
+        "grammar_sketch",
+        1904,
+        27,
+        "Mathews, Robert Hamilton 1904"
+      ]
+    ]
+  },
+  "id": "badj1244",
+  "name": "Badjirri",
+  "description": null,
+  "markup_description": null,
+  "latitude": -28.79,
+  "longitude": 145.47,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Karnic",
+      "id": "karn1253",
+      "url": "https://glottolog.org/resource/languoid/id/karn1253"
+    },
+    {
+      "name": "Badjiri-Eastern Karnic",
+      "id": "badj1246",
+      "url": "https://glottolog.org/resource/languoid/id/badj1246"
+    }
+  ],
+  "iso639-3": "jbi"
+}

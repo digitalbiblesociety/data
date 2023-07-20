@@ -1,0 +1,72 @@
+{
+  "pk": 3632,
+  "hid": "dsq",
+  "father_pk": 1966,
+  "family_pk": 48,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tadaksahak [tada1238][dsq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q36568",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tadaksahak",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/tada1238",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "163500",
+        "long_grammar",
+        2010,
+        377,
+        "Christiansen-Bolli, Regula 2010"
+      ],
+      [
+        "164077",
+        "grammar_sketch",
+        1979,
+        85,
+        "Nicolaï, Robert 1979"
+      ]
+    ]
+  },
+  "id": "tada1238",
+  "name": "Tadaksahak",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.685,
+  "longitude": 2.32653,
+  "classification": [
+    {
+      "name": "Songhay",
+      "id": "song1307",
+      "url": "https://glottolog.org/resource/languoid/id/song1307"
+    },
+    {
+      "name": "Northwest Songhay",
+      "id": "nort2822",
+      "url": "https://glottolog.org/resource/languoid/id/nort2822"
+    },
+    {
+      "name": "Northern Songhay",
+      "id": "nort2823",
+      "url": "https://glottolog.org/resource/languoid/id/nort2823"
+    }
+  ],
+  "iso639-3": "dsq"
+}

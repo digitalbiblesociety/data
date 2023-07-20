@@ -1,0 +1,87 @@
+{
+  "pk": 6161,
+  "hid": "slh",
+  "father_pk": 4147,
+  "family_pk": 166,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Duwamish [duwa1239]':1,'Muckleshoot [muck1238]':1,'Nisqually [nisq1242]':1,'Puyallup [puya1240]':1,'Snoqualmie [snoq1240]':1,'Suquh [suqu1238]':1)'Southern Puget Sound Salish [sout2965][slh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12642471",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_sps",
+        "label": "Salish (Southern Puget Sound)"
+      }
+    ],
+    "meds": [
+      [
+        "92286",
+        "grammar_sketch",
+        1957,
+        123,
+        "Snyder, Warren Arthur 1957"
+      ],
+      [
+        "7440",
+        "grammar_sketch",
+        1950,
+        78,
+        "Colin E. Tweddell 1950"
+      ],
+      [
+        "126644",
+        "grammar_sketch",
+        1945,
+        7,
+        "Jay Ellis Ransom 1945"
+      ],
+      [
+        "317172",
+        "phonology_or_text",
+        1877,
+        77,
+        "George Gibbs 1877"
+      ]
+    ]
+  },
+  "id": "sout2965",
+  "name": "Southern Puget Sound Salish",
+  "description": null,
+  "markup_description": null,
+  "latitude": 47.263,
+  "longitude": -122.141,
+  "classification": [
+    {
+      "name": "Salishan",
+      "id": "sali1255",
+      "url": "https://glottolog.org/resource/languoid/id/sali1255"
+    },
+    {
+      "name": "Coast Salish",
+      "id": "coas1325",
+      "url": "https://glottolog.org/resource/languoid/id/coas1325"
+    },
+    {
+      "name": "Central Salish",
+      "id": "cent2129",
+      "url": "https://glottolog.org/resource/languoid/id/cent2129"
+    },
+    {
+      "name": "Lushootseed-Puget",
+      "id": "lush1251",
+      "url": "https://glottolog.org/resource/languoid/id/lush1251"
+    }
+  ],
+  "iso639-3": "slh"
+}

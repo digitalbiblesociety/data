@@ -1,0 +1,91 @@
+{
+  "pk": 6826,
+  "hid": "tes",
+  "father_pk": 4645,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tengger [teng1272][tes]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12473479",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tenggerese_dialect",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/teng1272",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "140791",
+        "long_grammar",
+        2008,
+        308,
+        "Conners, Thomas J. 2008"
+      ],
+      [
+        "321289",
+        "grammar_sketch",
+        1984,
+        235,
+        "Soedjito, {} and Sunoto, {} and I.L. Marsoedi Oetama and Abdul Rachman, H.A. and Mansur Hasan 1984"
+      ],
+      [
+        "645356",
+        "phonology_or_text",
+        1983,
+        116,
+        "Smith-Hefner, Nancy J. 1983"
+      ],
+      [
+        "148864",
+        "wordlist_or_less",
+        1935,
+        30,
+        "Raymond Kennedy 1935"
+      ]
+    ]
+  },
+  "id": "teng1272",
+  "name": "Tengger",
+  "description": null,
+  "markup_description": null,
+  "latitude": -7.89069,
+  "longitude": 113.037,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Javanesic",
+      "id": "java1253",
+      "url": "https://glottolog.org/resource/languoid/id/java1253"
+    },
+    {
+      "name": "Modern Javanese",
+      "id": "mode1251",
+      "url": "https://glottolog.org/resource/languoid/id/mode1251"
+    }
+  ],
+  "iso639-3": "tes"
+}

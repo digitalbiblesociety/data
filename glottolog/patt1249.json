@@ -1,0 +1,114 @@
+{
+  "pk": 17438,
+  "hid": "mfa",
+  "father_pk": 15100,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kelantan Malay [kela1264]':1,'Pahang Malay [paha1256]':1,('Nonthaburi Malay [nont1234]':1,'Pattani Malay [patt1254]':1)'Pattani-Nonthaburi Malay [patt1253]':1,'Terengganu Malay [tere1283]':1)'Kelantan-Pattani Malay [patt1249][mfa]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q1199751",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kelantan-Pattani_Malay",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "76862",
+        "long_grammar",
+        1995,
+        396,
+        "Tadmor, Uri 1995"
+      ],
+      [
+        "306540",
+        "grammar_sketch",
+        1994,
+        295,
+        "A. H. Mahmood 1994"
+      ],
+      [
+        "300476",
+        "grammar_sketch",
+        1980,
+        198,
+        "Farid M. Onn 1980"
+      ],
+      [
+        "309484",
+        "grammar_sketch",
+        1965,
+        0,
+        "Safiah Abdul Karima, Nik 1965"
+      ],
+      [
+        "472565",
+        "wordlist_or_less",
+        1912,
+        7,
+        "Sturrock, A. J. 1912"
+      ]
+    ]
+  },
+  "id": "patt1249",
+  "name": "Kelantan-Pattani Malay",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.38148,
+  "longitude": 101.41,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Malayo-Sumbawan",
+      "id": "mala1536",
+      "url": "https://glottolog.org/resource/languoid/id/mala1536"
+    },
+    {
+      "name": "North and East Malayo-Sumbawan",
+      "id": "nort3170",
+      "url": "https://glottolog.org/resource/languoid/id/nort3170"
+    },
+    {
+      "name": "Malayic",
+      "id": "mala1538",
+      "url": "https://glottolog.org/resource/languoid/id/mala1538"
+    },
+    {
+      "name": "Nuclear Malayic",
+      "id": "nucl1806",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1806"
+    },
+    {
+      "name": "Greater Riau-Johoric",
+      "id": "sing1270",
+      "url": "https://glottolog.org/resource/languoid/id/sing1270"
+    },
+    {
+      "name": "Northeastern Peninsular Malay",
+      "id": "keda1253",
+      "url": "https://glottolog.org/resource/languoid/id/keda1253"
+    }
+  ],
+  "iso639-3": "mfa"
+}

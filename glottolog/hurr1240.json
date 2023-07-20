@@ -1,0 +1,82 @@
+{
+  "pk": 1236,
+  "hid": "xhu",
+  "father_pk": 226,
+  "family_pk": 226,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Hurrian [hurr1240][xhu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "xhu",
+      "comment_type": "missing",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "A number of ancient European and Ancient Near Eastern languages are not listed in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26. One of them is Hurrian (**hh:g:Wegner:Hurritisch**)."
+    },
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q35740",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Hurrian_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "26093",
+        "long_grammar",
+        1964,
+        451,
+        "Frederic W. Bush 1964"
+      ],
+      [
+        "122365",
+        "grammar",
+        1941,
+        227,
+        "Speiser, Ephraim A. 1941"
+      ],
+      [
+        "18892",
+        "grammar_sketch",
+        1939,
+        36,
+        "E. A. Speiser 1939"
+      ]
+    ]
+  },
+  "id": "hurr1240",
+  "name": "Hurrian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 40.7339,
+  "longitude": 43.3154,
+  "classification": [
+    {
+      "name": "Hurro-Urartian",
+      "id": "hurr1239",
+      "url": "https://glottolog.org/resource/languoid/id/hurr1239"
+    }
+  ],
+  "iso639-3": "xhu"
+}

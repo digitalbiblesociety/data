@@ -1,0 +1,84 @@
+{
+  "pk": 1009,
+  "hid": "nez",
+  "father_pk": 129,
+  "family_pk": 129,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Nez Perce [nezp1238][nez]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1715",
+        "label": "Nez Perce"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nez",
+        "label": "Nez Perce"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nez_Perce_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nezp1238",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3339226",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "43740",
+        "long_grammar",
+        1985,
+        319,
+        "Noel E. Rude 1985"
+      ],
+      [
+        "43720",
+        "grammar",
+        1965,
+        267,
+        "Haruo Aoki 1965"
+      ],
+      [
+        "570242",
+        "wordlist_or_less",
+        1911,
+        193,
+        "Curtis, E. S. 1911"
+      ],
+      [
+        "577486",
+        "wordlist_or_less",
+        1908,
+        110,
+        "Spiden, H. J. 1908"
+      ]
+    ]
+  },
+  "id": "nezp1238",
+  "name": "Nez Perce",
+  "description": null,
+  "markup_description": null,
+  "latitude": 46.3073,
+  "longitude": -116.408,
+  "classification": [
+    {
+      "name": "Sahaptian",
+      "id": "saha1239",
+      "url": "https://glottolog.org/resource/languoid/id/saha1239"
+    }
+  ],
+  "iso639-3": "nez"
+}

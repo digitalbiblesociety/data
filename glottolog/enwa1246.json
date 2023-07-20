@@ -1,0 +1,93 @@
+{
+  "pk": 18319,
+  "hid": "env",
+  "father_pk": 15848,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Enwan {Edo State} [enwa1246][env]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3438334",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Enwan_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "641373",
+        "wordlist_or_less",
+        2021,
+        0,
+        "ISO 639-3 Registration Authority 2021"
+      ],
+      [
+        "306294",
+        "wordlist_or_less",
+        2013,
+        0,
+        "Lewis, Paul M. and Gary F. Simons and Charles D. Fennig 2013"
+      ]
+    ]
+  },
+  "id": "enwa1246",
+  "name": "Enwan (Edo State)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.15316,
+  "longitude": 6.07393,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Akpes-Edoid",
+      "id": "akpe1249",
+      "url": "https://glottolog.org/resource/languoid/id/akpe1249"
+    },
+    {
+      "name": "Edoid",
+      "id": "edoi1239",
+      "url": "https://glottolog.org/resource/languoid/id/edoi1239"
+    },
+    {
+      "name": "Northwestern Edoid",
+      "id": "nort3183",
+      "url": "https://glottolog.org/resource/languoid/id/nort3183"
+    },
+    {
+      "name": "Igwic",
+      "id": "igwi1234",
+      "url": "https://glottolog.org/resource/languoid/id/igwi1234"
+    },
+    {
+      "name": "Ikpeshic",
+      "id": "ikpe1246",
+      "url": "https://glottolog.org/resource/languoid/id/ikpe1246"
+    }
+  ],
+  "iso639-3": "env"
+}

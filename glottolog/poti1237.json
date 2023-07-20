@@ -1,0 +1,105 @@
+{
+  "pk": 13858,
+  "hid": "pog",
+  "father_pk": 10822,
+  "family_pk": 51,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "'Potiguára [poti1237][pog]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "pog",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "The extinct Potiguára [pog] of northeastern Brazil is listed in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 as a separate language, but there is no attestion of the language of this group to the effect that it is different from all other languages in the region. If anything, data potentially attributable to Potiguára in the Dutch National Archives render it a variety of Tupinambá [tpn] (p.c. Willem Adelaar 2011). See also: Tupinambá [tpn]."
+    },
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56722",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Potiguara_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "114226",
+        "wordlist_or_less",
+        1978,
+        6,
+        "Robert E. Meader 1978"
+      ],
+      [
+        "51465",
+        "wordlist_or_less",
+        1931,
+        9,
+        "Studart Filho, Carlos 1931"
+      ]
+    ]
+  },
+  "id": "poti1237",
+  "name": "Potiguára",
+  "description": null,
+  "markup_description": null,
+  "latitude": -7.01666,
+  "longitude": -38,
+  "classification": [
+    {
+      "name": "Tupian",
+      "id": "tupi1275",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1275"
+    },
+    {
+      "name": "Maweti-Guarani",
+      "id": "mawe1252",
+      "url": "https://glottolog.org/resource/languoid/id/mawe1252"
+    },
+    {
+      "name": "Aweti-Guarani",
+      "id": "awet1245",
+      "url": "https://glottolog.org/resource/languoid/id/awet1245"
+    },
+    {
+      "name": "Tupi-Guarani",
+      "id": "tupi1276",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1276"
+    },
+    {
+      "name": "Southern Tupi-Guarani",
+      "id": "sout3271",
+      "url": "https://glottolog.org/resource/languoid/id/sout3271"
+    },
+    {
+      "name": "Tupi-Guarani Subgroup III",
+      "id": "tupi1287",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1287"
+    },
+    {
+      "name": "Tupinambá",
+      "id": "tupi1273",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1273"
+    }
+  ],
+  "iso639-3": "pog"
+}

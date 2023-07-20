@@ -1,0 +1,90 @@
+{
+  "pk": 11212,
+  "hid": "mes",
+  "father_pk": 8266,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Masmaje [masm1239][mes]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3440448",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Masmaje_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "139854",
+        "wordlist_or_less",
+        2004,
+        8,
+        "Alio, Khalil 2004"
+      ],
+      [
+        "108092",
+        "wordlist_or_less",
+        1962,
+        13,
+        "Le Rouvreur, Albert 1962"
+      ],
+      [
+        "156094",
+        "wordlist_or_less",
+        1912,
+        2,
+        "Carbou, Henri 1912"
+      ]
+    ]
+  },
+  "id": "masm1239",
+  "name": "Masmaje",
+  "description": null,
+  "markup_description": null,
+  "latitude": 13.076,
+  "longitude": 19.2769,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "East Chadic",
+      "id": "east2632",
+      "url": "https://glottolog.org/resource/languoid/id/east2632"
+    },
+    {
+      "name": "East Chadic B",
+      "id": "east2633",
+      "url": "https://glottolog.org/resource/languoid/id/east2633"
+    },
+    {
+      "name": "East Chadic B.1",
+      "id": "east2709",
+      "url": "https://glottolog.org/resource/languoid/id/east2709"
+    },
+    {
+      "name": "Mubic",
+      "id": "mubi1247",
+      "url": "https://glottolog.org/resource/languoid/id/mubi1247"
+    }
+  ],
+  "iso639-3": "mes"
+}

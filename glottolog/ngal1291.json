@@ -1,0 +1,97 @@
+{
+  "pk": 13282,
+  "hid": "hlt",
+  "father_pk": 10222,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Haltu [halt1238]':1,'Thui Phum [thui1238]':1,'Tlam Tlaih [tlam1238]':1,'Va Lang [vala1243]':1)'Nga La [ngal1291][hlt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Nga_La_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12952942",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "552152",
+        "phonology_or_text",
+        2016,
+        279,
+        "Shintani, Tadahiko L. A. 2016"
+      ],
+      [
+        "320380",
+        "phonology_or_text",
+        2009,
+        16,
+        "George Bedell 2009"
+      ],
+      [
+        "139416",
+        "wordlist_or_less",
+        2001,
+        4,
+        "Khoi Lam Thang 2001"
+      ],
+      [
+        "137464",
+        "wordlist_or_less",
+        1988,
+        2,
+        "Hartmann, Helga 1988"
+      ]
+    ]
+  },
+  "id": "ngal1291",
+  "name": "Nga La",
+  "description": null,
+  "markup_description": null,
+  "latitude": 23.312,
+  "longitude": 92.83,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Kuki-Chin",
+      "id": "kuki1246",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1246"
+    },
+    {
+      "name": "Peripheral Kuki-Chin",
+      "id": "peri1260",
+      "url": "https://glottolog.org/resource/languoid/id/peri1260"
+    },
+    {
+      "name": "South Peripheral Kuki-Chin",
+      "id": "sout3160",
+      "url": "https://glottolog.org/resource/languoid/id/sout3160"
+    },
+    {
+      "name": "Choic",
+      "id": "choi1241",
+      "url": "https://glottolog.org/resource/languoid/id/choi1241"
+    }
+  ],
+  "iso639-3": "hlt"
+}

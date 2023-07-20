@@ -1,0 +1,88 @@
+{
+  "pk": 16388,
+  "hid": "rka",
+  "father_pk": 13672,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kraol [krao1238][rka]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5337",
+        "label": "Kraol"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3199593",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "300057",
+        "wordlist_or_less",
+        2013,
+        6,
+        "Barr, Julie and Pawley, Eric 2013"
+      ],
+      [
+        "22079",
+        "wordlist_or_less",
+        1966,
+        14,
+        "Blood, Henry F. 1966"
+      ]
+    ]
+  },
+  "id": "krao1238",
+  "name": "Kraol",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.8107,
+  "longitude": 106.539,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Bahnaric",
+      "id": "bahn1264",
+      "url": "https://glottolog.org/resource/languoid/id/bahn1264"
+    },
+    {
+      "name": "West Bahnaric",
+      "id": "west2399",
+      "url": "https://glottolog.org/resource/languoid/id/west2399"
+    },
+    {
+      "name": "South Bahnaric",
+      "id": "sout2690",
+      "url": "https://glottolog.org/resource/languoid/id/sout2690"
+    },
+    {
+      "name": "Mnong-Stieng-Chrau",
+      "id": "mnon1258",
+      "url": "https://glottolog.org/resource/languoid/id/mnon1258"
+    },
+    {
+      "name": "Mnong",
+      "id": "mnon1259",
+      "url": "https://glottolog.org/resource/languoid/id/mnon1259"
+    },
+    {
+      "name": "Southern-Central Mnong",
+      "id": "sout2691",
+      "url": "https://glottolog.org/resource/languoid/id/sout2691"
+    }
+  ],
+  "iso639-3": "rka"
+}

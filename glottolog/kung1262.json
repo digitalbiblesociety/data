@@ -1,0 +1,62 @@
+{
+  "pk": 748,
+  "hid": "kvs",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Kunggara [kung1262][kvs]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "kvs",
+      "name": "Kunggara",
+      "change_request": "2015-004",
+      "effective": "2016-01-15",
+      "reason": "duplicate",
+      "change_to": [
+        "gdj"
+      ],
+      "remedy": "Duplicate of Gurdjar [gdj]",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4456",
+        "label": "Kunggara"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q10550183",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "122982",
+        "wordlist_or_less",
+        1973,
+        2,
+        "Sutton, Peter John 1973"
+      ]
+    ]
+  },
+  "id": "kung1262",
+  "name": "Kunggara",
+  "description": null,
+  "markup_description": null,
+  "latitude": -17.62553,
+  "longitude": 141.1441,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "kvs"
+}

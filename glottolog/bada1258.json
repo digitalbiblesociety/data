@@ -1,0 +1,106 @@
+{
+  "pk": 21818,
+  "hid": "bau",
+  "father_pk": 20096,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Galamkya [gala1266]':1,'Mbat {Nigeria} [mbat1251]':1)'Bada {Nigeria} [bada1258][bau]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q11001650",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "587322",
+        "phonology_or_text",
+        2020,
+        30,
+        "Christopher R. Green 2020"
+      ],
+      [
+        "320631",
+        "phonology_or_text",
+        1991,
+        0,
+        "Yabilsu, J. Kulu 1991"
+      ],
+      [
+        "158475",
+        "wordlist_or_less",
+        1975,
+        2,
+        "Maddieson, Ian and Williamson, Kay 1975"
+      ]
+    ]
+  },
+  "id": "bada1258",
+  "name": "Bada (Nigeria)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.62456,
+  "longitude": 9.95,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Narrow Bantu",
+      "id": "narr1281",
+      "url": "https://glottolog.org/resource/languoid/id/narr1281"
+    },
+    {
+      "name": "Mbam-Bubi-Jarawan",
+      "id": "mbam1254",
+      "url": "https://glottolog.org/resource/languoid/id/mbam1254"
+    },
+    {
+      "name": "Jarawan",
+      "id": "jara1262",
+      "url": "https://glottolog.org/resource/languoid/id/jara1262"
+    },
+    {
+      "name": "Nigerian Jarawan",
+      "id": "nige1254",
+      "url": "https://glottolog.org/resource/languoid/id/nige1254"
+    },
+    {
+      "name": "Jarawaic",
+      "id": "jara1275",
+      "url": "https://glottolog.org/resource/languoid/id/jara1275"
+    }
+  ],
+  "iso639-3": "bau"
+}

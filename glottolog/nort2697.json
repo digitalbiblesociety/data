@@ -1,0 +1,85 @@
+{
+  "pk": 7816,
+  "hid": "azj",
+  "father_pk": 5410,
+  "family_pk": 14,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Baku [baku1259]':1,'Derbend Azerbaijani [derb1245]':1,'Lenkaran [lenk1246]':1,'Quba {Turkic} [quba1245]':1,'Salyan [saly1245]':1,'Shamakhi [sham1275]':1)'Eastern Azerbaijani [east2839]':1,('Nukha [nukh1239]':1,'Qabala [qaba1238]':1,'Zaqatala {Turkic} [zaqa1241]':1)'Northern Azerbaijani [nort3322]':1,'Qyzylbash [qyzy1236]':1,('Karapapak [kara1470]':1,'Nakhchivan [nakh1244]':1,'Ordubad [ordu1239]':1,'Terekeme [tere1273]':1,'Yerevan [yere1242]':1)'Southern Azerbaijani [sout3306]':1,('Airym [airy1239]':1,'Borcala [borc1242]':1,('Ganja [ganj1240]':1,'Shusha [shus1247]':1)'Central Azerbaijani [cent2356]':1,'Qazakh [qaza1238]':1)'Western Azerbaijani [west2924]':1)'North Azerbaijani [nort2697][azj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 25,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://phoible.org/languages/nort2697",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3515311",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "74787",
+        "long_grammar",
+        1962,
+        571,
+        "Fraenkel, Gerd 1962"
+      ],
+      [
+        "22074",
+        "grammar_sketch",
+        1957,
+        63,
+        "Simpson, Cyril Gordon 1957"
+      ],
+      [
+        "77774",
+        "grammar_sketch",
+        1932,
+        44,
+        "Caferoglu, Ahmet 1932"
+      ]
+    ]
+  },
+  "id": "nort2697",
+  "name": "North Azerbaijani",
+  "description": null,
+  "markup_description": null,
+  "latitude": 40.97768,
+  "longitude": 46.4737,
+  "classification": [
+    {
+      "name": "Turkic",
+      "id": "turk1311",
+      "url": "https://glottolog.org/resource/languoid/id/turk1311"
+    },
+    {
+      "name": "Common Turkic",
+      "id": "comm1245",
+      "url": "https://glottolog.org/resource/languoid/id/comm1245"
+    },
+    {
+      "name": "Oghuz",
+      "id": "oghu1243",
+      "url": "https://glottolog.org/resource/languoid/id/oghu1243"
+    },
+    {
+      "name": "Nuclear Oghuz",
+      "id": "nucl1769",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1769"
+    },
+    {
+      "name": "Central Oghuz",
+      "id": "azer1255",
+      "url": "https://glottolog.org/resource/languoid/id/azer1255"
+    }
+  ],
+  "iso639-3": "azj"
+}

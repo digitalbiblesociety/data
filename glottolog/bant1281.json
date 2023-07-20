@@ -1,0 +1,106 @@
+{
+  "pk": 16029,
+  "hid": "bap",
+  "father_pk": 13230,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Eastern Bantawa [east2359]':1,('Northern Bantawa [nort2729]':1,'Southern Bantawa [sout2737]':1)'Intermediate Bantawa [inte1256]':1,'Western Bantawa [west2423]':1)'Bantawa [bant1281][bap]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1590",
+        "label": "Bantawa"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56500",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bantawa_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "71007",
+        "long_grammar",
+        2009,
+        513,
+        "Marius Doornenbal 2009"
+      ],
+      [
+        "126304",
+        "long_grammar",
+        1985,
+        315,
+        "Rai, Novel Kishore 1985"
+      ],
+      [
+        "78648",
+        "wordlist_or_less",
+        1909,
+        4,
+        "George A. Grierson 1909"
+      ],
+      [
+        "72592",
+        "wordlist_or_less",
+        1857,
+        3,
+        "Hodgson, Brian Houghton 1857"
+      ]
+    ]
+  },
+  "id": "bant1281",
+  "name": "Bantawa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.12147,
+  "longitude": 87.04738,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Himalayish",
+      "id": "hima1249",
+      "url": "https://glottolog.org/resource/languoid/id/hima1249"
+    },
+    {
+      "name": "Mahakiranti",
+      "id": "maha1306",
+      "url": "https://glottolog.org/resource/languoid/id/maha1306"
+    },
+    {
+      "name": "Kiranti",
+      "id": "kira1253",
+      "url": "https://glottolog.org/resource/languoid/id/kira1253"
+    },
+    {
+      "name": "Central Kiranti",
+      "id": "cent2250",
+      "url": "https://glottolog.org/resource/languoid/id/cent2250"
+    },
+    {
+      "name": "Southern Central Kiranti",
+      "id": "sout2736",
+      "url": "https://glottolog.org/resource/languoid/id/sout2736"
+    },
+    {
+      "name": "Bantawic",
+      "id": "bant1280",
+      "url": "https://glottolog.org/resource/languoid/id/bant1280"
+    }
+  ],
+  "iso639-3": "bap"
+}

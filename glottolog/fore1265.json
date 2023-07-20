@@ -1,0 +1,77 @@
+{
+  "pk": 7002,
+  "hid": "enf",
+  "father_pk": 4797,
+  "family_pk": 302,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Forest Enets [fore1265][enf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4130",
+        "label": "Forest Enets"
+      },
+      {
+        "url": "https://phoible.org/languages/fore1265",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q30249597",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "477974",
+        "long_grammar",
+        2013,
+        523,
+        "Florian Siegl 2013"
+      ],
+      [
+        "21280",
+        "grammar",
+        1966,
+        20,
+        "Tereshchenko, N. M. 1966"
+      ]
+    ]
+  },
+  "id": "fore1265",
+  "name": "Forest Enets",
+  "description": null,
+  "markup_description": null,
+  "latitude": 68.6,
+  "longitude": 86.5,
+  "classification": [
+    {
+      "name": "Uralic",
+      "id": "ural1272",
+      "url": "https://glottolog.org/resource/languoid/id/ural1272"
+    },
+    {
+      "name": "Samoyedic",
+      "id": "samo1298",
+      "url": "https://glottolog.org/resource/languoid/id/samo1298"
+    },
+    {
+      "name": "Enets-Nenets",
+      "id": "enet1251",
+      "url": "https://glottolog.org/resource/languoid/id/enet1251"
+    },
+    {
+      "name": "Enets",
+      "id": "enet1250",
+      "url": "https://glottolog.org/resource/languoid/id/enet1250"
+    }
+  ],
+  "iso639-3": "enf"
+}

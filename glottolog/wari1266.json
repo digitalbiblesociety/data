@@ -1,0 +1,108 @@
+{
+  "pk": 4375,
+  "hid": "wrs",
+  "father_pk": 2651,
+  "family_pk": 225,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Waris [wari1266][wrs]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10667",
+        "label": "Waris"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_wrs",
+        "label": "Waris"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Waris_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/wari1266",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3502610",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "315236",
+        "grammar_sketch",
+        1990,
+        137,
+        "Bob Brown 1990"
+      ],
+      [
+        "27094",
+        "grammar_sketch",
+        1988,
+        44,
+        "Brown, Robert 1988"
+      ],
+      [
+        "124350",
+        "phonology_or_text",
+        1986,
+        150,
+        "Bob Brown and Waris Translation Team 2008 [1986]"
+      ],
+      [
+        "141825",
+        "wordlist_or_less",
+        1971,
+        2,
+        "C. L. Voorhoeve 1971"
+      ],
+      [
+        "17111",
+        "wordlist_or_less",
+        1955,
+        1,
+        "Galis, Klaas Wilhelm 1955"
+      ],
+      [
+        "89327",
+        "wordlist_or_less",
+        1939,
+        10,
+        "Hoogland, J. 1939/1940"
+      ]
+    ]
+  },
+  "id": "wari1266",
+  "name": "Waris",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.139,
+  "longitude": 140.931,
+  "classification": [
+    {
+      "name": "Border",
+      "id": "bord1247",
+      "url": "https://glottolog.org/resource/languoid/id/bord1247"
+    },
+    {
+      "name": "Warisic",
+      "id": "wari1265",
+      "url": "https://glottolog.org/resource/languoid/id/wari1265"
+    },
+    {
+      "name": "Nuclear Warisic",
+      "id": "nucl1773",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1773"
+    }
+  ],
+  "iso639-3": "wrs"
+}

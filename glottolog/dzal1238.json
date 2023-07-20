@@ -1,0 +1,82 @@
+{
+  "pk": 10276,
+  "hid": "dzl",
+  "father_pk": 7378,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Khomakha [khom1239]':1)'Dzalakha [dzal1238][dzl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56607",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dzala_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/dzal1238",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "300914",
+        "grammar_sketch",
+        1986,
+        189,
+        "Lu, Shaozun 1986"
+      ],
+      [
+        "300962",
+        "grammar_sketch",
+        1980,
+        0,
+        "Sun, Hongkai and Lu, Shaozun and Zhang, Jichuan and Ouyang, Jueya 1980"
+      ]
+    ]
+  },
+  "id": "dzal1238",
+  "name": "Dzalakha",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.7855,
+  "longitude": 91.374,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "Bodish",
+      "id": "bodi1257",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1257"
+    },
+    {
+      "name": "East Bodish",
+      "id": "main1269",
+      "url": "https://glottolog.org/resource/languoid/id/main1269"
+    },
+    {
+      "name": "Dakpa-Dzala",
+      "id": "dakp1241",
+      "url": "https://glottolog.org/resource/languoid/id/dakp1241"
+    }
+  ],
+  "iso639-3": "dzl"
+}

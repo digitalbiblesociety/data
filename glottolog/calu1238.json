@@ -1,0 +1,93 @@
+{
+  "pk": 17403,
+  "hid": "clu",
+  "father_pk": 15067,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Semirara [semi1263]':1)'Caluyanun [calu1238][clu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Caluyanon_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q32964",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "112154",
+        "grammar_sketch",
+        1978,
+        67,
+        "Kermit Titrud 1978"
+      ],
+      [
+        "558011",
+        "wordlist_or_less",
+        1972,
+        31,
+        "Zorc, David P. 1972"
+      ]
+    ]
+  },
+  "id": "calu1238",
+  "name": "Caluyanun",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.0489,
+  "longitude": 121.384,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Greater Central Philippine",
+      "id": "grea1284",
+      "url": "https://glottolog.org/resource/languoid/id/grea1284"
+    },
+    {
+      "name": "Central Philippine",
+      "id": "cent2246",
+      "url": "https://glottolog.org/resource/languoid/id/cent2246"
+    },
+    {
+      "name": "Bisayan",
+      "id": "bisa1268",
+      "url": "https://glottolog.org/resource/languoid/id/bisa1268"
+    },
+    {
+      "name": "West Bisayan",
+      "id": "west2820",
+      "url": "https://glottolog.org/resource/languoid/id/west2820"
+    },
+    {
+      "name": "Kuyan",
+      "id": "kuya1251",
+      "url": "https://glottolog.org/resource/languoid/id/kuya1251"
+    },
+    {
+      "name": "Datagnon-Santa Teresa-Semirara",
+      "id": "data1234",
+      "url": "https://glottolog.org/resource/languoid/id/data1234"
+    }
+  ],
+  "iso639-3": "clu"
+}

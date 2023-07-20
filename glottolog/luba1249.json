@@ -1,0 +1,151 @@
+{
+  "pk": 23560,
+  "hid": "lua",
+  "father_pk": 22035,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Baluba [balu1255]':1,'Bena Lulua [bena1263]':1)'Luba-Lulua [luba1249][lua]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_blu",
+        "label": "Bena-Lulua"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_cil",
+        "label": "CiLuba"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Luba-Kasai_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q34173",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "160714",
+        "long_grammar",
+        1921,
+        312,
+        "Vermeersch, Henri [Gabriel] 1921"
+      ],
+      [
+        "158708",
+        "grammar",
+        1903,
+        261,
+        "de Clercq, Auguste 1903"
+      ],
+      [
+        "51342",
+        "grammar",
+        1897,
+        0,
+        "DeClercq, P. 1897"
+      ],
+      [
+        "155769",
+        "grammar_sketch",
+        1894,
+        30,
+        "Chatelain, Héli and Summer, W.R. 1894"
+      ],
+      [
+        "116408",
+        "grammar_sketch",
+        1888,
+        14,
+        "Büttner, C. G. 1888/1889"
+      ],
+      [
+        "309810",
+        "wordlist_or_less",
+        1886,
+        5,
+        "Wolf, Ludwig 1886"
+      ],
+      [
+        "25140",
+        "wordlist_or_less",
+        1878,
+        0,
+        "Büchner, Max 1878/82"
+      ]
+    ]
+  },
+  "id": "luba1249",
+  "name": "Luba-Lulua",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.72717,
+  "longitude": 22.4422,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Narrow Bantu",
+      "id": "narr1281",
+      "url": "https://glottolog.org/resource/languoid/id/narr1281"
+    },
+    {
+      "name": "Central-Western Bantu",
+      "id": "cent2260",
+      "url": "https://glottolog.org/resource/languoid/id/cent2260"
+    },
+    {
+      "name": "Luban",
+      "id": "luba1253",
+      "url": "https://glottolog.org/resource/languoid/id/luba1253"
+    },
+    {
+      "name": "Luba-Kaonde",
+      "id": "luba1254",
+      "url": "https://glottolog.org/resource/languoid/id/luba1254"
+    },
+    {
+      "name": "Lubaic",
+      "id": "luba1255",
+      "url": "https://glottolog.org/resource/languoid/id/luba1255"
+    },
+    {
+      "name": "Bangubangu-Kasai",
+      "id": "bang1371",
+      "url": "https://glottolog.org/resource/languoid/id/bang1371"
+    }
+  ],
+  "iso639-3": "lua"
+}

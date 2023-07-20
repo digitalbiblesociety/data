@@ -1,0 +1,74 @@
+{
+  "pk": 8322,
+  "hid": "knu",
+  "father_pk": 5831,
+  "family_pk": 121,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kono {Guinea} [kono1267][knu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3198703",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "588036",
+        "grammar_sketch",
+        2017,
+        31,
+        "Konoshenko, Maria 2017"
+      ],
+      [
+        "105397",
+        "wordlist_or_less",
+        1950,
+        24,
+        "Raymond Schnell 1950"
+      ]
+    ]
+  },
+  "id": "kono1267",
+  "name": "Kono (Guinea)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.85002,
+  "longitude": -8.25793,
+  "classification": [
+    {
+      "name": "Mande",
+      "id": "mand1469",
+      "url": "https://glottolog.org/resource/languoid/id/mand1469"
+    },
+    {
+      "name": "Western Mande",
+      "id": "west2780",
+      "url": "https://glottolog.org/resource/languoid/id/west2780"
+    },
+    {
+      "name": "Manding-Kpelle",
+      "id": "mand1431",
+      "url": "https://glottolog.org/resource/languoid/id/mand1431"
+    },
+    {
+      "name": "Southwest Mande",
+      "id": "sout2842",
+      "url": "https://glottolog.org/resource/languoid/id/sout2842"
+    },
+    {
+      "name": "Kpelle",
+      "id": "kpel1252",
+      "url": "https://glottolog.org/resource/languoid/id/kpel1252"
+    }
+  ],
+  "iso639-3": "knu"
+}

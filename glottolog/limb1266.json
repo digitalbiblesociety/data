@@ -1,0 +1,102 @@
+{
+  "pk": 7301,
+  "hid": "lif",
+  "father_pk": 4963,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Chattare [chat1267]':1,'Panthare [pant1253]':1,'Phedappe [phed1238]':1,'Taplejunge [tapl1238]':1)'Limbu [limb1266][lif]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1621",
+        "label": "Limbu"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_lim",
+        "label": "Limbu"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Limbu_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56477",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "11949",
+        "long_grammar",
+        1987,
+        593,
+        "George van Driem 1987"
+      ],
+      [
+        "26805",
+        "long_grammar",
+        1985,
+        425,
+        "Alfons Weidert and B. Subba 1985"
+      ],
+      [
+        "156108",
+        "phonology_or_text",
+        1962,
+        434,
+        "Chemjong, Imam Singh 1962"
+      ],
+      [
+        "52757",
+        "wordlist_or_less",
+        1874,
+        9,
+        "Campbell, George 1874"
+      ],
+      [
+        "137873",
+        "wordlist_or_less",
+        1840,
+        6,
+        "A. Campbell 1840"
+      ]
+    ]
+  },
+  "id": "limb1266",
+  "name": "Limbu",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.2703,
+  "longitude": 87.8859,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Himalayish",
+      "id": "hima1249",
+      "url": "https://glottolog.org/resource/languoid/id/hima1249"
+    },
+    {
+      "name": "Mahakiranti",
+      "id": "maha1306",
+      "url": "https://glottolog.org/resource/languoid/id/maha1306"
+    },
+    {
+      "name": "Kiranti",
+      "id": "kira1253",
+      "url": "https://glottolog.org/resource/languoid/id/kira1253"
+    }
+  ],
+  "iso639-3": "lif"
+}

@@ -1,0 +1,113 @@
+{
+  "pk": 19477,
+  "hid": "bkb",
+  "father_pk": 17482,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Barlig [barl1240]':1,'Kadaklan [kada1287]':1,'Lias [lias1237]':1)'Eastern Bontok [east2881][ebk]':1,'Southern Bontok [sout3368][obk]':1)'Eastern-Southern Bontok [fina1242][bkb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "bkb",
+      "name": "Finallig",
+      "change_request": "2009-073",
+      "effective": "2010-01-18",
+      "reason": "split",
+      "change_to": [
+        "ebk",
+        "obk"
+      ],
+      "remedy": "Split into Eastern Bontok [ebk] and Southern Bontok [obk]",
+      "comment": "The present reference name used with [bkb], Finallig, is erroneous; that name\nshould be used to refer only to the dialect spoken in the community of Barlig,\nMountain Province, the Philippines, and cannot appropriately be used to refer to\nthe language of other closely related dialects of Eastern Bontok that are spoken\nin the Barlig municipality, such as Kenachakran (spoken in Kadaklan), or Linias\n(spoken in Lias), who would never label their language variety as Finallig (see\nFukuda 1997:11, 1980), or to the distinctively different Southern Bontok\nvarieties.\n\nCurrently this code element (as described in the Ethnologue) has three\n\"alternate names\": Eastern Bontoc, Kadaklan-Barlig Bontoc, and Southern Bontoc.\nThe term \"Kadaklan- Barlig\" appears nowhere in the literature, although Kadaklan\nand Barlig do so separately (see Fukuda 1997:11, 1980, etc.). The term Southern\nBontoc was proposed by Busenitz (1973) in an unpublished SIL survey.\n\nAlthough Eastern Bontok is closely related to Southern Bontok (that is the\ndialects spoken in the communities of Can-eo, Talubin and Bayyo) , each has a\nmarkedly different phonology from the others., e.g., the pre-vocalic variants of\n/b/ and /d/, which are voiceless (and fricativized) in Central and Eastern\nlanguages are voiced in Southwestern Bontok, and the aspirated voiceless variant\nof /g/ found in Central and Eastern languages is lost, i.e., /g/ has no\nprevocalic variant at all. Eastern Bontok dialects of both Barlig and Kadaklan\nhave a unique palatalized, voiceless, fricativized variant of /b/ and /d/ before\n/a/, written _fia_ (hence _Fiallig_, the local pronunciation of Barlig) and\n_cha_, respectively, which is not found in the Southern dialects. The reflex of\n*schwa in Southern Bontok is schwa, as in the Central Bontok dialects, whereas\nin the Eastern dialects it has fallen together with a back vowel /u/ (sometimes\nalso represented as o). Southern dialects also have developed an /o/ vowel, but\nfrom a completely different source than the Eastern dialects (see Kikusawa and\nReid 2003 for the developments in the Talubin dialect that is known as\nTinoveng).\n\n\nThere are a wide range of both morphological and syntactic features that\ndistinguish Eastern and Southern dialects, discussed in Kikusawa and Reid\n(2003). The Southern dialects of Talubin and Bayyo are strongly influenced also\nfrom their proximity to the neighboring languages to the south, the various\ndialects of Ifugao. These communities are located on the main road between\nBontoc town and the Ifugao municipality of Banaue.\n\nAlthough Talubin and Bayyo are listed as dialects of Eastern Bontok based on an\nunpublished SIL survey by Busenitz in 1973 (cited by Fukuda 1997:11, Busenitz\ncalled all Eastern dialects Southern), my own research shows that the varieties\nare distinct enough in phonology, morphology, syntax and lexicon to be\nconsidered separate languages.\n\nApart from the linguistic differences between the two groups of dialects,\nspeakers of the Eastern Bontok varieties have rejected the label Southern\nBontok, since historically they have been enemies (especially of the Can-eo\npeople), and even today have vivid memories of headhunting exploits of one group\nagainst the other.\n\nThe reference name \"Bontok, Eastern\" matches the proposed macrolanguage name\n\"Bontok\", and correctly positions them geographically in the Eastern area of\nMountain Province. The communalects of Kadaklan and Barlig are referred to as\nEastern Bontoc in several publications (Fukuda 1980, 1981, 1992,1997, and Pang\n1998.)"
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12631018",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "138552",
+        "grammar_sketch",
+        1997,
+        116,
+        "Fukuda, Takashi 1997"
+      ],
+      [
+        "91668",
+        "grammar_sketch",
+        1977,
+        73,
+        "na 1977"
+      ],
+      [
+        "550893",
+        "wordlist_or_less",
+        1902,
+        10,
+        "Morley, Reuben Hitchcock 1902"
+      ]
+    ]
+  },
+  "id": "fina1242",
+  "name": "Eastern-Southern Bontok",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.0319,
+  "longitude": 121.11,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Northern Luzon",
+      "id": "nort3238",
+      "url": "https://glottolog.org/resource/languoid/id/nort3238"
+    },
+    {
+      "name": "Meso-Cordilleran",
+      "id": "meso1254",
+      "url": "https://glottolog.org/resource/languoid/id/meso1254"
+    },
+    {
+      "name": "South-Central Cordilleran",
+      "id": "sout3211",
+      "url": "https://glottolog.org/resource/languoid/id/sout3211"
+    },
+    {
+      "name": "Central Cordilleran",
+      "id": "cent2296",
+      "url": "https://glottolog.org/resource/languoid/id/cent2296"
+    },
+    {
+      "name": "Nuclear Cordilleran",
+      "id": "nucl1754",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1754"
+    },
+    {
+      "name": "Bontok-Kankanay",
+      "id": "bont1246",
+      "url": "https://glottolog.org/resource/languoid/id/bont1246"
+    },
+    {
+      "name": "Bontok",
+      "id": "bont1247",
+      "url": "https://glottolog.org/resource/languoid/id/bont1247"
+    }
+  ],
+  "iso639-3": "bkb"
+}

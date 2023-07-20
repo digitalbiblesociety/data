@@ -1,0 +1,97 @@
+{
+  "pk": 17177,
+  "hid": "zoo",
+  "father_pk": 14758,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Asunción Mixtepec Zapotec [asun1236][zoo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3129",
+        "label": "Asunción Mixtepec Zapotec"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q4811888",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Asunci%C3%B3n_Mixtepec_Zapotec",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "46936",
+        "phonology_or_text",
+        2007,
+        116,
+        "Mark A. Sicoli 2007"
+      ],
+      [
+        "149741",
+        "wordlist_or_less",
+        1933,
+        4,
+        "van de Velde, Paul 1933"
+      ]
+    ]
+  },
+  "id": "asun1236",
+  "name": "Asunción Mixtepec Zapotec",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.8762,
+  "longitude": -96.8704,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Popoloca-Zapotecan",
+      "id": "popo1292",
+      "url": "https://glottolog.org/resource/languoid/id/popo1292"
+    },
+    {
+      "name": "Zapotecan",
+      "id": "zapo1436",
+      "url": "https://glottolog.org/resource/languoid/id/zapo1436"
+    },
+    {
+      "name": "Zapotec",
+      "id": "zapo1437",
+      "url": "https://glottolog.org/resource/languoid/id/zapo1437"
+    },
+    {
+      "name": "Core Zapotec",
+      "id": "nucl1765",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1765"
+    },
+    {
+      "name": "Narrow Core Zapotec",
+      "id": "core1259",
+      "url": "https://glottolog.org/resource/languoid/id/core1259"
+    },
+    {
+      "name": "Central Core Zapotec",
+      "id": "cent2146",
+      "url": "https://glottolog.org/resource/languoid/id/cent2146"
+    }
+  ],
+  "iso639-3": "zoo"
+}

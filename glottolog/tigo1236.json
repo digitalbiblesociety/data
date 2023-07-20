@@ -1,0 +1,101 @@
+{
+  "pk": 13025,
+  "hid": "nza",
+  "father_pk": 10010,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ashuku [ashu1243]':1,'Eneeme [enee1238]':1,'Kporo [kpor1238]':1,'Nama {Tigon Mbembe} [nama1263]':1,'Nzare [nzar1241]':1)'Tigon Mbembe [tigo1236][nza]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q36518",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tigon_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/tigo1236",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "421689",
+        "long_grammar",
+        2014,
+        544,
+        "Doris Richter 2014"
+      ],
+      [
+        "315576",
+        "long_grammar",
+        2012,
+        480,
+        "Doris Richter 2012"
+      ],
+      [
+        "39567",
+        "grammar_sketch",
+        1953,
+        4,
+        "Tischhauser, Georg 1953/54"
+      ],
+      [
+        "37690",
+        "wordlist_or_less",
+        1931,
+        5,
+        "Meek, Charles K. 1931"
+      ]
+    ]
+  },
+  "id": "tigo1236",
+  "name": "Tigon Mbembe",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.983995,
+  "longitude": 10.70849,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Jukunoid",
+      "id": "juku1257",
+      "url": "https://glottolog.org/resource/languoid/id/juku1257"
+    },
+    {
+      "name": "Central Jukunoid",
+      "id": "cent2241",
+      "url": "https://glottolog.org/resource/languoid/id/cent2241"
+    },
+    {
+      "name": "Jukun-Mbembe-Wurbo",
+      "id": "juku1258",
+      "url": "https://glottolog.org/resource/languoid/id/juku1258"
+    }
+  ],
+  "iso639-3": "nza"
+}

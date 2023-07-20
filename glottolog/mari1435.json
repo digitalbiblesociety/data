@@ -1,0 +1,76 @@
+{
+  "pk": 4529,
+  "hid": "mbw",
+  "father_pk": 2918,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Maring [cent2121]':1,'Eastern Maring [east2513]':1,'Kambegl [kamb1304]':1,'Karamba [kara1496]':1,'Timbunki [timb1252]':1,'Tsuwenki [tsuw1238]':1)'Maring [mari1435][mbw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4626",
+        "label": "Maring"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3293280",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Maring_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mav",
+        "label": "Maring"
+      }
+    ],
+    "meds": [
+      [
+        "35517",
+        "grammar_sketch",
+        1973,
+        82,
+        "Healey, Alan [1973]"
+      ],
+      [
+        "61070",
+        "wordlist_or_less",
+        1969,
+        119,
+        "Lance Woodward and Bartholomen Chicki 1969"
+      ]
+    ]
+  },
+  "id": "mari1435",
+  "name": "Maring",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.44015,
+  "longitude": 144.642,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Chimbu-Wahgi",
+      "id": "cent2120",
+      "url": "https://glottolog.org/resource/languoid/id/cent2120"
+    },
+    {
+      "name": "Jimi",
+      "id": "jimi1245",
+      "url": "https://glottolog.org/resource/languoid/id/jimi1245"
+    }
+  ],
+  "iso639-3": "mbw"
+}

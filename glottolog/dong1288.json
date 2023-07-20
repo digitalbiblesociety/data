@@ -1,0 +1,70 @@
+{
+  "pk": 6520,
+  "hid": "dgl",
+  "father_pk": 4485,
+  "family_pk": 274,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "'Dongola [dong1288][dgl]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nbd",
+        "label": "Nubian (Dongolese)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dongolawi_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q55218915",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500698",
+        "wordlist_or_less",
+        2011,
+        0,
+        "ISO 639-3 Registration Authority 2011"
+      ]
+    ]
+  },
+  "id": "dong1288",
+  "name": "Dongola",
+  "description": null,
+  "markup_description": null,
+  "latitude": 18.25,
+  "longitude": 30.75,
+  "classification": [
+    {
+      "name": "Nubian",
+      "id": "nubi1251",
+      "url": "https://glottolog.org/resource/languoid/id/nubi1251"
+    },
+    {
+      "name": "West-Central Nubian",
+      "id": "west2781",
+      "url": "https://glottolog.org/resource/languoid/id/west2781"
+    },
+    {
+      "name": "Central Nubian",
+      "id": "cent2232",
+      "url": "https://glottolog.org/resource/languoid/id/cent2232"
+    },
+    {
+      "name": "Kenuzi-Dongola",
+      "id": "kenu1236",
+      "url": "https://glottolog.org/resource/languoid/id/kenu1236"
+    }
+  ],
+  "iso639-3": "dgl"
+}

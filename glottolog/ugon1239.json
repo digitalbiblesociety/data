@@ -1,0 +1,86 @@
+{
+  "pk": 4940,
+  "hid": "ugo",
+  "father_pk": 3161,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kok Chiang [kokc1239]':1,'Suphanburi [suph1238]':1)'Ugong [ugon1239][ugo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3435",
+        "label": "Ugong"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3448919",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Gong_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "313550",
+        "grammar_sketch",
+        2006,
+        219,
+        "Mayuree, Thawornpat 2006"
+      ],
+      [
+        "553503",
+        "phonology_or_text",
+        1993,
+        122,
+        "Mayuree, Puapunsuddee 1993"
+      ],
+      [
+        "553604",
+        "phonology_or_text",
+        1986,
+        120,
+        "Pusit, Rujjanavet 1986"
+      ],
+      [
+        "153074",
+        "wordlist_or_less",
+        1927,
+        6,
+        "Kerr, A. F. G. 1927"
+      ]
+    ]
+  },
+  "id": "ugon1239",
+  "name": "Ugong",
+  "description": null,
+  "markup_description": null,
+  "latitude": 14.2408,
+  "longitude": 100.098,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Burmo-Qiangic",
+      "id": "burm1265",
+      "url": "https://glottolog.org/resource/languoid/id/burm1265"
+    },
+    {
+      "name": "Lolo-Burmese",
+      "id": "lolo1265",
+      "url": "https://glottolog.org/resource/languoid/id/lolo1265"
+    }
+  ],
+  "iso639-3": "ugo"
+}

@@ -1,0 +1,104 @@
+{
+  "pk": 17535,
+  "hid": "fud",
+  "father_pk": 15212,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'East Futuna [east2447][fud]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_fue",
+        "label": "Futuna (East)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Futunan_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35334",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "477183",
+        "grammar",
+        1997,
+        240,
+        "Moyse-Faurie, Claire 1997"
+      ],
+      [
+        "123364",
+        "grammar_sketch",
+        1993,
+        261,
+        "Moyse-Faurie, Claire 1993"
+      ],
+      [
+        "81413",
+        "grammar_sketch",
+        1878,
+        151,
+        "Grézel, Isidore 1878"
+      ]
+    ]
+  },
+  "id": "east2447",
+  "name": "East Futuna",
+  "description": null,
+  "markup_description": null,
+  "latitude": -14.278717,
+  "longitude": -178.137222,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Central Pacific linkage",
+      "id": "cent2060",
+      "url": "https://glottolog.org/resource/languoid/id/cent2060"
+    },
+    {
+      "name": "Tokalau Fijian",
+      "id": "east2445",
+      "url": "https://glottolog.org/resource/languoid/id/east2445"
+    },
+    {
+      "name": "Polynesian",
+      "id": "poly1242",
+      "url": "https://glottolog.org/resource/languoid/id/poly1242"
+    },
+    {
+      "name": "Nuclear Polynesian",
+      "id": "nucl1485",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1485"
+    }
+  ],
+  "iso639-3": "fud"
+}

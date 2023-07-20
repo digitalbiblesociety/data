@@ -1,0 +1,98 @@
+{
+  "pk": 5621,
+  "hid": "lav",
+  "father_pk": 3711,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Curonian [curo1234]':1,'East Latvian [east2282][ltg]':1,('Standard Latvian [stan1325][lvs]':1,'Tamian [tami1283]':1)'Low Latvian [lowl1274]':1,'Zemgalian [zemg1234][xzm]':1)'Latvian [latv1249][lav]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_lat",
+        "label": "Latvian"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Latvian_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q9078",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "645540",
+        "long_grammar",
+        1959,
+        1799,
+        "Sokols, Evalds 1959, 1962"
+      ],
+      [
+        "612692",
+        "long_grammar",
+        1951,
+        1103,
+        "Janis Endzelins 1951"
+      ],
+      [
+        "44751",
+        "long_grammar",
+        1923,
+        874,
+        "J. Endzelin 1923"
+      ],
+      [
+        "134920",
+        "long_grammar",
+        1863,
+        457,
+        "Bielenstein, A. 1863"
+      ],
+      [
+        "622127",
+        "grammar_sketch",
+        1841,
+        160,
+        "Heinrich Hesselberg 1841"
+      ]
+    ]
+  },
+  "id": "latv1249",
+  "name": "Latvian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 56.826108,
+  "longitude": 24.309118,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Balto-Slavic",
+      "id": "balt1263",
+      "url": "https://glottolog.org/resource/languoid/id/balt1263"
+    },
+    {
+      "name": "Eastern Baltic",
+      "id": "east2280",
+      "url": "https://glottolog.org/resource/languoid/id/east2280"
+    }
+  ],
+  "iso639-3": "lav"
+}

@@ -1,0 +1,110 @@
+{
+  "pk": 16315,
+  "hid": "xra",
+  "father_pk": 13531,
+  "family_pk": 376,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "'Krahô [krah1246][xra]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "xra",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "Krahô [xra] is listed in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 as a separate Eastern Timbira language, but the language spoken by the Krahô is intelligible with that of the Canela [ram] entry (**hh:typ:Miranda:Kraho**:12, **hh:s:PopjesPopjes:Canela-Kraho**, **hh:e:Nimuendaju:Timbira**:26). See also: Canela-Krahô [ram]."
+    },
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3087",
+        "label": "Krahô"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Krah%C3%B4_dialect",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/krah1246",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_krh",
+        "label": "Krahô"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3199549",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "50590",
+        "grammar_sketch",
+        1952,
+        15,
+        "Shell, Olive 1952"
+      ]
+    ]
+  },
+  "id": "krah1246",
+  "name": "Krahô",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.01172,
+  "longitude": -47.5774,
+  "classification": [
+    {
+      "name": "Nuclear-Macro-Je",
+      "id": "nucl1710",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1710"
+    },
+    {
+      "name": "Je",
+      "id": "jeee1236",
+      "url": "https://glottolog.org/resource/languoid/id/jeee1236"
+    },
+    {
+      "name": "Je Setentrional",
+      "id": "jese1235",
+      "url": "https://glottolog.org/resource/languoid/id/jese1235"
+    },
+    {
+      "name": "Core Northern Je",
+      "id": "core1264",
+      "url": "https://glottolog.org/resource/languoid/id/core1264"
+    },
+    {
+      "name": "Eastern Timbira",
+      "id": "timb1253",
+      "url": "https://glottolog.org/resource/languoid/id/timb1253"
+    },
+    {
+      "name": "Southeastern Timbira",
+      "id": "sout3244",
+      "url": "https://glottolog.org/resource/languoid/id/sout3244"
+    },
+    {
+      "name": "Canela-Krahô",
+      "id": "cane1242",
+      "url": "https://glottolog.org/resource/languoid/id/cane1242"
+    }
+  ],
+  "iso639-3": "xra"
+}

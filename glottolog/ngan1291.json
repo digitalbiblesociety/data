@@ -1,0 +1,96 @@
+{
+  "pk": 3069,
+  "hid": "nio",
+  "father_pk": 1562,
+  "family_pk": 302,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Pyasina Avam [pyas1236]':1,'Taimyr Avam [taim1257]':1)'Avam [avam1236]':1,'Vadeyev [khat1249]':1)'Nganasan [ngan1291][nio]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2893",
+        "label": "Nganasan"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36743",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nganasan_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/ngan1291",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nga",
+        "label": "Nganasan"
+      }
+    ],
+    "meds": [
+      [
+        "578400",
+        "long_grammar",
+        2019,
+        602,
+        "Wagner-Nagy, Beáta Boglárka 2019"
+      ],
+      [
+        "95921",
+        "long_grammar",
+        1979,
+        323,
+        "Tereščenko, Natal'ya Mitrofanovna 1979"
+      ],
+      [
+        "136188",
+        "grammar",
+        1966,
+        22,
+        "Tereshchenko, N. M. 1966"
+      ],
+      [
+        "132372",
+        "grammar_sketch",
+        1854,
+        43,
+        "Mathias Alexander, Castrén 1966 [1854]"
+      ],
+      [
+        "309459",
+        "wordlist_or_less",
+        1786,
+        20,
+        "Pallas, Peter Simon 1786, 1789"
+      ]
+    ]
+  },
+  "id": "ngan1291",
+  "name": "Nganasan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 73.1354,
+  "longitude": 86.2106,
+  "classification": [
+    {
+      "name": "Uralic",
+      "id": "ural1272",
+      "url": "https://glottolog.org/resource/languoid/id/ural1272"
+    },
+    {
+      "name": "Samoyedic",
+      "id": "samo1298",
+      "url": "https://glottolog.org/resource/languoid/id/samo1298"
+    }
+  ],
+  "iso639-3": "nio"
+}

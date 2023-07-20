@@ -1,0 +1,87 @@
+{
+  "pk": 1844,
+  "hid": "kjq",
+  "father_pk": 408,
+  "family_pk": 408,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Acoma Keres [acom1246]':1,'Laguna Keres [lagu1251]':1)'Western Keres [west2632][kjq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/650",
+        "label": "Acoma-Laguna"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12645568",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/west2632",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_aco",
+        "label": "Acoma"
+      }
+    ],
+    "meds": [
+      [
+        "145675",
+        "long_grammar",
+        1990,
+        807,
+        "Valiquette, Hilaire Paul 1990"
+      ],
+      [
+        "54516",
+        "grammar",
+        1965,
+        259,
+        "Miller, Wick R. 1965"
+      ],
+      [
+        "577479",
+        "grammar_sketch",
+        1940,
+        186,
+        "Spencer, Robert Francis 1940"
+      ],
+      [
+        "310324",
+        "wordlist_or_less",
+        1879,
+        6,
+        "Albert S. Gatschet 1879"
+      ],
+      [
+        "313255",
+        "wordlist_or_less",
+        1850,
+        2,
+        "J. H. Simpson 1850"
+      ]
+    ]
+  },
+  "id": "west2632",
+  "name": "Western Keres",
+  "description": null,
+  "markup_description": null,
+  "latitude": 34.9733,
+  "longitude": -107.517,
+  "classification": [
+    {
+      "name": "Keresan",
+      "id": "kere1287",
+      "url": "https://glottolog.org/resource/languoid/id/kere1287"
+    }
+  ],
+  "iso639-3": "kjq"
+}

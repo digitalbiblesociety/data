@@ -1,0 +1,92 @@
+{
+  "pk": 14130,
+  "hid": "acm",
+  "father_pk": 11071,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Anatolian Cluster [anat1256]':1,'Euphrates Cluster [euph1238]':1,'Kawliya [koli1251]':1,'Tigris Cluster [tigr1275]':1)'Gilit Mesopotamian Arabic [meso1252][acm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56232",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mesopotamian_Arabic",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_arq",
+        "label": "Arabic (Iraqi)"
+      }
+    ],
+    "meds": [
+      [
+        "138143",
+        "long_grammar",
+        1963,
+        409,
+        "Erwin, Wallace M. 1963"
+      ],
+      [
+        "665294",
+        "grammar_sketch",
+        1903,
+        103,
+        "Bruno Meissner 1903"
+      ]
+    ]
+  },
+  "id": "meso1252",
+  "name": "Gilit Mesopotamian Arabic",
+  "description": null,
+  "markup_description": null,
+  "latitude": 33.8178,
+  "longitude": 43.1095,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Semitic",
+      "id": "semi1276",
+      "url": "https://glottolog.org/resource/languoid/id/semi1276"
+    },
+    {
+      "name": "West Semitic",
+      "id": "west2786",
+      "url": "https://glottolog.org/resource/languoid/id/west2786"
+    },
+    {
+      "name": "Central Semitic",
+      "id": "cent2236",
+      "url": "https://glottolog.org/resource/languoid/id/cent2236"
+    },
+    {
+      "name": "Arabian",
+      "id": "arab1394",
+      "url": "https://glottolog.org/resource/languoid/id/arab1394"
+    },
+    {
+      "name": "Arabic",
+      "id": "arab1395",
+      "url": "https://glottolog.org/resource/languoid/id/arab1395"
+    },
+    {
+      "name": "Eastern Arabic",
+      "id": "east2729",
+      "url": "https://glottolog.org/resource/languoid/id/east2729"
+    }
+  ],
+  "iso639-3": "acm"
+}

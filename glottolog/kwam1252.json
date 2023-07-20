@@ -1,0 +1,118 @@
+{
+  "pk": 17552,
+  "hid": "tnk",
+  "father_pk": 15224,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kwamera [kwam1252][tnk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kwr",
+        "label": "Kwamera"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kwamera_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3200806",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "69591",
+        "grammar_sketch",
+        1994,
+        47,
+        "Lamont Lindstrom and John Lynch 1994"
+      ],
+      [
+        "47028",
+        "phonology_or_text",
+        1986,
+        204,
+        "Lindstrom, Lamont 1986"
+      ],
+      [
+        "52375",
+        "wordlist_or_less",
+        1976,
+        1,
+        "Darrell T. Tryon 1976"
+      ],
+      [
+        "53206",
+        "wordlist_or_less",
+        1919,
+        1,
+        "Sidney H. Ray 1919/1920"
+      ],
+      [
+        "589835",
+        "wordlist_or_less",
+        1861,
+        0,
+        "Turner, G. 1861"
+      ]
+    ]
+  },
+  "id": "kwam1252",
+  "name": "Kwamera",
+  "description": null,
+  "markup_description": null,
+  "latitude": -19.5954,
+  "longitude": 169.442,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Southern Melanesian",
+      "id": "sout3173",
+      "url": "https://glottolog.org/resource/languoid/id/sout3173"
+    },
+    {
+      "name": "Southern Vanuatu",
+      "id": "sout2868",
+      "url": "https://glottolog.org/resource/languoid/id/sout2868"
+    },
+    {
+      "name": "Tanna",
+      "id": "tann1242",
+      "url": "https://glottolog.org/resource/languoid/id/tann1242"
+    },
+    {
+      "name": "Southern Tanna",
+      "id": "sout3195",
+      "url": "https://glottolog.org/resource/languoid/id/sout3195"
+    }
+  ],
+  "iso639-3": "tnk"
+}

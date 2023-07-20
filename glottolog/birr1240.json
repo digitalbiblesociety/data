@@ -1,0 +1,76 @@
+{
+  "pk": 3930,
+  "hid": "bvq",
+  "father_pk": 2237,
+  "family_pk": 140,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Mboto [mbot1238]':1,'Munga [mung1268]':1)'Birri [birr1240][bvq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/560",
+        "label": "Birri"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56514",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Birri_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_brz",
+        "label": "Birri"
+      }
+    ],
+    "meds": [
+      [
+        "124650",
+        "grammar_sketch",
+        1966,
+        154,
+        "Santandrea, Stefano 1966"
+      ],
+      [
+        "159784",
+        "wordlist_or_less",
+        1888,
+        9,
+        "Junker, W. 1888/1889"
+      ]
+    ]
+  },
+  "id": "birr1240",
+  "name": "Birri",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.33,
+  "longitude": 24.6,
+  "classification": [
+    {
+      "name": "Central Sudanic",
+      "id": "cent2225",
+      "url": "https://glottolog.org/resource/languoid/id/cent2225"
+    },
+    {
+      "name": "Membi-Mangbutu-Efe",
+      "id": "memb1239",
+      "url": "https://glottolog.org/resource/languoid/id/memb1239"
+    },
+    {
+      "name": "Unclassified Membi-Mangbutu-Efe",
+      "id": "uncl1501",
+      "url": "https://glottolog.org/resource/languoid/id/uncl1501"
+    }
+  ],
+  "iso639-3": "bvq"
+}

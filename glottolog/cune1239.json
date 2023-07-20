@@ -1,0 +1,110 @@
+{
+  "pk": 10836,
+  "hid": "xlu",
+  "father_pk": 7955,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Cuneiform Luwian [cune1239][xlu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "xlu",
+      "comment_type": "missing",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "A number of ancient Indo-European languages of Anatolia are not listed in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26. One of them is Cuneiform Luwian (**hh:es:Melchert:Luwians**)."
+    },
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12634577",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "141431",
+        "grammar_sketch",
+        2008,
+        143,
+        "Yakubovich, Ilya 2008"
+      ],
+      [
+        "95933",
+        "grammar_sketch",
+        2003,
+        101,
+        "Melchert, Craig H. 2003"
+      ],
+      [
+        "121357",
+        "grammar_sketch",
+        1969,
+        60,
+        "Annelies Kammenhuber 1969"
+      ],
+      [
+        "26655",
+        "phonology_or_text",
+        1959,
+        90,
+        "Laroche, Emmanuel 1959"
+      ]
+    ]
+  },
+  "id": "cune1239",
+  "name": "Cuneiform Luwian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 38,
+  "longitude": 36,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Anatolian",
+      "id": "anat1257",
+      "url": "https://glottolog.org/resource/languoid/id/anat1257"
+    },
+    {
+      "name": "Luvo-Lydian",
+      "id": "luvo1234",
+      "url": "https://glottolog.org/resource/languoid/id/luvo1234"
+    },
+    {
+      "name": "Luvo-Palaic",
+      "id": "luvo1235",
+      "url": "https://glottolog.org/resource/languoid/id/luvo1235"
+    },
+    {
+      "name": "Luvic",
+      "id": "luvi1234",
+      "url": "https://glottolog.org/resource/languoid/id/luvi1234"
+    },
+    {
+      "name": "Luvian",
+      "id": "luvi1235",
+      "url": "https://glottolog.org/resource/languoid/id/luvi1235"
+    }
+  ],
+  "iso639-3": "xlu"
+}

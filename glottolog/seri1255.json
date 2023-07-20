@@ -1,0 +1,92 @@
+{
+  "pk": 15356,
+  "hid": "sve",
+  "father_pk": 12568,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Serili [seri1255][sve]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2781",
+        "label": "Serili"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7454834",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Serili_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "660446",
+        "wordlist_or_less",
+        2021,
+        53,
+        "van Dijk, Toos 2021"
+      ],
+      [
+        "110693",
+        "wordlist_or_less",
+        1993,
+        1,
+        "Mark Taber 1993"
+      ]
+    ]
+  },
+  "id": "seri1255",
+  "name": "Serili",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.11241,
+  "longitude": 129.901,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Timor-Babar",
+      "id": "timo1265",
+      "url": "https://glottolog.org/resource/languoid/id/timo1265"
+    },
+    {
+      "name": "Southwest Maluku",
+      "id": "sout3382",
+      "url": "https://glottolog.org/resource/languoid/id/sout3382"
+    },
+    {
+      "name": "Babar",
+      "id": "baba1274",
+      "url": "https://glottolog.org/resource/languoid/id/baba1274"
+    },
+    {
+      "name": "South Babar",
+      "id": "sout2881",
+      "url": "https://glottolog.org/resource/languoid/id/sout2881"
+    },
+    {
+      "name": "Masela-South Babar",
+      "id": "mase1249",
+      "url": "https://glottolog.org/resource/languoid/id/mase1249"
+    }
+  ],
+  "iso639-3": "sve"
+}

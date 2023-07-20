@@ -1,0 +1,95 @@
+{
+  "pk": 7480,
+  "hid": "mlm",
+  "father_pk": 5125,
+  "family_pk": 356,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mulam [mula1253][mlm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1431",
+        "label": "Mulam"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3092284",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mulam_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mul",
+        "label": "Mulao"
+      }
+    ],
+    "meds": [
+      [
+        "478634",
+        "long_grammar",
+        2014,
+        452,
+        "Yin, Shage 2014"
+      ],
+      [
+        "553045",
+        "long_grammar",
+        2012,
+        436,
+        "Yin, Shage 2012"
+      ],
+      [
+        "41531",
+        "grammar",
+        1993,
+        138,
+        "Wang, Jun and Zheng, Guoqiao 1993"
+      ],
+      [
+        "47035",
+        "grammar",
+        1980,
+        119,
+        "Wang, Jun and Zheng, Guoqiao 1980"
+      ]
+    ]
+  },
+  "id": "mula1253",
+  "name": "Mulam",
+  "description": null,
+  "markup_description": null,
+  "latitude": 24.8151,
+  "longitude": 108.928,
+  "classification": [
+    {
+      "name": "Tai-Kadai",
+      "id": "taik1256",
+      "url": "https://glottolog.org/resource/languoid/id/taik1256"
+    },
+    {
+      "name": "Kam-Tai",
+      "id": "kamt1241",
+      "url": "https://glottolog.org/resource/languoid/id/kamt1241"
+    },
+    {
+      "name": "Kam-Sui",
+      "id": "kams1241",
+      "url": "https://glottolog.org/resource/languoid/id/kams1241"
+    },
+    {
+      "name": "Mulam-Kam",
+      "id": "mula1252",
+      "url": "https://glottolog.org/resource/languoid/id/mula1252"
+    }
+  ],
+  "iso639-3": "mlm"
+}

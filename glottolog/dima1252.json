@@ -1,0 +1,63 @@
+{
+  "pk": 3379,
+  "hid": "jma",
+  "father_pk": 1803,
+  "family_pk": 384,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Dima [dima1252][jma]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q5277140",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dima_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "95319",
+        "wordlist_or_less",
+        1938,
+        1,
+        "Sidney H. Ray 1938"
+      ],
+      [
+        "309606",
+        "wordlist_or_less",
+        1911,
+        1,
+        "W. M. Strong 1911"
+      ]
+    ]
+  },
+  "id": "dima1252",
+  "name": "Dima",
+  "description": null,
+  "markup_description": null,
+  "latitude": -9.70322,
+  "longitude": 149.605,
+  "classification": [
+    {
+      "name": "Dagan",
+      "id": "daga1274",
+      "url": "https://glottolog.org/resource/languoid/id/daga1274"
+    },
+    {
+      "name": "Central Dagan",
+      "id": "cent2401",
+      "url": "https://glottolog.org/resource/languoid/id/cent2401"
+    }
+  ],
+  "iso639-3": "jma"
+}

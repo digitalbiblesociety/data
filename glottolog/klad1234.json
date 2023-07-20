@@ -1,0 +1,84 @@
+{
+  "pk": 14391,
+  "hid": "lda",
+  "father_pk": 11310,
+  "family_pk": 121,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "'Kla-Dan [klad1234][lda]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q63257856",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500202",
+        "wordlist_or_less",
+        2012,
+        0,
+        "ISO 639-3 Registration Authority 2012"
+      ],
+      [
+        "500301",
+        "wordlist_or_less",
+        2011,
+        0,
+        "ISO 639-3 Registration Authority 2011"
+      ]
+    ]
+  },
+  "id": "klad1234",
+  "name": "Kla-Dan",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Mande",
+      "id": "mand1469",
+      "url": "https://glottolog.org/resource/languoid/id/mand1469"
+    },
+    {
+      "name": "Eastern Mande",
+      "id": "east2697",
+      "url": "https://glottolog.org/resource/languoid/id/east2697"
+    },
+    {
+      "name": "Southeastern Mande",
+      "id": "sout3140",
+      "url": "https://glottolog.org/resource/languoid/id/sout3140"
+    },
+    {
+      "name": "Mano-Dan",
+      "id": "guro1245",
+      "url": "https://glottolog.org/resource/languoid/id/guro1245"
+    },
+    {
+      "name": "Guro-Dan",
+      "id": "guro1246",
+      "url": "https://glottolog.org/resource/languoid/id/guro1246"
+    },
+    {
+      "name": "Dan-Toura",
+      "id": "dant1235",
+      "url": "https://glottolog.org/resource/languoid/id/dant1235"
+    },
+    {
+      "name": "Dan",
+      "id": "dann1241",
+      "url": "https://glottolog.org/resource/languoid/id/dann1241"
+    }
+  ],
+  "iso639-3": "lda"
+}

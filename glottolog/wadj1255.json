@@ -1,0 +1,75 @@
+{
+  "pk": 8496,
+  "hid": "wdu",
+  "father_pk": 6029,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ganulu [ganu1234]':1,'Gayiri [gayi1238]':1,'Wadja [wadj1256]':1)'Wadjigu [wadj1255][wdu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3359",
+        "label": "Wadjigu"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/e39",
+        "label": "Wadjigu"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q10719025",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "9120",
+        "wordlist_or_less",
+        1887,
+        6,
+        "Middleton, Thomas and Noble, E. Irving 1887"
+      ]
+    ]
+  },
+  "id": "wadj1255",
+  "name": "Wadjigu",
+  "description": null,
+  "markup_description": null,
+  "latitude": -23.8029,
+  "longitude": 147.421,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Greater Maric",
+      "id": "grea1282",
+      "url": "https://glottolog.org/resource/languoid/id/grea1282"
+    },
+    {
+      "name": "Guwa-Maric",
+      "id": "guwa1245",
+      "url": "https://glottolog.org/resource/languoid/id/guwa1245"
+    },
+    {
+      "name": "Maric",
+      "id": "mari1445",
+      "url": "https://glottolog.org/resource/languoid/id/mari1445"
+    },
+    {
+      "name": "Southern Maric",
+      "id": "sout2765",
+      "url": "https://glottolog.org/resource/languoid/id/sout2765"
+    }
+  ],
+  "iso639-3": "wdu"
+}

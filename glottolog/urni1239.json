@@ -1,0 +1,78 @@
+{
+  "pk": 2389,
+  "hid": "urc",
+  "father_pk": 1110,
+  "family_pk": 168,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Urningangg [urni1239][urc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3419",
+        "label": "Urningangga"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/n66",
+        "label": "Urningangk"
+      },
+      {
+        "url": "https://phoible.org/languages/urni1239",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q10710522",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "32813",
+        "grammar_sketch",
+        2006,
+        41,
+        "Lauren Campbell 2006"
+      ],
+      [
+        "554499",
+        "wordlist_or_less",
+        1956,
+        4,
+        "Arthur Capell 1956"
+      ],
+      [
+        "104191",
+        "wordlist_or_less",
+        1941,
+        2,
+        "Arthur Capell 1941-1942, 1942-1943"
+      ]
+    ]
+  },
+  "id": "urni1239",
+  "name": "Urningangg",
+  "description": null,
+  "markup_description": null,
+  "latitude": -13.4766,
+  "longitude": 133.023,
+  "classification": [
+    {
+      "name": "Giimbiyu",
+      "id": "giim1238",
+      "url": "https://glottolog.org/resource/languoid/id/giim1238"
+    },
+    {
+      "name": "Urninganggic",
+      "id": "urni1238",
+      "url": "https://glottolog.org/resource/languoid/id/urni1238"
+    }
+  ],
+  "iso639-3": "urc"
+}

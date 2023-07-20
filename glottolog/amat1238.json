@@ -1,0 +1,97 @@
+{
+  "pk": 17187,
+  "hid": "zpo",
+  "father_pk": 14764,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Amatlán Zapotec [amat1238][zpo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10955",
+        "label": "Amatec Zapotec"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Amatl%C3%A1n_Zapotec",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q4740613",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "89181",
+        "grammar_sketch",
+        1991,
+        142,
+        "Riggs, David B. 1991"
+      ],
+      [
+        "128542",
+        "wordlist_or_less",
+        1986,
+        1,
+        "Marlett, Stephen A. and Pickett, Velma B. 1986"
+      ]
+    ]
+  },
+  "id": "amat1238",
+  "name": "Amatlán Zapotec",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.2707,
+  "longitude": -96.4003,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Popoloca-Zapotecan",
+      "id": "popo1292",
+      "url": "https://glottolog.org/resource/languoid/id/popo1292"
+    },
+    {
+      "name": "Zapotecan",
+      "id": "zapo1436",
+      "url": "https://glottolog.org/resource/languoid/id/zapo1436"
+    },
+    {
+      "name": "Zapotec",
+      "id": "zapo1437",
+      "url": "https://glottolog.org/resource/languoid/id/zapo1437"
+    },
+    {
+      "name": "Core Zapotec",
+      "id": "nucl1765",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1765"
+    },
+    {
+      "name": "Macrocoatecano",
+      "id": "macr1276",
+      "url": "https://glottolog.org/resource/languoid/id/macr1276"
+    },
+    {
+      "name": "Amatecano",
+      "id": "amat1239",
+      "url": "https://glottolog.org/resource/languoid/id/amat1239"
+    }
+  ],
+  "iso639-3": "zpo"
+}

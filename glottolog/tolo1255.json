@@ -1,0 +1,104 @@
+{
+  "pk": 17692,
+  "hid": "tlm",
+  "father_pk": 15283,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tolomako [tolo1255][tlm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2450",
+        "label": "Tolomako"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3130514",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tolomako_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "550753",
+        "grammar_sketch",
+        2009,
+        31,
+        "Miriam Meyerhoff 2009"
+      ],
+      [
+        "318038",
+        "grammar_sketch",
+        1926,
+        16,
+        "Sidney H. Ray 1926"
+      ],
+      [
+        "99266",
+        "wordlist_or_less",
+        1885,
+        6,
+        "Robert Codrington 1885"
+      ]
+    ]
+  },
+  "id": "tolo1255",
+  "name": "Tolomako",
+  "description": null,
+  "markup_description": null,
+  "latitude": -15.1569,
+  "longitude": 166.772,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "North and Central Vanuatu",
+      "id": "nort3195",
+      "url": "https://glottolog.org/resource/languoid/id/nort3195"
+    },
+    {
+      "name": "Northern Vanuatu",
+      "id": "nort3205",
+      "url": "https://glottolog.org/resource/languoid/id/nort3205"
+    },
+    {
+      "name": "Espiritu Santo",
+      "id": "espi1234",
+      "url": "https://glottolog.org/resource/languoid/id/espi1234"
+    },
+    {
+      "name": "West Santo",
+      "id": "west2956",
+      "url": "https://glottolog.org/resource/languoid/id/west2956"
+    }
+  ],
+  "iso639-3": "tlm"
+}

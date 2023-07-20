@@ -1,0 +1,90 @@
+{
+  "pk": 7829,
+  "hid": "kim",
+  "father_pk": 5417,
+  "family_pk": 14,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dukha [dukh1234]':1,'Soyot [soyo1234]':1,'Todja [todj1234]':1,'Tofa [tofa1248]':1,'Tuha [tuha1234]':1)'Taiga Sayan Turkic [kara1462][kim]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2365",
+        "label": "Tofa"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36848",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tofa_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kara1462",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tof",
+        "label": "Tofa"
+      }
+    ],
+    "meds": [
+      [
+        "304426",
+        "long_grammar",
+        2011,
+        303,
+        "Elisabetta Ragagnin 2011"
+      ],
+      [
+        "105079",
+        "grammar",
+        1857,
+        120,
+        "Castrén, Matthias Alexander 1857"
+      ]
+    ]
+  },
+  "id": "kara1462",
+  "name": "Taiga Sayan Turkic",
+  "description": null,
+  "markup_description": null,
+  "latitude": 53.7145,
+  "longitude": 98.3792,
+  "classification": [
+    {
+      "name": "Turkic",
+      "id": "turk1311",
+      "url": "https://glottolog.org/resource/languoid/id/turk1311"
+    },
+    {
+      "name": "Common Turkic",
+      "id": "comm1245",
+      "url": "https://glottolog.org/resource/languoid/id/comm1245"
+    },
+    {
+      "name": "Central Siberian Turkic",
+      "id": "cent2326",
+      "url": "https://glottolog.org/resource/languoid/id/cent2326"
+    },
+    {
+      "name": "South Siberian Turkic",
+      "id": "sout2693",
+      "url": "https://glottolog.org/resource/languoid/id/sout2693"
+    },
+    {
+      "name": "Sayan",
+      "id": "saya1244",
+      "url": "https://glottolog.org/resource/languoid/id/saya1244"
+    }
+  ],
+  "iso639-3": "kim"
+}

@@ -1,0 +1,91 @@
+{
+  "pk": 5792,
+  "hid": "moz",
+  "father_pk": 3837,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Doliki [doli1242]':1,'Gugiko [gugi1238]':1,'Mezimko [mezi1238]':1,'Mokilko [moki1243]':1,'Moriko [mori1277]':1,'Seginki [segi1242]':1)'Mukulu [muku1242][moz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3440403",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mokilko_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mko",
+        "label": "Mokilko"
+      }
+    ],
+    "meds": [
+      [
+        "82551",
+        "grammar_sketch",
+        1990,
+        165,
+        "Jungraithmayr, Herrmann 1990"
+      ],
+      [
+        "51791",
+        "grammar_sketch",
+        1977,
+        92,
+        "Lukas, Johannes 1977"
+      ],
+      [
+        "89989",
+        "phonology_or_text",
+        1974,
+        15,
+        "Lukas, Johannes 1974/1975"
+      ],
+      [
+        "105830",
+        "wordlist_or_less",
+        1959,
+        3,
+        "Lebeuf, Annie M.-D. 1959"
+      ]
+    ]
+  },
+  "id": "muku1242",
+  "name": "Mukulu",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.8644,
+  "longitude": 18.1822,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "East Chadic",
+      "id": "east2632",
+      "url": "https://glottolog.org/resource/languoid/id/east2632"
+    },
+    {
+      "name": "East Chadic B",
+      "id": "east2633",
+      "url": "https://glottolog.org/resource/languoid/id/east2633"
+    }
+  ],
+  "iso639-3": "moz"
+}

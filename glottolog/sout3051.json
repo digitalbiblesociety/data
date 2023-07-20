@@ -1,0 +1,83 @@
+{
+  "pk": 11288,
+  "hid": "giz",
+  "father_pk": 8308,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Mi Mijivin [mimi1245]':1,'Muturami [mutu1251]':1,'Rum [rumm1238]':1)'South Giziga [sout3051][giz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3502232",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/South_Giziga_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "131568",
+        "wordlist_or_less",
+        1994,
+        2,
+        "Jungraithmayr, Herrmann and Ibriszimow, Dymitr 1994"
+      ],
+      [
+        "128741",
+        "wordlist_or_less",
+        1910,
+        1,
+        "Strümpell, F. 1910"
+      ]
+    ]
+  },
+  "id": "sout3051",
+  "name": "South Giziga",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.2809,
+  "longitude": 14.1931,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "Biu-Mandara",
+      "id": "bium1280",
+      "url": "https://glottolog.org/resource/languoid/id/bium1280"
+    },
+    {
+      "name": "North Biu-Mandara",
+      "id": "nort3156",
+      "url": "https://glottolog.org/resource/languoid/id/nort3156"
+    },
+    {
+      "name": "Maroua",
+      "id": "maro1246",
+      "url": "https://glottolog.org/resource/languoid/id/maro1246"
+    },
+    {
+      "name": "Giziga",
+      "id": "gizi1243",
+      "url": "https://glottolog.org/resource/languoid/id/gizi1243"
+    }
+  ],
+  "iso639-3": "giz"
+}

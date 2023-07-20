@@ -1,0 +1,94 @@
+{
+  "pk": 19319,
+  "hid": "pne",
+  "father_pk": 17279,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bok Penan [bokp1241]':1,'Jelalong Penan [jela1245]':1,'Nibong [nibo1237]':1,'Penan Apo [pena1266]':1,'Penan Gang [pena1264]':1,'Penan Lanying [pena1267]':1,'Penan Lusong [pena1265]':1,'Penan Silat [pena1268]':1,'Sipeng [sipe1237]':1)'Western Penan [west2563][pne]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 9,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12953808",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "572337",
+        "grammar_sketch",
+        1949,
+        17,
+        "Harrison, T. 1949"
+      ],
+      [
+        "23345",
+        "wordlist_or_less",
+        1913,
+        2,
+        "Sidney H. Ray 1913"
+      ]
+    ]
+  },
+  "id": "west2563",
+  "name": "Western Penan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 3.4667,
+  "longitude": 114.523,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "North Borneo Malayo-Polynesian",
+      "id": "nort3253",
+      "url": "https://glottolog.org/resource/languoid/id/nort3253"
+    },
+    {
+      "name": "North Sarawakan",
+      "id": "nort3171",
+      "url": "https://glottolog.org/resource/languoid/id/nort3171"
+    },
+    {
+      "name": "Kenyahic",
+      "id": "keny1280",
+      "url": "https://glottolog.org/resource/languoid/id/keny1280"
+    },
+    {
+      "name": "Lowland Kenyah",
+      "id": "lowl1270",
+      "url": "https://glottolog.org/resource/languoid/id/lowl1270"
+    },
+    {
+      "name": "Western Lowland Kenyah-Penan",
+      "id": "west2875",
+      "url": "https://glottolog.org/resource/languoid/id/west2875"
+    },
+    {
+      "name": "Penan",
+      "id": "pena1271",
+      "url": "https://glottolog.org/resource/languoid/id/pena1271"
+    },
+    {
+      "name": "Western Penan-Sebop",
+      "id": "west2562",
+      "url": "https://glottolog.org/resource/languoid/id/west2562"
+    }
+  ],
+  "iso639-3": "pne"
+}

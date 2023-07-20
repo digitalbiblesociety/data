@@ -1,0 +1,104 @@
+{
+  "pk": 13511,
+  "hid": "tyz",
+  "father_pk": 10437,
+  "family_pk": 356,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Tày [cent2012]':1,'Eastern Tày [east2364]':1,'Northern Tày [nort2743]':1,'Southern Tày [sout2747]':1,'Tày Bao Lac [tayb1242]':1,'Tày Trung Khanh [tayt1242]':1)'Tày [tayy1238][tyz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q2511476",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/T%C3%A0y_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "137046",
+        "grammar",
+        1966,
+        149,
+        "Day, Arthur Colin 1966"
+      ],
+      [
+        "577429",
+        "grammar_sketch",
+        1950,
+        182,
+        "Yên Son 1950"
+      ],
+      [
+        "150183",
+        "grammar_sketch",
+        1909,
+        122,
+        "Diguet, Edouard 1909-1911"
+      ],
+      [
+        "320399",
+        "grammar_sketch",
+        1906,
+        119,
+        "P. Silve 1906"
+      ],
+      [
+        "14722",
+        "wordlist_or_less",
+        1891,
+        25,
+        "Dumoutier, Gustave Emile 1891"
+      ]
+    ]
+  },
+  "id": "tayy1238",
+  "name": "Tày",
+  "description": null,
+  "markup_description": null,
+  "latitude": 21.6448,
+  "longitude": 106.167,
+  "classification": [
+    {
+      "name": "Tai-Kadai",
+      "id": "taik1256",
+      "url": "https://glottolog.org/resource/languoid/id/taik1256"
+    },
+    {
+      "name": "Kam-Tai",
+      "id": "kamt1241",
+      "url": "https://glottolog.org/resource/languoid/id/kamt1241"
+    },
+    {
+      "name": "Daic-Beic",
+      "id": "daic1238",
+      "url": "https://glottolog.org/resource/languoid/id/daic1238"
+    },
+    {
+      "name": "Daic",
+      "id": "daic1237",
+      "url": "https://glottolog.org/resource/languoid/id/daic1237"
+    },
+    {
+      "name": "Central-Southwestern Tai",
+      "id": "cent2251",
+      "url": "https://glottolog.org/resource/languoid/id/cent2251"
+    },
+    {
+      "name": "Wenma-Southwestern Tai",
+      "id": "wenm1239",
+      "url": "https://glottolog.org/resource/languoid/id/wenm1239"
+    }
+  ],
+  "iso639-3": "tyz"
+}

@@ -1,0 +1,133 @@
+{
+  "pk": 12651,
+  "hid": "mas",
+  "father_pk": 9745,
+  "family_pk": 316,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Arusa [arus1243]':1,'Damat [dama1269]':1,'Iloodokilani [iloo1238]':1,'Kaputiei [kapu1243]':1,'Keekonyokie [keek1238]':1,'Kisonko [kiso1238]':1,'Kore [kore1282]':1,'Laitokitok [lait1238]':1,'Loitai [loit1238]':1,'Matapo [mata1283]':1,'Moitanik [moit1238]':1,'Parakuyo [para1304]':1,'Purko [purk1239]':1,'Siria [siri1270]':1)'Masai [masa1300][mas]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 14,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_maa",
+        "label": "Maasai"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Maasai_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/masa1300",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35787",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "24689",
+        "long_grammar",
+        1987,
+        369,
+        "Levergood, Barbara Jo 1987"
+      ],
+      [
+        "108502",
+        "long_grammar",
+        1955,
+        334,
+        "Tucker, Archibald N. and Mpaayei, J. Tompo Ole 1955"
+      ],
+      [
+        "60931",
+        "grammar",
+        1905,
+        222,
+        "Hollis, A. C. 1905"
+      ],
+      [
+        "137928",
+        "grammar",
+        1900,
+        0,
+        "Purvis, John Bremner 1900"
+      ],
+      [
+        "14980",
+        "grammar_sketch",
+        1884,
+        13,
+        "Müller, Friedrich 1884"
+      ],
+      [
+        "17562",
+        "grammar_sketch",
+        1876,
+        0,
+        "Christie, James 1876"
+      ],
+      [
+        "307522",
+        "wordlist_or_less",
+        1857,
+        52,
+        "Erhardt, James J. 1857"
+      ],
+      [
+        "20319",
+        "wordlist_or_less",
+        1847,
+        4,
+        "von Ewald, Heinrich 1847"
+      ]
+    ]
+  },
+  "id": "masa1300",
+  "name": "Masai",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.1419,
+  "longitude": 36.4573,
+  "classification": [
+    {
+      "name": "Nilotic",
+      "id": "nilo1247",
+      "url": "https://glottolog.org/resource/languoid/id/nilo1247"
+    },
+    {
+      "name": "Eastern Nilotic",
+      "id": "east2418",
+      "url": "https://glottolog.org/resource/languoid/id/east2418"
+    },
+    {
+      "name": "Teso-Lotuxo-Maa",
+      "id": "teso1247",
+      "url": "https://glottolog.org/resource/languoid/id/teso1247"
+    },
+    {
+      "name": "Lotuxo-Maa",
+      "id": "lotu1248",
+      "url": "https://glottolog.org/resource/languoid/id/lotu1248"
+    },
+    {
+      "name": "Ongamo-Maa",
+      "id": "onga1238",
+      "url": "https://glottolog.org/resource/languoid/id/onga1238"
+    },
+    {
+      "name": "Nuclear Maa",
+      "id": "nucl1431",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1431"
+    }
+  ],
+  "iso639-3": "mas"
+}

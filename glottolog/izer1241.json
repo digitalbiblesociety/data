@@ -1,0 +1,101 @@
+{
+  "pk": 18126,
+  "hid": "izr",
+  "father_pk": 15718,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Izere [izer1241][izr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_jar",
+        "label": "Izere"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Izere_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/izer1241",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6101921",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "146667",
+        "grammar_sketch",
+        1961,
+        66,
+        "Lukas, Johannes and Willms, A. 1961"
+      ],
+      [
+        "82274",
+        "wordlist_or_less",
+        1953,
+        3,
+        "Gunn, Harold D. 1953"
+      ]
+    ]
+  },
+  "id": "izer1241",
+  "name": "Izere",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.5,
+  "longitude": 8.7,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Benue-Congo Plateau",
+      "id": "benu1248",
+      "url": "https://glottolog.org/resource/languoid/id/benu1248"
+    },
+    {
+      "name": "Benue-Congo Central Plateau",
+      "id": "benu1249",
+      "url": "https://glottolog.org/resource/languoid/id/benu1249"
+    },
+    {
+      "name": "South-Central Benue-Congo Plateau",
+      "id": "sout3163",
+      "url": "https://glottolog.org/resource/languoid/id/sout3163"
+    },
+    {
+      "name": "Nuclear Zaric",
+      "id": "nucl1795",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1795"
+    },
+    {
+      "name": "Izeric",
+      "id": "izer1242",
+      "url": "https://glottolog.org/resource/languoid/id/izer1242"
+    }
+  ],
+  "iso639-3": "izr"
+}

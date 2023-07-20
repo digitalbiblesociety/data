@@ -1,0 +1,111 @@
+{
+  "pk": 8186,
+  "hid": "shv",
+  "father_pk": 5737,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Jibbali [cent2214]':1,'Kuria Muria [kuri1269]':1,'Western Jibbali [west2759]':1)'Jibbali [sheh1240][shv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5367",
+        "label": "Jibbali"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33445",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Shehri_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/sheh1240",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_jib",
+        "label": "Jibbali"
+      }
+    ],
+    "meds": [
+      [
+        "320141",
+        "long_grammar",
+        2014,
+        372,
+        "Aaron D. Rubin 2014"
+      ],
+      [
+        "306130",
+        "grammar",
+        1998,
+        203,
+        "Hofstede, Antje Ida 1998"
+      ],
+      [
+        "320420",
+        "grammar_sketch",
+        1937,
+        24,
+        "Bertram Thomas 1937"
+      ],
+      [
+        "158272",
+        "grammar_sketch",
+        1915,
+        0,
+        "Bittner, Maximilian 1915"
+      ],
+      [
+        "324135",
+        "wordlist_or_less",
+        1838,
+        60,
+        "Fresnel, Fulgence 1838"
+      ]
+    ]
+  },
+  "id": "sheh1240",
+  "name": "Jibbali",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.29154,
+  "longitude": 53.99526,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Semitic",
+      "id": "semi1276",
+      "url": "https://glottolog.org/resource/languoid/id/semi1276"
+    },
+    {
+      "name": "West Semitic",
+      "id": "west2786",
+      "url": "https://glottolog.org/resource/languoid/id/west2786"
+    },
+    {
+      "name": "Modern South Arabian",
+      "id": "mode1252",
+      "url": "https://glottolog.org/resource/languoid/id/mode1252"
+    },
+    {
+      "name": "Eastern MSA",
+      "id": "east2766",
+      "url": "https://glottolog.org/resource/languoid/id/east2766"
+    }
+  ],
+  "iso639-3": "shv"
+}

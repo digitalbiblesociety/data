@@ -1,0 +1,90 @@
+{
+  "pk": 1045,
+  "hid": "ury",
+  "father_pk": 147,
+  "family_pk": 147,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Orya Barat [bara1373]':1,'Orya Timur [timu1264]':1,'Yapsi-Taja [yaps1238]':1)'Orya [orya1242][ury]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ory",
+        "label": "Orya"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Orya_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7105295",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "580046",
+        "grammar_sketch",
+        2000,
+        54,
+        "Fields, Philip C. 2000"
+      ],
+      [
+        "118873",
+        "grammar_sketch",
+        1997,
+        33,
+        "Fields, Phillip C. 1997"
+      ],
+      [
+        "27456",
+        "phonology_or_text",
+        1991,
+        28,
+        "Philip C. Fields 1991"
+      ],
+      [
+        "661270",
+        "phonology_or_text",
+        1990,
+        82,
+        "Ruben Supra and Niko Gwër and Fields, Philip C. 1990"
+      ],
+      [
+        "139265",
+        "wordlist_or_less",
+        1983,
+        8,
+        "W. A. L. Stokhof 1983"
+      ],
+      [
+        "557565",
+        "wordlist_or_less",
+        1911,
+        2,
+        "J. Th. Stroeve 1911"
+      ]
+    ]
+  },
+  "id": "orya1242",
+  "name": "Orya",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.76483,
+  "longitude": 139.89,
+  "classification": [
+    {
+      "name": "Tor-Orya",
+      "id": "toro1256",
+      "url": "https://glottolog.org/resource/languoid/id/toro1256"
+    }
+  ],
+  "iso639-3": "ury"
+}

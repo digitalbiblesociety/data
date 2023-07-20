@@ -1,0 +1,120 @@
+{
+  "pk": 18738,
+  "hid": "npi",
+  "father_pk": 16499,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Acchami [acch1238]':1,'Baitadi [bait1246]':1,'Bajhangi [bajh1238]':1,'Bajurali [baju1244]':1,'Darjula [darj1238]':1,'Doteli [dote1238]':1,'Gorkhali [gork1241]':1,'Nuclear Nepali [nucl1265]':1,'Soradi [sora1251]':1)'Nepali [nepa1254][npi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 9,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nep",
+        "label": "Nepali"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nepali_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nepa1254",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33823",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "156122",
+        "long_grammar",
+        1963,
+        438,
+        "Clark, Thomas Welbourne 1963"
+      ],
+      [
+        "117151",
+        "grammar",
+        1923,
+        191,
+        "A. Turnbull 1992 [1923]"
+      ],
+      [
+        "50321",
+        "phonology_or_text",
+        1916,
+        8,
+        "George A. Grierson 1916"
+      ],
+      [
+        "52757",
+        "wordlist_or_less",
+        1874,
+        9,
+        "Campbell, George 1874"
+      ]
+    ]
+  },
+  "id": "nepa1254",
+  "name": "Nepali",
+  "description": null,
+  "markup_description": null,
+  "latitude": 28,
+  "longitude": 85,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Indo-Aryan",
+      "id": "indo1321",
+      "url": "https://glottolog.org/resource/languoid/id/indo1321"
+    },
+    {
+      "name": "Middle-Modern Indo-Aryan",
+      "id": "midd1375",
+      "url": "https://glottolog.org/resource/languoid/id/midd1375"
+    },
+    {
+      "name": "Continental Indo-Aryan",
+      "id": "cont1248",
+      "url": "https://glottolog.org/resource/languoid/id/cont1248"
+    },
+    {
+      "name": "Midlands Indo-Aryan",
+      "id": "midl1245",
+      "url": "https://glottolog.org/resource/languoid/id/midl1245"
+    },
+    {
+      "name": "Indo-Aryan Northern zone",
+      "id": "indo1310",
+      "url": "https://glottolog.org/resource/languoid/id/indo1310"
+    },
+    {
+      "name": "Eastern Pahari",
+      "id": "east1436",
+      "url": "https://glottolog.org/resource/languoid/id/east1436"
+    }
+  ],
+  "iso639-3": "npi"
+}

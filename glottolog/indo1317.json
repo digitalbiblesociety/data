@@ -1,0 +1,99 @@
+{
+  "pk": 15346,
+  "hid": "bdl",
+  "father_pk": 12536,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Jampea [jamp1237]':1,'Jaya Bakti [jaya1244]':1,'Kajoa [kajo1241]':1,'Matalaang [mata1285]':1,'Poso [poso1238]':1,'Roti [roti1238]':1,'Same'' [same1241]':1,'Sulamu [sula1246]':1,'Togian 1 [tong1328]':1,'Togian 2 [tong1327]':1,'Wallace [wall1258]':1)'Indonesian Bajau [indo1317][bdl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 11,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q2880038",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/indo1317",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_baj",
+        "label": "Bajau (Sama)"
+      }
+    ],
+    "meds": [
+      [
+        "40417",
+        "grammar_sketch",
+        2008,
+        398,
+        "Nuraini-Grangé, Chandra 2008"
+      ],
+      [
+        "310246",
+        "grammar_sketch",
+        1979,
+        113,
+        "Hapip, Abdul Djebar and Darmansyah, {} and Noor, Basran 1979"
+      ],
+      [
+        "86945",
+        "wordlist_or_less",
+        1883,
+        7,
+        "F. H. van Verschuer 1883"
+      ]
+    ]
+  },
+  "id": "indo1317",
+  "name": "Indonesian Bajau",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.68664,
+  "longitude": 122.253,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Basap-Greater Barito",
+      "id": "basa1291",
+      "url": "https://glottolog.org/resource/languoid/id/basa1291"
+    },
+    {
+      "name": "Greater Barito linkage",
+      "id": "grea1283",
+      "url": "https://glottolog.org/resource/languoid/id/grea1283"
+    },
+    {
+      "name": "Sama-Bajaw",
+      "id": "sama1302",
+      "url": "https://glottolog.org/resource/languoid/id/sama1302"
+    },
+    {
+      "name": "Sulu-Borneo",
+      "id": "sulu1242",
+      "url": "https://glottolog.org/resource/languoid/id/sulu1242"
+    },
+    {
+      "name": "Borneo Coast Bajaw",
+      "id": "born1254",
+      "url": "https://glottolog.org/resource/languoid/id/born1254"
+    }
+  ],
+  "iso639-3": "bdl"
+}

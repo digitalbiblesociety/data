@@ -1,0 +1,87 @@
+{
+  "pk": 7647,
+  "hid": "kdt",
+  "father_pk": 5306,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Chang [chan1308]':1,'Kuay [kuay1244]':1,'Kuy Anthua [kuya1248]':1,'Kuy Antra [kuya1247]':1,'Kuy May [kuym1242]':1,'Kuy Mlor [kuym1241]':1,'Nheu [nheu1239]':1)'Kuy [kuyy1240][kdt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56310",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kuy_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "304259",
+        "long_grammar",
+        1982,
+        375,
+        "Chirat Chareanraat 2525 [1982]"
+      ],
+      [
+        "116315",
+        "phonology_or_text",
+        1978,
+        0,
+        "Sriwises, Prasert 1978"
+      ],
+      [
+        "574111",
+        "wordlist_or_less",
+        1943,
+        97,
+        "Lévy, Paul 1943"
+      ],
+      [
+        "27735",
+        "wordlist_or_less",
+        1868,
+        50,
+        "Bastian, Adolf 1868"
+      ]
+    ]
+  },
+  "id": "kuyy1240",
+  "name": "Kuy",
+  "description": null,
+  "markup_description": null,
+  "latitude": 14.6698,
+  "longitude": 104.911,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Katuic",
+      "id": "katu1271",
+      "url": "https://glottolog.org/resource/languoid/id/katu1271"
+    },
+    {
+      "name": "West Katuic",
+      "id": "west1492",
+      "url": "https://glottolog.org/resource/languoid/id/west1492"
+    },
+    {
+      "name": "Kuy-Souei",
+      "id": "kuys1235",
+      "url": "https://glottolog.org/resource/languoid/id/kuys1235"
+    }
+  ],
+  "iso639-3": "kdt"
+}

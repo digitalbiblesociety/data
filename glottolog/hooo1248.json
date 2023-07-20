@@ -1,0 +1,109 @@
+{
+  "pk": 13691,
+  "hid": "hoc",
+  "father_pk": 10612,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Chaibasa-Thakurmunda [chai1235]':1,'Lohara [loha1251]':1)'Ho [hooo1248][hoc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10969",
+        "label": "Ho"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ho",
+        "label": "Ho"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ho_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/hooo1248",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33270",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "318636",
+        "grammar",
+        2013,
+        281,
+        "Pucilowski, Anna 2013"
+      ],
+      [
+        "89710",
+        "grammar",
+        1915,
+        212,
+        "Lionel Burrows 1915"
+      ],
+      [
+        "581956",
+        "grammar_sketch",
+        1886,
+        81,
+        "Bhīmarāma Sulaṅkhī 1886"
+      ],
+      [
+        "59366",
+        "wordlist_or_less",
+        1840,
+        28,
+        "Tickell, S. R. 1840"
+      ]
+    ]
+  },
+  "id": "hooo1248",
+  "name": "Ho",
+  "description": null,
+  "markup_description": null,
+  "latitude": 23.9596,
+  "longitude": 87.1188,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Mundaic",
+      "id": "mund1335",
+      "url": "https://glottolog.org/resource/languoid/id/mund1335"
+    },
+    {
+      "name": "North Munda",
+      "id": "nort3151",
+      "url": "https://glottolog.org/resource/languoid/id/nort3151"
+    },
+    {
+      "name": "Kherwarian",
+      "id": "kher1245",
+      "url": "https://glottolog.org/resource/languoid/id/kher1245"
+    },
+    {
+      "name": "Mundaric",
+      "id": "mund1336",
+      "url": "https://glottolog.org/resource/languoid/id/mund1336"
+    },
+    {
+      "name": "Ho-Mundari",
+      "id": "homu1234",
+      "url": "https://glottolog.org/resource/languoid/id/homu1234"
+    }
+  ],
+  "iso639-3": "hoc"
+}

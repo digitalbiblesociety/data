@@ -1,0 +1,110 @@
+{
+  "pk": 21923,
+  "hid": "mpa",
+  "father_pk": 20179,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mpoto [mpot1240][mpa]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6928303",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mpoto_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "569339",
+        "grammar_sketch",
+        2019,
+        300,
+        "Robert Botne 2019"
+      ],
+      [
+        "586278",
+        "phonology_or_text",
+        2018,
+        129,
+        "Margaret P. Mwingira and Robert Botne 2018"
+      ],
+      [
+        "161489",
+        "wordlist_or_less",
+        1919,
+        2,
+        "Johnston, Harry H. 1919, 1922"
+      ]
+    ]
+  },
+  "id": "mpot1240",
+  "name": "Mpoto",
+  "description": null,
+  "markup_description": null,
+  "latitude": -11.13767,
+  "longitude": 34.71269,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Narrow Bantu",
+      "id": "narr1281",
+      "url": "https://glottolog.org/resource/languoid/id/narr1281"
+    },
+    {
+      "name": "East Bantu",
+      "id": "east2731",
+      "url": "https://glottolog.org/resource/languoid/id/east2731"
+    },
+    {
+      "name": "Rufiji-Ruvuma",
+      "id": "rufi1235",
+      "url": "https://glottolog.org/resource/languoid/id/rufi1235"
+    },
+    {
+      "name": "Rufijic",
+      "id": "rufi1236",
+      "url": "https://glottolog.org/resource/languoid/id/rufi1236"
+    },
+    {
+      "name": "Matengic",
+      "id": "mate1261",
+      "url": "https://glottolog.org/resource/languoid/id/mate1261"
+    }
+  ],
+  "iso639-3": "mpa"
+}

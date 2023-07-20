@@ -1,0 +1,107 @@
+{
+  "pk": 8761,
+  "hid": "cab",
+  "father_pk": 6235,
+  "family_pk": 177,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Eastern Garifuna [east2562]':1,'Western Garifuna [west2649]':1)'Garifuna [gari1256][cab]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3472",
+        "label": "Garífuna"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_grf",
+        "label": "Garífuna"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Garifuna_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35490",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "549331",
+        "long_grammar",
+        2016,
+        323,
+        "Steffen Haurholm-Larsen 2016"
+      ],
+      [
+        "152730",
+        "long_grammar",
+        2002,
+        306,
+        "Salvador Suazo 2002"
+      ],
+      [
+        "419798",
+        "grammar",
+        1994,
+        296,
+        "Salvador Suazo 1994"
+      ],
+      [
+        "35561",
+        "grammar",
+        1951,
+        176,
+        "Douglas M. Taylor 1951"
+      ],
+      [
+        "40696",
+        "wordlist_or_less",
+        1906,
+        15,
+        "Adam, Lucien 1906"
+      ]
+    ]
+  },
+  "id": "gari1256",
+  "name": "Garifuna",
+  "description": null,
+  "markup_description": null,
+  "latitude": 15.3529,
+  "longitude": -86.9091,
+  "classification": [
+    {
+      "name": "Arawakan",
+      "id": "araw1281",
+      "url": "https://glottolog.org/resource/languoid/id/araw1281"
+    },
+    {
+      "name": "Caribbean Arawakan",
+      "id": "cari1281",
+      "url": "https://glottolog.org/resource/languoid/id/cari1281"
+    },
+    {
+      "name": "Antillean Arawakan",
+      "id": "anti1247",
+      "url": "https://glottolog.org/resource/languoid/id/anti1247"
+    },
+    {
+      "name": "Ineric",
+      "id": "iner1234",
+      "url": "https://glottolog.org/resource/languoid/id/iner1234"
+    },
+    {
+      "name": "Island Carib-Garifuna",
+      "id": "isla1279",
+      "url": "https://glottolog.org/resource/languoid/id/isla1279"
+    }
+  ],
+  "iso639-3": "cab"
+}

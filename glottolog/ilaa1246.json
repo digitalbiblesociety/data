@@ -1,0 +1,119 @@
+{
+  "pk": 23401,
+  "hid": "ilb",
+  "father_pk": 21911,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Lumbu {Ila} [lumb1248]':1,'Lundwe [lund1265]':1,'Nuclear Ila [nucl1382]':1,'Twa of the Kafue [twao1243]':1)'Ila [ilaa1246][ilb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q5996885",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ila_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ila",
+        "label": "Ila"
+      }
+    ],
+    "meds": [
+      [
+        "50859",
+        "long_grammar",
+        1964,
+        500,
+        "Smith, Edwin W. 1964"
+      ],
+      [
+        "98620",
+        "long_grammar",
+        1907,
+        500,
+        "Smith, Edwin W. 1907"
+      ],
+      [
+        "88771",
+        "wordlist_or_less",
+        1877,
+        0,
+        "Smith, Edwin William 1877-1949"
+      ]
+    ]
+  },
+  "id": "ilaa1246",
+  "name": "Ila",
+  "description": null,
+  "markup_description": null,
+  "latitude": -15.60807,
+  "longitude": 26.45548,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Narrow Bantu",
+      "id": "narr1281",
+      "url": "https://glottolog.org/resource/languoid/id/narr1281"
+    },
+    {
+      "name": "East Bantu",
+      "id": "east2731",
+      "url": "https://glottolog.org/resource/languoid/id/east2731"
+    },
+    {
+      "name": "Botatwe",
+      "id": "bota1239",
+      "url": "https://glottolog.org/resource/languoid/id/bota1239"
+    },
+    {
+      "name": "Greater Eastern Botatwe",
+      "id": "lenj1247",
+      "url": "https://glottolog.org/resource/languoid/id/lenj1247"
+    },
+    {
+      "name": "Central Eastern Botatwe",
+      "id": "cent2279",
+      "url": "https://glottolog.org/resource/languoid/id/cent2279"
+    },
+    {
+      "name": "Kafue",
+      "id": "kafu1239",
+      "url": "https://glottolog.org/resource/languoid/id/kafu1239"
+    }
+  ],
+  "iso639-3": "ilb"
+}

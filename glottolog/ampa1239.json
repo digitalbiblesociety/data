@@ -1,0 +1,78 @@
+{
+  "pk": 9534,
+  "hid": "apg",
+  "father_pk": 6894,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ampanang [ampa1239][apg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q4748035",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ampanang_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "313584",
+        "wordlist_or_less",
+        1994,
+        7,
+        "Alfred B. Hudson 1994"
+      ],
+      [
+        "550020",
+        "wordlist_or_less",
+        1905,
+        35,
+        "S. C. Knappert 1905"
+      ]
+    ]
+  },
+  "id": "ampa1239",
+  "name": "Ampanang",
+  "description": null,
+  "markup_description": null,
+  "latitude": -0.79259,
+  "longitude": 116.349,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Basap-Greater Barito",
+      "id": "basa1291",
+      "url": "https://glottolog.org/resource/languoid/id/basa1291"
+    },
+    {
+      "name": "Greater Barito linkage",
+      "id": "grea1283",
+      "url": "https://glottolog.org/resource/languoid/id/grea1283"
+    },
+    {
+      "name": "Barito-Mahakam",
+      "id": "bari1287",
+      "url": "https://glottolog.org/resource/languoid/id/bari1287"
+    }
+  ],
+  "iso639-3": "apg"
+}

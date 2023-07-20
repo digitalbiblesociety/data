@@ -1,0 +1,104 @@
+{
+  "pk": 8604,
+  "hid": "cup",
+  "father_pk": 6127,
+  "family_pk": 155,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Cupeño [cupe1243][cup]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2009",
+        "label": "Cupeño"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q143130",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cupe%C3%B1o_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/cupe1243",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_cup",
+        "label": "Cupeño"
+      }
+    ],
+    "meds": [
+      [
+        "113898",
+        "long_grammar",
+        2005,
+        549,
+        "Jane A. Hill 2005"
+      ],
+      [
+        "72283",
+        "long_grammar",
+        1966,
+        329,
+        "Hill, Jane H. 1966"
+      ],
+      [
+        "571746",
+        "wordlist_or_less",
+        1922,
+        18,
+        "Gifford, E. W. 1922"
+      ],
+      [
+        "571747",
+        "wordlist_or_less",
+        1918,
+        0,
+        "Gifford, E. W. 1918"
+      ]
+    ]
+  },
+  "id": "cupe1243",
+  "name": "Cupeño",
+  "description": null,
+  "markup_description": null,
+  "latitude": 33.3148,
+  "longitude": -116.515,
+  "classification": [
+    {
+      "name": "Uto-Aztecan",
+      "id": "utoa1244",
+      "url": "https://glottolog.org/resource/languoid/id/utoa1244"
+    },
+    {
+      "name": "Northern Uto-Aztecan",
+      "id": "nort2953",
+      "url": "https://glottolog.org/resource/languoid/id/nort2953"
+    },
+    {
+      "name": "Californian Uto-Aztecan",
+      "id": "cali1246",
+      "url": "https://glottolog.org/resource/languoid/id/cali1246"
+    },
+    {
+      "name": "Cupan",
+      "id": "cupa1239",
+      "url": "https://glottolog.org/resource/languoid/id/cupa1239"
+    },
+    {
+      "name": "Cahuilla-Cupeno",
+      "id": "cahu1263",
+      "url": "https://glottolog.org/resource/languoid/id/cahu1263"
+    }
+  ],
+  "iso639-3": "cup"
+}

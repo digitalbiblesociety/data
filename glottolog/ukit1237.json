@@ -1,0 +1,92 @@
+{
+  "pk": 14930,
+  "hid": "umi",
+  "father_pk": 12063,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ukit [ukit1237][umi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3425",
+        "label": "Ukit"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7878321",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ukit_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "118053",
+        "wordlist_or_less",
+        1982,
+        11,
+        "Hildebrand, Hartmut K. 1982"
+      ],
+      [
+        "303520",
+        "wordlist_or_less",
+        1901,
+        5,
+        "D. J. S. Bailey 1963 [1901]"
+      ]
+    ]
+  },
+  "id": "ukit1237",
+  "name": "Ukit",
+  "description": null,
+  "markup_description": null,
+  "latitude": 1.56623,
+  "longitude": 114.579,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "North Borneo Malayo-Polynesian",
+      "id": "nort3253",
+      "url": "https://glottolog.org/resource/languoid/id/nort3253"
+    },
+    {
+      "name": "Central Sarawak",
+      "id": "sara1342",
+      "url": "https://glottolog.org/resource/languoid/id/sara1342"
+    },
+    {
+      "name": "Punan-Muller-Schwaner",
+      "id": "puna1279",
+      "url": "https://glottolog.org/resource/languoid/id/puna1279"
+    },
+    {
+      "name": "Punan",
+      "id": "puna1280",
+      "url": "https://glottolog.org/resource/languoid/id/puna1280"
+    },
+    {
+      "name": "Bukat-Ukit-Beketan-Lugat-Lisum",
+      "id": "buka1263",
+      "url": "https://glottolog.org/resource/languoid/id/buka1263"
+    }
+  ],
+  "iso639-3": "umi"
+}

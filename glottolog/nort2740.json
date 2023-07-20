@@ -1,0 +1,119 @@
+{
+  "pk": 23699,
+  "hid": "nod",
+  "father_pk": 22190,
+  "family_pk": 356,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bandu [band1336]':1,'Nan [nann1238]':1,'Tai Wang [taiw1246]':1)'Northern Thai [nort2740][nod]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Northern_Thai_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nort2740",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q565110",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "551337",
+        "long_grammar",
+        1976,
+        466,
+        "Pankhuankhatiya, Phramaha Ruangdej 1976"
+      ],
+      [
+        "404614",
+        "phonology_or_text",
+        1963,
+        125,
+        "Robert C. Purnell 1963"
+      ],
+      [
+        "552536",
+        "phonology_or_text",
+        1959,
+        0,
+        "Thammarachanuwat, Phra 1959"
+      ]
+    ]
+  },
+  "id": "nort2740",
+  "name": "Northern Thai",
+  "description": null,
+  "markup_description": null,
+  "latitude": 18.857495,
+  "longitude": 100.20739,
+  "classification": [
+    {
+      "name": "Tai-Kadai",
+      "id": "taik1256",
+      "url": "https://glottolog.org/resource/languoid/id/taik1256"
+    },
+    {
+      "name": "Kam-Tai",
+      "id": "kamt1241",
+      "url": "https://glottolog.org/resource/languoid/id/kamt1241"
+    },
+    {
+      "name": "Daic-Beic",
+      "id": "daic1238",
+      "url": "https://glottolog.org/resource/languoid/id/daic1238"
+    },
+    {
+      "name": "Daic",
+      "id": "daic1237",
+      "url": "https://glottolog.org/resource/languoid/id/daic1237"
+    },
+    {
+      "name": "Central-Southwestern Tai",
+      "id": "cent2251",
+      "url": "https://glottolog.org/resource/languoid/id/cent2251"
+    },
+    {
+      "name": "Wenma-Southwestern Tai",
+      "id": "wenm1239",
+      "url": "https://glottolog.org/resource/languoid/id/wenm1239"
+    },
+    {
+      "name": "Sapa-Southwestern Tai",
+      "id": "sapa1255",
+      "url": "https://glottolog.org/resource/languoid/id/sapa1255"
+    },
+    {
+      "name": "Southwestern Tai",
+      "id": "sout3184",
+      "url": "https://glottolog.org/resource/languoid/id/sout3184"
+    },
+    {
+      "name": "Southwestern Tai P",
+      "id": "sout2743",
+      "url": "https://glottolog.org/resource/languoid/id/sout2743"
+    },
+    {
+      "name": "Shan Tai",
+      "id": "shan1276",
+      "url": "https://glottolog.org/resource/languoid/id/shan1276"
+    },
+    {
+      "name": "Southern Shan",
+      "id": "sout2744",
+      "url": "https://glottolog.org/resource/languoid/id/sout2744"
+    }
+  ],
+  "iso639-3": "nod"
+}

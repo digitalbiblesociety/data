@@ -1,0 +1,103 @@
+{
+  "pk": 3514,
+  "hid": "pid",
+  "father_pk": 1877,
+  "family_pk": 428,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Piaroa [piar1243][pid]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2954",
+        "label": "Piaroa"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3382207",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Piaroa_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/piar1243",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_pia",
+        "label": "Piaroa"
+      }
+    ],
+    "meds": [
+      [
+        "79351",
+        "long_grammar",
+        1989,
+        330,
+        "Krute, Laurence Dana 1989"
+      ],
+      [
+        "657522",
+        "grammar",
+        1976,
+        0,
+        "B-, Pedro J. Krisólogo 1976"
+      ],
+      [
+        "151196",
+        "phonology_or_text",
+        1964,
+        13,
+        "Antolínez, Gilberto 1964"
+      ],
+      [
+        "134914",
+        "wordlist_or_less",
+        1907,
+        35,
+        "Tavera-Acosta, Bartolomé 1907"
+      ],
+      [
+        "111533",
+        "wordlist_or_less",
+        1889,
+        17,
+        "J. Chaffanjon 1889"
+      ],
+      [
+        "149475",
+        "wordlist_or_less",
+        1882,
+        17,
+        "Jules Crevaux and P. Sagot and Adam, Lucien 1882"
+      ]
+    ]
+  },
+  "id": "piar1243",
+  "name": "Piaroa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.41805,
+  "longitude": -67.7574,
+  "classification": [
+    {
+      "name": "Saliban",
+      "id": "sali1297",
+      "url": "https://glottolog.org/resource/languoid/id/sali1297"
+    },
+    {
+      "name": "Maco-Piaroa",
+      "id": "maco1238",
+      "url": "https://glottolog.org/resource/languoid/id/maco1238"
+    }
+  ],
+  "iso639-3": "pid"
+}

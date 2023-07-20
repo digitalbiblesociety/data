@@ -1,0 +1,103 @@
+{
+  "pk": 9955,
+  "hid": "etx",
+  "father_pk": 7173,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Eten [eten1239][etx]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3915392",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Eten_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/eten1239",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "319576",
+        "phonology_or_text",
+        2012,
+        76,
+        "Blench, Roger 2012"
+      ],
+      [
+        "8717",
+        "phonology_or_text",
+        2006,
+        0,
+        "Blench, Roger M. 2006"
+      ],
+      [
+        "101180",
+        "phonology_or_text",
+        1967,
+        2,
+        "Bouquiaux, Luc 1967"
+      ],
+      [
+        "50399",
+        "wordlist_or_less",
+        1964,
+        22,
+        "Bouquiaux, Luc 1964"
+      ],
+      [
+        "474422",
+        "wordlist_or_less",
+        1934,
+        7,
+        "Ames, C. G. 1934"
+      ]
+    ]
+  },
+  "id": "eten1239",
+  "name": "Eten",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.73073,
+  "longitude": 8.61443,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Benue-Congo Plateau",
+      "id": "benu1248",
+      "url": "https://glottolog.org/resource/languoid/id/benu1248"
+    },
+    {
+      "name": "Beromic",
+      "id": "iten1244",
+      "url": "https://glottolog.org/resource/languoid/id/iten1244"
+    }
+  ],
+  "iso639-3": "etx"
+}

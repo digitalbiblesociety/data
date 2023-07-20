@@ -1,0 +1,120 @@
+{
+  "pk": 7003,
+  "hid": "yrk",
+  "father_pk": 4798,
+  "family_pk": 302,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Tundra Nenets [cent2335]':1,'Eastern Tundra Nenets [tund1255]':1,'Western Tundra Nenets [west2884]':1,'Yurats [yura1256][rts]':1)'Tundra Nenets [nene1249][yrk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ntu",
+        "label": "Nenets"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/2062",
+        "label": "Tundra Nenets"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nenets_languages",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nene1249",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36452",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "440258",
+        "long_grammar",
+        2014,
+        526,
+        "Irina Nikolaeva 2014"
+      ],
+      [
+        "69858",
+        "grammar",
+        1956,
+        288,
+        "Tereščenko, Natal'ja M. 1956"
+      ],
+      [
+        "478285",
+        "grammar",
+        1947,
+        272,
+        "Tereščenko, Natal'ja M. 1947"
+      ],
+      [
+        "82415",
+        "grammar_sketch",
+        1936,
+        185,
+        "Georgij N. Prokof'ev 1936"
+      ],
+      [
+        "132372",
+        "grammar_sketch",
+        1854,
+        43,
+        "Mathias Alexander, Castrén 1966 [1854]"
+      ],
+      [
+        "569762",
+        "wordlist_or_less",
+        1853,
+        0,
+        "Castren, M. A. 1853"
+      ],
+      [
+        "572939",
+        "wordlist_or_less",
+        1847,
+        0,
+        "Islavin, V. 1847"
+      ]
+    ]
+  },
+  "id": "nene1249",
+  "name": "Tundra Nenets",
+  "description": null,
+  "markup_description": null,
+  "latitude": 66.1775,
+  "longitude": 71.0234,
+  "classification": [
+    {
+      "name": "Uralic",
+      "id": "ural1272",
+      "url": "https://glottolog.org/resource/languoid/id/ural1272"
+    },
+    {
+      "name": "Samoyedic",
+      "id": "samo1298",
+      "url": "https://glottolog.org/resource/languoid/id/samo1298"
+    },
+    {
+      "name": "Enets-Nenets",
+      "id": "enet1251",
+      "url": "https://glottolog.org/resource/languoid/id/enet1251"
+    },
+    {
+      "name": "Nenets",
+      "id": "nene1251",
+      "url": "https://glottolog.org/resource/languoid/id/nene1251"
+    }
+  ],
+  "iso639-3": "yrk"
+}

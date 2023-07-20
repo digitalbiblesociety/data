@@ -1,0 +1,73 @@
+{
+  "pk": 1585,
+  "hid": "yuk",
+  "father_pk": 315,
+  "family_pk": 315,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Coast Yuki [coas1323]':1,'Huchnom [huch1234]':1,'Yuki [yuki1244]':1)'Northern Yukian [yuki1243][yuk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q36993",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yuki_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/yuki1243",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_yki",
+        "label": "Yuki"
+      }
+    ],
+    "meds": [
+      [
+        "121145",
+        "long_grammar",
+        2011,
+        527,
+        "Balodis, Uldis Ivars Jānis 2011"
+      ],
+      [
+        "47908",
+        "grammar_sketch",
+        1911,
+        28,
+        "Alfred L. Kroeber 1911"
+      ],
+      [
+        "308229",
+        "wordlist_or_less",
+        1863,
+        2,
+        "George Gibbs 1863"
+      ]
+    ]
+  },
+  "id": "yuki1243",
+  "name": "Northern Yukian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 39.8389,
+  "longitude": -123.296,
+  "classification": [
+    {
+      "name": "Yuki-Wappo",
+      "id": "yuki1242",
+      "url": "https://glottolog.org/resource/languoid/id/yuki1242"
+    }
+  ],
+  "iso639-3": "yuk"
+}

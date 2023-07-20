@@ -1,0 +1,58 @@
+{
+  "pk": 691,
+  "hid": "nfk",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Shakara [shak1238][nfk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "nfk",
+      "name": "Shakara",
+      "change_request": "2008-017",
+      "effective": "2009-01-26",
+      "reason": "merge",
+      "change_to": [
+        "nfd"
+      ],
+      "remedy": "Merge into Ahwai [nfd]",
+      "comment": "The Ahwai people speak a single language on a functional level. The expansion of\nthe [nfd] Ndun code element with the merging of [nfg] Nyeng , [nfk] Shakara into\nit necessitates using a name that identifies the whole group, rather than a\nsingle subgroup.\n\nWe propose this change based on the results of our language research, undertaken\nin March 2007 in the southeastern area of Kaduna State, Nigeria. These three\nrelated varieties were proved to be varieties of the same language rather than\nthree separate languages. The users of each variety have inherent understanding\nof the other variety at a functional level. The Ahwai people, as all three\ngroups commonly identify themselves, say they all speak the same language, but\nwith “different intonation”. Their claims of the similarity of and\nintelligibility between their three speech varieties are supported by the high\nlexical similarity between varieties (over 86%) and the similarity of their\nnoun-class marking systems, based on the comparison of the 320-items wordlists.\nAlso, although each Ahwai sub-group has a distinct ethnolinguistic identity,\nthey are not antagonistic towards one another. Rather, they desire to cooperate\nin language development, and come together to preserve their common identity."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q11018949",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500384",
+        "wordlist_or_less",
+        2008,
+        0,
+        "ISO 639-3 Registration Authority 2008"
+      ]
+    ]
+  },
+  "id": "shak1238",
+  "name": "Shakara",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "nfk"
+}

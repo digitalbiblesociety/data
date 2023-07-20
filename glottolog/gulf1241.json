@@ -1,0 +1,136 @@
+{
+  "pk": 16701,
+  "hid": "afb",
+  "father_pk": 14132,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Al-Hasaa [alha1241]':1,'Al-Hasâ [alha1242]':1,'Bahraini Gulf Arabic [bahr1247]':1,'Khamseh [kham1298]':1,'Kuwaiti Hadari Arabic [kuwa1251]':1,'North Qatari Arabic [nort3138]':1,'South Qatari Arabic [sout3120]':1,'Zubair-Faau Arabic [zuba1242]':1)'Gulf Arabic [gulf1241][afb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 8,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56385",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Gulf_Arabic",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_arg",
+        "label": "Arabic (Gulf)"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_arj",
+        "label": "Arabic (Kuwaiti)"
+      }
+    ],
+    "meds": [
+      [
+        "587843",
+        "long_grammar",
+        2020,
+        520,
+        "Tommi Tsz-Cheung Leung and Dimitrios Ntelitheos and Al Kaabi, Meera 2020"
+      ],
+      [
+        "474407",
+        "long_grammar",
+        2010,
+        403,
+        "Jack Smart and Frances Altorfer 2010"
+      ],
+      [
+        "312807",
+        "long_grammar",
+        1993,
+        360,
+        "Latifa Mubarak Al-Sulaiti 1993"
+      ],
+      [
+        "476196",
+        "long_grammar",
+        1989,
+        328,
+        "Clive Holes 1989"
+      ],
+      [
+        "154257",
+        "grammar",
+        1977,
+        296,
+        "Hamdi A. Qafisheh 1977"
+      ],
+      [
+        "140742",
+        "grammar_sketch",
+        1967,
+        300,
+        "Johnstone, Thomas M. 1967"
+      ],
+      [
+        "552903",
+        "wordlist_or_less",
+        1960,
+        22,
+        "Westphal-Hellbusch, Sigrid 1960"
+      ]
+    ]
+  },
+  "id": "gulf1241",
+  "name": "Gulf Arabic",
+  "description": null,
+  "markup_description": null,
+  "latitude": 30.17,
+  "longitude": 47.5,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Semitic",
+      "id": "semi1276",
+      "url": "https://glottolog.org/resource/languoid/id/semi1276"
+    },
+    {
+      "name": "West Semitic",
+      "id": "west2786",
+      "url": "https://glottolog.org/resource/languoid/id/west2786"
+    },
+    {
+      "name": "Central Semitic",
+      "id": "cent2236",
+      "url": "https://glottolog.org/resource/languoid/id/cent2236"
+    },
+    {
+      "name": "Arabian",
+      "id": "arab1394",
+      "url": "https://glottolog.org/resource/languoid/id/arab1394"
+    },
+    {
+      "name": "Arabic",
+      "id": "arab1395",
+      "url": "https://glottolog.org/resource/languoid/id/arab1395"
+    },
+    {
+      "name": "Arabian Peninsula Arabic",
+      "id": "arab1393",
+      "url": "https://glottolog.org/resource/languoid/id/arab1393"
+    },
+    {
+      "name": "North Arabian Beduin Arabic",
+      "id": "nort3402",
+      "url": "https://glottolog.org/resource/languoid/id/nort3402"
+    }
+  ],
+  "iso639-3": "afb"
+}

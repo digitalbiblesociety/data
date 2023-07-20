@@ -1,0 +1,65 @@
+{
+  "pk": 4382,
+  "hid": "aic",
+  "father_pk": 2653,
+  "family_pk": 225,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ainbai [ainb1238][aic]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3692",
+        "label": "Ainbai"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3332149",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ainbai_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "20475",
+        "wordlist_or_less",
+        1981,
+        5,
+        "Brown, Robert 1981"
+      ]
+    ]
+  },
+  "id": "ainb1238",
+  "name": "Ainbai",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.09214,
+  "longitude": 141.149,
+  "classification": [
+    {
+      "name": "Border",
+      "id": "bord1247",
+      "url": "https://glottolog.org/resource/languoid/id/bord1247"
+    },
+    {
+      "name": "Bewani",
+      "id": "bewa1242",
+      "url": "https://glottolog.org/resource/languoid/id/bewa1242"
+    },
+    {
+      "name": "Pagi-Kilmeri",
+      "id": "pagi1245",
+      "url": "https://glottolog.org/resource/languoid/id/pagi1245"
+    }
+  ],
+  "iso639-3": "aic"
+}

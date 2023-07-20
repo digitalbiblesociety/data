@@ -1,0 +1,102 @@
+{
+  "pk": 15668,
+  "hid": "bzw",
+  "father_pk": 12927,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Basa {Nigeria} [basa1282][bzw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q34898",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Basa-Benue_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "321562",
+        "grammar_sketch",
+        2014,
+        195,
+        "Manda, Imoh Philip 2014"
+      ],
+      [
+        "659668",
+        "grammar_sketch",
+        1944,
+        10,
+        "Clifford, M. 1944"
+      ],
+      [
+        "569629",
+        "grammar_sketch",
+        1909,
+        8,
+        "Byng-Hall, F. F. w. 1909"
+      ],
+      [
+        "102426",
+        "wordlist_or_less",
+        1908,
+        8,
+        "Frederick Felix Weichs Byng-Hall 1908"
+      ]
+    ]
+  },
+  "id": "basa1282",
+  "name": "Basa (Nigeria)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 8.03159,
+  "longitude": 7.06183,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Kainji",
+      "id": "kain1275",
+      "url": "https://glottolog.org/resource/languoid/id/kain1275"
+    },
+    {
+      "name": "Central Kainji",
+      "id": "cent2242",
+      "url": "https://glottolog.org/resource/languoid/id/cent2242"
+    },
+    {
+      "name": "Basa-Eastern Kainji",
+      "id": "basa1288",
+      "url": "https://glottolog.org/resource/languoid/id/basa1288"
+    },
+    {
+      "name": "Basa",
+      "id": "basa1279",
+      "url": "https://glottolog.org/resource/languoid/id/basa1279"
+    }
+  ],
+  "iso639-3": "bzw"
+}

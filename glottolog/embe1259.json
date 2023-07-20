@@ -1,0 +1,77 @@
+{
+  "pk": 7555,
+  "hid": "bdc",
+  "father_pk": 5226,
+  "family_pk": 390,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Emberá-Baudó [embe1259][bdc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q11173166",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Baudo_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/embe1259",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "74366",
+        "grammar_sketch",
+        1985,
+        103,
+        "Mauricio Pardo Rojas 1985"
+      ],
+      [
+        "306145",
+        "wordlist_or_less",
+        1894,
+        9,
+        "Alphonse Pinart 1894"
+      ]
+    ]
+  },
+  "id": "embe1259",
+  "name": "Emberá-Baudó",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.2824,
+  "longitude": -76.32548,
+  "classification": [
+    {
+      "name": "Chocoan",
+      "id": "choc1280",
+      "url": "https://glottolog.org/resource/languoid/id/choc1280"
+    },
+    {
+      "name": "Embera",
+      "id": "embe1258",
+      "url": "https://glottolog.org/resource/languoid/id/embe1258"
+    },
+    {
+      "name": "Atrato",
+      "id": "atra1235",
+      "url": "https://glottolog.org/resource/languoid/id/atra1235"
+    },
+    {
+      "name": "Panama-Baudo-Atrato",
+      "id": "pana1309",
+      "url": "https://glottolog.org/resource/languoid/id/pana1309"
+    }
+  ],
+  "iso639-3": "bdc"
+}

@@ -1,0 +1,89 @@
+{
+  "pk": 18593,
+  "hid": "fmu",
+  "father_pk": 16331,
+  "family_pk": 404,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Far Western Muria [farw1235][fmu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q42589412",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "301665",
+        "phonology_or_text",
+        2013,
+        77,
+        "Mathew, Rincy and Mathew, Thomas 2013"
+      ],
+      [
+        "152603",
+        "wordlist_or_less",
+        1994,
+        3,
+        "Beine, David K. 1994"
+      ]
+    ]
+  },
+  "id": "farw1235",
+  "name": "Far Western Muria",
+  "description": null,
+  "markup_description": null,
+  "latitude": 20.1754,
+  "longitude": 80.4712,
+  "classification": [
+    {
+      "name": "Dravidian",
+      "id": "drav1251",
+      "url": "https://glottolog.org/resource/languoid/id/drav1251"
+    },
+    {
+      "name": "South Dravidian",
+      "id": "sout3133",
+      "url": "https://glottolog.org/resource/languoid/id/sout3133"
+    },
+    {
+      "name": "South Dravidian II",
+      "id": "sout3139",
+      "url": "https://glottolog.org/resource/languoid/id/sout3139"
+    },
+    {
+      "name": "Gondi",
+      "id": "gond1265",
+      "url": "https://glottolog.org/resource/languoid/id/gond1265"
+    },
+    {
+      "name": "Northwest Gondi",
+      "id": "nort3258",
+      "url": "https://glottolog.org/resource/languoid/id/nort3258"
+    },
+    {
+      "name": "Southwest Gondi",
+      "id": "sout3367",
+      "url": "https://glottolog.org/resource/languoid/id/sout3367"
+    },
+    {
+      "name": "Southern Gondi",
+      "id": "sout2711",
+      "url": "https://glottolog.org/resource/languoid/id/sout2711"
+    },
+    {
+      "name": "Eastern Gondi",
+      "id": "east2880",
+      "url": "https://glottolog.org/resource/languoid/id/east2880"
+    }
+  ],
+  "iso639-3": "fmu"
+}

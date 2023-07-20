@@ -1,0 +1,102 @@
+{
+  "pk": 7390,
+  "hid": "nan",
+  "father_pk": 5037,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Chaozhou [chao1238]':1,'Shantou [shan1244]':1)'Chaoshan [chao1239]':1,'Datian [dati1239]':1,(('Changgan [chan1329]':1,'Fucheng [hain1237]':1,'Wanning [wann1243]':1,'Wenchang [wenc1234]':1,'Yaxian [yaxi1234]':1)'Hainan [hain1238]':1,'Leizhou [leiz1236]':1)'Qiong-Lei [qion1239]':1,('Quanzhou [chae1235]':1,'Taibei Hokkien [taib1242]':1,'Xiamen [xiam1236]':1,'Zhangping-Longyan [zhan1240]':1,'Zhangzhou [fuji1236]':1)'Quanzhang [hokk1242]':1,'Zhenan Min [zhen1239]':1,('Longdu [long1252]':1,'Nanlang [nanl1234]':1,'Sanxiang [sanx1234]':1)'Zhongshan Min [zhon1238]':1)'Min Nan Chinese [minn1241][nan]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 23,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_hok",
+        "label": "Min (Southern)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Southern_Min",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/minn1241",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36495",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "569888",
+        "long_grammar",
+        2020,
+        542,
+        "Chen, Weirong 2020"
+      ],
+      [
+        "554593",
+        "long_grammar",
+        2011,
+        454,
+        "Chen, Weirong 2011"
+      ],
+      [
+        "553361",
+        "long_grammar",
+        1971,
+        350,
+        "Mantaro J. Hashimoto and Jerry L. Norman 1971"
+      ],
+      [
+        "21675",
+        "long_grammar",
+        1956,
+        302,
+        "Egerod, Søren 1956"
+      ],
+      [
+        "550017",
+        "grammar_sketch",
+        1620,
+        433,
+        "Henning Klöter 2011 [1620]"
+      ]
+    ]
+  },
+  "id": "minn1241",
+  "name": "Min Nan Chinese",
+  "description": null,
+  "markup_description": null,
+  "latitude": 24.5,
+  "longitude": 118.17,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Sinitic",
+      "id": "sini1245",
+      "url": "https://glottolog.org/resource/languoid/id/sini1245"
+    },
+    {
+      "name": "Min",
+      "id": "minn1248",
+      "url": "https://glottolog.org/resource/languoid/id/minn1248"
+    },
+    {
+      "name": "Coastal Min",
+      "id": "coas1318",
+      "url": "https://glottolog.org/resource/languoid/id/coas1318"
+    }
+  ],
+  "iso639-3": "nan"
+}

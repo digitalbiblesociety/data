@@ -1,0 +1,135 @@
+{
+  "pk": 20983,
+  "hid": "nap",
+  "father_pk": 18932,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Castelmezzano [cast1245]':1,'Molisano [moli1245]':1,'Napoletano [napo1241]':1,'Northern Calabrese-Lucano [nort2612]':1,'Pugliese [pugl1238]':1)'Continental Southern Italian [neap1235][nap]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_itn",
+        "label": "Italian (Napolitanian)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Neapolitan_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33845",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "148116",
+        "long_grammar",
+        2009,
+        1069,
+        "Adam Ledgeway 2009"
+      ],
+      [
+        "547457",
+        "long_grammar",
+        1974,
+        438,
+        "Pirro Bichelli 1974"
+      ],
+      [
+        "314739",
+        "grammar",
+        1966,
+        297,
+        "Rensch, Karl Heinz 1966"
+      ],
+      [
+        "41861",
+        "grammar",
+        1889,
+        224,
+        "Raffaele Capozzoli 1889"
+      ],
+      [
+        "153678",
+        "grammar_sketch",
+        1881,
+        108,
+        "Giuseppe Savini 1881"
+      ],
+      [
+        "136471",
+        "grammar_sketch",
+        1855,
+        87,
+        "F. Wentrup 1855"
+      ]
+    ]
+  },
+  "id": "neap1235",
+  "name": "Continental Southern Italian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 39.2288,
+  "longitude": 16.4225,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Italic",
+      "id": "ital1284",
+      "url": "https://glottolog.org/resource/languoid/id/ital1284"
+    },
+    {
+      "name": "Latino-Faliscan",
+      "id": "lati1262",
+      "url": "https://glottolog.org/resource/languoid/id/lati1262"
+    },
+    {
+      "name": "Latinic",
+      "id": "lati1263",
+      "url": "https://glottolog.org/resource/languoid/id/lati1263"
+    },
+    {
+      "name": "Imperial Latin",
+      "id": "impe1234",
+      "url": "https://glottolog.org/resource/languoid/id/impe1234"
+    },
+    {
+      "name": "Romance",
+      "id": "roma1334",
+      "url": "https://glottolog.org/resource/languoid/id/roma1334"
+    },
+    {
+      "name": "Italo-Western Romance",
+      "id": "ital1285",
+      "url": "https://glottolog.org/resource/languoid/id/ital1285"
+    },
+    {
+      "name": "Italo-Dalmatian",
+      "id": "ital1286",
+      "url": "https://glottolog.org/resource/languoid/id/ital1286"
+    },
+    {
+      "name": "Italian Romance",
+      "id": "ital1287",
+      "url": "https://glottolog.org/resource/languoid/id/ital1287"
+    }
+  ],
+  "iso639-3": "nap"
+}

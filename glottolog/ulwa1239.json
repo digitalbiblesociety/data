@@ -1,0 +1,75 @@
+{
+  "pk": 4932,
+  "hid": "ulw",
+  "father_pk": 3155,
+  "family_pk": 323,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kukra [kukr1239]':1,'Nuclear Ulwa [ulwa1238]':1)'Ulwa [ulwa1239][ulw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://phoible.org/languages/ulwa1239",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2405552",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "110087",
+        "grammar",
+        1999,
+        297,
+        "Thomas M. Green 1999"
+      ],
+      [
+        "99162",
+        "grammar_sketch",
+        1929,
+        20,
+        "Eduard Conzemius 1929"
+      ],
+      [
+        "155498",
+        "grammar_sketch",
+        1894,
+        6,
+        "Wickham, Henry Alexander 1894"
+      ]
+    ]
+  },
+  "id": "ulwa1239",
+  "name": "Ulwa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.932292,
+  "longitude": -83.581467,
+  "classification": [
+    {
+      "name": "Misumalpan",
+      "id": "misu1242",
+      "url": "https://glottolog.org/resource/languoid/id/misu1242"
+    },
+    {
+      "name": "Sumalpan",
+      "id": "suma1272",
+      "url": "https://glottolog.org/resource/languoid/id/suma1272"
+    },
+    {
+      "name": "Sumuic",
+      "id": "sumu1234",
+      "url": "https://glottolog.org/resource/languoid/id/sumu1234"
+    }
+  ],
+  "iso639-3": "ulw"
+}

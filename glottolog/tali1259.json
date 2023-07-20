@@ -1,0 +1,81 @@
+{
+  "pk": 15259,
+  "hid": "tlr",
+  "father_pk": 12463,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Koo [kooo1245]':1,'Malagheti [mala1483]':1,'Moli [moli1247]':1,'Nuclear Talise [nucl1469]':1,'Poleo [pole1240]':1,'Tolo {Solomon Islands} [tolo1254]':1)'Talise [tali1259][tlr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3514510",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Talise_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "115284",
+        "grammar_sketch",
+        1930,
+        24,
+        "Capell, Arthur 1930"
+      ]
+    ]
+  },
+  "id": "tali1259",
+  "name": "Talise",
+  "description": null,
+  "markup_description": null,
+  "latitude": -9.76764,
+  "longitude": 160.231,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Southeast Solomonic",
+      "id": "sout2853",
+      "url": "https://glottolog.org/resource/languoid/id/sout2853"
+    },
+    {
+      "name": "Guadalcanal-Nggelic",
+      "id": "guad1241",
+      "url": "https://glottolog.org/resource/languoid/id/guad1241"
+    },
+    {
+      "name": "Southeast Guadalcanal",
+      "id": "sout2854",
+      "url": "https://glottolog.org/resource/languoid/id/sout2854"
+    }
+  ],
+  "iso639-3": "tlr"
+}

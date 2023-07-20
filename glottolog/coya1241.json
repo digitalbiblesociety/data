@@ -1,0 +1,62 @@
+{
+  "pk": 699,
+  "hid": "coy",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Coyaima [coya1241][coy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "coy",
+      "name": "Coyaima",
+      "change_request": "2015-042",
+      "effective": "2016-01-15",
+      "reason": "merge",
+      "change_to": [
+        "pij"
+      ],
+      "remedy": "merged into [pij] Pijao",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56450",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Coyaima_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "156417",
+        "wordlist_or_less",
+        1946,
+        65,
+        "Castro Trespalacios, Pedro 1946"
+      ]
+    ]
+  },
+  "id": "coya1241",
+  "name": "Coyaima",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.3333,
+  "longitude": -73,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "coy"
+}

@@ -1,0 +1,88 @@
+{
+  "pk": 5602,
+  "hid": "prn",
+  "father_pk": 3705,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Prasun [cent1976]':1,'Lower Prasun [lowe1390]':1,'Upper Prasun [uppe1402]':1)'Prasun [pras1239][prn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5290",
+        "label": "Prasuni"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q32689",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Wasi-wari",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_pra",
+        "label": "Prasuni"
+      }
+    ],
+    "meds": [
+      [
+        "554438",
+        "long_grammar",
+        2017,
+        507,
+        "Buddruss, Georg and Almuth Degener 2017"
+      ],
+      [
+        "156641",
+        "grammar_sketch",
+        1949,
+        147,
+        "Georg Morgenstierne 1949"
+      ],
+      [
+        "312707",
+        "wordlist_or_less",
+        1919,
+        9,
+        "George A. Grierson 1919"
+      ]
+    ]
+  },
+  "id": "pras1239",
+  "name": "Prasun",
+  "description": null,
+  "markup_description": null,
+  "latitude": 35.420531,
+  "longitude": 70.922783,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Nuristani",
+      "id": "nuri1243",
+      "url": "https://glottolog.org/resource/languoid/id/nuri1243"
+    }
+  ],
+  "iso639-3": "prn"
+}

@@ -1,0 +1,63 @@
+{
+  "pk": 2015,
+  "hid": "tqr",
+  "father_pk": 904,
+  "family_pk": 59,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Torona [toro1251][tqr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q36679",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Torona_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "546884",
+        "phonology_or_text",
+        2016,
+        13,
+        "Russell Norton and Thomas Kuku Alaki 2016"
+      ],
+      [
+        "576940",
+        "wordlist_or_less",
+        1981,
+        7,
+        "Schadeberg, Thilo C. 1981"
+      ]
+    ]
+  },
+  "id": "toro1251",
+  "name": "Torona",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.1254,
+  "longitude": 30.341,
+  "classification": [
+    {
+      "name": "Narrow Talodi",
+      "id": "narr1279",
+      "url": "https://glottolog.org/resource/languoid/id/narr1279"
+    },
+    {
+      "name": "Lumun-Torona",
+      "id": "lumu1240",
+      "url": "https://glottolog.org/resource/languoid/id/lumu1240"
+    }
+  ],
+  "iso639-3": "tqr"
+}

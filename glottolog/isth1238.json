@@ -1,0 +1,94 @@
+{
+  "pk": 10681,
+  "hid": "mir",
+  "father_pk": 7776,
+  "family_pk": 3,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Isthmus Mixe [isth1238][mir]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4630",
+        "label": "Lowland Mixe"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Isthmus_Mixe",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6088873",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "126516",
+        "phonology_or_text",
+        1995,
+        151,
+        "Dieterman, Julia Irene 1995"
+      ],
+      [
+        "588403",
+        "wordlist_or_less",
+        1958,
+        232,
+        "Mann, Charles E. 1958"
+      ],
+      [
+        "568824",
+        "wordlist_or_less",
+        1945,
+        176,
+        "Beals, R. L. 1945"
+      ]
+    ]
+  },
+  "id": "isth1238",
+  "name": "Isthmus Mixe",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.9481,
+  "longitude": -95.0681,
+  "classification": [
+    {
+      "name": "Mixe-Zoque",
+      "id": "mixe1284",
+      "url": "https://glottolog.org/resource/languoid/id/mixe1284"
+    },
+    {
+      "name": "Mixe",
+      "id": "mixe1286",
+      "url": "https://glottolog.org/resource/languoid/id/mixe1286"
+    },
+    {
+      "name": "Oaxaca Mixe",
+      "id": "oaxa1241",
+      "url": "https://glottolog.org/resource/languoid/id/oaxa1241"
+    },
+    {
+      "name": "Lowland-Midland-South Highland Mixe",
+      "id": "lowl1268",
+      "url": "https://glottolog.org/resource/languoid/id/lowl1268"
+    },
+    {
+      "name": "Lowland-Midland Mixe",
+      "id": "lowl1269",
+      "url": "https://glottolog.org/resource/languoid/id/lowl1269"
+    },
+    {
+      "name": "Lowland Mixe",
+      "id": "lowl1263",
+      "url": "https://glottolog.org/resource/languoid/id/lowl1263"
+    }
+  ],
+  "iso639-3": "mir"
+}

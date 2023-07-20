@@ -1,0 +1,94 @@
+{
+  "pk": 5337,
+  "hid": "bfw",
+  "father_pk": 3496,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Lower Bondo [lowe1394]':1,'Upper Bondo [uppe1405]':1)'Bondo [bond1245][bfw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3901",
+        "label": "Remo"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2567942",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bonda_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/bond1245",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_rem",
+        "label": "Remo"
+      }
+    ],
+    "meds": [
+      [
+        "552437",
+        "grammar_sketch",
+        1997,
+        231,
+        "Swain, Rajashree 1997"
+      ],
+      [
+        "661231",
+        "grammar_sketch",
+        1969,
+        138,
+        "Fernandez, Frank 1969"
+      ],
+      [
+        "124122",
+        "grammar_sketch",
+        1967,
+        138,
+        "Frank Fernandez 1967"
+      ],
+      [
+        "549567",
+        "wordlist_or_less",
+        1935,
+        8,
+        "J. H. Hutton 1935"
+      ]
+    ]
+  },
+  "id": "bond1245",
+  "name": "Bondo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 19.1512,
+  "longitude": 83.8141,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Mundaic",
+      "id": "mund1335",
+      "url": "https://glottolog.org/resource/languoid/id/mund1335"
+    },
+    {
+      "name": "Gutob-Remo",
+      "id": "guto1244",
+      "url": "https://glottolog.org/resource/languoid/id/guto1244"
+    }
+  ],
+  "iso639-3": "bfw"
+}

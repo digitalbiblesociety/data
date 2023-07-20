@@ -1,0 +1,78 @@
+{
+  "pk": 9389,
+  "hid": "ptt",
+  "father_pk": 6806,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Nuclear Enrekang [nucl1568]':1,'Pattinjo [patt1251]':1,'Ranga [rang1270]':1)'Enrekang [enre1239][ptt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12953520",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Enrekang_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "154965",
+        "wordlist_or_less",
+        1998,
+        27,
+        "Véronique Arnaud and Campagnolo, Henri 1998"
+      ],
+      [
+        "122191",
+        "wordlist_or_less",
+        1987,
+        3,
+        "Grimes, Charles E. and Grimes, Barbara D. 1987"
+      ]
+    ]
+  },
+  "id": "enre1239",
+  "name": "Enrekang",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.53848,
+  "longitude": 119.66,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "South Sulawesi",
+      "id": "sout2923",
+      "url": "https://glottolog.org/resource/languoid/id/sout2923"
+    },
+    {
+      "name": "Northern South Sulawesi",
+      "id": "nort2894",
+      "url": "https://glottolog.org/resource/languoid/id/nort2894"
+    },
+    {
+      "name": "Masenrempulu",
+      "id": "mase1250",
+      "url": "https://glottolog.org/resource/languoid/id/mase1250"
+    }
+  ],
+  "iso639-3": "ptt"
+}

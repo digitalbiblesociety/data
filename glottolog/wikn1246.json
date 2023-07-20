@@ -1,0 +1,73 @@
+{
+  "pk": 4007,
+  "hid": "wua",
+  "father_pk": 2285,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Wikngenchera [wikn1246][wua]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/y59",
+        "label": "KUGU NGANHCARA"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/2587",
+        "label": "Kugu-Nganhcara"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kugu_Nganhcara_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/wikn1246",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q10720045",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "38870",
+        "wordlist_or_less",
+        1978,
+        2,
+        "Sutton, Peter John 1978"
+      ]
+    ]
+  },
+  "id": "wikn1246",
+  "name": "Wikngenchera",
+  "description": null,
+  "markup_description": null,
+  "latitude": -13.4957,
+  "longitude": 141.599,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Paman",
+      "id": "pama1251",
+      "url": "https://glottolog.org/resource/languoid/id/pama1251"
+    },
+    {
+      "name": "Compromise Middle Pama",
+      "id": "comp1236",
+      "url": "https://glottolog.org/resource/languoid/id/comp1236"
+    }
+  ],
+  "iso639-3": "wua"
+}

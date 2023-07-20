@@ -1,0 +1,72 @@
+{
+  "pk": 3629,
+  "hid": "twq",
+  "father_pk": 1966,
+  "family_pk": 48,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tasawaq [tasa1240][twq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5005",
+        "label": "Tasawaq"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36564",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tasawaq_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "164077",
+        "grammar_sketch",
+        1979,
+        85,
+        "Nicolaï, Robert 1979"
+      ],
+      [
+        "159456",
+        "wordlist_or_less",
+        1851,
+        23,
+        "Petermann, A. 1851"
+      ]
+    ]
+  },
+  "id": "tasa1240",
+  "name": "Tasawaq",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.7814,
+  "longitude": 6.92037,
+  "classification": [
+    {
+      "name": "Songhay",
+      "id": "song1307",
+      "url": "https://glottolog.org/resource/languoid/id/song1307"
+    },
+    {
+      "name": "Northwest Songhay",
+      "id": "nort2822",
+      "url": "https://glottolog.org/resource/languoid/id/nort2822"
+    },
+    {
+      "name": "Northern Songhay",
+      "id": "nort2823",
+      "url": "https://glottolog.org/resource/languoid/id/nort2823"
+    }
+  ],
+  "iso639-3": "twq"
+}

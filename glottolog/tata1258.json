@@ -1,0 +1,92 @@
+{
+  "pk": 14756,
+  "hid": "cta",
+  "father_pk": 11788,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tataltepec Chatino [tata1258][cta]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ctt",
+        "label": "Chatino (Tataltepec)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tataltepec_Chatino",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7687853",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "478223",
+        "long_grammar",
+        2015,
+        419,
+        "John Ryan Sullivant 2015"
+      ],
+      [
+        "311469",
+        "grammar_sketch",
+        1902,
+        83,
+        "Belmar, Francisco 1902"
+      ]
+    ]
+  },
+  "id": "tata1258",
+  "name": "Tataltepec Chatino",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.2963,
+  "longitude": -97.5311,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Popoloca-Zapotecan",
+      "id": "popo1292",
+      "url": "https://glottolog.org/resource/languoid/id/popo1292"
+    },
+    {
+      "name": "Zapotecan",
+      "id": "zapo1436",
+      "url": "https://glottolog.org/resource/languoid/id/zapo1436"
+    },
+    {
+      "name": "Chatino",
+      "id": "chat1268",
+      "url": "https://glottolog.org/resource/languoid/id/chat1268"
+    },
+    {
+      "name": "Core Chatino",
+      "id": "core1263",
+      "url": "https://glottolog.org/resource/languoid/id/core1263"
+    },
+    {
+      "name": "Coastal Chatino",
+      "id": "coas1314",
+      "url": "https://glottolog.org/resource/languoid/id/coas1314"
+    }
+  ],
+  "iso639-3": "cta"
+}

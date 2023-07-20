@@ -1,0 +1,87 @@
+{
+  "pk": 1100,
+  "hid": "myf",
+  "father_pk": 164,
+  "family_pk": 164,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kere {Ethiopia} [kere1282]':1,'Nuclear Bambassi [nucl1341]':1)'Bambassi [bamb1262][myf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4741",
+        "label": "Mao of Bambeshi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56540",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bambassi_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/bamb1262",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "304144",
+        "long_grammar",
+        2012,
+        776,
+        "Ahland, Michael Bryan 2012"
+      ],
+      [
+        "7376",
+        "grammar_sketch",
+        2006,
+        60,
+        "Yimam, Baye 2006"
+      ],
+      [
+        "8293",
+        "wordlist_or_less",
+        2002,
+        5,
+        "Wedekind, Charlotte and Wedekind, Charlotte and Siebert, Ralph 2002"
+      ],
+      [
+        "33329",
+        "wordlist_or_less",
+        1994,
+        5,
+        "Siebert, Ralph and Wedekind, Klaus and Wedekind, Charlotte 1994"
+      ],
+      [
+        "63416",
+        "wordlist_or_less",
+        1975,
+        3,
+        "Bender, Lionel M. 1975"
+      ]
+    ]
+  },
+  "id": "bamb1262",
+  "name": "Bambassi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.82554,
+  "longitude": 34.6522,
+  "classification": [
+    {
+      "name": "Blue Nile Mao",
+      "id": "maoo1243",
+      "url": "https://glottolog.org/resource/languoid/id/maoo1243"
+    }
+  ],
+  "iso639-3": "myf"
+}

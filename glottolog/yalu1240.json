@@ -1,0 +1,103 @@
+{
+  "pk": 8329,
+  "hid": "yal",
+  "father_pk": 5834,
+  "family_pk": 121,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Firia [firi1238]':1,'Musaia [musa1264]':1,'Sulima [suli1238]':1)'Yalunka [yalu1240][yal]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Yalunka_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/yalu1240",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35524",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "37929",
+        "long_grammar",
+        2004,
+        495,
+        "Lüpke, Friederike 2004"
+      ],
+      [
+        "73886",
+        "grammar_sketch",
+        1987,
+        11,
+        "Keïta, Boniface 1987-88"
+      ],
+      [
+        "11152",
+        "grammar_sketch",
+        1894,
+        2,
+        "Elliot, George Francis Scott 1894"
+      ],
+      [
+        "40342",
+        "phonology_or_text",
+        1815,
+        0,
+        "Mirievot, Fyodor Ivanovich Jankovich de 1815"
+      ],
+      [
+        "139430",
+        "wordlist_or_less",
+        1812,
+        18,
+        "Johann Christoph Adelung and Johann Severin Vater 1812"
+      ]
+    ]
+  },
+  "id": "yalu1240",
+  "name": "Yalunka",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.97186,
+  "longitude": -11.2836,
+  "classification": [
+    {
+      "name": "Mande",
+      "id": "mand1469",
+      "url": "https://glottolog.org/resource/languoid/id/mand1469"
+    },
+    {
+      "name": "Western Mande",
+      "id": "west2780",
+      "url": "https://glottolog.org/resource/languoid/id/west2780"
+    },
+    {
+      "name": "Manding-Kpelle",
+      "id": "mand1431",
+      "url": "https://glottolog.org/resource/languoid/id/mand1431"
+    },
+    {
+      "name": "Central Mande",
+      "id": "cent2047",
+      "url": "https://glottolog.org/resource/languoid/id/cent2047"
+    },
+    {
+      "name": "Susu-Yalunka",
+      "id": "susu1249",
+      "url": "https://glottolog.org/resource/languoid/id/susu1249"
+    }
+  ],
+  "iso639-3": "yal"
+}

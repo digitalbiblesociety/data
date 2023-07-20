@@ -1,0 +1,72 @@
+{
+  "pk": 13614,
+  "hid": "sct",
+  "father_pk": 10556,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Southern Katang [sout3251][sct]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q63311092",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "14938",
+        "phonology_or_text",
+        2003,
+        35,
+        "Enfield, Nick J. 2003"
+      ]
+    ]
+  },
+  "id": "sout3251",
+  "name": "Southern Katang",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.108419,
+  "longitude": 106.473214,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Katuic",
+      "id": "katu1271",
+      "url": "https://glottolog.org/resource/languoid/id/katu1271"
+    },
+    {
+      "name": "West Katuic",
+      "id": "west1492",
+      "url": "https://glottolog.org/resource/languoid/id/west1492"
+    },
+    {
+      "name": "Brou-So",
+      "id": "brou1236",
+      "url": "https://glottolog.org/resource/languoid/id/brou1236"
+    },
+    {
+      "name": "Eastern Bru-Katang",
+      "id": "east2783",
+      "url": "https://glottolog.org/resource/languoid/id/east2783"
+    },
+    {
+      "name": "Katang",
+      "id": "kata1264",
+      "url": "https://glottolog.org/resource/languoid/id/kata1264"
+    }
+  ],
+  "iso639-3": "sct"
+}

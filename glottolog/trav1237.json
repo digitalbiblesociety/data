@@ -1,0 +1,63 @@
+{
+  "pk": 2211,
+  "hid": "rmd",
+  "father_pk": 1020,
+  "family_pk": 135,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Speech Register",
+  "newick": "'Traveller Danish [trav1237][rmd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12640779",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Danish_Rodi",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "322110",
+        "wordlist_or_less",
+        1923,
+        49,
+        "Miskow, Johan and Viggo Brøndal 1923"
+      ],
+      [
+        "570662",
+        "wordlist_or_less",
+        1837,
+        32,
+        "Niels Vinding Dorph 1837"
+      ]
+    ]
+  },
+  "id": "trav1237",
+  "name": "Traveller Danish",
+  "description": null,
+  "markup_description": null,
+  "latitude": 55.5605,
+  "longitude": 12.059,
+  "classification": [
+    {
+      "name": "Speech Register",
+      "id": "spee1234",
+      "url": "https://glottolog.org/resource/languoid/id/spee1234"
+    },
+    {
+      "name": "Indo-European Speech Register",
+      "id": "indo1335",
+      "url": "https://glottolog.org/resource/languoid/id/indo1335"
+    }
+  ],
+  "iso639-3": "rmd"
+}

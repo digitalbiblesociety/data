@@ -1,0 +1,77 @@
+{
+  "pk": 7669,
+  "hid": "cwg",
+  "father_pk": 5316,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Chewong [chew1245][cwg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1266",
+        "label": "Chewong"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q646718",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cheq_Wong_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "439079",
+        "phonology_or_text",
+        2015,
+        19,
+        "Nicole Kruspe and Niclas Burenhult and Ewelina Wnuk 2015"
+      ],
+      [
+        "551225",
+        "wordlist_or_less",
+        1949,
+        33,
+        "Charles S. Ogilvie 1949"
+      ]
+    ]
+  },
+  "id": "chew1245",
+  "name": "Chewong",
+  "description": null,
+  "markup_description": null,
+  "latitude": 3.83331,
+  "longitude": 102.081,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Aslian",
+      "id": "asli1243",
+      "url": "https://glottolog.org/resource/languoid/id/asli1243"
+    },
+    {
+      "name": "Central-Northern Aslian",
+      "id": "cent1987",
+      "url": "https://glottolog.org/resource/languoid/id/cent1987"
+    },
+    {
+      "name": "North Aslian",
+      "id": "nort2682",
+      "url": "https://glottolog.org/resource/languoid/id/nort2682"
+    }
+  ],
+  "iso639-3": "cwg"
+}

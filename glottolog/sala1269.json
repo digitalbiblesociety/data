@@ -1,0 +1,75 @@
+{
+  "pk": 9475,
+  "hid": "sgu",
+  "father_pk": 6858,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Salas [sala1269][sgu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2775",
+        "label": "Salas"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7403694",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Salas_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "59437",
+        "wordlist_or_less",
+        1927,
+        5,
+        "Stresemann, Erwin 1927"
+      ]
+    ]
+  },
+  "id": "sala1269",
+  "name": "Salas",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.14654,
+  "longitude": 130.53,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Greater Seram Laut",
+      "id": "grea1302",
+      "url": "https://glottolog.org/resource/languoid/id/grea1302"
+    },
+    {
+      "name": "East Seram",
+      "id": "east2741",
+      "url": "https://glottolog.org/resource/languoid/id/east2741"
+    },
+    {
+      "name": "Setic",
+      "id": "seti1249",
+      "url": "https://glottolog.org/resource/languoid/id/seti1249"
+    }
+  ],
+  "iso639-3": "sgu"
+}

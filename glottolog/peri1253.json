@@ -1,0 +1,89 @@
+{
+  "pk": 10523,
+  "hid": "mvf",
+  "father_pk": 7628,
+  "family_pk": 417,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Chahar [chah1241]':1,'Ejine [ejin1238]':1,'Jirim [jiri1239]':1,'Jo-Uda [joud1238]':1,'Jostu [jost1238]':1,'Ordos [ordo1245]':1,'Shilingol [shil1261]':1,'Tumut [tumu1241]':1,'Ulanchab [ulan1238]':1)'Peripheral Mongolian [peri1253][mvf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 9,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3320659",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Southern_Mongolian",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ord",
+        "label": "Ordos"
+      }
+    ],
+    "meds": [
+      [
+        "547938",
+        "long_grammar",
+        1996,
+        317,
+        "Chaganqada, {} 1996"
+      ],
+      [
+        "60572",
+        "grammar",
+        1981,
+        108,
+        "Dao, Bu 1981"
+      ],
+      [
+        "552299",
+        "grammar_sketch",
+        1903,
+        114,
+        "Soulié, M. G. 1903"
+      ]
+    ]
+  },
+  "id": "peri1253",
+  "name": "Peripheral Mongolian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 42.4208,
+  "longitude": 110.157,
+  "classification": [
+    {
+      "name": "Mongolic-Khitan",
+      "id": "mong1349",
+      "url": "https://glottolog.org/resource/languoid/id/mong1349"
+    },
+    {
+      "name": "Mongolic",
+      "id": "mong1329",
+      "url": "https://glottolog.org/resource/languoid/id/mong1329"
+    },
+    {
+      "name": "Eastern Mongolic",
+      "id": "oira1260",
+      "url": "https://glottolog.org/resource/languoid/id/oira1260"
+    },
+    {
+      "name": "Khalkha-Buriat",
+      "id": "khal1273",
+      "url": "https://glottolog.org/resource/languoid/id/khal1273"
+    },
+    {
+      "name": "Mongolian",
+      "id": "mong1331",
+      "url": "https://glottolog.org/resource/languoid/id/mong1331"
+    }
+  ],
+  "iso639-3": "mvf"
+}

@@ -1,0 +1,85 @@
+{
+  "pk": 6043,
+  "hid": "nhf",
+  "father_pk": 4046,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Nhuwala [nhuw1239][nhf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4853",
+        "label": "Nhuwala"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/w30",
+        "label": "Nhuwala"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nhuwala_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nhuw1239",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q10600396",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "105734",
+        "wordlist_or_less",
+        1966,
+        20,
+        "Geoffrey N. O'Grady and Voegelin, C. and Voegelin, F. 1966"
+      ],
+      [
+        "121863",
+        "wordlist_or_less",
+        1912,
+        4,
+        "Alfred Radcliffe-Brown 1912"
+      ]
+    ]
+  },
+  "id": "nhuw1239",
+  "name": "Nhuwala",
+  "description": null,
+  "markup_description": null,
+  "latitude": -21.38154,
+  "longitude": 115.74542,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "South-West Pama-Nyungan",
+      "id": "sout3134",
+      "url": "https://glottolog.org/resource/languoid/id/sout3134"
+    },
+    {
+      "name": "Pilbara",
+      "id": "pilb1234",
+      "url": "https://glottolog.org/resource/languoid/id/pilb1234"
+    },
+    {
+      "name": "Ngayarda",
+      "id": "ngay1241",
+      "url": "https://glottolog.org/resource/languoid/id/ngay1241"
+    }
+  ],
+  "iso639-3": "nhf"
+}

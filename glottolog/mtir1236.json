@@ -1,0 +1,87 @@
+{
+  "pk": 12166,
+  "hid": "atl",
+  "father_pk": 9272,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mt. Iraya Agta [mtir1236][atl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2832",
+        "label": "Mount Iraya Agta"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6921430",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mount_Iraya_Agta_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "143353",
+        "wordlist_or_less",
+        1994,
+        1,
+        "Lawrence A. Reid 1994"
+      ],
+      [
+        "547527",
+        "wordlist_or_less",
+        1891,
+        1,
+        "Blumentritt, F. 1891"
+      ]
+    ]
+  },
+  "id": "mtir1236",
+  "name": "Mt. Iraya Agta",
+  "description": null,
+  "markup_description": null,
+  "latitude": 13.4588,
+  "longitude": 123.552,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Greater Central Philippine",
+      "id": "grea1284",
+      "url": "https://glottolog.org/resource/languoid/id/grea1284"
+    },
+    {
+      "name": "Central Philippine",
+      "id": "cent2246",
+      "url": "https://glottolog.org/resource/languoid/id/cent2246"
+    },
+    {
+      "name": "Bikol",
+      "id": "biko1240",
+      "url": "https://glottolog.org/resource/languoid/id/biko1240"
+    },
+    {
+      "name": "Inagta Bikol",
+      "id": "inag1234",
+      "url": "https://glottolog.org/resource/languoid/id/inag1234"
+    }
+  ],
+  "iso639-3": "atl"
+}

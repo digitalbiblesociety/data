@@ -1,0 +1,100 @@
+{
+  "pk": 16936,
+  "hid": "cie",
+  "father_pk": 14352,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Cineni [cine1238][cie]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56243",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cineni_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "587982",
+        "grammar_sketch",
+        2010,
+        46,
+        "Kim, Hak Soo 2010"
+      ],
+      [
+        "323881",
+        "wordlist_or_less",
+        2004,
+        8,
+        "Hamm, Cameron D. 2004"
+      ],
+      [
+        "149343",
+        "wordlist_or_less",
+        1981,
+        6,
+        "Kraft, Charles H. 1981"
+      ]
+    ]
+  },
+  "id": "cine1238",
+  "name": "Cineni",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.1319,
+  "longitude": 13.8187,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "Biu-Mandara",
+      "id": "bium1280",
+      "url": "https://glottolog.org/resource/languoid/id/bium1280"
+    },
+    {
+      "name": "North Biu-Mandara",
+      "id": "nort3156",
+      "url": "https://glottolog.org/resource/languoid/id/nort3156"
+    },
+    {
+      "name": "Margi-Mandara-Mofu",
+      "id": "marg1267",
+      "url": "https://glottolog.org/resource/languoid/id/marg1267"
+    },
+    {
+      "name": "Mandaraic",
+      "id": "mand1472",
+      "url": "https://glottolog.org/resource/languoid/id/mand1472"
+    },
+    {
+      "name": "Dghwedeic",
+      "id": "dghw1240",
+      "url": "https://glottolog.org/resource/languoid/id/dghw1240"
+    },
+    {
+      "name": "Gudufic",
+      "id": "gudu1253",
+      "url": "https://glottolog.org/resource/languoid/id/gudu1253"
+    }
+  ],
+  "iso639-3": "cie"
+}

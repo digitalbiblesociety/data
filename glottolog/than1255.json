@@ -1,0 +1,86 @@
+{
+  "pk": 5011,
+  "hid": "nki",
+  "father_pk": 3192,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Thangal Naga [than1255][nki]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5646",
+        "label": "Thangal Naga"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56374",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Khoirao_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "589532",
+        "long_grammar",
+        2008,
+        301,
+        "Singh, Thokchom Chandramani 2008"
+      ],
+      [
+        "85928",
+        "wordlist_or_less",
+        1967,
+        7,
+        "Marrison, Geoffrey E. 1967"
+      ],
+      [
+        "162861",
+        "wordlist_or_less",
+        1903,
+        4,
+        "George A. Grierson 1903"
+      ],
+      [
+        "115954",
+        "wordlist_or_less",
+        1837,
+        1,
+        "Brown, Nathan 1837"
+      ]
+    ]
+  },
+  "id": "than1255",
+  "name": "Thangal Naga",
+  "description": null,
+  "markup_description": null,
+  "latitude": 25.3472,
+  "longitude": 93.8396,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Zemeic",
+      "id": "zeme1241",
+      "url": "https://glottolog.org/resource/languoid/id/zeme1241"
+    }
+  ],
+  "iso639-3": "nki"
+}

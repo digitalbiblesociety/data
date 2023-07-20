@@ -1,0 +1,86 @@
+{
+  "pk": 8514,
+  "hid": "bxi",
+  "father_pk": 6052,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Pirlatapa [pirl1238][bxi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6650",
+        "label": "Pirlatapa"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/l11",
+        "label": "Pirlatapa"
+      },
+      {
+        "url": "https://phoible.org/languages/pirl1238",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q10632195",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "93216",
+        "wordlist_or_less",
+        1990,
+        20,
+        "Austin, Peter 1990"
+      ],
+      [
+        "58147",
+        "wordlist_or_less",
+        1886,
+        6,
+        "Wills, Charles 1886"
+      ]
+    ]
+  },
+  "id": "pirl1238",
+  "name": "Pirlatapa",
+  "description": null,
+  "markup_description": null,
+  "latitude": -29.524,
+  "longitude": 139.77,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Karnic",
+      "id": "karn1253",
+      "url": "https://glottolog.org/resource/languoid/id/karn1253"
+    },
+    {
+      "name": "Central Karnic",
+      "id": "cent2016",
+      "url": "https://glottolog.org/resource/languoid/id/cent2016"
+    },
+    {
+      "name": "Western Central Karnic",
+      "id": "west2438",
+      "url": "https://glottolog.org/resource/languoid/id/west2438"
+    },
+    {
+      "name": "Pirlatapa-Dieric",
+      "id": "pirl1239",
+      "url": "https://glottolog.org/resource/languoid/id/pirl1239"
+    }
+  ],
+  "iso639-3": "bxi"
+}

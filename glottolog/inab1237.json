@@ -1,0 +1,71 @@
+{
+  "pk": 9535,
+  "hid": "abx",
+  "father_pk": 6896,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Inabaknon [inab1237][abx]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Abaknon_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2820163",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "470574",
+        "grammar_sketch",
+        1980,
+        356,
+        "Jacobson, Suzanne M. and Jacobson, Marc R. 1980"
+      ]
+    ]
+  },
+  "id": "inab1237",
+  "name": "Inabaknon",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.4264,
+  "longitude": 124.166,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Basap-Greater Barito",
+      "id": "basa1291",
+      "url": "https://glottolog.org/resource/languoid/id/basa1291"
+    },
+    {
+      "name": "Greater Barito linkage",
+      "id": "grea1283",
+      "url": "https://glottolog.org/resource/languoid/id/grea1283"
+    },
+    {
+      "name": "Sama-Bajaw",
+      "id": "sama1302",
+      "url": "https://glottolog.org/resource/languoid/id/sama1302"
+    }
+  ],
+  "iso639-3": "abx"
+}

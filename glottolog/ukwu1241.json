@@ -1,0 +1,78 @@
+{
+  "pk": 10039,
+  "hid": "ukw",
+  "father_pk": 7203,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Abo [aboo1242]':1,'Ndoni [ndon1255]':1,'Ukwuani [ukwu1242]':1)'Ukwuani-Aboh-Ndoni [ukwu1241][ukw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q36636",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ukwuani-Aboh-Ndoni_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "478547",
+        "wordlist_or_less",
+        1968,
+        25,
+        "Williamson, Kay 1968"
+      ],
+      [
+        "134783",
+        "wordlist_or_less",
+        1967,
+        16,
+        "Armstrong, Robert Gelston 1967"
+      ]
+    ]
+  },
+  "id": "ukwu1241",
+  "name": "Ukwuani-Aboh-Ndoni",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.78892,
+  "longitude": 6.48559,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Igboid",
+      "id": "igbo1258",
+      "url": "https://glottolog.org/resource/languoid/id/igbo1258"
+    },
+    {
+      "name": "Nuclear Igboid",
+      "id": "igbo1259",
+      "url": "https://glottolog.org/resource/languoid/id/igbo1259"
+    }
+  ],
+  "iso639-3": "ukw"
+}

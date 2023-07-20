@@ -1,0 +1,79 @@
+{
+  "pk": 8465,
+  "hid": "wlu",
+  "father_pk": 6005,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Wuliwuli [wuli1242][wlu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/e89",
+        "label": "Wuli Wuli"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Wulli_Wulli_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/wuli1242",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q8039208",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "476203",
+        "phonology_or_text",
+        1983,
+        8,
+        "Holmer, Nils M. 1983"
+      ]
+    ]
+  },
+  "id": "wuli1242",
+  "name": "Wuliwuli",
+  "description": null,
+  "markup_description": null,
+  "latitude": -24.415,
+  "longitude": 149.843,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Southeastern Pama-Nyungan",
+      "id": "sout3135",
+      "url": "https://glottolog.org/resource/languoid/id/sout3135"
+    },
+    {
+      "name": "North Coast Pama-Nyungan",
+      "id": "nort3154",
+      "url": "https://glottolog.org/resource/languoid/id/nort3154"
+    },
+    {
+      "name": "Waka-Kabic",
+      "id": "waka1283",
+      "url": "https://glottolog.org/resource/languoid/id/waka1283"
+    },
+    {
+      "name": "Western Waka-Kabic",
+      "id": "west2808",
+      "url": "https://glottolog.org/resource/languoid/id/west2808"
+    }
+  ],
+  "iso639-3": "wlu"
+}

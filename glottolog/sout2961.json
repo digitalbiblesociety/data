@@ -1,0 +1,87 @@
+{
+  "pk": 5160,
+  "hid": "tix",
+  "father_pk": 3339,
+  "family_pk": 369,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Isleta [isle1245]':1,'Sandia [sand1277]':1)'Southern Tiwa [sout2961][tix]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1471",
+        "label": "Southern Tiwa"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7570552",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Southern_Tiwa_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/sout2961",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tws",
+        "label": "Tiwa (Southern)"
+      }
+    ],
+    "meds": [
+      [
+        "18855",
+        "grammar",
+        1970,
+        249,
+        "William L. Leap 1970"
+      ],
+      [
+        "571110",
+        "grammar_sketch",
+        1954,
+        6,
+        "Euler, Robert C. 1954"
+      ],
+      [
+        "302449",
+        "wordlist_or_less",
+        1876,
+        29,
+        "Albert S. Gatschet 1876"
+      ]
+    ]
+  },
+  "id": "sout2961",
+  "name": "Southern Tiwa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 34.7873,
+  "longitude": -106.661,
+  "classification": [
+    {
+      "name": "Kiowa-Tanoan",
+      "id": "kiow1265",
+      "url": "https://glottolog.org/resource/languoid/id/kiow1265"
+    },
+    {
+      "name": "Tiwa-Piro",
+      "id": "tiwa1254",
+      "url": "https://glottolog.org/resource/languoid/id/tiwa1254"
+    },
+    {
+      "name": "Tiwa",
+      "id": "tiwa1255",
+      "url": "https://glottolog.org/resource/languoid/id/tiwa1255"
+    }
+  ],
+  "iso639-3": "tix"
+}

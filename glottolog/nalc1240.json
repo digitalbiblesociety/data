@@ -1,0 +1,68 @@
+{
+  "pk": 4513,
+  "hid": "nlc",
+  "father_pk": 2912,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Nalca [nalc1240][nlc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Nalca_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6960839",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "404884",
+        "grammar_sketch",
+        2013,
+        46,
+        "Erik Svärd 2013"
+      ],
+      [
+        "126692",
+        "wordlist_or_less",
+        1975,
+        1,
+        "C. L. Voorhoeve 1975"
+      ]
+    ]
+  },
+  "id": "nalc1240",
+  "name": "Nalca",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.26068,
+  "longitude": 139.883,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Mek",
+      "id": "mekk1240",
+      "url": "https://glottolog.org/resource/languoid/id/mekk1240"
+    },
+    {
+      "name": "Western Mek",
+      "id": "west2585",
+      "url": "https://glottolog.org/resource/languoid/id/west2585"
+    }
+  ],
+  "iso639-3": "nlc"
+}

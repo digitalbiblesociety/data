@@ -1,0 +1,73 @@
+{
+  "pk": 7286,
+  "hid": "cvg",
+  "father_pk": 4950,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Duhumbi [chug1252][cvg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q47683644",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Chug_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "553194",
+        "long_grammar",
+        2017,
+        1047,
+        "Timotheus Adrianus Bodt 2017"
+      ],
+      [
+        "104643",
+        "wordlist_or_less",
+        2005,
+        10,
+        "Binny Abraham and Kara Sako and Elina Kinny and Isapdaile Zeliang 2005"
+      ]
+    ]
+  },
+  "id": "chug1252",
+  "name": "Duhumbi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.4177713,
+  "longitude": 92.2255891,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kho-Bwa",
+      "id": "khob1235",
+      "url": "https://glottolog.org/resource/languoid/id/khob1235"
+    },
+    {
+      "name": "Western Kho-Bwa",
+      "id": "meyi1234",
+      "url": "https://glottolog.org/resource/languoid/id/meyi1234"
+    },
+    {
+      "name": "Chug-Lish",
+      "id": "chug1251",
+      "url": "https://glottolog.org/resource/languoid/id/chug1251"
+    }
+  ],
+  "iso639-3": "cvg"
+}

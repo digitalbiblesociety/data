@@ -1,0 +1,85 @@
+{
+  "pk": 9391,
+  "hid": "bts",
+  "father_pk": 6811,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Batak Simalungun [bata1288][bts]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Batak_Simalungun_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2891054",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "322144",
+        "grammar_sketch",
+        1984,
+        132,
+        "Urich H. Damanik and Sinaga, Maridin and Bakar, Abu and Purbo, Janiapo 1984"
+      ],
+      [
+        "136432",
+        "grammar_sketch",
+        1974,
+        108,
+        "Tarigan, Henry Guntur 1974"
+      ],
+      [
+        "314352",
+        "phonology_or_text",
+        1972,
+        48,
+        "Tarigan, Henry Guntur 1972"
+      ]
+    ]
+  },
+  "id": "bata1288",
+  "name": "Batak Simalungun",
+  "description": null,
+  "markup_description": null,
+  "latitude": 3.04372,
+  "longitude": 98.9083,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Northwest Sumatra-Barrier Islands",
+      "id": "nort2829",
+      "url": "https://glottolog.org/resource/languoid/id/nort2829"
+    },
+    {
+      "name": "Batakic",
+      "id": "toba1265",
+      "url": "https://glottolog.org/resource/languoid/id/toba1265"
+    },
+    {
+      "name": "Southern Batak",
+      "id": "sout3166",
+      "url": "https://glottolog.org/resource/languoid/id/sout3166"
+    }
+  ],
+  "iso639-3": "bts"
+}

@@ -1,0 +1,109 @@
+{
+  "pk": 13573,
+  "hid": "kxv",
+  "father_pk": 10490,
+  "family_pk": 404,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dongria Kuvi [dong1300]':1,'Laxmipur [laxm1234]':1,'Rayagada [raya1243]':1)'Kuvi [kuvi1243][kxv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4468",
+        "label": "Kuvi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3200721",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kuvi_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kuvi1243",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kuv",
+        "label": "Kuvi"
+      }
+    ],
+    "meds": [
+      [
+        "132856",
+        "long_grammar",
+        1979,
+        444,
+        "Israel, Motchakon 1979"
+      ],
+      [
+        "147910",
+        "grammar",
+        1911,
+        254,
+        "Schulze, Frederick Volkomor Paul 1911"
+      ],
+      [
+        "586441",
+        "wordlist_or_less",
+        1869,
+        8,
+        "Carmichael, D. F. 1869"
+      ],
+      [
+        "79695",
+        "wordlist_or_less",
+        1857,
+        2,
+        "Hodgson, Brian Houghton 1880 [1857]"
+      ]
+    ]
+  },
+  "id": "kuvi1243",
+  "name": "Kuvi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 18.8832,
+  "longitude": 83.7552,
+  "classification": [
+    {
+      "name": "Dravidian",
+      "id": "drav1251",
+      "url": "https://glottolog.org/resource/languoid/id/drav1251"
+    },
+    {
+      "name": "South Dravidian",
+      "id": "sout3133",
+      "url": "https://glottolog.org/resource/languoid/id/sout3133"
+    },
+    {
+      "name": "South Dravidian II",
+      "id": "sout3139",
+      "url": "https://glottolog.org/resource/languoid/id/sout3139"
+    },
+    {
+      "name": "Konda-Kui",
+      "id": "kond1294",
+      "url": "https://glottolog.org/resource/languoid/id/kond1294"
+    },
+    {
+      "name": "Manda-Kui",
+      "id": "mand1411",
+      "url": "https://glottolog.org/resource/languoid/id/mand1411"
+    },
+    {
+      "name": "Kui-Kuvi",
+      "id": "kuik1244",
+      "url": "https://glottolog.org/resource/languoid/id/kuik1244"
+    }
+  ],
+  "iso639-3": "kxv"
+}

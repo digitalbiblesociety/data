@@ -1,0 +1,104 @@
+{
+  "pk": 16699,
+  "hid": "ars",
+  "father_pk": 14132,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Anizah of the Syrian desert [aniz1234]':1,'Arid-Washm-Sudair [arid1234]':1,'Central Bedouin Najdi [cent2323]':1)'Central Najdi [cent2224]':1,'North Najdi [nort3137]':1,'Qasim-Dhafir [qasi1234]':1,('Najran-Ghatan [najr1234]':1,'al-Murrah-Ajman [almu1234]':1)'South Najdi [sout3119]':1)'Najdi Arabic [najd1235][ars]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 9,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56574",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Najdi_Arabic",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/najd1235",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "67053",
+        "grammar",
+        1994,
+        233,
+        "Ingham, Bruce 1994"
+      ],
+      [
+        "468956",
+        "grammar_sketch",
+        1936,
+        237,
+        "Cantineau, Jean 1936, 1937"
+      ],
+      [
+        "478509",
+        "phonology_or_text",
+        1868,
+        126,
+        "I. G. Wetzstein 1868"
+      ]
+    ]
+  },
+  "id": "najd1235",
+  "name": "Najdi Arabic",
+  "description": null,
+  "markup_description": null,
+  "latitude": 30.3371,
+  "longitude": 42.1773,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Semitic",
+      "id": "semi1276",
+      "url": "https://glottolog.org/resource/languoid/id/semi1276"
+    },
+    {
+      "name": "West Semitic",
+      "id": "west2786",
+      "url": "https://glottolog.org/resource/languoid/id/west2786"
+    },
+    {
+      "name": "Central Semitic",
+      "id": "cent2236",
+      "url": "https://glottolog.org/resource/languoid/id/cent2236"
+    },
+    {
+      "name": "Arabian",
+      "id": "arab1394",
+      "url": "https://glottolog.org/resource/languoid/id/arab1394"
+    },
+    {
+      "name": "Arabic",
+      "id": "arab1395",
+      "url": "https://glottolog.org/resource/languoid/id/arab1395"
+    },
+    {
+      "name": "Arabian Peninsula Arabic",
+      "id": "arab1393",
+      "url": "https://glottolog.org/resource/languoid/id/arab1393"
+    },
+    {
+      "name": "North Arabian Beduin Arabic",
+      "id": "nort3402",
+      "url": "https://glottolog.org/resource/languoid/id/nort3402"
+    }
+  ],
+  "iso639-3": "ars"
+}

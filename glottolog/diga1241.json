@@ -1,0 +1,78 @@
+{
+  "pk": 3191,
+  "hid": "mhu",
+  "father_pk": 1658,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tawra [diga1241][mhu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5700",
+        "label": "Digaro-Mishmi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56400",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Digaro_Mishmi_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_dig",
+        "label": "Digaro"
+      }
+    ],
+    "meds": [
+      [
+        "109989",
+        "grammar",
+        1984,
+        223,
+        "G. Devi Prasada Sastry 1984"
+      ],
+      [
+        "77960",
+        "grammar_sketch",
+        1855,
+        9,
+        "William Robinson 1855"
+      ],
+      [
+        "115954",
+        "wordlist_or_less",
+        1837,
+        1,
+        "Brown, Nathan 1837"
+      ]
+    ]
+  },
+  "id": "diga1241",
+  "name": "Tawra",
+  "description": null,
+  "markup_description": null,
+  "latitude": 28.4993,
+  "longitude": 96.8803,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Digarish",
+      "id": "mish1241",
+      "url": "https://glottolog.org/resource/languoid/id/mish1241"
+    }
+  ],
+  "iso639-3": "mhu"
+}

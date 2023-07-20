@@ -1,0 +1,113 @@
+{
+  "pk": 14839,
+  "hid": "bmu",
+  "father_pk": 11956,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Siawari [siaw1242]':1,'Somba [somb1238]':1)'Burum-Mindik [buru1306][bmu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bmr",
+        "label": "Burum"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Burum_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5000983",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "301474",
+        "phonology_or_text",
+        2007,
+        206,
+        "Olkkonen, Soini and Olkkonen, Kaija 2007"
+      ],
+      [
+        "106052",
+        "phonology_or_text",
+        2004,
+        171,
+        "Soini Olkkonen and Kaija Olkkonen and others 2004"
+      ],
+      [
+        "158165",
+        "phonology_or_text",
+        1997,
+        41,
+        "Gasaway, Eileen 1997"
+      ],
+      [
+        "83527",
+        "phonology_or_text",
+        1985,
+        24,
+        "Olkkonen, Soini 1985"
+      ],
+      [
+        "576052",
+        "wordlist_or_less",
+        1928,
+        3,
+        "Georg Pilhofer 1928-1929"
+      ]
+    ]
+  },
+  "id": "buru1306",
+  "name": "Burum-Mindik",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.51663,
+  "longitude": 147.333,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Finisterre-Huon",
+      "id": "fini1244",
+      "url": "https://glottolog.org/resource/languoid/id/fini1244"
+    },
+    {
+      "name": "Huon",
+      "id": "huon1246",
+      "url": "https://glottolog.org/resource/languoid/id/huon1246"
+    },
+    {
+      "name": "Western Huon",
+      "id": "west2795",
+      "url": "https://glottolog.org/resource/languoid/id/west2795"
+    },
+    {
+      "name": "Rawlinson",
+      "id": "rawl1234",
+      "url": "https://glottolog.org/resource/languoid/id/rawl1234"
+    },
+    {
+      "name": "Pindiu",
+      "id": "pind1245",
+      "url": "https://glottolog.org/resource/languoid/id/pind1245"
+    },
+    {
+      "name": "Kosorong-Burum-Mindik",
+      "id": "koso1246",
+      "url": "https://glottolog.org/resource/languoid/id/koso1246"
+    }
+  ],
+  "iso639-3": "bmu"
+}

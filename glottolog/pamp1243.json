@@ -1,0 +1,76 @@
+{
+  "pk": 4667,
+  "hid": "pam",
+  "father_pk": 2965,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Pampanga [pamp1243][pam]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kpm",
+        "label": "Kapampangan"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kapampangan_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/pamp1243",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36121",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "306153",
+        "long_grammar",
+        1971,
+        685,
+        "Andrew Gonzalez 1971"
+      ],
+      [
+        "51145",
+        "long_grammar",
+        1729,
+        379,
+        "Diego Bergaño 1916 [1729]"
+      ]
+    ]
+  },
+  "id": "pamp1243",
+  "name": "Pampanga",
+  "description": null,
+  "markup_description": null,
+  "latitude": 14.9603,
+  "longitude": 120.502,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Central Luzon",
+      "id": "cent2080",
+      "url": "https://glottolog.org/resource/languoid/id/cent2080"
+    }
+  ],
+  "iso639-3": "pam"
+}

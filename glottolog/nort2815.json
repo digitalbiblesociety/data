@@ -1,0 +1,94 @@
+{
+  "pk": 7080,
+  "hid": "dip",
+  "father_pk": 4853,
+  "family_pk": 316,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Abiliang [abil1238]':1,'Ageer [agee1238]':1,'Dongjol [dong1295]':1,'Luac [luac1241]':1,'Ngok-Sobat [ngok1245]':1,'Rut [rutt1238]':1,'Thoi [thoi1238]':1)'Northeastern Dinka [nort2815][dip]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://phoible.org/languages/nort2815",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36246",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "535791",
+        "phonology_or_text",
+        2014,
+        15,
+        "Bert Remijsen 2014"
+      ],
+      [
+        "98378",
+        "phonology_or_text",
+        1987,
+        27,
+        "Andersen, Torben 1987"
+      ],
+      [
+        "103274",
+        "wordlist_or_less",
+        1972,
+        188,
+        "Deng, Francis Manding 1972"
+      ],
+      [
+        "161397",
+        "wordlist_or_less",
+        1951,
+        55,
+        "Howell, P.P. 1951"
+      ],
+      [
+        "547340",
+        "wordlist_or_less",
+        1948,
+        18,
+        "Bedri, Ibrahim 1948"
+      ]
+    ]
+  },
+  "id": "nort2815",
+  "name": "Northeastern Dinka",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.27995,
+  "longitude": 31.8392,
+  "classification": [
+    {
+      "name": "Nilotic",
+      "id": "nilo1247",
+      "url": "https://glottolog.org/resource/languoid/id/nilo1247"
+    },
+    {
+      "name": "Western Nilotic",
+      "id": "west2493",
+      "url": "https://glottolog.org/resource/languoid/id/west2493"
+    },
+    {
+      "name": "Dinka-Nuer",
+      "id": "dink1261",
+      "url": "https://glottolog.org/resource/languoid/id/dink1261"
+    },
+    {
+      "name": "Dinka",
+      "id": "dink1262",
+      "url": "https://glottolog.org/resource/languoid/id/dink1262"
+    }
+  ],
+  "iso639-3": "dip"
+}

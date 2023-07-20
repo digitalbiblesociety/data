@@ -1,0 +1,80 @@
+{
+  "pk": 6851,
+  "hid": "weo",
+  "father_pk": 4662,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Horale [hora1237]':1,'Kasieh [kasi1255]':1,'Uwenpantai [uwen1237]':1)'Wemale [nort2864][weo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7982165",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Wemale_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "143037",
+        "grammar_sketch",
+        1928,
+        6,
+        "Odo D. Tauern 1928, 1929, 1930, 1931"
+      ],
+      [
+        "306167",
+        "wordlist_or_less",
+        1893,
+        10,
+        "J. Boot 1893"
+      ],
+      [
+        "82031",
+        "wordlist_or_less",
+        1868,
+        9,
+        "Ludeking, E. W. A. 1868"
+      ]
+    ]
+  },
+  "id": "nort2864",
+  "name": "Wemale",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.05143,
+  "longitude": 128.839,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Nunusaku",
+      "id": "nunu1252",
+      "url": "https://glottolog.org/resource/languoid/id/nunu1252"
+    },
+    {
+      "name": "Three Rivers",
+      "id": "thre1238",
+      "url": "https://glottolog.org/resource/languoid/id/thre1238"
+    }
+  ],
+  "iso639-3": "weo"
+}

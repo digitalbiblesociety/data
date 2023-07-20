@@ -1,0 +1,94 @@
+{
+  "pk": 1530,
+  "hid": "pwn",
+  "father_pk": 289,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Paiwan [paiw1248][pwn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_pai",
+        "label": "Paiwan"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Paiwan_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/paiw1248",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q715755",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "64104",
+        "long_grammar",
+        2006,
+        509,
+        "Chang, Anna Hsiou-chuan 2006"
+      ],
+      [
+        "31302",
+        "long_grammar",
+        1990,
+        360,
+        "Hans Egli 1990"
+      ],
+      [
+        "32207",
+        "grammar",
+        1986,
+        139,
+        "Chen, Kang and Ma, Rongsheng 1986"
+      ],
+      [
+        "86376",
+        "grammar_sketch",
+        1982,
+        252,
+        "Ferrell, Raleigh 1982"
+      ],
+      [
+        "11917",
+        "phonology_or_text",
+        1977,
+        24,
+        "Ho, Dah-an 1977"
+      ],
+      [
+        "304561",
+        "wordlist_or_less",
+        1903,
+        57,
+        "Davidson, James Wheeler 1903"
+      ]
+    ]
+  },
+  "id": "paiw1248",
+  "name": "Paiwan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 22.3271,
+  "longitude": 120.806,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    }
+  ],
+  "iso639-3": "pwn"
+}

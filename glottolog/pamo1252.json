@@ -1,0 +1,87 @@
+{
+  "pk": 12118,
+  "hid": "pmf",
+  "father_pk": 9237,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ampana-Togian [ampa1240]':1,'Laiwonu [laiw1240]':1,'Lake Poso [lake1263]':1,'Lalaeo [lala1271]':1,'Poso-Tojo [poso1239]':1,'Pu''u Mboto [puum1234]':1,'Rapangkaka [rapa1246]':1,'Sinohoan [sino1247]':1,'Tobau [toba1283]':1,'Tokondindi [toko1244]':1,'Topada [topa1242]':1)'Pamona [pamo1252][pmf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 11,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_pna",
+        "label": "Pamona"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Pamona_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3513320",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "103402",
+        "long_grammar",
+        1931,
+        497,
+        "N. Adriani 1931"
+      ],
+      [
+        "139575",
+        "grammar_sketch",
+        1893,
+        31,
+        "Albert C. Kruijt 1893"
+      ]
+    ]
+  },
+  "id": "pamo1252",
+  "name": "Pamona",
+  "description": null,
+  "markup_description": null,
+  "latitude": -1.62663,
+  "longitude": 121.268,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Celebic",
+      "id": "cele1242",
+      "url": "https://glottolog.org/resource/languoid/id/cele1242"
+    },
+    {
+      "name": "Kaili-Wolio",
+      "id": "kail1255",
+      "url": "https://glottolog.org/resource/languoid/id/kail1255"
+    },
+    {
+      "name": "Northern Kaili-Wolio",
+      "id": "nort2898",
+      "url": "https://glottolog.org/resource/languoid/id/nort2898"
+    },
+    {
+      "name": "Pamona-Tombelala",
+      "id": "pamo1251",
+      "url": "https://glottolog.org/resource/languoid/id/pamo1251"
+    }
+  ],
+  "iso639-3": "pmf"
+}

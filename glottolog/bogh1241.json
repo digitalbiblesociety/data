@@ -1,0 +1,88 @@
+{
+  "pk": 14263,
+  "hid": "bux",
+  "father_pk": 11178,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Boghom [bogh1241][bux]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3440412",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Boghom_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "19643",
+        "grammar_sketch",
+        1975,
+        20,
+        "Shimizu, Kiyoshi 1975"
+      ],
+      [
+        "109280",
+        "wordlist_or_less",
+        1907,
+        2,
+        "Gowers, W.F. 1907"
+      ]
+    ]
+  },
+  "id": "bogh1241",
+  "name": "Boghom",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.49679,
+  "longitude": 10.11454,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "West Chadic",
+      "id": "west2785",
+      "url": "https://glottolog.org/resource/languoid/id/west2785"
+    },
+    {
+      "name": "West Chadic B",
+      "id": "west2790",
+      "url": "https://glottolog.org/resource/languoid/id/west2790"
+    },
+    {
+      "name": "West Chadic B.3",
+      "id": "west2800",
+      "url": "https://glottolog.org/resource/languoid/id/west2800"
+    },
+    {
+      "name": "South Bauchi East",
+      "id": "sout3161",
+      "url": "https://glottolog.org/resource/languoid/id/sout3161"
+    },
+    {
+      "name": "Boghomic",
+      "id": "bogh1240",
+      "url": "https://glottolog.org/resource/languoid/id/bogh1240"
+    }
+  ],
+  "iso639-3": "bux"
+}

@@ -1,0 +1,90 @@
+{
+  "pk": 4054,
+  "hid": "kba",
+  "father_pk": 2313,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kalarko [kala1416]':1,'Mirniny [mirn1245][gmr]':1)'Kalarko-Mirniny [kala1379][kba]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/a2",
+        "label": "Kalarku"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Galaagu_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kala1379",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5517764",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "3000",
+        "wordlist_or_less",
+        1959,
+        63,
+        "O'Grady, Geoffrey N. 1959"
+      ],
+      [
+        "319739",
+        "wordlist_or_less",
+        1931,
+        23,
+        "Daisy Bates 1931"
+      ],
+      [
+        "311717",
+        "wordlist_or_less",
+        1893,
+        8,
+        "Wells, Lawrence Allen 1893"
+      ],
+      [
+        "68889",
+        "wordlist_or_less",
+        1886,
+        7,
+        "Williams, William 1886"
+      ]
+    ]
+  },
+  "id": "kala1379",
+  "name": "Kalarko-Mirniny",
+  "description": null,
+  "markup_description": null,
+  "latitude": -31.7154,
+  "longitude": 118.911,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "South-West Pama-Nyungan",
+      "id": "sout3134",
+      "url": "https://glottolog.org/resource/languoid/id/sout3134"
+    },
+    {
+      "name": "Mirning",
+      "id": "mirn1243",
+      "url": "https://glottolog.org/resource/languoid/id/mirn1243"
+    }
+  ],
+  "iso639-3": "kba"
+}

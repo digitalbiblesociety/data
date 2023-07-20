@@ -1,0 +1,83 @@
+{
+  "pk": 4804,
+  "hid": "nux",
+  "father_pk": 3073,
+  "family_pk": 304,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mehek [mehe1243][nux]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10597",
+        "label": "Mehek"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6809452",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mehek_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mhk",
+        "label": "Mehek"
+      }
+    ],
+    "meds": [
+      [
+        "549316",
+        "long_grammar",
+        2016,
+        644,
+        "Adam Hatfield 2016"
+      ],
+      [
+        "59092",
+        "wordlist_or_less",
+        2002,
+        27,
+        "Samuel Paulon and Joel Kakukra and Mark Donohue and Lila San Roque 2002"
+      ],
+      [
+        "138610",
+        "wordlist_or_less",
+        1968,
+        1,
+        "Donald C. Laycock 1968"
+      ]
+    ]
+  },
+  "id": "mehe1243",
+  "name": "Mehek",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.70927,
+  "longitude": 142.498,
+  "classification": [
+    {
+      "name": "Sepik",
+      "id": "sepi1257",
+      "url": "https://glottolog.org/resource/languoid/id/sepi1257"
+    },
+    {
+      "name": "Sepik Tama",
+      "id": "sepi1256",
+      "url": "https://glottolog.org/resource/languoid/id/sepi1256"
+    },
+    {
+      "name": "Mehek-Pahi",
+      "id": "mehe1244",
+      "url": "https://glottolog.org/resource/languoid/id/mehe1244"
+    }
+  ],
+  "iso639-3": "nux"
+}

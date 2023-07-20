@@ -1,0 +1,96 @@
+{
+  "pk": 2466,
+  "hid": "cag",
+  "father_pk": 1177,
+  "family_pk": 194,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Forest Nivaclé [fore1271]':1,'River Nivaclé [rive1261]':1)'Nivaclé [niva1238][cag]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/127",
+        "label": "Nivaclé"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3182557",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nivacl%C3%A9_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/niva1238",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_chu",
+        "label": "Nivacle"
+      }
+    ],
+    "meds": [
+      [
+        "48245",
+        "long_grammar",
+        1989,
+        574,
+        "Stell, Nélida Noemi 1989"
+      ],
+      [
+        "51213",
+        "grammar",
+        1975,
+        213,
+        "Seelwische, José 1975"
+      ],
+      [
+        "135435",
+        "grammar_sketch",
+        1968,
+        159,
+        "Branislava Sušnik 1968"
+      ],
+      [
+        "56631",
+        "wordlist_or_less",
+        1940,
+        25,
+        "Max Schmidt 1940"
+      ],
+      [
+        "69176",
+        "wordlist_or_less",
+        1936,
+        5,
+        "Robert Lehmann-Nitsche 1936"
+      ]
+    ]
+  },
+  "id": "niva1238",
+  "name": "Nivaclé",
+  "description": null,
+  "markup_description": null,
+  "latitude": -22.8557,
+  "longitude": -61.7606,
+  "classification": [
+    {
+      "name": "Matacoan",
+      "id": "mata1289",
+      "url": "https://glottolog.org/resource/languoid/id/mata1289"
+    },
+    {
+      "name": "Mataguayo I",
+      "id": "mata1290",
+      "url": "https://glottolog.org/resource/languoid/id/mata1290"
+    }
+  ],
+  "iso639-3": "cag"
+}

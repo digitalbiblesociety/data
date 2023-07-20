@@ -1,0 +1,73 @@
+{
+  "pk": 7568,
+  "hid": "ert",
+  "father_pk": 5248,
+  "family_pk": 396,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Eritai [erit1239][ert]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56376",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Eritai_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "301770",
+        "wordlist_or_less",
+        1997,
+        2,
+        "Duane A. Clouse 1997"
+      ],
+      [
+        "126692",
+        "wordlist_or_less",
+        1975,
+        1,
+        "C. L. Voorhoeve 1975"
+      ]
+    ]
+  },
+  "id": "erit1239",
+  "name": "Eritai",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.71182,
+  "longitude": 138.053,
+  "classification": [
+    {
+      "name": "Lakes Plain",
+      "id": "lake1255",
+      "url": "https://glottolog.org/resource/languoid/id/lake1255"
+    },
+    {
+      "name": "Tariku",
+      "id": "tari1255",
+      "url": "https://glottolog.org/resource/languoid/id/tari1255"
+    },
+    {
+      "name": "East Tariku",
+      "id": "east2502",
+      "url": "https://glottolog.org/resource/languoid/id/east2502"
+    },
+    {
+      "name": "Eritai-Obokuitai-Biritai",
+      "id": "erit1238",
+      "url": "https://glottolog.org/resource/languoid/id/erit1238"
+    }
+  ],
+  "iso639-3": "ert"
+}

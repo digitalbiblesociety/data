@@ -1,0 +1,73 @@
+{
+  "pk": 6823,
+  "hid": "osi",
+  "father_pk": 4645,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Osing [osin1237][osi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q2701322",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Osing_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "117332",
+        "long_grammar",
+        1987,
+        510,
+        "Herusantosa, Suparman 1987"
+      ],
+      [
+        "9291",
+        "phonology_or_text",
+        1985,
+        95,
+        "Sugono, Dendy 1985"
+      ]
+    ]
+  },
+  "id": "osin1237",
+  "name": "Osing",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.25262,
+  "longitude": 114.292,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Javanesic",
+      "id": "java1253",
+      "url": "https://glottolog.org/resource/languoid/id/java1253"
+    },
+    {
+      "name": "Modern Javanese",
+      "id": "mode1251",
+      "url": "https://glottolog.org/resource/languoid/id/mode1251"
+    }
+  ],
+  "iso639-3": "osi"
+}

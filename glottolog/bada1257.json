@@ -1,0 +1,97 @@
+{
+  "pk": 10477,
+  "hid": "bfq",
+  "father_pk": 7595,
+  "family_pk": 404,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Badaga [bada1257][bfq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bdg",
+        "label": "Badaga"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/11047",
+        "label": "Badugu"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Badaga_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/bada1257",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33205",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "307857",
+        "long_grammar",
+        1991,
+        779,
+        "Pilot-Raichoor, Christiane 1991"
+      ],
+      [
+        "324031",
+        "grammar_sketch",
+        1988,
+        404,
+        "Paul Hockings 1988"
+      ],
+      [
+        "301664",
+        "phonology_or_text",
+        1849,
+        11,
+        "M. Bühler 1849"
+      ]
+    ]
+  },
+  "id": "bada1257",
+  "name": "Badaga",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.3094,
+  "longitude": 76.5974,
+  "classification": [
+    {
+      "name": "Dravidian",
+      "id": "drav1251",
+      "url": "https://glottolog.org/resource/languoid/id/drav1251"
+    },
+    {
+      "name": "South Dravidian",
+      "id": "sout3133",
+      "url": "https://glottolog.org/resource/languoid/id/sout3133"
+    },
+    {
+      "name": "South Dravidian I",
+      "id": "sout3138",
+      "url": "https://glottolog.org/resource/languoid/id/sout3138"
+    },
+    {
+      "name": "Tamil-Kannada",
+      "id": "tami1291",
+      "url": "https://glottolog.org/resource/languoid/id/tami1291"
+    },
+    {
+      "name": "Badaga-Kannada",
+      "id": "bada1263",
+      "url": "https://glottolog.org/resource/languoid/id/bada1263"
+    }
+  ],
+  "iso639-3": "bfq"
+}

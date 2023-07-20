@@ -1,0 +1,95 @@
+{
+  "pk": 19524,
+  "hid": "num",
+  "father_pk": 17530,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Niuafo''ou [niua1240][num]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q36173",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Niuafo%CA%BBou_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nif",
+        "label": "Niuafo'ou"
+      }
+    ],
+    "meds": [
+      [
+        "104176",
+        "long_grammar",
+        1988,
+        495,
+        "Tsukamoto, Akihisa 1988"
+      ]
+    ]
+  },
+  "id": "niua1240",
+  "name": "Niuafo'ou",
+  "description": null,
+  "markup_description": null,
+  "latitude": -15.6014,
+  "longitude": -175.64,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Central Pacific linkage",
+      "id": "cent2060",
+      "url": "https://glottolog.org/resource/languoid/id/cent2060"
+    },
+    {
+      "name": "Tokalau Fijian",
+      "id": "east2445",
+      "url": "https://glottolog.org/resource/languoid/id/east2445"
+    },
+    {
+      "name": "Polynesian",
+      "id": "poly1242",
+      "url": "https://glottolog.org/resource/languoid/id/poly1242"
+    },
+    {
+      "name": "Nuclear Polynesian",
+      "id": "nucl1485",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1485"
+    },
+    {
+      "name": "East Uvean-Niuafo'ou",
+      "id": "east2758",
+      "url": "https://glottolog.org/resource/languoid/id/east2758"
+    }
+  ],
+  "iso639-3": "num"
+}

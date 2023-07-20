@@ -1,0 +1,92 @@
+{
+  "pk": 7747,
+  "hid": "ani",
+  "father_pk": 5359,
+  "family_pk": 426,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Kvanxidatl [kvan1238]':1,'Munib [muni1255]':1)'Lower Andi [lowe1465]':1,('Andi of Andi [andi1258]':1,'Ashali [asha1245]':1,'Chanxo [chan1330]':1,'Gagatl [gaga1250]':1,'Gunxo [gunx1234]':1,'Rikvani [rikv1238]':1,'Zilo [zilo1238]':1)'Upper Andi [uppe1485]':1)'Andi [andi1255][ani]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 11,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/948",
+        "label": "Andi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q34849",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Andi_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/andi1255",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_anx",
+        "label": "Andi"
+      }
+    ],
+    "meds": [
+      [
+        "551891",
+        "long_grammar",
+        2010,
+        421,
+        "Salimov, X. S. 2010"
+      ],
+      [
+        "303147",
+        "long_grammar",
+        1965,
+        408,
+        "Cercvadze, Ilia 1965"
+      ],
+      [
+        "660487",
+        "grammar_sketch",
+        1906,
+        207,
+        "Dirr, Adolf 1906"
+      ]
+    ]
+  },
+  "id": "andi1255",
+  "name": "Andi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 42.8078,
+  "longitude": 46.2919,
+  "classification": [
+    {
+      "name": "Nakh-Daghestanian",
+      "id": "nakh1245",
+      "url": "https://glottolog.org/resource/languoid/id/nakh1245"
+    },
+    {
+      "name": "Daghestanian",
+      "id": "dagh1238",
+      "url": "https://glottolog.org/resource/languoid/id/dagh1238"
+    },
+    {
+      "name": "Avar-Andic-Tsezic",
+      "id": "avar1255",
+      "url": "https://glottolog.org/resource/languoid/id/avar1255"
+    },
+    {
+      "name": "Andic",
+      "id": "andi1254",
+      "url": "https://glottolog.org/resource/languoid/id/andi1254"
+    }
+  ],
+  "iso639-3": "ani"
+}

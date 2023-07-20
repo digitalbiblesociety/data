@@ -1,0 +1,56 @@
+{
+  "pk": 637,
+  "hid": "elp",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Elpaputih [elpa1240][elp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "elp",
+      "name": "Elpaputih",
+      "change_request": "2011-181",
+      "effective": "2012-02-03",
+      "reason": "non-existent",
+      "change_to": [],
+      "remedy": "Lack of information may have cause Elpaputih to be considered different from [amq] (Amahai) and [plh] (Paulohi)",
+      "comment": "Since Voeglin & Voeglin 1977 was written, there have been two major surveys done\nof the area of Seram where the Elpaputih language supposedly exists. Collins\nconducted his survey from 1977 to 1979 and published his results 1982 in Oceanic\nLinguistics. Taguchi and other SIL linguists conducted survey in the same\ngeneral area from 1985-1988 and published their results in Workpapers in\nIndonesian Languages and Cultures in 1989. Neither of the surveys report any\nlanguage by the name of Elpaputih. There are two languages on the Elpaputih Bay\nwhich may have been included in the Elpaputih language amq (Amahai), plh\n(Paulohi). These two languages are now nearly extinct. It seems probable that\nthe lack of information caused Voeglin & Voeglin to erroneously suggest that\nElpaputih was it's own language. I would suggest that with the new information\nfrom Collins and Taguchi, the Elpaputih language be removed from the Ethnologue."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12630569",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500877",
+        "wordlist_or_less",
+        2011,
+        0,
+        "ISO 639-3 Registration Authority 2011"
+      ]
+    ]
+  },
+  "id": "elpa1240",
+  "name": "Elpaputih",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.078,
+  "longitude": 128.263,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "elp"
+}

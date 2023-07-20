@@ -1,0 +1,100 @@
+{
+  "pk": 16614,
+  "hid": "gmh",
+  "father_pk": 14019,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Middle High German [midd1343][gmh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q837985",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Middle_High_German",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "324280",
+        "long_grammar",
+        1937,
+        396,
+        "Alfred Senn 1937"
+      ],
+      [
+        "59994",
+        "grammar",
+        1917,
+        222,
+        "J. Wright 1917"
+      ],
+      [
+        "325262",
+        "grammar",
+        1854,
+        175,
+        "Charles P. Otis 1854"
+      ]
+    ]
+  },
+  "id": "midd1343",
+  "name": "Middle High German",
+  "description": null,
+  "markup_description": null,
+  "latitude": 48.254,
+  "longitude": 10.599,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Germanic",
+      "id": "germ1287",
+      "url": "https://glottolog.org/resource/languoid/id/germ1287"
+    },
+    {
+      "name": "Northwest Germanic",
+      "id": "nort3152",
+      "url": "https://glottolog.org/resource/languoid/id/nort3152"
+    },
+    {
+      "name": "West Germanic",
+      "id": "west2793",
+      "url": "https://glottolog.org/resource/languoid/id/west2793"
+    },
+    {
+      "name": "High German",
+      "id": "high1289",
+      "url": "https://glottolog.org/resource/languoid/id/high1289"
+    },
+    {
+      "name": "Upper German",
+      "id": "high1286",
+      "url": "https://glottolog.org/resource/languoid/id/high1286"
+    },
+    {
+      "name": "Middle-Modern High German",
+      "id": "midd1349",
+      "url": "https://glottolog.org/resource/languoid/id/midd1349"
+    }
+  ],
+  "iso639-3": "gmh"
+}

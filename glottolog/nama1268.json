@@ -1,0 +1,83 @@
+{
+  "pk": 12466,
+  "hid": "nmk",
+  "father_pk": 9498,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Buninga {Namakura} [buni1245]':1,'Makura [maku1276]':1,'Mataso [mata1250]':1,'Tongariki Island [tong1322]':1,'Tongoa Island [tong1323]':1)'Namakura [nama1268][nmk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Namakura_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3335410",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "13129",
+        "long_grammar",
+        1991,
+        491,
+        "Sperlich, Wolfgang B. 1991"
+      ],
+      [
+        "68820",
+        "wordlist_or_less",
+        1897,
+        7,
+        "Sidney H. Ray 1897"
+      ]
+    ]
+  },
+  "id": "nama1268",
+  "name": "Namakura",
+  "description": null,
+  "markup_description": null,
+  "latitude": -16.8979,
+  "longitude": 168.569,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "North and Central Vanuatu",
+      "id": "nort3195",
+      "url": "https://glottolog.org/resource/languoid/id/nort3195"
+    },
+    {
+      "name": "Central Vanuatu",
+      "id": "cent2269",
+      "url": "https://glottolog.org/resource/languoid/id/cent2269"
+    }
+  ],
+  "iso639-3": "nmk"
+}

@@ -1,0 +1,73 @@
+{
+  "pk": 6654,
+  "hid": "kgu",
+  "father_pk": 4567,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kobol [kobo1248][kgu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q11732325",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kobol_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "95556",
+        "wordlist_or_less",
+        1980,
+        4,
+        "Z'graggen, Johannes A. 1980"
+      ],
+      [
+        "16299",
+        "wordlist_or_less",
+        1975,
+        1,
+        "Z'Graggen, Johannes A. 1975"
+      ]
+    ]
+  },
+  "id": "kobo1248",
+  "name": "Kobol",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.79614,
+  "longitude": 145.284,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Madang",
+      "id": "mada1298",
+      "url": "https://glottolog.org/resource/languoid/id/mada1298"
+    },
+    {
+      "name": "Croisilles",
+      "id": "croi1234",
+      "url": "https://glottolog.org/resource/languoid/id/croi1234"
+    },
+    {
+      "name": "Omosan",
+      "id": "omos1240",
+      "url": "https://glottolog.org/resource/languoid/id/omos1240"
+    }
+  ],
+  "iso639-3": "kgu"
+}

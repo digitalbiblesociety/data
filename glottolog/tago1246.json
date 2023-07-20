@@ -1,0 +1,76 @@
+{
+  "pk": 1748,
+  "hid": "tag",
+  "father_pk": 358,
+  "family_pk": 358,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Goy [nucl1449]':1,'Moreb [more1254]':1,'Orig [orig1235]':1,'Tumale [tuma1247]':1)'Tagoi [tago1246][tag]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1136",
+        "label": "Tagoi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36537",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tagoi_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "56938",
+        "grammar_sketch",
+        1979,
+        85,
+        "Schadeberg, Thilo C. and Elias, Philip 1979"
+      ],
+      [
+        "40993",
+        "grammar_sketch",
+        1915,
+        24,
+        "Meinhof, Carl 1915-1916"
+      ],
+      [
+        "128658",
+        "grammar_sketch",
+        1848,
+        24,
+        "Tutschek, Lorenz 1848"
+      ],
+      [
+        "133734",
+        "wordlist_or_less",
+        1829,
+        69,
+        "Rüppell, Eduard 1829"
+      ]
+    ]
+  },
+  "id": "tago1246",
+  "name": "Tagoi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.0346,
+  "longitude": 30.9306,
+  "classification": [
+    {
+      "name": "Rashad",
+      "id": "rash1249",
+      "url": "https://glottolog.org/resource/languoid/id/rash1249"
+    }
+  ],
+  "iso639-3": "tag"
+}

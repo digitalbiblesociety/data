@@ -1,0 +1,67 @@
+{
+  "pk": 2405,
+  "hid": "ran",
+  "father_pk": 1125,
+  "family_pk": 175,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Riantana [rian1263][ran]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7322169",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Riantana_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ria",
+        "label": "Riantana"
+      }
+    ],
+    "meds": [
+      [
+        "475127",
+        "grammar_sketch",
+        2015,
+        57,
+        "Choi, Yun Jung Hannah 2015"
+      ],
+      [
+        "126884",
+        "grammar_sketch",
+        1949,
+        8,
+        "Drabbe, Peter 1949"
+      ]
+    ]
+  },
+  "id": "rian1263",
+  "name": "Riantana",
+  "description": null,
+  "markup_description": null,
+  "latitude": -7.50746,
+  "longitude": 138.484,
+  "classification": [
+    {
+      "name": "Kolopom",
+      "id": "kolo1268",
+      "url": "https://glottolog.org/resource/languoid/id/kolo1268"
+    },
+    {
+      "name": "Kimaama-Riantana",
+      "id": "kima1245",
+      "url": "https://glottolog.org/resource/languoid/id/kima1245"
+    }
+  ],
+  "iso639-3": "ran"
+}

@@ -1,0 +1,71 @@
+{
+  "pk": 3115,
+  "hid": "tlc",
+  "father_pk": 1594,
+  "family_pk": 319,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Yecuatla Totonac [yecu1235][tlc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3538",
+        "label": "Misantla Totonac"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tot",
+        "label": "Totonac (Misantla)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Misantla_Totonac",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56460",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "138967",
+        "long_grammar",
+        1991,
+        511,
+        "Carolyn J. MacKay 1991"
+      ],
+      [
+        "49328",
+        "grammar",
+        1752,
+        266,
+        "Zambrano Bonilla, Joseph 1752"
+      ]
+    ]
+  },
+  "id": "yecu1235",
+  "name": "Yecuatla Totonac",
+  "description": null,
+  "markup_description": null,
+  "latitude": 20.1765,
+  "longitude": -96.8741,
+  "classification": [
+    {
+      "name": "Totonacan",
+      "id": "toto1251",
+      "url": "https://glottolog.org/resource/languoid/id/toto1251"
+    },
+    {
+      "name": "Totonac",
+      "id": "toto1252",
+      "url": "https://glottolog.org/resource/languoid/id/toto1252"
+    }
+  ],
+  "iso639-3": "tlc"
+}

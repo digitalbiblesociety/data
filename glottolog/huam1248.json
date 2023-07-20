@@ -1,0 +1,77 @@
+{
+  "pk": 7240,
+  "hid": "qvh",
+  "father_pk": 4925,
+  "family_pk": 321,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Huamalíes [huam1249]':1,'Monzón [monz1251]':1,'Northern Dos de Mayo [nort2978]':1)'Huamalíes-Dos de Mayo Huánuco Quechua [huam1248][qvh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10852",
+        "label": "Chiquian-Bolognesi and Cajatambo Quechua"
+      },
+      {
+        "url": "https://phoible.org/languages/huam1248",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q25559676",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "142827",
+        "phonology_or_text",
+        1982,
+        19,
+        "Stewart, Anne M. 1982"
+      ],
+      [
+        "582049",
+        "wordlist_or_less",
+        1972,
+        2,
+        "Torero, Alfredo 1972"
+      ]
+    ]
+  },
+  "id": "huam1248",
+  "name": "Huamalíes-Dos de Mayo Huánuco Quechua",
+  "description": null,
+  "markup_description": null,
+  "latitude": -9.15718,
+  "longitude": -76.3372,
+  "classification": [
+    {
+      "name": "Quechuan",
+      "id": "quec1387",
+      "url": "https://glottolog.org/resource/languoid/id/quec1387"
+    },
+    {
+      "name": "Quechua I",
+      "id": "quec1386",
+      "url": "https://glottolog.org/resource/languoid/id/quec1386"
+    },
+    {
+      "name": "Central Quechua I",
+      "id": "cent2141",
+      "url": "https://glottolog.org/resource/languoid/id/cent2141"
+    },
+    {
+      "name": "Huaylay",
+      "id": "huay1239",
+      "url": "https://glottolog.org/resource/languoid/id/huay1239"
+    }
+  ],
+  "iso639-3": "qvh"
+}

@@ -1,0 +1,61 @@
+{
+  "pk": 4144,
+  "hid": "ptw",
+  "father_pk": 2382,
+  "family_pk": 166,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Pentlatch [pent1242][ptw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q2069475",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Pentlatch_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "98338",
+        "grammar_sketch",
+        1890,
+        100,
+        "Franz Boas 1890"
+      ]
+    ]
+  },
+  "id": "pent1242",
+  "name": "Pentlatch",
+  "description": null,
+  "markup_description": null,
+  "latitude": 49.1936,
+  "longitude": -124.689,
+  "classification": [
+    {
+      "name": "Salishan",
+      "id": "sali1255",
+      "url": "https://glottolog.org/resource/languoid/id/sali1255"
+    },
+    {
+      "name": "Coast Salish",
+      "id": "coas1325",
+      "url": "https://glottolog.org/resource/languoid/id/coas1325"
+    },
+    {
+      "name": "Central Salish",
+      "id": "cent2129",
+      "url": "https://glottolog.org/resource/languoid/id/cent2129"
+    }
+  ],
+  "iso639-3": "ptw"
+}

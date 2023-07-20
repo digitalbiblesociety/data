@@ -1,0 +1,78 @@
+{
+  "pk": 8241,
+  "hid": "mpg",
+  "father_pk": 5782,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Monogoy [mono1279]':1)'Marba [marb1239][mpg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Marba_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56614",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "309426",
+        "phonology_or_text",
+        1970,
+        214,
+        "Franco Nicola 1970"
+      ],
+      [
+        "102268",
+        "wordlist_or_less",
+        1937,
+        2,
+        "Lukas, Johannes 1937"
+      ]
+    ]
+  },
+  "id": "marb1239",
+  "name": "Marba",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.54,
+  "longitude": 15.8,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "Masa",
+      "id": "masa1323",
+      "url": "https://glottolog.org/resource/languoid/id/masa1323"
+    },
+    {
+      "name": "North Masa",
+      "id": "nort3157",
+      "url": "https://glottolog.org/resource/languoid/id/nort3157"
+    },
+    {
+      "name": "Marba-Musey-Ham",
+      "id": "marb1244",
+      "url": "https://glottolog.org/resource/languoid/id/marb1244"
+    }
+  ],
+  "iso639-3": "mpg"
+}

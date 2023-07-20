@@ -1,0 +1,95 @@
+{
+  "pk": 6307,
+  "hid": "rwa",
+  "father_pk": 4263,
+  "family_pk": 198,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Rawo [rawo1244][rwa]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10585",
+        "label": "Rawo"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3504269",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Rawo_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_pok",
+        "label": "Poko-Rawo"
+      }
+    ],
+    "meds": [
+      [
+        "660659",
+        "phonology_or_text",
+        2021,
+        32,
+        "Laura McPherson and Matthew S. Dryer 2021"
+      ],
+      [
+        "43642",
+        "wordlist_or_less",
+        2005,
+        1,
+        "Mark Donohue and Melissa Crowther 2005"
+      ],
+      [
+        "122228",
+        "wordlist_or_less",
+        1975,
+        1,
+        "Laycock, Donald C. 1975"
+      ],
+      [
+        "108516",
+        "wordlist_or_less",
+        1973,
+        1,
+        "Laycock, Donald C. 1973"
+      ]
+    ]
+  },
+  "id": "rawo1244",
+  "name": "Rawo",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.84201,
+  "longitude": 141.603,
+  "classification": [
+    {
+      "name": "Sko",
+      "id": "skoo1245",
+      "url": "https://glottolog.org/resource/languoid/id/skoo1245"
+    },
+    {
+      "name": "Skou-Serra-Piore",
+      "id": "skou1238",
+      "url": "https://glottolog.org/resource/languoid/id/skou1238"
+    },
+    {
+      "name": "Serra Hills",
+      "id": "serr1253",
+      "url": "https://glottolog.org/resource/languoid/id/serr1253"
+    },
+    {
+      "name": "Rawo-Main Serra",
+      "id": "rawo1243",
+      "url": "https://glottolog.org/resource/languoid/id/rawo1243"
+    }
+  ],
+  "iso639-3": "rwa"
+}

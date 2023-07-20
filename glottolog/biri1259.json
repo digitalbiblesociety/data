@@ -1,0 +1,77 @@
+{
+  "pk": 7569,
+  "hid": "bqq",
+  "father_pk": 5248,
+  "family_pk": 396,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Biritai [biri1259][bqq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3965",
+        "label": "Biritai"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56382",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Biritai_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "301770",
+        "wordlist_or_less",
+        1997,
+        2,
+        "Duane A. Clouse 1997"
+      ],
+      [
+        "666687",
+        "wordlist_or_less",
+        1973,
+        22,
+        "Prost, A. 1973"
+      ]
+    ]
+  },
+  "id": "biri1259",
+  "name": "Biritai",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.92042,
+  "longitude": 137.68,
+  "classification": [
+    {
+      "name": "Lakes Plain",
+      "id": "lake1255",
+      "url": "https://glottolog.org/resource/languoid/id/lake1255"
+    },
+    {
+      "name": "Tariku",
+      "id": "tari1255",
+      "url": "https://glottolog.org/resource/languoid/id/tari1255"
+    },
+    {
+      "name": "East Tariku",
+      "id": "east2502",
+      "url": "https://glottolog.org/resource/languoid/id/east2502"
+    },
+    {
+      "name": "Eritai-Obokuitai-Biritai",
+      "id": "erit1238",
+      "url": "https://glottolog.org/resource/languoid/id/erit1238"
+    }
+  ],
+  "iso639-3": "bqq"
+}

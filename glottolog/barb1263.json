@@ -1,0 +1,101 @@
+{
+  "pk": 4120,
+  "hid": "boi",
+  "father_pk": 2350,
+  "family_pk": 160,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Barbareño [barb1263][boi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10859",
+        "label": "Barbareño"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56391",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Barbare%C3%B1o_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/barb1263",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_cba",
+        "label": "Chumash (Barbareño)"
+      }
+    ],
+    "meds": [
+      [
+        "92594",
+        "grammar_sketch",
+        2001,
+        591,
+        "Wash, Suzanne Maria 2001"
+      ],
+      [
+        "20035",
+        "grammar_sketch",
+        1996,
+        188,
+        "Tsuyoshi Ono 1996"
+      ],
+      [
+        "468538",
+        "grammar_sketch",
+        1970,
+        41,
+        "Beeler, Madison S. 1970"
+      ],
+      [
+        "313851",
+        "wordlist_or_less",
+        1888,
+        14,
+        "R. F. Heizer 1952 [1888]"
+      ],
+      [
+        "162143",
+        "wordlist_or_less",
+        1841,
+        2,
+        "John Scouler 1841"
+      ]
+    ]
+  },
+  "id": "barb1263",
+  "name": "Barbareño",
+  "description": null,
+  "markup_description": null,
+  "latitude": 34.462,
+  "longitude": -119.699,
+  "classification": [
+    {
+      "name": "Chumashan",
+      "id": "chum1262",
+      "url": "https://glottolog.org/resource/languoid/id/chum1262"
+    },
+    {
+      "name": "Southern Chumashan",
+      "id": "sout3132",
+      "url": "https://glottolog.org/resource/languoid/id/sout3132"
+    },
+    {
+      "name": "Central Chumashan",
+      "id": "cent2139",
+      "url": "https://glottolog.org/resource/languoid/id/cent2139"
+    }
+  ],
+  "iso639-3": "boi"
+}

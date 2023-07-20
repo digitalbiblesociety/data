@@ -1,0 +1,91 @@
+{
+  "pk": 13481,
+  "hid": "xac",
+  "father_pk": 10399,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kachari [kach1279][xac]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3261",
+        "label": "Kachari"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3442442",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kachari_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kac",
+        "label": "Kachari"
+      }
+    ],
+    "meds": [
+      [
+        "42228",
+        "grammar_sketch",
+        1884,
+        150,
+        "Sidney Endle 1884"
+      ],
+      [
+        "35573",
+        "wordlist_or_less",
+        1849,
+        10,
+        "William Robinson 1849"
+      ]
+    ]
+  },
+  "id": "kach1279",
+  "name": "Kachari",
+  "description": null,
+  "markup_description": null,
+  "latitude": 26.6882,
+  "longitude": 92.317,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Brahmaputran",
+      "id": "brah1260",
+      "url": "https://glottolog.org/resource/languoid/id/brah1260"
+    },
+    {
+      "name": "Bodo-Garo",
+      "id": "bodo1279",
+      "url": "https://glottolog.org/resource/languoid/id/bodo1279"
+    },
+    {
+      "name": "Boroic",
+      "id": "boro1284",
+      "url": "https://glottolog.org/resource/languoid/id/boro1284"
+    },
+    {
+      "name": "Tiwa-Boro",
+      "id": "tiwa1256",
+      "url": "https://glottolog.org/resource/languoid/id/tiwa1256"
+    },
+    {
+      "name": "Bodo-Mech-Kachari",
+      "id": "bodo1280",
+      "url": "https://glottolog.org/resource/languoid/id/bodo1280"
+    }
+  ],
+  "iso639-3": "xac"
+}

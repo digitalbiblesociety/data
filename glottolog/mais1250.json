@@ -1,0 +1,123 @@
+{
+  "pk": 19614,
+  "hid": "mbq",
+  "father_pk": 17586,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Coastal Maisin [nucl1499]':1,'Kosirava [kosi1238]':1)'Maisin [mais1250][mbq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3448149",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Maisin_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_msn",
+        "label": "Maisin"
+      }
+    ],
+    "meds": [
+      [
+        "475739",
+        "grammar",
+        2014,
+        207,
+        "Frampton, Joanna M. 2014"
+      ],
+      [
+        "124585",
+        "grammar",
+        2003,
+        74,
+        "Joann Frampton and Marisa McHenry 2003"
+      ],
+      [
+        "154625",
+        "grammar_sketch",
+        1984,
+        82,
+        "Malcolm Ross 1984"
+      ],
+      [
+        "113742",
+        "phonology_or_text",
+        1976,
+        2,
+        "Capell, Arthur 1976"
+      ],
+      [
+        "139908",
+        "wordlist_or_less",
+        1911,
+        16,
+        "W. M. Strong 1911"
+      ]
+    ]
+  },
+  "id": "mais1250",
+  "name": "Maisin",
+  "description": null,
+  "markup_description": null,
+  "latitude": -9.22853,
+  "longitude": 148.731,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Western Oceanic linkage",
+      "id": "west2818",
+      "url": "https://glottolog.org/resource/languoid/id/west2818"
+    },
+    {
+      "name": "Papuan Tip linkage",
+      "id": "papu1253",
+      "url": "https://glottolog.org/resource/languoid/id/papu1253"
+    },
+    {
+      "name": "Nuclear Papuan Tip linkage",
+      "id": "nucl1744",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1744"
+    },
+    {
+      "name": "North Papuan Mainland-D'Entrecasteaux linkage",
+      "id": "nort2848",
+      "url": "https://glottolog.org/resource/languoid/id/nort2848"
+    },
+    {
+      "name": "Are-Taupota linkage",
+      "id": "aret1241",
+      "url": "https://glottolog.org/resource/languoid/id/aret1241"
+    }
+  ],
+  "iso639-3": "mbq"
+}

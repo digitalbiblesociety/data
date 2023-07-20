@@ -1,0 +1,68 @@
+{
+  "pk": 3579,
+  "hid": "aup",
+  "father_pk": 1913,
+  "family_pk": 27,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Giribam [giri1244]':1)'Makayam [maka1315][aup]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6738863",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Makayam_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "79773",
+        "wordlist_or_less",
+        2002,
+        4,
+        "Jore, Tim and Laura Alemán 2002"
+      ],
+      [
+        "19254",
+        "wordlist_or_less",
+        1897,
+        3,
+        "James Chalmers 1897"
+      ]
+    ]
+  },
+  "id": "maka1315",
+  "name": "Makayam",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.37312,
+  "longitude": 142.706,
+  "classification": [
+    {
+      "name": "Anim",
+      "id": "anim1240",
+      "url": "https://glottolog.org/resource/languoid/id/anim1240"
+    },
+    {
+      "name": "Tirio",
+      "id": "tiri1259",
+      "url": "https://glottolog.org/resource/languoid/id/tiri1259"
+    },
+    {
+      "name": "Nuclear Tirio",
+      "id": "nucl1713",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1713"
+    }
+  ],
+  "iso639-3": "aup"
+}

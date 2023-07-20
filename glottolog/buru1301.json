@@ -1,0 +1,93 @@
+{
+  "pk": 4851,
+  "hid": "bdi",
+  "father_pk": 3108,
+  "family_pk": 316,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Abuldugu [abul1238]':1,'Mayak [maia1240]':1,'Mufwa [mufw1238]':1,'Mughaja [mugh1243]':1,'Ragreig [ragr1238]':1)'Northern Burun [buru1301][bdi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q35040",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Burun_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/buru1301",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "502311",
+        "phonology_or_text",
+        2015,
+        47,
+        "Torben Andersen 2015"
+      ],
+      [
+        "28424",
+        "phonology_or_text",
+        2000,
+        15,
+        "Andersen, Torben 2000"
+      ],
+      [
+        "39767",
+        "phonology_or_text",
+        1999,
+        30,
+        "Andersen, Torben 1999"
+      ],
+      [
+        "159016",
+        "wordlist_or_less",
+        1932,
+        3,
+        "Evans-Pritchard, Edward E. 1932"
+      ],
+      [
+        "550022",
+        "wordlist_or_less",
+        1849,
+        1,
+        "Ignaz Knoblecher 1849"
+      ]
+    ]
+  },
+  "id": "buru1301",
+  "name": "Northern Burun",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.725,
+  "longitude": 33.921,
+  "classification": [
+    {
+      "name": "Nilotic",
+      "id": "nilo1247",
+      "url": "https://glottolog.org/resource/languoid/id/nilo1247"
+    },
+    {
+      "name": "Western Nilotic",
+      "id": "west2493",
+      "url": "https://glottolog.org/resource/languoid/id/west2493"
+    },
+    {
+      "name": "Burun",
+      "id": "buru1328",
+      "url": "https://glottolog.org/resource/languoid/id/buru1328"
+    }
+  ],
+  "iso639-3": "bdi"
+}

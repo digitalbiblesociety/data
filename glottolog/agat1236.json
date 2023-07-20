@@ -1,0 +1,88 @@
+{
+  "pk": 15663,
+  "hid": "agc",
+  "father_pk": 12919,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Agatu [agat1236][agc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q34732",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Agatu_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "24448",
+        "wordlist_or_less",
+        1983,
+        3,
+        "Armstrong, Robert G. 1983"
+      ],
+      [
+        "308259",
+        "wordlist_or_less",
+        1922,
+        7,
+        "Temple, C. L. 1922"
+      ]
+    ]
+  },
+  "id": "agat1236",
+  "name": "Agatu",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.97915,
+  "longitude": 7.71639,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Idomoid",
+      "id": "idom1262",
+      "url": "https://glottolog.org/resource/languoid/id/idom1262"
+    },
+    {
+      "name": "Akweya",
+      "id": "etul1244",
+      "url": "https://glottolog.org/resource/languoid/id/etul1244"
+    },
+    {
+      "name": "Etulo-Idoma",
+      "id": "etul1246",
+      "url": "https://glottolog.org/resource/languoid/id/etul1246"
+    },
+    {
+      "name": "Nuclear Idoma",
+      "id": "nucl1732",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1732"
+    }
+  ],
+  "iso639-3": "agc"
+}

@@ -1,0 +1,102 @@
+{
+  "pk": 15101,
+  "hid": "zlm",
+  "father_pk": 12236,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Deli Malay [deli1235]':1,'Jambi Pesisir [jamb1237]':1,'Johor Malay [joho1234]':1,'Kuala Lumpur Malay [kual1254]':1,'Melaka Malay [mela1261]':1,'Melayu Ulu Kapuas [mela1260]':1,'Riau Malay [riau1234]':1,'Riau Sea Tribe Cluster Malay [riau1235]':1,'Sambas Malay [samb1326]':1,'Sarawak Malay [sara1351]':1,'Sedentary Belitung Malay [sede1248]':1,'Selangor Malay [sela1263]':1,'Siak Malay [siak1239]':1)'Central Malay [mala1479][zlm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 13,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_myk",
+        "label": "Malay (Kuala Lumpur)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12636082",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "22655",
+        "long_grammar",
+        1890,
+        308,
+        "van Wijk, Gerth 1890"
+      ],
+      [
+        "58270",
+        "grammar",
+        1852,
+        274,
+        "John Crawfurd 1852"
+      ],
+      [
+        "83656",
+        "grammar",
+        1812,
+        17,
+        "William Marsden 1964 [1812]"
+      ],
+      [
+        "589330",
+        "grammar_sketch",
+        1612,
+        147,
+        "Albert Cornelisz Ruyl 1612"
+      ]
+    ]
+  },
+  "id": "mala1479",
+  "name": "Central Malay",
+  "description": null,
+  "markup_description": null,
+  "latitude": 1.85856,
+  "longitude": 103,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Malayo-Sumbawan",
+      "id": "mala1536",
+      "url": "https://glottolog.org/resource/languoid/id/mala1536"
+    },
+    {
+      "name": "North and East Malayo-Sumbawan",
+      "id": "nort3170",
+      "url": "https://glottolog.org/resource/languoid/id/nort3170"
+    },
+    {
+      "name": "Malayic",
+      "id": "mala1538",
+      "url": "https://glottolog.org/resource/languoid/id/mala1538"
+    },
+    {
+      "name": "Nuclear Malayic",
+      "id": "nucl1806",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1806"
+    },
+    {
+      "name": "Greater Riau-Johoric",
+      "id": "sing1270",
+      "url": "https://glottolog.org/resource/languoid/id/sing1270"
+    }
+  ],
+  "iso639-3": "zlm"
+}

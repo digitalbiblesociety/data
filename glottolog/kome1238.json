@@ -1,0 +1,84 @@
+{
+  "pk": 6883,
+  "hid": "kge",
+  "father_pk": 4672,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Komering [kome1238][kge]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kag",
+        "label": "Komering"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Komering_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q49224",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "325515",
+        "grammar_sketch",
+        1986,
+        174,
+        "Gani, Zainal Abidin and Yan, Yazid and Natidjah Sj. 1986"
+      ],
+      [
+        "311615",
+        "grammar_sketch",
+        1984,
+        173,
+        "P. D. Dunggio 1984"
+      ],
+      [
+        "552037",
+        "grammar_sketch",
+        1937,
+        102,
+        "Richard Schröter 1937"
+      ]
+    ]
+  },
+  "id": "kome1238",
+  "name": "Komering",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.79215,
+  "longitude": 105.107,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Lampungic",
+      "id": "lamp1241",
+      "url": "https://glottolog.org/resource/languoid/id/lamp1241"
+    },
+    {
+      "name": "Pesisir",
+      "id": "pesi1234",
+      "url": "https://glottolog.org/resource/languoid/id/pesi1234"
+    }
+  ],
+  "iso639-3": "kge"
+}

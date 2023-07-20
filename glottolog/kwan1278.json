@@ -1,0 +1,86 @@
+{
+  "pk": 4806,
+  "hid": "kwj",
+  "father_pk": 3075,
+  "family_pk": 304,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Apos [apos1239]':1,'Bongos [bong1290]':1,'Tau [tauu1239]':1,'Wasambu [wasa1246]':1)'Kwanga [kwan1278][kwj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10604",
+        "label": "Kwanga"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kwanga_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3438383",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "664933",
+        "phonology_or_text",
+        1995,
+        99,
+        "Manabe, Kazue 1995"
+      ],
+      [
+        "160548",
+        "phonology_or_text",
+        1981,
+        40,
+        "Manabe, Takashi 1981"
+      ],
+      [
+        "30504",
+        "wordlist_or_less",
+        1975,
+        1,
+        "Donald C. Laycock and John A. Z'Graggen 1975"
+      ],
+      [
+        "108516",
+        "wordlist_or_less",
+        1973,
+        1,
+        "Laycock, Donald C. 1973"
+      ]
+    ]
+  },
+  "id": "kwan1278",
+  "name": "Kwanga",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.74263,
+  "longitude": 142.711,
+  "classification": [
+    {
+      "name": "Sepik",
+      "id": "sepi1257",
+      "url": "https://glottolog.org/resource/languoid/id/sepi1257"
+    },
+    {
+      "name": "Nukuma",
+      "id": "nuku1256",
+      "url": "https://glottolog.org/resource/languoid/id/nuku1256"
+    },
+    {
+      "name": "Kwanga-Mende",
+      "id": "kwan1286",
+      "url": "https://glottolog.org/resource/languoid/id/kwan1286"
+    }
+  ],
+  "iso639-3": "kwj"
+}

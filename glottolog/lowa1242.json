@@ -1,0 +1,102 @@
+{
+  "pk": 20482,
+  "hid": "loy",
+  "father_pk": 18492,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Baragaunle [bara1356]':1,'Upper Mustang [uppe1408]':1)'Lowa [lowa1242][loy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12952744",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/lowa1242",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_brl",
+        "label": "Baragaunle"
+      }
+    ],
+    "meds": [
+      [
+        "76576",
+        "grammar",
+        1995,
+        230,
+        "Kretschmar, Monika 1995"
+      ],
+      [
+        "556039",
+        "grammar_sketch",
+        1977,
+        118,
+        "Kitamura, Hajime 1977"
+      ]
+    ]
+  },
+  "id": "lowa1242",
+  "name": "Lowa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 29.0324,
+  "longitude": 83.8959,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "Bodish",
+      "id": "bodi1257",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1257"
+    },
+    {
+      "name": "Early Old Tibetan",
+      "id": "oldm1245",
+      "url": "https://glottolog.org/resource/languoid/id/oldm1245"
+    },
+    {
+      "name": "Middle Old Tibetan",
+      "id": "tibe1276",
+      "url": "https://glottolog.org/resource/languoid/id/tibe1276"
+    },
+    {
+      "name": "Late Old Tibetan",
+      "id": "late1253",
+      "url": "https://glottolog.org/resource/languoid/id/late1253"
+    },
+    {
+      "name": "Central Tibetan",
+      "id": "cent2346",
+      "url": "https://glottolog.org/resource/languoid/id/cent2346"
+    },
+    {
+      "name": "South-Western Tibetic",
+      "id": "sout3216",
+      "url": "https://glottolog.org/resource/languoid/id/sout3216"
+    },
+    {
+      "name": "Mustangic",
+      "id": "must1234",
+      "url": "https://glottolog.org/resource/languoid/id/must1234"
+    }
+  ],
+  "iso639-3": "loy"
+}

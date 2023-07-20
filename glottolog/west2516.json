@@ -1,0 +1,109 @@
+{
+  "pk": 19526,
+  "hid": "uve",
+  "father_pk": 17531,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'West Uvean [west2516][uve]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/11042",
+        "label": "West Uvean"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/West_Uvean_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36837",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "314998",
+        "long_grammar",
+        2013,
+        687,
+        "Djoupa, Alexandre 2013"
+      ],
+      [
+        "555705",
+        "phonology_or_text",
+        1987,
+        271,
+        "Hollyman, Kenneth James 1987"
+      ],
+      [
+        "579977",
+        "phonology_or_text",
+        1900,
+        185,
+        "Emprin, R P. 1957 [1900]"
+      ]
+    ]
+  },
+  "id": "west2516",
+  "name": "West Uvean",
+  "description": null,
+  "markup_description": null,
+  "latitude": -20.4145,
+  "longitude": 166.589,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Central Pacific linkage",
+      "id": "cent2060",
+      "url": "https://glottolog.org/resource/languoid/id/cent2060"
+    },
+    {
+      "name": "Tokalau Fijian",
+      "id": "east2445",
+      "url": "https://glottolog.org/resource/languoid/id/east2445"
+    },
+    {
+      "name": "Polynesian",
+      "id": "poly1242",
+      "url": "https://glottolog.org/resource/languoid/id/poly1242"
+    },
+    {
+      "name": "Nuclear Polynesian",
+      "id": "nucl1485",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1485"
+    },
+    {
+      "name": "Vanuatu-Loyalty Outliers",
+      "id": "vanu1245",
+      "url": "https://glottolog.org/resource/languoid/id/vanu1245"
+    }
+  ],
+  "iso639-3": "uve"
+}

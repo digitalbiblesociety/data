@@ -1,0 +1,103 @@
+{
+  "pk": 15824,
+  "hid": "anv",
+  "father_pk": 13009,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bajwo [bajw1238]':1,'Basho [bash1265]':1,'Bitieku [biti1245]':1,'Takamanda [taka1264]':1)'Denya [deny1238][anv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/881",
+        "label": "Denya"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Denya_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/deny1238",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35187",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "108129",
+        "grammar_sketch",
+        1998,
+        140,
+        "Seguin, Lawrence 1998"
+      ],
+      [
+        "64924",
+        "grammar_sketch",
+        1989,
+        0,
+        "Longacre, Robert E. 1989"
+      ],
+      [
+        "45527",
+        "grammar_sketch",
+        1981,
+        0,
+        "Abangma, Samson Negbo 1981"
+      ]
+    ]
+  },
+  "id": "deny1238",
+  "name": "Denya",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.97237,
+  "longitude": 9.39989,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Mamfe",
+      "id": "mamf1238",
+      "url": "https://glottolog.org/resource/languoid/id/mamf1238"
+    },
+    {
+      "name": "Kendem-Denya",
+      "id": "kend1255",
+      "url": "https://glottolog.org/resource/languoid/id/kend1255"
+    }
+  ],
+  "iso639-3": "anv"
+}

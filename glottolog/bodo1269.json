@@ -1,0 +1,105 @@
+{
+  "pk": 13480,
+  "hid": "brx",
+  "father_pk": 10399,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Chote [chot1240]':1,'Mech [mech1238]':1)'Bodo-Mech [bodo1269][brx]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bod",
+        "label": "Bodo"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Boro_language_(India)",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/bodo1269",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33223",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "8408",
+        "long_grammar",
+        1977,
+        404,
+        "Pramod Chandra Bhattacharya 1977"
+      ],
+      [
+        "554201",
+        "grammar",
+        1965,
+        0,
+        "Pramod Chandra Bhattacharya 1965"
+      ],
+      [
+        "42268",
+        "grammar_sketch",
+        1847,
+        56,
+        "Hodgson, Brian H. 1847"
+      ],
+      [
+        "78337",
+        "wordlist_or_less",
+        1839,
+        9,
+        "A. Campbell 1839"
+      ]
+    ]
+  },
+  "id": "bodo1269",
+  "name": "Bodo-Mech",
+  "description": null,
+  "markup_description": null,
+  "latitude": 26.1,
+  "longitude": 92,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Brahmaputran",
+      "id": "brah1260",
+      "url": "https://glottolog.org/resource/languoid/id/brah1260"
+    },
+    {
+      "name": "Bodo-Garo",
+      "id": "bodo1279",
+      "url": "https://glottolog.org/resource/languoid/id/bodo1279"
+    },
+    {
+      "name": "Boroic",
+      "id": "boro1284",
+      "url": "https://glottolog.org/resource/languoid/id/boro1284"
+    },
+    {
+      "name": "Tiwa-Boro",
+      "id": "tiwa1256",
+      "url": "https://glottolog.org/resource/languoid/id/tiwa1256"
+    },
+    {
+      "name": "Bodo-Mech-Kachari",
+      "id": "bodo1280",
+      "url": "https://glottolog.org/resource/languoid/id/bodo1280"
+    }
+  ],
+  "iso639-3": "brx"
+}

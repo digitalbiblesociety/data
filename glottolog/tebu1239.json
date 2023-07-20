@@ -1,0 +1,72 @@
+{
+  "pk": 3843,
+  "hid": "dtu",
+  "father_pk": 2152,
+  "family_pk": 117,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tebul Ure Dogon [tebu1239][dtu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/8735",
+        "label": "Tebul Ure"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7692089",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tebul_Dogon",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "302181",
+        "long_grammar",
+        2014,
+        353,
+        "Heath, Jeffrey 2014"
+      ],
+      [
+        "17989",
+        "wordlist_or_less",
+        2005,
+        30,
+        "Blench, Roger and Douyon, Denis 2005"
+      ]
+    ]
+  },
+  "id": "tebu1239",
+  "name": "Tebul Ure Dogon",
+  "description": null,
+  "markup_description": null,
+  "latitude": 14.66,
+  "longitude": -3.1,
+  "classification": [
+    {
+      "name": "Dogon",
+      "id": "dogo1299",
+      "url": "https://glottolog.org/resource/languoid/id/dogo1299"
+    },
+    {
+      "name": "North Plateau Dogon",
+      "id": "nort2824",
+      "url": "https://glottolog.org/resource/languoid/id/nort2824"
+    },
+    {
+      "name": "Yanda-Bondum-Tebul",
+      "id": "yand1255",
+      "url": "https://glottolog.org/resource/languoid/id/yand1255"
+    }
+  ],
+  "iso639-3": "dtu"
+}

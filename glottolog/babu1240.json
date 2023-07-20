@@ -1,0 +1,75 @@
+{
+  "pk": 4687,
+  "hid": "bzg",
+  "father_pk": 2972,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Favorlang [favo1235]':1,'Poavosa [poav1237]':1,'Taokas [taok1237]':1)'Babuza [babu1240][bzg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q716615",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Babuza_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "87190",
+        "grammar_sketch",
+        2005,
+        20,
+        "Li, Paul Jen-kuei 2005"
+      ],
+      [
+        "44699",
+        "grammar_sketch",
+        2003,
+        13,
+        "Li, Paul Jen-kuei 2003"
+      ],
+      [
+        "53354",
+        "phonology_or_text",
+        1650,
+        397,
+        "W. H. Medhurst 1840 [1650]"
+      ]
+    ]
+  },
+  "id": "babu1240",
+  "name": "Babuza",
+  "description": null,
+  "markup_description": null,
+  "latitude": 24.0017,
+  "longitude": 120.585,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Western Plains Austronesian",
+      "id": "west2572",
+      "url": "https://glottolog.org/resource/languoid/id/west2572"
+    },
+    {
+      "name": "Central Western Plains",
+      "id": "cent2106",
+      "url": "https://glottolog.org/resource/languoid/id/cent2106"
+    }
+  ],
+  "iso639-3": "bzg"
+}

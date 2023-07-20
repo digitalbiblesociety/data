@@ -1,0 +1,93 @@
+{
+  "pk": 10107,
+  "hid": "nxq",
+  "father_pk": 7267,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Lapao [lapa1246]':1,'Lichiang [lich1241]':1,'Lutien [luti1241]':1)'Naxi [naxi1245][nxq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q2478711",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Naxi_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/naxi1245",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nax",
+        "label": "Naxi"
+      }
+    ],
+    "meds": [
+      [
+        "37253",
+        "grammar_sketch",
+        1985,
+        175,
+        "Hè, Jírén and Jiāng, Zhúyí 1985"
+      ],
+      [
+        "90432",
+        "grammar_sketch",
+        1913,
+        146,
+        "Bacot, Jacques 1913"
+      ],
+      [
+        "72757",
+        "wordlist_or_less",
+        1888,
+        11,
+        "Terrien de Lacouperie 1888"
+      ]
+    ]
+  },
+  "id": "naxi1245",
+  "name": "Naxi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.5,
+  "longitude": 100,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Burmo-Qiangic",
+      "id": "burm1265",
+      "url": "https://glottolog.org/resource/languoid/id/burm1265"
+    },
+    {
+      "name": "Na-Qiangic",
+      "id": "naqi1236",
+      "url": "https://glottolog.org/resource/languoid/id/naqi1236"
+    },
+    {
+      "name": "Naic",
+      "id": "naic1235",
+      "url": "https://glottolog.org/resource/languoid/id/naic1235"
+    },
+    {
+      "name": "Naish",
+      "id": "nais1236",
+      "url": "https://glottolog.org/resource/languoid/id/nais1236"
+    }
+  ],
+  "iso639-3": "nxq"
+}

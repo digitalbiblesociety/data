@@ -1,0 +1,96 @@
+{
+  "pk": 9891,
+  "hid": "bov",
+  "father_pk": 7150,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tuwuli [tuwu1238][bov]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5467",
+        "label": "Tuwuli"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bowili_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36974",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "40028",
+        "long_grammar",
+        2005,
+        553,
+        "Matthew W. Harley 2005"
+      ],
+      [
+        "103718",
+        "grammar_sketch",
+        1922,
+        8,
+        "Westermann, Diedrich 1922"
+      ],
+      [
+        "43107",
+        "wordlist_or_less",
+        1919,
+        15,
+        "Westermann, Diedrich 1919/22"
+      ],
+      [
+        "313367",
+        "wordlist_or_less",
+        1892,
+        3,
+        "Nicolas Clerk 1892"
+      ]
+    ]
+  },
+  "id": "tuwu1238",
+  "name": "Tuwuli",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.31095,
+  "longitude": 0.38008,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Kwa Volta-Congo",
+      "id": "kwav1236",
+      "url": "https://glottolog.org/resource/languoid/id/kwav1236"
+    },
+    {
+      "name": "Ka-Togo",
+      "id": "kato1245",
+      "url": "https://glottolog.org/resource/languoid/id/kato1245"
+    },
+    {
+      "name": "Kposo-Ahlo-Bowili",
+      "id": "kpos1239",
+      "url": "https://glottolog.org/resource/languoid/id/kpos1239"
+    }
+  ],
+  "iso639-3": "bov"
+}

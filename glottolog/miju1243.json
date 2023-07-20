@@ -1,0 +1,89 @@
+{
+  "pk": 3189,
+  "hid": "mxj",
+  "father_pk": 1657,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kman [miju1243][mxj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5639",
+        "label": "Miju-Mishmi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56332",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Miju_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/miju1243",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mij",
+        "label": "Miju"
+      }
+    ],
+    "meds": [
+      [
+        "100407",
+        "long_grammar",
+        2002,
+        324,
+        "Li, Daqin 2002"
+      ],
+      [
+        "667333",
+        "grammar",
+        1985,
+        0,
+        "Sastry, G. Devi Prasada 1985"
+      ],
+      [
+        "101028",
+        "grammar_sketch",
+        1977,
+        108,
+        "Das Gupta, K. 1977"
+      ],
+      [
+        "77960",
+        "grammar_sketch",
+        1855,
+        9,
+        "William Robinson 1855"
+      ]
+    ]
+  },
+  "id": "miju1243",
+  "name": "Kman",
+  "description": null,
+  "markup_description": null,
+  "latitude": 28.4732,
+  "longitude": 97.0444,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kman-Meyor",
+      "id": "gema1234",
+      "url": "https://glottolog.org/resource/languoid/id/gema1234"
+    }
+  ],
+  "iso639-3": "mxj"
+}

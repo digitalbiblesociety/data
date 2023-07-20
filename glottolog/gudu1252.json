@@ -1,0 +1,97 @@
+{
+  "pk": 16935,
+  "hid": "gdf",
+  "father_pk": 14352,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Chena [chen1265]':1,'Chikide [chik1255]':1,'Gava [gava1240]':1)'Guduf-Gava [gudu1252][gdf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3441350",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Guduf-Gava_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_gdf",
+        "label": "Guduf"
+      }
+    ],
+    "meds": [
+      [
+        "163294",
+        "phonology_or_text",
+        1966,
+        31,
+        "Scheytt, W. 1966/1967"
+      ],
+      [
+        "138380",
+        "wordlist_or_less",
+        1964,
+        3,
+        "Büchner, H. 1964"
+      ]
+    ]
+  },
+  "id": "gudu1252",
+  "name": "Guduf-Gava",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.1057,
+  "longitude": 13.7893,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "Biu-Mandara",
+      "id": "bium1280",
+      "url": "https://glottolog.org/resource/languoid/id/bium1280"
+    },
+    {
+      "name": "North Biu-Mandara",
+      "id": "nort3156",
+      "url": "https://glottolog.org/resource/languoid/id/nort3156"
+    },
+    {
+      "name": "Margi-Mandara-Mofu",
+      "id": "marg1267",
+      "url": "https://glottolog.org/resource/languoid/id/marg1267"
+    },
+    {
+      "name": "Mandaraic",
+      "id": "mand1472",
+      "url": "https://glottolog.org/resource/languoid/id/mand1472"
+    },
+    {
+      "name": "Dghwedeic",
+      "id": "dghw1240",
+      "url": "https://glottolog.org/resource/languoid/id/dghw1240"
+    },
+    {
+      "name": "Gudufic",
+      "id": "gudu1253",
+      "url": "https://glottolog.org/resource/languoid/id/gudu1253"
+    }
+  ],
+  "iso639-3": "gdf"
+}

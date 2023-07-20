@@ -1,0 +1,84 @@
+{
+  "pk": 15110,
+  "hid": "ccm",
+  "father_pk": 12238,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Malaccan Creole Malay [mala1482][ccm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12636092",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "306660",
+        "phonology_or_text",
+        2006,
+        148,
+        "Mohamed, Noriah 2006"
+      ],
+      [
+        "300427",
+        "wordlist_or_less",
+        2005,
+        40,
+        "Mohamed, Noriah and Karim, Meriam Abdullah 2005"
+      ]
+    ]
+  },
+  "id": "mala1482",
+  "name": "Malaccan Creole Malay",
+  "description": null,
+  "markup_description": null,
+  "latitude": 2.20265,
+  "longitude": 102.240488,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Malayo-Sumbawan",
+      "id": "mala1536",
+      "url": "https://glottolog.org/resource/languoid/id/mala1536"
+    },
+    {
+      "name": "North and East Malayo-Sumbawan",
+      "id": "nort3170",
+      "url": "https://glottolog.org/resource/languoid/id/nort3170"
+    },
+    {
+      "name": "Malayic",
+      "id": "mala1538",
+      "url": "https://glottolog.org/resource/languoid/id/mala1538"
+    },
+    {
+      "name": "Nuclear Malayic",
+      "id": "nucl1806",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1806"
+    },
+    {
+      "name": "Vehicular Malay",
+      "id": "vehi1234",
+      "url": "https://glottolog.org/resource/languoid/id/vehi1234"
+    }
+  ],
+  "iso639-3": "ccm"
+}

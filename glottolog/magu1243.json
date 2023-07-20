@@ -1,0 +1,91 @@
+{
+  "pk": 6748,
+  "hid": "mdh",
+  "father_pk": 4603,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Biwangan [biwa1242]':1,'Ilud [ilud1237]':1,'Laya [laya1254]':1,'Sibugay [sibu1252]':1,'Tagakawanan [taga1271]':1)'Maguindanao [magu1243][mdh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q33717",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Maguindanao_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mgn",
+        "label": "Magindanao"
+      }
+    ],
+    "meds": [
+      [
+        "162721",
+        "grammar_sketch",
+        1906,
+        80,
+        "Jacinto Juanmarti 1906"
+      ],
+      [
+        "300803",
+        "grammar_sketch",
+        1903,
+        77,
+        "R. S. Porter 1903"
+      ],
+      [
+        "307002",
+        "phonology_or_text",
+        1892,
+        515,
+        "Jacinto Juanmarti 1892"
+      ],
+      [
+        "127528",
+        "wordlist_or_less",
+        1780,
+        210,
+        "T. Forrest 1780"
+      ]
+    ]
+  },
+  "id": "magu1243",
+  "name": "Maguindanao",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.9453,
+  "longitude": 124.509,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Greater Central Philippine",
+      "id": "grea1284",
+      "url": "https://glottolog.org/resource/languoid/id/grea1284"
+    },
+    {
+      "name": "Danaw",
+      "id": "dana1253",
+      "url": "https://glottolog.org/resource/languoid/id/dana1253"
+    }
+  ],
+  "iso639-3": "mdh"
+}

@@ -1,0 +1,93 @@
+{
+  "pk": 18361,
+  "hid": "enu",
+  "father_pk": 15942,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Enu [enuu1235][enu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q5380858",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Enu_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "326240",
+        "long_grammar",
+        2009,
+        419,
+        "Dai, Qingxia 2009"
+      ],
+      [
+        "80574",
+        "wordlist_or_less",
+        1987,
+        3,
+        "David Bradley 1987"
+      ]
+    ]
+  },
+  "id": "enuu1235",
+  "name": "Enu",
+  "description": null,
+  "markup_description": null,
+  "latitude": 22.95,
+  "longitude": 101.85,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Burmo-Qiangic",
+      "id": "burm1265",
+      "url": "https://glottolog.org/resource/languoid/id/burm1265"
+    },
+    {
+      "name": "Lolo-Burmese",
+      "id": "lolo1265",
+      "url": "https://glottolog.org/resource/languoid/id/lolo1265"
+    },
+    {
+      "name": "Loloish",
+      "id": "lolo1267",
+      "url": "https://glottolog.org/resource/languoid/id/lolo1267"
+    },
+    {
+      "name": "Hani-Jino",
+      "id": "hani1249",
+      "url": "https://glottolog.org/resource/languoid/id/hani1249"
+    },
+    {
+      "name": "Bisoid-Hanic",
+      "id": "biso1244",
+      "url": "https://glottolog.org/resource/languoid/id/biso1244"
+    },
+    {
+      "name": "Hanic",
+      "id": "hani1250",
+      "url": "https://glottolog.org/resource/languoid/id/hani1250"
+    },
+    {
+      "name": "Bi-Ka",
+      "id": "bika1252",
+      "url": "https://glottolog.org/resource/languoid/id/bika1252"
+    }
+  ],
+  "iso639-3": "enu"
+}

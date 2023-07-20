@@ -1,0 +1,102 @@
+{
+  "pk": 15095,
+  "hid": "vkt",
+  "father_pk": 12236,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ancalong Kutai [anca1243]':1,'Northern Kutai [nort2827]':1,'Tenggarong Kutai [teng1268]':1)'Tenggarong Kutai Malay [teng1267][vkt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kuy",
+        "label": "Kutai"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12683226",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "123570",
+        "grammar_sketch",
+        1984,
+        140,
+        "Suryadikara, Fudiat and Sjahrial SAR, Ibrahim and M.P. Lambut 1984"
+      ],
+      [
+        "159695",
+        "grammar_sketch",
+        1979,
+        84,
+        "Suryadikara, Fudiat 1979"
+      ],
+      [
+        "585930",
+        "phonology_or_text",
+        1964,
+        58,
+        "Awang, Sudjai Hairul 1964"
+      ],
+      [
+        "145357",
+        "wordlist_or_less",
+        1914,
+        12,
+        "H. Witkamp 1914"
+      ]
+    ]
+  },
+  "id": "teng1267",
+  "name": "Tenggarong Kutai Malay",
+  "description": null,
+  "markup_description": null,
+  "latitude": 0.71803,
+  "longitude": 117.645,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Malayo-Sumbawan",
+      "id": "mala1536",
+      "url": "https://glottolog.org/resource/languoid/id/mala1536"
+    },
+    {
+      "name": "North and East Malayo-Sumbawan",
+      "id": "nort3170",
+      "url": "https://glottolog.org/resource/languoid/id/nort3170"
+    },
+    {
+      "name": "Malayic",
+      "id": "mala1538",
+      "url": "https://glottolog.org/resource/languoid/id/mala1538"
+    },
+    {
+      "name": "Nuclear Malayic",
+      "id": "nucl1806",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1806"
+    },
+    {
+      "name": "Greater Riau-Johoric",
+      "id": "sing1270",
+      "url": "https://glottolog.org/resource/languoid/id/sing1270"
+    }
+  ],
+  "iso639-3": "vkt"
+}

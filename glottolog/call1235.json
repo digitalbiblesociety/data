@@ -1,0 +1,85 @@
+{
+  "pk": 2210,
+  "hid": "caw",
+  "father_pk": 1019,
+  "family_pk": 135,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Speech Register",
+  "newick": "'Callawalla [call1235][caw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2906",
+        "label": "Kallawaya"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q266417",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kallawaya_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/call1235",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "153646",
+        "grammar_sketch",
+        1997,
+        21,
+        "Pieter Muysken 1997"
+      ],
+      [
+        "87708",
+        "phonology_or_text",
+        1989,
+        196,
+        "Louis Girault 1989"
+      ],
+      [
+        "85113",
+        "phonology_or_text",
+        1955,
+        4,
+        "Oblitas Poblete, Enrique 1955"
+      ],
+      [
+        "159227",
+        "wordlist_or_less",
+        1951,
+        4,
+        "Soria Lens, Luis 1951"
+      ]
+    ]
+  },
+  "id": "call1235",
+  "name": "Callawalla",
+  "description": null,
+  "markup_description": null,
+  "latitude": -15.88451,
+  "longitude": -68.10176,
+  "classification": [
+    {
+      "name": "Speech Register",
+      "id": "spee1234",
+      "url": "https://glottolog.org/resource/languoid/id/spee1234"
+    },
+    {
+      "name": "Quechua-Puquina",
+      "id": "quec1390",
+      "url": "https://glottolog.org/resource/languoid/id/quec1390"
+    }
+  ],
+  "iso639-3": "caw"
+}

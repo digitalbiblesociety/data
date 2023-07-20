@@ -1,0 +1,88 @@
+{
+  "pk": 7414,
+  "hid": "kac",
+  "father_pk": 5044,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Enkun [enku1238]':1,'Hkaku [hkak1238]':1,'Jilí [dzil1238]':1,'Kauri [kaur1266]':1,'Shidan [shid1239]':1)'Southern Jinghpaw [kach1280][kac]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_jng",
+        "label": "Jingpho"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Jingpho_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kach1280",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33332",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "305737",
+        "long_grammar",
+        1992,
+        521,
+        "Dai, Qingxia and Xu, Xijian 1992"
+      ],
+      [
+        "141237",
+        "grammar",
+        1896,
+        241,
+        "Hanson, Ola 1896"
+      ],
+      [
+        "115954",
+        "wordlist_or_less",
+        1837,
+        1,
+        "Brown, Nathan 1837"
+      ]
+    ]
+  },
+  "id": "kach1280",
+  "name": "Southern Jinghpaw",
+  "description": null,
+  "markup_description": null,
+  "latitude": 25.4634,
+  "longitude": 97.3278,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Brahmaputran",
+      "id": "brah1260",
+      "url": "https://glottolog.org/resource/languoid/id/brah1260"
+    },
+    {
+      "name": "Jingpho-Luish",
+      "id": "jing1259",
+      "url": "https://glottolog.org/resource/languoid/id/jing1259"
+    },
+    {
+      "name": "Jingpho",
+      "id": "jing1260",
+      "url": "https://glottolog.org/resource/languoid/id/jing1260"
+    }
+  ],
+  "iso639-3": "kac"
+}

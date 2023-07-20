@@ -1,0 +1,91 @@
+{
+  "pk": 7696,
+  "hid": "bdq",
+  "father_pk": 5329,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Alakong [alak1252]':1,'Bahnar Bonom [bahn1263]':1,'Golar {Austroasiatic} [gola1254]':1,'Jolong [jolo1240]':1,'Kontum [kont1244]':1,'Krem [krem1240]':1,'Tolo [tolo1253]':1)'Bahnar [bahn1262][bdq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bpb",
+        "label": "Bahnar"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bahnar_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q32924",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "127562",
+        "grammar_sketch",
+        1965,
+        61,
+        "Banker, John E. 1965"
+      ],
+      [
+        "141097",
+        "phonology_or_text",
+        1959,
+        991,
+        "Guilleminet, Paul and Alberty, R. P. Jules 1959, 1963"
+      ],
+      [
+        "120342",
+        "phonology_or_text",
+        1889,
+        377,
+        "Dourisboure, Le Pére P.-X. 1889"
+      ],
+      [
+        "148642",
+        "wordlist_or_less",
+        1873,
+        66,
+        "Garnier, Francis 1873"
+      ]
+    ]
+  },
+  "id": "bahn1262",
+  "name": "Bahnar",
+  "description": null,
+  "markup_description": null,
+  "latitude": 14.0476,
+  "longitude": 108.471,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Bahnaric",
+      "id": "bahn1264",
+      "url": "https://glottolog.org/resource/languoid/id/bahn1264"
+    },
+    {
+      "name": "West Bahnaric",
+      "id": "west2399",
+      "url": "https://glottolog.org/resource/languoid/id/west2399"
+    },
+    {
+      "name": "Tampuon-Bahnar",
+      "id": "tamp1256",
+      "url": "https://glottolog.org/resource/languoid/id/tamp1256"
+    }
+  ],
+  "iso639-3": "bdq"
+}

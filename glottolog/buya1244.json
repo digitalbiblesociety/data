@@ -1,0 +1,74 @@
+{
+  "pk": 5117,
+  "hid": "byu",
+  "father_pk": 3305,
+  "family_pk": 356,
+  "level": "family",
+  "bookkeeping": false,
+  "category": "Family",
+  "newick": "(('E''ma Buyang [emab1235][yzg]-l-':1,'En [ennn1243][enc]-l-':1,'Langnian Buyang [lang1316][yln]-l-':1)'Northern Buyang [nort2744]':1,'Yerong-Southern Buyang [yero1238][yrn]-l-':1)'Buyang [buya1244][byu]':1",
+  "child_family_count": 1,
+  "child_language_count": 4,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "byu",
+      "name": "Buyang",
+      "change_request": "2007-012",
+      "effective": "2008-01-14",
+      "reason": "split",
+      "change_to": [
+        "yzg",
+        "yln",
+        "yha"
+      ],
+      "remedy": "Split into three languages: E'ma Buyang [yzg]; Langnian Buyang [yln]; Baha Buyang [yha]",
+      "comment": "These three varieties of Buyang are not mutually intelligible, and are\nsignificantly different in lexicon,\n\nLangnian - E'ma 78% similarity, yet not intelligible despite frequent contact.\nLangnian - Baha 50% lexical similarity\n\nE'ma - Baha 48% lexical similarity"
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q1109927",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Buyang_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500474",
+        "wordlist_or_less",
+        2007,
+        0,
+        "ISO 639-3 Registration Authority 2007"
+      ]
+    ]
+  },
+  "id": "buya1244",
+  "name": "Buyang",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Tai-Kadai",
+      "id": "taik1256",
+      "url": "https://glottolog.org/resource/languoid/id/taik1256"
+    },
+    {
+      "name": "Kadaic",
+      "id": "kada1291",
+      "url": "https://glottolog.org/resource/languoid/id/kada1291"
+    },
+    {
+      "name": "Eastern Kra",
+      "id": "east2365",
+      "url": "https://glottolog.org/resource/languoid/id/east2365"
+    }
+  ],
+  "iso639-3": "byu"
+}

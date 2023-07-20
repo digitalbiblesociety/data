@@ -1,0 +1,123 @@
+{
+  "pk": 7067,
+  "hid": "shk",
+  "father_pk": 4849,
+  "family_pk": 316,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Gar Shilluk [gars1234]':1,'Kwak Shilluk [kwak1271]':1,'Mwomo Shilluk [mwom1234]':1)'Shilluk [shil1265][shk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_shl",
+        "label": "Shilluk"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Shilluk_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/shil1265",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36486",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "43772",
+        "long_grammar",
+        1916,
+        334,
+        "Zorn, B.M. 1916"
+      ],
+      [
+        "109080",
+        "grammar",
+        1912,
+        0,
+        "Westermann, Diedrich 1912"
+      ],
+      [
+        "129095",
+        "grammar_sketch",
+        1911,
+        81,
+        "Westermann, Diedrich 1911"
+      ],
+      [
+        "119911",
+        "grammar_sketch",
+        1903,
+        4,
+        "Tappi, Carlo 1903/04"
+      ],
+      [
+        "87161",
+        "grammar_sketch",
+        1888,
+        2,
+        "Müller, Friedrich 1888"
+      ],
+      [
+        "124511",
+        "wordlist_or_less",
+        1881,
+        85,
+        "Beltrame, D. Giovanni 1881"
+      ],
+      [
+        "133734",
+        "wordlist_or_less",
+        1829,
+        69,
+        "Rüppell, Eduard 1829"
+      ],
+      [
+        "139430",
+        "wordlist_or_less",
+        1812,
+        18,
+        "Johann Christoph Adelung and Johann Severin Vater 1812"
+      ]
+    ]
+  },
+  "id": "shil1265",
+  "name": "Shilluk",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.85472,
+  "longitude": 31.7926,
+  "classification": [
+    {
+      "name": "Nilotic",
+      "id": "nilo1247",
+      "url": "https://glottolog.org/resource/languoid/id/nilo1247"
+    },
+    {
+      "name": "Western Nilotic",
+      "id": "west2493",
+      "url": "https://glottolog.org/resource/languoid/id/west2493"
+    },
+    {
+      "name": "Lwoo",
+      "id": "lwoo1234",
+      "url": "https://glottolog.org/resource/languoid/id/lwoo1234"
+    },
+    {
+      "name": "Northern Lwoo",
+      "id": "nort2814",
+      "url": "https://glottolog.org/resource/languoid/id/nort2814"
+    }
+  ],
+  "iso639-3": "shk"
+}

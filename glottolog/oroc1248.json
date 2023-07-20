@@ -1,0 +1,102 @@
+{
+  "pk": 6150,
+  "hid": "oac",
+  "father_pk": 4131,
+  "family_pk": 162,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kjakela [kjak1239]':1,'Namunka [namu1247]':1,'Orichen [oric1239]':1,'Tez [tezz1239]':1)'Oroch [oroc1248][oac]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3038",
+        "label": "Oroch"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33650",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Oroch_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_orc",
+        "label": "Oroch"
+      }
+    ],
+    "meds": [
+      [
+        "310585",
+        "long_grammar",
+        2001,
+        397,
+        "Avrorin, Valentin A. and Boldyrev, B. V. 2001"
+      ],
+      [
+        "94190",
+        "grammar",
+        1968,
+        19,
+        "Avrorin, Valentin Aleksandrovich and Lebedeva, E. P. 1968"
+      ],
+      [
+        "320382",
+        "grammar_sketch",
+        1949,
+        160,
+        "V. I. Tsintsius 1949"
+      ],
+      [
+        "312844",
+        "wordlist_or_less",
+        1928,
+        61,
+        "Schmidt, Paul 1928"
+      ],
+      [
+        "557690",
+        "wordlist_or_less",
+        1859,
+        15,
+        "Tronson, John M. 1859"
+      ]
+    ]
+  },
+  "id": "oroc1248",
+  "name": "Oroch",
+  "description": null,
+  "markup_description": null,
+  "latitude": 50.32354,
+  "longitude": 137.85131,
+  "classification": [
+    {
+      "name": "Tungusic",
+      "id": "tung1282",
+      "url": "https://glottolog.org/resource/languoid/id/tung1282"
+    },
+    {
+      "name": "Northeastern Tungusic",
+      "id": "nort3417",
+      "url": "https://glottolog.org/resource/languoid/id/nort3417"
+    },
+    {
+      "name": "Central-Eastern Tungusic",
+      "id": "cent2235",
+      "url": "https://glottolog.org/resource/languoid/id/cent2235"
+    },
+    {
+      "name": "Oroch-Udihe",
+      "id": "oroc1249",
+      "url": "https://glottolog.org/resource/languoid/id/oroc1249"
+    }
+  ],
+  "iso639-3": "oac"
+}

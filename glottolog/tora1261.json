@@ -1,0 +1,103 @@
+{
+  "pk": 9381,
+  "hid": "sda",
+  "father_pk": 6804,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Makale {Indonesia} [maka1312]':1,'Rantepao [rant1238]':1,'Toraja Barat [tora1262]':1)'Toraja-Sa''dan [tora1261][sda]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_trd",
+        "label": "Toraja"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Toraja-Sa%CA%BCdan_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36673",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "322289",
+        "grammar_sketch",
+        1997,
+        212,
+        "J. S. Sande and Adri, {} and David Manuputty and Nur Azizah Syahril and M. Eppang 1997"
+      ],
+      [
+        "323122",
+        "grammar_sketch",
+        1984,
+        152,
+        "J. S. Sande 1984"
+      ],
+      [
+        "21023",
+        "phonology_or_text",
+        1940,
+        953,
+        "Hendrik van den Veen 1940"
+      ],
+      [
+        "75206",
+        "phonology_or_text",
+        1924,
+        80,
+        "Hendrik van den Veen 1924"
+      ],
+      [
+        "42298",
+        "wordlist_or_less",
+        1898,
+        20,
+        "Adriani, N. 1898"
+      ]
+    ]
+  },
+  "id": "tora1261",
+  "name": "Toraja-Sa'dan",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.97144,
+  "longitude": 119.829,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "South Sulawesi",
+      "id": "sout2923",
+      "url": "https://glottolog.org/resource/languoid/id/sout2923"
+    },
+    {
+      "name": "Northern South Sulawesi",
+      "id": "nort2894",
+      "url": "https://glottolog.org/resource/languoid/id/nort2894"
+    },
+    {
+      "name": "Torajic",
+      "id": "tora1260",
+      "url": "https://glottolog.org/resource/languoid/id/tora1260"
+    }
+  ],
+  "iso639-3": "sda"
+}

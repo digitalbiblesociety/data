@@ -1,0 +1,70 @@
+{
+  "pk": 5680,
+  "hid": "gbf",
+  "father_pk": 3743,
+  "family_pk": 92,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Gaikundi [gaik1242][gbf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10611",
+        "label": "Gaikundi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5517032",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Gaikundi_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "319169",
+        "phonology_or_text",
+        1965,
+        35,
+        "Schanely, Leon 1965"
+      ]
+    ]
+  },
+  "id": "gaik1242",
+  "name": "Gaikundi",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.01718,
+  "longitude": 143.139,
+  "classification": [
+    {
+      "name": "Ndu",
+      "id": "nduu1242",
+      "url": "https://glottolog.org/resource/languoid/id/nduu1242"
+    },
+    {
+      "name": "Nuclear Ndu",
+      "id": "nucl1642",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1642"
+    },
+    {
+      "name": "Sawosic",
+      "id": "sawo1235",
+      "url": "https://glottolog.org/resource/languoid/id/sawo1235"
+    },
+    {
+      "name": "Burui-Gaikundi",
+      "id": "bund1258",
+      "url": "https://glottolog.org/resource/languoid/id/bund1258"
+    }
+  ],
+  "iso639-3": "gbf"
+}

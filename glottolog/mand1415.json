@@ -1,0 +1,158 @@
+{
+  "pk": 13407,
+  "hid": "cmn",
+  "father_pk": 10307,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Beijing Mandarin [beij1234]':1,'Taibei Mandarin [taib1240]':1)'Beijingic [beij1235]':1,('Xi''an Mandarin [xian1253]':1,'Xining Mandarin [xini1234]':1,'Zhengzhou Mandarin [zhen1241]':1)'Central Plain Guanhua [huab1238]':1,('Hefei Mandarin [hefe1234]':1,'Nanjing Mandarin [nanj1234]':1)'Jianghuai Guanhua [jing1262]':1,('Jinan Mandarin [jina1245]':1,'Tianjin Mandarin [tian1238]':1)'Jilu Guanhua [jilu1239]':1,('Lanzhou Mandarin [lanz1234]':1,'Wulumuqi Mandarin [wulu1243]':1,'Yinchuan Mandarin [yinc1239]':1)'Lanyin [xibe1241]':1,'Ningxia Mandarin [ning1279]':1,('Ha''erbin Mandarin [haer1234]':1,'Shenyang Mandarin [shen1252]':1)'Northeastern Mandarin [nort3283]':1,'Qingdao Mandarin [qing1240]':1,'Rongcheng Mandarin [rong1271]':1,('Chengdu Mandarin [chen1267]':1,'Guiyang Mandarin [guiy1236]':1,'Kunming Chinese [kunm1234]':1,'Wuhan Mandarin [wuha1234]':1)'Southwestern Guanhua [xina1239]':1,'Yangzhou Mandarin [yang1306]':1,'Yingshan Mandarin [ying1249]':1,'Yuci Mandarin [yuci1234]':1)'Mandarin Chinese [mand1415][cmn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 31,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kug",
+        "label": "Kunming"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mnd",
+        "label": "Mandarin"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mandarin_Chinese",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/mand1415",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q9192",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "152089",
+        "long_grammar",
+        1981,
+        713,
+        "Li, Charles N. and Thompson, Sandra A. 1981"
+      ],
+      [
+        "319682",
+        "long_grammar",
+        1913,
+        411,
+        "Maurice Courant 1913"
+      ],
+      [
+        "111433",
+        "grammar",
+        1863,
+        261,
+        "James Summers 1863"
+      ],
+      [
+        "589225",
+        "grammar_sketch",
+        1822,
+        243,
+        "Abel Rémusat 1822"
+      ],
+      [
+        "552728",
+        "grammar_sketch",
+        1703,
+        109,
+        "Francisco Varo 1703"
+      ],
+      [
+        "55460",
+        "wordlist_or_less",
+        1451,
+        0,
+        "Ma Huan 1451"
+      ],
+      [
+        "122421",
+        "wordlist_or_less",
+        1436,
+        0,
+        "Fei Xin 1436"
+      ],
+      [
+        "106990",
+        "wordlist_or_less",
+        1434,
+        0,
+        "Gong Zhen 1434"
+      ],
+      [
+        "134446",
+        "wordlist_or_less",
+        1431,
+        0,
+        "Zheng He 1431/33"
+      ],
+      [
+        "132172",
+        "wordlist_or_less",
+        1250,
+        0,
+        "Chao Ju-kua 1250"
+      ],
+      [
+        "158932",
+        "wordlist_or_less",
+        1163,
+        0,
+        "Chou Ch'u-fei 1163"
+      ]
+    ]
+  },
+  "id": "mand1415",
+  "name": "Mandarin Chinese",
+  "description": null,
+  "markup_description": null,
+  "latitude": 40.0209,
+  "longitude": 116.228,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Sinitic",
+      "id": "sini1245",
+      "url": "https://glottolog.org/resource/languoid/id/sini1245"
+    },
+    {
+      "name": "Classical-Middle-Modern Sinitic",
+      "id": "clas1255",
+      "url": "https://glottolog.org/resource/languoid/id/clas1255"
+    },
+    {
+      "name": "Middle-Modern Sinitic",
+      "id": "midd1354",
+      "url": "https://glottolog.org/resource/languoid/id/midd1354"
+    },
+    {
+      "name": "Northern Chinese",
+      "id": "nort3155",
+      "url": "https://glottolog.org/resource/languoid/id/nort3155"
+    },
+    {
+      "name": "Mandarinic",
+      "id": "mand1471",
+      "url": "https://glottolog.org/resource/languoid/id/mand1471"
+    }
+  ],
+  "iso639-3": "cmn"
+}

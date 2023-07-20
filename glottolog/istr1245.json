@@ -1,0 +1,102 @@
+{
+  "pk": 18929,
+  "hid": "ruo",
+  "father_pk": 16635,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Istro Romanian [istr1245][ruo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3442",
+        "label": "Istro Romanian"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33622",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Istro-Romanian_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "549561",
+        "long_grammar",
+        1972,
+        487,
+        "Hurren, Anthony H. 1972"
+      ],
+      [
+        "307174",
+        "grammar",
+        1971,
+        236,
+        "Kovačec, August 1971"
+      ]
+    ]
+  },
+  "id": "istr1245",
+  "name": "Istro Romanian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 45.433,
+  "longitude": 14.2,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Italic",
+      "id": "ital1284",
+      "url": "https://glottolog.org/resource/languoid/id/ital1284"
+    },
+    {
+      "name": "Latino-Faliscan",
+      "id": "lati1262",
+      "url": "https://glottolog.org/resource/languoid/id/lati1262"
+    },
+    {
+      "name": "Latinic",
+      "id": "lati1263",
+      "url": "https://glottolog.org/resource/languoid/id/lati1263"
+    },
+    {
+      "name": "Imperial Latin",
+      "id": "impe1234",
+      "url": "https://glottolog.org/resource/languoid/id/impe1234"
+    },
+    {
+      "name": "Romance",
+      "id": "roma1334",
+      "url": "https://glottolog.org/resource/languoid/id/roma1334"
+    },
+    {
+      "name": "Eastern Romance",
+      "id": "east2714",
+      "url": "https://glottolog.org/resource/languoid/id/east2714"
+    },
+    {
+      "name": "Northern Romanian",
+      "id": "nort3361",
+      "url": "https://glottolog.org/resource/languoid/id/nort3361"
+    }
+  ],
+  "iso639-3": "ruo"
+}

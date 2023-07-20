@@ -1,0 +1,77 @@
+{
+  "pk": 7191,
+  "hid": "fah",
+  "father_pk": 4901,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Baissa Fali [bais1242][fah]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4144",
+        "label": "Fali of Baissa"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3446632",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Fali_of_Baissa",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "564006",
+        "wordlist_or_less",
+        2012,
+        5,
+        "Blench, Roger 2012"
+      ],
+      [
+        "111950",
+        "wordlist_or_less",
+        1971,
+        0,
+        "Koops, Robert 1971"
+      ]
+    ]
+  },
+  "id": "bais1242",
+  "name": "Baissa Fali",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.38023,
+  "longitude": 10.7684,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Unclassified Benue-Congo",
+      "id": "unun9910",
+      "url": "https://glottolog.org/resource/languoid/id/unun9910"
+    }
+  ],
+  "iso639-3": "fah"
+}

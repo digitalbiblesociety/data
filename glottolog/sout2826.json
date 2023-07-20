@@ -1,0 +1,90 @@
+{
+  "pk": 11053,
+  "hid": "grj",
+  "father_pk": 8120,
+  "family_pk": 83,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Glebo [gleb1238]':1,'Jabo [jabo1238]':1,'Nyabo [nyab1254]':1,'Wrelpo [wrel1238]':1)'Southern Grebo [sout2826][grj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_grb",
+        "label": "Grebo"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3914444",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "150488",
+        "grammar",
+        1966,
+        160,
+        "Innes, Gordon 1966"
+      ],
+      [
+        "581423",
+        "grammar_sketch",
+        1864,
+        66,
+        "Payne, John 1864"
+      ],
+      [
+        "79731",
+        "grammar_sketch",
+        1838,
+        38,
+        "John L. Wilson 1838"
+      ]
+    ]
+  },
+  "id": "sout2826",
+  "name": "Southern Grebo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.47607,
+  "longitude": -7.56872,
+  "classification": [
+    {
+      "name": "Kru",
+      "id": "krua1234",
+      "url": "https://glottolog.org/resource/languoid/id/krua1234"
+    },
+    {
+      "name": "Greater Western Kru",
+      "id": "grea1300",
+      "url": "https://glottolog.org/resource/languoid/id/grea1300"
+    },
+    {
+      "name": "Western Kru",
+      "id": "west2485",
+      "url": "https://glottolog.org/resource/languoid/id/west2485"
+    },
+    {
+      "name": "Grebo-Aizi",
+      "id": "greb1258",
+      "url": "https://glottolog.org/resource/languoid/id/greb1258"
+    },
+    {
+      "name": "Grebo",
+      "id": "greb1257",
+      "url": "https://glottolog.org/resource/languoid/id/greb1257"
+    },
+    {
+      "name": "Liberian Grebo",
+      "id": "greb1256",
+      "url": "https://glottolog.org/resource/languoid/id/greb1256"
+    }
+  ],
+  "iso639-3": "grj"
+}

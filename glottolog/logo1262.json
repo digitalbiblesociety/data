@@ -1,0 +1,70 @@
+{
+  "pk": 6483,
+  "hid": "lof",
+  "father_pk": 4441,
+  "family_pk": 254,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Logol [logo1262][lof]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4523",
+        "label": "Logol"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35779",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Logol_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "576939",
+        "wordlist_or_less",
+        1981,
+        7,
+        "Schadeberg, Thilo C. 1981"
+      ]
+    ]
+  },
+  "id": "logo1262",
+  "name": "Logol",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.98053,
+  "longitude": 31.12359,
+  "classification": [
+    {
+      "name": "Heibanic",
+      "id": "heib1242",
+      "url": "https://glottolog.org/resource/languoid/id/heib1242"
+    },
+    {
+      "name": "West-Central Heibanic",
+      "id": "west2502",
+      "url": "https://glottolog.org/resource/languoid/id/west2502"
+    },
+    {
+      "name": "Central Heibanic",
+      "id": "cent2049",
+      "url": "https://glottolog.org/resource/languoid/id/cent2049"
+    },
+    {
+      "name": "Ebang-Logol",
+      "id": "eban1241",
+      "url": "https://glottolog.org/resource/languoid/id/eban1241"
+    }
+  ],
+  "iso639-3": "lof"
+}

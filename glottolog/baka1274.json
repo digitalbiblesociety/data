@@ -1,0 +1,76 @@
+{
+  "pk": 3924,
+  "hid": "bdh",
+  "father_pk": 2234,
+  "family_pk": 140,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Baka {South Sudan} [baka1274][bdh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q2880165",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Baka_language_(South_Sudan)",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/baka1274",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bka",
+        "label": "Baka (in South Sudan)"
+      }
+    ],
+    "meds": [
+      [
+        "153816",
+        "grammar_sketch",
+        1976,
+        19,
+        "Santandrea, Stefano 1976"
+      ],
+      [
+        "116433",
+        "wordlist_or_less",
+        1878,
+        13,
+        "Marno, Ernst 1878"
+      ]
+    ]
+  },
+  "id": "baka1274",
+  "name": "Baka (South Sudan)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.65943,
+  "longitude": 29.59,
+  "classification": [
+    {
+      "name": "Central Sudanic",
+      "id": "cent2225",
+      "url": "https://glottolog.org/resource/languoid/id/cent2225"
+    },
+    {
+      "name": "Sara-Bongo-Bagirmi",
+      "id": "sara1341",
+      "url": "https://glottolog.org/resource/languoid/id/sara1341"
+    },
+    {
+      "name": "Baka-Beli",
+      "id": "moro1282",
+      "url": "https://glottolog.org/resource/languoid/id/moro1282"
+    }
+  ],
+  "iso639-3": "bdh"
+}

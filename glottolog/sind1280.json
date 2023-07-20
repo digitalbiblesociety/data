@@ -1,0 +1,58 @@
+{
+  "pk": 613,
+  "hid": "sdi",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Sindang Kelingi [sind1280][sdi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "sdi",
+      "name": "Sindang Kelingi",
+      "change_request": "2007-196",
+      "effective": "2008-01-14",
+      "reason": "merge",
+      "change_to": [
+        "liw"
+      ],
+      "remedy": "Merge into Col [liw]",
+      "comment": "Col (pronounced 'chole' or 'chool') is the name the speakers of this variety of\nMalayic use for themselves in the areas surveyed, with the exception of the Col\nspeakers from Lembak Delapan, a small pocket of Col speakers near Bengkulu City.\nThe other regions where Col is spoken were not familiar with the term Lembak,\nbut had heard of the term Saling and Sindang Kelingi. The general term used by\nthis group for its language and by neighboring language groups is \"Col\", their\nword for \"there isn't\" or \"none\". If Col is not used, we recommend using the\nname \"Sindang\" as this is the name used in the government's linguistic\nliterature on the language and is placed in front of the name of the dialect of\nCol under consideration, i.e. Sindang Kelingi, Sindang Beliti...The term Lembak\nshould be changed to an alternate name or dropped as the majority of the Col\npopulation has not heard of this term and for those living in or near to South\nSumatra, it brings to mind the Musi dialect Belide."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q25559518",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500783",
+        "wordlist_or_less",
+        2007,
+        0,
+        "ISO 639-3 Registration Authority 2007"
+      ]
+    ]
+  },
+  "id": "sind1280",
+  "name": "Sindang Kelingi",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "sdi"
+}

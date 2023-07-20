@@ -1,0 +1,82 @@
+{
+  "pk": 9044,
+  "hid": "iwo",
+  "father_pk": 6542,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Morop-Dintere [iwur1240][iwo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10687",
+        "label": "Iwur"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6101006",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Iwur_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "142054",
+        "wordlist_or_less",
+        1982,
+        5,
+        "W. A. L. Stokhof 1982"
+      ],
+      [
+        "97576",
+        "wordlist_or_less",
+        1960,
+        71,
+        "Brongersma, Leo Daniël and Venema, G. F. 1960"
+      ]
+    ]
+  },
+  "id": "iwur1240",
+  "name": "Morop-Dintere",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.11036,
+  "longitude": 140.823,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Asmat-Awyu-Ok",
+      "id": "cent2116",
+      "url": "https://glottolog.org/resource/languoid/id/cent2116"
+    },
+    {
+      "name": "Awyu-Ok",
+      "id": "awyu1265",
+      "url": "https://glottolog.org/resource/languoid/id/awyu1265"
+    },
+    {
+      "name": "Ok-Oksapmin",
+      "id": "okok1235",
+      "url": "https://glottolog.org/resource/languoid/id/okok1235"
+    },
+    {
+      "name": "Ok",
+      "id": "okkk1242",
+      "url": "https://glottolog.org/resource/languoid/id/okkk1242"
+    }
+  ],
+  "iso639-3": "iwo"
+}

@@ -1,0 +1,80 @@
+{
+  "pk": 4181,
+  "hid": "ynk",
+  "father_pk": 2400,
+  "family_pk": 172,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Naukan Yupik [nauk1242][ynk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1714",
+        "label": "Naukan Yupik"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q27963",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Naukan_Yupik_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nauk1242",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_yna",
+        "label": "Yupik (Naukan)"
+      }
+    ],
+    "meds": [
+      [
+        "301871",
+        "long_grammar",
+        1975,
+        512,
+        "Georgij A. Menovščikov 1975"
+      ],
+      [
+        "144272",
+        "grammar",
+        1962,
+        199,
+        "Georgij I. Menovščikov 1962, 1967"
+      ]
+    ]
+  },
+  "id": "nauk1242",
+  "name": "Naukan Yupik",
+  "description": null,
+  "markup_description": null,
+  "latitude": 65.5184,
+  "longitude": -171.755,
+  "classification": [
+    {
+      "name": "Eskimo-Aleut",
+      "id": "eski1264",
+      "url": "https://glottolog.org/resource/languoid/id/eski1264"
+    },
+    {
+      "name": "Eskimo",
+      "id": "eski1265",
+      "url": "https://glottolog.org/resource/languoid/id/eski1265"
+    },
+    {
+      "name": "Yupik",
+      "id": "yupi1267",
+      "url": "https://glottolog.org/resource/languoid/id/yupi1267"
+    }
+  ],
+  "iso639-3": "ynk"
+}

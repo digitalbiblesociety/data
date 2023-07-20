@@ -1,0 +1,95 @@
+{
+  "pk": 6303,
+  "hid": "ari",
+  "father_pk": 4248,
+  "family_pk": 183,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Arikara [arik1262][ari]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1672",
+        "label": "Arikara"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_akr",
+        "label": "Arikara"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Arikara_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56539",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "102030",
+        "long_grammar",
+        1979,
+        422,
+        "Parks, Douglas and Janet Beltran and Ella Waters 1979"
+      ],
+      [
+        "67361",
+        "grammar_sketch",
+        1975,
+        272,
+        "Merlan, Francesca Cordelia 1975"
+      ],
+      [
+        "571782",
+        "grammar_sketch",
+        1927,
+        19,
+        "Gilmore, M. R. 1927"
+      ],
+      [
+        "14992",
+        "wordlist_or_less",
+        1862,
+        13,
+        "F. V. Hayden 1862"
+      ]
+    ]
+  },
+  "id": "arik1262",
+  "name": "Arikara",
+  "description": null,
+  "markup_description": null,
+  "latitude": 45,
+  "longitude": -100,
+  "classification": [
+    {
+      "name": "Caddoan",
+      "id": "cadd1255",
+      "url": "https://glottolog.org/resource/languoid/id/cadd1255"
+    },
+    {
+      "name": "Northern Caddoan",
+      "id": "nort2950",
+      "url": "https://glottolog.org/resource/languoid/id/nort2950"
+    },
+    {
+      "name": "Pawnee-Kitsai",
+      "id": "pawn1252",
+      "url": "https://glottolog.org/resource/languoid/id/pawn1252"
+    },
+    {
+      "name": "Pawnee-Arikara",
+      "id": "pawn1253",
+      "url": "https://glottolog.org/resource/languoid/id/pawn1253"
+    }
+  ],
+  "iso639-3": "ari"
+}

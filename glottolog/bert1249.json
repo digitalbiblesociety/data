@@ -1,0 +1,77 @@
+{
+  "pk": 1904,
+  "hid": "byt",
+  "father_pk": 451,
+  "family_pk": 16,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Berti [bert1249][byt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q35008",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Berti_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "551486",
+        "grammar_sketch",
+        1966,
+        25,
+        "Petráček, Karel 1966"
+      ],
+      [
+        "37303",
+        "phonology_or_text",
+        1965,
+        26,
+        "Petráček, Karel 1965"
+      ],
+      [
+        "90217",
+        "wordlist_or_less",
+        1920,
+        3,
+        "MacMichael, H. A. 1920"
+      ],
+      [
+        "159278",
+        "wordlist_or_less",
+        1917,
+        0,
+        "Spence, B.H.H. 1917"
+      ]
+    ]
+  },
+  "id": "bert1249",
+  "name": "Berti",
+  "description": null,
+  "markup_description": null,
+  "latitude": 14.67,
+  "longitude": 25.83,
+  "classification": [
+    {
+      "name": "Saharan",
+      "id": "saha1256",
+      "url": "https://glottolog.org/resource/languoid/id/saha1256"
+    },
+    {
+      "name": "Eastern Saharan",
+      "id": "east2432",
+      "url": "https://glottolog.org/resource/languoid/id/east2432"
+    }
+  ],
+  "iso639-3": "byt"
+}

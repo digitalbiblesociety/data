@@ -1,0 +1,91 @@
+{
+  "pk": 6102,
+  "hid": "tar",
+  "father_pk": 4097,
+  "family_pk": 155,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Central Tarahumara [cent2131][tar]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3453",
+        "label": "Tarahumara"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tce",
+        "label": "Tarahumara (Central)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q20090009",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "659032",
+        "long_grammar",
+        2022,
+        686,
+        "Caballero, Gabriela 2022"
+      ],
+      [
+        "301960",
+        "long_grammar",
+        1953,
+        644,
+        "David Brambila 1953"
+      ],
+      [
+        "308012",
+        "grammar",
+        1903,
+        219,
+        "Gassó, Leonardo 1903"
+      ],
+      [
+        "33801",
+        "wordlist_or_less",
+        1816,
+        10,
+        "Johann Christoph Adelung and Johann Severin Vater 1816"
+      ]
+    ]
+  },
+  "id": "cent2131",
+  "name": "Central Tarahumara",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.5648,
+  "longitude": -107.154,
+  "classification": [
+    {
+      "name": "Uto-Aztecan",
+      "id": "utoa1244",
+      "url": "https://glottolog.org/resource/languoid/id/utoa1244"
+    },
+    {
+      "name": "Southern Uto-Aztecan",
+      "id": "sout3136",
+      "url": "https://glottolog.org/resource/languoid/id/sout3136"
+    },
+    {
+      "name": "Tarahumara-Guarijio",
+      "id": "tara1326",
+      "url": "https://glottolog.org/resource/languoid/id/tara1326"
+    },
+    {
+      "name": "Tarahumaran",
+      "id": "tara1321",
+      "url": "https://glottolog.org/resource/languoid/id/tara1321"
+    }
+  ],
+  "iso639-3": "tar"
+}

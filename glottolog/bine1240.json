@@ -1,0 +1,72 @@
+{
+  "pk": 1270,
+  "hid": "bon",
+  "father_pk": 250,
+  "family_pk": 250,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Boze-Giringarede [boze1239]':1,'Irupi-Drageli [irup1239]':1,'Kunini [kuni1264]':1,'Masingle [masi1270]':1,'Sebe [sebe1243]':1,'Sogal [soga1243]':1,'Tate [tate1244]':1)'Bine [bine1240][bon]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Bine_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q4914077",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "113282",
+        "grammar",
+        1975,
+        136,
+        "Lilian Fleischmann and Sinikka Turpeinen 1975"
+      ],
+      [
+        "121413",
+        "wordlist_or_less",
+        1930,
+        2,
+        "Baxter E. Riley and Sidney H. Ray 1930, 1930, 1931"
+      ],
+      [
+        "81764",
+        "wordlist_or_less",
+        1923,
+        1,
+        "Sidney H. Ray 1923"
+      ],
+      [
+        "83603",
+        "wordlist_or_less",
+        1907,
+        1,
+        "Sidney H. Ray 1907"
+      ]
+    ]
+  },
+  "id": "bine1240",
+  "name": "Bine",
+  "description": null,
+  "markup_description": null,
+  "latitude": -9.08879,
+  "longitude": 142.893,
+  "classification": [
+    {
+      "name": "Eastern Trans-Fly",
+      "id": "east2503",
+      "url": "https://glottolog.org/resource/languoid/id/east2503"
+    }
+  ],
+  "iso639-3": "bon"
+}

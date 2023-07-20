@@ -1,0 +1,99 @@
+{
+  "pk": 5421,
+  "hid": "kdr",
+  "father_pk": 3555,
+  "family_pk": 14,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Eastern Karaim [east2335]':1,('Northwestern Karaim [nort2691]':1,('Halych Karaim [gali1260]':1,'Lutsk Karaim [luts1234]':1)'Southwestern Karaim [sout3266]':1)'Western Karaim [west2883]':1)'Karaim [kara1464][kdr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2366",
+        "label": "Karaim"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_krm",
+        "label": "Karaim"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Karaim_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kara1464",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33725",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "317774",
+        "long_grammar",
+        1964,
+        350,
+        "Musaev, Kenesbaj Musaevič 1964"
+      ],
+      [
+        "133694",
+        "grammar_sketch",
+        1903,
+        80,
+        "Jan von Grzegorzewski 1903"
+      ],
+      [
+        "575225",
+        "wordlist_or_less",
+        1902,
+        0,
+        "Muhlinskij, A. 1902"
+      ],
+      [
+        "575224",
+        "wordlist_or_less",
+        1862,
+        14,
+        "Muhlinskij, A. 1862"
+      ]
+    ]
+  },
+  "id": "kara1464",
+  "name": "Karaim",
+  "description": null,
+  "markup_description": null,
+  "latitude": 54.5534,
+  "longitude": 25.1054,
+  "classification": [
+    {
+      "name": "Turkic",
+      "id": "turk1311",
+      "url": "https://glottolog.org/resource/languoid/id/turk1311"
+    },
+    {
+      "name": "Common Turkic",
+      "id": "comm1245",
+      "url": "https://glottolog.org/resource/languoid/id/comm1245"
+    },
+    {
+      "name": "Kipchak",
+      "id": "kipc1239",
+      "url": "https://glottolog.org/resource/languoid/id/kipc1239"
+    },
+    {
+      "name": "West Kipchak",
+      "id": "west1472",
+      "url": "https://glottolog.org/resource/languoid/id/west1472"
+    }
+  ],
+  "iso639-3": "kdr"
+}

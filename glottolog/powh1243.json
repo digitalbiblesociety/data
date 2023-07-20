@@ -1,0 +1,77 @@
+{
+  "pk": 6292,
+  "hid": "pim",
+  "father_pk": 4236,
+  "family_pk": 178,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Powhatan [powh1243][pim]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_pow",
+        "label": "Powhatan"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Powhatan_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2270532",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "11495",
+        "wordlist_or_less",
+        1999,
+        113,
+        "Strachey, William 1999"
+      ],
+      [
+        "99191",
+        "wordlist_or_less",
+        1624,
+        45,
+        "Smith, John 1997 [1624]"
+      ]
+    ]
+  },
+  "id": "powh1243",
+  "name": "Powhatan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 36.99422,
+  "longitude": -77.20752,
+  "classification": [
+    {
+      "name": "Algic",
+      "id": "algi1248",
+      "url": "https://glottolog.org/resource/languoid/id/algi1248"
+    },
+    {
+      "name": "Algonquian-Blackfoot",
+      "id": "algo1256",
+      "url": "https://glottolog.org/resource/languoid/id/algo1256"
+    },
+    {
+      "name": "Algonquian",
+      "id": "algo1257",
+      "url": "https://glottolog.org/resource/languoid/id/algo1257"
+    },
+    {
+      "name": "Eastern Algonquian",
+      "id": "east2700",
+      "url": "https://glottolog.org/resource/languoid/id/east2700"
+    }
+  ],
+  "iso639-3": "pim"
+}

@@ -1,0 +1,120 @@
+{
+  "pk": 14554,
+  "hid": "nhn",
+  "father_pk": 11510,
+  "family_pk": 155,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tlaxcala-Puebla-Central Nahuatl [cent2132][nhn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nhc",
+        "label": "Nahuatl (Central)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tlaxcala%E2%80%93Puebla_Nahuatl",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6047309",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "575361",
+        "long_grammar",
+        2019,
+        687,
+        "Lucero Flores Nájera 2019"
+      ],
+      [
+        "91024",
+        "grammar_sketch",
+        1996,
+        549,
+        "Foster, Rand B. 1996"
+      ],
+      [
+        "318193",
+        "grammar_sketch",
+        1986,
+        165,
+        "Hill, Jane H. and Kenneth C. Hill 1986"
+      ],
+      [
+        "309803",
+        "grammar_sketch",
+        1980,
+        96,
+        "Lastra de Suárez, Yolanda 1980"
+      ],
+      [
+        "300042",
+        "grammar_sketch",
+        1922,
+        54,
+        "González Casanova, Pablo 1922"
+      ],
+      [
+        "38443",
+        "wordlist_or_less",
+        1645,
+        0,
+        "Carochi, Horacio 1645"
+      ]
+    ]
+  },
+  "id": "cent2132",
+  "name": "Tlaxcala-Puebla-Central Nahuatl",
+  "description": null,
+  "markup_description": null,
+  "latitude": 19.1248,
+  "longitude": -98.3002,
+  "classification": [
+    {
+      "name": "Uto-Aztecan",
+      "id": "utoa1244",
+      "url": "https://glottolog.org/resource/languoid/id/utoa1244"
+    },
+    {
+      "name": "Southern Uto-Aztecan",
+      "id": "sout3136",
+      "url": "https://glottolog.org/resource/languoid/id/sout3136"
+    },
+    {
+      "name": "Corachol-Aztecan",
+      "id": "cora1261",
+      "url": "https://glottolog.org/resource/languoid/id/cora1261"
+    },
+    {
+      "name": "Aztec",
+      "id": "azte1234",
+      "url": "https://glottolog.org/resource/languoid/id/azte1234"
+    },
+    {
+      "name": "Western Nahuatl",
+      "id": "west2809",
+      "url": "https://glottolog.org/resource/languoid/id/west2809"
+    },
+    {
+      "name": "Central Nahuatl",
+      "id": "cent2258",
+      "url": "https://glottolog.org/resource/languoid/id/cent2258"
+    },
+    {
+      "name": "Tlaxcala-Southeastern Puebla Nahuatl",
+      "id": "tlax1234",
+      "url": "https://glottolog.org/resource/languoid/id/tlax1234"
+    }
+  ],
+  "iso639-3": "nhn"
+}

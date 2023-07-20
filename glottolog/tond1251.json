@@ -1,0 +1,89 @@
+{
+  "pk": 9524,
+  "hid": "tdn",
+  "father_pk": 6886,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kakas [kaka1268]':1,'Nuclear Tondano [nucl1550]':1,'Remboken [remb1251]':1)'Tondano [tond1251][tdn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3531514",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tondano_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tno",
+        "label": "Tondano"
+      }
+    ],
+    "meds": [
+      [
+        "405642",
+        "long_grammar",
+        2014,
+        516,
+        "Brickell, Timothy C. 2014"
+      ],
+      [
+        "156989",
+        "grammar",
+        1975,
+        272,
+        "James N. Sneddon 1975"
+      ],
+      [
+        "61578",
+        "wordlist_or_less",
+        1855,
+        2,
+        "Jansen, A.J.F. 1855"
+      ]
+    ]
+  },
+  "id": "tond1251",
+  "name": "Tondano",
+  "description": null,
+  "markup_description": null,
+  "latitude": 1.28024,
+  "longitude": 124.964,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Minahasan",
+      "id": "mina1272",
+      "url": "https://glottolog.org/resource/languoid/id/mina1272"
+    },
+    {
+      "name": "North Minahasan",
+      "id": "nort2886",
+      "url": "https://glottolog.org/resource/languoid/id/nort2886"
+    },
+    {
+      "name": "Northeast Minahasan",
+      "id": "nort2887",
+      "url": "https://glottolog.org/resource/languoid/id/nort2887"
+    }
+  ],
+  "iso639-3": "tdn"
+}

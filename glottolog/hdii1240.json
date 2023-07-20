@@ -1,0 +1,100 @@
+{
+  "pk": 8306,
+  "hid": "xed",
+  "father_pk": 5808,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Tur [turr1244]':1)'Hdi [hdii1240][xed]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_hdi",
+        "label": "Hdi"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Hdi_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/hdii1240",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56246",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "548840",
+        "long_grammar",
+        2002,
+        573,
+        "Frajzyngier, Zygmunt 2002"
+      ],
+      [
+        "57913",
+        "long_grammar",
+        2001,
+        573,
+        "Frajzyngier, Zygmunt 2001"
+      ],
+      [
+        "27060",
+        "grammar_sketch",
+        1994,
+        0,
+        "Gathman, Elizabeth 1994"
+      ],
+      [
+        "83162",
+        "phonology_or_text",
+        1971,
+        89,
+        "Eguchi, Paul Kazuhisa 1971"
+      ]
+    ]
+  },
+  "id": "hdii1240",
+  "name": "Hdi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.942,
+  "longitude": 13.6881,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "Biu-Mandara",
+      "id": "bium1280",
+      "url": "https://glottolog.org/resource/languoid/id/bium1280"
+    },
+    {
+      "name": "North Biu-Mandara",
+      "id": "nort3156",
+      "url": "https://glottolog.org/resource/languoid/id/nort3156"
+    },
+    {
+      "name": "Lamang-Hdi",
+      "id": "lama1287",
+      "url": "https://glottolog.org/resource/languoid/id/lama1287"
+    }
+  ],
+  "iso639-3": "xed"
+}

@@ -1,0 +1,78 @@
+{
+  "pk": 8549,
+  "hid": "jui",
+  "father_pk": 6077,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ngadjuri [ngad1257][jui]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Ngadjuri_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q16897028",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "7069",
+        "phonology_or_text",
+        2009,
+        23,
+        "Warie-Read, Pat and Gale, Mary-Anne and Shettell, Trudie-May 2009"
+      ],
+      [
+        "6251",
+        "wordlist_or_less",
+        1941,
+        4,
+        "Berndt, Ronald M. and Vogelsang, T. 1941"
+      ]
+    ]
+  },
+  "id": "ngad1257",
+  "name": "Ngadjuri",
+  "description": null,
+  "markup_description": null,
+  "latitude": -32.930160660336,
+  "longitude": 139.08123163651,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Arandic-Thura-Yura",
+      "id": "aran1266",
+      "url": "https://glottolog.org/resource/languoid/id/aran1266"
+    },
+    {
+      "name": "Thura-Yura",
+      "id": "thur1253",
+      "url": "https://glottolog.org/resource/languoid/id/thur1253"
+    },
+    {
+      "name": "Core Thura Yura",
+      "id": "core1260",
+      "url": "https://glottolog.org/resource/languoid/id/core1260"
+    },
+    {
+      "name": "Unclassified Core Thura-Yura",
+      "id": "unun9967",
+      "url": "https://glottolog.org/resource/languoid/id/unun9967"
+    }
+  ],
+  "iso639-3": "jui"
+}

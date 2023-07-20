@@ -1,0 +1,75 @@
+{
+  "pk": 9030,
+  "hid": "diy",
+  "father_pk": 6537,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Diuwe [diuw1238][diy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4085",
+        "label": "Diuwe"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5283765",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Diuwe_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "311179",
+        "wordlist_or_less",
+        1974,
+        4,
+        "Van Arsdale, Peter 1974"
+      ]
+    ]
+  },
+  "id": "diuw1238",
+  "name": "Diuwe",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.12627,
+  "longitude": 139.455,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Asmat-Awyu-Ok",
+      "id": "cent2116",
+      "url": "https://glottolog.org/resource/languoid/id/cent2116"
+    },
+    {
+      "name": "Asmat-Kamoro",
+      "id": "asma1256",
+      "url": "https://glottolog.org/resource/languoid/id/asma1256"
+    },
+    {
+      "name": "Asmat",
+      "id": "asma1257",
+      "url": "https://glottolog.org/resource/languoid/id/asma1257"
+    },
+    {
+      "name": "Citak Asmat",
+      "id": "cita1246",
+      "url": "https://glottolog.org/resource/languoid/id/cita1246"
+    }
+  ],
+  "iso639-3": "diy"
+}

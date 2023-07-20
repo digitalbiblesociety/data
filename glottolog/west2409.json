@@ -1,0 +1,74 @@
+{
+  "pk": 10178,
+  "hid": "kyu",
+  "father_pk": 7310,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Western Kayah [west2409][kyu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12952596",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "14865",
+        "grammar_sketch",
+        1995,
+        103,
+        "Bennett, J. Fraser 1995"
+      ],
+      [
+        "569526",
+        "grammar_sketch",
+        1992,
+        0,
+        "Bryant, John R. and Khu Klawreh and Khu Noah 1992"
+      ]
+    ]
+  },
+  "id": "west2409",
+  "name": "Western Kayah",
+  "description": null,
+  "markup_description": null,
+  "latitude": 18.687,
+  "longitude": 97.4877,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Karenic",
+      "id": "kare1337",
+      "url": "https://glottolog.org/resource/languoid/id/kare1337"
+    },
+    {
+      "name": "Central Karen",
+      "id": "cent1999",
+      "url": "https://glottolog.org/resource/languoid/id/cent1999"
+    },
+    {
+      "name": "Kayah-Yintale",
+      "id": "kaya1337",
+      "url": "https://glottolog.org/resource/languoid/id/kaya1337"
+    },
+    {
+      "name": "Kayah",
+      "id": "kaya1317",
+      "url": "https://glottolog.org/resource/languoid/id/kaya1317"
+    }
+  ],
+  "iso639-3": "kyu"
+}

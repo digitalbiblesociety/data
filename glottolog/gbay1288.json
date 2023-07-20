@@ -1,0 +1,89 @@
+{
+  "pk": 2665,
+  "hid": "krs",
+  "father_pk": 1247,
+  "family_pk": 239,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Goro-Golo [orlo1238]':1,'Kpara-Naka [naka1261]':1,'Kresh Hofra [gbay1290]':1,'Kresh Ndogo [gbay1289]':1,'Ngbongbo [gbay1291]':1)'Kresh [gbay1292]':1,'Woro {South Sudan} [woro1259]':1)'Kresh-Woro [gbay1288][krs]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5059",
+        "label": "Gbaya"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56674",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kresh_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/gbay1288",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kre",
+        "label": "Kresh"
+      }
+    ],
+    "meds": [
+      [
+        "43604",
+        "grammar_sketch",
+        1918,
+        48,
+        "Struck, Bernhard 1918"
+      ],
+      [
+        "15507",
+        "wordlist_or_less",
+        1917,
+        8,
+        "Meinhof, Carl 1917-1918"
+      ],
+      [
+        "79561",
+        "wordlist_or_less",
+        1873,
+        7,
+        "Schweinfurth, G[eorg] 1873"
+      ],
+      [
+        "550022",
+        "wordlist_or_less",
+        1849,
+        1,
+        "Ignaz Knoblecher 1849"
+      ]
+    ]
+  },
+  "id": "gbay1288",
+  "name": "Kresh-Woro",
+  "description": null,
+  "markup_description": null,
+  "latitude": 8.43391,
+  "longitude": 25,
+  "classification": [
+    {
+      "name": "Kresh-Aja",
+      "id": "kres1240",
+      "url": "https://glottolog.org/resource/languoid/id/kres1240"
+    },
+    {
+      "name": "Kreshic",
+      "id": "kres1241",
+      "url": "https://glottolog.org/resource/languoid/id/kres1241"
+    }
+  ],
+  "iso639-3": "krs"
+}

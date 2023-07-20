@@ -1,0 +1,59 @@
+{
+  "pk": 541,
+  "hid": "yym",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Yuanjiang-Mojiang Yi [yuan1242][yym]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "yym",
+      "name": "Yuanjiang-Mojiang Yi",
+      "change_request": "2007-086",
+      "effective": "2008-01-14",
+      "reason": "split",
+      "change_to": [
+        "nsd",
+        "nsv"
+      ],
+      "remedy": "Split into Southern Nisu [nsd] and Southwestern Nisu [nsv]",
+      "comment": "Southern and Southwestern Nisu were originally grouped together and referred to\nas Yuanjiang-Mojiang Nisu. However, the lack of mutual intelligibility between\nthese two varieties suggests instead that they should be split into two distinct\nlanguages. During 2006, Ken Chan (also with EAG) and Cathryn Yang carried out a\ndialect survey of Nisu, in which they tested Northern and Southern Nisu speakers\nif they could understand a Southwestern Nisu RTT. Only one Northern Nisu data\npoint could adequately comprehend (RTT score avg. 80%); all the other N and S\nNisu points failed to adequately comprehend SW Nisu (scores below 80%, often 50\nor 60%). Also, they tested SW Nisu speakers on how well\n\nthey could understand N and S Nisu varieties. The SW Nisu speakers were unable\nto adequately comprehend any of the other Nisu varieties. SW Nisu is\nlinguistically very closely related to both N and S Nisu, but the speakers moved\naway from the Northern Nisu area several generations ago to the southwest.\nBecause of the lack of mutual intelligibility with other Nisu languages, Chan\nand Yang concluded that SW Nisu was a related but divergent Nisu\nlanguage.Northern Nisu refers to [yiv], currently named Eshan-Xinping Yi (name\nchange requested)."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q25559455",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500844",
+        "wordlist_or_less",
+        2007,
+        0,
+        "ISO 639-3 Registration Authority 2007"
+      ]
+    ]
+  },
+  "id": "yuan1242",
+  "name": "Yuanjiang-Mojiang Yi",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "yym"
+}

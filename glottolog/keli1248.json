@@ -1,0 +1,84 @@
+{
+  "pk": 5920,
+  "hid": "kbo",
+  "father_pk": 3954,
+  "family_pk": 140,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Didi [didi1255]':1,'Dogo [dogo1296]':1,'Eastern Keliko [east2417]':1,'Western Keliko [west2490]':1)'Keliko [keli1248][kbo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q11275553",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kaliko_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/keli1248",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "578387",
+        "phonology_or_text",
+        2018,
+        17,
+        "Christine Waag 2018"
+      ],
+      [
+        "91009",
+        "phonology_or_text",
+        1940,
+        7,
+        "Tucker, Archibald N. 1940"
+      ],
+      [
+        "146652",
+        "wordlist_or_less",
+        1937,
+        7,
+        "Nalder, Leonard Fielding 1937"
+      ]
+    ]
+  },
+  "id": "keli1248",
+  "name": "Keliko",
+  "description": null,
+  "markup_description": null,
+  "latitude": 3.56039,
+  "longitude": 30.556,
+  "classification": [
+    {
+      "name": "Central Sudanic",
+      "id": "cent2225",
+      "url": "https://glottolog.org/resource/languoid/id/cent2225"
+    },
+    {
+      "name": "Moru-Madi",
+      "id": "moru1252",
+      "url": "https://glottolog.org/resource/languoid/id/moru1252"
+    },
+    {
+      "name": "Central Moru-Madi",
+      "id": "cent2043",
+      "url": "https://glottolog.org/resource/languoid/id/cent2043"
+    },
+    {
+      "name": "Kalikoic",
+      "id": "kali1312",
+      "url": "https://glottolog.org/resource/languoid/id/kali1312"
+    }
+  ],
+  "iso639-3": "kbo"
+}

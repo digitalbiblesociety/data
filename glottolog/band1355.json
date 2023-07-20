@@ -1,0 +1,80 @@
+{
+  "pk": 6855,
+  "hid": "bnd",
+  "father_pk": 4664,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Elat [elat1240]':1,'Eli [elii1237]':1)'Banda {Indonesia} [band1355][bnd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3504147",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Banda_language_(Maluku)",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "322419",
+        "grammar_sketch",
+        1996,
+        71,
+        "Kakerissa, O. and Ny. J. Kasihuw and J. Tamaela 1996"
+      ],
+      [
+        "162931",
+        "wordlist_or_less",
+        1885,
+        4,
+        "Adolf Bastian 1885"
+      ],
+      [
+        "14372",
+        "wordlist_or_less",
+        1864,
+        3,
+        "H. C. van Eijbergen 1864"
+      ]
+    ]
+  },
+  "id": "band1355",
+  "name": "Banda (Indonesia)",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.42138,
+  "longitude": 133.142,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Greater Seram Laut",
+      "id": "grea1302",
+      "url": "https://glottolog.org/resource/languoid/id/grea1302"
+    },
+    {
+      "name": "Banda-Geser",
+      "id": "band1354",
+      "url": "https://glottolog.org/resource/languoid/id/band1354"
+    }
+  ],
+  "iso639-3": "bnd"
+}

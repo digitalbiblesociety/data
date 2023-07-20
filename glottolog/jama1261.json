@@ -1,0 +1,113 @@
+{
+  "pk": 3279,
+  "hid": "jaa",
+  "father_pk": 1725,
+  "family_pk": 344,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Banawa [bana1307]':1,'Eastern Jamamadi [east2800]':1,'Jarawara [jara1276]':1)'Madi [jama1261][jaa]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2924",
+        "label": "Jamamadí"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mad%C3%AD_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/jama1261",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3053275",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "151442",
+        "long_grammar",
+        2004,
+        656,
+        "R. M. W. Dixon 2004"
+      ],
+      [
+        "62796",
+        "grammar",
+        2003,
+        254,
+        "Alan Vogel 2003"
+      ],
+      [
+        "120904",
+        "grammar_sketch",
+        1989,
+        84,
+        "Vogel, Alan 1989"
+      ],
+      [
+        "75144",
+        "grammar_sketch",
+        1986,
+        15,
+        "Campbell, Barbara 1986"
+      ],
+      [
+        "21520",
+        "phonology_or_text",
+        1985,
+        36,
+        "Campbell, Barbara 1985"
+      ],
+      [
+        "72942",
+        "phonology_or_text",
+        1970,
+        0,
+        "Cho, Seung-bog 1970"
+      ],
+      [
+        "96887",
+        "wordlist_or_less",
+        1938,
+        42,
+        "Paul Rivet and Tastevin, Constant 1938, 1938, 1939"
+      ],
+      [
+        "91186",
+        "wordlist_or_less",
+        1897,
+        7,
+        "Paul Ehrenreich 1897"
+      ]
+    ]
+  },
+  "id": "jama1261",
+  "name": "Madi",
+  "description": null,
+  "markup_description": null,
+  "latitude": -7.62223,
+  "longitude": -66.5662,
+  "classification": [
+    {
+      "name": "Arawan",
+      "id": "araw1282",
+      "url": "https://glottolog.org/resource/languoid/id/araw1282"
+    },
+    {
+      "name": "Madi-Madiha",
+      "id": "madi1262",
+      "url": "https://glottolog.org/resource/languoid/id/madi1262"
+    }
+  ],
+  "iso639-3": "jaa"
+}

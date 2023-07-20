@@ -1,0 +1,99 @@
+{
+  "pk": 1905,
+  "hid": "zag",
+  "father_pk": 451,
+  "family_pk": 16,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dirong-Guruf [diro1234]':1,'Kube [kube1243]':1,'Tuba [tuba1275]':1,('Anka [anka1245]':1,'Dor {Saharan} [dorr1249]':1,'Kobe [kobe1242]':1)'Wagi [wagi1247]':1)'Beria [zagh1240][zag]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q37007",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Zaghawa_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/zagh1240",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_zag",
+        "label": "Beria"
+      }
+    ],
+    "meds": [
+      [
+        "148504",
+        "long_grammar",
+        2004,
+        305,
+        "Jakobi, Angelika and Crass, Joachim and Abdoulaye, Bakhit Seby 2004"
+      ],
+      [
+        "49614",
+        "grammar_sketch",
+        2000,
+        44,
+        "Crass, Joachim and Jakobi, Angelika 2000"
+      ],
+      [
+        "102550",
+        "grammar_sketch",
+        1931,
+        30,
+        "le Chalmel, Capitaine 1931"
+      ],
+      [
+        "129378",
+        "wordlist_or_less",
+        1912,
+        57,
+        "MacMichael, H. A. 1912"
+      ],
+      [
+        "139430",
+        "wordlist_or_less",
+        1812,
+        18,
+        "Johann Christoph Adelung and Johann Severin Vater 1812"
+      ],
+      [
+        "101907",
+        "wordlist_or_less",
+        1582,
+        99,
+        "d'Anania, Giovanni L. 1582"
+      ]
+    ]
+  },
+  "id": "zagh1240",
+  "name": "Beria",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.4842,
+  "longitude": 23.4626,
+  "classification": [
+    {
+      "name": "Saharan",
+      "id": "saha1256",
+      "url": "https://glottolog.org/resource/languoid/id/saha1256"
+    },
+    {
+      "name": "Eastern Saharan",
+      "id": "east2432",
+      "url": "https://glottolog.org/resource/languoid/id/east2432"
+    }
+  ],
+  "iso639-3": "zag"
+}

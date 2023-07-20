@@ -1,0 +1,87 @@
+{
+  "pk": 12320,
+  "hid": "skh",
+  "father_pk": 9395,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Lekon [leko1247]':1,'Tapah [tapa1258]':1)'Sikule [siku1242][skh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3121081",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sikule_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_skl",
+        "label": "Sikule"
+      }
+    ],
+    "meds": [
+      [
+        "126114",
+        "grammar_sketch",
+        1955,
+        75,
+        "Hans Kähler 1955"
+      ],
+      [
+        "70948",
+        "wordlist_or_less",
+        1942,
+        1,
+        "Hans Kähler 1942-1945"
+      ]
+    ]
+  },
+  "id": "siku1242",
+  "name": "Sikule",
+  "description": null,
+  "markup_description": null,
+  "latitude": 2.69113,
+  "longitude": 95.9636,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Northwest Sumatra-Barrier Islands",
+      "id": "nort2829",
+      "url": "https://glottolog.org/resource/languoid/id/nort2829"
+    },
+    {
+      "name": "Nuclear Barrier Islands",
+      "id": "nucl1463",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1463"
+    },
+    {
+      "name": "Mentawai-Nias-Sikule",
+      "id": "ment1248",
+      "url": "https://glottolog.org/resource/languoid/id/ment1248"
+    },
+    {
+      "name": "Nias-Sikule",
+      "id": "nias1241",
+      "url": "https://glottolog.org/resource/languoid/id/nias1241"
+    }
+  ],
+  "iso639-3": "skh"
+}

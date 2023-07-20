@@ -1,0 +1,75 @@
+{
+  "pk": 4749,
+  "hid": "gnt",
+  "father_pk": 3029,
+  "family_pk": 299,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Balamuk [bala1317]':1,'Bensbach [bens1234]':1,'Korombo 1 [koro1319]':1,'Korombo 2 [koro1320]':1,'Wando {Kan} [kann1258]':1)'Warta Thuntai [gunt1241][gnt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12952475",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Guntai_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "477591",
+        "phonology_or_text",
+        2014,
+        91,
+        "Kyla Quinn 2014"
+      ],
+      [
+        "300920",
+        "wordlist_or_less",
+        2012,
+        9,
+        "John Grummitt and Janell Masters 2012"
+      ],
+      [
+        "161128",
+        "wordlist_or_less",
+        1936,
+        8,
+        "Williams, Francis Edgar 1936"
+      ]
+    ]
+  },
+  "id": "gunt1241",
+  "name": "Warta Thuntai",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.80806,
+  "longitude": 141.253,
+  "classification": [
+    {
+      "name": "Yam",
+      "id": "more1255",
+      "url": "https://glottolog.org/resource/languoid/id/more1255"
+    },
+    {
+      "name": "Morehead-Maro",
+      "id": "more1256",
+      "url": "https://glottolog.org/resource/languoid/id/more1256"
+    },
+    {
+      "name": "Tonda",
+      "id": "tond1250",
+      "url": "https://glottolog.org/resource/languoid/id/tond1250"
+    }
+  ],
+  "iso639-3": "gnt"
+}

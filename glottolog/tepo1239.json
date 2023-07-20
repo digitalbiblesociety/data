@@ -1,0 +1,95 @@
+{
+  "pk": 14117,
+  "hid": "ted",
+  "father_pk": 11052,
+  "family_pk": 83,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bapo [bapo1238]':1,'Dapo [dapo1239]':1,'Glawlo [glaw1238]':1,'Honpo [honp1238]':1,'Plapo [plap1238]':1,'Tepo [tepo1240]':1,'Wlopo [wlop1238]':1,'Yrepo [yrep1238]':1)'Tepo Krumen [tepo1239][ted]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 8,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q11152243",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/tepo1239",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "107475",
+        "long_grammar",
+        1987,
+        494,
+        "Thalmann, Peter 1987"
+      ],
+      [
+        "12352",
+        "grammar_sketch",
+        1845,
+        33,
+        "Usera y Alarcon, Gerónimo M. 1845"
+      ],
+      [
+        "7568",
+        "phonology_or_text",
+        1839,
+        0,
+        "Wilson, John Leighton 1839"
+      ]
+    ]
+  },
+  "id": "tepo1239",
+  "name": "Tepo Krumen",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.16267,
+  "longitude": -7.66346,
+  "classification": [
+    {
+      "name": "Kru",
+      "id": "krua1234",
+      "url": "https://glottolog.org/resource/languoid/id/krua1234"
+    },
+    {
+      "name": "Greater Western Kru",
+      "id": "grea1300",
+      "url": "https://glottolog.org/resource/languoid/id/grea1300"
+    },
+    {
+      "name": "Western Kru",
+      "id": "west2485",
+      "url": "https://glottolog.org/resource/languoid/id/west2485"
+    },
+    {
+      "name": "Grebo-Aizi",
+      "id": "greb1258",
+      "url": "https://glottolog.org/resource/languoid/id/greb1258"
+    },
+    {
+      "name": "Grebo",
+      "id": "greb1257",
+      "url": "https://glottolog.org/resource/languoid/id/greb1257"
+    },
+    {
+      "name": "Ivorian Grebo",
+      "id": "ivor1240",
+      "url": "https://glottolog.org/resource/languoid/id/ivor1240"
+    },
+    {
+      "name": "Tepo-Plapo",
+      "id": "tepo1241",
+      "url": "https://glottolog.org/resource/languoid/id/tepo1241"
+    }
+  ],
+  "iso639-3": "ted"
+}

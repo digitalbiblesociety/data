@@ -1,0 +1,68 @@
+{
+  "pk": 788,
+  "hid": "npu",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Puimei Naga [puim1234][npu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "npu",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 has an entry Puimei Naga [npu], which,\nas described in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26, refers to the same language as the Naga-Rongmei\n[nbu] entry (**hh:e:Kabui:Zialngrong-Nagas**). There may be differences within the Naga-Rongmei [nbu] entry that justify dividing it, but the division should, in that case, not be Puimei vs Inpui vs Naga-Rongmei. See also: Rongmei Naga [nbu]."
+    },
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7259044",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Puimei_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "115533",
+        "wordlist_or_less",
+        2004,
+        367,
+        "Gangmumei Kabui 2004"
+      ]
+    ]
+  },
+  "id": "puim1234",
+  "name": "Puimei Naga",
+  "description": null,
+  "markup_description": null,
+  "latitude": 25.2973,
+  "longitude": 93.7344,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "npu"
+}

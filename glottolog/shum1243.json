@@ -1,0 +1,83 @@
+{
+  "pk": 13364,
+  "hid": "scu",
+  "father_pk": 10283,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Shumcho [shum1243][scu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q22077739",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/shum1243",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "470498",
+        "phonology_or_text",
+        2014,
+        54,
+        "Christian Huber 2014"
+      ],
+      [
+        "149687",
+        "wordlist_or_less",
+        1844,
+        14,
+        "Cunnigham, Joseph Davey 1844"
+      ]
+    ]
+  },
+  "id": "shum1243",
+  "name": "Shumcho",
+  "description": null,
+  "markup_description": null,
+  "latitude": 31.6862,
+  "longitude": 78.3865,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "West Himalayish",
+      "id": "tibe1275",
+      "url": "https://glottolog.org/resource/languoid/id/tibe1275"
+    },
+    {
+      "name": "Western West Himalayish",
+      "id": "west2868",
+      "url": "https://glottolog.org/resource/languoid/id/west2868"
+    },
+    {
+      "name": "Kinnauric",
+      "id": "kinn1250",
+      "url": "https://glottolog.org/resource/languoid/id/kinn1250"
+    },
+    {
+      "name": "Thebor",
+      "id": "theb1237",
+      "url": "https://glottolog.org/resource/languoid/id/theb1237"
+    }
+  ],
+  "iso639-3": "scu"
+}

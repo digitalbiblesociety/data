@@ -1,0 +1,82 @@
+{
+  "pk": 10192,
+  "hid": "nzm",
+  "father_pk": 7343,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Njauna [njau1238]':1,'Paren [pare1267]':1)'Zeme Naga [zeme1240][nzm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nze",
+        "label": "Naga (Zeme)"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/1259",
+        "label": "Zeme Naga"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q21491053",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "586496",
+        "long_grammar",
+        2017,
+        353,
+        "Chanu, Sapam Sangita 2017"
+      ],
+      [
+        "59023",
+        "grammar_sketch",
+        1885,
+        87,
+        "Soppitt, C. A. 1885"
+      ]
+    ]
+  },
+  "id": "zeme1240",
+  "name": "Zeme Naga",
+  "description": null,
+  "markup_description": null,
+  "latitude": 25.3499,
+  "longitude": 93.6463,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Zemeic",
+      "id": "zeme1241",
+      "url": "https://glottolog.org/resource/languoid/id/zeme1241"
+    },
+    {
+      "name": "Nuclear Zemeic",
+      "id": "nucl1313",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1313"
+    },
+    {
+      "name": "Mzieme-Zeme",
+      "id": "mzie1236",
+      "url": "https://glottolog.org/resource/languoid/id/mzie1236"
+    }
+  ],
+  "iso639-3": "nzm"
+}

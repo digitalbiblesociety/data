@@ -1,0 +1,81 @@
+{
+  "pk": 2395,
+  "hid": "nco",
+  "father_pk": 1116,
+  "family_pk": 170,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Sibe {Nasioi} [sibe1248][nco]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4779",
+        "label": "Sibe"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56806",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nagovisi_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "624261",
+        "phonology_or_text",
+        2010,
+        29,
+        "Kazuya Inagaki 2010"
+      ],
+      [
+        "555307",
+        "phonology_or_text",
+        1987,
+        4,
+        "Eileen Gasaway 1987"
+      ],
+      [
+        "135107",
+        "wordlist_or_less",
+        1975,
+        1,
+        "Stephen A. Wurm 1975"
+      ],
+      [
+        "659538",
+        "wordlist_or_less",
+        1931,
+        31,
+        "E. W. P. Chinnery 1931"
+      ]
+    ]
+  },
+  "id": "sibe1248",
+  "name": "Sibe (Nasioi)",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.43149,
+  "longitude": 155.412,
+  "classification": [
+    {
+      "name": "South Bougainville",
+      "id": "sout2948",
+      "url": "https://glottolog.org/resource/languoid/id/sout2948"
+    },
+    {
+      "name": "Nasioiic",
+      "id": "nasi1247",
+      "url": "https://glottolog.org/resource/languoid/id/nasi1247"
+    }
+  ],
+  "iso639-3": "nco"
+}

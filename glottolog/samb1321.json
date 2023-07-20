@@ -1,0 +1,80 @@
+{
+  "pk": 6700,
+  "hid": "ssx",
+  "father_pk": 4581,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Samberigi [samb1321][ssx]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Samberigi_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7409020",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "142333",
+        "wordlist_or_less",
+        1975,
+        1,
+        "John Z'graggen 1975"
+      ],
+      [
+        "77107",
+        "wordlist_or_less",
+        1973,
+        1,
+        "Karl J. Franklin 1973"
+      ],
+      [
+        "325257",
+        "wordlist_or_less",
+        1923,
+        1,
+        "Leo V. Lind 1923"
+      ]
+    ]
+  },
+  "id": "samb1321",
+  "name": "Samberigi",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.7028,
+  "longitude": 143.951,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Enga-Kewa-Huli",
+      "id": "enga1254",
+      "url": "https://glottolog.org/resource/languoid/id/enga1254"
+    },
+    {
+      "name": "Kewa-Huli",
+      "id": "kewa1249",
+      "url": "https://glottolog.org/resource/languoid/id/kewa1249"
+    },
+    {
+      "name": "Sau-Angal-Kewa",
+      "id": "anga1291",
+      "url": "https://glottolog.org/resource/languoid/id/anga1291"
+    }
+  ],
+  "iso639-3": "ssx"
+}

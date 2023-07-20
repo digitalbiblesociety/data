@@ -1,0 +1,58 @@
+{
+  "pk": 650,
+  "hid": "yma",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Yamphe [yamp1243][yma]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "yma",
+      "name": "Yamphe",
+      "change_request": "2011-152",
+      "effective": "2012-02-03",
+      "reason": "merge",
+      "change_to": [
+        "lrr"
+      ],
+      "remedy": "Merged into Southern Lorung [lrr] and renamed Southern Yamphu.",
+      "comment": "1.) Linguistic/Ethnic Identity: The ethnic and linguistic identity of people in\nboth groups (Yamphe [yma] and Southern Lorung [lrr]) is 'Yamphu.'\n\n2.) Attitudes: The varieties spoken in these areas, currently denoted at Yamphe\n[yma] and Southern Lorung [lrr], consider themselves similar to each other and\nlinguistically different from Yamphu [ybi].\n\n3.) Wordlist data: Initial lexical similarity percentages for wordlists among\nthe Yamphe [yma] Southern Lorung [lrr] varieties range between 83% and 86%\nsimilarity.\n\n4.) Terms of reference: Neither speakers nor scholars like or use the terms\n'Yamphe' or 'Southern Lorung'. These terms were taken Hansson (1991), which is\nconsidered by most scholars to have made dubious choices for terms of reference\nin this region.\n\n5.) Linguistic evidence: Both Yamphe [yma] and Southern Lorung [lrr] are\nlinguistically distinct from Yamphu [ybi]. The initial lexical similarity\nbetween Yamphe [yma] and Yamphu [ybi] is 67% and between Southern Lorung [lrr]\nand Yamphu [ybi] is 64%. Intelligibility testing (Recorded Text Tests) was\nconducted between Southern Lorung [lrr] and Yamphu [ybi] as well as between\nYamphe [yma] and Yamphu [ybi]. The average score among Southern Lorung speakers\non the Yamphu [ybi] story was 43% with a standard deviation of 14. The average\nscore among Yamphe [yma] speakers on the Yamphu [ybi] story was 58% with a\nstandard deviation of 21."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12953311",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500545",
+        "wordlist_or_less",
+        2011,
+        0,
+        "ISO 639-3 Registration Authority 2011"
+      ]
+    ]
+  },
+  "id": "yamp1243",
+  "name": "Yamphe",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.6069,
+  "longitude": 87.1309,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "yma"
+}

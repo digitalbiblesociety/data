@@ -1,0 +1,115 @@
+{
+  "pk": 3613,
+  "hid": "iqu",
+  "father_pk": 1934,
+  "family_pk": 34,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Pintuyacu [pint1253]':1)'Iquito [iqui1243][iqu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2026",
+        "label": "Iquito"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_iqu",
+        "label": "Iquito"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Iquito_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/iqui1243",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2669184",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "78158",
+        "long_grammar",
+        2009,
+        629,
+        "I-Wen Lai 2009"
+      ],
+      [
+        "130507",
+        "grammar",
+        1963,
+        16,
+        "Eastman, Robert and Eastman, Elizabeth 1963"
+      ],
+      [
+        "18086",
+        "phonology_or_text",
+        1960,
+        0,
+        "Chaumeil, Jean-Pierre 1960"
+      ],
+      [
+        "34227",
+        "wordlist_or_less",
+        1930,
+        6,
+        "Günter Tessmann 1930"
+      ],
+      [
+        "79048",
+        "wordlist_or_less",
+        1867,
+        3,
+        "von Martius, Carl Friedrich Philip 1867"
+      ],
+      [
+        "54846",
+        "wordlist_or_less",
+        1862,
+        1,
+        "Latham, Robert Gordon 1862"
+      ],
+      [
+        "587606",
+        "wordlist_or_less",
+        1772,
+        4,
+        "P. van Hooff 1894 [1772]"
+      ]
+    ]
+  },
+  "id": "iqui1243",
+  "name": "Iquito",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.31233,
+  "longitude": -73.97046,
+  "classification": [
+    {
+      "name": "Zaparoan",
+      "id": "zapa1251",
+      "url": "https://glottolog.org/resource/languoid/id/zapa1251"
+    },
+    {
+      "name": "Iquito-Arabela",
+      "id": "iqui1244",
+      "url": "https://glottolog.org/resource/languoid/id/iqui1244"
+    },
+    {
+      "name": "Cahuarano-Iquito",
+      "id": "cahu1267",
+      "url": "https://glottolog.org/resource/languoid/id/cahu1267"
+    }
+  ],
+  "iso639-3": "iqu"
+}

@@ -1,0 +1,120 @@
+{
+  "pk": 19234,
+  "hid": "zab",
+  "father_pk": 17174,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Jalieza Zapotec [jali1244]':1,'San Juan Guelavía Zapotec [sanj1289]':1,'San Martín Tilcajete Zapotec [sanm1299]':1,'Teotitlán del Valle Zapotec [teot1238]':1)'Western Tlacolula Valley Zapotec [sanj1284][zab]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_zsq",
+        "label": "Zapotec (San Lucas Quiaviní)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Western_Tlacolula_Valley_Zapotec",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/sanj1284",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5614751",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "60595",
+        "long_grammar",
+        2006,
+        407,
+        "Lillehaugen, Brook 2006"
+      ],
+      [
+        "73871",
+        "grammar_sketch",
+        1999,
+        271,
+        "Lee, Felicia 1999"
+      ],
+      [
+        "301658",
+        "grammar_sketch",
+        1700,
+        122,
+        "Gaspar de los Reyes 1891 [1700]"
+      ],
+      [
+        "318345",
+        "phonology_or_text",
+        1578,
+        0,
+        "de Córdova, Juan 1987 [1578]"
+      ]
+    ]
+  },
+  "id": "sanj1284",
+  "name": "Western Tlacolula Valley Zapotec",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.0332,
+  "longitude": -96.5967,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Popoloca-Zapotecan",
+      "id": "popo1292",
+      "url": "https://glottolog.org/resource/languoid/id/popo1292"
+    },
+    {
+      "name": "Zapotecan",
+      "id": "zapo1436",
+      "url": "https://glottolog.org/resource/languoid/id/zapo1436"
+    },
+    {
+      "name": "Zapotec",
+      "id": "zapo1437",
+      "url": "https://glottolog.org/resource/languoid/id/zapo1437"
+    },
+    {
+      "name": "Core Zapotec",
+      "id": "nucl1765",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1765"
+    },
+    {
+      "name": "Narrow Core Zapotec",
+      "id": "core1259",
+      "url": "https://glottolog.org/resource/languoid/id/core1259"
+    },
+    {
+      "name": "Central Core Zapotec",
+      "id": "cent2146",
+      "url": "https://glottolog.org/resource/languoid/id/cent2146"
+    },
+    {
+      "name": "Western Valley Zapotec",
+      "id": "west2947",
+      "url": "https://glottolog.org/resource/languoid/id/west2947"
+    }
+  ],
+  "iso639-3": "zab"
+}

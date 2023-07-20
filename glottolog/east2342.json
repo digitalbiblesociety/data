@@ -1,0 +1,99 @@
+{
+  "pk": 10179,
+  "hid": "eky",
+  "father_pk": 7310,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Eastern Kayah [east2342][eky]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q25559417",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kyl",
+        "label": "Kayah Li (Eastern)"
+      }
+    ],
+    "meds": [
+      [
+        "43841",
+        "long_grammar",
+        1997,
+        413,
+        "David B. Solnit 1997"
+      ],
+      [
+        "28388",
+        "grammar_sketch",
+        1986,
+        391,
+        "David B. Solnit 1986"
+      ],
+      [
+        "32519",
+        "grammar_sketch",
+        1900,
+        83,
+        "Brown, R. J. R. 1900"
+      ],
+      [
+        "75068",
+        "wordlist_or_less",
+        1894,
+        21,
+        "Bernard Houghton 1894"
+      ],
+      [
+        "83951",
+        "wordlist_or_less",
+        1872,
+        5,
+        "Dalton, Edward Tuite 1872"
+      ]
+    ]
+  },
+  "id": "east2342",
+  "name": "Eastern Kayah",
+  "description": null,
+  "markup_description": null,
+  "latitude": 19.8939,
+  "longitude": 98.3359,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Karenic",
+      "id": "kare1337",
+      "url": "https://glottolog.org/resource/languoid/id/kare1337"
+    },
+    {
+      "name": "Central Karen",
+      "id": "cent1999",
+      "url": "https://glottolog.org/resource/languoid/id/cent1999"
+    },
+    {
+      "name": "Kayah-Yintale",
+      "id": "kaya1337",
+      "url": "https://glottolog.org/resource/languoid/id/kaya1337"
+    },
+    {
+      "name": "Kayah",
+      "id": "kaya1317",
+      "url": "https://glottolog.org/resource/languoid/id/kaya1317"
+    }
+  ],
+  "iso639-3": "eky"
+}

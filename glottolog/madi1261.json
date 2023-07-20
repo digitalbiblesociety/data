@@ -1,0 +1,100 @@
+{
+  "pk": 9119,
+  "hid": "grg",
+  "father_pk": 6610,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Madi {Papua New Guinea} [madi1261][grg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4241",
+        "label": "Madi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6727664",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Gira_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/madi1261",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "439589",
+        "grammar_sketch",
+        2014,
+        4,
+        "Sarvasy, Hannah S. 2014"
+      ],
+      [
+        "548055",
+        "wordlist_or_less",
+        1995,
+        10,
+        "Edwaldo Cicero 1995"
+      ],
+      [
+        "547631",
+        "wordlist_or_less",
+        1988,
+        6,
+        "Fred Boswell 1988"
+      ],
+      [
+        "64314",
+        "wordlist_or_less",
+        1970,
+        1,
+        "Oren R. Claassen and Kenneth A. McElhanon 1970"
+      ]
+    ]
+  },
+  "id": "madi1261",
+  "name": "Madi (Papua New Guinea)",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.63017,
+  "longitude": 146.407,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Finisterre-Huon",
+      "id": "fini1244",
+      "url": "https://glottolog.org/resource/languoid/id/fini1244"
+    },
+    {
+      "name": "Finisterre-Saruwaged",
+      "id": "fini1245",
+      "url": "https://glottolog.org/resource/languoid/id/fini1245"
+    },
+    {
+      "name": "Gusap-Mot",
+      "id": "gusa1245",
+      "url": "https://glottolog.org/resource/languoid/id/gusa1245"
+    },
+    {
+      "name": "Gira-Neko-Nekgini",
+      "id": "gira1248",
+      "url": "https://glottolog.org/resource/languoid/id/gira1248"
+    }
+  ],
+  "iso639-3": "grg"
+}

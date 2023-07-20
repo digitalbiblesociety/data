@@ -1,0 +1,98 @@
+{
+  "pk": 13035,
+  "hid": "iso",
+  "father_pk": 10027,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Aviara [avia1242]':1,'Elu {Atlantic-Congo} [eluu1240]':1,'Emede [emed1238]':1,'Enhwe [enhw1238]':1,'Ibiede [ibie1238]':1,'Imiv [imiv1238]':1,'Irri [irri1238]':1,'Itebiege [iteb1238]':1,'Iwire [iwir1238]':1,'Iyede [iyed1242]':1,'Iyede-Ami [iyed1241]':1,'Iyowo [iyow1238]':1,'Ofagbe [ofag1238]':1,'Ole [olee1238]':1,'Olomoro [olom1242]':1,'Owe {Isoko} [owee1242]':1,'Oyede [oyed1238]':1,'Ozoro [ozor1238]':1,'Ume [umee1242]':1,'Unogboko [unog1238]':1,'Uti [utii1238]':1,'Uzere [uzer1238]':1)'Isoko [isok1239][iso]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 22,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_iso",
+        "label": "Isoko"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Isoko_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/isok1239",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35414",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "128804",
+        "phonology_or_text",
+        1985,
+        7,
+        "Donwa-Ifode, Shirley O. 1985"
+      ],
+      [
+        "58603",
+        "phonology_or_text",
+        1969,
+        10,
+        "Mafeni, Bernard O. W. 1969"
+      ],
+      [
+        "310528",
+        "wordlist_or_less",
+        1910,
+        12,
+        "Thomas, Northcote W. 1910"
+      ]
+    ]
+  },
+  "id": "isok1239",
+  "name": "Isoko",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.52889,
+  "longitude": 6.24682,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Akpes-Edoid",
+      "id": "akpe1249",
+      "url": "https://glottolog.org/resource/languoid/id/akpe1249"
+    },
+    {
+      "name": "Edoid",
+      "id": "edoi1239",
+      "url": "https://glottolog.org/resource/languoid/id/edoi1239"
+    },
+    {
+      "name": "Southwestern Edoid",
+      "id": "sout2805",
+      "url": "https://glottolog.org/resource/languoid/id/sout2805"
+    }
+  ],
+  "iso639-3": "iso"
+}

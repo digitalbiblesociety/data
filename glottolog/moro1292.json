@@ -1,0 +1,136 @@
+{
+  "pk": 16735,
+  "hid": "ary",
+  "father_pk": 14145,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Fez. Meknes [fezm1238]':1,'Jebli [jebl1238]':1,'Marrakech [marr1264]':1,'Oujda [oujd1238]':1,'Rabat-Casablanca Arabic [raba1252]':1,'Southern Morocco Arabic [sout3117]':1,'Tangier [tang1371]':1)'Moroccan Arabic [moro1292][ary]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_amr",
+        "label": "Arabic (Moroccan)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Moroccan_Arabic",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/moro1292",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56426",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "125527",
+        "long_grammar",
+        1989,
+        904,
+        "Caubet, Dominique 1989"
+      ],
+      [
+        "33747",
+        "grammar",
+        1977,
+        298,
+        "Philippe Marçais 1977"
+      ],
+      [
+        "77773",
+        "grammar",
+        1950,
+        291,
+        "Brunot, Louis 1950"
+      ],
+      [
+        "99270",
+        "grammar",
+        1949,
+        0,
+        "Buret, M.-T. 1949"
+      ],
+      [
+        "53633",
+        "grammar",
+        1913,
+        0,
+        "Gaudefroy-Demombynes, Maurice and Mercier, L. 1913"
+      ],
+      [
+        "118393",
+        "grammar_sketch",
+        1912,
+        154,
+        "Kampffmeyer, Georg 1912"
+      ],
+      [
+        "586824",
+        "grammar_sketch",
+        1800,
+        72,
+        "de Dombay, Franciscus 1800"
+      ]
+    ]
+  },
+  "id": "moro1292",
+  "name": "Moroccan Arabic",
+  "description": null,
+  "markup_description": null,
+  "latitude": 32.5,
+  "longitude": -7.5,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Semitic",
+      "id": "semi1276",
+      "url": "https://glottolog.org/resource/languoid/id/semi1276"
+    },
+    {
+      "name": "West Semitic",
+      "id": "west2786",
+      "url": "https://glottolog.org/resource/languoid/id/west2786"
+    },
+    {
+      "name": "Central Semitic",
+      "id": "cent2236",
+      "url": "https://glottolog.org/resource/languoid/id/cent2236"
+    },
+    {
+      "name": "Arabian",
+      "id": "arab1394",
+      "url": "https://glottolog.org/resource/languoid/id/arab1394"
+    },
+    {
+      "name": "Arabic",
+      "id": "arab1395",
+      "url": "https://glottolog.org/resource/languoid/id/arab1395"
+    },
+    {
+      "name": "North African Arabic",
+      "id": "nort3191",
+      "url": "https://glottolog.org/resource/languoid/id/nort3191"
+    },
+    {
+      "name": "Moroccan-Andalusian Arabic",
+      "id": "moro1295",
+      "url": "https://glottolog.org/resource/languoid/id/moro1295"
+    }
+  ],
+  "iso639-3": "ary"
+}

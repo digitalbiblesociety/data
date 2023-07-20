@@ -1,0 +1,96 @@
+{
+  "pk": 3062,
+  "hid": "mdf",
+  "father_pk": 1559,
+  "family_pk": 302,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Moksha [moks1248][mdf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4636",
+        "label": "Moksha"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mmo",
+        "label": "Mordvin (Moksha)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Moksha_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/moks1248",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q13343",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "647745",
+        "long_grammar",
+        2018,
+        1038,
+        "S. Yu. Toldova 2018"
+      ],
+      [
+        "613403",
+        "long_grammar",
+        1929,
+        446,
+        "Evsev'ev, M. E. 1929"
+      ],
+      [
+        "312876",
+        "grammar",
+        1861,
+        243,
+        "August Ahlquist 1861"
+      ],
+      [
+        "320446",
+        "grammar_sketch",
+        1838,
+        120,
+        "Pavel Ornatov 1838"
+      ],
+      [
+        "320011",
+        "wordlist_or_less",
+        1692,
+        52,
+        "Witsen, Nicolaes 1705 [1692]"
+      ]
+    ]
+  },
+  "id": "moks1248",
+  "name": "Moksha",
+  "description": null,
+  "markup_description": null,
+  "latitude": 54.1855,
+  "longitude": 42.6728,
+  "classification": [
+    {
+      "name": "Uralic",
+      "id": "ural1272",
+      "url": "https://glottolog.org/resource/languoid/id/ural1272"
+    },
+    {
+      "name": "Mordvin",
+      "id": "mord1256",
+      "url": "https://glottolog.org/resource/languoid/id/mord1256"
+    }
+  ],
+  "iso639-3": "mdf"
+}

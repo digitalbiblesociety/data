@@ -1,0 +1,94 @@
+{
+  "pk": 3551,
+  "hid": "sah",
+  "father_pk": 1900,
+  "family_pk": 14,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Sakha [yaku1245][sah]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10454",
+        "label": "Yakut"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ykt",
+        "label": "Yakut"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yakut_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/yaku1245",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q34299",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "318439",
+        "long_grammar",
+        1982,
+        836,
+        "Elizaveta I. Ubrjatova and L. N. Xaritonov and N.E. Petrov 1982, 1995"
+      ],
+      [
+        "14550",
+        "long_grammar",
+        1851,
+        453,
+        "Böhtlingk, Otto 1851"
+      ],
+      [
+        "13948",
+        "phonology_or_text",
+        1787,
+        3,
+        "Lorenzo Hervas 1787"
+      ],
+      [
+        "309459",
+        "wordlist_or_less",
+        1786,
+        20,
+        "Pallas, Peter Simon 1786, 1789"
+      ]
+    ]
+  },
+  "id": "yaku1245",
+  "name": "Sakha",
+  "description": null,
+  "markup_description": null,
+  "latitude": 61.69744,
+  "longitude": 133.98031,
+  "classification": [
+    {
+      "name": "Turkic",
+      "id": "turk1311",
+      "url": "https://glottolog.org/resource/languoid/id/turk1311"
+    },
+    {
+      "name": "Common Turkic",
+      "id": "comm1245",
+      "url": "https://glottolog.org/resource/languoid/id/comm1245"
+    },
+    {
+      "name": "North Siberian Turkic",
+      "id": "nort2688",
+      "url": "https://glottolog.org/resource/languoid/id/nort2688"
+    }
+  ],
+  "iso639-3": "sah"
+}

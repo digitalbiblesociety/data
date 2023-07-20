@@ -1,0 +1,90 @@
+{
+  "pk": 12109,
+  "hid": "adr",
+  "father_pk": 9229,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Botun [botu1239]':1,('Dulhi [dulh1234]':1,'Kiwangona [kiwa1252]':1)'East Adonara [east2470]':1,('Lamakera [lama1298]':1,'Watan [wata1254]':1)'East Solor [east2469]':1,('Horowura [horo1249]':1,'Waiwadan [waiw1246]':1)'West Adonara [west2544]':1)'Adonara [adon1237][adr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 10,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q4684505",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Adonara_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "556659",
+        "grammar_sketch",
+        2017,
+        76,
+        "Marc Michels 2017"
+      ],
+      [
+        "663328",
+        "phonology_or_text",
+        2000,
+        0,
+        "Japa, I. W. 2000"
+      ],
+      [
+        "127725",
+        "wordlist_or_less",
+        1978,
+        1,
+        "Gregorius Keraf 1978"
+      ]
+    ]
+  },
+  "id": "adon1237",
+  "name": "Adonara",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.32027,
+  "longitude": 123.159,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Bima-Lembata",
+      "id": "bima1248",
+      "url": "https://glottolog.org/resource/languoid/id/bima1248"
+    },
+    {
+      "name": "Flores-Lembata",
+      "id": "flor1239",
+      "url": "https://glottolog.org/resource/languoid/id/flor1239"
+    },
+    {
+      "name": "Lamaholot Barat",
+      "id": "lama1293",
+      "url": "https://glottolog.org/resource/languoid/id/lama1293"
+    },
+    {
+      "name": "North Lembata-Adonara",
+      "id": "nort3216",
+      "url": "https://glottolog.org/resource/languoid/id/nort3216"
+    }
+  ],
+  "iso639-3": "adr"
+}

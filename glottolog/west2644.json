@@ -1,0 +1,119 @@
+{
+  "pk": 17165,
+  "hid": "ctp",
+  "father_pk": 14755,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Panixtlahuaca Chatino [pani1261]':1,'San Juan Quiahije Chatino [sanj1283]':1,'Yaitepec Chatino [yait1239]':1)'Western Highland Chatino [west2644][ctp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_cso",
+        "label": "Chatino (Sierra Occidental)"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_cya",
+        "label": "Chatino (Yaitepec)"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/4058",
+        "label": "Western Highland Chatino"
+      },
+      {
+        "url": "https://phoible.org/languages/west2644",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q32861734",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "131347",
+        "long_grammar",
+        2002,
+        393,
+        "Rasch, Jeffrey Walter 2002"
+      ],
+      [
+        "24812",
+        "grammar",
+        1965,
+        249,
+        "Pride, Kitty 1965"
+      ],
+      [
+        "111229",
+        "phonology_or_text",
+        1960,
+        8,
+        "Upson, Jessamine 1960"
+      ],
+      [
+        "128259",
+        "wordlist_or_less",
+        1913,
+        9,
+        "Franz Boas 1913"
+      ]
+    ]
+  },
+  "id": "west2644",
+  "name": "Western Highland Chatino",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.2495,
+  "longitude": -97.3244,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Popoloca-Zapotecan",
+      "id": "popo1292",
+      "url": "https://glottolog.org/resource/languoid/id/popo1292"
+    },
+    {
+      "name": "Zapotecan",
+      "id": "zapo1436",
+      "url": "https://glottolog.org/resource/languoid/id/zapo1436"
+    },
+    {
+      "name": "Chatino",
+      "id": "chat1268",
+      "url": "https://glottolog.org/resource/languoid/id/chat1268"
+    },
+    {
+      "name": "Core Chatino",
+      "id": "core1263",
+      "url": "https://glottolog.org/resource/languoid/id/core1263"
+    },
+    {
+      "name": "Coastal Chatino",
+      "id": "coas1314",
+      "url": "https://glottolog.org/resource/languoid/id/coas1314"
+    },
+    {
+      "name": "Eastern Chatino",
+      "id": "east2736",
+      "url": "https://glottolog.org/resource/languoid/id/east2736"
+    }
+  ],
+  "iso639-3": "ctp"
+}

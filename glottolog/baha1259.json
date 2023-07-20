@@ -1,0 +1,104 @@
+{
+  "pk": 16698,
+  "hid": "abv",
+  "father_pk": 14132,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Baharna Arabic [baha1259][abv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56576",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bahrani_Arabic",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_abh",
+        "label": "Arabic (Bahrain)"
+      }
+    ],
+    "meds": [
+      [
+        "549462",
+        "long_grammar",
+        2015,
+        520,
+        "Clive Holes 2015"
+      ],
+      [
+        "27324",
+        "grammar_sketch",
+        1982,
+        111,
+        "Al-Tajir, Mahdi Abdallah 1982"
+      ],
+      [
+        "300515",
+        "grammar_sketch",
+        1981,
+        40,
+        "Prochazka, Theodore 1981"
+      ]
+    ]
+  },
+  "id": "baha1259",
+  "name": "Baharna Arabic",
+  "description": null,
+  "markup_description": null,
+  "latitude": 26.223615,
+  "longitude": 50.580811,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Semitic",
+      "id": "semi1276",
+      "url": "https://glottolog.org/resource/languoid/id/semi1276"
+    },
+    {
+      "name": "West Semitic",
+      "id": "west2786",
+      "url": "https://glottolog.org/resource/languoid/id/west2786"
+    },
+    {
+      "name": "Central Semitic",
+      "id": "cent2236",
+      "url": "https://glottolog.org/resource/languoid/id/cent2236"
+    },
+    {
+      "name": "Arabian",
+      "id": "arab1394",
+      "url": "https://glottolog.org/resource/languoid/id/arab1394"
+    },
+    {
+      "name": "Arabic",
+      "id": "arab1395",
+      "url": "https://glottolog.org/resource/languoid/id/arab1395"
+    },
+    {
+      "name": "Arabian Peninsula Arabic",
+      "id": "arab1393",
+      "url": "https://glottolog.org/resource/languoid/id/arab1393"
+    },
+    {
+      "name": "North Arabian Beduin Arabic",
+      "id": "nort3402",
+      "url": "https://glottolog.org/resource/languoid/id/nort3402"
+    }
+  ],
+  "iso639-3": "abv"
+}

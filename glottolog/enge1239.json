@@ -1,0 +1,103 @@
+{
+  "pk": 15888,
+  "hid": "enn",
+  "father_pk": 13039,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ediro [edir1242]':1,'Inedua [ined1238]':1,'Ogua [ogua1239]':1,'Zarama [zara1246]':1)'Egene [enge1239][enn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3915365",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Engenni_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/enge1239",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_egn",
+        "label": "Engenni"
+      }
+    ],
+    "meds": [
+      [
+        "27407",
+        "grammar",
+        1969,
+        259,
+        "Thomas, Elaine 1969"
+      ],
+      [
+        "146415",
+        "wordlist_or_less",
+        1967,
+        35,
+        "Thomas, Elaine and Williamson, Kay [Ruth] [Margaret] 1967"
+      ],
+      [
+        "150176",
+        "wordlist_or_less",
+        1914,
+        2,
+        "Thomas, Northcote Whitridge 1914"
+      ]
+    ]
+  },
+  "id": "enge1239",
+  "name": "Egene",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.11931,
+  "longitude": 6.37339,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Akpes-Edoid",
+      "id": "akpe1249",
+      "url": "https://glottolog.org/resource/languoid/id/akpe1249"
+    },
+    {
+      "name": "Edoid",
+      "id": "edoi1239",
+      "url": "https://glottolog.org/resource/languoid/id/edoi1239"
+    },
+    {
+      "name": "Delta Edoid",
+      "id": "delt1252",
+      "url": "https://glottolog.org/resource/languoid/id/delt1252"
+    },
+    {
+      "name": "Degema-Engenni",
+      "id": "dege1249",
+      "url": "https://glottolog.org/resource/languoid/id/dege1249"
+    }
+  ],
+  "iso639-3": "enn"
+}

@@ -1,0 +1,106 @@
+{
+  "pk": 3193,
+  "hid": "mni",
+  "father_pk": 1659,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Loi [loii1241]':1,'Meitei [meit1246]':1,'Pangal [pang1284]':1)'Manipuri [mani1292][mni]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mei",
+        "label": "Meithei"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Meitei_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/mani1292",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33868",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "25711",
+        "long_grammar",
+        1992,
+        565,
+        "Chelliah, Shobhana Lakshmi 1992"
+      ],
+      [
+        "552218",
+        "long_grammar",
+        1976,
+        509,
+        "Singh, Usham Chetan 1976"
+      ],
+      [
+        "135537",
+        "grammar",
+        1888,
+        100,
+        "Primrose, Arthur John 1888"
+      ],
+      [
+        "87441",
+        "grammar",
+        1875,
+        9,
+        "Damant, G. H. 1875"
+      ],
+      [
+        "52757",
+        "wordlist_or_less",
+        1874,
+        9,
+        "Campbell, George 1874"
+      ],
+      [
+        "83951",
+        "wordlist_or_less",
+        1872,
+        5,
+        "Dalton, Edward Tuite 1872"
+      ],
+      [
+        "115954",
+        "wordlist_or_less",
+        1837,
+        1,
+        "Brown, Nathan 1837"
+      ]
+    ]
+  },
+  "id": "mani1292",
+  "name": "Manipuri",
+  "description": null,
+  "markup_description": null,
+  "latitude": 24.4409,
+  "longitude": 93.3426,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    }
+  ],
+  "iso639-3": "mni"
+}

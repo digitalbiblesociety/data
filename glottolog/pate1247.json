@@ -1,0 +1,119 @@
+{
+  "pk": 23006,
+  "hid": "ptp",
+  "father_pk": 21407,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dengalu [deng1252]':1)'Patep [pate1247][ptp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_pat",
+        "label": "Patep"
+      },
+      {
+        "url": "https://phoible.org/languages/pate1247",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3368679",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "69106",
+        "grammar",
+        1976,
+        160,
+        "Linda M. Lauck and Karen L. Adams and Richard Loving 1976"
+      ],
+      [
+        "61649",
+        "grammar_sketch",
+        1975,
+        43,
+        "Karen Adams and Linda Lauck 1975"
+      ],
+      [
+        "106236",
+        "wordlist_or_less",
+        1971,
+        1,
+        "Bruce A. Hooley 1971"
+      ]
+    ]
+  },
+  "id": "pate1247",
+  "name": "Patep",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.91988,
+  "longitude": 146.639,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Western Oceanic linkage",
+      "id": "west2818",
+      "url": "https://glottolog.org/resource/languoid/id/west2818"
+    },
+    {
+      "name": "North New Guinea linkage",
+      "id": "nort3206",
+      "url": "https://glottolog.org/resource/languoid/id/nort3206"
+    },
+    {
+      "name": "Huon Gulf",
+      "id": "huon1245",
+      "url": "https://glottolog.org/resource/languoid/id/huon1245"
+    },
+    {
+      "name": "South Huon Gulf linkage",
+      "id": "sout2878",
+      "url": "https://glottolog.org/resource/languoid/id/sout2878"
+    },
+    {
+      "name": "Buang linkage",
+      "id": "buan1245",
+      "url": "https://glottolog.org/resource/languoid/id/buan1245"
+    },
+    {
+      "name": "Mumeng",
+      "id": "mume1239",
+      "url": "https://glottolog.org/resource/languoid/id/mume1239"
+    },
+    {
+      "name": "Zenag-Patep",
+      "id": "zena1251",
+      "url": "https://glottolog.org/resource/languoid/id/zena1251"
+    }
+  ],
+  "iso639-3": "ptp"
+}

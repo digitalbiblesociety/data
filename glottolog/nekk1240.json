@@ -1,0 +1,83 @@
+{
+  "pk": 11931,
+  "hid": "nif",
+  "father_pk": 9108,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('East Nek [east2506]':1,'West Nek [west2587]':1)'Nek [nekk1240][nif]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Nek_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6989781",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "580900",
+        "grammar_sketch",
+        1993,
+        196,
+        "Katri Linnasalo 1993"
+      ],
+      [
+        "64314",
+        "wordlist_or_less",
+        1970,
+        1,
+        "Oren R. Claassen and Kenneth A. McElhanon 1970"
+      ]
+    ]
+  },
+  "id": "nekk1240",
+  "name": "Nek",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.37697,
+  "longitude": 146.841,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Finisterre-Huon",
+      "id": "fini1244",
+      "url": "https://glottolog.org/resource/languoid/id/fini1244"
+    },
+    {
+      "name": "Finisterre-Saruwaged",
+      "id": "fini1245",
+      "url": "https://glottolog.org/resource/languoid/id/fini1245"
+    },
+    {
+      "name": "Erap",
+      "id": "erap1240",
+      "url": "https://glottolog.org/resource/languoid/id/erap1240"
+    },
+    {
+      "name": "Boana",
+      "id": "boan1245",
+      "url": "https://glottolog.org/resource/languoid/id/boan1245"
+    },
+    {
+      "name": "Nek-Nuk",
+      "id": "nekn1234",
+      "url": "https://glottolog.org/resource/languoid/id/nekn1234"
+    }
+  ],
+  "iso639-3": "nif"
+}

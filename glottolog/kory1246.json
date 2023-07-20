@@ -1,0 +1,120 @@
+{
+  "pk": 7434,
+  "hid": "kpy",
+  "father_pk": 5078,
+  "family_pk": 340,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Apuka [apok1238]':1,'Cavcuvenskij [cavc1238]':1,'Itkan [itka1238]':1,'Kamen [kame1251]':1,'Paren {Koryak} [pare1268]':1)'Koryak [kory1246][kpy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2506",
+        "label": "Koryak"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kry",
+        "label": "Koryak"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Koryak_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kory1246",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36199",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "41707",
+        "long_grammar",
+        1972,
+        327,
+        "Alevtina N. Žukova 1972"
+      ],
+      [
+        "115783",
+        "grammar",
+        1940,
+        212,
+        "Korsakov, G. M. 1940"
+      ],
+      [
+        "323900",
+        "grammar_sketch",
+        1938,
+        38,
+        "S. N. Stebnitskij 1938"
+      ],
+      [
+        "128050",
+        "grammar_sketch",
+        1934,
+        38,
+        "S. N. Stebnitskij 1934"
+      ],
+      [
+        "80711",
+        "phonology_or_text",
+        1917,
+        160,
+        "Bogoras, Waldemar 1974 [1917]"
+      ],
+      [
+        "576262",
+        "wordlist_or_less",
+        1895,
+        81,
+        "Radliński, Ignacy 1895"
+      ],
+      [
+        "44582",
+        "wordlist_or_less",
+        1774,
+        58,
+        "G. W. Steller 1774"
+      ]
+    ]
+  },
+  "id": "kory1246",
+  "name": "Koryak",
+  "description": null,
+  "markup_description": null,
+  "latitude": 63.8977,
+  "longitude": 166.695,
+  "classification": [
+    {
+      "name": "Chukotko-Kamchatkan",
+      "id": "chuk1271",
+      "url": "https://glottolog.org/resource/languoid/id/chuk1271"
+    },
+    {
+      "name": "Chukotian",
+      "id": "chuk1272",
+      "url": "https://glottolog.org/resource/languoid/id/chuk1272"
+    },
+    {
+      "name": "Koryakic",
+      "id": "kory1247",
+      "url": "https://glottolog.org/resource/languoid/id/kory1247"
+    },
+    {
+      "name": "J-Koryakic",
+      "id": "jkor1234",
+      "url": "https://glottolog.org/resource/languoid/id/jkor1234"
+    }
+  ],
+  "iso639-3": "kpy"
+}

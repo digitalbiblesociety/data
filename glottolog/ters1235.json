@@ -1,0 +1,81 @@
+{
+  "pk": 6974,
+  "hid": "sjt",
+  "father_pk": 4780,
+  "family_pk": 302,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ter Saami [ters1235][sjt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3566",
+        "label": "Ter Saami"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ter_Sami",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/ters1235",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36656",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "318887",
+        "grammar",
+        2002,
+        146,
+        "Tereškin, Sergej N. 2002"
+      ],
+      [
+        "319259",
+        "grammar_sketch",
+        1883,
+        12,
+        "Halász, Ignácz 1883"
+      ]
+    ]
+  },
+  "id": "ters1235",
+  "name": "Ter Saami",
+  "description": null,
+  "markup_description": null,
+  "latitude": 67.2458,
+  "longitude": 38.5061,
+  "classification": [
+    {
+      "name": "Uralic",
+      "id": "ural1272",
+      "url": "https://glottolog.org/resource/languoid/id/ural1272"
+    },
+    {
+      "name": "Saami",
+      "id": "saam1281",
+      "url": "https://glottolog.org/resource/languoid/id/saam1281"
+    },
+    {
+      "name": "Eastern Saami",
+      "id": "east2324",
+      "url": "https://glottolog.org/resource/languoid/id/east2324"
+    },
+    {
+      "name": "Peninsular Eastern Saami",
+      "id": "peni1240",
+      "url": "https://glottolog.org/resource/languoid/id/peni1240"
+    }
+  ],
+  "iso639-3": "sjt"
+}

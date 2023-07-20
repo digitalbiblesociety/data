@@ -1,0 +1,63 @@
+{
+  "pk": 860,
+  "hid": "mhv",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Arakanese [arak1256][mhv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "mhv",
+      "name": "Arakanese",
+      "change_request": "2007-189",
+      "effective": "2008-01-14",
+      "reason": "split",
+      "change_to": [
+        "rmz",
+        "rki"
+      ],
+      "remedy": "Split into Marma [rmz] and Rakhine [rki]",
+      "comment": "Based on word lists recently elicited, lexical similarity percentages between\nMarma and Rakhine are 62-68%. Intelligibility testing was also done by playing a\nRakhine story among Marma mother tongue speakers in two Marma villages. The\naverage scores in the two villages were 73% and 53%, indicating insufficient\ninherent intelligibility. Also, during the course of survey fieldwork, the term\n\"Arakanese\" was not mentioned by either the Marma or the Rakhine. Rather, the\nMarma refer to themselves as Marma, and the Rakhine refer to themselves as\nRakhine."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3450749",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Arakanese_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500112",
+        "wordlist_or_less",
+        2007,
+        0,
+        "ISO 639-3 Registration Authority 2007"
+      ]
+    ]
+  },
+  "id": "arak1256",
+  "name": "Arakanese",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "mhv"
+}

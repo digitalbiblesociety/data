@@ -1,0 +1,103 @@
+{
+  "pk": 9748,
+  "hid": "lno",
+  "father_pk": 7089,
+  "family_pk": 316,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Imotong [imot1234][imt]':1,'Lango {South Sudan} [lang1343][lgo]':1,'Logir [logi1239][lqr]':1)'Lango-Logire-Logir [lang1322][lno]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "lno",
+      "name": "Lango (South Sudan)",
+      "change_request": "2021-027",
+      "effective": "2022-01-20",
+      "reason": "split",
+      "change_to": [
+        "lgo",
+        "imt",
+        "lqr",
+        "oie"
+      ],
+      "remedy": "Split into Lango [lgo], Imotong [imt], Logir [lqr] and Okolie [oie]",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q223306",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lango_language_(South_Sudan)",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/lang1322",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "318156",
+        "wordlist_or_less",
+        1938,
+        1,
+        "Muratori, Carlo P. 1938"
+      ],
+      [
+        "83914",
+        "wordlist_or_less",
+        1932,
+        10,
+        "Seligmann, Charles Gabriel and Seligmann, Brenda Zara 1932"
+      ],
+      [
+        "118888",
+        "wordlist_or_less",
+        1925,
+        6,
+        "Seligman, C. G. 1925"
+      ]
+    ]
+  },
+  "id": "lang1322",
+  "name": "Lango-Logire-Logir",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.04948,
+  "longitude": 33.0412,
+  "classification": [
+    {
+      "name": "Nilotic",
+      "id": "nilo1247",
+      "url": "https://glottolog.org/resource/languoid/id/nilo1247"
+    },
+    {
+      "name": "Eastern Nilotic",
+      "id": "east2418",
+      "url": "https://glottolog.org/resource/languoid/id/east2418"
+    },
+    {
+      "name": "Teso-Lotuxo-Maa",
+      "id": "teso1247",
+      "url": "https://glottolog.org/resource/languoid/id/teso1247"
+    },
+    {
+      "name": "Lotuxo-Maa",
+      "id": "lotu1248",
+      "url": "https://glottolog.org/resource/languoid/id/lotu1248"
+    },
+    {
+      "name": "Lotuxo",
+      "id": "lotu1249",
+      "url": "https://glottolog.org/resource/languoid/id/lotu1249"
+    }
+  ],
+  "iso639-3": "lno"
+}

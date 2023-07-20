@@ -1,0 +1,103 @@
+{
+  "pk": 14952,
+  "hid": "xbr",
+  "father_pk": 12094,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kanatang [kana1287]':1,'Lewa [lewa1240]':1,'Mangili-Waijelo [mang1406]':1,'Melolo [melo1243]':1,'Nuclear Kambera [nucl1521]':1,'Southern Sumba [sout2885]':1,'Umbu Ratu Nggai [umar1237]':1)'Kambera [kamb1299][xbr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3053279",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kambera_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kamb1299",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kam",
+        "label": "Kambera"
+      }
+    ],
+    "meds": [
+      [
+        "157898",
+        "long_grammar",
+        1998,
+        463,
+        "Marian Klamer 1998"
+      ],
+      [
+        "16767",
+        "long_grammar",
+        1994,
+        448,
+        "Marian Klamer 1994"
+      ],
+      [
+        "78954",
+        "grammar_sketch",
+        1910,
+        351,
+        "D. K. Wielenga 1910"
+      ]
+    ]
+  },
+  "id": "kamb1299",
+  "name": "Kambera",
+  "description": null,
+  "markup_description": null,
+  "latitude": -9.88447,
+  "longitude": 120.235,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Bima-Lembata",
+      "id": "bima1248",
+      "url": "https://glottolog.org/resource/languoid/id/bima1248"
+    },
+    {
+      "name": "Flores-Sumba-Hawu",
+      "id": "flor1240",
+      "url": "https://glottolog.org/resource/languoid/id/flor1240"
+    },
+    {
+      "name": "Sumba-Hawu",
+      "id": "sumb1242",
+      "url": "https://glottolog.org/resource/languoid/id/sumb1242"
+    },
+    {
+      "name": "Sumba",
+      "id": "sumb1243",
+      "url": "https://glottolog.org/resource/languoid/id/sumb1243"
+    },
+    {
+      "name": "Central-East Sumbanese",
+      "id": "kamb1320",
+      "url": "https://glottolog.org/resource/languoid/id/kamb1320"
+    }
+  ],
+  "iso639-3": "xbr"
+}

@@ -1,0 +1,75 @@
+{
+  "pk": 8148,
+  "hid": "lsr",
+  "father_pk": 5709,
+  "family_pk": 103,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Srenge [aruo1240][lsr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10551",
+        "label": "Aruop"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3450566",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Aruop_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "138610",
+        "wordlist_or_less",
+        1968,
+        1,
+        "Donald C. Laycock 1968"
+      ]
+    ]
+  },
+  "id": "aruo1240",
+  "name": "Srenge",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.45782,
+  "longitude": 142.478,
+  "classification": [
+    {
+      "name": "Nuclear Torricelli",
+      "id": "nucl1708",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1708"
+    },
+    {
+      "name": "Wapei-Palei",
+      "id": "wape1249",
+      "url": "https://glottolog.org/resource/languoid/id/wape1249"
+    },
+    {
+      "name": "Central Torricelli",
+      "id": "cent2407",
+      "url": "https://glottolog.org/resource/languoid/id/cent2407"
+    },
+    {
+      "name": "Nuclear Palai",
+      "id": "nucl1722",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1722"
+    },
+    {
+      "name": "Bragat-Aruop-Amol",
+      "id": "brag1241",
+      "url": "https://glottolog.org/resource/languoid/id/brag1241"
+    }
+  ],
+  "iso639-3": "lsr"
+}

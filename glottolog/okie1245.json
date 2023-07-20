@@ -1,0 +1,105 @@
+{
+  "pk": 7054,
+  "hid": "oki",
+  "father_pk": 4843,
+  "family_pk": 316,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Nuclear Okiek [nucl1432]':1,'Sogoo [sogo1244]':1,'Suiei {Okiek} [suie1241]':1)'Okiek [okie1245][oki]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3794",
+        "label": "Okiek"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56367",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ogiek_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "588559",
+        "grammar_sketch",
+        2018,
+        162,
+        "Ilaria Micheli 2018"
+      ],
+      [
+        "156015",
+        "phonology_or_text",
+        1982,
+        10,
+        "Rottland, Franz 1982"
+      ],
+      [
+        "50809",
+        "wordlist_or_less",
+        1929,
+        23,
+        "Huntingford, G. W. B. 1929"
+      ],
+      [
+        "58624",
+        "wordlist_or_less",
+        1904,
+        13,
+        "Johnston, Harry 1904"
+      ],
+      [
+        "41931",
+        "wordlist_or_less",
+        1902,
+        7,
+        "Hobley, C. W. 1902"
+      ],
+      [
+        "23780",
+        "wordlist_or_less",
+        1899,
+        4,
+        "MacDonald, J. R. L. 1899"
+      ]
+    ]
+  },
+  "id": "okie1245",
+  "name": "Okiek",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.78048,
+  "longitude": 36.5977,
+  "classification": [
+    {
+      "name": "Nilotic",
+      "id": "nilo1247",
+      "url": "https://glottolog.org/resource/languoid/id/nilo1247"
+    },
+    {
+      "name": "Southern Nilotic",
+      "id": "sout2830",
+      "url": "https://glottolog.org/resource/languoid/id/sout2830"
+    },
+    {
+      "name": "Kalenjin",
+      "id": "kale1246",
+      "url": "https://glottolog.org/resource/languoid/id/kale1246"
+    },
+    {
+      "name": "Okiek-Akie",
+      "id": "okie1247",
+      "url": "https://glottolog.org/resource/languoid/id/okie1247"
+    }
+  ],
+  "iso639-3": "oki"
+}

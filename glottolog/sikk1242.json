@@ -1,0 +1,108 @@
+{
+  "pk": 18500,
+  "hid": "sip",
+  "father_pk": 16180,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Sikkimese [sikk1242][sip]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q35285",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sikkimese_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/sikk1242",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_skk",
+        "label": "Sikkimese"
+      }
+    ],
+    "meds": [
+      [
+        "590152",
+        "long_grammar",
+        2021,
+        717,
+        "Juha Yliniemi 2021"
+      ],
+      [
+        "578800",
+        "long_grammar",
+        2019,
+        673,
+        "Juha Yliniemi 2019"
+      ],
+      [
+        "27540",
+        "grammar",
+        1888,
+        0,
+        "Sandberg, Graham 1888"
+      ]
+    ]
+  },
+  "id": "sikk1242",
+  "name": "Sikkimese",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.85795,
+  "longitude": 88.59153,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "Bodish",
+      "id": "bodi1257",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1257"
+    },
+    {
+      "name": "Early Old Tibetan",
+      "id": "oldm1245",
+      "url": "https://glottolog.org/resource/languoid/id/oldm1245"
+    },
+    {
+      "name": "Middle Old Tibetan",
+      "id": "tibe1276",
+      "url": "https://glottolog.org/resource/languoid/id/tibe1276"
+    },
+    {
+      "name": "Late Old Tibetan",
+      "id": "late1253",
+      "url": "https://glottolog.org/resource/languoid/id/late1253"
+    },
+    {
+      "name": "Southern Tibetic",
+      "id": "sout3217",
+      "url": "https://glottolog.org/resource/languoid/id/sout3217"
+    },
+    {
+      "name": "Dzongkhic",
+      "id": "dzon1238",
+      "url": "https://glottolog.org/resource/languoid/id/dzon1238"
+    }
+  ],
+  "iso639-3": "sip"
+}

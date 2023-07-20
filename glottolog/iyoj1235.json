@@ -1,0 +1,79 @@
+{
+  "pk": 4255,
+  "hid": "crt",
+  "father_pk": 2465,
+  "family_pk": 194,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Iyojwa''ja Chorote [iyoj1235][crt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3013",
+        "label": "Chorote"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Iyojwa%CA%BCja_Chorote",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3504118",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "320227",
+        "long_grammar",
+        2014,
+        469,
+        "Javier Carol 2014"
+      ],
+      [
+        "147078",
+        "long_grammar",
+        1915,
+        342,
+        "Richard J. Hunt 1915"
+      ],
+      [
+        "153232",
+        "wordlist_or_less",
+        1904,
+        14,
+        "von Rosen, Eric 1904"
+      ]
+    ]
+  },
+  "id": "iyoj1235",
+  "name": "Iyojwa'ja Chorote",
+  "description": null,
+  "markup_description": null,
+  "latitude": -22.1896,
+  "longitude": -63.2383,
+  "classification": [
+    {
+      "name": "Matacoan",
+      "id": "mata1289",
+      "url": "https://glottolog.org/resource/languoid/id/mata1289"
+    },
+    {
+      "name": "Mataguayo II",
+      "id": "mata1291",
+      "url": "https://glottolog.org/resource/languoid/id/mata1291"
+    },
+    {
+      "name": "Chorote",
+      "id": "chor1274",
+      "url": "https://glottolog.org/resource/languoid/id/chor1274"
+    }
+  ],
+  "iso639-3": "crt"
+}

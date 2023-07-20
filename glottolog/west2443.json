@@ -1,0 +1,139 @@
+{
+  "pk": 11443,
+  "hid": "NOCODE_Western-Victoria",
+  "father_pk": 8479,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Djabwurrung [djab1234][tjw]':1,'Wergaia [werg1234][weg]':1)'Djadjawurrungic [djad1246]':1,'Ladji Ladji [ladj1234][llj]':1,'Madhi Madhi [madh1244][dmd]':1,'Nari Nari [nari1241][rnr]':1,'Wadi Wadi [wadi1260][xwd]':1,('Barababaraba [bara1404][rbp]':1,'Wemba Wemba [wemb1241][xww]':1)'Wembawembic [wemb1242]':1,'Wotjobaluk [wotj1234][xwt]':1)'Western Victoria [west2443]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 11,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "NOCODE_Western-Victoria",
+      "comment_type": "missing",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "The extinct, but quite well-attested, Kulin languages are missing as such from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26. One of the Kulin languages was the Western Victoria language (**hh:hvw:Waferetal:New-South-Wales**), which was not necessarily extinct by 1950 (**hh:hw:Hercus:Victoria:1969**)."
+    },
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mdm",
+        "label": "Madimadi"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_wem",
+        "label": "Wembawemba"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Wemba_Wemba_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/west2443",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q18472819",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "320216",
+        "grammar_sketch",
+        2011,
+        34,
+        "Barry J. Blake 2011"
+      ],
+      [
+        "87541",
+        "grammar_sketch",
+        1986,
+        28,
+        "Luise A. Hercus 1986"
+      ],
+      [
+        "151687",
+        "grammar_sketch",
+        1881,
+        20,
+        "James Dawson 1881"
+      ],
+      [
+        "36111",
+        "wordlist_or_less",
+        1878,
+        16,
+        "R. Brough Smyth 1878"
+      ],
+      [
+        "477676",
+        "wordlist_or_less",
+        1875,
+        8,
+        "Ridley, William 1875"
+      ],
+      [
+        "6762",
+        "wordlist_or_less",
+        1844,
+        159,
+        "Parker, Edward Stone 1844"
+      ]
+    ]
+  },
+  "id": "west2443",
+  "name": "Western Victoria",
+  "description": null,
+  "markup_description": null,
+  "latitude": -34.13829932,
+  "longitude": 143.6694397,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Southeastern Pama-Nyungan",
+      "id": "sout3135",
+      "url": "https://glottolog.org/resource/languoid/id/sout3135"
+    },
+    {
+      "name": "Victorian Pama-Nyungan",
+      "id": "vict1234",
+      "url": "https://glottolog.org/resource/languoid/id/vict1234"
+    },
+    {
+      "name": "Kulin-Bunganditj",
+      "id": "kuli1256",
+      "url": "https://glottolog.org/resource/languoid/id/kuli1256"
+    },
+    {
+      "name": "Kulin",
+      "id": "kuli1251",
+      "url": "https://glottolog.org/resource/languoid/id/kuli1251"
+    },
+    {
+      "name": "Nuclear Kulin",
+      "id": "nucl1335",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1335"
+    }
+  ]
+}

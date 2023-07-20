@@ -1,0 +1,93 @@
+{
+  "pk": 4740,
+  "hid": "kpx",
+  "father_pk": 2998,
+  "family_pk": 290,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mountain Koiali [moun1252][kpx]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kmo",
+        "label": "Koiali (Mountain)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mountain_Koiali_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6925030",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "154122",
+        "grammar",
+        1980,
+        116,
+        "Susan Garland 1980"
+      ],
+      [
+        "70236",
+        "grammar_sketch",
+        1975,
+        58,
+        "Garland, Roger and Garland, Susan 1975"
+      ],
+      [
+        "475541",
+        "grammar_sketch",
+        1969,
+        11,
+        "Dutton, Thomas Edward 1969"
+      ],
+      [
+        "84600",
+        "wordlist_or_less",
+        1899,
+        2,
+        "A. Giulianetti 1899"
+      ],
+      [
+        "76778",
+        "wordlist_or_less",
+        1895,
+        1,
+        "Sidney H. Ray 1895"
+      ]
+    ]
+  },
+  "id": "moun1252",
+  "name": "Mountain Koiali",
+  "description": null,
+  "markup_description": null,
+  "latitude": -9.06973,
+  "longitude": 147.384,
+  "classification": [
+    {
+      "name": "Koiarian",
+      "id": "koia1260",
+      "url": "https://glottolog.org/resource/languoid/id/koia1260"
+    },
+    {
+      "name": "Koiaric",
+      "id": "koia1261",
+      "url": "https://glottolog.org/resource/languoid/id/koia1261"
+    },
+    {
+      "name": "Biage-Mountain Koiali",
+      "id": "biag1235",
+      "url": "https://glottolog.org/resource/languoid/id/biag1235"
+    }
+  ],
+  "iso639-3": "kpx"
+}

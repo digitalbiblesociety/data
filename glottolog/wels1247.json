@@ -1,0 +1,116 @@
+{
+  "pk": 16648,
+  "hid": "cym",
+  "father_pk": 14072,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Northern Welsh [nort2668]':1,'Patagonian Welsh [pata1258]':1,'Southern Welsh [sout2673]':1)'Welsh [wels1247][cym]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10429",
+        "label": "Welsh"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_wel",
+        "label": "Welsh"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_wec",
+        "label": "Welsh (Colloquial)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Welsh_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/wels1247",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q9309",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "325032",
+        "long_grammar",
+        1996,
+        847,
+        "Thomas, Peter Wynn 1996"
+      ],
+      [
+        "144549",
+        "long_grammar",
+        1930,
+        504,
+        "Morris-Jones, John 1930"
+      ],
+      [
+        "320661",
+        "long_grammar",
+        1592,
+        328,
+        "Rhys, Siôn Dafydd 1592"
+      ]
+    ]
+  },
+  "id": "wels1247",
+  "name": "Welsh",
+  "description": null,
+  "markup_description": null,
+  "latitude": 52,
+  "longitude": -4,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Celtic",
+      "id": "celt1248",
+      "url": "https://glottolog.org/resource/languoid/id/celt1248"
+    },
+    {
+      "name": "Nuclear Celtic",
+      "id": "nucl1715",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1715"
+    },
+    {
+      "name": "TGB Celtic",
+      "id": "tgbc1234",
+      "url": "https://glottolog.org/resource/languoid/id/tgbc1234"
+    },
+    {
+      "name": "Insular Celtic",
+      "id": "insu1254",
+      "url": "https://glottolog.org/resource/languoid/id/insu1254"
+    },
+    {
+      "name": "Brythonic",
+      "id": "bryt1239",
+      "url": "https://glottolog.org/resource/languoid/id/bryt1239"
+    },
+    {
+      "name": "Old-Modern Welsh",
+      "id": "oldm1247",
+      "url": "https://glottolog.org/resource/languoid/id/oldm1247"
+    }
+  ],
+  "iso639-3": "cym"
+}

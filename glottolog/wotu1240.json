@@ -1,0 +1,82 @@
+{
+  "pk": 9242,
+  "hid": "wtw",
+  "father_pk": 6741,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Wotu [wotu1240][wtw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2804",
+        "label": "Wotu"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12473488",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Wotu_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "662331",
+        "grammar_sketch",
+        1986,
+        196,
+        "Sande, J.S. and J. Sabandar and Muhammad Nairn Haddade and W.M. Manala Manangi and Ch.S. Kanoena 1986"
+      ],
+      [
+        "42298",
+        "wordlist_or_less",
+        1898,
+        20,
+        "Adriani, N. 1898"
+      ]
+    ]
+  },
+  "id": "wotu1240",
+  "name": "Wotu",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.59593,
+  "longitude": 120.9,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Celebic",
+      "id": "cele1242",
+      "url": "https://glottolog.org/resource/languoid/id/cele1242"
+    },
+    {
+      "name": "Kaili-Wolio",
+      "id": "kail1255",
+      "url": "https://glottolog.org/resource/languoid/id/kail1255"
+    },
+    {
+      "name": "Southern Kaili-Wolio",
+      "id": "wotu1239",
+      "url": "https://glottolog.org/resource/languoid/id/wotu1239"
+    }
+  ],
+  "iso639-3": "wtw"
+}

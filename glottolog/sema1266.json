@@ -1,0 +1,102 @@
+{
+  "pk": 7666,
+  "hid": "sea",
+  "father_pk": 5315,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Betau [beta1249]':1,'Bidor [bido1238]':1,'Bil [bill1238]':1,'Cameron [came1250]':1,'Jelai [jela1244]':1,'Lipis [lipi1238]':1,'Orang Tanjong of Ulu Langat [oran1256]':1,'Perak I [pera1255]':1,'Perak II [pera1254]':1,'Sungkai [sung1267]':1,'Telom [telo1238]':1,'Ulu Kampar [uluk1256]':1)'Semai [sema1266][sea]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 12,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1257",
+        "label": "Semai"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3135426",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Semai_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_smj",
+        "label": "Semai"
+      }
+    ],
+    "meds": [
+      [
+        "131947",
+        "grammar_sketch",
+        2003,
+        92,
+        "Robert K. Dentan 2003"
+      ],
+      [
+        "82091",
+        "phonology_or_text",
+        1987,
+        191,
+        "Means, Nathalie and Means, Paul B. 1987"
+      ],
+      [
+        "158097",
+        "phonology_or_text",
+        1986,
+        191,
+        "Means, Nathalie and Paul B. Means 1986"
+      ],
+      [
+        "307913",
+        "phonology_or_text",
+        1915,
+        146,
+        "Richard J. Wilkinson 1915"
+      ],
+      [
+        "35303",
+        "wordlist_or_less",
+        1891,
+        9,
+        "Clifford, Hugh 1891"
+      ]
+    ]
+  },
+  "id": "sema1266",
+  "name": "Semai",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.13257,
+  "longitude": 101.477,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Aslian",
+      "id": "asli1243",
+      "url": "https://glottolog.org/resource/languoid/id/asli1243"
+    },
+    {
+      "name": "Central-Northern Aslian",
+      "id": "cent1987",
+      "url": "https://glottolog.org/resource/languoid/id/cent1987"
+    },
+    {
+      "name": "Senoic",
+      "id": "seno1278",
+      "url": "https://glottolog.org/resource/languoid/id/seno1278"
+    }
+  ],
+  "iso639-3": "sea"
+}

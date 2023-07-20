@@ -1,0 +1,102 @@
+{
+  "pk": 13310,
+  "hid": "cnh",
+  "father_pk": 10234,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Klangklang [klan1242]':1,'Shonshe [shon1249]':1,'Zokhua [zokh1239]':1)'Haka Chin [haka1240][cnh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5637",
+        "label": "Hakha Chin"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_lai",
+        "label": "Lai"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Hakha_Chin_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/haka1240",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3250286",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "99176",
+        "grammar",
+        1953,
+        0,
+        "Hay-Neave, D. R. 1953"
+      ],
+      [
+        "114545",
+        "grammar_sketch",
+        1897,
+        155,
+        "Newland, A.G.E. 1897"
+      ],
+      [
+        "135575",
+        "grammar_sketch",
+        1891,
+        52,
+        "Macnabb, Donald J. C. 1891"
+      ]
+    ]
+  },
+  "id": "haka1240",
+  "name": "Haka Chin",
+  "description": null,
+  "markup_description": null,
+  "latitude": 22.8735,
+  "longitude": 92.8208,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Kuki-Chin",
+      "id": "kuki1246",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1246"
+    },
+    {
+      "name": "Central Kuki-Chin",
+      "id": "cent2330",
+      "url": "https://glottolog.org/resource/languoid/id/cent2330"
+    },
+    {
+      "name": "Core Central Kuki-Chin",
+      "id": "cent2005",
+      "url": "https://glottolog.org/resource/languoid/id/cent2005"
+    },
+    {
+      "name": "Lai Chin",
+      "id": "laic1236",
+      "url": "https://glottolog.org/resource/languoid/id/laic1236"
+    }
+  ],
+  "iso639-3": "cnh"
+}

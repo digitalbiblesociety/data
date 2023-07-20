@@ -1,0 +1,83 @@
+{
+  "pk": 13513,
+  "hid": "zhd",
+  "father_pk": 10437,
+  "family_pk": 356,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Dai Zhuang [daiz1235][zhd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q5209052",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dai_Zhuang_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "305317",
+        "phonology_or_text",
+        1997,
+        17,
+        "Kosaka, Ryuichi 1997"
+      ],
+      [
+        "319145",
+        "wordlist_or_less",
+        1906,
+        22,
+        "Lunet de La Jonquière, Étienne-Edmond 1906"
+      ]
+    ]
+  },
+  "id": "daiz1235",
+  "name": "Dai Zhuang",
+  "description": null,
+  "markup_description": null,
+  "latitude": 23.4,
+  "longitude": 104.4,
+  "classification": [
+    {
+      "name": "Tai-Kadai",
+      "id": "taik1256",
+      "url": "https://glottolog.org/resource/languoid/id/taik1256"
+    },
+    {
+      "name": "Kam-Tai",
+      "id": "kamt1241",
+      "url": "https://glottolog.org/resource/languoid/id/kamt1241"
+    },
+    {
+      "name": "Daic-Beic",
+      "id": "daic1238",
+      "url": "https://glottolog.org/resource/languoid/id/daic1238"
+    },
+    {
+      "name": "Daic",
+      "id": "daic1237",
+      "url": "https://glottolog.org/resource/languoid/id/daic1237"
+    },
+    {
+      "name": "Central-Southwestern Tai",
+      "id": "cent2251",
+      "url": "https://glottolog.org/resource/languoid/id/cent2251"
+    },
+    {
+      "name": "Wenma-Southwestern Tai",
+      "id": "wenm1239",
+      "url": "https://glottolog.org/resource/languoid/id/wenm1239"
+    }
+  ],
+  "iso639-3": "zhd"
+}

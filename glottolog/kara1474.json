@@ -1,0 +1,85 @@
+{
+  "pk": 7749,
+  "hid": "kpt",
+  "father_pk": 5359,
+  "family_pk": 426,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Anchix [anch1238]':1,'Arsho [arsh1235]':1,'Chabakoro [chab1242]':1,'Karata village [kara1517]':1,'Mashtada [mash1276]':1,'Nizhnjeje Inkhelo [nizh1235]':1,'Rachabalda [rach1240]':1,'Ratsitl [rats1239]':1,'Sjukh [sjuk1235]':1)'Karata [kara1516]':1,'Tokita [toki1238]':1)'Karata-Tukita [kara1474][kpt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 11,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Karata-Tukita_language",
+        "label": null
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/2367",
+        "label": "Karata"
+      },
+      {
+        "url": "https://phoible.org/languages/kara1474",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_krt",
+        "label": "Karata"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56636",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "303703",
+        "grammar",
+        1971,
+        294,
+        "Magomedbekova, Z. M. 1971"
+      ],
+      [
+        "18941",
+        "wordlist_or_less",
+        1928,
+        30,
+        "Adolf Dirr 1928"
+      ]
+    ]
+  },
+  "id": "kara1474",
+  "name": "Karata-Tukita",
+  "description": null,
+  "markup_description": null,
+  "latitude": 42.6501,
+  "longitude": 46.3151,
+  "classification": [
+    {
+      "name": "Nakh-Daghestanian",
+      "id": "nakh1245",
+      "url": "https://glottolog.org/resource/languoid/id/nakh1245"
+    },
+    {
+      "name": "Daghestanian",
+      "id": "dagh1238",
+      "url": "https://glottolog.org/resource/languoid/id/dagh1238"
+    },
+    {
+      "name": "Avar-Andic-Tsezic",
+      "id": "avar1255",
+      "url": "https://glottolog.org/resource/languoid/id/avar1255"
+    },
+    {
+      "name": "Andic",
+      "id": "andi1254",
+      "url": "https://glottolog.org/resource/languoid/id/andi1254"
+    }
+  ],
+  "iso639-3": "kpt"
+}

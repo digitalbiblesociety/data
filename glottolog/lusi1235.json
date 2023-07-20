@@ -1,0 +1,97 @@
+{
+  "pk": 5645,
+  "hid": "xls",
+  "father_pk": 3723,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Lusitanian [lusi1235][xls]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "xls",
+      "comment_type": "missing",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "A number of ancient European and Ancient Near Eastern languages are not listed in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26. One of them is Lusitanian (**hh:hld:Untermann:Tartessischen**)."
+    },
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q35960",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lusitanian_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "589112",
+        "wordlist_or_less",
+        2010,
+        16,
+        "Prósper, Blanca María 2010"
+      ],
+      [
+        "589113",
+        "wordlist_or_less",
+        1998,
+        10,
+        "Prósper, Blanca María 1998"
+      ],
+      [
+        "140785",
+        "wordlist_or_less",
+        1997,
+        190,
+        "Untermann, Jürgen 1997"
+      ]
+    ]
+  },
+  "id": "lusi1235",
+  "name": "Lusitanian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 39.943975,
+  "longitude": -8.105283,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Italic",
+      "id": "ital1284",
+      "url": "https://glottolog.org/resource/languoid/id/ital1284"
+    },
+    {
+      "name": "Unclassified Italic",
+      "id": "uncl1536",
+      "url": "https://glottolog.org/resource/languoid/id/uncl1536"
+    }
+  ],
+  "iso639-3": "xls"
+}

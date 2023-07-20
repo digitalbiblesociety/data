@@ -1,0 +1,127 @@
+{
+  "pk": 19246,
+  "hid": "zav",
+  "father_pk": 17183,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Yatzachi Zapotec [yatz1235][zav]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/9069",
+        "label": "Cajonos Zapotec"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_zya",
+        "label": "Zapotec (Yatzachi)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yatzachi_Zapotec",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q8050301",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "551105",
+        "long_grammar",
+        2016,
+        644,
+        "López Nicolás, Óscar 2016"
+      ],
+      [
+        "157724",
+        "long_grammar",
+        1980,
+        367,
+        "Butler H., Inez M. 1980"
+      ],
+      [
+        "29827",
+        "grammar_sketch",
+        1950,
+        5,
+        "Leal, Mary 1950"
+      ],
+      [
+        "301453",
+        "phonology_or_text",
+        1949,
+        12,
+        "Mauricio Swadesh 1949"
+      ],
+      [
+        "41647",
+        "wordlist_or_less",
+        1948,
+        10,
+        "Pike, Eunice Victoria 1948"
+      ]
+    ]
+  },
+  "id": "yatz1235",
+  "name": "Yatzachi Zapotec",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.1869,
+  "longitude": -96.284,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Popoloca-Zapotecan",
+      "id": "popo1292",
+      "url": "https://glottolog.org/resource/languoid/id/popo1292"
+    },
+    {
+      "name": "Zapotecan",
+      "id": "zapo1436",
+      "url": "https://glottolog.org/resource/languoid/id/zapo1436"
+    },
+    {
+      "name": "Zapotec",
+      "id": "zapo1437",
+      "url": "https://glottolog.org/resource/languoid/id/zapo1437"
+    },
+    {
+      "name": "Core Zapotec",
+      "id": "nucl1765",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1765"
+    },
+    {
+      "name": "Narrow Core Zapotec",
+      "id": "core1259",
+      "url": "https://glottolog.org/resource/languoid/id/core1259"
+    },
+    {
+      "name": "Northern Core Zapotec",
+      "id": "nort2987",
+      "url": "https://glottolog.org/resource/languoid/id/nort2987"
+    },
+    {
+      "name": "Cajonosic",
+      "id": "cajo1239",
+      "url": "https://glottolog.org/resource/languoid/id/cajo1239"
+    }
+  ],
+  "iso639-3": "zav"
+}

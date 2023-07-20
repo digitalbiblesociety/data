@@ -1,0 +1,97 @@
+{
+  "pk": 17460,
+  "hid": "lrt",
+  "father_pk": 15106,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dili Malay [dili1234]':1,'Konga Bay [kong1297]':1,'Larantuka [lara1262]':1,'Wure [wure1235]':1)'Larantuka Malay [lara1260][lrt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6488691",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Larantuka_Malay",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/lara1260",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "60947",
+        "long_grammar",
+        1993,
+        512,
+        "Kumanireng, Theresia Yosephine 1993"
+      ],
+      [
+        "326380",
+        "grammar_sketch",
+        1985,
+        152,
+        "Monteiro, {} 1985"
+      ]
+    ]
+  },
+  "id": "lara1260",
+  "name": "Larantuka Malay",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.4746,
+  "longitude": 122.7619,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Malayo-Sumbawan",
+      "id": "mala1536",
+      "url": "https://glottolog.org/resource/languoid/id/mala1536"
+    },
+    {
+      "name": "North and East Malayo-Sumbawan",
+      "id": "nort3170",
+      "url": "https://glottolog.org/resource/languoid/id/nort3170"
+    },
+    {
+      "name": "Malayic",
+      "id": "mala1538",
+      "url": "https://glottolog.org/resource/languoid/id/mala1538"
+    },
+    {
+      "name": "Nuclear Malayic",
+      "id": "nucl1806",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1806"
+    },
+    {
+      "name": "Vehicular Malay",
+      "id": "vehi1234",
+      "url": "https://glottolog.org/resource/languoid/id/vehi1234"
+    },
+    {
+      "name": "Eastern Indonesia Trade Malay",
+      "id": "east2743",
+      "url": "https://glottolog.org/resource/languoid/id/east2743"
+    }
+  ],
+  "iso639-3": "lrt"
+}

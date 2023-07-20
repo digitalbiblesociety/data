@@ -1,0 +1,103 @@
+{
+  "pk": 14000,
+  "hid": "bul",
+  "father_pk": 10913,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Anatolian Bulgarian [anat1260]':1,(('Central Balkan Bulgarian [cent2339]':1,'Eastern Balkan Bulgarian [east2815]':1,'Western Balkan Bulgarian [west2889]':1)'Balkan Bulgarian [balk1260]':1,'Bassarabian Bulgarian [bass1265]':1,'Moesian [moes1234]':1,('Central Rup [cent2340]':1,('Banat Bulgarian [bana1308]':1,'Paulician [pali1272]':1)'Eastern Rup [east2816]':1,'Pomak [poma1238]':1,'Western Rup [west2890]':1)'Rup [rupp1234]':1,'Transylvanian Bulgarian [tran1293]':1,'Wallachian Bulgarian [wall1260]':1)'Eastern Bulgarian [east2814]':1,('Northwestern Bulgarian [nort3294]':1,'Pirin-Malashevo [piri1234]':1,'Southwestern Bulgarian [sout3276]':1,'Transitional Bulgarian [tran1292]':1)'Western Bulgarian [west2888]':1)'Bulgarian [bulg1262][bul]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 22,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bul",
+        "label": "Bulgarian"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bulgarian_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/bulg1262",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7918",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "585817",
+        "long_grammar",
+        1949,
+        482,
+        "L. Andrejchin 1949"
+      ],
+      [
+        "319126",
+        "grammar",
+        1835,
+        217,
+        "Neofit Rilski 1835"
+      ],
+      [
+        "320224",
+        "phonology_or_text",
+        1789,
+        17,
+        "von Bergmann, Gustav 1789"
+      ]
+    ]
+  },
+  "id": "bulg1262",
+  "name": "Bulgarian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 43.3646,
+  "longitude": 25.047,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Balto-Slavic",
+      "id": "balt1263",
+      "url": "https://glottolog.org/resource/languoid/id/balt1263"
+    },
+    {
+      "name": "Slavic",
+      "id": "slav1255",
+      "url": "https://glottolog.org/resource/languoid/id/slav1255"
+    },
+    {
+      "name": "South Slavic",
+      "id": "sout3147",
+      "url": "https://glottolog.org/resource/languoid/id/sout3147"
+    },
+    {
+      "name": "Eastern South Slavic",
+      "id": "east2269",
+      "url": "https://glottolog.org/resource/languoid/id/east2269"
+    },
+    {
+      "name": "Macedo-Bulgarian",
+      "id": "mace1252",
+      "url": "https://glottolog.org/resource/languoid/id/mace1252"
+    }
+  ],
+  "iso639-3": "bul"
+}

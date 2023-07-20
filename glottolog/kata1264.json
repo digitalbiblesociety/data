@@ -1,0 +1,79 @@
+{
+  "pk": 10556,
+  "hid": "kgd",
+  "father_pk": 7649,
+  "family_pk": 418,
+  "level": "family",
+  "bookkeeping": false,
+  "category": "Family",
+  "newick": "('Northern Katang [nort3270][ncq]-l-':1,'Southern Katang [sout3251][sct]-l-':1)'Katang [kata1264][kgd]':1",
+  "child_family_count": 0,
+  "child_language_count": 2,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "kgd",
+      "name": "Kataang",
+      "change_request": "2016-021",
+      "effective": "2017-01-31",
+      "reason": "split",
+      "change_to": [
+        "ncq",
+        "sct"
+      ],
+      "remedy": "Split into [ncq] Northern Katang and [sct] Southern Katang",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12953622",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "535638",
+        "wordlist_or_less",
+        2016,
+        0,
+        "ISO 639-3 Registration Authority 2016"
+      ]
+    ]
+  },
+  "id": "kata1264",
+  "name": "Katang",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.1823,
+  "longitude": 106.459,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Katuic",
+      "id": "katu1271",
+      "url": "https://glottolog.org/resource/languoid/id/katu1271"
+    },
+    {
+      "name": "West Katuic",
+      "id": "west1492",
+      "url": "https://glottolog.org/resource/languoid/id/west1492"
+    },
+    {
+      "name": "Brou-So",
+      "id": "brou1236",
+      "url": "https://glottolog.org/resource/languoid/id/brou1236"
+    },
+    {
+      "name": "Eastern Bru-Katang",
+      "id": "east2783",
+      "url": "https://glottolog.org/resource/languoid/id/east2783"
+    }
+  ],
+  "iso639-3": "kgd"
+}

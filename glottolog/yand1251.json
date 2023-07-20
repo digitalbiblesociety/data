@@ -1,0 +1,81 @@
+{
+  "pk": 6026,
+  "hid": "yda",
+  "father_pk": 4032,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Yanda [yand1251][yda]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6741",
+        "label": "Yanda"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yanda_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/yand1251",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q8048318",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "154947",
+        "wordlist_or_less",
+        1990,
+        9,
+        "Gavan Breen 1990"
+      ],
+      [
+        "30961",
+        "wordlist_or_less",
+        1886,
+        4,
+        "Eglinton, Ernest 1886"
+      ]
+    ]
+  },
+  "id": "yand1251",
+  "name": "Yanda",
+  "description": null,
+  "markup_description": null,
+  "latitude": -21.23270508,
+  "longitude": 140.5134756,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Greater Maric",
+      "id": "grea1282",
+      "url": "https://glottolog.org/resource/languoid/id/grea1282"
+    },
+    {
+      "name": "Guwa-Maric",
+      "id": "guwa1245",
+      "url": "https://glottolog.org/resource/languoid/id/guwa1245"
+    },
+    {
+      "name": "Guwa-Yanda",
+      "id": "guwa1241",
+      "url": "https://glottolog.org/resource/languoid/id/guwa1241"
+    }
+  ],
+  "iso639-3": "yda"
+}

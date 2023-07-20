@@ -1,0 +1,81 @@
+{
+  "pk": 10284,
+  "hid": "cik",
+  "father_pk": 7386,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Chhitkul-Rakchham [chit1279][cik]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q15615982",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "588434",
+        "long_grammar",
+        2021,
+        367,
+        "Philippe Antoine Martinez 2021"
+      ],
+      [
+        "472407",
+        "grammar_sketch",
+        1992,
+        108,
+        "D. D. Sharma 1992"
+      ],
+      [
+        "44562",
+        "grammar_sketch",
+        1920,
+        25,
+        "Bailey, Thomas Grahame 1920"
+      ]
+    ]
+  },
+  "id": "chit1279",
+  "name": "Chhitkul-Rakchham",
+  "description": null,
+  "markup_description": null,
+  "latitude": 31.2965,
+  "longitude": 78.5287,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "West Himalayish",
+      "id": "tibe1275",
+      "url": "https://glottolog.org/resource/languoid/id/tibe1275"
+    },
+    {
+      "name": "Western West Himalayish",
+      "id": "west2868",
+      "url": "https://glottolog.org/resource/languoid/id/west2868"
+    },
+    {
+      "name": "Kinnauric",
+      "id": "kinn1250",
+      "url": "https://glottolog.org/resource/languoid/id/kinn1250"
+    }
+  ],
+  "iso639-3": "cik"
+}

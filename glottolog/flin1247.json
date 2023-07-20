@@ -1,0 +1,93 @@
+{
+  "pk": 8447,
+  "hid": "fln",
+  "father_pk": 5980,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Flinders Island [flin1247][fln]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4150",
+        "label": "Flinders Island"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/y61",
+        "label": "Flinders Island (retired)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Flinders_Island_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3915702",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "300089",
+        "phonology_or_text",
+        1980,
+        25,
+        "Sutton, Peter J. 1980"
+      ],
+      [
+        "303831",
+        "wordlist_or_less",
+        1933,
+        10,
+        "Hale, Herbert M. and Tindale, Norman B. 1933, 1934"
+      ],
+      [
+        "576691",
+        "wordlist_or_less",
+        1909,
+        0,
+        "Roth, H.L. 1909"
+      ]
+    ]
+  },
+  "id": "flin1247",
+  "name": "Flinders Island",
+  "description": null,
+  "markup_description": null,
+  "latitude": -14.1812,
+  "longitude": 144.259,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Paman",
+      "id": "pama1251",
+      "url": "https://glottolog.org/resource/languoid/id/pama1251"
+    },
+    {
+      "name": "Compromise Middle Pama",
+      "id": "comp1236",
+      "url": "https://glottolog.org/resource/languoid/id/comp1236"
+    },
+    {
+      "name": "Wik",
+      "id": "wika1239",
+      "url": "https://glottolog.org/resource/languoid/id/wika1239"
+    },
+    {
+      "name": "Flinders-Barrow",
+      "id": "flin1248",
+      "url": "https://glottolog.org/resource/languoid/id/flin1248"
+    }
+  ],
+  "iso639-3": "fln"
+}

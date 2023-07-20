@@ -1,0 +1,109 @@
+{
+  "pk": 14646,
+  "hid": "mof",
+  "father_pk": 11674,
+  "family_pk": 178,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Eastern Niantic [east2904]':1,'Montauk [mont1269]':1,'Narrangansett [narr1280][xnt]':1,'Pequot-Mohegan [pequ1242][xpq]':1)'Mohegan-Montauk-Narragansett [mohe1244][mof]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "mof",
+      "name": "Mohegan-Montauk-Narragansett",
+      "change_request": "2009-013",
+      "effective": "2010-01-18",
+      "reason": "split",
+      "change_to": [
+        "xpq",
+        "xnt"
+      ],
+      "remedy": "split into Mohegan-Pequot [xpq] and Narragansett [xnt]",
+      "comment": "The situation of the languages of eastern southern New England in the 17 and 18\ncenturies is a little confusing... Given the certainty that Narragansett does\nnot belong with Mohegan-Pequot and the uncertainty of whether or not it belongs\nwith Massachusett, it seems a prudent idea to give Narragansett its own place\nwithin ISO 639-3."
+    },
+    "ethnologue_comment": {
+      "isohid": "mof",
+      "comment_type": "missing",
+      "ethnologue_versions": [
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "The extinct language consisting of Mohegan, Montauk and Narragansett (an Eastern Algonquian language), is missing from E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 (**hh:w:Cowan:Narragansett**, **hh:vphon:Aubin:Narragansett**, **hh:s:Granberry:Mohegan**, **hh:d:Granberry:Modern-Mohegan:Lexicon**, **hh:w:Edwards:Muhhekaneew**)."
+    },
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q16116122",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mhc",
+        "label": "Mahican"
+      }
+    ],
+    "meds": [
+      [
+        "314501",
+        "grammar_sketch",
+        1643,
+        240,
+        "Roger Williams 1643"
+      ]
+    ]
+  },
+  "id": "mohe1244",
+  "name": "Mohegan-Montauk-Narragansett",
+  "description": null,
+  "markup_description": null,
+  "latitude": 41.8581,
+  "longitude": -72.1701,
+  "classification": [
+    {
+      "name": "Algic",
+      "id": "algi1248",
+      "url": "https://glottolog.org/resource/languoid/id/algi1248"
+    },
+    {
+      "name": "Algonquian-Blackfoot",
+      "id": "algo1256",
+      "url": "https://glottolog.org/resource/languoid/id/algo1256"
+    },
+    {
+      "name": "Algonquian",
+      "id": "algo1257",
+      "url": "https://glottolog.org/resource/languoid/id/algo1257"
+    },
+    {
+      "name": "Eastern Algonquian",
+      "id": "east2700",
+      "url": "https://glottolog.org/resource/languoid/id/east2700"
+    },
+    {
+      "name": "Maritimes-Southern New England Algonquian",
+      "id": "mari1452",
+      "url": "https://glottolog.org/resource/languoid/id/mari1452"
+    },
+    {
+      "name": "Southern New England Algonquian",
+      "id": "sout3237",
+      "url": "https://glottolog.org/resource/languoid/id/sout3237"
+    },
+    {
+      "name": "Western Southern New England Algonquian",
+      "id": "west2999",
+      "url": "https://glottolog.org/resource/languoid/id/west2999"
+    }
+  ],
+  "iso639-3": "mof"
+}

@@ -1,0 +1,78 @@
+{
+  "pk": 3587,
+  "hid": "bpv",
+  "father_pk": 1917,
+  "family_pk": 27,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Bian Marind [bian1251][bpv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q8841889",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "126692",
+        "wordlist_or_less",
+        1975,
+        1,
+        "C. L. Voorhoeve 1975"
+      ],
+      [
+        "26959",
+        "wordlist_or_less",
+        1954,
+        1,
+        "Drabbe, Peter 1954"
+      ],
+      [
+        "26153",
+        "wordlist_or_less",
+        1950,
+        0,
+        "Drabbe, Peter [ca.~1950]"
+      ],
+      [
+        "76634",
+        "wordlist_or_less",
+        1940,
+        17,
+        "van Baal, Jan 1940"
+      ]
+    ]
+  },
+  "id": "bian1251",
+  "name": "Bian Marind",
+  "description": null,
+  "markup_description": null,
+  "latitude": -7.35942,
+  "longitude": 140.568,
+  "classification": [
+    {
+      "name": "Anim",
+      "id": "anim1240",
+      "url": "https://glottolog.org/resource/languoid/id/anim1240"
+    },
+    {
+      "name": "Marind-Boazi-Yaqai",
+      "id": "mari1437",
+      "url": "https://glottolog.org/resource/languoid/id/mari1437"
+    },
+    {
+      "name": "Marindic",
+      "id": "nucl1621",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1621"
+    }
+  ],
+  "iso639-3": "bpv"
+}

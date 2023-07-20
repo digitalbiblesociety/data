@@ -1,0 +1,91 @@
+{
+  "pk": 7052,
+  "hid": "spy",
+  "father_pk": 4842,
+  "family_pk": 316,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bong''omeek [bong1286]':1,'Book [book1240]':1,'Koony [koon1246]':1)'Sabaot [saba1262][spy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Sabaot_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/saba1262",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7395896",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "115516",
+        "phonology_or_text",
+        1996,
+        57,
+        "na 1996"
+      ],
+      [
+        "88413",
+        "phonology_or_text",
+        1991,
+        21,
+        "Larsen, Iver A. 1991"
+      ],
+      [
+        "156015",
+        "phonology_or_text",
+        1982,
+        10,
+        "Rottland, Franz 1982"
+      ],
+      [
+        "58624",
+        "wordlist_or_less",
+        1904,
+        13,
+        "Johnston, Harry 1904"
+      ]
+    ]
+  },
+  "id": "saba1262",
+  "name": "Sabaot",
+  "description": null,
+  "markup_description": null,
+  "latitude": 1.01297,
+  "longitude": 34.6664,
+  "classification": [
+    {
+      "name": "Nilotic",
+      "id": "nilo1247",
+      "url": "https://glottolog.org/resource/languoid/id/nilo1247"
+    },
+    {
+      "name": "Southern Nilotic",
+      "id": "sout2830",
+      "url": "https://glottolog.org/resource/languoid/id/sout2830"
+    },
+    {
+      "name": "Kalenjin",
+      "id": "kale1246",
+      "url": "https://glottolog.org/resource/languoid/id/kale1246"
+    },
+    {
+      "name": "Elgon-Mau Kalenjin",
+      "id": "elgo1240",
+      "url": "https://glottolog.org/resource/languoid/id/elgo1240"
+    }
+  ],
+  "iso639-3": "spy"
+}

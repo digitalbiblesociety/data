@@ -1,0 +1,112 @@
+{
+  "pk": 13570,
+  "hid": "kff",
+  "father_pk": 10488,
+  "family_pk": 404,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dorli [dorl1237]':1,'Jaganathapuram Koya [jaga1245]':1,'Malakanagiri Koya [mala1469]':1,'Podia Koya [podi1238]':1)'Koya [koya1251][kff]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q33471",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Koya_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/koya1251",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_koy",
+        "label": "Koya"
+      }
+    ],
+    "meds": [
+      [
+        "124712",
+        "grammar",
+        1969,
+        145,
+        "Stephen B. Tyler 1969"
+      ],
+      [
+        "478219",
+        "grammar_sketch",
+        1968,
+        70,
+        "Subrahmanyam, P. S. 1968"
+      ],
+      [
+        "578108",
+        "grammar_sketch",
+        1965,
+        13,
+        "Tyler, S. A. 1965"
+      ],
+      [
+        "319310",
+        "wordlist_or_less",
+        1960,
+        12,
+        "Thomas Burrow and Sudhibhushan Bhattacharya 1960"
+      ],
+      [
+        "304344",
+        "wordlist_or_less",
+        1906,
+        3,
+        "George A. Grierson 1906"
+      ]
+    ]
+  },
+  "id": "koya1251",
+  "name": "Koya",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.6772,
+  "longitude": 81.2096,
+  "classification": [
+    {
+      "name": "Dravidian",
+      "id": "drav1251",
+      "url": "https://glottolog.org/resource/languoid/id/drav1251"
+    },
+    {
+      "name": "South Dravidian",
+      "id": "sout3133",
+      "url": "https://glottolog.org/resource/languoid/id/sout3133"
+    },
+    {
+      "name": "South Dravidian II",
+      "id": "sout3139",
+      "url": "https://glottolog.org/resource/languoid/id/sout3139"
+    },
+    {
+      "name": "Gondi",
+      "id": "gond1265",
+      "url": "https://glottolog.org/resource/languoid/id/gond1265"
+    },
+    {
+      "name": "Southeast Gondi",
+      "id": "sout3234",
+      "url": "https://glottolog.org/resource/languoid/id/sout3234"
+    },
+    {
+      "name": "South Bastar Gondi-Koya",
+      "id": "hill1257",
+      "url": "https://glottolog.org/resource/languoid/id/hill1257"
+    }
+  ],
+  "iso639-3": "kff"
+}

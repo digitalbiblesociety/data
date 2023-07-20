@@ -1,0 +1,75 @@
+{
+  "pk": 4206,
+  "hid": "tnq",
+  "father_pk": 2415,
+  "family_pk": 177,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Borinquen [bori1244]':1,'Lucaya [luca1234]':1,'Taino of Cuba [tain1257]':1,'Taino of Haiti [tain1256]':1,'Yamaye [yama1267]':1)'Taino [tain1254][tnq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q5232952",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ta%C3%ADno_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "54529",
+        "wordlist_or_less",
+        1996,
+        145,
+        "Álvarez Nazario, Manuel 1996"
+      ],
+      [
+        "146197",
+        "wordlist_or_less",
+        1780,
+        15,
+        "Gilij, Filippo Salvadore 1780, 1781, 1782, 1784"
+      ],
+      [
+        "96316",
+        "wordlist_or_less",
+        1498,
+        22,
+        "Ramón Pané 1571 [1498]"
+      ]
+    ]
+  },
+  "id": "tain1254",
+  "name": "Taino",
+  "description": null,
+  "markup_description": null,
+  "latitude": 18.2836,
+  "longitude": -66.8042,
+  "classification": [
+    {
+      "name": "Arawakan",
+      "id": "araw1281",
+      "url": "https://glottolog.org/resource/languoid/id/araw1281"
+    },
+    {
+      "name": "Caribbean Arawakan",
+      "id": "cari1281",
+      "url": "https://glottolog.org/resource/languoid/id/cari1281"
+    },
+    {
+      "name": "Antillean Arawakan",
+      "id": "anti1247",
+      "url": "https://glottolog.org/resource/languoid/id/anti1247"
+    }
+  ],
+  "iso639-3": "tnq"
+}

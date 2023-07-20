@@ -1,0 +1,100 @@
+{
+  "pk": 9888,
+  "hid": "avn",
+  "father_pk": 7148,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Avatime [avat1244][avn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q34796",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Avatime_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/avat1244",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_avt",
+        "label": "Avatime"
+      }
+    ],
+    "meds": [
+      [
+        "101234",
+        "grammar",
+        1971,
+        285,
+        "Kevin Ford 1971"
+      ],
+      [
+        "79179",
+        "phonology_or_text",
+        1899,
+        4,
+        "Seidel, August 1899"
+      ],
+      [
+        "162525",
+        "wordlist_or_less",
+        1887,
+        3,
+        "Christaller, J. G. 1887/1888"
+      ],
+      [
+        "51426",
+        "wordlist_or_less",
+        1867,
+        3,
+        "Hornberger, Chr. 1867"
+      ]
+    ]
+  },
+  "id": "avat1244",
+  "name": "Avatime",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.8688,
+  "longitude": 0.41314,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Kwa Volta-Congo",
+      "id": "kwav1236",
+      "url": "https://glottolog.org/resource/languoid/id/kwav1236"
+    },
+    {
+      "name": "Ka-Togo",
+      "id": "kato1245",
+      "url": "https://glottolog.org/resource/languoid/id/kato1245"
+    },
+    {
+      "name": "Avatime-Nyangbo",
+      "id": "avat1243",
+      "url": "https://glottolog.org/resource/languoid/id/avat1243"
+    }
+  ],
+  "iso639-3": "avn"
+}

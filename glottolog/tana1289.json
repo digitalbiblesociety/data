@@ -1,0 +1,88 @@
+{
+  "pk": 6428,
+  "hid": "tfn",
+  "father_pk": 4396,
+  "family_pk": 238,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Lower Inlet Denaina [lowe1451]':1,'Upper Inlet Denaina [uppe1473]':1)'Dena''ina [tana1289][tfn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1445",
+        "label": "Dena'ina"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q27785",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dena%CA%BCina_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tnj",
+        "label": "Tanaina"
+      }
+    ],
+    "meds": [
+      [
+        "21431",
+        "grammar",
+        1978,
+        260,
+        "Tenenbaum, Joan Marsha 1978"
+      ],
+      [
+        "578007",
+        "grammar_sketch",
+        1963,
+        15,
+        "Townsend, J. B. 1963"
+      ],
+      [
+        "167135",
+        "grammar_sketch",
+        1805,
+        0,
+        "Rezanof, Nikolai Petrovich 1805"
+      ]
+    ]
+  },
+  "id": "tana1289",
+  "name": "Dena'ina",
+  "description": null,
+  "markup_description": null,
+  "latitude": 60.4712,
+  "longitude": -150.759,
+  "classification": [
+    {
+      "name": "Athabaskan-Eyak-Tlingit",
+      "id": "atha1245",
+      "url": "https://glottolog.org/resource/languoid/id/atha1245"
+    },
+    {
+      "name": "Athabaskan-Eyak",
+      "id": "atha1246",
+      "url": "https://glottolog.org/resource/languoid/id/atha1246"
+    },
+    {
+      "name": "Athabaskan",
+      "id": "atha1247",
+      "url": "https://glottolog.org/resource/languoid/id/atha1247"
+    },
+    {
+      "name": "Southern Alaskan Athabaskan",
+      "id": "sout3337",
+      "url": "https://glottolog.org/resource/languoid/id/sout3337"
+    }
+  ],
+  "iso639-3": "tfn"
+}

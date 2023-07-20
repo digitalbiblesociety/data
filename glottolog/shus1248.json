@@ -1,0 +1,87 @@
+{
+  "pk": 4159,
+  "hid": "shs",
+  "father_pk": 2386,
+  "family_pk": 166,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Eastern Shuswap [east2536]':1,'Western Shuswap [west2620]':1)'Shuswap [shus1248][shs]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1472",
+        "label": "Secwepemctsin (Shuswap)"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_shu",
+        "label": "Shuswap"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Shuswap_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/shus1248",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3482685",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "117450",
+        "long_grammar",
+        1974,
+        300,
+        "Aert H. Kuipers 1974"
+      ],
+      [
+        "69906",
+        "grammar",
+        1973,
+        147,
+        "J. A. Gibson 1973"
+      ],
+      [
+        "570368",
+        "grammar_sketch",
+        1891,
+        42,
+        "Dawson, G. M. 1891"
+      ]
+    ]
+  },
+  "id": "shus1248",
+  "name": "Shuswap",
+  "description": null,
+  "markup_description": null,
+  "latitude": 50.8734,
+  "longitude": -119.667,
+  "classification": [
+    {
+      "name": "Salishan",
+      "id": "sali1255",
+      "url": "https://glottolog.org/resource/languoid/id/sali1255"
+    },
+    {
+      "name": "Interior Salish",
+      "id": "inte1241",
+      "url": "https://glottolog.org/resource/languoid/id/inte1241"
+    },
+    {
+      "name": "Northern Interior Salish",
+      "id": "nort2948",
+      "url": "https://glottolog.org/resource/languoid/id/nort2948"
+    }
+  ],
+  "iso639-3": "shs"
+}

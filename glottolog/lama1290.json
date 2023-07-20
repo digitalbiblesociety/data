@@ -1,0 +1,58 @@
+{
+  "pk": 611,
+  "hid": "lmm",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Lamam [lama1290][lmm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "lmm",
+      "name": "Lamam",
+      "change_request": "2013-028",
+      "effective": "2014-02-03",
+      "reason": "merge",
+      "change_to": [
+        "rmx"
+      ],
+      "remedy": "Duplicate of Romam [rmx]",
+      "comment": "There is no Lamam language in Cambodia. The Ethnologue improperly moved it to\nVietnam, but there is already a Romam language in Vietnam. The Romam in Vietnam\nis confined to one village, numbering between 200-400 people in Le village, Mo\nRai commune. Sa Thay district of Kon Tum province."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12953668",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500310",
+        "wordlist_or_less",
+        2013,
+        0,
+        "ISO 639-3 Registration Authority 2013"
+      ]
+    ]
+  },
+  "id": "lama1290",
+  "name": "Lamam",
+  "description": null,
+  "markup_description": null,
+  "latitude": 14.3658,
+  "longitude": 107.336,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "lmm"
+}

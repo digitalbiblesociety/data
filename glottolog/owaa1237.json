@@ -1,0 +1,107 @@
+{
+  "pk": 17647,
+  "hid": "stn",
+  "father_pk": 15255,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Santa Ana {Solomon Islands} [sant1414]':1,'Santa Catalina [sant1413]':1,'Tawarafa [tawa1274]':1)'Owa [owaa1237][stn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Owa_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q1324132",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "318883",
+        "grammar_sketch",
+        2014,
+        411,
+        "Greg Mellow 2014"
+      ],
+      [
+        "20800",
+        "phonology_or_text",
+        1956,
+        0,
+        "No Author Stated 1956"
+      ],
+      [
+        "81812",
+        "wordlist_or_less",
+        1947,
+        4,
+        "Peter A. Lanyon-Orgill 1947"
+      ],
+      [
+        "319615",
+        "wordlist_or_less",
+        1936,
+        295,
+        "Hugo Bernatzik 1936"
+      ]
+    ]
+  },
+  "id": "owaa1237",
+  "name": "Owa",
+  "description": null,
+  "markup_description": null,
+  "latitude": -10.82553,
+  "longitude": 162.30467,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Southeast Solomonic",
+      "id": "sout2853",
+      "url": "https://glottolog.org/resource/languoid/id/sout2853"
+    },
+    {
+      "name": "Longgu-Malaita-Makira",
+      "id": "mala1485",
+      "url": "https://glottolog.org/resource/languoid/id/mala1485"
+    },
+    {
+      "name": "Malaita-Makira",
+      "id": "mala1540",
+      "url": "https://glottolog.org/resource/languoid/id/mala1540"
+    },
+    {
+      "name": "Makira",
+      "id": "sanc1243",
+      "url": "https://glottolog.org/resource/languoid/id/sanc1243"
+    }
+  ],
+  "iso639-3": "stn"
+}

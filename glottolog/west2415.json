@@ -1,0 +1,93 @@
+{
+  "pk": 13333,
+  "hid": "tdg",
+  "father_pk": 10268,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Northwestern [nort2711]':1,'Rasuwa [rasu1238]':1,'Southwestern [sout2717]':1,'Trisuli [tris1240]':1)'Western Tamang [west2415][tdg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12953178",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "575772",
+        "long_grammar",
+        2015,
+        404,
+        "Owen-Smith, Thomas 2015"
+      ],
+      [
+        "85251",
+        "grammar_sketch",
+        1973,
+        94,
+        "Taylor, Doreen 1973"
+      ],
+      [
+        "139558",
+        "phonology_or_text",
+        1969,
+        35,
+        "Taylor, Doreen 1969"
+      ],
+      [
+        "137873",
+        "wordlist_or_less",
+        1840,
+        6,
+        "A. Campbell 1840"
+      ]
+    ]
+  },
+  "id": "west2415",
+  "name": "Western Tamang",
+  "description": null,
+  "markup_description": null,
+  "latitude": 28.0239,
+  "longitude": 85.0563,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "Kaike-Ghale-Tamangic",
+      "id": "kaik1248",
+      "url": "https://glottolog.org/resource/languoid/id/kaik1248"
+    },
+    {
+      "name": "Ghale-Tamangic",
+      "id": "ghal1247",
+      "url": "https://glottolog.org/resource/languoid/id/ghal1247"
+    },
+    {
+      "name": "Tamangic",
+      "id": "tama1367",
+      "url": "https://glottolog.org/resource/languoid/id/tama1367"
+    },
+    {
+      "name": "Nuclear Tamang",
+      "id": "nucl1729",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1729"
+    }
+  ],
+  "iso639-3": "tdg"
+}

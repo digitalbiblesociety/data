@@ -1,0 +1,133 @@
+{
+  "pk": 11295,
+  "hid": "bqp",
+  "father_pk": 8312,
+  "family_pk": 121,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Illo [illo1238]':1,'New Busa [newb1246]':1,'Wawa {Nigeria} [wawa1248]':1)'Busa [busa1253][bqp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bus",
+        "label": "Busa"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Busa_language_(Mande)",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/busa1253",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35185",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "148885",
+        "long_grammar",
+        1973,
+        306,
+        "Wedekind, Klaus 1973"
+      ],
+      [
+        "83322",
+        "long_grammar",
+        1972,
+        300,
+        "Wedekind, Charlotte 1972"
+      ],
+      [
+        "49543",
+        "grammar",
+        1950,
+        198,
+        "Prost, R. P. A. [1950]"
+      ],
+      [
+        "107602",
+        "grammar",
+        1911,
+        0,
+        "Struck, Bernhard 1911"
+      ],
+      [
+        "80845",
+        "wordlist_or_less",
+        1899,
+        0,
+        "Stanley, Henry Morton 1899"
+      ],
+      [
+        "116245",
+        "wordlist_or_less",
+        1885,
+        0,
+        "Stanley, Henry Morton 1885"
+      ],
+      [
+        "62329",
+        "wordlist_or_less",
+        1879,
+        0,
+        "Stanley, Henry Morton 1879"
+      ],
+      [
+        "79587",
+        "wordlist_or_less",
+        1878,
+        0,
+        "Stanley, Henry Morton 1878"
+      ]
+    ]
+  },
+  "id": "busa1253",
+  "name": "Busa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.91074,
+  "longitude": 4.39929,
+  "classification": [
+    {
+      "name": "Mande",
+      "id": "mand1469",
+      "url": "https://glottolog.org/resource/languoid/id/mand1469"
+    },
+    {
+      "name": "Eastern Mande",
+      "id": "east2697",
+      "url": "https://glottolog.org/resource/languoid/id/east2697"
+    },
+    {
+      "name": "Bisa-Busa",
+      "id": "bisa1265",
+      "url": "https://glottolog.org/resource/languoid/id/bisa1265"
+    },
+    {
+      "name": "Samo-Busa",
+      "id": "samo1302",
+      "url": "https://glottolog.org/resource/languoid/id/samo1302"
+    },
+    {
+      "name": "Busan",
+      "id": "busa1252",
+      "url": "https://glottolog.org/resource/languoid/id/busa1252"
+    },
+    {
+      "name": "Boko-Busa",
+      "id": "boko1265",
+      "url": "https://glottolog.org/resource/languoid/id/boko1265"
+    }
+  ],
+  "iso639-3": "bqp"
+}

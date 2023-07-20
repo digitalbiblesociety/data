@@ -1,0 +1,89 @@
+{
+  "pk": 9087,
+  "hid": "sst",
+  "father_pk": 6584,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dinga [ding1240]':1,'Gunangi [guna1242]':1,'Kebai {Sinasina} [keba1253]':1,'Kere {Sinasina} [kere1300]':1,'Kondo [kond1304]':1,'Nimai [nima1246]':1,'Tabare [taba1262]':1)'Sinasina [sina1271][sst]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7521813",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sinasina_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tba",
+        "label": "Tabare"
+      }
+    ],
+    "meds": [
+      [
+        "313091",
+        "grammar",
+        1964,
+        262,
+        "Mac Vinney, Paul A. and Luzbetak, Louis J. 1964"
+      ],
+      [
+        "125025",
+        "grammar",
+        1954,
+        0,
+        "McVinney, Paul A. and Louis J. Luzbetak 1954"
+      ],
+      [
+        "15483",
+        "wordlist_or_less",
+        1948,
+        1,
+        "Arthur Capell 1948-1949"
+      ]
+    ]
+  },
+  "id": "sina1271",
+  "name": "Sinasina",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.08728,
+  "longitude": 145.032,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Chimbu-Wahgi",
+      "id": "cent2120",
+      "url": "https://glottolog.org/resource/languoid/id/cent2120"
+    },
+    {
+      "name": "Simbu",
+      "id": "simb1258",
+      "url": "https://glottolog.org/resource/languoid/id/simb1258"
+    },
+    {
+      "name": "Nuclear Simbu",
+      "id": "nucl1617",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1617"
+    },
+    {
+      "name": "Golinic",
+      "id": "goli1246",
+      "url": "https://glottolog.org/resource/languoid/id/goli1246"
+    }
+  ],
+  "iso639-3": "sst"
+}

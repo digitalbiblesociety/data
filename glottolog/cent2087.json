@@ -1,0 +1,91 @@
+{
+  "pk": 12167,
+  "hid": "bcl",
+  "father_pk": 9273,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Legaspi [lega1251]':1,'Naga {Bikolano} [naga1402]':1)'Coastal-Naga Bikol [cent2087][bcl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bkl",
+        "label": "Bikol"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Central_Bikol_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/cent2087",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33284",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "39265",
+        "grammar",
+        1971,
+        279,
+        "Malcolm W. Mintz 1971"
+      ],
+      [
+        "10872",
+        "phonology_or_text",
+        1865,
+        520,
+        "Márcos de Lisboa 1865"
+      ]
+    ]
+  },
+  "id": "cent2087",
+  "name": "Coastal-Naga Bikol",
+  "description": null,
+  "markup_description": null,
+  "latitude": 13.7574,
+  "longitude": 123.403,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Greater Central Philippine",
+      "id": "grea1284",
+      "url": "https://glottolog.org/resource/languoid/id/grea1284"
+    },
+    {
+      "name": "Central Philippine",
+      "id": "cent2246",
+      "url": "https://glottolog.org/resource/languoid/id/cent2246"
+    },
+    {
+      "name": "Bikol",
+      "id": "biko1240",
+      "url": "https://glottolog.org/resource/languoid/id/biko1240"
+    },
+    {
+      "name": "Coastal Bikol",
+      "id": "coas1315",
+      "url": "https://glottolog.org/resource/languoid/id/coas1315"
+    }
+  ],
+  "iso639-3": "bcl"
+}

@@ -1,0 +1,109 @@
+{
+  "pk": 15093,
+  "hid": "kvb",
+  "father_pk": 12235,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Bajat [baja1258]':1,'Dawas [dawa1241]':1,'Djambi [djam1258]':1,'Lalang [lala1266]':1,'Supat [supa1246]':1,'Tungkal Ilir [tung1289]':1,'Tungkal Ulu [tung1288]':1)'Eastern Kubu [east2877]':1,('Dusun Tuo [ulul1241]':1,'Ridan [rida1239]':1)'Western Kubu [noma1261]':1)'Kubu [kubu1239][kvb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 11,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6441341",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kubu_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "97392",
+        "grammar_sketch",
+        1985,
+        175,
+        "Dunggio, P.D. and Zainin Wahab and Zainal Abidin Naning and Noor Indones and Bambang Apriay Luneto 1985"
+      ],
+      [
+        "472176",
+        "phonology_or_text",
+        1950,
+        23,
+        "R. Roolvink 1950-1951"
+      ],
+      [
+        "59346",
+        "wordlist_or_less",
+        1908,
+        169,
+        "Hagen, Bernhard 1908"
+      ],
+      [
+        "41821",
+        "wordlist_or_less",
+        1886,
+        23,
+        "Adolf Bastian 1886"
+      ],
+      [
+        "158906",
+        "wordlist_or_less",
+        1838,
+        11,
+        "Boers, J. W. 1838"
+      ]
+    ]
+  },
+  "id": "kubu1239",
+  "name": "Kubu",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.42661,
+  "longitude": 102.193,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Malayo-Sumbawan",
+      "id": "mala1536",
+      "url": "https://glottolog.org/resource/languoid/id/mala1536"
+    },
+    {
+      "name": "North and East Malayo-Sumbawan",
+      "id": "nort3170",
+      "url": "https://glottolog.org/resource/languoid/id/nort3170"
+    },
+    {
+      "name": "Malayic",
+      "id": "mala1538",
+      "url": "https://glottolog.org/resource/languoid/id/mala1538"
+    },
+    {
+      "name": "Nuclear Malayic",
+      "id": "nucl1806",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1806"
+    },
+    {
+      "name": "Central Sumatran Malay",
+      "id": "cent2391",
+      "url": "https://glottolog.org/resource/languoid/id/cent2391"
+    }
+  ],
+  "iso639-3": "kvb"
+}

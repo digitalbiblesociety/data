@@ -1,0 +1,92 @@
+{
+  "pk": 16181,
+  "hid": "xkf",
+  "father_pk": 13353,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Lower Kheng [lowe1399]':1,'Middle Kheng [midd1326]':1,'Upper Kheng [uppe1410]':1)'Khengkha [khen1241][xkf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5643",
+        "label": "Khengkha"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3695207",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kheng_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "624209",
+        "grammar_sketch",
+        2021,
+        49,
+        "Ikeda, Takumi 2021"
+      ],
+      [
+        "321302",
+        "grammar_sketch",
+        1995,
+        0,
+        "Arkestijn, Marten and Yangzom, Deki 1995"
+      ]
+    ]
+  },
+  "id": "khen1241",
+  "name": "Khengkha",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.0879,
+  "longitude": 90.8633,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "Bodish",
+      "id": "bodi1257",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1257"
+    },
+    {
+      "name": "East Bodish",
+      "id": "main1269",
+      "url": "https://glottolog.org/resource/languoid/id/main1269"
+    },
+    {
+      "name": "Phobjib-Chali-Bumthangic",
+      "id": "phob1238",
+      "url": "https://glottolog.org/resource/languoid/id/phob1238"
+    },
+    {
+      "name": "Chali-Bumthangic",
+      "id": "chal1266",
+      "url": "https://glottolog.org/resource/languoid/id/chal1266"
+    },
+    {
+      "name": "Bumthangic",
+      "id": "bumt1238",
+      "url": "https://glottolog.org/resource/languoid/id/bumt1238"
+    }
+  ],
+  "iso639-3": "xkf"
+}

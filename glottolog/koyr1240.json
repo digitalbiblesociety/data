@@ -1,0 +1,92 @@
+{
+  "pk": 1967,
+  "hid": "khq",
+  "father_pk": 875,
+  "family_pk": 48,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Djenné Chiini [djen1242]':1,'Koyra Chiini [koyr1241]':1)'Koyra Chiini Songhay [koyr1240][khq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q33600",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Koyra_Chiini_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/koyr1240",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kch",
+        "label": "Koyra Chiini"
+      }
+    ],
+    "meds": [
+      [
+        "98248",
+        "long_grammar",
+        1999,
+        467,
+        "Heath, Jeffrey 1999"
+      ],
+      [
+        "109894",
+        "grammar",
+        1897,
+        0,
+        "Hacquard and Dupuis (Pères Blancs) 1897"
+      ],
+      [
+        "56064",
+        "wordlist_or_less",
+        1891,
+        376,
+        "Caron, E. 1891"
+      ],
+      [
+        "152328",
+        "wordlist_or_less",
+        1830,
+        310,
+        "Caillié, Rene 1830"
+      ],
+      [
+        "305720",
+        "wordlist_or_less",
+        1826,
+        4,
+        "Klaproth, H. Julius 1826"
+      ]
+    ]
+  },
+  "id": "koyr1240",
+  "name": "Koyra Chiini Songhay",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.192,
+  "longitude": -3.73962,
+  "classification": [
+    {
+      "name": "Songhay",
+      "id": "song1307",
+      "url": "https://glottolog.org/resource/languoid/id/song1307"
+    },
+    {
+      "name": "Northwest Songhay",
+      "id": "nort2822",
+      "url": "https://glottolog.org/resource/languoid/id/nort2822"
+    }
+  ],
+  "iso639-3": "khq"
+}

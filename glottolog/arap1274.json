@@ -1,0 +1,121 @@
+{
+  "pk": 8811,
+  "hid": "arp",
+  "father_pk": 6299,
+  "family_pk": 178,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Arapaho [arap1274][arp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/661",
+        "label": "Arapaho"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_aho",
+        "label": "Arapaho"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Arapaho_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56417",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "123161",
+        "long_grammar",
+        2008,
+        536,
+        "Andrew Cowell and Moss, Sr., Alonzo 2008"
+      ],
+      [
+        "110626",
+        "long_grammar",
+        2006,
+        359,
+        "Hartwell S. Francis 2006"
+      ],
+      [
+        "112084",
+        "grammar_sketch",
+        1963,
+        176,
+        "Salzmann, Zdenek 1963"
+      ],
+      [
+        "87334",
+        "grammar_sketch",
+        1956,
+        75,
+        "Zdeněk Salzmann 1956, 1956, 1956, 1961, 1961, 1965, 1965, 1967"
+      ],
+      [
+        "14992",
+        "wordlist_or_less",
+        1862,
+        13,
+        "F. V. Hayden 1862"
+      ],
+      [
+        "322307",
+        "wordlist_or_less",
+        1853,
+        4,
+        "David V. Whiting 1853"
+      ],
+      [
+        "27878",
+        "wordlist_or_less",
+        1836,
+        4,
+        "Albert Gallatin 1836"
+      ]
+    ]
+  },
+  "id": "arap1274",
+  "name": "Arapaho",
+  "description": null,
+  "markup_description": null,
+  "latitude": 43.3879,
+  "longitude": -108.81,
+  "classification": [
+    {
+      "name": "Algic",
+      "id": "algi1248",
+      "url": "https://glottolog.org/resource/languoid/id/algi1248"
+    },
+    {
+      "name": "Algonquian-Blackfoot",
+      "id": "algo1256",
+      "url": "https://glottolog.org/resource/languoid/id/algo1256"
+    },
+    {
+      "name": "Algonquian",
+      "id": "algo1257",
+      "url": "https://glottolog.org/resource/languoid/id/algo1257"
+    },
+    {
+      "name": "Arapahoic",
+      "id": "arap1273",
+      "url": "https://glottolog.org/resource/languoid/id/arap1273"
+    },
+    {
+      "name": "Arapaho-Gros Ventre-Besawunena",
+      "id": "arap1280",
+      "url": "https://glottolog.org/resource/languoid/id/arap1280"
+    }
+  ],
+  "iso639-3": "arp"
+}

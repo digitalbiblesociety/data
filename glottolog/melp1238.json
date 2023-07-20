@@ -1,0 +1,87 @@
+{
+  "pk": 6581,
+  "hid": "med",
+  "father_pk": 4531,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Tembagla [temb1274]':1)'Melpa [melp1238][med]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Melpa_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36166",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "30516",
+        "grammar_sketch",
+        1943,
+        108,
+        "G. F. Vicedom and H. Tischner 1943-1948"
+      ],
+      [
+        "55396",
+        "grammar_sketch",
+        1939,
+        0,
+        "Strauß, H. 1939"
+      ],
+      [
+        "552766",
+        "wordlist_or_less",
+        1937,
+        58,
+        "G. F. Vicedom 1937"
+      ],
+      [
+        "77015",
+        "wordlist_or_less",
+        1936,
+        23,
+        "William Ross 1936"
+      ]
+    ]
+  },
+  "id": "melp1238",
+  "name": "Melpa",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.62644,
+  "longitude": 144.34,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Chimbu-Wahgi",
+      "id": "cent2120",
+      "url": "https://glottolog.org/resource/languoid/id/cent2120"
+    },
+    {
+      "name": "Hagen",
+      "id": "hage1248",
+      "url": "https://glottolog.org/resource/languoid/id/hage1248"
+    },
+    {
+      "name": "Melpa-Tembagla",
+      "id": "melp1239",
+      "url": "https://glottolog.org/resource/languoid/id/melp1239"
+    }
+  ],
+  "iso639-3": "med"
+}

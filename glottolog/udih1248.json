@@ -1,0 +1,99 @@
+{
+  "pk": 6151,
+  "hid": "ude",
+  "father_pk": 4131,
+  "family_pk": 162,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Anjuski [anju1241]':1,'Bikin [biki1239]':1,'Iman [iman1239]':1,'Khor [khor1273]':1,'Khungari [khun1260]':1,'Samargin [sama1298]':1,'Sikhota Alin [sikh1239]':1)'Udihe [udih1248][ude]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3021",
+        "label": "Udege"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_udh",
+        "label": "Udihe"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Udege_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/udih1248",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q13235",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "26499",
+        "long_grammar",
+        2001,
+        1002,
+        "Irina Nikolaeva and Maria Tolskaya 2001"
+      ],
+      [
+        "73083",
+        "long_grammar",
+        1999,
+        968,
+        "Irina Nikolaeva 1999"
+      ],
+      [
+        "126062",
+        "long_grammar",
+        1998,
+        320,
+        "Kormusin, I. 1998"
+      ],
+      [
+        "665953",
+        "grammar",
+        1000,
+        0,
+        "Nikolaeva, Irina and Tolskaja, Maria 1000"
+      ]
+    ]
+  },
+  "id": "udih1248",
+  "name": "Udihe",
+  "description": null,
+  "markup_description": null,
+  "latitude": 46.63086,
+  "longitude": 135.67762,
+  "classification": [
+    {
+      "name": "Tungusic",
+      "id": "tung1282",
+      "url": "https://glottolog.org/resource/languoid/id/tung1282"
+    },
+    {
+      "name": "Northeastern Tungusic",
+      "id": "nort3417",
+      "url": "https://glottolog.org/resource/languoid/id/nort3417"
+    },
+    {
+      "name": "Central-Eastern Tungusic",
+      "id": "cent2235",
+      "url": "https://glottolog.org/resource/languoid/id/cent2235"
+    },
+    {
+      "name": "Oroch-Udihe",
+      "id": "oroc1249",
+      "url": "https://glottolog.org/resource/languoid/id/oroc1249"
+    }
+  ],
+  "iso639-3": "ude"
+}

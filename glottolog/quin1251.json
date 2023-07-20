@@ -1,0 +1,73 @@
+{
+  "pk": 6169,
+  "hid": "qun",
+  "father_pk": 4154,
+  "family_pk": 166,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Lower Chehalis {Quinault} [lowe1426]':1)'Quinault [quin1251][qun]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3414522",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Quinault_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "60907",
+        "grammar_sketch",
+        1967,
+        30,
+        "Modrow, Ruth 1967"
+      ],
+      [
+        "578652",
+        "wordlist_or_less",
+        1889,
+        268,
+        "Willoughby, C. 1889"
+      ]
+    ]
+  },
+  "id": "quin1251",
+  "name": "Quinault",
+  "description": null,
+  "markup_description": null,
+  "latitude": 47.4214,
+  "longitude": -124.16,
+  "classification": [
+    {
+      "name": "Salishan",
+      "id": "sali1255",
+      "url": "https://glottolog.org/resource/languoid/id/sali1255"
+    },
+    {
+      "name": "Coast Salish",
+      "id": "coas1325",
+      "url": "https://glottolog.org/resource/languoid/id/coas1325"
+    },
+    {
+      "name": "Tsamosan",
+      "id": "tsam1241",
+      "url": "https://glottolog.org/resource/languoid/id/tsam1241"
+    },
+    {
+      "name": "Coastal Tsamosan",
+      "id": "coas1311",
+      "url": "https://glottolog.org/resource/languoid/id/coas1311"
+    }
+  ],
+  "iso639-3": "qun"
+}

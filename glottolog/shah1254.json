@@ -1,0 +1,119 @@
+{
+  "pk": 22548,
+  "hid": "shm",
+  "father_pk": 20823,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Shali-Kolur [shal1243]':1,'Shandermani [shan1296]':1,('Massali [mass1260]':1,'Masulei [masu1234]':1)'Southern Talyshi [sout2639]':1)'Shahrudi-Southern Talysh [shah1254][shm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7462280",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Shahrudi_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_klr",
+        "label": "Koluri"
+      }
+    ],
+    "meds": [
+      [
+        "314350",
+        "grammar",
+        2011,
+        156,
+        "Paul, Daniel 2011"
+      ],
+      [
+        "313527",
+        "grammar_sketch",
+        1978,
+        56,
+        "Gilbert Lazard 1978, 1979, 1979"
+      ],
+      [
+        "311426",
+        "grammar_sketch",
+        1959,
+        17,
+        "Yarshater, Ehsan 1959"
+      ]
+    ]
+  },
+  "id": "shah1254",
+  "name": "Shahrudi-Southern Talysh",
+  "description": null,
+  "markup_description": null,
+  "latitude": 36.7581,
+  "longitude": 50.2074,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Iranian",
+      "id": "iran1269",
+      "url": "https://glottolog.org/resource/languoid/id/iran1269"
+    },
+    {
+      "name": "Central Iranian PBS",
+      "id": "cent2317",
+      "url": "https://glottolog.org/resource/languoid/id/cent2317"
+    },
+    {
+      "name": "Central Iranian PB",
+      "id": "cent2318",
+      "url": "https://glottolog.org/resource/languoid/id/cent2318"
+    },
+    {
+      "name": "Northwestern Iranian",
+      "id": "nort3177",
+      "url": "https://glottolog.org/resource/languoid/id/nort3177"
+    },
+    {
+      "name": "Adharic",
+      "id": "tati1243",
+      "url": "https://glottolog.org/resource/languoid/id/tati1243"
+    },
+    {
+      "name": "Tatic",
+      "id": "tati1244",
+      "url": "https://glottolog.org/resource/languoid/id/tati1244"
+    },
+    {
+      "name": "Central Tatic",
+      "id": "cent2265",
+      "url": "https://glottolog.org/resource/languoid/id/cent2265"
+    },
+    {
+      "name": "Khalkhalic",
+      "id": "khal1276",
+      "url": "https://glottolog.org/resource/languoid/id/khal1276"
+    }
+  ],
+  "iso639-3": "shm"
+}

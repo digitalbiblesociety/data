@@ -1,0 +1,92 @@
+{
+  "pk": 5689,
+  "hid": "plg",
+  "father_pk": 3752,
+  "family_pk": 102,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Chaco Pilagá [chac1252]':1,'Toba-Pilagá [toba1270]':1)'Pilagá [pila1245][plg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2953",
+        "label": "Pilagá"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_pga",
+        "label": "Pilagá"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Pilag%C3%A1_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/pila1245",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2748259",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "16326",
+        "long_grammar",
+        2001,
+        409,
+        "Alejandra Vidal 2001"
+      ],
+      [
+        "28013",
+        "phonology_or_text",
+        1997,
+        54,
+        "Vidal, Alejandra 1997"
+      ],
+      [
+        "307694",
+        "wordlist_or_less",
+        1929,
+        4,
+        "Chestmir Loukotka 1929, 1930"
+      ]
+    ]
+  },
+  "id": "pila1245",
+  "name": "Pilagá",
+  "description": null,
+  "markup_description": null,
+  "latitude": -25.0058,
+  "longitude": -60.1537,
+  "classification": [
+    {
+      "name": "Guaicuruan",
+      "id": "guai1249",
+      "url": "https://glottolog.org/resource/languoid/id/guai1249"
+    },
+    {
+      "name": "Guaicuru del Sur",
+      "id": "guai1250",
+      "url": "https://glottolog.org/resource/languoid/id/guai1250"
+    },
+    {
+      "name": "Qom",
+      "id": "qomm1235",
+      "url": "https://glottolog.org/resource/languoid/id/qomm1235"
+    },
+    {
+      "name": "Pilaga-Toba",
+      "id": "pila1244",
+      "url": "https://glottolog.org/resource/languoid/id/pila1244"
+    }
+  ],
+  "iso639-3": "plg"
+}

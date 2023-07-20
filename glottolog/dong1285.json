@@ -1,0 +1,97 @@
+{
+  "pk": 10530,
+  "hid": "sce",
+  "father_pk": 7632,
+  "family_pk": 417,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Sijiaji [siji1238]':1,'Suonanba [suon1238]':1,'Wangjiaji [wang1256]':1)'Dongxiang [dong1285][sce]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1209",
+        "label": "Dongxiang"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q32947",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Santa_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/dong1285",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_sta",
+        "label": "Santa"
+      }
+    ],
+    "meds": [
+      [
+        "88378",
+        "long_grammar",
+        1997,
+        493,
+        "Field, Kenneth Lynn 1997"
+      ],
+      [
+        "143055",
+        "grammar",
+        1961,
+        151,
+        "B. X. Todaeva 1961"
+      ],
+      [
+        "9518",
+        "grammar_sketch",
+        1959,
+        38,
+        "B. H. Todaeva 1959"
+      ]
+    ]
+  },
+  "id": "dong1285",
+  "name": "Dongxiang",
+  "description": null,
+  "markup_description": null,
+  "latitude": 35.66354,
+  "longitude": 103.38952,
+  "classification": [
+    {
+      "name": "Mongolic-Khitan",
+      "id": "mong1349",
+      "url": "https://glottolog.org/resource/languoid/id/mong1349"
+    },
+    {
+      "name": "Mongolic",
+      "id": "mong1329",
+      "url": "https://glottolog.org/resource/languoid/id/mong1329"
+    },
+    {
+      "name": "Southern Periphery Mongolic",
+      "id": "sout2705",
+      "url": "https://glottolog.org/resource/languoid/id/sout2705"
+    },
+    {
+      "name": "Shirongol",
+      "id": "shir1260",
+      "url": "https://glottolog.org/resource/languoid/id/shir1260"
+    },
+    {
+      "name": "Baoanic",
+      "id": "baoa1237",
+      "url": "https://glottolog.org/resource/languoid/id/baoa1237"
+    }
+  ],
+  "iso639-3": "sce"
+}

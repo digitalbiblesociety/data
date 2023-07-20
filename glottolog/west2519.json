@@ -1,0 +1,133 @@
+{
+  "pk": 12435,
+  "hid": "wyy",
+  "father_pk": 9484,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Nadrogaa [nadr1235]':1,'Northwest Viti Levu [nucl1487]':1,'Waya {Western Fijian} [waya1268]':1)'Western Viti Levu-Yasawas Fijian [west2519][wyy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_fiw",
+        "label": "Fijian (Wayan)"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ndr",
+        "label": "Nadroga"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Western_Fijian_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3062751",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "102051",
+        "grammar_sketch",
+        2002,
+        15,
+        "Paul Geraghty 2002"
+      ],
+      [
+        "668425",
+        "phonology_or_text",
+        2000,
+        13,
+        "Geraldine Triffit 2000"
+      ],
+      [
+        "666828",
+        "phonology_or_text",
+        1953,
+        12,
+        "Raven-Hart, Rowland S. 1953"
+      ],
+      [
+        "43941",
+        "phonology_or_text",
+        1948,
+        3,
+        "Bruce G. Biggs 1948"
+      ],
+      [
+        "661685",
+        "wordlist_or_less",
+        1885,
+        8,
+        "Gatschet, Albert S. 1885"
+      ],
+      [
+        "590012",
+        "wordlist_or_less",
+        1866,
+        0,
+        "Waterhouse, J. 1866"
+      ],
+      [
+        "590073",
+        "wordlist_or_less",
+        1858,
+        0,
+        "Williams, T. 1858"
+      ],
+      [
+        "590068",
+        "wordlist_or_less",
+        1845,
+        0,
+        "Wilkes, C. 1845"
+      ]
+    ]
+  },
+  "id": "west2519",
+  "name": "Western Viti Levu-Yasawas Fijian",
+  "description": null,
+  "markup_description": null,
+  "latitude": -17.8355,
+  "longitude": 177.657,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Central Pacific linkage",
+      "id": "cent2060",
+      "url": "https://glottolog.org/resource/languoid/id/cent2060"
+    },
+    {
+      "name": "Western Fijian",
+      "id": "west2518",
+      "url": "https://glottolog.org/resource/languoid/id/west2518"
+    }
+  ],
+  "iso639-3": "wyy"
+}

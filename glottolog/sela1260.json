@@ -1,0 +1,105 @@
+{
+  "pk": 6800,
+  "hid": "sly",
+  "father_pk": 4636,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Selayar [sela1260][sly]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7447520",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Selayar_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_sly",
+        "label": "Selayar"
+      }
+    ],
+    "meds": [
+      [
+        "18264",
+        "grammar_sketch",
+        1999,
+        371,
+        "Hasan Basri 1999"
+      ],
+      [
+        "184063",
+        "phonology_or_text",
+        1994,
+        31,
+        "Finer, Dan 1994"
+      ],
+      [
+        "103292",
+        "phonology_or_text",
+        1986,
+        0,
+        "Mithun, M. and H.Basri 1986"
+      ],
+      [
+        "152569",
+        "wordlist_or_less",
+        1984,
+        18,
+        "Stokhof, W. A. L. and Alma E. Almanar 1984"
+      ],
+      [
+        "26365",
+        "wordlist_or_less",
+        1869,
+        5,
+        "Wallace, Alfred R. 1869"
+      ],
+      [
+        "22122",
+        "wordlist_or_less",
+        1866,
+        48,
+        "van der Stok, N.P. 1866"
+      ]
+    ]
+  },
+  "id": "sela1260",
+  "name": "Selayar",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.10145,
+  "longitude": 120.496,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "South Sulawesi",
+      "id": "sout2923",
+      "url": "https://glottolog.org/resource/languoid/id/sout2923"
+    },
+    {
+      "name": "Makassaric",
+      "id": "maka1310",
+      "url": "https://glottolog.org/resource/languoid/id/maka1310"
+    }
+  ],
+  "iso639-3": "sly"
+}

@@ -1,0 +1,92 @@
+{
+  "pk": 5773,
+  "hid": "bji",
+  "father_pk": 3828,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Burji [burj1242][bji]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4608",
+        "label": "Burji"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q34999",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Burji_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/burj1242",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_brj",
+        "label": "Burji"
+      }
+    ],
+    "meds": [
+      [
+        "553951",
+        "long_grammar",
+        2015,
+        332,
+        "Assefa, Tesfaye Baye 2015"
+      ],
+      [
+        "23480",
+        "grammar_sketch",
+        1938,
+        49,
+        "Moreno, Martino Mario 1938"
+      ],
+      [
+        "154547",
+        "wordlist_or_less",
+        1910,
+        52,
+        "Conti Rossini, Carlo 1910, 1911-1912, 1914"
+      ]
+    ]
+  },
+  "id": "burj1242",
+  "name": "Burji",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.44624,
+  "longitude": 38.4646,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Cushitic",
+      "id": "cush1243",
+      "url": "https://glottolog.org/resource/languoid/id/cush1243"
+    },
+    {
+      "name": "East Cushitic",
+      "id": "east2699",
+      "url": "https://glottolog.org/resource/languoid/id/east2699"
+    },
+    {
+      "name": "Highland East Cushitic",
+      "id": "high1285",
+      "url": "https://glottolog.org/resource/languoid/id/high1285"
+    }
+  ],
+  "iso639-3": "bji"
+}

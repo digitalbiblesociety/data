@@ -1,0 +1,99 @@
+{
+  "pk": 15271,
+  "hid": "mmg",
+  "father_pk": 12468,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Magam [maga1262]':1,'Olal [olal1237]':1)'North Ambrym [nort2839][mmg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1128",
+        "label": "North Ambrym"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2842468",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/North_Ambrym_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "320646",
+        "grammar_sketch",
+        2012,
+        203,
+        "Franjieh, Michael James 2012"
+      ],
+      [
+        "580256",
+        "phonology_or_text",
+        1955,
+        199,
+        "Guiart, M. J. 1955"
+      ],
+      [
+        "570401",
+        "wordlist_or_less",
+        1927,
+        18,
+        "Deacon, A. B. 1927"
+      ]
+    ]
+  },
+  "id": "nort2839",
+  "name": "North Ambrym",
+  "description": null,
+  "markup_description": null,
+  "latitude": -16.1741,
+  "longitude": 168.14,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "North and Central Vanuatu",
+      "id": "nort3195",
+      "url": "https://glottolog.org/resource/languoid/id/nort3195"
+    },
+    {
+      "name": "Central Vanuatu",
+      "id": "cent2269",
+      "url": "https://glottolog.org/resource/languoid/id/cent2269"
+    },
+    {
+      "name": "Ambrym",
+      "id": "ambr1240",
+      "url": "https://glottolog.org/resource/languoid/id/ambr1240"
+    }
+  ],
+  "iso639-3": "mmg"
+}

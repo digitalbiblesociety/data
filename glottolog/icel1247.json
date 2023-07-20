@@ -1,0 +1,110 @@
+{
+  "pk": 14035,
+  "hid": "isl",
+  "father_pk": 10934,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Icelandic [icel1247][isl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ice",
+        "label": "Icelandic"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Icelandic_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/icel1247",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q294",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "56038",
+        "long_grammar",
+        1949,
+        576,
+        "Stefán, Einarsson 1949"
+      ],
+      [
+        "112323",
+        "long_grammar",
+        1945,
+        539,
+        "Einarsson, Stefán 1945"
+      ],
+      [
+        "148493",
+        "grammar",
+        1895,
+        176,
+        "Sweet, Henry 1895"
+      ],
+      [
+        "587822",
+        "grammar_sketch",
+        1651,
+        0,
+        "Runolphus Jonas 1651"
+      ]
+    ]
+  },
+  "id": "icel1247",
+  "name": "Icelandic",
+  "description": null,
+  "markup_description": null,
+  "latitude": 63.4837,
+  "longitude": -19.0212,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Germanic",
+      "id": "germ1287",
+      "url": "https://glottolog.org/resource/languoid/id/germ1287"
+    },
+    {
+      "name": "Northwest Germanic",
+      "id": "nort3152",
+      "url": "https://glottolog.org/resource/languoid/id/nort3152"
+    },
+    {
+      "name": "North Germanic",
+      "id": "nort3160",
+      "url": "https://glottolog.org/resource/languoid/id/nort3160"
+    },
+    {
+      "name": "West Scandinavian",
+      "id": "west2805",
+      "url": "https://glottolog.org/resource/languoid/id/west2805"
+    },
+    {
+      "name": "Icelandic-Faroese",
+      "id": "icel1246",
+      "url": "https://glottolog.org/resource/languoid/id/icel1246"
+    }
+  ],
+  "iso639-3": "isl"
+}

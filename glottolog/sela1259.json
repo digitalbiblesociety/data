@@ -1,0 +1,93 @@
+{
+  "pk": 9548,
+  "hid": "slu",
+  "father_pk": 6903,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kandar [kand1302]':1)'Selaru [sela1259][slu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7447500",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Selaru_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/sela1259",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_sru",
+        "label": "Selaru"
+      }
+    ],
+    "meds": [
+      [
+        "119256",
+        "grammar",
+        1990,
+        219,
+        "David F. Coward 1990"
+      ],
+      [
+        "159754",
+        "grammar_sketch",
+        1989,
+        42,
+        "Coward, Naomi 1989"
+      ],
+      [
+        "121836",
+        "grammar_sketch",
+        1932,
+        34,
+        "Peter Drabbe 1932"
+      ]
+    ]
+  },
+  "id": "sela1259",
+  "name": "Selaru",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.18376,
+  "longitude": 130.961,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Timor-Babar",
+      "id": "timo1265",
+      "url": "https://glottolog.org/resource/languoid/id/timo1265"
+    },
+    {
+      "name": "Southwest Maluku",
+      "id": "sout3382",
+      "url": "https://glottolog.org/resource/languoid/id/sout3382"
+    },
+    {
+      "name": "South Tanimbar",
+      "id": "sout2890",
+      "url": "https://glottolog.org/resource/languoid/id/sout2890"
+    }
+  ],
+  "iso639-3": "slu"
+}

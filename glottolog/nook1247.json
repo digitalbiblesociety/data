@@ -1,0 +1,75 @@
+{
+  "pk": 4142,
+  "hid": "nok",
+  "father_pk": 2382,
+  "family_pk": 166,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Nooksack [nook1247][nok]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3343396",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nooksack_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "318113",
+        "phonology_or_text",
+        2011,
+        248,
+        "Allan Richardson and Galloway, Brent D. 2011"
+      ],
+      [
+        "475791",
+        "phonology_or_text",
+        1983,
+        53,
+        "Galloway, Brent D. 1983"
+      ],
+      [
+        "318470",
+        "phonology_or_text",
+        1961,
+        46,
+        "Amoss, Pamela T. 1961"
+      ]
+    ]
+  },
+  "id": "nook1247",
+  "name": "Nooksack",
+  "description": null,
+  "markup_description": null,
+  "latitude": 48.2201,
+  "longitude": -121.973,
+  "classification": [
+    {
+      "name": "Salishan",
+      "id": "sali1255",
+      "url": "https://glottolog.org/resource/languoid/id/sali1255"
+    },
+    {
+      "name": "Coast Salish",
+      "id": "coas1325",
+      "url": "https://glottolog.org/resource/languoid/id/coas1325"
+    },
+    {
+      "name": "Central Salish",
+      "id": "cent2129",
+      "url": "https://glottolog.org/resource/languoid/id/cent2129"
+    }
+  ],
+  "iso639-3": "nok"
+}

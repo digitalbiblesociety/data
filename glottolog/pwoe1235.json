@@ -1,0 +1,82 @@
+{
+  "pk": 10180,
+  "hid": "kjp",
+  "father_pk": 7316,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kanchanaburi Pwo Karen [kanc1245]':1,'Kawkareik [kawk1239]':1,'Pa''an [paan1239]':1,'Ratchaburi Pwo Karen [ratc1238]':1,'Tavoy [tavo1241]':1)'Pwo Eastern Karen [pwoe1235][kjp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kpw",
+        "label": "Karen (Pwo)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Eastern_Pwo_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5330390",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "553418",
+        "long_grammar",
+        2004,
+        629,
+        "Atsuhiko Kato 2004"
+      ],
+      [
+        "302699",
+        "grammar",
+        1846,
+        243,
+        "Francis Mason 1846"
+      ]
+    ]
+  },
+  "id": "pwoe1235",
+  "name": "Pwo Eastern Karen",
+  "description": null,
+  "markup_description": null,
+  "latitude": 15.1915,
+  "longitude": 98.7355,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Karenic",
+      "id": "kare1337",
+      "url": "https://glottolog.org/resource/languoid/id/kare1337"
+    },
+    {
+      "name": "Peripheral Karen",
+      "id": "peri1254",
+      "url": "https://glottolog.org/resource/languoid/id/peri1254"
+    },
+    {
+      "name": "Pwo",
+      "id": "pwoo1239",
+      "url": "https://glottolog.org/resource/languoid/id/pwoo1239"
+    },
+    {
+      "name": "Eastern-Western Pwo Karen",
+      "id": "east2341",
+      "url": "https://glottolog.org/resource/languoid/id/east2341"
+    }
+  ],
+  "iso639-3": "kjp"
+}

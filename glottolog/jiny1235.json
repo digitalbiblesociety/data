@@ -1,0 +1,99 @@
+{
+  "pk": 10308,
+  "hid": "cjy",
+  "father_pk": 7395,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Huhehaote [huhe1234]':1,'Pingyao [ping1247]':1,'Taiyuan [taiy1243]':1)'Jinyu Chinese [jiny1235][cjy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56479",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Jin_Chinese",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "549510",
+        "long_grammar",
+        2008,
+        429,
+        "Hóu, Jīngyī 2008"
+      ],
+      [
+        "549509",
+        "long_grammar",
+        1999,
+        423,
+        "Hóu, Jīngyī 1999"
+      ],
+      [
+        "549508",
+        "grammar",
+        1989,
+        4,
+        "Hou, Jingyi and Wen, Duanzheng 1989"
+      ],
+      [
+        "549346",
+        "grammar_sketch",
+        1981,
+        22,
+        "He, Wei 1981"
+      ],
+      [
+        "587465",
+        "phonology_or_text",
+        1976,
+        80,
+        "Hashimoto, Mantaro J. 1976, 1977, 1977"
+      ]
+    ]
+  },
+  "id": "jiny1235",
+  "name": "Jinyu Chinese",
+  "description": null,
+  "markup_description": null,
+  "latitude": 38.8284,
+  "longitude": 111.278,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Sinitic",
+      "id": "sini1245",
+      "url": "https://glottolog.org/resource/languoid/id/sini1245"
+    },
+    {
+      "name": "Classical-Middle-Modern Sinitic",
+      "id": "clas1255",
+      "url": "https://glottolog.org/resource/languoid/id/clas1255"
+    },
+    {
+      "name": "Middle-Modern Sinitic",
+      "id": "midd1354",
+      "url": "https://glottolog.org/resource/languoid/id/midd1354"
+    },
+    {
+      "name": "Northern Chinese",
+      "id": "nort3155",
+      "url": "https://glottolog.org/resource/languoid/id/nort3155"
+    }
+  ],
+  "iso639-3": "cjy"
+}

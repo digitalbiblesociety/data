@@ -1,0 +1,93 @@
+{
+  "pk": 8128,
+  "hid": "ape",
+  "father_pk": 5696,
+  "family_pk": 103,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Coastal Arapesh [coas1296]':1,'Nuclear Bukiyip [nucl1592]':1)'Bukiyip [buki1249][ape]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_arp",
+        "label": "Arapesh (Mountain)"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/2123",
+        "label": "Bukiyip"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bukiyip_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3507895",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "69601",
+        "long_grammar",
+        1991,
+        307,
+        "Robert J. Conrad and Kepas Wogiga 1991"
+      ],
+      [
+        "64074",
+        "grammar_sketch",
+        1942,
+        121,
+        "Reo F. Fortune 1942"
+      ],
+      [
+        "62475",
+        "wordlist_or_less",
+        1905,
+        12,
+        "Johannes Klaffl and Friedrich Vormann 1905"
+      ]
+    ]
+  },
+  "id": "buki1249",
+  "name": "Bukiyip",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.47169,
+  "longitude": 143.111,
+  "classification": [
+    {
+      "name": "Nuclear Torricelli",
+      "id": "nucl1708",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1708"
+    },
+    {
+      "name": "Kombio-Arapesh-Urat",
+      "id": "komb1276",
+      "url": "https://glottolog.org/resource/languoid/id/komb1276"
+    },
+    {
+      "name": "Arapesh",
+      "id": "arap1279",
+      "url": "https://glottolog.org/resource/languoid/id/arap1279"
+    },
+    {
+      "name": "Mufian-Bukiyip-Abu",
+      "id": "mufi1239",
+      "url": "https://glottolog.org/resource/languoid/id/mufi1239"
+    },
+    {
+      "name": "Bukiyip-Abu",
+      "id": "buki1250",
+      "url": "https://glottolog.org/resource/languoid/id/buki1250"
+    }
+  ],
+  "iso639-3": "ape"
+}

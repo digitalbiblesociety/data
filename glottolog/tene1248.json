@@ -1,0 +1,78 @@
+{
+  "pk": 3846,
+  "hid": "dtk",
+  "father_pk": 2154,
+  "family_pk": 117,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Gimri Kan [guim1240]':1,'Tengu Kan [teng1266]':1,'Tenu Kan [tenu1234]':1,'Togo Kan [togo1254]':1,'Woru Kan [woru1234]':1)'Tengou-Togo Dogon [tene1248][dtk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q11018863",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "662651",
+        "long_grammar",
+        2011,
+        547,
+        "Heath, Jeffrey 2011"
+      ],
+      [
+        "63318",
+        "grammar",
+        1969,
+        164,
+        "Prost, André 1969"
+      ],
+      [
+        "70852",
+        "wordlist_or_less",
+        1953,
+        2,
+        "Bertho, J. 1953"
+      ],
+      [
+        "87230",
+        "wordlist_or_less",
+        1907,
+        168,
+        "Desplagnes, Louis 1907"
+      ]
+    ]
+  },
+  "id": "tene1248",
+  "name": "Tengou-Togo Dogon",
+  "description": null,
+  "markup_description": null,
+  "latitude": 14.0675,
+  "longitude": -3.37158,
+  "classification": [
+    {
+      "name": "Dogon",
+      "id": "dogo1299",
+      "url": "https://glottolog.org/resource/languoid/id/dogo1299"
+    },
+    {
+      "name": "Plains Dogon",
+      "id": "plai1257",
+      "url": "https://glottolog.org/resource/languoid/id/plai1257"
+    },
+    {
+      "name": "Western Plains Dogon",
+      "id": "west2508",
+      "url": "https://glottolog.org/resource/languoid/id/west2508"
+    }
+  ],
+  "iso639-3": "dtk"
+}

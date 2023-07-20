@@ -1,0 +1,69 @@
+{
+  "pk": 4043,
+  "hid": "vmu",
+  "father_pk": 2304,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Muluridyi [mulu1243][vmu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3373",
+        "label": "Muluridyi"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/y97",
+        "label": "Muluridji"
+      },
+      {
+        "url": "https://phoible.org/languages/mulu1243",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q10590149",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "145640",
+        "wordlist_or_less",
+        1966,
+        5,
+        "R. M. W. Dixon 1966"
+      ]
+    ]
+  },
+  "id": "mulu1243",
+  "name": "Muluridyi",
+  "description": null,
+  "markup_description": null,
+  "latitude": -17.0601,
+  "longitude": 145.329,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Yimidhirr-Yalanji-Yidinic",
+      "id": "yimi1234",
+      "url": "https://glottolog.org/resource/languoid/id/yimi1234"
+    },
+    {
+      "name": "Yalandyic",
+      "id": "yala1261",
+      "url": "https://glottolog.org/resource/languoid/id/yala1261"
+    }
+  ],
+  "iso639-3": "vmu"
+}

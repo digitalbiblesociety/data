@@ -1,0 +1,112 @@
+{
+  "pk": 23159,
+  "hid": "tox",
+  "father_pk": 21609,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tobian [tobi1238][tox]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2451",
+        "label": "Tobian"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tobian_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q34022",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "123099",
+        "wordlist_or_less",
+        1968,
+        7,
+        "Quackenbush, Edward Miller 1968"
+      ],
+      [
+        "548615",
+        "wordlist_or_less",
+        1936,
+        0,
+        "Anneliese Eilers 1936"
+      ]
+    ]
+  },
+  "id": "tobi1238",
+  "name": "Tobian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 3.004528,
+  "longitude": 131.171295,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Micronesian",
+      "id": "micr1243",
+      "url": "https://glottolog.org/resource/languoid/id/micr1243"
+    },
+    {
+      "name": "Central Micronesian",
+      "id": "cent2276",
+      "url": "https://glottolog.org/resource/languoid/id/cent2276"
+    },
+    {
+      "name": "Western Micronesian",
+      "id": "west2844",
+      "url": "https://glottolog.org/resource/languoid/id/west2844"
+    },
+    {
+      "name": "Chuukic-Ponapeic",
+      "id": "pona1247",
+      "url": "https://glottolog.org/resource/languoid/id/pona1247"
+    },
+    {
+      "name": "Trukic",
+      "id": "truk1243",
+      "url": "https://glottolog.org/resource/languoid/id/truk1243"
+    },
+    {
+      "name": "Western Trukic",
+      "id": "west2855",
+      "url": "https://glottolog.org/resource/languoid/id/west2855"
+    },
+    {
+      "name": "Sonsorol-Tobi",
+      "id": "sons1245",
+      "url": "https://glottolog.org/resource/languoid/id/sons1245"
+    }
+  ],
+  "iso639-3": "tox"
+}

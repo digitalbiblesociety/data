@@ -1,0 +1,84 @@
+{
+  "pk": 12404,
+  "hid": "plh",
+  "father_pk": 9456,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Paulohi [paul1238][plh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2754",
+        "label": "Paulohi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7155331",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Paulohi_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_plh",
+        "label": "Paulohi"
+      }
+    ],
+    "meds": [
+      [
+        "97896",
+        "grammar",
+        1918,
+        266,
+        "Stresemann, Erwin 1918"
+      ]
+    ]
+  },
+  "id": "paul1238",
+  "name": "Paulohi",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.25404,
+  "longitude": 128.779,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Nunusaku",
+      "id": "nunu1252",
+      "url": "https://glottolog.org/resource/languoid/id/nunu1252"
+    },
+    {
+      "name": "Piru Bay",
+      "id": "piru1243",
+      "url": "https://glottolog.org/resource/languoid/id/piru1243"
+    },
+    {
+      "name": "East Piru Bay",
+      "id": "east2752",
+      "url": "https://glottolog.org/resource/languoid/id/east2752"
+    },
+    {
+      "name": "Solehua",
+      "id": "sole1243",
+      "url": "https://glottolog.org/resource/languoid/id/sole1243"
+    }
+  ],
+  "iso639-3": "plh"
+}

@@ -1,0 +1,94 @@
+{
+  "pk": 18962,
+  "hid": "grv",
+  "father_pk": 16681,
+  "family_pk": 83,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Borobo [boro1276]':1,'Dorobo {Central Grebo} [doro1261]':1,'Globo [glob1238]':1,'Nyenebo [nyen1259]':1,'Trembo [trem1243]':1)'Central Grebo [cent2041][grv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q18385114",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "22630",
+        "phonology_or_text",
+        1986,
+        11,
+        "Marchese, Lynell 1986"
+      ],
+      [
+        "111398",
+        "wordlist_or_less",
+        1977,
+        1,
+        "Ingemann, Frances and John Duitsman 1977"
+      ]
+    ]
+  },
+  "id": "cent2041",
+  "name": "Central Grebo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.88038,
+  "longitude": -7.88667,
+  "classification": [
+    {
+      "name": "Kru",
+      "id": "krua1234",
+      "url": "https://glottolog.org/resource/languoid/id/krua1234"
+    },
+    {
+      "name": "Greater Western Kru",
+      "id": "grea1300",
+      "url": "https://glottolog.org/resource/languoid/id/grea1300"
+    },
+    {
+      "name": "Western Kru",
+      "id": "west2485",
+      "url": "https://glottolog.org/resource/languoid/id/west2485"
+    },
+    {
+      "name": "Grebo-Aizi",
+      "id": "greb1258",
+      "url": "https://glottolog.org/resource/languoid/id/greb1258"
+    },
+    {
+      "name": "Grebo",
+      "id": "greb1257",
+      "url": "https://glottolog.org/resource/languoid/id/greb1257"
+    },
+    {
+      "name": "Liberian Grebo",
+      "id": "greb1256",
+      "url": "https://glottolog.org/resource/languoid/id/greb1256"
+    },
+    {
+      "name": "North-Central Liberian Grebo",
+      "id": "nort3193",
+      "url": "https://glottolog.org/resource/languoid/id/nort3193"
+    },
+    {
+      "name": "Barclayville-Gboloo-Central Liberian Grebo",
+      "id": "barc1236",
+      "url": "https://glottolog.org/resource/languoid/id/barc1236"
+    },
+    {
+      "name": "Gboloo-Central Grebo",
+      "id": "gbol1236",
+      "url": "https://glottolog.org/resource/languoid/id/gbol1236"
+    }
+  ],
+  "iso639-3": "grv"
+}

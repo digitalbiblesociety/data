@@ -1,0 +1,108 @@
+{
+  "pk": 17550,
+  "hid": "tnl",
+  "father_pk": 15223,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ikyoo [ikyo1237]':1,'Itonga [iton1249]':1,'Loanatit [loan1237]':1,'Nerauya [nera1237]':1)'Lenakel [lena1238][tnl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3229429",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lenakel_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/lena1238",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_len",
+        "label": "Lenakel"
+      }
+    ],
+    "meds": [
+      [
+        "158217",
+        "grammar_sketch",
+        1978,
+        141,
+        "Lynch, John 1978"
+      ],
+      [
+        "43966",
+        "grammar_sketch",
+        1971,
+        36,
+        "John Lynch 1971"
+      ],
+      [
+        "128519",
+        "wordlist_or_less",
+        1962,
+        2,
+        "Arthur Capell 1962"
+      ]
+    ]
+  },
+  "id": "lena1238",
+  "name": "Lenakel",
+  "description": null,
+  "markup_description": null,
+  "latitude": -19.4763,
+  "longitude": 169.261,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Southern Melanesian",
+      "id": "sout3173",
+      "url": "https://glottolog.org/resource/languoid/id/sout3173"
+    },
+    {
+      "name": "Southern Vanuatu",
+      "id": "sout2868",
+      "url": "https://glottolog.org/resource/languoid/id/sout2868"
+    },
+    {
+      "name": "Tanna",
+      "id": "tann1242",
+      "url": "https://glottolog.org/resource/languoid/id/tann1242"
+    },
+    {
+      "name": "Northern Tanna linkage",
+      "id": "nort3218",
+      "url": "https://glottolog.org/resource/languoid/id/nort3218"
+    }
+  ],
+  "iso639-3": "tnl"
+}

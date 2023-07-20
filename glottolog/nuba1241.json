@@ -1,0 +1,97 @@
+{
+  "pk": 18167,
+  "hid": "baf",
+  "father_pk": 15776,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Baca {Cameroon} [baca1249]':1,'Kélendé [kele1266]':1,'Nibieg [nibi1234]':1)'Nubaca [nuba1241][baf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/556",
+        "label": "Nubaca"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36270",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Baca_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "470157",
+        "grammar",
+        1942,
+        0,
+        "Hallowes, D.P. 1942"
+      ],
+      [
+        "663441",
+        "wordlist_or_less",
+        1919,
+        0,
+        "Johnston, Harry Hamilton 1919/22"
+      ]
+    ]
+  },
+  "id": "nuba1241",
+  "name": "Nubaca",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.35696,
+  "longitude": 11.029,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Narrow Bantu",
+      "id": "narr1281",
+      "url": "https://glottolog.org/resource/languoid/id/narr1281"
+    },
+    {
+      "name": "Mbam-Bubi-Jarawan",
+      "id": "mbam1254",
+      "url": "https://glottolog.org/resource/languoid/id/mbam1254"
+    },
+    {
+      "name": "Mbam",
+      "id": "mbam1252",
+      "url": "https://glottolog.org/resource/languoid/id/mbam1252"
+    }
+  ],
+  "iso639-3": "baf"
+}

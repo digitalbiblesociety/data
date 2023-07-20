@@ -1,0 +1,66 @@
+{
+  "pk": 3140,
+  "hid": "lma",
+  "father_pk": 1600,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Northern Limba [nort2763]':1,'Southern Limba [sout2776]':1)'East Limba [east2387][lma]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q11034212",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "75562",
+        "phonology_or_text",
+        2005,
+        150,
+        "Clarke, Mary Lane 2005"
+      ],
+      [
+        "161371",
+        "phonology_or_text",
+        1922,
+        150,
+        "Clarke, Mary Lane 1922"
+      ],
+      [
+        "115080",
+        "wordlist_or_less",
+        1916,
+        2,
+        "Thomas, Northcote Whitridge 1916"
+      ]
+    ]
+  },
+  "id": "east2387",
+  "name": "East Limba",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.71107,
+  "longitude": -11.7496,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Limba",
+      "id": "limb1267",
+      "url": "https://glottolog.org/resource/languoid/id/limb1267"
+    }
+  ],
+  "iso639-3": "lma"
+}

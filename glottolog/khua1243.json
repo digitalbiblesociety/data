@@ -1,0 +1,78 @@
+{
+  "pk": 549,
+  "hid": "xhv",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Khua [khua1243][xhv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "xhv",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "has an entry Khua [xhv] as a separate language of Laos-Vietnam.  But the Khua in question speak a dialect of what E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26\ncalls Eastern Bru [bru] (**hh:ew:Vargyas:Brous**). The entry presumably derives from **hh:h:WurmHattori:Pacific**:35 where two other Bru varieties, Mangkong and Tri, are also listed separately. See also: Eastern Bru [bru]."
+    },
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q13018510",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "92676",
+        "wordlist_or_less",
+        2003,
+        15,
+        "Joachim Schliesinger 2003"
+      ],
+      [
+        "94051",
+        "wordlist_or_less",
+        1991,
+        10,
+        "Robert Parker 1991"
+      ],
+      [
+        "58495",
+        "wordlist_or_less",
+        1981,
+        0,
+        "Stephen Wurm and Shirô Hattori 1981"
+      ]
+    ]
+  },
+  "id": "khua1243",
+  "name": "Khua",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.402,
+  "longitude": 106.021,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "xhv"
+}

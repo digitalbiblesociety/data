@@ -1,0 +1,94 @@
+{
+  "pk": 13689,
+  "hid": "kfp",
+  "father_pk": 10609,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Majhi-Korwa [majh1254]':1)'Korwa [korw1242][kfp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5624",
+        "label": "Korwa"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6432786",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Korwa_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "124426",
+        "phonology_or_text",
+        1962,
+        148,
+        "Bahl, Kali Charan 1962"
+      ],
+      [
+        "69281",
+        "wordlist_or_less",
+        1937,
+        10,
+        "Bhaduri, Manindra Bhushan 1937"
+      ],
+      [
+        "83951",
+        "wordlist_or_less",
+        1872,
+        5,
+        "Dalton, Edward Tuite 1872"
+      ]
+    ]
+  },
+  "id": "korw1242",
+  "name": "Korwa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 23.4102,
+  "longitude": 83.8142,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Mundaic",
+      "id": "mund1335",
+      "url": "https://glottolog.org/resource/languoid/id/mund1335"
+    },
+    {
+      "name": "North Munda",
+      "id": "nort3151",
+      "url": "https://glottolog.org/resource/languoid/id/nort3151"
+    },
+    {
+      "name": "Kherwarian",
+      "id": "kher1245",
+      "url": "https://glottolog.org/resource/languoid/id/kher1245"
+    },
+    {
+      "name": "Mundaric",
+      "id": "mund1336",
+      "url": "https://glottolog.org/resource/languoid/id/mund1336"
+    },
+    {
+      "name": "Kodaku-Korwa",
+      "id": "koda1256",
+      "url": "https://glottolog.org/resource/languoid/id/koda1256"
+    }
+  ],
+  "iso639-3": "kfp"
+}

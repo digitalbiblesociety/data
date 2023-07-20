@@ -1,0 +1,100 @@
+{
+  "pk": 8510,
+  "hid": "wri",
+  "father_pk": 6045,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Wariyangga [wari1262][wri]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6652",
+        "label": "Warriyangga"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/w22",
+        "label": "Warriyangga"
+      },
+      {
+        "url": "https://phoible.org/languages/wari1262",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q10719289",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "595",
+        "phonology_or_text",
+        1992,
+        72,
+        "Austin, Peter K. 1992"
+      ],
+      [
+        "305774",
+        "wordlist_or_less",
+        1991,
+        3,
+        "Austin, Peter K. 1991"
+      ],
+      [
+        "755",
+        "wordlist_or_less",
+        1981,
+        3,
+        "Austin, Peter K. 1981"
+      ],
+      [
+        "1121",
+        "wordlist_or_less",
+        1920,
+        0,
+        "Alexander, W. B. 1920"
+      ]
+    ]
+  },
+  "id": "wari1262",
+  "name": "Wariyangga",
+  "description": null,
+  "markup_description": null,
+  "latitude": -24.353,
+  "longitude": 116.927,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "South-West Pama-Nyungan",
+      "id": "sout3134",
+      "url": "https://glottolog.org/resource/languoid/id/sout3134"
+    },
+    {
+      "name": "Pilbara",
+      "id": "pilb1234",
+      "url": "https://glottolog.org/resource/languoid/id/pilb1234"
+    },
+    {
+      "name": "Mantharta",
+      "id": "mant1266",
+      "url": "https://glottolog.org/resource/languoid/id/mant1266"
+    },
+    {
+      "name": "Wariyangga-Dhargari",
+      "id": "wari1270",
+      "url": "https://glottolog.org/resource/languoid/id/wari1270"
+    }
+  ],
+  "iso639-3": "wri"
+}

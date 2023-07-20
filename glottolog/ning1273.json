@@ -1,0 +1,90 @@
+{
+  "pk": 8154,
+  "hid": "niz",
+  "father_pk": 5712,
+  "family_pk": 103,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ningil [ning1273][niz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10546",
+        "label": "Ningil"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q11732527",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ningil_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/ning1273",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nin",
+        "label": "Ningil"
+      }
+    ],
+    "meds": [
+      [
+        "92307",
+        "phonology_or_text",
+        1977,
+        24,
+        "Manning, M. and N. Jaggers 1977"
+      ],
+      [
+        "138610",
+        "wordlist_or_less",
+        1968,
+        1,
+        "Donald C. Laycock 1968"
+      ]
+    ]
+  },
+  "id": "ning1273",
+  "name": "Ningil",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.49733,
+  "longitude": 142.251,
+  "classification": [
+    {
+      "name": "Nuclear Torricelli",
+      "id": "nucl1708",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1708"
+    },
+    {
+      "name": "Wapei-Palei",
+      "id": "wape1249",
+      "url": "https://glottolog.org/resource/languoid/id/wape1249"
+    },
+    {
+      "name": "Central Torricelli",
+      "id": "cent2407",
+      "url": "https://glottolog.org/resource/languoid/id/cent2407"
+    },
+    {
+      "name": "Wapeic",
+      "id": "wape1250",
+      "url": "https://glottolog.org/resource/languoid/id/wape1250"
+    },
+    {
+      "name": "Ningil-Yil",
+      "id": "ning1276",
+      "url": "https://glottolog.org/resource/languoid/id/ning1276"
+    }
+  ],
+  "iso639-3": "niz"
+}

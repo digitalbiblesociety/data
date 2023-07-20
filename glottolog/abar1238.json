@@ -1,0 +1,98 @@
+{
+  "pk": 13001,
+  "hid": "mij",
+  "father_pk": 9989,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Missong [miss1255]':1,('Abar [abar1239]':1,'Biya [biya1235]':1,'Munken [munk1244]':1,'Ngun [ngun1279]':1)'Mungba [mung1275]':1)'Mungbam [abar1238][mij]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/8809",
+        "label": "Mungbam"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q34725",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mungbam_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/abar1238",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "315852",
+        "long_grammar",
+        2013,
+        585,
+        "Jesse Lovegren 2013"
+      ],
+      [
+        "129514",
+        "wordlist_or_less",
+        2002,
+        2,
+        "Hamm, Cameron and Diller, Jason and Jordan-Diller, Kari 2002"
+      ],
+      [
+        "57652",
+        "wordlist_or_less",
+        1980,
+        2,
+        "Hombert, Jean-Marie 1980"
+      ]
+    ]
+  },
+  "id": "abar1238",
+  "name": "Mungbam",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.5805,
+  "longitude": 10.2267,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Yemne-Kimbi",
+      "id": "yemn1234",
+      "url": "https://glottolog.org/resource/languoid/id/yemn1234"
+    }
+  ],
+  "iso639-3": "mij"
+}

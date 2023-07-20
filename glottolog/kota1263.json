@@ -1,0 +1,104 @@
+{
+  "pk": 10480,
+  "hid": "kfe",
+  "father_pk": 7596,
+  "family_pk": 404,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ko Bashai [koba1239]':1)'Kota {India} [kota1263][kfe]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4369",
+        "label": "Kota (India)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33483",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kota_language_(India)",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kota1263",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kot",
+        "label": "Kota"
+      }
+    ],
+    "meds": [
+      [
+        "318489",
+        "long_grammar",
+        1985,
+        344,
+        "Govindarajulu Subbiah 1985"
+      ],
+      [
+        "581951",
+        "grammar",
+        1973,
+        0,
+        "Govindarajulu Subbiah 1973"
+      ],
+      [
+        "44117",
+        "grammar_sketch",
+        1944,
+        198,
+        "Emeneau, Murray Barnson 1944-1946"
+      ],
+      [
+        "319369",
+        "phonology_or_text",
+        1927,
+        19,
+        "George A. Grierson 1927"
+      ]
+    ]
+  },
+  "id": "kota1263",
+  "name": "Kota (India)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.4978,
+  "longitude": 76.9387,
+  "classification": [
+    {
+      "name": "Dravidian",
+      "id": "drav1251",
+      "url": "https://glottolog.org/resource/languoid/id/drav1251"
+    },
+    {
+      "name": "South Dravidian",
+      "id": "sout3133",
+      "url": "https://glottolog.org/resource/languoid/id/sout3133"
+    },
+    {
+      "name": "South Dravidian I",
+      "id": "sout3138",
+      "url": "https://glottolog.org/resource/languoid/id/sout3138"
+    },
+    {
+      "name": "Tamil-Kannada",
+      "id": "tami1291",
+      "url": "https://glottolog.org/resource/languoid/id/tami1291"
+    },
+    {
+      "name": "Tamil-Kota",
+      "id": "tami1292",
+      "url": "https://glottolog.org/resource/languoid/id/tami1292"
+    }
+  ],
+  "iso639-3": "kfe"
+}

@@ -1,0 +1,100 @@
+{
+  "pk": 10661,
+  "hid": "gin",
+  "father_pk": 7765,
+  "family_pk": 426,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Hinuq [hinu1240][gin]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2315",
+        "label": "Hinukh"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33283",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Hinuq_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_hnk",
+        "label": "Hinuq"
+      }
+    ],
+    "meds": [
+      [
+        "300421",
+        "long_grammar",
+        2013,
+        827,
+        "Diana Forker 2013"
+      ],
+      [
+        "113696",
+        "long_grammar",
+        2011,
+        787,
+        "Diana Forker 2011"
+      ],
+      [
+        "305132",
+        "grammar",
+        1963,
+        218,
+        "Lomtadze, Elizbar A. 1963"
+      ],
+      [
+        "151095",
+        "wordlist_or_less",
+        1959,
+        290,
+        "Bokarev, E. A. 1959"
+      ]
+    ]
+  },
+  "id": "hinu1240",
+  "name": "Hinuq",
+  "description": null,
+  "markup_description": null,
+  "latitude": 42.4502,
+  "longitude": 45.8064,
+  "classification": [
+    {
+      "name": "Nakh-Daghestanian",
+      "id": "nakh1245",
+      "url": "https://glottolog.org/resource/languoid/id/nakh1245"
+    },
+    {
+      "name": "Daghestanian",
+      "id": "dagh1238",
+      "url": "https://glottolog.org/resource/languoid/id/dagh1238"
+    },
+    {
+      "name": "Avar-Andic-Tsezic",
+      "id": "avar1255",
+      "url": "https://glottolog.org/resource/languoid/id/avar1255"
+    },
+    {
+      "name": "Tsezic",
+      "id": "tsez1239",
+      "url": "https://glottolog.org/resource/languoid/id/tsez1239"
+    },
+    {
+      "name": "West Tsezic",
+      "id": "west2429",
+      "url": "https://glottolog.org/resource/languoid/id/west2429"
+    }
+  ],
+  "iso639-3": "gin"
+}

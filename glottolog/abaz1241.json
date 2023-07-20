@@ -1,0 +1,85 @@
+{
+  "pk": 3331,
+  "hid": "abq",
+  "father_pk": 1749,
+  "family_pk": 359,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ashkaraua [ashk1247]':1,'Bezshagh [bezs1238]':1,'Tapanta [tapa1256]':1)'Abaza [abaz1241][abq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1415",
+        "label": "Abaza"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_abz",
+        "label": "Abaza"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Abaza_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q27567",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "304081",
+        "long_grammar",
+        1976,
+        350,
+        "N. T. Tabulova 1976"
+      ],
+      [
+        "88213",
+        "grammar",
+        1955,
+        207,
+        "Genko, Anatolij N. 1955"
+      ],
+      [
+        "306773",
+        "grammar_sketch",
+        1954,
+        0,
+        "K. Lomatidze 1954"
+      ],
+      [
+        "565632",
+        "wordlist_or_less",
+        1814,
+        0,
+        "Klaproth, Julius 1814"
+      ]
+    ]
+  },
+  "id": "abaz1241",
+  "name": "Abaza",
+  "description": null,
+  "markup_description": null,
+  "latitude": 44.25,
+  "longitude": 42,
+  "classification": [
+    {
+      "name": "Abkhaz-Adyge",
+      "id": "abkh1242",
+      "url": "https://glottolog.org/resource/languoid/id/abkh1242"
+    },
+    {
+      "name": "Abkhaz-Abaza",
+      "id": "abkh1243",
+      "url": "https://glottolog.org/resource/languoid/id/abkh1243"
+    }
+  ],
+  "iso639-3": "abq"
+}

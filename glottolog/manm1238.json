@@ -1,0 +1,101 @@
+{
+  "pk": 13711,
+  "hid": "mml",
+  "father_pk": 10630,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Man Met [manm1238][mml]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4686",
+        "label": "Man Met"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3194984",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Man_Met_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "131208",
+        "grammar",
+        2005,
+        250,
+        "Chen, Guoqing 2005"
+      ],
+      [
+        "569882",
+        "phonology_or_text",
+        2003,
+        11,
+        "Chen, Guoqing 2003"
+      ],
+      [
+        "121253",
+        "wordlist_or_less",
+        1991,
+        2,
+        "Diffloth, Gérard 1991"
+      ],
+      [
+        "28173",
+        "wordlist_or_less",
+        1981,
+        2,
+        "Svantesson, Jan-Olof and Wang, Jingliu and Chen Xiangmu 1981"
+      ]
+    ]
+  },
+  "id": "manm1238",
+  "name": "Man Met",
+  "description": null,
+  "markup_description": null,
+  "latitude": 22.0743,
+  "longitude": 100.842,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Khasi-Palaung",
+      "id": "khas1273",
+      "url": "https://glottolog.org/resource/languoid/id/khas1273"
+    },
+    {
+      "name": "Palaungic",
+      "id": "pala1352",
+      "url": "https://glottolog.org/resource/languoid/id/pala1352"
+    },
+    {
+      "name": "East Palaungic",
+      "id": "east2331",
+      "url": "https://glottolog.org/resource/languoid/id/east2331"
+    },
+    {
+      "name": "Angkuic",
+      "id": "angk1246",
+      "url": "https://glottolog.org/resource/languoid/id/angk1246"
+    },
+    {
+      "name": "Southern Angkuic",
+      "id": "sout3232",
+      "url": "https://glottolog.org/resource/languoid/id/sout3232"
+    }
+  ],
+  "iso639-3": "mml"
+}

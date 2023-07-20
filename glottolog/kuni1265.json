@@ -1,0 +1,93 @@
+{
+  "pk": 3588,
+  "hid": "kvg",
+  "father_pk": 1918,
+  "family_pk": 27,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Aewa {Western Province} [aewa1238]':1,'Ingias [ingi1242]':1,'Khoamak [khoa1239]':1,'Kuni {Western Province} [kuni1266]':1,'Sengeze [seng1283]':1,'Wamak [wama1248]':1)'Kuni-Boazi [kuni1265][kvg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_boa",
+        "label": "Boazi (Kuni)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Boazi_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2907551",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "147655",
+        "grammar_sketch",
+        2006,
+        110,
+        "Edwards-Fumey, Deborah 2006"
+      ],
+      [
+        "81498",
+        "grammar_sketch",
+        1954,
+        19,
+        "Drabbe, Peter 1954"
+      ],
+      [
+        "141795",
+        "grammar_sketch",
+        1950,
+        6,
+        "J. H. M. C. Boelaars 1950"
+      ],
+      [
+        "321355",
+        "wordlist_or_less",
+        1926,
+        1,
+        "Alec C. Rentoul 1926"
+      ],
+      [
+        "323929",
+        "wordlist_or_less",
+        1923,
+        1,
+        "Austen, Leo 1923"
+      ]
+    ]
+  },
+  "id": "kuni1265",
+  "name": "Kuni-Boazi",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.97504,
+  "longitude": 141.365,
+  "classification": [
+    {
+      "name": "Anim",
+      "id": "anim1240",
+      "url": "https://glottolog.org/resource/languoid/id/anim1240"
+    },
+    {
+      "name": "Marind-Boazi-Yaqai",
+      "id": "mari1437",
+      "url": "https://glottolog.org/resource/languoid/id/mari1437"
+    },
+    {
+      "name": "Boazi",
+      "id": "boaz1244",
+      "url": "https://glottolog.org/resource/languoid/id/boaz1244"
+    }
+  ],
+  "iso639-3": "kvg"
+}

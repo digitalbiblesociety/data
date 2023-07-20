@@ -1,0 +1,90 @@
+{
+  "pk": 11967,
+  "hid": "ena",
+  "father_pk": 9154,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Aci [acii1238]':1,'Aki [akii1238]':1)'Apali [apal1256][ena]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3504201",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Apali_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "137086",
+        "phonology_or_text",
+        1997,
+        16,
+        "Wade, Martha 1997"
+      ],
+      [
+        "129576",
+        "wordlist_or_less",
+        1980,
+        4,
+        "Z'graggen, Johannes A. 1980"
+      ],
+      [
+        "37308",
+        "wordlist_or_less",
+        1969,
+        2,
+        "John A. Z'graggen 1969"
+      ]
+    ]
+  },
+  "id": "apal1256",
+  "name": "Apali",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.1727,
+  "longitude": 145.023,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Madang",
+      "id": "mada1298",
+      "url": "https://glottolog.org/resource/languoid/id/mada1298"
+    },
+    {
+      "name": "Kalamic-South Adelbert",
+      "id": "kala1403",
+      "url": "https://glottolog.org/resource/languoid/id/kala1403"
+    },
+    {
+      "name": "South Adelbert",
+      "id": "sout3148",
+      "url": "https://glottolog.org/resource/languoid/id/sout3148"
+    },
+    {
+      "name": "Sogeram",
+      "id": "soge1235",
+      "url": "https://glottolog.org/resource/languoid/id/soge1235"
+    },
+    {
+      "name": "Apalic",
+      "id": "apal1258",
+      "url": "https://glottolog.org/resource/languoid/id/apal1258"
+    }
+  ],
+  "iso639-3": "ena"
+}

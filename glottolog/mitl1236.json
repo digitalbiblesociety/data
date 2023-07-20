@@ -1,0 +1,101 @@
+{
+  "pk": 17173,
+  "hid": "zaw",
+  "father_pk": 14758,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Santiago Matatlán Zapotec [sant1449]':1)'Mitla Zapotec [mitl1236][zaw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10961",
+        "label": "Mitla Zapotec"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_zap",
+        "label": "Zapotec (Mitla)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mitla_Zapotec",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3053288",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "116174",
+        "grammar",
+        1961,
+        114,
+        "Briggs, Elinor 1961"
+      ],
+      [
+        "103699",
+        "wordlist_or_less",
+        1925,
+        2,
+        "Radin, Paul 1925"
+      ]
+    ]
+  },
+  "id": "mitl1236",
+  "name": "Mitla Zapotec",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.86849,
+  "longitude": -96.29434,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Popoloca-Zapotecan",
+      "id": "popo1292",
+      "url": "https://glottolog.org/resource/languoid/id/popo1292"
+    },
+    {
+      "name": "Zapotecan",
+      "id": "zapo1436",
+      "url": "https://glottolog.org/resource/languoid/id/zapo1436"
+    },
+    {
+      "name": "Zapotec",
+      "id": "zapo1437",
+      "url": "https://glottolog.org/resource/languoid/id/zapo1437"
+    },
+    {
+      "name": "Core Zapotec",
+      "id": "nucl1765",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1765"
+    },
+    {
+      "name": "Narrow Core Zapotec",
+      "id": "core1259",
+      "url": "https://glottolog.org/resource/languoid/id/core1259"
+    },
+    {
+      "name": "Central Core Zapotec",
+      "id": "cent2146",
+      "url": "https://glottolog.org/resource/languoid/id/cent2146"
+    }
+  ],
+  "iso639-3": "zaw"
+}

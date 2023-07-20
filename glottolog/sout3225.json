@@ -1,0 +1,65 @@
+{
+  "pk": 583,
+  "hid": "tle",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Southern Marakwet [sout3225][tle]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "tle",
+      "name": "Southern Marakwet",
+      "change_request": "2007-162",
+      "effective": "2008-01-14",
+      "reason": "merge",
+      "change_to": [
+        "enb"
+      ],
+      "remedy": "All existing uses should probably be Markweeta [enb]",
+      "comment": "There is no evidence to support the existence of Talai as the name of a distinct\nlanguage. Talai is the name of a region. In the Ethnologue 15th ed., Talai has\nbeen closely associated with Markweeta, née Endo: \"'Marakwet' is a cover term\nfor Talai and Endo.\" Thus it is appropriate to map any existing usage of the\ncode element for Talai to Markweeta, which now refers to the whole language area\nand its dialects (whereas \"Endo\" referred only to the northern dialect area)"
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12953173",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500534",
+        "wordlist_or_less",
+        2007,
+        0,
+        "ISO 639-3 Registration Authority 2007"
+      ],
+      [
+        "500269",
+        "wordlist_or_less",
+        2006,
+        0,
+        "ISO 639-3 Registration Authority 2006"
+      ]
+    ]
+  },
+  "id": "sout3225",
+  "name": "Southern Marakwet",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "tle"
+}

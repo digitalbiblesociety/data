@@ -1,0 +1,103 @@
+{
+  "pk": 5992,
+  "hid": "kjn",
+  "father_pk": 4015,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ogh Awarrangg [ogha1238]':1,'Oykangand [oyka1239]':1,'Ulkulu [ulku1238]':1)'Kunjen [kunj1245][kjn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/y83",
+        "label": "KUNJEN"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/3765",
+        "label": "Kunjen"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kjn",
+        "label": "Kunjen"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kunjen_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kunj1245",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3200468",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "135499",
+        "long_grammar",
+        1970,
+        376,
+        "Bruce A. Sommer 1970"
+      ],
+      [
+        "12834",
+        "phonology_or_text",
+        1969,
+        76,
+        "Sommer, Bruce A. 1969"
+      ],
+      [
+        "552289",
+        "phonology_or_text",
+        1968,
+        0,
+        "Sommer, Bruce A. 1968"
+      ],
+      [
+        "5083",
+        "wordlist_or_less",
+        1908,
+        5,
+        "Roth, Walter Edmund 1908"
+      ]
+    ]
+  },
+  "id": "kunj1245",
+  "name": "Kunjen",
+  "description": null,
+  "markup_description": null,
+  "latitude": -16.6807,
+  "longitude": 143.53,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Paman",
+      "id": "pama1251",
+      "url": "https://glottolog.org/resource/languoid/id/pama1251"
+    },
+    {
+      "name": "Alaya-Athima",
+      "id": "alay1234",
+      "url": "https://glottolog.org/resource/languoid/id/alay1234"
+    },
+    {
+      "name": "Southwestern Alaya-Athima",
+      "id": "kunj1248",
+      "url": "https://glottolog.org/resource/languoid/id/kunj1248"
+    }
+  ],
+  "iso639-3": "kjn"
+}

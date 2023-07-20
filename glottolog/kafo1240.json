@@ -1,0 +1,68 @@
+{
+  "pk": 3879,
+  "hid": "kpu",
+  "father_pk": 2178,
+  "family_pk": 125,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kafoa [kafo1240][kpu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6346151",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kafoa_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "553160",
+        "grammar_sketch",
+        2017,
+        54,
+        "Louise Baird 2017"
+      ],
+      [
+        "161717",
+        "wordlist_or_less",
+        1975,
+        1,
+        "W. A. L. Stokhof 1975"
+      ]
+    ]
+  },
+  "id": "kafo1240",
+  "name": "Kafoa",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.36572,
+  "longitude": 124.446,
+  "classification": [
+    {
+      "name": "Timor-Alor-Pantar",
+      "id": "timo1261",
+      "url": "https://glottolog.org/resource/languoid/id/timo1261"
+    },
+    {
+      "name": "Alor-Pantar",
+      "id": "alor1249",
+      "url": "https://glottolog.org/resource/languoid/id/alor1249"
+    },
+    {
+      "name": "Nuclear Alor-Pantar",
+      "id": "nucl1821",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1821"
+    }
+  ],
+  "iso639-3": "kpu"
+}

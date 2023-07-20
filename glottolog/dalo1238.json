@@ -1,0 +1,105 @@
+{
+  "pk": 5664,
+  "hid": "bev",
+  "father_pk": 3732,
+  "family_pk": 83,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Daloa Bété [dalo1238][bev]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q11155819",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/dalo1238",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bet",
+        "label": "Bété"
+      }
+    ],
+    "meds": [
+      [
+        "95081",
+        "grammar",
+        1984,
+        249,
+        "Koopman, Hilda 1984"
+      ],
+      [
+        "312019",
+        "grammar",
+        1981,
+        212,
+        "Zogbo, Gnoleba 1981"
+      ],
+      [
+        "102780",
+        "phonology_or_text",
+        1976,
+        0,
+        "Werle, J-M. and Gbalehi, Dagou Justin 1976"
+      ],
+      [
+        "8837",
+        "wordlist_or_less",
+        1962,
+        200,
+        "Paulme, Denise 1962"
+      ],
+      [
+        "573563",
+        "wordlist_or_less",
+        1956,
+        92,
+        "Kobben, A. J. 1956"
+      ],
+      [
+        "570803",
+        "wordlist_or_less",
+        1939,
+        91,
+        "Dunglas, E. 1939"
+      ]
+    ]
+  },
+  "id": "dalo1238",
+  "name": "Daloa Bété",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.69281,
+  "longitude": -6.63944,
+  "classification": [
+    {
+      "name": "Kru",
+      "id": "krua1234",
+      "url": "https://glottolog.org/resource/languoid/id/krua1234"
+    },
+    {
+      "name": "Eastern Kru",
+      "id": "east2415",
+      "url": "https://glottolog.org/resource/languoid/id/east2415"
+    },
+    {
+      "name": "Beteic",
+      "id": "bete1265",
+      "url": "https://glottolog.org/resource/languoid/id/bete1265"
+    },
+    {
+      "name": "Western Bete",
+      "id": "west2489",
+      "url": "https://glottolog.org/resource/languoid/id/west2489"
+    }
+  ],
+  "iso639-3": "bev"
+}

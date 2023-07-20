@@ -1,0 +1,89 @@
+{
+  "pk": 8512,
+  "hid": "iin",
+  "father_pk": 6046,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Thiin [thii1234][iin]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6798",
+        "label": "Thiinma"
+      },
+      {
+        "url": "https://phoible.org/languages/thii1234",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33110152",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "474522",
+        "grammar_sketch",
+        2015,
+        53,
+        "Peter K. Austin 2015"
+      ],
+      [
+        "129733",
+        "wordlist_or_less",
+        1988,
+        2,
+        "Peter Austin 1988"
+      ],
+      [
+        "62559",
+        "wordlist_or_less",
+        1967,
+        2,
+        "Carl Georg von Brandenstein 1967"
+      ]
+    ]
+  },
+  "id": "thii1234",
+  "name": "Thiin",
+  "description": null,
+  "markup_description": null,
+  "latitude": -23.71156576435,
+  "longitude": 116.68011572516,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "South-West Pama-Nyungan",
+      "id": "sout3134",
+      "url": "https://glottolog.org/resource/languoid/id/sout3134"
+    },
+    {
+      "name": "Pilbara",
+      "id": "pilb1234",
+      "url": "https://glottolog.org/resource/languoid/id/pilb1234"
+    },
+    {
+      "name": "Mantharta",
+      "id": "mant1266",
+      "url": "https://glottolog.org/resource/languoid/id/mant1266"
+    },
+    {
+      "name": "Djiwarli-Thiin",
+      "id": "djiw1240",
+      "url": "https://glottolog.org/resource/languoid/id/djiw1240"
+    }
+  ],
+  "iso639-3": "iin"
+}

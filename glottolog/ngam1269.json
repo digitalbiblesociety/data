@@ -1,0 +1,93 @@
+{
+  "pk": 17019,
+  "hid": "nmc",
+  "father_pk": 14455,
+  "family_pk": 140,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kle [klee1238]':1,'Kon Ngam [konn1243]':1,'Ngam Gir Bor [ngam1271]':1,'Ngam Tel [ngam1270]':1,'Ngam Tira [ngam1272]':1)'Ngam [ngam1269][nmc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3915446",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ngam_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "37739",
+        "grammar_sketch",
+        1949,
+        112,
+        "P. A. Meynier 1949"
+      ],
+      [
+        "17699",
+        "wordlist_or_less",
+        1907,
+        2,
+        "Gaudefroy-Demombynes, Maurice 1907"
+      ]
+    ]
+  },
+  "id": "ngam1269",
+  "name": "Ngam",
+  "description": null,
+  "markup_description": null,
+  "latitude": 8.25957,
+  "longitude": 18.4648,
+  "classification": [
+    {
+      "name": "Central Sudanic",
+      "id": "cent2225",
+      "url": "https://glottolog.org/resource/languoid/id/cent2225"
+    },
+    {
+      "name": "Sara-Bongo-Bagirmi",
+      "id": "sara1341",
+      "url": "https://glottolog.org/resource/languoid/id/sara1341"
+    },
+    {
+      "name": "SBB Occidental",
+      "id": "sbbo1237",
+      "url": "https://glottolog.org/resource/languoid/id/sbbo1237"
+    },
+    {
+      "name": "Nuclear SBB Occidental",
+      "id": "nucl1719",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1719"
+    },
+    {
+      "name": "Saraic",
+      "id": "sara1349",
+      "url": "https://glottolog.org/resource/languoid/id/sara1349"
+    },
+    {
+      "name": "Sara Central",
+      "id": "cent2044",
+      "url": "https://glottolog.org/resource/languoid/id/cent2044"
+    },
+    {
+      "name": "Sara Central Logone-Chari",
+      "id": "sara1346",
+      "url": "https://glottolog.org/resource/languoid/id/sara1346"
+    },
+    {
+      "name": "Sido",
+      "id": "sido1234",
+      "url": "https://glottolog.org/resource/languoid/id/sido1234"
+    }
+  ],
+  "iso639-3": "nmc"
+}

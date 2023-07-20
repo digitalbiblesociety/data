@@ -1,0 +1,64 @@
+{
+  "pk": 560,
+  "hid": "gok",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Gowli [gowl1241][gok]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "gok",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 has two entries Gowli [gok] and Gowlan [goj],\nwith the following information:\n\n| p{5cm}p{5cm}} | Gowli  [gok] | Gowlan [goj] |\n| Classification: | ... Indo-Aryan, Central zone, Western Hindi, Unclassified | ... Indo-Aryan, Southern zone, Unclassified |\n| Region | Madhya Pradesh; Maharashtra, Amravati District | Maharashtra, Amravati District |\n| E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 Comment: | Speakers belong to Gowli caste. Surrounded by Korku. | Surrounded by Korku. Belong to Gowli caste. |\n\n\nThe information in (both) these can only match one and the same caste, i.e., the Gowāri (also Gaoli/Gowli/Gowlan) caste (**hh:e:RussellHiralal:Gowari**), so at least one of the entries is spurious, and, on purely linguistic grounds,\nboth are spurious, since the Gowli do not have a language that is mutually unintelligible with all surrounding languages (**hh:hvwt:Grierson:9:I**:554-555, **hh:e:RussellHiralal:Gowari**). See also: Gowlan [goj]."
+    },
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12953534",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "572124",
+        "wordlist_or_less",
+        1888,
+        9,
+        "Gunthorpe, E. J. 1888"
+      ]
+    ]
+  },
+  "id": "gowl1241",
+  "name": "Gowli",
+  "description": null,
+  "markup_description": null,
+  "latitude": 21.7726,
+  "longitude": 77.3733,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "gok"
+}

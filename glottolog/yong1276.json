@@ -1,0 +1,88 @@
+{
+  "pk": 16280,
+  "hid": "zyb",
+  "father_pk": 13504,
+  "family_pk": 356,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Yongbei Zhuang [yong1276][zyb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q8054983",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yongbei_Zhuang",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "56761",
+        "long_grammar",
+        1971,
+        338,
+        "Aleksej A. Moskalev 1971"
+      ],
+      [
+        "301032",
+        "grammar_sketch",
+        1961,
+        100,
+        "Serdyučenko, Georgij P. 1961"
+      ]
+    ]
+  },
+  "id": "yong1276",
+  "name": "Yongbei Zhuang",
+  "description": null,
+  "markup_description": null,
+  "latitude": 23.1,
+  "longitude": 108.15,
+  "classification": [
+    {
+      "name": "Tai-Kadai",
+      "id": "taik1256",
+      "url": "https://glottolog.org/resource/languoid/id/taik1256"
+    },
+    {
+      "name": "Kam-Tai",
+      "id": "kamt1241",
+      "url": "https://glottolog.org/resource/languoid/id/kamt1241"
+    },
+    {
+      "name": "Daic-Beic",
+      "id": "daic1238",
+      "url": "https://glottolog.org/resource/languoid/id/daic1238"
+    },
+    {
+      "name": "Daic",
+      "id": "daic1237",
+      "url": "https://glottolog.org/resource/languoid/id/daic1237"
+    },
+    {
+      "name": "Northern Daic-Sek",
+      "id": "nort3326",
+      "url": "https://glottolog.org/resource/languoid/id/nort3326"
+    },
+    {
+      "name": "Northern Daic",
+      "id": "nort3180",
+      "url": "https://glottolog.org/resource/languoid/id/nort3180"
+    },
+    {
+      "name": "Yongnan-Yongbei",
+      "id": "yong1274",
+      "url": "https://glottolog.org/resource/languoid/id/yong1274"
+    }
+  ],
+  "iso639-3": "zyb"
+}

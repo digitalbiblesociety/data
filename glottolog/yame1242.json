@@ -1,0 +1,71 @@
+{
+  "pk": 2063,
+  "hid": "yme",
+  "father_pk": 930,
+  "family_pk": 84,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Yameo [yame1242][yme]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3180",
+        "label": "Yaméo"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3121032",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yameo_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/yame1242",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "314628",
+        "grammar_sketch",
+        1955,
+        99,
+        "Espinosa Pérez, Lucas 1955"
+      ],
+      [
+        "13948",
+        "phonology_or_text",
+        1787,
+        3,
+        "Lorenzo Hervas 1787"
+      ]
+    ]
+  },
+  "id": "yame1242",
+  "name": "Yameo",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.16666,
+  "longitude": -73.6667,
+  "classification": [
+    {
+      "name": "Peba-Yagua",
+      "id": "peba1241",
+      "url": "https://glottolog.org/resource/languoid/id/peba1241"
+    },
+    {
+      "name": "Peba-Yameo",
+      "id": "peba1242",
+      "url": "https://glottolog.org/resource/languoid/id/peba1242"
+    }
+  ],
+  "iso639-3": "yme"
+}

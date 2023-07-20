@@ -1,0 +1,102 @@
+{
+  "pk": 11744,
+  "hid": "cbc",
+  "father_pk": 8932,
+  "family_pk": 242,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Carapana [cara1272][cbc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3111",
+        "label": "Carapana"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_crp",
+        "label": "Carapana"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Carapana_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/cara1272",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q924405",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "81939",
+        "grammar",
+        1981,
+        251,
+        "Ronald G. Metzger 1981"
+      ],
+      [
+        "138015",
+        "grammar_sketch",
+        1965,
+        0,
+        "Salser, Jr., J.K. 1965-66"
+      ],
+      [
+        "91838",
+        "wordlist_or_less",
+        1912,
+        6,
+        "Theodor Koch-Grünberg 1912, 1913, 1914, 1914, 1915-1916, 1915-1916"
+      ]
+    ]
+  },
+  "id": "cara1272",
+  "name": "Carapana",
+  "description": null,
+  "markup_description": null,
+  "latitude": 0.06168,
+  "longitude": -69.6465,
+  "classification": [
+    {
+      "name": "Tucanoan",
+      "id": "tuca1253",
+      "url": "https://glottolog.org/resource/languoid/id/tuca1253"
+    },
+    {
+      "name": "Eastern Tucanoan",
+      "id": "east2698",
+      "url": "https://glottolog.org/resource/languoid/id/east2698"
+    },
+    {
+      "name": "Eastern Eastern Tucanoan",
+      "id": "east2702",
+      "url": "https://glottolog.org/resource/languoid/id/east2702"
+    },
+    {
+      "name": "Eastern Eastern Tucanoan II",
+      "id": "east2708",
+      "url": "https://glottolog.org/resource/languoid/id/east2708"
+    },
+    {
+      "name": "Pisamira-Yuruti",
+      "id": "pisa1246",
+      "url": "https://glottolog.org/resource/languoid/id/pisa1246"
+    },
+    {
+      "name": "Pisamira-Carapana",
+      "id": "pisa1247",
+      "url": "https://glottolog.org/resource/languoid/id/pisa1247"
+    }
+  ],
+  "iso639-3": "cbc"
+}

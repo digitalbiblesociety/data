@@ -1,0 +1,93 @@
+{
+  "pk": 4933,
+  "hid": "gqi",
+  "father_pk": 3159,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Guiqiong [guiq1238][gqi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5611",
+        "label": "Guiqiong"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3120647",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Guiqiong_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "641138",
+        "long_grammar",
+        2015,
+        558,
+        "Rao, Min 2015"
+      ],
+      [
+        "476777",
+        "long_grammar",
+        2014,
+        465,
+        "Lì, Jiāng 2014"
+      ],
+      [
+        "577430",
+        "grammar",
+        2011,
+        4,
+        "Song, Lingli 2011"
+      ],
+      [
+        "309201",
+        "grammar_sketch",
+        1983,
+        8,
+        "Sun, Hongkai 1983"
+      ],
+      [
+        "586663",
+        "wordlist_or_less",
+        1912,
+        12,
+        "Vicomte d'Ollone 1912"
+      ]
+    ]
+  },
+  "id": "guiq1238",
+  "name": "Guiqiong",
+  "description": null,
+  "markup_description": null,
+  "latitude": 30.4803,
+  "longitude": 102.128,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Burmo-Qiangic",
+      "id": "burm1265",
+      "url": "https://glottolog.org/resource/languoid/id/burm1265"
+    },
+    {
+      "name": "Na-Qiangic",
+      "id": "naqi1236",
+      "url": "https://glottolog.org/resource/languoid/id/naqi1236"
+    }
+  ],
+  "iso639-3": "gqi"
+}

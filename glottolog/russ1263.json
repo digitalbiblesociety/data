@@ -1,0 +1,121 @@
+{
+  "pk": 8001,
+  "hid": "rus",
+  "father_pk": 5614,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Russian [cent2343]':1,'Kodiak Creole Russian [kodi1252]':1,'Ninilchik [nini1236]':1,('Novgorod North Russian [novg1241]':1,'Olonets [olon1246]':1,'Pomor [pomo1275]':1,'Vladimir-Volga [vlad1234]':1,'Vologda-Kirov [volo1239]':1)'North Russian [nort2597]':1,('Doukhobor [douk1234]':1,'Lipovan [lipo1245]':1,'Molokan [molo1267]':1,'Nuclear South Russian [nucl1775]':1)'South Russian [sout2602]':1)'Russian [russ1263][rus]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 14,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_rus",
+        "label": "Russian"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Russian_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/russ1263",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7737",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "580189",
+        "long_grammar",
+        2020,
+        640,
+        "Wade, Terence and David Gillespie and Svetlana Gural and Marina Korneeva 2020"
+      ],
+      [
+        "578392",
+        "long_grammar",
+        2010,
+        632,
+        "Wade, Terence 2010"
+      ],
+      [
+        "43227",
+        "long_grammar",
+        1992,
+        603,
+        "Wade, T. L. 1992"
+      ],
+      [
+        "64702",
+        "long_grammar",
+        1981,
+        416,
+        "Nichols, Johanna 1981"
+      ],
+      [
+        "82549",
+        "long_grammar",
+        1959,
+        413,
+        "Borras, F. M. and Christian, R. F. 1959"
+      ],
+      [
+        "320052",
+        "long_grammar",
+        1704,
+        402,
+        "Glück, Johann Ernst 1994 [1704]"
+      ],
+      [
+        "319955",
+        "grammar_sketch",
+        1696,
+        97,
+        "Heinrich Wilhelm Ludolf 1696"
+      ]
+    ]
+  },
+  "id": "russ1263",
+  "name": "Russian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 59,
+  "longitude": 50,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Balto-Slavic",
+      "id": "balt1263",
+      "url": "https://glottolog.org/resource/languoid/id/balt1263"
+    },
+    {
+      "name": "Slavic",
+      "id": "slav1255",
+      "url": "https://glottolog.org/resource/languoid/id/slav1255"
+    },
+    {
+      "name": "East Slavic",
+      "id": "east1426",
+      "url": "https://glottolog.org/resource/languoid/id/east1426"
+    }
+  ],
+  "iso639-3": "rus"
+}

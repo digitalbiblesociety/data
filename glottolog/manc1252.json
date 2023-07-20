@@ -1,0 +1,108 @@
+{
+  "pk": 4125,
+  "hid": "mnc",
+  "father_pk": 2355,
+  "family_pk": 162,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Alechuxa [alec1238]':1,'Bala {China} [bala1242]':1,'Jing [jing1263]':1,'Lalin [lali1241]':1)'Manchu [manc1252][mnc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1205",
+        "label": "Manchu"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mnc",
+        "label": "Manchu"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Manchu_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/manc1252",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33638",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "133193",
+        "long_grammar",
+        2002,
+        624,
+        "Liliya M. Gorelova 2002"
+      ],
+      [
+        "440322",
+        "long_grammar",
+        1879,
+        340,
+        "Ivan Zaxarov 1879"
+      ],
+      [
+        "40625",
+        "grammar",
+        1832,
+        166,
+        "Gabelentz, Hans Conon von der 1832"
+      ],
+      [
+        "313612",
+        "grammar_sketch",
+        1820,
+        80,
+        "Abel Rémusat 1820"
+      ],
+      [
+        "572093",
+        "phonology_or_text",
+        1794,
+        1247,
+        "Gugong, Bowuyuan 1957 [1794]"
+      ],
+      [
+        "309363",
+        "phonology_or_text",
+        1789,
+        632,
+        "M. Amyot 1789, 1789, 1790"
+      ]
+    ]
+  },
+  "id": "manc1252",
+  "name": "Manchu",
+  "description": null,
+  "markup_description": null,
+  "latitude": 47.31225,
+  "longitude": 126.55713,
+  "classification": [
+    {
+      "name": "Tungusic",
+      "id": "tung1282",
+      "url": "https://glottolog.org/resource/languoid/id/tung1282"
+    },
+    {
+      "name": "Manchu-Jurchen",
+      "id": "manc1250",
+      "url": "https://glottolog.org/resource/languoid/id/manc1250"
+    },
+    {
+      "name": "Manchu-Xibe",
+      "id": "manc1251",
+      "url": "https://glottolog.org/resource/languoid/id/manc1251"
+    }
+  ],
+  "iso639-3": "mnc"
+}

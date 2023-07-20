@@ -1,0 +1,65 @@
+{
+  "pk": 3612,
+  "hid": "cah",
+  "father_pk": 1934,
+  "family_pk": 34,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Cahuarano [cahu1268][cah]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5145",
+        "label": "Cahuarano"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2933175",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cahuarano_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "34227",
+        "wordlist_or_less",
+        1930,
+        6,
+        "Günter Tessmann 1930"
+      ]
+    ]
+  },
+  "id": "cahu1268",
+  "name": "Cahuarano",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.72665,
+  "longitude": -73.9469,
+  "classification": [
+    {
+      "name": "Zaparoan",
+      "id": "zapa1251",
+      "url": "https://glottolog.org/resource/languoid/id/zapa1251"
+    },
+    {
+      "name": "Iquito-Arabela",
+      "id": "iqui1244",
+      "url": "https://glottolog.org/resource/languoid/id/iqui1244"
+    },
+    {
+      "name": "Cahuarano-Iquito",
+      "id": "cahu1267",
+      "url": "https://glottolog.org/resource/languoid/id/cahu1267"
+    }
+  ],
+  "iso639-3": "cah"
+}

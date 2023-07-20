@@ -1,0 +1,119 @@
+{
+  "pk": 11062,
+  "hid": "ong",
+  "father_pk": 8157,
+  "family_pk": 103,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Payi [payi1239]':1,'Wapi [wapi1251]':1)'Olo [oloo1241][ong]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10540",
+        "label": "Olo"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_olo",
+        "label": "Olo"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Olo_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q592162",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "134221",
+        "grammar",
+        1995,
+        263,
+        "William E. Staley 1995"
+      ],
+      [
+        "311372",
+        "grammar_sketch",
+        1994,
+        214,
+        "William E. Staley 1994"
+      ],
+      [
+        "96809",
+        "grammar_sketch",
+        1982,
+        163,
+        "Donald McGregor and Aileen McGregor 1982"
+      ],
+      [
+        "140087",
+        "wordlist_or_less",
+        1926,
+        2,
+        "Wilkes, J. R. Adams 1926"
+      ],
+      [
+        "124132",
+        "wordlist_or_less",
+        1900,
+        2,
+        "Wilhelm Schmidt 1900, 1902"
+      ],
+      [
+        "127541",
+        "wordlist_or_less",
+        1899,
+        9,
+        "Christian Schleiermacher 1899-1900"
+      ]
+    ]
+  },
+  "id": "oloo1241",
+  "name": "Olo",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.2929,
+  "longitude": 142.131,
+  "classification": [
+    {
+      "name": "Nuclear Torricelli",
+      "id": "nucl1708",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1708"
+    },
+    {
+      "name": "Wapei-Palei",
+      "id": "wape1249",
+      "url": "https://glottolog.org/resource/languoid/id/wape1249"
+    },
+    {
+      "name": "Central Torricelli",
+      "id": "cent2407",
+      "url": "https://glottolog.org/resource/languoid/id/cent2407"
+    },
+    {
+      "name": "Wapeic",
+      "id": "wape1250",
+      "url": "https://glottolog.org/resource/languoid/id/wape1250"
+    },
+    {
+      "name": "Au-Olo-Elkei",
+      "id": "auol1234",
+      "url": "https://glottolog.org/resource/languoid/id/auol1234"
+    },
+    {
+      "name": "Olo-Elkei",
+      "id": "oloe1234",
+      "url": "https://glottolog.org/resource/languoid/id/oloe1234"
+    }
+  ],
+  "iso639-3": "ong"
+}

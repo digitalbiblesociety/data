@@ -1,0 +1,75 @@
+{
+  "pk": 3081,
+  "hid": "kmn",
+  "father_pk": 1569,
+  "family_pk": 304,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Awtuw [awtu1239][kmn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10592",
+        "label": "Awtuw"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3504217",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Awtuw_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/awtu1239",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_awt",
+        "label": "Awtuw"
+      }
+    ],
+    "meds": [
+      [
+        "79642",
+        "long_grammar",
+        1983,
+        395,
+        "Harry Feldman 1983"
+      ],
+      [
+        "138610",
+        "wordlist_or_less",
+        1968,
+        1,
+        "Donald C. Laycock 1968"
+      ]
+    ]
+  },
+  "id": "awtu1239",
+  "name": "Awtuw",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.53129,
+  "longitude": 141.928,
+  "classification": [
+    {
+      "name": "Sepik",
+      "id": "sepi1257",
+      "url": "https://glottolog.org/resource/languoid/id/sepi1257"
+    },
+    {
+      "name": "Ram",
+      "id": "ramm1241",
+      "url": "https://glottolog.org/resource/languoid/id/ramm1241"
+    }
+  ],
+  "iso639-3": "kmn"
+}

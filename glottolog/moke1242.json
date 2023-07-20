@@ -1,0 +1,79 @@
+{
+  "pk": 4641,
+  "hid": "mwt",
+  "father_pk": 2956,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dung [dung1255]':1,'Ja-It [jait1238]':1,'L''be [lbee1237]':1)'Moken [moke1242][mwt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1987",
+        "label": "Moken"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q18648701",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/moke1242",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "59047",
+        "long_grammar",
+        1980,
+        359,
+        "Chantanakomes, Veena 1980"
+      ],
+      [
+        "314277",
+        "grammar_sketch",
+        1911,
+        65,
+        "White, Walter Grainge 1911"
+      ],
+      [
+        "301013",
+        "wordlist_or_less",
+        1890,
+        37,
+        "John Anderson 1890"
+      ]
+    ]
+  },
+  "id": "moke1242",
+  "name": "Moken",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.1474,
+  "longitude": 98.6765,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Moken-Moklen",
+      "id": "moke1241",
+      "url": "https://glottolog.org/resource/languoid/id/moke1241"
+    }
+  ],
+  "iso639-3": "mwt"
+}

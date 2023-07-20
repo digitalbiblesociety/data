@@ -1,0 +1,90 @@
+{
+  "pk": 3521,
+  "hid": "poq",
+  "father_pk": 1881,
+  "family_pk": 3,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Texistepec Popoluca [texi1237][poq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5285",
+        "label": "Texistepec"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5908707",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Texistepec_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/texi1237",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "81398",
+        "grammar_sketch",
+        2007,
+        130,
+        "Wichmann, Søren 2007"
+      ],
+      [
+        "311999",
+        "grammar_sketch",
+        2002,
+        119,
+        "Reilly, Ehren 2002"
+      ],
+      [
+        "9868",
+        "phonology_or_text",
+        1996,
+        417,
+        "Wichmann, Søren 1996"
+      ],
+      [
+        "154100",
+        "wordlist_or_less",
+        1908,
+        7,
+        "Calderón, Eustorjio 1908"
+      ]
+    ]
+  },
+  "id": "texi1237",
+  "name": "Texistepec Popoluca",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.8926,
+  "longitude": -94.8076,
+  "classification": [
+    {
+      "name": "Mixe-Zoque",
+      "id": "mixe1284",
+      "url": "https://glottolog.org/resource/languoid/id/mixe1284"
+    },
+    {
+      "name": "Zoque",
+      "id": "zoqu1261",
+      "url": "https://glottolog.org/resource/languoid/id/zoqu1261"
+    },
+    {
+      "name": "Gulf Zoque",
+      "id": "gulf1238",
+      "url": "https://glottolog.org/resource/languoid/id/gulf1238"
+    }
+  ],
+  "iso639-3": "poq"
+}

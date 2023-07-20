@@ -1,0 +1,83 @@
+{
+  "pk": 3636,
+  "hid": "dje",
+  "father_pk": 1968,
+  "family_pk": 48,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Djerma [zarm1241]':1,'Kourtey [kour1234]':1,'Songhoyboro Ciine [kaad1238]':1,'Wogo [wogo1234]':1)'Zarma [zarm1239][dje]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_zar",
+        "label": "Zarma"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Zarma_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/zarm1239",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36990",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "38412",
+        "long_grammar",
+        1981,
+        589,
+        "Tersis-Surugue, Nicole 1981"
+      ],
+      [
+        "136618",
+        "long_grammar",
+        1966,
+        314,
+        "Cooper, Paul V. and Oliver Rice 1966"
+      ],
+      [
+        "159308",
+        "grammar",
+        1897,
+        265,
+        "Hacquard, [A.] and Dupuis, [Auguste-Victor] 1897"
+      ]
+    ]
+  },
+  "id": "zarm1239",
+  "name": "Zarma",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.8554,
+  "longitude": 2.41173,
+  "classification": [
+    {
+      "name": "Songhay",
+      "id": "song1307",
+      "url": "https://glottolog.org/resource/languoid/id/song1307"
+    },
+    {
+      "name": "Eastern Songhay",
+      "id": "east2431",
+      "url": "https://glottolog.org/resource/languoid/id/east2431"
+    },
+    {
+      "name": "Zarma-Kaado-Dendi",
+      "id": "zarm1240",
+      "url": "https://glottolog.org/resource/languoid/id/zarm1240"
+    }
+  ],
+  "iso639-3": "dje"
+}

@@ -1,0 +1,103 @@
+{
+  "pk": 7820,
+  "hid": "bgx",
+  "father_pk": 5411,
+  "family_pk": 14,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Danubian [danu1248]':1,'Gajol [gajo1239]':1,'Gerlovo Turks [gerl1239]':1,'Kyzylbash [kyzy1245]':1,'Razgrad [razg1238]':1,'Surguch [surg1247]':1,'Tozluk Turks [tozl1239]':1)'Rumelian Turkish [balk1254][bgx]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3907",
+        "label": "Balkan Gagauz Turkish"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2360396",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Balkan_Gagauz_Turkish",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "666457",
+        "long_grammar",
+        2021,
+        396,
+        "Maria Petrou 2021"
+      ],
+      [
+        "552415",
+        "grammar_sketch",
+        1978,
+        191,
+        "Sureja, Jusuf 1978"
+      ],
+      [
+        "131362",
+        "grammar_sketch",
+        1965,
+        140,
+        "Németh, J 1965"
+      ],
+      [
+        "318965",
+        "grammar_sketch",
+        1958,
+        91,
+        "Suzanne Kakuk 1958"
+      ],
+      [
+        "548582",
+        "grammar_sketch",
+        1941,
+        71,
+        "Eckmann, Johann 1941"
+      ]
+    ]
+  },
+  "id": "balk1254",
+  "name": "Rumelian Turkish",
+  "description": null,
+  "markup_description": null,
+  "latitude": 41.170545,
+  "longitude": 24.44567,
+  "classification": [
+    {
+      "name": "Turkic",
+      "id": "turk1311",
+      "url": "https://glottolog.org/resource/languoid/id/turk1311"
+    },
+    {
+      "name": "Common Turkic",
+      "id": "comm1245",
+      "url": "https://glottolog.org/resource/languoid/id/comm1245"
+    },
+    {
+      "name": "Oghuz",
+      "id": "oghu1243",
+      "url": "https://glottolog.org/resource/languoid/id/oghu1243"
+    },
+    {
+      "name": "Nuclear Oghuz",
+      "id": "nucl1769",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1769"
+    },
+    {
+      "name": "West Oghuz",
+      "id": "west2406",
+      "url": "https://glottolog.org/resource/languoid/id/west2406"
+    }
+  ],
+  "iso639-3": "bgx"
+}

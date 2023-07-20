@@ -1,0 +1,83 @@
+{
+  "pk": 453,
+  "hid": "mpe",
+  "father_pk": 18,
+  "family_pk": 18,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Majang [maja1242][mpe]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56724",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Majang_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_maj",
+        "label": "Majang"
+      }
+    ],
+    "meds": [
+      [
+        "573146",
+        "long_grammar",
+        2019,
+        542,
+        "Andreas Joswig 2019"
+      ],
+      [
+        "548986",
+        "long_grammar",
+        2014,
+        485,
+        "Getachew, Anteneh Yigzaw 2014"
+      ],
+      [
+        "309980",
+        "grammar_sketch",
+        2011,
+        46,
+        "Andreas Joswig 2011"
+      ],
+      [
+        "84683",
+        "grammar_sketch",
+        1948,
+        36,
+        "Cerulli, Enrico 1948"
+      ],
+      [
+        "302864",
+        "wordlist_or_less",
+        1928,
+        2,
+        "Cerulli, Enrico 1928"
+      ]
+    ]
+  },
+  "id": "maja1242",
+  "name": "Majang",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.71,
+  "longitude": 34.97,
+  "classification": [
+    {
+      "name": "Surmic",
+      "id": "surm1244",
+      "url": "https://glottolog.org/resource/languoid/id/surm1244"
+    }
+  ],
+  "iso639-3": "mpe"
+}

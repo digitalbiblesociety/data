@@ -1,0 +1,91 @@
+{
+  "pk": 11458,
+  "hid": "bym",
+  "father_pk": 8493,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Bidyara [bidy1243][bym]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4020",
+        "label": "Bidjara"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/e37",
+        "label": "Bidjara / Bidyara"
+      },
+      {
+        "url": "https://phoible.org/languages/bidy1243",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q8842355",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "85861",
+        "grammar",
+        1973,
+        114,
+        "J. G. Breen 1973"
+      ],
+      [
+        "56242",
+        "wordlist_or_less",
+        1887,
+        5,
+        "Looker, W. H. and Conn, William R. and Playfair, L. M. and Hollingworth, Joseph 1887"
+      ]
+    ]
+  },
+  "id": "bidy1243",
+  "name": "Bidyara",
+  "description": null,
+  "markup_description": null,
+  "latitude": -25.192664,
+  "longitude": 147.273359,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Greater Maric",
+      "id": "grea1282",
+      "url": "https://glottolog.org/resource/languoid/id/grea1282"
+    },
+    {
+      "name": "Guwa-Maric",
+      "id": "guwa1245",
+      "url": "https://glottolog.org/resource/languoid/id/guwa1245"
+    },
+    {
+      "name": "Maric",
+      "id": "mari1445",
+      "url": "https://glottolog.org/resource/languoid/id/mari1445"
+    },
+    {
+      "name": "Southern Maric",
+      "id": "sout2765",
+      "url": "https://glottolog.org/resource/languoid/id/sout2765"
+    },
+    {
+      "name": "Bidyaric",
+      "id": "bidy1245",
+      "url": "https://glottolog.org/resource/languoid/id/bidy1245"
+    }
+  ],
+  "iso639-3": "bym"
+}

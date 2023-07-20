@@ -1,0 +1,91 @@
+{
+  "pk": 13314,
+  "hid": "tro",
+  "father_pk": 10243,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tarao [tara1313][tro]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3504",
+        "label": "Tarao Naga"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3515603",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tarao_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tao",
+        "label": "Tarao"
+      }
+    ],
+    "meds": [
+      [
+        "39529",
+        "grammar",
+        2002,
+        159,
+        "Chunghkham Yashwanta Singh 2002"
+      ],
+      [
+        "663155",
+        "phonology_or_text",
+        1963,
+        0,
+        "India, Research Department North East Frontier Agency 1963"
+      ]
+    ]
+  },
+  "id": "tara1313",
+  "name": "Tarao",
+  "description": null,
+  "markup_description": null,
+  "latitude": 24.4003,
+  "longitude": 94.1703,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Kuki-Chin",
+      "id": "kuki1246",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1246"
+    },
+    {
+      "name": "Northwestern Kuki-Chin",
+      "id": "oldk1252",
+      "url": "https://glottolog.org/resource/languoid/id/oldk1252"
+    },
+    {
+      "name": "Kolhrengic",
+      "id": "kolh1241",
+      "url": "https://glottolog.org/resource/languoid/id/kolh1241"
+    },
+    {
+      "name": "Tarao-Chothe",
+      "id": "tara1327",
+      "url": "https://glottolog.org/resource/languoid/id/tara1327"
+    }
+  ],
+  "iso639-3": "tro"
+}

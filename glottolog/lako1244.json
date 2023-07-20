@@ -1,0 +1,82 @@
+{
+  "pk": 8110,
+  "hid": "dic",
+  "father_pk": 5675,
+  "family_pk": 83,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Vata [vata1239]':1)'Lakota Dida [lako1244][dic]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q11001730",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/lako1244",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_vat",
+        "label": "Vata"
+      }
+    ],
+    "meds": [
+      [
+        "45806",
+        "long_grammar",
+        1987,
+        532,
+        "Vogler, Pierre 1987"
+      ],
+      [
+        "161889",
+        "grammar",
+        1976,
+        0,
+        "Vogler, Pierre 1976"
+      ]
+    ]
+  },
+  "id": "lako1244",
+  "name": "Lakota Dida",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.86012,
+  "longitude": -5.40633,
+  "classification": [
+    {
+      "name": "Kru",
+      "id": "krua1234",
+      "url": "https://glottolog.org/resource/languoid/id/krua1234"
+    },
+    {
+      "name": "Eastern Kru",
+      "id": "east2415",
+      "url": "https://glottolog.org/resource/languoid/id/east2415"
+    },
+    {
+      "name": "Neyo-Dida",
+      "id": "dida1244",
+      "url": "https://glottolog.org/resource/languoid/id/dida1244"
+    },
+    {
+      "name": "Dida",
+      "id": "dida1245",
+      "url": "https://glottolog.org/resource/languoid/id/dida1245"
+    },
+    {
+      "name": "Guebie-Lakota Dida",
+      "id": "gueb1239",
+      "url": "https://glottolog.org/resource/languoid/id/gueb1239"
+    }
+  ],
+  "iso639-3": "dic"
+}

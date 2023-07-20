@@ -1,0 +1,79 @@
+{
+  "pk": 4511,
+  "hid": "mtg",
+  "father_pk": 2911,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Una [unaa1239][mtg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q5580728",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Goliath_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_una",
+        "label": "Una"
+      }
+    ],
+    "meds": [
+      [
+        "42878",
+        "grammar",
+        1988,
+        220,
+        "John Louwerse 1988"
+      ],
+      [
+        "86968",
+        "wordlist_or_less",
+        1912,
+        17,
+        "M. A. de Kock 1912"
+      ],
+      [
+        "557565",
+        "wordlist_or_less",
+        1911,
+        2,
+        "J. Th. Stroeve 1911"
+      ]
+    ]
+  },
+  "id": "unaa1239",
+  "name": "Una",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.69676,
+  "longitude": 140.1,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Mek",
+      "id": "mekk1240",
+      "url": "https://glottolog.org/resource/languoid/id/mekk1240"
+    },
+    {
+      "name": "Eastern Mek",
+      "id": "east2504",
+      "url": "https://glottolog.org/resource/languoid/id/east2504"
+    }
+  ],
+  "iso639-3": "mtg"
+}

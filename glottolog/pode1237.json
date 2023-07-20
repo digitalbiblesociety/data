@@ -1,0 +1,105 @@
+{
+  "pk": 19587,
+  "hid": "pdn",
+  "father_pk": 17569,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Podena [pode1237][pdn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7206699",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Podena_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "317129",
+        "wordlist_or_less",
+        2005,
+        3,
+        "Hope Lee and Agustina Sawi 2005"
+      ],
+      [
+        "38805",
+        "wordlist_or_less",
+        1991,
+        7,
+        "Peter J. Silzer and Heljä Heikkinen-Clouse 1991"
+      ],
+      [
+        "29762",
+        "wordlist_or_less",
+        1954,
+        1,
+        "van der Leeden, Alexander Cornelis 1954"
+      ]
+    ]
+  },
+  "id": "pode1237",
+  "name": "Podena",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.20572,
+  "longitude": 139.456,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Western Oceanic linkage",
+      "id": "west2818",
+      "url": "https://glottolog.org/resource/languoid/id/west2818"
+    },
+    {
+      "name": "North New Guinea linkage",
+      "id": "nort3206",
+      "url": "https://glottolog.org/resource/languoid/id/nort3206"
+    },
+    {
+      "name": "Sarmi-Jayapura Bay",
+      "id": "sarm1241",
+      "url": "https://glottolog.org/resource/languoid/id/sarm1241"
+    },
+    {
+      "name": "Sarmi",
+      "id": "sarm1242",
+      "url": "https://glottolog.org/resource/languoid/id/sarm1242"
+    },
+    {
+      "name": "Anus-Podena",
+      "id": "anus1238",
+      "url": "https://glottolog.org/resource/languoid/id/anus1238"
+    }
+  ],
+  "iso639-3": "pdn"
+}

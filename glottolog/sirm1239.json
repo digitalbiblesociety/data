@@ -1,0 +1,97 @@
+{
+  "pk": 16509,
+  "hid": "srx",
+  "father_pk": 13892,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dharthi [dhar1245]':1,'Giripari [giri1243]':1)'Sirmauri [sirm1239][srx]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5415",
+        "label": "Sirmauri"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7530505",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sirmauri_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "662701",
+        "grammar",
+        1986,
+        0,
+        "Hendriksen, Hans 1986"
+      ],
+      [
+        "50321",
+        "phonology_or_text",
+        1916,
+        8,
+        "George A. Grierson 1916"
+      ]
+    ]
+  },
+  "id": "sirm1239",
+  "name": "Sirmauri",
+  "description": null,
+  "markup_description": null,
+  "latitude": 31.1,
+  "longitude": 77.17,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Indo-Aryan",
+      "id": "indo1321",
+      "url": "https://glottolog.org/resource/languoid/id/indo1321"
+    },
+    {
+      "name": "Middle-Modern Indo-Aryan",
+      "id": "midd1375",
+      "url": "https://glottolog.org/resource/languoid/id/midd1375"
+    },
+    {
+      "name": "Eastern Dardic",
+      "id": "dard1244",
+      "url": "https://glottolog.org/resource/languoid/id/dard1244"
+    },
+    {
+      "name": "Himachali",
+      "id": "hima1250",
+      "url": "https://glottolog.org/resource/languoid/id/hima1250"
+    },
+    {
+      "name": "Nuclear Himachali",
+      "id": "nucl1728",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1728"
+    }
+  ],
+  "iso639-3": "srx"
+}

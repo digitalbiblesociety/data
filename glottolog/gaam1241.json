@@ -1,0 +1,87 @@
+{
+  "pk": 902,
+  "hid": "tbi",
+  "father_pk": 57,
+  "family_pk": 57,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Buwag [buwa1239]':1,'Jog Tao [soda1238]':1)'Buwag-Jog Tao [buwa1245]':1,('Jog Goor [kuku1284]':1,'Kulag [kula1276]':1)'Kulag-Jog Goor [kula1286]':1)'Gaam [gaam1241][tbi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q35338",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Gaam_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/gaam1241",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_igs",
+        "label": "Ingessana"
+      }
+    ],
+    "meds": [
+      [
+        "310258",
+        "long_grammar",
+        2012,
+        350,
+        "Timothy Stirtz 2012"
+      ],
+      [
+        "150791",
+        "grammar_sketch",
+        2006,
+        16,
+        "Stirtz, Timothy M. 2006"
+      ],
+      [
+        "161016",
+        "grammar_sketch",
+        1934,
+        6,
+        "Robertson, J.W.R. 1934"
+      ],
+      [
+        "19450",
+        "wordlist_or_less",
+        1874,
+        77,
+        "Marno, Ernst 1874"
+      ],
+      [
+        "550022",
+        "wordlist_or_less",
+        1849,
+        1,
+        "Ignaz Knoblecher 1849"
+      ]
+    ]
+  },
+  "id": "gaam1241",
+  "name": "Gaam",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.4674,
+  "longitude": 33.9797,
+  "classification": [
+    {
+      "name": "Eastern Jebel",
+      "id": "east2386",
+      "url": "https://glottolog.org/resource/languoid/id/east2386"
+    }
+  ],
+  "iso639-3": "tbi"
+}

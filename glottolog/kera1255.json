@@ -1,0 +1,107 @@
+{
+  "pk": 8254,
+  "hid": "ker",
+  "father_pk": 5789,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Nyimathli [nyim1250]':1)'Kera [kera1255][ker]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56251",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kera_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kera1255",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ker",
+        "label": "Kera"
+      }
+    ],
+    "meds": [
+      [
+        "38319",
+        "grammar",
+        1979,
+        296,
+        "Ebert, Karen H. 1979"
+      ],
+      [
+        "21265",
+        "grammar_sketch",
+        1975,
+        351,
+        "Ebert, Karen H. 1975"
+      ],
+      [
+        "25512",
+        "grammar_sketch",
+        1973,
+        9,
+        "Ebert, Karen H. 1973"
+      ],
+      [
+        "70023",
+        "wordlist_or_less",
+        1968,
+        3,
+        "Ebert, Karen H. 1968"
+      ],
+      [
+        "102268",
+        "wordlist_or_less",
+        1937,
+        2,
+        "Lukas, Johannes 1937"
+      ]
+    ]
+  },
+  "id": "kera1255",
+  "name": "Kera",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.88165,
+  "longitude": 15.1419,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "East Chadic",
+      "id": "east2632",
+      "url": "https://glottolog.org/resource/languoid/id/east2632"
+    },
+    {
+      "name": "East Chadic A",
+      "id": "east2640",
+      "url": "https://glottolog.org/resource/languoid/id/east2640"
+    },
+    {
+      "name": "East Chadic A.3",
+      "id": "east2641",
+      "url": "https://glottolog.org/resource/languoid/id/east2641"
+    }
+  ],
+  "iso639-3": "ker"
+}

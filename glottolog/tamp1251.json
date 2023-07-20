@@ -1,0 +1,73 @@
+{
+  "pk": 7695,
+  "hid": "tpu",
+  "father_pk": 5329,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tampuan [tamp1251][tpu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3514882",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tampuan_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "32874",
+        "phonology_or_text",
+        2000,
+        21,
+        "Crowley, James D. 2000"
+      ],
+      [
+        "151548",
+        "wordlist_or_less",
+        1919,
+        12,
+        "Prachakitchakonrachak, Phraya and Thomas, David D. and Sophana Srichampa 1995 [1919]"
+      ]
+    ]
+  },
+  "id": "tamp1251",
+  "name": "Tampuan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 13.56447,
+  "longitude": 107.24544,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Bahnaric",
+      "id": "bahn1264",
+      "url": "https://glottolog.org/resource/languoid/id/bahn1264"
+    },
+    {
+      "name": "West Bahnaric",
+      "id": "west2399",
+      "url": "https://glottolog.org/resource/languoid/id/west2399"
+    },
+    {
+      "name": "Tampuon-Bahnar",
+      "id": "tamp1256",
+      "url": "https://glottolog.org/resource/languoid/id/tamp1256"
+    }
+  ],
+  "iso639-3": "tpu"
+}

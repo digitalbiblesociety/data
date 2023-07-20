@@ -1,0 +1,78 @@
+{
+  "pk": 9849,
+  "hid": "tsp",
+  "father_pk": 7134,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kebeenton [kebe1238]':1,'Ter [terr1239]':1,'Tru [truu1238]':1,'Wenteene [went1241]':1)'Northern Toussian [nort2787][tsp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q11155635",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nort2787",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "110546",
+        "grammar_sketch",
+        2005,
+        91,
+        "Zaugg-Coretti, Silvia 2005"
+      ],
+      [
+        "545610",
+        "grammar_sketch",
+        1964,
+        9,
+        "Prost, André 1964"
+      ]
+    ]
+  },
+  "id": "nort2787",
+  "name": "Northern Toussian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.133,
+  "longitude": -4.88274,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "North Volta-Congo",
+      "id": "nort3149",
+      "url": "https://glottolog.org/resource/languoid/id/nort3149"
+    },
+    {
+      "name": "Gur",
+      "id": "gura1261",
+      "url": "https://glottolog.org/resource/languoid/id/gura1261"
+    },
+    {
+      "name": "Tusia",
+      "id": "tusi1238",
+      "url": "https://glottolog.org/resource/languoid/id/tusi1238"
+    }
+  ],
+  "iso639-3": "tsp"
+}

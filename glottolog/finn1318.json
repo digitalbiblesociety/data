@@ -1,0 +1,133 @@
+{
+  "pk": 12610,
+  "hid": "fin",
+  "father_pk": 9601,
+  "family_pk": 302,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central and North Pohjanmaa [cent1985]':1,'Häme [hame1240]':1,'Peräpohja [pera1253]':1,'Savo [savo1254]':1,'South Pohjanmaa [sout2678]':1,'Southeastern Finnish [sout1743]':1,'Southwestern Finnish [sout2677]':1)'Finnish [finn1318][fin]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_fin",
+        "label": "Finnish"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Finnish_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/finn1318",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q1412",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "568179",
+        "long_grammar",
+        2004,
+        1698,
+        "Hakulinen, Auli and Maria Vilkuna and Riitta Korhonen and Vesa Koivisto and Tarja Riitta Heinonen and Irja Alho 2004"
+      ],
+      [
+        "59455",
+        "long_grammar",
+        1997,
+        690,
+        "Lehtinen, Meri 1997"
+      ],
+      [
+        "143483",
+        "long_grammar",
+        1992,
+        441,
+        "Sulkala, Helena and Karjalainen, Merja 1992"
+      ],
+      [
+        "71310",
+        "long_grammar",
+        1982,
+        310,
+        "Hans Fromm 1982"
+      ],
+      [
+        "21185",
+        "grammar",
+        1945,
+        208,
+        "Clemens Niemi 1945"
+      ],
+      [
+        "123427",
+        "grammar_sketch",
+        1899,
+        236,
+        "Pipping, Hugo 1899"
+      ],
+      [
+        "320220",
+        "grammar_sketch",
+        1733,
+        129,
+        "Bartholdus Vhael 1733"
+      ],
+      [
+        "318830",
+        "grammar_sketch",
+        1649,
+        88,
+        "Aeschillus Petraeus 1649"
+      ]
+    ]
+  },
+  "id": "finn1318",
+  "name": "Finnish",
+  "description": null,
+  "markup_description": null,
+  "latitude": 64.7628,
+  "longitude": 25.5577,
+  "classification": [
+    {
+      "name": "Uralic",
+      "id": "ural1272",
+      "url": "https://glottolog.org/resource/languoid/id/ural1272"
+    },
+    {
+      "name": "Finnic",
+      "id": "finn1317",
+      "url": "https://glottolog.org/resource/languoid/id/finn1317"
+    },
+    {
+      "name": "Coastal Finnic",
+      "id": "coas1319",
+      "url": "https://glottolog.org/resource/languoid/id/coas1319"
+    },
+    {
+      "name": "Neva",
+      "id": "neva1234",
+      "url": "https://glottolog.org/resource/languoid/id/neva1234"
+    },
+    {
+      "name": "North Finnic",
+      "id": "nort3282",
+      "url": "https://glottolog.org/resource/languoid/id/nort3282"
+    },
+    {
+      "name": "Nuclear Finnish",
+      "id": "nucl1717",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1717"
+    }
+  ],
+  "iso639-3": "fin"
+}

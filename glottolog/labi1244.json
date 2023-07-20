@@ -1,0 +1,77 @@
+{
+  "pk": 2207,
+  "hid": "lbi",
+  "father_pk": 1018,
+  "family_pk": 135,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Speech Register",
+  "newick": "'La''bi [labi1244][lbi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6460637",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/La%27bi_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "158886",
+        "phonology_or_text",
+        1977,
+        33,
+        "Moñino, Yves 1977"
+      ],
+      [
+        "304116",
+        "wordlist_or_less",
+        1915,
+        8,
+        "Louis Périquet 1915"
+      ],
+      [
+        "12640",
+        "wordlist_or_less",
+        1909,
+        3,
+        "E. Lenfant 1909"
+      ],
+      [
+        "119327",
+        "wordlist_or_less",
+        1908,
+        5,
+        "Charles Ducasse 1908"
+      ]
+    ]
+  },
+  "id": "labi1244",
+  "name": "La'bi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.85817,
+  "longitude": 15.2895,
+  "classification": [
+    {
+      "name": "Speech Register",
+      "id": "spee1234",
+      "url": "https://glottolog.org/resource/languoid/id/spee1234"
+    },
+    {
+      "name": "Atlantic-Congo Speech Register",
+      "id": "atla1282",
+      "url": "https://glottolog.org/resource/languoid/id/atla1282"
+    }
+  ],
+  "iso639-3": "lbi"
+}

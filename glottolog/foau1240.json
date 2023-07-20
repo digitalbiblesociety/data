@@ -1,0 +1,81 @@
+{
+  "pk": 3414,
+  "hid": "flh",
+  "father_pk": 1827,
+  "family_pk": 396,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Abawiri [foau1240][flh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4149",
+        "label": "Foau"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5463819",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Foau_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "582306",
+        "long_grammar",
+        2020,
+        629,
+        "Brendon Yoder 2020"
+      ],
+      [
+        "578802",
+        "phonology_or_text",
+        2019,
+        7,
+        "Brendon Yoder 2019"
+      ],
+      [
+        "578801",
+        "phonology_or_text",
+        2018,
+        27,
+        "Brendon Yoder 2018"
+      ],
+      [
+        "554395",
+        "wordlist_or_less",
+        1974,
+        10,
+        "Myron Bromley 1974"
+      ]
+    ]
+  },
+  "id": "foau1240",
+  "name": "Abawiri",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.04582,
+  "longitude": 139.213,
+  "classification": [
+    {
+      "name": "Lakes Plain",
+      "id": "lake1255",
+      "url": "https://glottolog.org/resource/languoid/id/lake1255"
+    },
+    {
+      "name": "East Lakes Plain",
+      "id": "east2500",
+      "url": "https://glottolog.org/resource/languoid/id/east2500"
+    }
+  ],
+  "iso639-3": "flh"
+}

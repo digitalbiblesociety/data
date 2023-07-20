@@ -1,0 +1,76 @@
+{
+  "pk": 725,
+  "hid": "kgm",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Karipuna do Amapa [kari1309][kgm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "kgm",
+      "name": "Karipúna",
+      "change_request": "2022-013",
+      "effective": "2023-01-20",
+      "reason": "duplicate",
+      "change_to": [
+        "plu"
+      ],
+      "remedy": "Duplicate of Palikur [plu]",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6371069",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Karipuna_language_(Amap%C3%A1)",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "666872",
+        "wordlist_or_less",
+        2022,
+        0,
+        "ISO 639-3 Registration Authority 2022"
+      ],
+      [
+        "128003",
+        "wordlist_or_less",
+        1998,
+        0,
+        "Tassinari, Antonella Maria Imperatriz 1998"
+      ],
+      [
+        "155047",
+        "wordlist_or_less",
+        1953,
+        24,
+        "Malcher, J. 1953"
+      ]
+    ]
+  },
+  "id": "kari1309",
+  "name": "Karipuna do Amapa",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.92,
+  "longitude": -52.42,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "kgm"
+}

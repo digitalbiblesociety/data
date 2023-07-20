@@ -1,0 +1,127 @@
+{
+  "pk": 11474,
+  "hid": "duj",
+  "father_pk": 8539,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dhuwaya [dhuw1250][dwy]':1,('Datiwuy [dati1238]':1,'Djapu [djap1238]':1,'Liyagalawumirr [liya1241]':1,'Liyagawumirr [liya1242]':1,'Marrakulu [marr1258]':1,'Marrangu [marr1259]':1)'Nuclear Dhuwal [nucl1333][dwu]':1)'Dhuwal [dhuw1249][duj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 8,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "duj",
+      "name": "Dhuwal",
+      "change_request": "2015-053",
+      "effective": "2016-01-15",
+      "reason": "split",
+      "change_to": [
+        "dwu",
+        "dwy"
+      ],
+      "remedy": "split into [dwu] Dhuwal and [dwy] Dhuwaya",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_dda",
+        "label": "Dhuwal (Dätiwuy)"
+      },
+      {
+        "url": "https://phoible.org/languages/dhuw1249",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q20050850",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "136243",
+        "grammar",
+        1983,
+        190,
+        "Frances Morphy 1983"
+      ],
+      [
+        "3500",
+        "grammar_sketch",
+        1980,
+        123,
+        "Jeffrey Heath 1980"
+      ],
+      [
+        "4908",
+        "phonology_or_text",
+        1979,
+        11,
+        "Donaldson, Tamsin J. 1979"
+      ],
+      [
+        "554499",
+        "wordlist_or_less",
+        1956,
+        4,
+        "Arthur Capell 1956"
+      ],
+      [
+        "577915",
+        "wordlist_or_less",
+        1949,
+        14,
+        "Thomson, D. F 1949"
+      ],
+      [
+        "1698",
+        "wordlist_or_less",
+        1937,
+        0,
+        "Warner, W. L. 1937"
+      ]
+    ]
+  },
+  "id": "dhuw1249",
+  "name": "Dhuwal",
+  "description": null,
+  "markup_description": null,
+  "latitude": -12.7825,
+  "longitude": 136.008,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Yuulngu",
+      "id": "yuul1239",
+      "url": "https://glottolog.org/resource/languoid/id/yuul1239"
+    },
+    {
+      "name": "Southern Yolngu",
+      "id": "sout3142",
+      "url": "https://glottolog.org/resource/languoid/id/sout3142"
+    },
+    {
+      "name": "Southern-Eastern Yolngu",
+      "id": "sout3149",
+      "url": "https://glottolog.org/resource/languoid/id/sout3149"
+    },
+    {
+      "name": "Dhuwal-Dhuwala",
+      "id": "dhuw1248",
+      "url": "https://glottolog.org/resource/languoid/id/dhuw1248"
+    },
+    {
+      "name": "Western Dhuwal-Dhuwala",
+      "id": "west2439",
+      "url": "https://glottolog.org/resource/languoid/id/west2439"
+    }
+  ],
+  "iso639-3": "duj"
+}

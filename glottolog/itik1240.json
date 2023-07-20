@@ -1,0 +1,60 @@
+{
+  "pk": 2265,
+  "hid": "itx",
+  "father_pk": 1046,
+  "family_pk": 147,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ittik [itti1241]':1,'Ittik-Tor [itti1242]':1)'Itik [itik1240][itx]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1807",
+        "label": "Itik"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Itik_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6094713",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "39370",
+        "wordlist_or_less",
+        1961,
+        14,
+        "Oosterwal, Gottfried 1961"
+      ]
+    ]
+  },
+  "id": "itik1240",
+  "name": "Itik",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.18342,
+  "longitude": 139.341,
+  "classification": [
+    {
+      "name": "Tor-Orya",
+      "id": "toro1256",
+      "url": "https://glottolog.org/resource/languoid/id/toro1256"
+    },
+    {
+      "name": "Tor",
+      "id": "tora1268",
+      "url": "https://glottolog.org/resource/languoid/id/tora1268"
+    }
+  ],
+  "iso639-3": "itx"
+}

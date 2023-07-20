@@ -1,0 +1,114 @@
+{
+  "pk": 12140,
+  "hid": "syb",
+  "father_pk": 9247,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Eastern Kolibugan [east2481]':1)'Central Subanen [cent2089][syb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12953893",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "317952",
+        "grammar_sketch",
+        1992,
+        27,
+        "Promon, Basilio and Ryan Galorport and Diola Galorport and Janie Hapalla and Edito Boyombon and Justino Awid and Melanio Limpuson and Angelina Taugiag and Melinda Awid and Hermilina Catague and William Hall and Lee Hall 1992"
+      ],
+      [
+        "90841",
+        "grammar_sketch",
+        1985,
+        23,
+        "na 1985"
+      ],
+      [
+        "135806",
+        "phonology_or_text",
+        1983,
+        277,
+        "Guilingan, Isis P. 1983"
+      ],
+      [
+        "24981",
+        "phonology_or_text",
+        1977,
+        12,
+        "Brichoux, Robert 1977"
+      ],
+      [
+        "66534",
+        "phonology_or_text",
+        1970,
+        7,
+        "Brichoux, Robert 1970"
+      ],
+      [
+        "305683",
+        "wordlist_or_less",
+        1913,
+        81,
+        "Finley, John Park 1913"
+      ],
+      [
+        "79333",
+        "wordlist_or_less",
+        1909,
+        26,
+        "Emerson Brewer Christie 1909"
+      ]
+    ]
+  },
+  "id": "cent2089",
+  "name": "Central Subanen",
+  "description": null,
+  "markup_description": null,
+  "latitude": 8.12701,
+  "longitude": 123.018,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Greater Central Philippine",
+      "id": "grea1284",
+      "url": "https://glottolog.org/resource/languoid/id/grea1284"
+    },
+    {
+      "name": "Subanen",
+      "id": "suba1253",
+      "url": "https://glottolog.org/resource/languoid/id/suba1253"
+    },
+    {
+      "name": "Nuclear Subanen",
+      "id": "nucl1726",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1726"
+    },
+    {
+      "name": "East Nuclear Subanen",
+      "id": "east2769",
+      "url": "https://glottolog.org/resource/languoid/id/east2769"
+    }
+  ],
+  "iso639-3": "syb"
+}

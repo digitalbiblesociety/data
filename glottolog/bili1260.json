@@ -1,0 +1,111 @@
+{
+  "pk": 8219,
+  "hid": "byn",
+  "father_pk": 5768,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Bilin [bili1260][byn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4603",
+        "label": "Bilen"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56491",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bilen_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/bili1260",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bln",
+        "label": "Bilin"
+      }
+    ],
+    "meds": [
+      [
+        "38368",
+        "grammar_sketch",
+        1882,
+        136,
+        "Reinisch, Leo 1882"
+      ],
+      [
+        "127744",
+        "wordlist_or_less",
+        1864,
+        5,
+        "Munzinger, Werner 1864"
+      ],
+      [
+        "143638",
+        "wordlist_or_less",
+        1860,
+        12,
+        "Munzinger, Johann Albert Werner 1860"
+      ],
+      [
+        "575252",
+        "wordlist_or_less",
+        1859,
+        0,
+        "Munzinger, W. 1859"
+      ],
+      [
+        "163450",
+        "wordlist_or_less",
+        1857,
+        0,
+        "Sapeto, Giuseppe 1857"
+      ]
+    ]
+  },
+  "id": "bili1260",
+  "name": "Bilin",
+  "description": null,
+  "markup_description": null,
+  "latitude": 15.7833,
+  "longitude": 38.3917,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Cushitic",
+      "id": "cush1243",
+      "url": "https://glottolog.org/resource/languoid/id/cush1243"
+    },
+    {
+      "name": "Agaw",
+      "id": "cent2193",
+      "url": "https://glottolog.org/resource/languoid/id/cent2193"
+    },
+    {
+      "name": "Northern-Eastern-Western Agaw",
+      "id": "nort3158",
+      "url": "https://glottolog.org/resource/languoid/id/nort3158"
+    },
+    {
+      "name": "Northeastern Agaw",
+      "id": "nort3163",
+      "url": "https://glottolog.org/resource/languoid/id/nort3163"
+    }
+  ],
+  "iso639-3": "byn"
+}

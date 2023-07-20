@@ -1,0 +1,85 @@
+{
+  "pk": 1921,
+  "hid": "has",
+  "father_pk": 470,
+  "family_pk": 28,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Henaksiala [hena1234]':1,'Kitimat [kiti1241]':1)'Haisla [hais1244][has]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_hsl",
+        "label": "Haisla"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/2385",
+        "label": "X̄enaksialak̓ala / X̄a'islak̓ala (Haisla)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Haisla_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3107399",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "122557",
+        "phonology_or_text",
+        1986,
+        261,
+        "Lincoln, Neville J. and Rath, John C. 1986"
+      ],
+      [
+        "7680",
+        "phonology_or_text",
+        1977,
+        20,
+        "Vink, Hein 1977"
+      ],
+      [
+        "574335",
+        "wordlist_or_less",
+        1945,
+        54,
+        "Lopatin, I. A. 1945"
+      ],
+      [
+        "575658",
+        "wordlist_or_less",
+        1940,
+        32,
+        "Olson, R. L. 1940"
+      ]
+    ]
+  },
+  "id": "hais1244",
+  "name": "Haisla",
+  "description": null,
+  "markup_description": null,
+  "latitude": 53.964,
+  "longitude": -128.602,
+  "classification": [
+    {
+      "name": "Wakashan",
+      "id": "waka1280",
+      "url": "https://glottolog.org/resource/languoid/id/waka1280"
+    },
+    {
+      "name": "Northern Wakashan",
+      "id": "nort2964",
+      "url": "https://glottolog.org/resource/languoid/id/nort2964"
+    }
+  ],
+  "iso639-3": "has"
+}

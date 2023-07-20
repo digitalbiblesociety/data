@@ -1,0 +1,105 @@
+{
+  "pk": 1745,
+  "hid": "chr",
+  "father_pk": 357,
+  "family_pk": 357,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Elati [elat1241]':1,'Kituhwa [kitu1247]':1,'Otali [otal1238]':1,'Overhill-Middle Cherokee [over1238]':1)'Cherokee [cher1273][chr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_che",
+        "label": "Cherokee"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cherokee_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/cher1273",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33388",
+        "label": null
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/1684",
+        "label": "ᏣᎳᎩ (Cherokee)"
+      }
+    ],
+    "meds": [
+      [
+        "51102",
+        "long_grammar",
+        2008,
+        595,
+        "Montgomery-Anderson, Brad 2008"
+      ],
+      [
+        "91729",
+        "long_grammar",
+        1987,
+        412,
+        "Scancarelli, Janine 1987"
+      ],
+      [
+        "60066",
+        "long_grammar",
+        1977,
+        345,
+        "Ruth Bradley Holmes and Betty Sharp Smith 1977"
+      ],
+      [
+        "32347",
+        "grammar",
+        1975,
+        147,
+        "King, Duane Harold 1975"
+      ],
+      [
+        "123109",
+        "grammar_sketch",
+        1852,
+        44,
+        "von der Gabelentz, Georg 1852"
+      ],
+      [
+        "311496",
+        "grammar_sketch",
+        1830,
+        40,
+        "John Pickering 1830"
+      ],
+      [
+        "303323",
+        "wordlist_or_less",
+        1790,
+        439,
+        "Castiglioni, Luigi 1790"
+      ]
+    ]
+  },
+  "id": "cher1273",
+  "name": "Cherokee",
+  "description": null,
+  "markup_description": null,
+  "latitude": 35.4664,
+  "longitude": -83.163,
+  "classification": [
+    {
+      "name": "Iroquoian",
+      "id": "iroq1247",
+      "url": "https://glottolog.org/resource/languoid/id/iroq1247"
+    }
+  ],
+  "iso639-3": "chr"
+}

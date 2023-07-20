@@ -1,0 +1,102 @@
+{
+  "pk": 11411,
+  "hid": "amz",
+  "father_pk": 8442,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Atampaya [atam1239][amz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3842",
+        "label": "Atampaya"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_uhi",
+        "label": "Uradhi"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Atampaya_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/atam1239",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3446651",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "136635",
+        "grammar_sketch",
+        1983,
+        42,
+        "Terry Crowley 1983"
+      ],
+      [
+        "96843",
+        "phonology_or_text",
+        1976,
+        9,
+        "Hale, Kenneth L. 1976"
+      ],
+      [
+        "5938",
+        "wordlist_or_less",
+        1896,
+        5,
+        "Meston, Archibald 1896"
+      ]
+    ]
+  },
+  "id": "atam1239",
+  "name": "Atampaya",
+  "description": null,
+  "markup_description": null,
+  "latitude": -11.0018,
+  "longitude": 142.273,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Paman",
+      "id": "pama1251",
+      "url": "https://glottolog.org/resource/languoid/id/pama1251"
+    },
+    {
+      "name": "Northern Pama",
+      "id": "nort2758",
+      "url": "https://glottolog.org/resource/languoid/id/nort2758"
+    },
+    {
+      "name": "Gudang-Northeast Paman",
+      "id": "guda1246",
+      "url": "https://glottolog.org/resource/languoid/id/guda1246"
+    },
+    {
+      "name": "Northeast Paman",
+      "id": "nort3278",
+      "url": "https://glottolog.org/resource/languoid/id/nort3278"
+    },
+    {
+      "name": "Uradhic",
+      "id": "urad1238",
+      "url": "https://glottolog.org/resource/languoid/id/urad1238"
+    }
+  ],
+  "iso639-3": "amz"
+}

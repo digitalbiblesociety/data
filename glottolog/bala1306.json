@@ -1,0 +1,62 @@
+{
+  "pk": 587,
+  "hid": "blg",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Balau [bala1306][blg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "blg",
+      "name": "Balau",
+      "change_request": "2020-042",
+      "effective": "2021-01-15",
+      "reason": "merge",
+      "change_to": [
+        "iba"
+      ],
+      "remedy": "Merged into Iban [iba]",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q4850134",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Balau_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "584906",
+        "wordlist_or_less",
+        2020,
+        0,
+        "ISO 639-3 Registration Authority 2020"
+      ]
+    ]
+  },
+  "id": "bala1306",
+  "name": "Balau",
+  "description": null,
+  "markup_description": null,
+  "latitude": 1.33476,
+  "longitude": 110.913,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "blg"
+}

@@ -1,0 +1,111 @@
+{
+  "pk": 9010,
+  "hid": "mpq",
+  "father_pk": 6513,
+  "family_pk": 273,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Matís [mati1255][mpq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1731",
+        "label": "Matís"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3299145",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Matis_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/mati1255",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mts",
+        "label": "Matis"
+      }
+    ],
+    "meds": [
+      [
+        "87972",
+        "long_grammar",
+        2005,
+        341,
+        "Rogério Vicente Ferreira 2005"
+      ],
+      [
+        "126360",
+        "grammar",
+        2001,
+        176,
+        "Rogério Vicente Ferreira 2001"
+      ],
+      [
+        "74468",
+        "grammar",
+        1974,
+        0,
+        "Fields, Harriet 1974"
+      ],
+      [
+        "107873",
+        "wordlist_or_less",
+        1970,
+        0,
+        "Fields, Harriet 1970"
+      ],
+      [
+        "63200",
+        "wordlist_or_less",
+        1957,
+        9,
+        "Alviano, Fray Fidelio de 1957"
+      ]
+    ]
+  },
+  "id": "mati1255",
+  "name": "Matís",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.3553,
+  "longitude": -70.2079,
+  "classification": [
+    {
+      "name": "Pano-Tacanan",
+      "id": "pano1259",
+      "url": "https://glottolog.org/resource/languoid/id/pano1259"
+    },
+    {
+      "name": "Panoan",
+      "id": "pano1256",
+      "url": "https://glottolog.org/resource/languoid/id/pano1256"
+    },
+    {
+      "name": "Mayoruna Branch",
+      "id": "mayo1277",
+      "url": "https://glottolog.org/resource/languoid/id/mayo1277"
+    },
+    {
+      "name": "Mayo Group",
+      "id": "mayo1269",
+      "url": "https://glottolog.org/resource/languoid/id/mayo1269"
+    },
+    {
+      "name": "Matis subgroup",
+      "id": "mati1254",
+      "url": "https://glottolog.org/resource/languoid/id/mati1254"
+    }
+  ],
+  "iso639-3": "mpq"
+}

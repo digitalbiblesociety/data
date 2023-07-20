@@ -1,0 +1,87 @@
+{
+  "pk": 4434,
+  "hid": "aoi",
+  "father_pk": 2733,
+  "family_pk": 253,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Anindilyakwa [anin1240][aoi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2025",
+        "label": "Anindilyakwa"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ann",
+        "label": "Anindilyakwa"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Anindilyakwa_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/anin1240",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2714654",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "163650",
+        "long_grammar",
+        1989,
+        532,
+        "Velma Leeding 1989"
+      ],
+      [
+        "82811",
+        "grammar_sketch",
+        1954,
+        80,
+        "Moody, Mary L. A. 1954"
+      ],
+      [
+        "3622",
+        "wordlist_or_less",
+        1928,
+        4,
+        "Tindale, Norman B. 1928"
+      ]
+    ]
+  },
+  "id": "anin1240",
+  "name": "Anindilyakwa",
+  "description": null,
+  "markup_description": null,
+  "latitude": -13.99904,
+  "longitude": 136.6415,
+  "classification": [
+    {
+      "name": "Gunwinyguan",
+      "id": "gunw1250",
+      "url": "https://glottolog.org/resource/languoid/id/gunw1250"
+    },
+    {
+      "name": "Eastern Gunwinyguan",
+      "id": "east2701",
+      "url": "https://glottolog.org/resource/languoid/id/east2701"
+    },
+    {
+      "name": "Wubuy-Anindilyakwa",
+      "id": "wubu1239",
+      "url": "https://glottolog.org/resource/languoid/id/wubu1239"
+    }
+  ],
+  "iso639-3": "aoi"
+}

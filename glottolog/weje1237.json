@@ -1,0 +1,85 @@
+{
+  "pk": 14949,
+  "hid": "wew",
+  "father_pk": 12093,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Lauli [laul1237]':1,('Mbukambero [mbuk1241]':1,'Nuclear Laura [nucl1519]':1)'Laura [laur1249][lur]':1,'Tana Righu [tana1282]':1,'Ve Luri [velu1239]':1,'Wai Bangga [waib1245]':1,'Weyewa [weye1237]':1)'Wewewa [weje1237][wew]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 8,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/9969",
+        "label": "Weyewa"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q4314526",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Wejewa_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "33388",
+        "grammar_sketch",
+        1900,
+        45,
+        "van der Velden, J. H. 1900"
+      ]
+    ]
+  },
+  "id": "weje1237",
+  "name": "Wewewa",
+  "description": null,
+  "markup_description": null,
+  "latitude": -9.55099,
+  "longitude": 119.349,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Bima-Lembata",
+      "id": "bima1248",
+      "url": "https://glottolog.org/resource/languoid/id/bima1248"
+    },
+    {
+      "name": "Flores-Sumba-Hawu",
+      "id": "flor1240",
+      "url": "https://glottolog.org/resource/languoid/id/flor1240"
+    },
+    {
+      "name": "Sumba-Hawu",
+      "id": "sumb1242",
+      "url": "https://glottolog.org/resource/languoid/id/sumb1242"
+    },
+    {
+      "name": "Sumba",
+      "id": "sumb1243",
+      "url": "https://glottolog.org/resource/languoid/id/sumb1243"
+    },
+    {
+      "name": "Wewewa-Laboya",
+      "id": "wewe1239",
+      "url": "https://glottolog.org/resource/languoid/id/wewe1239"
+    }
+  ],
+  "iso639-3": "wew"
+}

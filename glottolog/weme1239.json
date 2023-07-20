@@ -1,0 +1,83 @@
+{
+  "pk": 12869,
+  "hid": "wem",
+  "father_pk": 9907,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Weme Gbe [weme1239][wem]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q18379970",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_wmn",
+        "label": "Wéménugbé"
+      }
+    ],
+    "meds": [
+      [
+        "61197",
+        "grammar_sketch",
+        1999,
+        14,
+        "Brand, Roger 1999"
+      ],
+      [
+        "304065",
+        "wordlist_or_less",
+        1953,
+        8,
+        "de Lavergne de Tressan, M. 1953"
+      ]
+    ]
+  },
+  "id": "weme1239",
+  "name": "Weme Gbe",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.77227,
+  "longitude": 2.47457,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Kwa Volta-Congo",
+      "id": "kwav1236",
+      "url": "https://glottolog.org/resource/languoid/id/kwav1236"
+    },
+    {
+      "name": "Gbe",
+      "id": "gbee1241",
+      "url": "https://glottolog.org/resource/languoid/id/gbee1241"
+    },
+    {
+      "name": "Eastern Gbe",
+      "id": "east2711",
+      "url": "https://glottolog.org/resource/languoid/id/east2711"
+    },
+    {
+      "name": "Fongbeic",
+      "id": "fong1244",
+      "url": "https://glottolog.org/resource/languoid/id/fong1244"
+    }
+  ],
+  "iso639-3": "wem"
+}

@@ -1,0 +1,87 @@
+{
+  "pk": 3991,
+  "hid": "xmy",
+  "father_pk": 2280,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mayaguduna [maya1280][xmy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/g24",
+        "label": "Mayi-Kutuna"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/3237",
+        "label": "Mayi-Kutuna"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mayi-Kutuna_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/maya1280",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3436736",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "64840",
+        "grammar_sketch",
+        1981,
+        14,
+        "Gavan Breen 1981"
+      ],
+      [
+        "93698",
+        "wordlist_or_less",
+        1886,
+        6,
+        "Armit, William E. 1886"
+      ],
+      [
+        "1835",
+        "wordlist_or_less",
+        1883,
+        6,
+        "Palmer, Edward 1883"
+      ]
+    ]
+  },
+  "id": "maya1280",
+  "name": "Mayaguduna",
+  "description": null,
+  "markup_description": null,
+  "latitude": -18.1147,
+  "longitude": 140.337,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Paman",
+      "id": "pama1251",
+      "url": "https://glottolog.org/resource/languoid/id/pama1251"
+    },
+    {
+      "name": "Mayabic",
+      "id": "maya1279",
+      "url": "https://glottolog.org/resource/languoid/id/maya1279"
+    }
+  ],
+  "iso639-3": "xmy"
+}

@@ -1,0 +1,113 @@
+{
+  "pk": 15775,
+  "hid": "bvb",
+  "father_pk": 12995,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('North Bobe [nort2804]':1,'Southeast Bobe [sout2820]':1,'Southwest Bobe [sout2819]':1)'Bube [bube1242][bvb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q35110",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bube_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bub",
+        "label": "Bubi"
+      }
+    ],
+    "meds": [
+      [
+        "320956",
+        "grammar_sketch",
+        2009,
+        272,
+        "Justo Bolekia 2009"
+      ],
+      [
+        "155022",
+        "grammar_sketch",
+        1890,
+        189,
+        "Juanola, Joaquin 1890"
+      ],
+      [
+        "115419",
+        "grammar_sketch",
+        1848,
+        66,
+        "Clarke, John 1848"
+      ],
+      [
+        "17332",
+        "wordlist_or_less",
+        1847,
+        0,
+        "Thompson, [Mr] 1847"
+      ],
+      [
+        "105098",
+        "wordlist_or_less",
+        1841,
+        0,
+        "Clarke, John 1841"
+      ]
+    ]
+  },
+  "id": "bube1242",
+  "name": "Bube",
+  "description": null,
+  "markup_description": null,
+  "latitude": 3.53638,
+  "longitude": 8.68929,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Narrow Bantu",
+      "id": "narr1281",
+      "url": "https://glottolog.org/resource/languoid/id/narr1281"
+    },
+    {
+      "name": "Mbam-Bubi-Jarawan",
+      "id": "mbam1254",
+      "url": "https://glottolog.org/resource/languoid/id/mbam1254"
+    }
+  ],
+  "iso639-3": "bvb"
+}

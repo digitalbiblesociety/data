@@ -1,0 +1,72 @@
+{
+  "pk": 1527,
+  "hid": "bnn",
+  "father_pk": 289,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Takbanuaz [tako1237]':1,'Takivatan [taki1251]':1)'Central Bunun [cent2105]':1,'Isbukun [sout2930]':1,('Takibakha [taki1252]':1,'Takituduh [taki1253]':1)'North Bunun [nort2902]':1)'Bunun [bunu1267][bnn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56505",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bunun_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "84401",
+        "long_grammar",
+        2009,
+        711,
+        "De Busser, Rik L.J. 2009"
+      ],
+      [
+        "311489",
+        "grammar",
+        2000,
+        142,
+        "Elizabeth Zeitoun 2000"
+      ],
+      [
+        "300340",
+        "grammar_sketch",
+        1935,
+        419,
+        "Ogawa, Naoyoshi and Erin Asai 1935"
+      ],
+      [
+        "304561",
+        "wordlist_or_less",
+        1903,
+        57,
+        "Davidson, James Wheeler 1903"
+      ]
+    ]
+  },
+  "id": "bunu1267",
+  "name": "Bunun",
+  "description": null,
+  "markup_description": null,
+  "latitude": 23.4116,
+  "longitude": 121.025,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    }
+  ],
+  "iso639-3": "bnn"
+}

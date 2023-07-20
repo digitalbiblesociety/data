@@ -1,0 +1,100 @@
+{
+  "pk": 17654,
+  "hid": "bgt",
+  "father_pk": 15257,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Hageulu [hage1247]':1,'Vulava [vula1237]':1)'Bughotu [bugh1239][bgt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Bughotu_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2927723",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "24085",
+        "grammar_sketch",
+        1933,
+        37,
+        "W. G. Ivens 1933"
+      ],
+      [
+        "43560",
+        "phonology_or_text",
+        1879,
+        7,
+        "von der Gabelentz, Hans Conor 1879"
+      ],
+      [
+        "129889",
+        "wordlist_or_less",
+        1876,
+        3,
+        "H. Strauch 1876"
+      ]
+    ]
+  },
+  "id": "bugh1239",
+  "name": "Bughotu",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.47948,
+  "longitude": 159.802,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Southeast Solomonic",
+      "id": "sout2853",
+      "url": "https://glottolog.org/resource/languoid/id/sout2853"
+    },
+    {
+      "name": "Guadalcanal-Nggelic",
+      "id": "guad1241",
+      "url": "https://glottolog.org/resource/languoid/id/guad1241"
+    },
+    {
+      "name": "Nuclear Guadalcanal-Nggelic",
+      "id": "nucl1470",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1470"
+    },
+    {
+      "name": "Nggelic",
+      "id": "ngge1240",
+      "url": "https://glottolog.org/resource/languoid/id/ngge1240"
+    }
+  ],
+  "iso639-3": "bgt"
+}

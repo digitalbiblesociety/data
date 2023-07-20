@@ -1,0 +1,71 @@
+{
+  "pk": 8793,
+  "hid": "crm",
+  "father_pk": 6287,
+  "family_pk": 178,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Moose Cree [moos1236][crm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Moose_Cree_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3446671",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "102363",
+        "grammar",
+        1881,
+        261,
+        "Horden, John 1881"
+      ]
+    ]
+  },
+  "id": "moos1236",
+  "name": "Moose Cree",
+  "description": null,
+  "markup_description": null,
+  "latitude": 51.0686,
+  "longitude": -80.6912,
+  "classification": [
+    {
+      "name": "Algic",
+      "id": "algi1248",
+      "url": "https://glottolog.org/resource/languoid/id/algi1248"
+    },
+    {
+      "name": "Algonquian-Blackfoot",
+      "id": "algo1256",
+      "url": "https://glottolog.org/resource/languoid/id/algo1256"
+    },
+    {
+      "name": "Algonquian",
+      "id": "algo1257",
+      "url": "https://glottolog.org/resource/languoid/id/algo1257"
+    },
+    {
+      "name": "Cree-Montagnais-Naskapi",
+      "id": "cree1271",
+      "url": "https://glottolog.org/resource/languoid/id/cree1271"
+    },
+    {
+      "name": "Cree",
+      "id": "cree1272",
+      "url": "https://glottolog.org/resource/languoid/id/cree1272"
+    }
+  ],
+  "iso639-3": "crm"
+}

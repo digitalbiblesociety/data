@@ -1,0 +1,102 @@
+{
+  "pk": 5805,
+  "hid": "gid",
+  "father_pk": 3841,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Lam [lamm1244]':1)'Gidar [gida1247][gid]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q35265",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Gidar_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/gida1247",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_gdr",
+        "label": "Gidar"
+      }
+    ],
+    "meds": [
+      [
+        "84769",
+        "long_grammar",
+        2008,
+        504,
+        "Frajzyngier, Zygmunt 2008"
+      ],
+      [
+        "305148",
+        "grammar_sketch",
+        1984,
+        90,
+        "Schuh, Russell Galen 1984"
+      ],
+      [
+        "104625",
+        "wordlist_or_less",
+        1950,
+        5,
+        "Mouchet, Jean 1950"
+      ],
+      [
+        "99057",
+        "wordlist_or_less",
+        1944,
+        1,
+        "H. Baudelaire 1944"
+      ],
+      [
+        "128741",
+        "wordlist_or_less",
+        1910,
+        1,
+        "Strümpell, F. 1910"
+      ]
+    ]
+  },
+  "id": "gida1247",
+  "name": "Gidar",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.874715,
+  "longitude": 14.07845,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "Biu-Mandara",
+      "id": "bium1280",
+      "url": "https://glottolog.org/resource/languoid/id/bium1280"
+    },
+    {
+      "name": "North Biu-Mandara",
+      "id": "nort3156",
+      "url": "https://glottolog.org/resource/languoid/id/nort3156"
+    }
+  ],
+  "iso639-3": "gid"
+}

@@ -1,0 +1,85 @@
+{
+  "pk": 3407,
+  "hid": "clo",
+  "father_pk": 1823,
+  "family_pk": 394,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Lowland Oaxaca Chontal [lowl1260][clo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1441",
+        "label": "Lowland Chontal"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2964450",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Huamelula_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_chx",
+        "label": "Chontal (Huamelultec Oaxaca)"
+      }
+    ],
+    "meds": [
+      [
+        "45483",
+        "long_grammar",
+        2004,
+        318,
+        "Loretta O'Connor 2004"
+      ],
+      [
+        "7998",
+        "grammar_sketch",
+        1958,
+        173,
+        "Waterhouse, Viola G. 1958"
+      ],
+      [
+        "30855",
+        "phonology_or_text",
+        1950,
+        5,
+        "Morrison, May and Waterhouse, Viola G. 1950"
+      ],
+      [
+        "43427",
+        "phonology_or_text",
+        1949,
+        86,
+        "Waterhouse, Viola 1949"
+      ]
+    ]
+  },
+  "id": "lowl1260",
+  "name": "Lowland Oaxaca Chontal",
+  "description": null,
+  "markup_description": null,
+  "latitude": 15.9497,
+  "longitude": -95.6876,
+  "classification": [
+    {
+      "name": "Tequistlatecan",
+      "id": "tequ1244",
+      "url": "https://glottolog.org/resource/languoid/id/tequ1244"
+    },
+    {
+      "name": "Eastern Tequistlatecan",
+      "id": "east2878",
+      "url": "https://glottolog.org/resource/languoid/id/east2878"
+    }
+  ],
+  "iso639-3": "clo"
+}

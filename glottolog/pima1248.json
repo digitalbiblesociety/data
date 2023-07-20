@@ -1,0 +1,113 @@
+{
+  "pk": 6114,
+  "hid": "pia",
+  "father_pk": 4106,
+  "family_pk": 155,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Chihuahua Pima Bajo [chih1238]':1,'Sonora Pima Bajo [sono1245]':1)'Pima Bajo [pima1248][pia]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nev",
+        "label": "Nevome"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/4967",
+        "label": "O'ob"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_pba",
+        "label": "Pima Bajo"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Pima_Bajo_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3388544",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "469651",
+        "grammar",
+        2014,
+        268,
+        "Estrada Fernandez, Zarina 2014"
+      ],
+      [
+        "145204",
+        "grammar",
+        1993,
+        267,
+        "Escalante Hernández, Roberto and Estrada Fernández, Zarina 1993"
+      ],
+      [
+        "61078",
+        "grammar",
+        1991,
+        250,
+        "Estrada F., Zarina 1991"
+      ],
+      [
+        "138710",
+        "grammar",
+        1982,
+        164,
+        "Shaul, David Leedom 1982"
+      ],
+      [
+        "300025",
+        "grammar",
+        1862,
+        129,
+        "Buckingham Smith 1862"
+      ],
+      [
+        "663126",
+        "grammar_sketch",
+        1663,
+        110,
+        "Gámez Ibarra, Mario Cesar 2014 [1663]"
+      ]
+    ]
+  },
+  "id": "pima1248",
+  "name": "Pima Bajo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 28.654,
+  "longitude": -108.326,
+  "classification": [
+    {
+      "name": "Uto-Aztecan",
+      "id": "utoa1244",
+      "url": "https://glottolog.org/resource/languoid/id/utoa1244"
+    },
+    {
+      "name": "Southern Uto-Aztecan",
+      "id": "sout3136",
+      "url": "https://glottolog.org/resource/languoid/id/sout3136"
+    },
+    {
+      "name": "Tepiman",
+      "id": "tepi1240",
+      "url": "https://glottolog.org/resource/languoid/id/tepi1240"
+    },
+    {
+      "name": "Piman",
+      "id": "pima1249",
+      "url": "https://glottolog.org/resource/languoid/id/pima1249"
+    }
+  ],
+  "iso639-3": "pia"
+}

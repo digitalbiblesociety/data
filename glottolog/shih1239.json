@@ -1,0 +1,88 @@
+{
+  "pk": 14137,
+  "hid": "ssh",
+  "father_pk": 11072,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Shihhi Arabic [shih1239][ssh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56571",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Shihhi_Arabic",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "468621",
+        "grammar_sketch",
+        2011,
+        104,
+        "Bernabela, Roy S. 2011"
+      ],
+      [
+        "64639",
+        "wordlist_or_less",
+        1904,
+        16,
+        "Jayakar, A. S. G. 1904"
+      ]
+    ]
+  },
+  "id": "shih1239",
+  "name": "Shihhi Arabic",
+  "description": null,
+  "markup_description": null,
+  "latitude": 25.939,
+  "longitude": 56.1711,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Semitic",
+      "id": "semi1276",
+      "url": "https://glottolog.org/resource/languoid/id/semi1276"
+    },
+    {
+      "name": "West Semitic",
+      "id": "west2786",
+      "url": "https://glottolog.org/resource/languoid/id/west2786"
+    },
+    {
+      "name": "Central Semitic",
+      "id": "cent2236",
+      "url": "https://glottolog.org/resource/languoid/id/cent2236"
+    },
+    {
+      "name": "Arabian",
+      "id": "arab1394",
+      "url": "https://glottolog.org/resource/languoid/id/arab1394"
+    },
+    {
+      "name": "Arabic",
+      "id": "arab1395",
+      "url": "https://glottolog.org/resource/languoid/id/arab1395"
+    },
+    {
+      "name": "Arabian Peninsula Arabic",
+      "id": "arab1393",
+      "url": "https://glottolog.org/resource/languoid/id/arab1393"
+    }
+  ],
+  "iso639-3": "ssh"
+}

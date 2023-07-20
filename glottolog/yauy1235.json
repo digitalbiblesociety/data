@@ -1,0 +1,107 @@
+{
+  "pk": 4920,
+  "hid": "qux",
+  "father_pk": 3144,
+  "family_pk": 321,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Huancaya-Vitis [huan1250]':1,'Laraos [lara1261]':1,(('Apurí [apur1253]':1,'Madean-Viñac [made1254]':1)'Apurí-Madeán-Viñac [apur1255]':1,'Azángaro-Huangáscar-Chocos [azan1238]':1,'Cacra-Hongos [cacr1238]':1,'San Pedro de Huacarpana [sanp1258]':1,'Tana-Lincha [tana1291]':1)'Southern Yauyos [sout3375]':1,'Tomás-Alis [tomn1238]':1)'Yauyos Quechua [yauy1235][qux]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 11,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5312",
+        "label": "Yauyos Quechua"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36964",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yauyos%E2%80%93Chincha_Quechua",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "552142",
+        "grammar",
+        2017,
+        72,
+        "Aviva Shimelman 2017"
+      ],
+      [
+        "552141",
+        "grammar",
+        2014,
+        42,
+        "Aviva Shimelman 2014"
+      ],
+      [
+        "569002",
+        "grammar_sketch",
+        2013,
+        122,
+        "Denis Bertet 2013"
+      ],
+      [
+        "105300",
+        "grammar_sketch",
+        1990,
+        33,
+        "Taylor, Gerald 1990"
+      ],
+      [
+        "552507",
+        "phonology_or_text",
+        1987,
+        7,
+        "Taylor, Gerald 1987"
+      ],
+      [
+        "53734",
+        "wordlist_or_less",
+        1984,
+        13,
+        "Taylor, Gerald 1984"
+      ],
+      [
+        "582049",
+        "wordlist_or_less",
+        1972,
+        2,
+        "Torero, Alfredo 1972"
+      ]
+    ]
+  },
+  "id": "yauy1235",
+  "name": "Yauyos Quechua",
+  "description": null,
+  "markup_description": null,
+  "latitude": -12.62,
+  "longitude": -75.7,
+  "classification": [
+    {
+      "name": "Quechuan",
+      "id": "quec1387",
+      "url": "https://glottolog.org/resource/languoid/id/quec1387"
+    },
+    {
+      "name": "Quechua II",
+      "id": "quec1388",
+      "url": "https://glottolog.org/resource/languoid/id/quec1388"
+    },
+    {
+      "name": "Central Quechua IIA",
+      "id": "huan1255",
+      "url": "https://glottolog.org/resource/languoid/id/huan1255"
+    }
+  ],
+  "iso639-3": "qux"
+}

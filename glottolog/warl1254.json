@@ -1,0 +1,124 @@
+{
+  "pk": 5949,
+  "hid": "wbp",
+  "father_pk": 3981,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central-northern Warlpiri [cent2015]':1,'Hansen River Warlpiri [hans1242]':1,'Lander River Warlpiri [land1255]':1,'North-western Warlpiri [nort2753]':1,'South-western Warlpiri [sout2761]':1,'Southern Warlpiri [sout2762]':1,'Western Warlpiri [west2437]':1)'Warlpiri [warl1254][wbp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/c15",
+        "label": "WARLPIRI"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/2582",
+        "label": "Warlpiri"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_wrl",
+        "label": "Warlpiri"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Warlpiri_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/warl1254",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q1639998",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "19562",
+        "long_grammar",
+        1983,
+        533,
+        "Jane H. Simpson 1983"
+      ],
+      [
+        "118156",
+        "grammar",
+        1980,
+        255,
+        "David G. Nash 1980"
+      ],
+      [
+        "6668",
+        "grammar",
+        1970,
+        198,
+        "Laurie Reece 1970"
+      ],
+      [
+        "4050",
+        "grammar_sketch",
+        1962,
+        24,
+        "Capell, Arthur 1962"
+      ],
+      [
+        "1080",
+        "grammar_sketch",
+        1953,
+        5,
+        "Capell, Arthur 1953"
+      ],
+      [
+        "4167",
+        "wordlist_or_less",
+        1940,
+        1,
+        "Arthur Capell 1940, 1940"
+      ],
+      [
+        "1445",
+        "wordlist_or_less",
+        1899,
+        96,
+        "Spencer, W. Baldwin and Gillen, F. J. 1899"
+      ]
+    ]
+  },
+  "id": "warl1254",
+  "name": "Warlpiri",
+  "description": null,
+  "markup_description": null,
+  "latitude": -20.1008,
+  "longitude": 131.05,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Desert Nyungic",
+      "id": "dese1234",
+      "url": "https://glottolog.org/resource/languoid/id/dese1234"
+    },
+    {
+      "name": "Ngumpin-Yapa",
+      "id": "ngum1251",
+      "url": "https://glottolog.org/resource/languoid/id/ngum1251"
+    },
+    {
+      "name": "Yapa",
+      "id": "ngar1289",
+      "url": "https://glottolog.org/resource/languoid/id/ngar1289"
+    }
+  ],
+  "iso639-3": "wbp"
+}

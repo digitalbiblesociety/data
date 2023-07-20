@@ -1,0 +1,92 @@
+{
+  "pk": 6747,
+  "hid": "ill",
+  "father_pk": 4603,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Philippines Iranun [phil1247][ilp]':1,('Kota Belud Iranun [kota1282]':1,'Lahad Datu Iranun [laha1256]':1)'Sabah Iranun [saba1284][ilm]':1)'Iranun [iran1262][ill]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "ill",
+      "name": "Iranun",
+      "change_request": "2015-067",
+      "effective": "2016-01-15",
+      "reason": "split",
+      "change_to": [
+        "ilp",
+        "ilm"
+      ],
+      "remedy": "Split into Iranun (Philippines) [ilp] and Iranun (Malaysia) [ilm]",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12953581",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Iranun_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "119414",
+        "grammar_sketch",
+        1983,
+        14,
+        "Omar, Asmah Haji 1983"
+      ],
+      [
+        "307580",
+        "wordlist_or_less",
+        1896,
+        16,
+        "Roth, Henry Ling 1896"
+      ],
+      [
+        "552444",
+        "wordlist_or_less",
+        1880,
+        11,
+        "Swettenham, F. A. 1880"
+      ]
+    ]
+  },
+  "id": "iran1262",
+  "name": "Iranun",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.3362,
+  "longitude": 118.224,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Greater Central Philippine",
+      "id": "grea1284",
+      "url": "https://glottolog.org/resource/languoid/id/grea1284"
+    },
+    {
+      "name": "Danaw",
+      "id": "dana1253",
+      "url": "https://glottolog.org/resource/languoid/id/dana1253"
+    }
+  ],
+  "iso639-3": "ill"
+}

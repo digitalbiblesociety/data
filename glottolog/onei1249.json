@@ -1,0 +1,108 @@
+{
+  "pk": 5131,
+  "hid": "one",
+  "father_pk": 3317,
+  "family_pk": 357,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Oneida [onei1249][one]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1921",
+        "label": "Oneida"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q857858",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Oneida_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/onei1249",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ond",
+        "label": "Oneida"
+      }
+    ],
+    "meds": [
+      [
+        "324898",
+        "grammar",
+        2006,
+        162,
+        "Clifford Abbott 2006"
+      ],
+      [
+        "36652",
+        "grammar_sketch",
+        1949,
+        150,
+        "Lounsbury, Floyd Glenn 1949"
+      ],
+      [
+        "569207",
+        "phonology_or_text",
+        1909,
+        34,
+        "Franz Boas 1909"
+      ],
+      [
+        "39735",
+        "wordlist_or_less",
+        1846,
+        47,
+        "Schoolcraft, Henry Rowe and Shearman, Richard Updike 2000 [1846]"
+      ],
+      [
+        "27878",
+        "wordlist_or_less",
+        1836,
+        4,
+        "Albert Gallatin 1836"
+      ],
+      [
+        "33801",
+        "wordlist_or_less",
+        1816,
+        10,
+        "Johann Christoph Adelung and Johann Severin Vater 1816"
+      ]
+    ]
+  },
+  "id": "onei1249",
+  "name": "Oneida",
+  "description": null,
+  "markup_description": null,
+  "latitude": 43.438742,
+  "longitude": -75.708106,
+  "classification": [
+    {
+      "name": "Iroquoian",
+      "id": "iroq1247",
+      "url": "https://glottolog.org/resource/languoid/id/iroq1247"
+    },
+    {
+      "name": "Northern Iroquoian",
+      "id": "nort2947",
+      "url": "https://glottolog.org/resource/languoid/id/nort2947"
+    },
+    {
+      "name": "Mohawk-Oneida",
+      "id": "moha1257",
+      "url": "https://glottolog.org/resource/languoid/id/moha1257"
+    }
+  ],
+  "iso639-3": "one"
+}

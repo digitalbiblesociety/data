@@ -1,0 +1,75 @@
+{
+  "pk": 3085,
+  "hid": "nnm",
+  "father_pk": 1570,
+  "family_pk": 304,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Namia [nami1256][nnm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10600",
+        "label": "Namia"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56363",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Namia_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nami1256",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nam",
+        "label": "Namia"
+      }
+    ],
+    "meds": [
+      [
+        "50406",
+        "grammar",
+        1992,
+        97,
+        "Feldpausch, Thomas and Feldpausch, Becky 1992"
+      ],
+      [
+        "138610",
+        "wordlist_or_less",
+        1968,
+        1,
+        "Donald C. Laycock 1968"
+      ]
+    ]
+  },
+  "id": "nami1256",
+  "name": "Namia",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.85538,
+  "longitude": 141.788,
+  "classification": [
+    {
+      "name": "Sepik",
+      "id": "sepi1257",
+      "url": "https://glottolog.org/resource/languoid/id/sepi1257"
+    },
+    {
+      "name": "Yellow River",
+      "id": "yell1247",
+      "url": "https://glottolog.org/resource/languoid/id/yell1247"
+    }
+  ],
+  "iso639-3": "nnm"
+}

@@ -1,0 +1,116 @@
+{
+  "pk": 4018,
+  "hid": "wyb",
+  "father_pk": 2289,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Wangaaybuwan [wang1292]':1,'Wayilwan [wayi1238]':1)'Ngiyambaa [wang1291][wyb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/d22",
+        "label": "NGIYAMPAA / NGEMPA"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/3307",
+        "label": "Ngiyambaa"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ngi",
+        "label": "Ngiyambaa"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/d18",
+        "label": "Wangaaypuwan"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ngiyambaa_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/wang1291",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3913825",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "105914",
+        "long_grammar",
+        1977,
+        419,
+        "Donaldson, Tamsin 1977"
+      ],
+      [
+        "596",
+        "grammar_sketch",
+        1905,
+        183,
+        "Mathews, Robert Hamilton 1905"
+      ],
+      [
+        "6048",
+        "grammar_sketch",
+        1904,
+        179,
+        "Mathews, Robert Hamilton 1904"
+      ],
+      [
+        "1447",
+        "grammar_sketch",
+        1903,
+        13,
+        "Mathews, Robert Hamilton 1903"
+      ],
+      [
+        "477676",
+        "wordlist_or_less",
+        1875,
+        8,
+        "Ridley, William 1875"
+      ],
+      [
+        "7759",
+        "wordlist_or_less",
+        1873,
+        2,
+        "William Ridley 1873"
+      ]
+    ]
+  },
+  "id": "wang1291",
+  "name": "Ngiyambaa",
+  "description": null,
+  "markup_description": null,
+  "latitude": -30.6481,
+  "longitude": 146.18,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Southeastern Pama-Nyungan",
+      "id": "sout3135",
+      "url": "https://glottolog.org/resource/languoid/id/sout3135"
+    },
+    {
+      "name": "Wiradhuric",
+      "id": "wira1261",
+      "url": "https://glottolog.org/resource/languoid/id/wira1261"
+    }
+  ],
+  "iso639-3": "wyb"
+}

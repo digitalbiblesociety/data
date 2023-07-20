@@ -1,0 +1,125 @@
+{
+  "pk": 22248,
+  "hid": "jat",
+  "father_pk": 20551,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Inku [jaka1245][jat]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "jat",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 has an entry Jakati [jat] which is said be to spoken by 29,300 people in Ukraine. The alternative names, which include 'Jat', the classification of the language as Indo-Aryan, and a note indicating 'nomadic' suggests that the denotation is an itinerant population with roots on the Indian subcontinent, i.e.,\n'Gypsy' in loose terminology. 29,300 is a plausible number of Gypsies, or Roma, in Ukraine related to the Roma in countries to the west, but these Roma speak and indentify as a variety of Vlax [rmy]\n(**hh:soct:Barannikov:Ukrainian-Gypsy**:24-44,\n**hh:h:MarushiakovaPopov:Central-Asian-Gypsies**). Thus their speech is already covered by the Vlax [rmy] entry, and, furthermore,\nthey do not call themselves 'Jat' and are not called 'Jat' by others.  Although they could not have reached Ukraine in such numbers as per the E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 entry, several ethnically and linguistically different communities in Afghanistan are called 'Jat'\n(**hh:e:Rao:Jat:1981**, **hh:e:Rao:Ghorbat**, **hh:hld:Rao:Peripatetics-Afghanistan**),\nand the entry may be a confused attempt to render one of them. At least two mother tongues (as opposed to speech registers) are securely attested among the Afghanistan 'Jat':s, both of which are missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26. One may be called Afghanistan Ghorbat\n(**hh:hld:Rao:Peripatetics-Afghanistan**:74-81) and has a Persian grammar and a vocabulary from Persian, manipulated Persian,\nIndo-Aryan and other sources. The second may be called Inku\n(**hh:hld:Rao:Peripatetics-Afghanistan**:82-85) and is a language of the Lahnda group of Indo-Aryan, perhaps closest to E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26's Siraiki\n[skr] (**hh:h:Kieffer:Afghanistan**). Thus, the E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 Jakati [jat]\nentry is either spurious or erroneous (as to location and population) and ambiguous between the two Afghanistani Jat languages. See also: Saraiki [skr], Vlax Romani [rmy]."
+    },
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Inku_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q4159744",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "427228",
+        "wordlist_or_less",
+        1995,
+        3,
+        "Rao, Aparna 1995"
+      ],
+      [
+        "87329",
+        "wordlist_or_less",
+        1983,
+        8,
+        "Charles Kieffer 1983"
+      ]
+    ]
+  },
+  "id": "jaka1245",
+  "name": "Inku",
+  "description": null,
+  "markup_description": null,
+  "latitude": 36.001755,
+  "longitude": 68.611035,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Indo-Aryan",
+      "id": "indo1321",
+      "url": "https://glottolog.org/resource/languoid/id/indo1321"
+    },
+    {
+      "name": "Middle-Modern Indo-Aryan",
+      "id": "midd1375",
+      "url": "https://glottolog.org/resource/languoid/id/midd1375"
+    },
+    {
+      "name": "Continental Indo-Aryan",
+      "id": "cont1248",
+      "url": "https://glottolog.org/resource/languoid/id/cont1248"
+    },
+    {
+      "name": "Indo-Aryan Northwestern zone",
+      "id": "indo1324",
+      "url": "https://glottolog.org/resource/languoid/id/indo1324"
+    },
+    {
+      "name": "Sindhi-Lahnda",
+      "id": "sind1278",
+      "url": "https://glottolog.org/resource/languoid/id/sind1278"
+    },
+    {
+      "name": "Greater Panjabic",
+      "id": "lahn1241",
+      "url": "https://glottolog.org/resource/languoid/id/lahn1241"
+    },
+    {
+      "name": "Hindko-Siraiki",
+      "id": "hind1274",
+      "url": "https://glottolog.org/resource/languoid/id/hind1274"
+    },
+    {
+      "name": "Siraikic",
+      "id": "sira1271",
+      "url": "https://glottolog.org/resource/languoid/id/sira1271"
+    }
+  ],
+  "iso639-3": "jat"
+}

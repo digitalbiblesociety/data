@@ -1,0 +1,132 @@
+{
+  "pk": 14138,
+  "hid": "apc",
+  "father_pk": 11073,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Aleppo [alep1241]':1,'Beqaa Arabic [beqa1238]':1,'Cilicia-Antioch Arabic [cili1234]':1,'Iqlim-Al-Kharrub Sunni Arabic [iqli1238]':1,'Jdaideh Arabic [jdai1238]':1,'North Lebanese Arabic [nort3140]':1,'North-Central Lebanese Arabic [nort3141]':1,'Saida Sunni Arabic [said1240]':1,'South Lebanese Arabic [sout3122]':1,('Fellahi [fell1238]':1,'Madani [mada1297]':1)'South Levantine Arabic [sout3123][ajp]':1,'South-Central Lebanese Arabic [sout3121]':1,'Standard Lebanese Arabic [stan1323]':1,'Sunni Beiruti Arabic [sunn1238]':1)'Levantine Arabic [nort3139][apc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 15,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/North_Levantine_Arabic",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_abe",
+        "label": "Arabic (Beirut)"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_anl",
+        "label": "Arabic (North Levantine Spoken)"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_arl",
+        "label": "Arabic (Lebanese)"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_asy",
+        "label": "Arabic (Syrian)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q22809485",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "120655",
+        "long_grammar",
+        2005,
+        609,
+        "Cowell, Mark 2005"
+      ],
+      [
+        "112699",
+        "long_grammar",
+        1964,
+        601,
+        "Cowell, Mark W. 1964"
+      ],
+      [
+        "73175",
+        "long_grammar",
+        1956,
+        469,
+        "Bishr, Kemal Mohamed Aly 1956"
+      ],
+      [
+        "571237",
+        "long_grammar",
+        1919,
+        340,
+        "Feghali, Michel-T. 1919"
+      ],
+      [
+        "305696",
+        "grammar",
+        1910,
+        256,
+        "Bauer, Leonhard 1910"
+      ],
+      [
+        "664720",
+        "grammar_sketch",
+        1905,
+        152,
+        "Löhr, Max 1905"
+      ]
+    ]
+  },
+  "id": "nort3139",
+  "name": "Levantine Arabic",
+  "description": null,
+  "markup_description": null,
+  "latitude": 34.1709,
+  "longitude": 36.0468,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Semitic",
+      "id": "semi1276",
+      "url": "https://glottolog.org/resource/languoid/id/semi1276"
+    },
+    {
+      "name": "West Semitic",
+      "id": "west2786",
+      "url": "https://glottolog.org/resource/languoid/id/west2786"
+    },
+    {
+      "name": "Central Semitic",
+      "id": "cent2236",
+      "url": "https://glottolog.org/resource/languoid/id/cent2236"
+    },
+    {
+      "name": "Arabian",
+      "id": "arab1394",
+      "url": "https://glottolog.org/resource/languoid/id/arab1394"
+    },
+    {
+      "name": "Arabic",
+      "id": "arab1395",
+      "url": "https://glottolog.org/resource/languoid/id/arab1395"
+    },
+    {
+      "name": "Levantine-Cypriot Arabic",
+      "id": "leva1239",
+      "url": "https://glottolog.org/resource/languoid/id/leva1239"
+    }
+  ],
+  "iso639-3": "apc"
+}

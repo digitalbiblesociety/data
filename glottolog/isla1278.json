@@ -1,0 +1,89 @@
+{
+  "pk": 8760,
+  "hid": "crb",
+  "father_pk": 6235,
+  "family_pk": 177,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Vincentian [vinc1241]':1)'Island Carib [isla1278][crb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Kalinago_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/isla1278",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3450735",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "14773",
+        "grammar_sketch",
+        1667,
+        178,
+        "Raymond Breton 1877 [1667]"
+      ],
+      [
+        "110796",
+        "phonology_or_text",
+        1665,
+        303,
+        "Breton, Raymond 1999 [1665]"
+      ],
+      [
+        "569359",
+        "wordlist_or_less",
+        1640,
+        0,
+        "Bouton, J. 1640"
+      ]
+    ]
+  },
+  "id": "isla1278",
+  "name": "Island Carib",
+  "description": null,
+  "markup_description": null,
+  "latitude": 15.364795,
+  "longitude": -61.342957,
+  "classification": [
+    {
+      "name": "Arawakan",
+      "id": "araw1281",
+      "url": "https://glottolog.org/resource/languoid/id/araw1281"
+    },
+    {
+      "name": "Caribbean Arawakan",
+      "id": "cari1281",
+      "url": "https://glottolog.org/resource/languoid/id/cari1281"
+    },
+    {
+      "name": "Antillean Arawakan",
+      "id": "anti1247",
+      "url": "https://glottolog.org/resource/languoid/id/anti1247"
+    },
+    {
+      "name": "Ineric",
+      "id": "iner1234",
+      "url": "https://glottolog.org/resource/languoid/id/iner1234"
+    },
+    {
+      "name": "Island Carib-Garifuna",
+      "id": "isla1279",
+      "url": "https://glottolog.org/resource/languoid/id/isla1279"
+    }
+  ],
+  "iso639-3": "crb"
+}

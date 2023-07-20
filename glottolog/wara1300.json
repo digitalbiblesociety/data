@@ -1,0 +1,97 @@
+{
+  "pk": 17414,
+  "hid": "war",
+  "father_pk": 15079,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Northern Samar [nort2882]':1,'Samar-Leyte [sama1301]':1,'Waray [wara1247]':1)'Waray {Philippines} [wara1300][war]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_wwy",
+        "label": "Waray-Waray"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Waray_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q34279",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "18808",
+        "long_grammar",
+        1971,
+        453,
+        "Diller, Timothy Clair 1971"
+      ],
+      [
+        "314272",
+        "grammar_sketch",
+        1747,
+        195,
+        "Ezguerra, Domingo 1747"
+      ]
+    ]
+  },
+  "id": "wara1300",
+  "name": "Waray (Philippines)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.4911,
+  "longitude": 125.012,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Greater Central Philippine",
+      "id": "grea1284",
+      "url": "https://glottolog.org/resource/languoid/id/grea1284"
+    },
+    {
+      "name": "Central Philippine",
+      "id": "cent2246",
+      "url": "https://glottolog.org/resource/languoid/id/cent2246"
+    },
+    {
+      "name": "Bisayan",
+      "id": "bisa1268",
+      "url": "https://glottolog.org/resource/languoid/id/bisa1268"
+    },
+    {
+      "name": "Central Bisayan",
+      "id": "cent2263",
+      "url": "https://glottolog.org/resource/languoid/id/cent2263"
+    },
+    {
+      "name": "Warayan",
+      "id": "wara1304",
+      "url": "https://glottolog.org/resource/languoid/id/wara1304"
+    },
+    {
+      "name": "Samar-Waray",
+      "id": "sama1315",
+      "url": "https://glottolog.org/resource/languoid/id/sama1315"
+    }
+  ],
+  "iso639-3": "war"
+}

@@ -1,0 +1,92 @@
+{
+  "pk": 9481,
+  "hid": "blx",
+  "father_pk": 6863,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mag-Indi Ayta [magi1241][blx]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q1931221",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Indi_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "660010",
+        "grammar_sketch",
+        2015,
+        0,
+        "Cudia, L. S. 2015"
+      ],
+      [
+        "551361",
+        "wordlist_or_less",
+        1908,
+        23,
+        "Luther Parker 1908"
+      ],
+      [
+        "665375",
+        "wordlist_or_less",
+        1893,
+        6,
+        "Meyer, Adolf Bernhard 1893"
+      ],
+      [
+        "140236",
+        "wordlist_or_less",
+        1880,
+        5,
+        "Alexander Schadenberg 1880"
+      ]
+    ]
+  },
+  "id": "magi1241",
+  "name": "Mag-Indi Ayta",
+  "description": null,
+  "markup_description": null,
+  "latitude": 14.9617,
+  "longitude": 120.182,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Central Luzon",
+      "id": "cent2080",
+      "url": "https://glottolog.org/resource/languoid/id/cent2080"
+    },
+    {
+      "name": "Sambalic",
+      "id": "samb1319",
+      "url": "https://glottolog.org/resource/languoid/id/samb1319"
+    },
+    {
+      "name": "Mag-Ayta",
+      "id": "maga1270",
+      "url": "https://glottolog.org/resource/languoid/id/maga1270"
+    }
+  ],
+  "iso639-3": "blx"
+}

@@ -1,0 +1,88 @@
+{
+  "pk": 16166,
+  "hid": "tsk",
+  "father_pk": 13347,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tseku [tsek1238][tsk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q11159532",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tseku_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "320198",
+        "wordlist_or_less",
+        1899,
+        41,
+        "d'Orleans, Henri 1899"
+      ],
+      [
+        "138723",
+        "wordlist_or_less",
+        1873,
+        3,
+        "Desgodins, (Abbé) Auguste 1873"
+      ]
+    ]
+  },
+  "id": "tsek1238",
+  "name": "Tseku",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.8046,
+  "longitude": 89.1931,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "Bodish",
+      "id": "bodi1257",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1257"
+    },
+    {
+      "name": "Early Old Tibetan",
+      "id": "oldm1245",
+      "url": "https://glottolog.org/resource/languoid/id/oldm1245"
+    },
+    {
+      "name": "Middle Old Tibetan",
+      "id": "tibe1276",
+      "url": "https://glottolog.org/resource/languoid/id/tibe1276"
+    },
+    {
+      "name": "Late Old Tibetan",
+      "id": "late1253",
+      "url": "https://glottolog.org/resource/languoid/id/late1253"
+    },
+    {
+      "name": "Kham-Hor",
+      "id": "kham1299",
+      "url": "https://glottolog.org/resource/languoid/id/kham1299"
+    }
+  ],
+  "iso639-3": "tsk"
+}

@@ -1,0 +1,92 @@
+{
+  "pk": 14556,
+  "hid": "ngu",
+  "father_pk": 11511,
+  "family_pk": 155,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Central Guerrero Nahuatl [guer1241][ngu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nhx",
+        "label": "Nahuatl (Xalitla)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Guerrero_Nahuatl",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5614980",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "301344",
+        "grammar",
+        2004,
+        191,
+        "Mason P., David and Nelson de Mason, Mollie Elaine 2004"
+      ],
+      [
+        "306781",
+        "grammar",
+        1713,
+        100,
+        "Pérez, Manuel 1713"
+      ]
+    ]
+  },
+  "id": "guer1241",
+  "name": "Central Guerrero Nahuatl",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.8583,
+  "longitude": -99.0023,
+  "classification": [
+    {
+      "name": "Uto-Aztecan",
+      "id": "utoa1244",
+      "url": "https://glottolog.org/resource/languoid/id/utoa1244"
+    },
+    {
+      "name": "Southern Uto-Aztecan",
+      "id": "sout3136",
+      "url": "https://glottolog.org/resource/languoid/id/sout3136"
+    },
+    {
+      "name": "Corachol-Aztecan",
+      "id": "cora1261",
+      "url": "https://glottolog.org/resource/languoid/id/cora1261"
+    },
+    {
+      "name": "Aztec",
+      "id": "azte1234",
+      "url": "https://glottolog.org/resource/languoid/id/azte1234"
+    },
+    {
+      "name": "Western Nahuatl",
+      "id": "west2809",
+      "url": "https://glottolog.org/resource/languoid/id/west2809"
+    },
+    {
+      "name": "Central Nahuatl",
+      "id": "cent2258",
+      "url": "https://glottolog.org/resource/languoid/id/cent2258"
+    },
+    {
+      "name": "Pastoral Guerrero Nahuatl",
+      "id": "past1250",
+      "url": "https://glottolog.org/resource/languoid/id/past1250"
+    }
+  ],
+  "iso639-3": "ngu"
+}

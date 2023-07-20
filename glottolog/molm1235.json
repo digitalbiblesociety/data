@@ -1,0 +1,77 @@
+{
+  "pk": 5719,
+  "hid": "aun",
+  "father_pk": 3767,
+  "family_pk": 103,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Aunalei [cent2109]':1,'North Aunalei [nort2906]':1,'South Aunalei [sout2933]':1)'Molmo One [molm1235][aun]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10539",
+        "label": "One"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12637224",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_one",
+        "label": "One"
+      }
+    ],
+    "meds": [
+      [
+        "66681",
+        "grammar_sketch",
+        2001,
+        57,
+        "Melissa Crowther 2001"
+      ],
+      [
+        "310004",
+        "phonology_or_text",
+        2000,
+        11,
+        "Donohue, Mark 2000"
+      ]
+    ]
+  },
+  "id": "molm1235",
+  "name": "Molmo One",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.38127,
+  "longitude": 141.806,
+  "classification": [
+    {
+      "name": "Nuclear Torricelli",
+      "id": "nucl1708",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1708"
+    },
+    {
+      "name": "West Wapei",
+      "id": "west2580",
+      "url": "https://glottolog.org/resource/languoid/id/west2580"
+    },
+    {
+      "name": "One",
+      "id": "onee1245",
+      "url": "https://glottolog.org/resource/languoid/id/onee1245"
+    },
+    {
+      "name": "Central-Northern One",
+      "id": "cent2238",
+      "url": "https://glottolog.org/resource/languoid/id/cent2238"
+    }
+  ],
+  "iso639-3": "aun"
+}

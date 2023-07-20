@@ -1,0 +1,98 @@
+{
+  "pk": 11142,
+  "hid": "anc",
+  "father_pk": 8230,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Hill Angas [hill1255]':1,'Plain Angas [plai1263]':1)'Ngas [ngas1240][anc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q35999",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ngas_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/ngas1240",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_anc",
+        "label": "Angas"
+      }
+    ],
+    "meds": [
+      [
+        "131759",
+        "long_grammar",
+        1915,
+        331,
+        "Foulkes, H. D. 1915"
+      ],
+      [
+        "68484",
+        "grammar_sketch",
+        1913,
+        25,
+        "Ormsby, George 1913, 1913, 1914, 1914"
+      ],
+      [
+        "109280",
+        "wordlist_or_less",
+        1907,
+        2,
+        "Gowers, W.F. 1907"
+      ]
+    ]
+  },
+  "id": "ngas1240",
+  "name": "Ngas",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.32042,
+  "longitude": 9.46146,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "West Chadic",
+      "id": "west2785",
+      "url": "https://glottolog.org/resource/languoid/id/west2785"
+    },
+    {
+      "name": "West Chadic A",
+      "id": "west2714",
+      "url": "https://glottolog.org/resource/languoid/id/west2714"
+    },
+    {
+      "name": "West Chadic A.2-3",
+      "id": "west2799",
+      "url": "https://glottolog.org/resource/languoid/id/west2799"
+    },
+    {
+      "name": "West Chadic A.3",
+      "id": "west2717",
+      "url": "https://glottolog.org/resource/languoid/id/west2717"
+    }
+  ],
+  "iso639-3": "anc"
+}

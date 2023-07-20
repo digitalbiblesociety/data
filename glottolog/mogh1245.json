@@ -1,0 +1,82 @@
+{
+  "pk": 3471,
+  "hid": "mhj",
+  "father_pk": 1854,
+  "family_pk": 417,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Karez-I-Mulla [kare1336]':1,'Kundur [kund1252]':1)'Mogholi [mogh1245][mhj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4657",
+        "label": "Mogholi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q13336",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Moghol_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/mogh1245",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mog",
+        "label": "Moghol"
+      }
+    ],
+    "meds": [
+      [
+        "28738",
+        "grammar",
+        1971,
+        190,
+        "Weiers, Michael 1971"
+      ],
+      [
+        "576309",
+        "grammar_sketch",
+        1905,
+        63,
+        "Ramstedt, G. J. 1905"
+      ],
+      [
+        "78252",
+        "wordlist_or_less",
+        1838,
+        8,
+        "Leech, R. 1838"
+      ]
+    ]
+  },
+  "id": "mogh1245",
+  "name": "Mogholi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 34.25,
+  "longitude": 62.28,
+  "classification": [
+    {
+      "name": "Mongolic-Khitan",
+      "id": "mong1349",
+      "url": "https://glottolog.org/resource/languoid/id/mong1349"
+    },
+    {
+      "name": "Mongolic",
+      "id": "mong1329",
+      "url": "https://glottolog.org/resource/languoid/id/mong1329"
+    }
+  ],
+  "iso639-3": "mhj"
+}

@@ -1,0 +1,81 @@
+{
+  "pk": 7951,
+  "hid": "pbc",
+  "father_pk": 5562,
+  "family_pk": 56,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Patamona [pata1262][pbc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3915921",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "144064",
+        "phonology_or_text",
+        1978,
+        4,
+        "Walter F. Edwards 1978"
+      ],
+      [
+        "78264",
+        "phonology_or_text",
+        1974,
+        1245,
+        "Helen Bassett 1974"
+      ],
+      [
+        "33831",
+        "wordlist_or_less",
+        1912,
+        14,
+        "Lutz, Frank E. 1912"
+      ]
+    ]
+  },
+  "id": "pata1262",
+  "name": "Patamona",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.75826,
+  "longitude": -59.5772,
+  "classification": [
+    {
+      "name": "Cariban",
+      "id": "cari1283",
+      "url": "https://glottolog.org/resource/languoid/id/cari1283"
+    },
+    {
+      "name": "Venezuelan Cariban",
+      "id": "vene1261",
+      "url": "https://glottolog.org/resource/languoid/id/vene1261"
+    },
+    {
+      "name": "Pemong-Panare",
+      "id": "pemo1246",
+      "url": "https://glottolog.org/resource/languoid/id/pemo1246"
+    },
+    {
+      "name": "Pemongan",
+      "id": "pemo1247",
+      "url": "https://glottolog.org/resource/languoid/id/pemo1247"
+    },
+    {
+      "name": "Kapong",
+      "id": "kapo1251",
+      "url": "https://glottolog.org/resource/languoid/id/kapo1251"
+    }
+  ],
+  "iso639-3": "pbc"
+}

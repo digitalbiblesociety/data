@@ -1,0 +1,102 @@
+{
+  "pk": 6118,
+  "hid": "ute",
+  "father_pk": 4108,
+  "family_pk": 155,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Chemehuevi [chem1251]':1,'Southern Paiute [sout2969]':1,'Ute [utee1244]':1)'Ute-Southern Paiute [utes1238][ute]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2965",
+        "label": "Ute"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Colorado_River_Numic_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/utes1238",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q13260",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "92433",
+        "long_grammar",
+        2011,
+        461,
+        "Tom Givón 2011"
+      ],
+      [
+        "303306",
+        "long_grammar",
+        1980,
+        411,
+        "na 1980"
+      ],
+      [
+        "102535",
+        "long_grammar",
+        1930,
+        311,
+        "Edward Sapir 1992 [1930]"
+      ],
+      [
+        "28562",
+        "grammar_sketch",
+        1908,
+        14,
+        "Kroeber, Alfred L. 1908"
+      ],
+      [
+        "75804",
+        "wordlist_or_less",
+        1855,
+        8,
+        "Amiel W. Whipple and Thomas Ewbank and William W. Turner 1855"
+      ]
+    ]
+  },
+  "id": "utes1238",
+  "name": "Ute-Southern Paiute",
+  "description": null,
+  "markup_description": null,
+  "latitude": 40.0965,
+  "longitude": -110.305,
+  "classification": [
+    {
+      "name": "Uto-Aztecan",
+      "id": "utoa1244",
+      "url": "https://glottolog.org/resource/languoid/id/utoa1244"
+    },
+    {
+      "name": "Northern Uto-Aztecan",
+      "id": "nort2953",
+      "url": "https://glottolog.org/resource/languoid/id/nort2953"
+    },
+    {
+      "name": "Numic",
+      "id": "numi1242",
+      "url": "https://glottolog.org/resource/languoid/id/numi1242"
+    },
+    {
+      "name": "Southern Numic",
+      "id": "sout2968",
+      "url": "https://glottolog.org/resource/languoid/id/sout2968"
+    }
+  ],
+  "iso639-3": "ute"
+}

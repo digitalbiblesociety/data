@@ -1,0 +1,100 @@
+{
+  "pk": 9774,
+  "hid": "snf",
+  "father_pk": 7101,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Cangin-Noon [cang1246]':1,'Padee [pade1238]':1,'Saawii [saaw1241]':1)'Noon [noon1242][snf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1754",
+        "label": "Noon"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36304",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Noon_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_noo",
+        "label": "Noon"
+      }
+    ],
+    "meds": [
+      [
+        "100596",
+        "long_grammar",
+        1999,
+        496,
+        "Soukka, Maria 1999"
+      ],
+      [
+        "65991",
+        "long_grammar",
+        1980,
+        348,
+        "Lopis, Jeanne 1980"
+      ],
+      [
+        "664936",
+        "grammar",
+        1963,
+        0,
+        "na 1963"
+      ],
+      [
+        "92342",
+        "wordlist_or_less",
+        1936,
+        4,
+        "Tastevin, Constant 1936"
+      ]
+    ]
+  },
+  "id": "noon1242",
+  "name": "Noon",
+  "description": null,
+  "markup_description": null,
+  "latitude": 14.792,
+  "longitude": -16.9205,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "North-Central Atlantic",
+      "id": "nort3146",
+      "url": "https://glottolog.org/resource/languoid/id/nort3146"
+    },
+    {
+      "name": "Cangin",
+      "id": "cang1245",
+      "url": "https://glottolog.org/resource/languoid/id/cang1245"
+    },
+    {
+      "name": "Saafi-Noon-Lehar",
+      "id": "saaf1239",
+      "url": "https://glottolog.org/resource/languoid/id/saaf1239"
+    },
+    {
+      "name": "Noon-Lehar",
+      "id": "noon1244",
+      "url": "https://glottolog.org/resource/languoid/id/noon1244"
+    }
+  ],
+  "iso639-3": "snf"
+}

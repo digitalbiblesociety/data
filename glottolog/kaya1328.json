@@ -1,0 +1,70 @@
+{
+  "pk": 2069,
+  "hid": "kyt",
+  "father_pk": 935,
+  "family_pk": 87,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kayagar [kaya1328][kyt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6380394",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kayagar_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "162049",
+        "wordlist_or_less",
+        1961,
+        33,
+        "Krosschell, J. M. 1961"
+      ],
+      [
+        "635084",
+        "wordlist_or_less",
+        1949,
+        11,
+        "Cees Meuwese and Jan Verschueren 1949-1950"
+      ],
+      [
+        "635086",
+        "wordlist_or_less",
+        1948,
+        8,
+        "Jan Verschueren and Cees Meuwese 1948"
+      ]
+    ]
+  },
+  "id": "kaya1328",
+  "name": "Kayagar",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.37677,
+  "longitude": 138.932,
+  "classification": [
+    {
+      "name": "Kayagaric",
+      "id": "kaya1327",
+      "url": "https://glottolog.org/resource/languoid/id/kaya1327"
+    },
+    {
+      "name": "Kaygir-Tamagario",
+      "id": "kayg1237",
+      "url": "https://glottolog.org/resource/languoid/id/kayg1237"
+    }
+  ],
+  "iso639-3": "kyt"
+}

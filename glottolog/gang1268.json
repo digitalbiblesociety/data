@@ -1,0 +1,82 @@
+{
+  "pk": 8492,
+  "hid": "gnl",
+  "father_pk": 6028,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Gangulu [gang1268][gnl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/e40",
+        "label": "Gangulu"
+      },
+      {
+        "url": "https://phoible.org/languages/gang1268",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q4916329",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "476203",
+        "phonology_or_text",
+        1983,
+        8,
+        "Holmer, Nils M. 1983"
+      ],
+      [
+        "39512",
+        "wordlist_or_less",
+        1887,
+        6,
+        "McIntosh, Peter and Cooke, W. D. and Barthelemy, C. G. 1887"
+      ]
+    ]
+  },
+  "id": "gang1268",
+  "name": "Gangulu",
+  "description": null,
+  "markup_description": null,
+  "latitude": -22.7637,
+  "longitude": 149.416,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Greater Maric",
+      "id": "grea1282",
+      "url": "https://glottolog.org/resource/languoid/id/grea1282"
+    },
+    {
+      "name": "Guwa-Maric",
+      "id": "guwa1245",
+      "url": "https://glottolog.org/resource/languoid/id/guwa1245"
+    },
+    {
+      "name": "Maric",
+      "id": "mari1445",
+      "url": "https://glottolog.org/resource/languoid/id/mari1445"
+    },
+    {
+      "name": "Eastern Maric",
+      "id": "east2716",
+      "url": "https://glottolog.org/resource/languoid/id/east2716"
+    }
+  ],
+  "iso639-3": "gnl"
+}

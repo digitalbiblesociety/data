@@ -1,0 +1,80 @@
+{
+  "pk": 6656,
+  "hid": "duk",
+  "father_pk": 4568,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Duduela [dudu1240][duk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7904085",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Duduela_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "43725",
+        "wordlist_or_less",
+        2008,
+        25,
+        "Philip Lambrecht and Alison Kassell and Margaret Potter and Sarah Tucker 2008"
+      ],
+      [
+        "156733",
+        "wordlist_or_less",
+        1980,
+        4,
+        "Z'graggen, Johannes A. 1980"
+      ],
+      [
+        "16299",
+        "wordlist_or_less",
+        1975,
+        1,
+        "Z'Graggen, Johannes A. 1975"
+      ]
+    ]
+  },
+  "id": "dudu1240",
+  "name": "Duduela",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.43119,
+  "longitude": 145.642,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Madang",
+      "id": "mada1298",
+      "url": "https://glottolog.org/resource/languoid/id/mada1298"
+    },
+    {
+      "name": "Rai Coast",
+      "id": "raic1241",
+      "url": "https://glottolog.org/resource/languoid/id/raic1241"
+    },
+    {
+      "name": "Nuru",
+      "id": "nuru1240",
+      "url": "https://glottolog.org/resource/languoid/id/nuru1240"
+    }
+  ],
+  "iso639-3": "duk"
+}

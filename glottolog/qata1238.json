@@ -1,0 +1,88 @@
+{
+  "pk": 8178,
+  "hid": "xqt",
+  "father_pk": 5734,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Qatabanian [qata1238][xqt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "xqt",
+      "comment_type": "missing",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "The Ancient South Arabian language Qatabanian is missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26\n(**hh:hv:Stein:Ancient-South-Arabian**, **hh:t:Ricks:Qatabanian**)."
+    },
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q384101",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Qatabanian_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "316508",
+        "phonology_or_text",
+        1988,
+        253,
+        "Stephen D. Ricks 1988"
+      ]
+    ]
+  },
+  "id": "qata1238",
+  "name": "Qatabanian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 14.8,
+  "longitude": 45.733333,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Semitic",
+      "id": "semi1276",
+      "url": "https://glottolog.org/resource/languoid/id/semi1276"
+    },
+    {
+      "name": "West Semitic",
+      "id": "west2786",
+      "url": "https://glottolog.org/resource/languoid/id/west2786"
+    },
+    {
+      "name": "Central Semitic",
+      "id": "cent2236",
+      "url": "https://glottolog.org/resource/languoid/id/cent2236"
+    },
+    {
+      "name": "Sayhadic",
+      "id": "sayh1236",
+      "url": "https://glottolog.org/resource/languoid/id/sayh1236"
+    }
+  ],
+  "iso639-3": "xqt"
+}

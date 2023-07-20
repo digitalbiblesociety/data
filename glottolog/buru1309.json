@@ -1,0 +1,70 @@
+{
+  "pk": 5681,
+  "hid": "bry",
+  "father_pk": 3743,
+  "family_pk": 92,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Burui [buru1309][bry]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10610",
+        "label": "Burui"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5000976",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Burui_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "38295",
+        "wordlist_or_less",
+        1975,
+        1,
+        "Philip Staalsen 1975"
+      ]
+    ]
+  },
+  "id": "buru1309",
+  "name": "Burui",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.03527,
+  "longitude": 143.015,
+  "classification": [
+    {
+      "name": "Ndu",
+      "id": "nduu1242",
+      "url": "https://glottolog.org/resource/languoid/id/nduu1242"
+    },
+    {
+      "name": "Nuclear Ndu",
+      "id": "nucl1642",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1642"
+    },
+    {
+      "name": "Sawosic",
+      "id": "sawo1235",
+      "url": "https://glottolog.org/resource/languoid/id/sawo1235"
+    },
+    {
+      "name": "Burui-Gaikundi",
+      "id": "bund1258",
+      "url": "https://glottolog.org/resource/languoid/id/bund1258"
+    }
+  ],
+  "iso639-3": "bry"
+}

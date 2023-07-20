@@ -1,0 +1,130 @@
+{
+  "pk": 13345,
+  "hid": "adx",
+  "father_pk": 10273,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Huang-chung-hsien [huan1253]':1,'Padma [padm1234]':1,'Shando [shan1295]':1)'Conservative Amdo Farmer [rong1262]':1,(('Chabcha [chab1239]':1,'Rebkong [rebk1234]':1,'Rtsekhog [rtse1234]':1)'Eastern Qinghai Amdo [east2830]':1,'Labrang [rong1261]':1,('Arik [arik1266]':1,'Mkharmar [mkha1234]':1,'Rkangtsha [rkan1234]':1,'Themchen [them1242]':1)'North Eastern Qinghai Amdo [nort3304]':1,('Rmagsar [rmag1234]':1,'Rngaba [abaa1238]':1,'Sertha/Golok [sert1234]':1)'Northern Sichuan Amdo [nort3305]':1)'Conservative Amdo Nomad [hbro1238]':1,('Mdzorganrabar [mdzo1234]':1,'Rmastod [rmas1234]':1)'Innovative Amdo Farmer [inno1234]':1,'Ndzorge [ndzo1234]':1)'Amdo Tibetan [amdo1237][adx]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 23,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56509",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Amdo_Tibetan",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/amdo1237",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_amd",
+        "label": "Amdo"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_amt",
+        "label": "Amdo (Themchen)"
+      }
+    ],
+    "meds": [
+      [
+        "570703",
+        "long_grammar",
+        2016,
+        686,
+        "Dpal, Ldan Bkra Shis 2016"
+      ],
+      [
+        "308562",
+        "long_grammar",
+        2003,
+        481,
+        "Zhou, Maocuo 2003"
+      ],
+      [
+        "471773",
+        "long_grammar",
+        2000,
+        359,
+        "Norbu, Kalsang and Karl A. Peet and Kevin Stuart 2000"
+      ],
+      [
+        "472837",
+        "grammar",
+        1995,
+        231,
+        "Wang, Qingshan 1995"
+      ],
+      [
+        "140560",
+        "grammar",
+        1980,
+        170,
+        "Nagano, Yasuhiko 1980"
+      ],
+      [
+        "114064",
+        "grammar",
+        1958,
+        159,
+        "George Roerich 1958"
+      ],
+      [
+        "75814",
+        "phonology_or_text",
+        1952,
+        10,
+        "Hermanns, Matthias 1952"
+      ]
+    ]
+  },
+  "id": "amdo1237",
+  "name": "Amdo Tibetan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 34.5177,
+  "longitude": 100.485,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "Bodish",
+      "id": "bodi1257",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1257"
+    },
+    {
+      "name": "Early Old Tibetan",
+      "id": "oldm1245",
+      "url": "https://glottolog.org/resource/languoid/id/oldm1245"
+    },
+    {
+      "name": "Middle Old Tibetan",
+      "id": "tibe1276",
+      "url": "https://glottolog.org/resource/languoid/id/tibe1276"
+    },
+    {
+      "name": "North-Eastern Tibetic",
+      "id": "nort3398",
+      "url": "https://glottolog.org/resource/languoid/id/nort3398"
+    }
+  ],
+  "iso639-3": "adx"
+}

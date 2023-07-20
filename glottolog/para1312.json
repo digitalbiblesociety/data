@@ -1,0 +1,101 @@
+{
+  "pk": 10817,
+  "hid": "pak",
+  "father_pk": 7938,
+  "family_pk": 51,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Parakanã [para1312][pak]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2959",
+        "label": "Parakanã"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12953804",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/para1312",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "127333",
+        "grammar_sketch",
+        1999,
+        120,
+        "Souza e Silva, Auristéa Caetana 1999"
+      ],
+      [
+        "113503",
+        "phonology_or_text",
+        1991,
+        25,
+        "Gomes, Ivanise Pimentel 1991"
+      ],
+      [
+        "117910",
+        "wordlist_or_less",
+        1961,
+        6,
+        "Arnaud, Expedito 1961"
+      ],
+      [
+        "164632",
+        "wordlist_or_less",
+        1947,
+        0,
+        "Audrin, José M. 1947"
+      ]
+    ]
+  },
+  "id": "para1312",
+  "name": "Parakanã",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.64681,
+  "longitude": -50.0621,
+  "classification": [
+    {
+      "name": "Tupian",
+      "id": "tupi1275",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1275"
+    },
+    {
+      "name": "Maweti-Guarani",
+      "id": "mawe1252",
+      "url": "https://glottolog.org/resource/languoid/id/mawe1252"
+    },
+    {
+      "name": "Aweti-Guarani",
+      "id": "awet1245",
+      "url": "https://glottolog.org/resource/languoid/id/awet1245"
+    },
+    {
+      "name": "Tupi-Guarani",
+      "id": "tupi1276",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1276"
+    },
+    {
+      "name": "Tupi-Guarani Subgroup IV",
+      "id": "tupi1279",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1279"
+    },
+    {
+      "name": "Tupi-Guarani Subgroup IV.A",
+      "id": "tupi1284",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1284"
+    }
+  ],
+  "iso639-3": "pak"
+}

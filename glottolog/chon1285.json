@@ -1,0 +1,106 @@
+{
+  "pk": 16171,
+  "hid": "cda",
+  "father_pk": 13349,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Koban [koba1241]':1,'Thergyud [ther1234]':1,'dGonpa [dgon1234]':1)'Hbrugchu [hbru1241]':1,'Palkyi [palk1240]':1,'Songpan [song1310]':1,('Byambab [byam1234]':1,'Thewo-bar [thew1237]':1,'Thewo-lho [thew1238]':1,'gSerpo [gser1235]':1)'Thewo-smad [thew1235]':1,('Nyinpa [nyin1251]':1,'Thewo-stod [thew1236]':1)'Thewo-stodic [thew1234]':1,('Eastern Zhuoni [east2856]':1,'Kluchu [kluc1234]':1,'Western Zhuoni [west2949]':1)'Zhuoni [zhuo1234]':1)'Choni [chon1285][cda]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 18,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4160",
+        "label": "Choni"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2964447",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Choni_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "576483",
+        "grammar_sketch",
+        2013,
+        124,
+        "Renzeng, Wangmu [Rig-'dzin dBang-mo] 2013"
+      ],
+      [
+        "320486",
+        "phonology_or_text",
+        2008,
+        0,
+        "Rnam.rgyal Tshe.bstan 2008"
+      ],
+      [
+        "320013",
+        "wordlist_or_less",
+        1995,
+        103,
+        "Yang, Shihong 1995"
+      ],
+      [
+        "59271",
+        "wordlist_or_less",
+        1962,
+        6,
+        "Qu, Aitang 1962"
+      ]
+    ]
+  },
+  "id": "chon1285",
+  "name": "Choni",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.7552,
+  "longitude": 99.8255,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "Bodish",
+      "id": "bodi1257",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1257"
+    },
+    {
+      "name": "Early Old Tibetan",
+      "id": "oldm1245",
+      "url": "https://glottolog.org/resource/languoid/id/oldm1245"
+    },
+    {
+      "name": "Middle Old Tibetan",
+      "id": "tibe1276",
+      "url": "https://glottolog.org/resource/languoid/id/tibe1276"
+    },
+    {
+      "name": "Late Old Tibetan",
+      "id": "late1253",
+      "url": "https://glottolog.org/resource/languoid/id/late1253"
+    },
+    {
+      "name": "Eastern Tibetic",
+      "id": "east2771",
+      "url": "https://glottolog.org/resource/languoid/id/east2771"
+    }
+  ],
+  "iso639-3": "cda"
+}

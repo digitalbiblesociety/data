@@ -1,0 +1,96 @@
+{
+  "pk": 9315,
+  "hid": "frd",
+  "father_pk": 6780,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Fordata-Larat I [ford1243]':1,'Fordata-Larat II [ford1244]':1,'Molo {Indonesia} [molo1261]':1,'Sera {Indonesia} [sera1262]':1)'Fordata [ford1242][frd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q5468035",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Fordata_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_frd",
+        "label": "Fordata"
+      }
+    ],
+    "meds": [
+      [
+        "548625",
+        "grammar_sketch",
+        1990,
+        138,
+        "Elath, Barto and Seth Labar and Berta Masela and Zeth Patean and Beng Reskin and Martina Yaolath and Martinus Yaolath and Yosefina Yaolath 1990"
+      ],
+      [
+        "22532",
+        "grammar_sketch",
+        1926,
+        77,
+        "Drabbe, Peter 1926"
+      ],
+      [
+        "162931",
+        "wordlist_or_less",
+        1885,
+        4,
+        "Adolf Bastian 1885"
+      ],
+      [
+        "321429",
+        "wordlist_or_less",
+        1848,
+        3,
+        "Earl, George Windsor 1848"
+      ]
+    ]
+  },
+  "id": "ford1242",
+  "name": "Fordata",
+  "description": null,
+  "markup_description": null,
+  "latitude": -7.28902,
+  "longitude": 131.511,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Tanimbar-Bomberai",
+      "id": "tani1260",
+      "url": "https://glottolog.org/resource/languoid/id/tani1260"
+    },
+    {
+      "name": "Nuclear Tanimbar-Bomberai",
+      "id": "keit1238",
+      "url": "https://glottolog.org/resource/languoid/id/keit1238"
+    },
+    {
+      "name": "Kei-Fordata",
+      "id": "keif1237",
+      "url": "https://glottolog.org/resource/languoid/id/keif1237"
+    }
+  ],
+  "iso639-3": "frd"
+}

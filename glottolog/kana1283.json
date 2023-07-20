@@ -1,0 +1,86 @@
+{
+  "pk": 10282,
+  "hid": "xns",
+  "father_pk": 7386,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kanashi [kana1283][xns]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3235",
+        "label": "Kanashi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6360672",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kanashi_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_xns",
+        "label": "Kanashi"
+      }
+    ],
+    "meds": [
+      [
+        "472410",
+        "grammar_sketch",
+        1992,
+        96,
+        "D. D. Sharma 1992"
+      ],
+      [
+        "81983",
+        "wordlist_or_less",
+        1871,
+        61,
+        "Harcourt, Alfred F. P. 1871"
+      ]
+    ]
+  },
+  "id": "kana1283",
+  "name": "Kanashi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 32.2843,
+  "longitude": 77.1553,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "West Himalayish",
+      "id": "tibe1275",
+      "url": "https://glottolog.org/resource/languoid/id/tibe1275"
+    },
+    {
+      "name": "Western West Himalayish",
+      "id": "west2868",
+      "url": "https://glottolog.org/resource/languoid/id/west2868"
+    },
+    {
+      "name": "Kinnauric",
+      "id": "kinn1250",
+      "url": "https://glottolog.org/resource/languoid/id/kinn1250"
+    }
+  ],
+  "iso639-3": "xns"
+}

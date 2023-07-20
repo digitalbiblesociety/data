@@ -1,0 +1,111 @@
+{
+  "pk": 8426,
+  "hid": "mpj",
+  "father_pk": 5957,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kartujarra [kart1247]':1,'Manyjilyjara [many1256]':1,'Puditara [pudi1238]':1,'Wangkajunga [wang1288]':1,'Yulparitja [yulp1238]':1)'Martu Wangka [mart1256][mpj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/a6",
+        "label": "Maduwongga"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/6270",
+        "label": "Martu Wangka"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mwa",
+        "label": "Martu Wangka"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Martu_Wangka",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3295916",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "311032",
+        "long_grammar",
+        2002,
+        468,
+        "Barbara Jones 2002"
+      ],
+      [
+        "157358",
+        "grammar",
+        1977,
+        9,
+        "Marsh, James L. 1977"
+      ],
+      [
+        "12382",
+        "grammar_sketch",
+        1976,
+        133,
+        "Marsh, James 1976"
+      ],
+      [
+        "112897",
+        "phonology_or_text",
+        1969,
+        22,
+        "Marsh, James L. 1969"
+      ],
+      [
+        "2316",
+        "wordlist_or_less",
+        1959,
+        2,
+        "Berndt, Ronald M. 1959"
+      ]
+    ]
+  },
+  "id": "mart1256",
+  "name": "Martu Wangka",
+  "description": null,
+  "markup_description": null,
+  "latitude": -23.350911655789,
+  "longitude": 123.66842240336,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Desert Nyungic",
+      "id": "dese1234",
+      "url": "https://glottolog.org/resource/languoid/id/dese1234"
+    },
+    {
+      "name": "Wati",
+      "id": "wati1241",
+      "url": "https://glottolog.org/resource/languoid/id/wati1241"
+    },
+    {
+      "name": "Martuwangkic",
+      "id": "mart1257",
+      "url": "https://glottolog.org/resource/languoid/id/mart1257"
+    },
+    {
+      "name": "Warnman-Wangka",
+      "id": "warn1245",
+      "url": "https://glottolog.org/resource/languoid/id/warn1245"
+    }
+  ],
+  "iso639-3": "mpj"
+}

@@ -1,0 +1,67 @@
+{
+  "pk": 2736,
+  "hid": "fuj",
+  "father_pk": 1284,
+  "family_pk": 254,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kau [kauu1239]':1,'Nyaro [nyar1248]':1)'Ko [kooo1244][fuj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4182",
+        "label": "Ko"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35693",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Fungor_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "40143",
+        "phonology_or_text",
+        1978,
+        17,
+        "Faris, James C. 1978"
+      ],
+      [
+        "137294",
+        "wordlist_or_less",
+        1931,
+        1,
+        "MacDiarmid, P. A. and MacDiarmid, D. N. 1931"
+      ]
+    ]
+  },
+  "id": "kooo1244",
+  "name": "Ko",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.7321,
+  "longitude": 31.5399,
+  "classification": [
+    {
+      "name": "Heibanic",
+      "id": "heib1242",
+      "url": "https://glottolog.org/resource/languoid/id/heib1242"
+    },
+    {
+      "name": "Eastern Heibanic",
+      "id": "east2429",
+      "url": "https://glottolog.org/resource/languoid/id/east2429"
+    }
+  ],
+  "iso639-3": "fuj"
+}

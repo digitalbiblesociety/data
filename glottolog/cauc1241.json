@@ -1,0 +1,67 @@
+{
+  "pk": 649,
+  "hid": "cca",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Cauca [cauc1241][cca]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "cca",
+      "name": "Cauca",
+      "change_request": "2019-020",
+      "effective": "2020-01-23",
+      "reason": "non-existent",
+      "change_to": [],
+      "remedy": null,
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q5054242",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cauca_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "41201",
+        "wordlist_or_less",
+        2004,
+        17,
+        "Willem F. H. Adelaar and Pieter C. Muysken 2004"
+      ],
+      [
+        "553172",
+        "wordlist_or_less",
+        1878,
+        241,
+        "Bastian, Adolf 1878, 1878, 1889"
+      ]
+    ]
+  },
+  "id": "cauc1241",
+  "name": "Cauca",
+  "description": null,
+  "markup_description": null,
+  "latitude": 1.267,
+  "longitude": -69.91,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "cca"
+}

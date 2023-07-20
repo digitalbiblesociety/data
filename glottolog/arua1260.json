@@ -1,0 +1,100 @@
+{
+  "pk": 8406,
+  "hid": "msy",
+  "father_pk": 5942,
+  "family_pk": 143,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Aruamu [arua1260][msy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10650",
+        "label": "Aruamu"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mkr",
+        "label": "Mikarew"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Aruamu_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3501809",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "590199",
+        "wordlist_or_less",
+        1974,
+        17,
+        "John A. Z'graggen 1974"
+      ],
+      [
+        "306728",
+        "wordlist_or_less",
+        1972,
+        15,
+        "John A. Z'graggen 1972"
+      ],
+      [
+        "40621",
+        "wordlist_or_less",
+        1951,
+        2,
+        "Arthur Capell 1951-1952"
+      ],
+      [
+        "152556",
+        "wordlist_or_less",
+        1908,
+        2,
+        "Rudolf Pöch 1908"
+      ]
+    ]
+  },
+  "id": "arua1260",
+  "name": "Aruamu",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.28957,
+  "longitude": 144.842,
+  "classification": [
+    {
+      "name": "Lower Sepik-Ramu",
+      "id": "lowe1437",
+      "url": "https://glottolog.org/resource/languoid/id/lowe1437"
+    },
+    {
+      "name": "Ramu",
+      "id": "ramu1234",
+      "url": "https://glottolog.org/resource/languoid/id/ramu1234"
+    },
+    {
+      "name": "Lower Ramu",
+      "id": "lowe1439",
+      "url": "https://glottolog.org/resource/languoid/id/lowe1439"
+    },
+    {
+      "name": "Ruboni",
+      "id": "kire1239",
+      "url": "https://glottolog.org/resource/languoid/id/kire1239"
+    },
+    {
+      "name": "Mikarewan",
+      "id": "mika1254",
+      "url": "https://glottolog.org/resource/languoid/id/mika1254"
+    }
+  ],
+  "iso639-3": "msy"
+}

@@ -1,0 +1,122 @@
+{
+  "pk": 22699,
+  "hid": "yih",
+  "father_pk": 20931,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Midwestern Yiddish [midw1242]':1,'Northwestern Yiddish [nort2631]':1,'Southwestern Yiddish [sout2629]':1)'Western Yiddish [west2361][yih]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2990",
+        "label": "Western Yiddish"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6593714",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "33595",
+        "grammar",
+        2005,
+        173,
+        "Jacobs, Neil G. 2005"
+      ],
+      [
+        "319835",
+        "grammar_sketch",
+        1767,
+        93,
+        "Gottfried Selig 1767"
+      ],
+      [
+        "659595",
+        "grammar_sketch",
+        1750,
+        0,
+        "Wilhelm Christian Just Chrysander 1750"
+      ],
+      [
+        "318773",
+        "grammar_sketch",
+        1733,
+        0,
+        "Lütke, J. P. [Philoglottus] 1733"
+      ]
+    ]
+  },
+  "id": "west2361",
+  "name": "Western Yiddish",
+  "description": null,
+  "markup_description": null,
+  "latitude": 51.6889,
+  "longitude": 12.2601,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Germanic",
+      "id": "germ1287",
+      "url": "https://glottolog.org/resource/languoid/id/germ1287"
+    },
+    {
+      "name": "Northwest Germanic",
+      "id": "nort3152",
+      "url": "https://glottolog.org/resource/languoid/id/nort3152"
+    },
+    {
+      "name": "West Germanic",
+      "id": "west2793",
+      "url": "https://glottolog.org/resource/languoid/id/west2793"
+    },
+    {
+      "name": "High German",
+      "id": "high1289",
+      "url": "https://glottolog.org/resource/languoid/id/high1289"
+    },
+    {
+      "name": "Upper German",
+      "id": "high1286",
+      "url": "https://glottolog.org/resource/languoid/id/high1286"
+    },
+    {
+      "name": "Middle-Modern High German",
+      "id": "midd1349",
+      "url": "https://glottolog.org/resource/languoid/id/midd1349"
+    },
+    {
+      "name": "Modern High German",
+      "id": "mode1258",
+      "url": "https://glottolog.org/resource/languoid/id/mode1258"
+    },
+    {
+      "name": "Upper Franconian",
+      "id": "uppe1464",
+      "url": "https://glottolog.org/resource/languoid/id/uppe1464"
+    },
+    {
+      "name": "Greater East Franconian",
+      "id": "grea1301",
+      "url": "https://glottolog.org/resource/languoid/id/grea1301"
+    }
+  ],
+  "iso639-3": "yih"
+}

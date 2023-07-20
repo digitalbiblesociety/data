@@ -1,0 +1,105 @@
+{
+  "pk": 13127,
+  "hid": "cng",
+  "father_pk": 10098,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Cimulin [cimu1238]':1,'Heihu [heih1238]':1,'Jiaochang [jiao1241]':1,'Luhua [luhu1242]':1,'South Songpan [sout3258]':1,('Sanlong [sanl1247]':1,'Weigu [weig1238]':1,'Yadu [yadu1238]':1)'West Maoxian-South Heishui Qiang [west2876]':1)'Northern Qiang [nort2722][cng]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 9,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2405",
+        "label": "Northern Qiang"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56559",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Northern_Qiang_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nort2722",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "31351",
+        "long_grammar",
+        2003,
+        462,
+        "Randy J. LaPolla and Chenglong Huang 2003"
+      ],
+      [
+        "90026",
+        "grammar",
+        1981,
+        110,
+        "Sun, Hongkai 1981"
+      ],
+      [
+        "586663",
+        "wordlist_or_less",
+        1912,
+        12,
+        "Vicomte d'Ollone 1912"
+      ],
+      [
+        "137872",
+        "wordlist_or_less",
+        1853,
+        7,
+        "Brian H. Hodgson 1853"
+      ]
+    ]
+  },
+  "id": "nort2722",
+  "name": "Northern Qiang",
+  "description": null,
+  "markup_description": null,
+  "latitude": 32.2766,
+  "longitude": 103.192,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Burmo-Qiangic",
+      "id": "burm1265",
+      "url": "https://glottolog.org/resource/languoid/id/burm1265"
+    },
+    {
+      "name": "Na-Qiangic",
+      "id": "naqi1236",
+      "url": "https://glottolog.org/resource/languoid/id/naqi1236"
+    },
+    {
+      "name": "Qiangic",
+      "id": "qian1263",
+      "url": "https://glottolog.org/resource/languoid/id/qian1263"
+    },
+    {
+      "name": "Qiang",
+      "id": "qian1264",
+      "url": "https://glottolog.org/resource/languoid/id/qian1264"
+    },
+    {
+      "name": "Upstream-Nu Qiang",
+      "id": "upst1234",
+      "url": "https://glottolog.org/resource/languoid/id/upst1234"
+    }
+  ],
+  "iso639-3": "cng"
+}

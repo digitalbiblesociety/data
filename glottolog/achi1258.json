@@ -1,0 +1,58 @@
+{
+  "pk": 648,
+  "hid": "acc",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Achi''/ Cubulco [achi1258][acc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "acc",
+      "name": "Cubulco Achí",
+      "change_request": "2008-048",
+      "effective": "2009-01-16",
+      "reason": "merge",
+      "change_to": [
+        "acr"
+      ],
+      "remedy": "Merge with Achi [acr]",
+      "comment": "The name is a dialect or dialect group name, and therefore incorrect for a\nlanguage designation. It should be changed to the general language name."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q16110361",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500523",
+        "wordlist_or_less",
+        2008,
+        0,
+        "ISO 639-3 Registration Authority 2008"
+      ]
+    ]
+  },
+  "id": "achi1258",
+  "name": "Achi', Cubulco",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "acc"
+}

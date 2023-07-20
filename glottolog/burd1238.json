@@ -1,0 +1,90 @@
+{
+  "pk": 8500,
+  "hid": "bxn",
+  "father_pk": 6040,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Burduna [burd1238][bxn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/w24",
+        "label": "Burduna"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/4007",
+        "label": "Purduna"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Burduna_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/burd1238",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q4998313",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "1929",
+        "phonology_or_text",
+        2007,
+        96,
+        "Wangka Maya PALC and Burgman, Albert 2007"
+      ],
+      [
+        "393",
+        "wordlist_or_less",
+        1899,
+        0,
+        "Yabaroo (Cameron, Alexander Stewart) 1899"
+      ]
+    ]
+  },
+  "id": "burd1238",
+  "name": "Burduna",
+  "description": null,
+  "markup_description": null,
+  "latitude": -22.9646,
+  "longitude": 114.658,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "South-West Pama-Nyungan",
+      "id": "sout3134",
+      "url": "https://glottolog.org/resource/languoid/id/sout3134"
+    },
+    {
+      "name": "Pilbara",
+      "id": "pilb1234",
+      "url": "https://glottolog.org/resource/languoid/id/pilb1234"
+    },
+    {
+      "name": "Kanyara",
+      "id": "kany1246",
+      "url": "https://glottolog.org/resource/languoid/id/kany1246"
+    },
+    {
+      "name": "Thalanyji-Burduna",
+      "id": "thal1243",
+      "url": "https://glottolog.org/resource/languoid/id/thal1243"
+    }
+  ],
+  "iso639-3": "bxn"
+}

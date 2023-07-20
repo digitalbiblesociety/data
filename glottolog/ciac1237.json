@@ -1,0 +1,91 @@
+{
+  "pk": 19349,
+  "hid": "cia",
+  "father_pk": 17371,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kaesabu [kaes1237]':1,'Masiri [masi1269]':1,'Sampolawa [samp1253]':1,('Burangasi [bura1274]':1,'Holimombo [holi1240]':1,'Kondowa [kond1301]':1,'Nuclear Wabula [nucl1575]':1,'Takimpo [taki1249]':1,'Wali [wali1265]':1)'Wabula [wabu1242]':1)'Cia-Cia [ciac1237][cia]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 10,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q35284",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cia-Cia_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "65543",
+        "grammar_sketch",
+        1991,
+        149,
+        "Abdullah, Mustafa and Sjahruddin Kaseng and Said Mursalin and Kulla Lagousi and Zalili Sailan 1991"
+      ]
+    ]
+  },
+  "id": "ciac1237",
+  "name": "Cia-Cia",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.68289,
+  "longitude": 122.791,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Celebic",
+      "id": "cele1242",
+      "url": "https://glottolog.org/resource/languoid/id/cele1242"
+    },
+    {
+      "name": "Greater Eastern Celebic",
+      "id": "grea1299",
+      "url": "https://glottolog.org/resource/languoid/id/grea1299"
+    },
+    {
+      "name": "Eastern Celebic",
+      "id": "east2488",
+      "url": "https://glottolog.org/resource/languoid/id/east2488"
+    },
+    {
+      "name": "Southeastern Celebic",
+      "id": "sout2928",
+      "url": "https://glottolog.org/resource/languoid/id/sout2928"
+    },
+    {
+      "name": "Muna-Buton",
+      "id": "muna1246",
+      "url": "https://glottolog.org/resource/languoid/id/muna1246"
+    },
+    {
+      "name": "Nuclear Muna-Buton",
+      "id": "nucl1573",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1573"
+    },
+    {
+      "name": "Butonic",
+      "id": "buto1237",
+      "url": "https://glottolog.org/resource/languoid/id/buto1237"
+    }
+  ],
+  "iso639-3": "cia"
+}

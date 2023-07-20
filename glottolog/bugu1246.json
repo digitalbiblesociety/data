@@ -1,0 +1,71 @@
+{
+  "pk": 3168,
+  "hid": "bgg",
+  "father_pk": 1648,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bichom [bich1234]':1,'Dikhyang [dikh1234]':1,'Kaspi [kasp1234]':1,'Namphri [namp1239]':1,'Singchung [sing1271]':1,'Wangho [wang1301]':1)'Bugun [bugu1246][bgg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3903",
+        "label": "Bugun"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3514220",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bugun_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bgn",
+        "label": "Bugun"
+      }
+    ],
+    "meds": [
+      [
+        "32607",
+        "grammar_sketch",
+        1990,
+        107,
+        "Dondrup, Rinchin 1990"
+      ],
+      [
+        "310639",
+        "wordlist_or_less",
+        1976,
+        3,
+        "Simon, I. M. 1976"
+      ]
+    ]
+  },
+  "id": "bugu1246",
+  "name": "Bugun",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.1929556,
+  "longitude": 92.4713002,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kho-Bwa",
+      "id": "khob1235",
+      "url": "https://glottolog.org/resource/languoid/id/khob1235"
+    }
+  ],
+  "iso639-3": "bgg"
+}

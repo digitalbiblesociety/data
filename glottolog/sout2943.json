@@ -1,0 +1,69 @@
+{
+  "pk": 6564,
+  "hid": "omw",
+  "father_pk": 4524,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Aatasaara [aata1238]':1,'Haaviqinra-Oraura [haav1238]':1,'Omwunra-Toqura [omwu1238]':1,'Vaira-Ntosara [vair1238]':1,'Veqaura [veqa1238]':1,'Vinaata-Konkompira [vina1238]':1)'South Tairora [sout2943][omw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q20210553",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "478446",
+        "wordlist_or_less",
+        2015,
+        147,
+        "Alex Vincent 2015"
+      ],
+      [
+        "302221",
+        "wordlist_or_less",
+        1980,
+        42,
+        "Gajdusek, D. Carleton 1980"
+      ]
+    ]
+  },
+  "id": "sout2943",
+  "name": "South Tairora",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.35337,
+  "longitude": 145.883,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Kainantu-Goroka",
+      "id": "kain1273",
+      "url": "https://glottolog.org/resource/languoid/id/kain1273"
+    },
+    {
+      "name": "Kainantu",
+      "id": "kain1274",
+      "url": "https://glottolog.org/resource/languoid/id/kain1274"
+    },
+    {
+      "name": "Tairora",
+      "id": "tair1260",
+      "url": "https://glottolog.org/resource/languoid/id/tair1260"
+    }
+  ],
+  "iso639-3": "omw"
+}

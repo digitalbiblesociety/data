@@ -1,0 +1,74 @@
+{
+  "pk": 709,
+  "hid": "cdg",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Chamari [cham1329][cdg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "cdg",
+      "name": "Chamari",
+      "change_request": "2019-028",
+      "effective": "2020-01-23",
+      "reason": "non-existent",
+      "change_to": [],
+      "remedy": null,
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q5069473",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Chamari_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "598616",
+        "wordlist_or_less",
+        1994,
+        137,
+        "Sharma, M. L. and Bhatia, A. K. 1994"
+      ],
+      [
+        "550641",
+        "wordlist_or_less",
+        1969,
+        28,
+        "Mathur, U. B. 1969"
+      ],
+      [
+        "34777",
+        "wordlist_or_less",
+        1916,
+        21,
+        "R. V. Russell and Hiralal, {} 1916"
+      ]
+    ]
+  },
+  "id": "cham1329",
+  "name": "Chamari",
+  "description": null,
+  "markup_description": null,
+  "latitude": 21.3532,
+  "longitude": 79.6232,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "cdg"
+}

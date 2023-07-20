@@ -1,0 +1,67 @@
+{
+  "pk": 550,
+  "hid": "prb",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Lua'' [luaa1235][prb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "prb",
+      "name": "Lua'",
+      "change_request": "2016-010",
+      "effective": "2017-01-31",
+      "reason": "non-existent",
+      "change_to": [],
+      "remedy": "Retire",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Lua%27",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12953677",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "535669",
+        "wordlist_or_less",
+        2016,
+        0,
+        "ISO 639-3 Registration Authority 2016"
+      ],
+      [
+        "564284",
+        "wordlist_or_less",
+        1980,
+        0,
+        "Charoenma, Narumol 1980"
+      ]
+    ]
+  },
+  "id": "luaa1235",
+  "name": "Lua'",
+  "description": null,
+  "markup_description": null,
+  "latitude": 19.1198,
+  "longitude": 101.217,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "prb"
+}

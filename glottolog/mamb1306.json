@@ -1,0 +1,79 @@
+{
+  "pk": 4587,
+  "hid": "mgm",
+  "father_pk": 2937,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Damata [dama1271]':1,'Lolei [lole1240]':1,'Mambai {East Timor} [mamb1307]':1,'Manua [manu1259]':1)'Mambae [mamb1306][mgm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4648",
+        "label": "Mambae"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35774",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mambai_language_(Timor)",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "587092",
+        "grammar_sketch",
+        2017,
+        297,
+        "Fogaça, Helem Andressa de Oliveira 2017"
+      ],
+      [
+        "325625",
+        "grammar_sketch",
+        1997,
+        115,
+        "I Nengah Sukarnyana 1997"
+      ],
+      [
+        "12850",
+        "wordlist_or_less",
+        1944,
+        3,
+        "Capell, Arthur 1944, 1944, 1944"
+      ]
+    ]
+  },
+  "id": "mamb1306",
+  "name": "Mambae",
+  "description": null,
+  "markup_description": null,
+  "latitude": -9.19552,
+  "longitude": 125.475,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Central Timor",
+      "id": "west2945",
+      "url": "https://glottolog.org/resource/languoid/id/west2945"
+    }
+  ],
+  "iso639-3": "mgm"
+}

@@ -1,0 +1,83 @@
+{
+  "pk": 4393,
+  "hid": "srs",
+  "father_pk": 2661,
+  "family_pk": 238,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Sarsi [sars1236][srs]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1529",
+        "label": "Tsuut'ina"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q20825",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tsuut%CA%BCina_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_src",
+        "label": "Sarcee"
+      }
+    ],
+    "meds": [
+      [
+        "101246",
+        "long_grammar",
+        1984,
+        304,
+        "Eung-Do Cook 1984"
+      ],
+      [
+        "572709",
+        "grammar_sketch",
+        1956,
+        22,
+        "Honigmann, J. J. 1956"
+      ],
+      [
+        "45713",
+        "phonology_or_text",
+        1915,
+        89,
+        "Goddard, Pliny Earle 1915"
+      ]
+    ]
+  },
+  "id": "sars1236",
+  "name": "Sarsi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 50.8822,
+  "longitude": -114.301,
+  "classification": [
+    {
+      "name": "Athabaskan-Eyak-Tlingit",
+      "id": "atha1245",
+      "url": "https://glottolog.org/resource/languoid/id/atha1245"
+    },
+    {
+      "name": "Athabaskan-Eyak",
+      "id": "atha1246",
+      "url": "https://glottolog.org/resource/languoid/id/atha1246"
+    },
+    {
+      "name": "Athabaskan",
+      "id": "atha1247",
+      "url": "https://glottolog.org/resource/languoid/id/atha1247"
+    }
+  ],
+  "iso639-3": "srs"
+}

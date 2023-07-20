@@ -1,0 +1,127 @@
+{
+  "pk": 19438,
+  "hid": "abs",
+  "father_pk": 17456,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ambon Malay [ambo1255]':1,'Dobo Malay [dobo1244]':1,'Melayu Sini [mela1259]':1)'Ambonese Malay [ambo1250][abs]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3124354",
+        "label": null
+      },
+      {
+        "url": "https://apics-online.info/contributions/68",
+        "label": "Ambon Malay"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ambonese_Malay",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/ambo1250",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "108345",
+        "long_grammar",
+        1997,
+        404,
+        "Don van Minde 1997"
+      ],
+      [
+        "27845",
+        "grammar",
+        1989,
+        197,
+        "Tahitu, Egbertus 1989"
+      ],
+      [
+        "116257",
+        "grammar_sketch",
+        1984,
+        118,
+        "Tetelepta, J. and E. Wattimury and C. Pieter and C. C. Seumahu 1984"
+      ],
+      [
+        "570011",
+        "wordlist_or_less",
+        1876,
+        51,
+        "Frederik Sigismund Alexander Clercq 1876"
+      ],
+      [
+        "158330",
+        "wordlist_or_less",
+        1834,
+        2,
+        "William Marsden 1834"
+      ]
+    ]
+  },
+  "id": "ambo1250",
+  "name": "Ambonese Malay",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.71342,
+  "longitude": 128.184,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Malayo-Sumbawan",
+      "id": "mala1536",
+      "url": "https://glottolog.org/resource/languoid/id/mala1536"
+    },
+    {
+      "name": "North and East Malayo-Sumbawan",
+      "id": "nort3170",
+      "url": "https://glottolog.org/resource/languoid/id/nort3170"
+    },
+    {
+      "name": "Malayic",
+      "id": "mala1538",
+      "url": "https://glottolog.org/resource/languoid/id/mala1538"
+    },
+    {
+      "name": "Nuclear Malayic",
+      "id": "nucl1806",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1806"
+    },
+    {
+      "name": "Vehicular Malay",
+      "id": "vehi1234",
+      "url": "https://glottolog.org/resource/languoid/id/vehi1234"
+    },
+    {
+      "name": "Eastern Indonesia Trade Malay",
+      "id": "east2743",
+      "url": "https://glottolog.org/resource/languoid/id/east2743"
+    },
+    {
+      "name": "Ambonic Malay",
+      "id": "ambo1253",
+      "url": "https://glottolog.org/resource/languoid/id/ambo1253"
+    }
+  ],
+  "iso639-3": "abs"
+}

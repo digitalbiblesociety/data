@@ -1,0 +1,67 @@
+{
+  "pk": 2356,
+  "hid": "juc",
+  "father_pk": 1092,
+  "family_pk": 162,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Jurchen [jurc1239][juc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56731",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Jurchen_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_jur",
+        "label": "Jurchen"
+      }
+    ],
+    "meds": [
+      [
+        "321444",
+        "phonology_or_text",
+        1980,
+        378,
+        "Guangping Jin and Qicong Jin 1980"
+      ],
+      [
+        "314334",
+        "phonology_or_text",
+        1896,
+        79,
+        "Wilhelm Grube 1896"
+      ]
+    ]
+  },
+  "id": "jurc1239",
+  "name": "Jurchen",
+  "description": null,
+  "markup_description": null,
+  "latitude": 44.412626,
+  "longitude": 126.866803,
+  "classification": [
+    {
+      "name": "Tungusic",
+      "id": "tung1282",
+      "url": "https://glottolog.org/resource/languoid/id/tung1282"
+    },
+    {
+      "name": "Manchu-Jurchen",
+      "id": "manc1250",
+      "url": "https://glottolog.org/resource/languoid/id/manc1250"
+    }
+  ],
+  "iso639-3": "juc"
+}

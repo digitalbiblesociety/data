@@ -1,0 +1,74 @@
+{
+  "pk": 3214,
+  "hid": "tmf",
+  "father_pk": 1667,
+  "family_pk": 334,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Toba-Enenlhet [toba1268][tmf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2141",
+        "label": "Enenlhet"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3033544",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Toba-Maskoy_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "110825",
+        "grammar_sketch",
+        2003,
+        356,
+        "Unruh, Ernesto and Hannes Kalisch and Manolo Romero 2003"
+      ],
+      [
+        "85972",
+        "wordlist_or_less",
+        1962,
+        32,
+        "Branka J. Susnik 1962"
+      ],
+      [
+        "32090",
+        "wordlist_or_less",
+        1925,
+        18,
+        "Robert Lehmann-Nitsche 1925"
+      ]
+    ]
+  },
+  "id": "toba1268",
+  "name": "Toba-Enenlhet",
+  "description": null,
+  "markup_description": null,
+  "latitude": -21.5474,
+  "longitude": -58.0158,
+  "classification": [
+    {
+      "name": "Lengua-Mascoy",
+      "id": "leng1261",
+      "url": "https://glottolog.org/resource/languoid/id/leng1261"
+    },
+    {
+      "name": "Eastern Enlhet-Enenlhet",
+      "id": "east2852",
+      "url": "https://glottolog.org/resource/languoid/id/east2852"
+    }
+  ],
+  "iso639-3": "tmf"
+}

@@ -1,0 +1,126 @@
+{
+  "pk": 5763,
+  "hid": "thz",
+  "father_pk": 3816,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Air {Berber} [airr1242]':1,'Tanassfarwat [tana1297]':1)'Tayart Tamajeq [taya1257][thz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tai",
+        "label": "Tuareg (Air)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Air_Tamajeq_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56388",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "162258",
+        "grammar",
+        2011,
+        199,
+        "Kossmann, Maarten G. 2011"
+      ],
+      [
+        "30534",
+        "grammar",
+        1974,
+        110,
+        "Prasse, Karl-G. 1974"
+      ],
+      [
+        "666649",
+        "grammar",
+        1973,
+        74,
+        "Prasse, Karl-G. 1973"
+      ],
+      [
+        "113900",
+        "grammar",
+        1952,
+        0,
+        "Barthe, Albert 1952"
+      ],
+      [
+        "18334",
+        "grammar",
+        1908,
+        0,
+        "Motylinski, Adolphe de Calassanti 1908"
+      ],
+      [
+        "129069",
+        "grammar",
+        1896,
+        0,
+        "Masqueray, Émile 1896/97"
+      ],
+      [
+        "118184",
+        "grammar",
+        1858,
+        0,
+        "Reinaud, Joseph Toussaint 1858"
+      ],
+      [
+        "136437",
+        "grammar",
+        1848,
+        0,
+        "Richardson, James 1848"
+      ],
+      [
+        "163647",
+        "wordlist_or_less",
+        1826,
+        4,
+        "[1826] 1826"
+      ]
+    ]
+  },
+  "id": "taya1257",
+  "name": "Tayart Tamajeq",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.9232,
+  "longitude": 7.6743,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Berber",
+      "id": "berb1260",
+      "url": "https://glottolog.org/resource/languoid/id/berb1260"
+    },
+    {
+      "name": "Tuareg",
+      "id": "tuar1240",
+      "url": "https://glottolog.org/resource/languoid/id/tuar1240"
+    },
+    {
+      "name": "Southern Tuareg",
+      "id": "sout3263",
+      "url": "https://glottolog.org/resource/languoid/id/sout3263"
+    }
+  ],
+  "iso639-3": "thz"
+}

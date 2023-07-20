@@ -1,0 +1,92 @@
+{
+  "pk": 15292,
+  "hid": "wwo",
+  "father_pk": 12473,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Dorig [weta1242][wwo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2427",
+        "label": "Dorig"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3037047",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dorig_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "587145",
+        "phonology_or_text",
+        2022,
+        40,
+        "Alexandre François 2022"
+      ],
+      [
+        "52375",
+        "wordlist_or_less",
+        1976,
+        1,
+        "Darrell T. Tryon 1976"
+      ]
+    ]
+  },
+  "id": "weta1242",
+  "name": "Dorig",
+  "description": null,
+  "markup_description": null,
+  "latitude": -14.366666,
+  "longitude": 167.545897,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "North and Central Vanuatu",
+      "id": "nort3195",
+      "url": "https://glottolog.org/resource/languoid/id/nort3195"
+    },
+    {
+      "name": "Northern Vanuatu",
+      "id": "nort3205",
+      "url": "https://glottolog.org/resource/languoid/id/nort3205"
+    },
+    {
+      "name": "Torres-Banks linkage",
+      "id": "torr1262",
+      "url": "https://glottolog.org/resource/languoid/id/torr1262"
+    }
+  ],
+  "iso639-3": "wwo"
+}

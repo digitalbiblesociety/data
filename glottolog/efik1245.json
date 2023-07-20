@@ -1,0 +1,138 @@
+{
+  "pk": 15633,
+  "hid": "efi",
+  "father_pk": 12894,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Efik [efik1245][efi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_efi",
+        "label": "Efik"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Efik_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/efik1245",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35377",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "45115",
+        "long_grammar",
+        1974,
+        327,
+        "Essien, Okon Etim Akpan 1974"
+      ],
+      [
+        "141793",
+        "grammar",
+        1965,
+        0,
+        "Evans-Pritchard, Edward Evan 1965"
+      ],
+      [
+        "49561",
+        "grammar",
+        1954,
+        0,
+        "Coker, Increase H. E. 1954"
+      ],
+      [
+        "40995",
+        "grammar",
+        1874,
+        0,
+        "Goldie, Hugh 1874"
+      ],
+      [
+        "73472",
+        "grammar",
+        1868,
+        0,
+        "Goldie, Hugh 1868"
+      ],
+      [
+        "72892",
+        "grammar",
+        1866,
+        0,
+        "Robb, A. 1866"
+      ],
+      [
+        "69462",
+        "grammar",
+        1857,
+        0,
+        "Goldie, Hugh 1857"
+      ],
+      [
+        "43877",
+        "wordlist_or_less",
+        1789,
+        49,
+        "Fodor, István 1975 [1789]"
+      ]
+    ]
+  },
+  "id": "efik1245",
+  "name": "Efik",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.89379,
+  "longitude": 8.38121,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Delta Cross",
+      "id": "delt1251",
+      "url": "https://glottolog.org/resource/languoid/id/delt1251"
+    },
+    {
+      "name": "Lower Cross",
+      "id": "obol1242",
+      "url": "https://glottolog.org/resource/languoid/id/obol1242"
+    },
+    {
+      "name": "Central Lower Cross",
+      "id": "cent2253",
+      "url": "https://glottolog.org/resource/languoid/id/cent2253"
+    },
+    {
+      "name": "Efik-Ibibio",
+      "id": "efik1244",
+      "url": "https://glottolog.org/resource/languoid/id/efik1244"
+    }
+  ],
+  "iso639-3": "efi"
+}

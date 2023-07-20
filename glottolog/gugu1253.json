@@ -1,0 +1,87 @@
+{
+  "pk": 11457,
+  "hid": "gdc",
+  "father_pk": 8488,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Gugu Badhun [gugu1253][gdc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4199",
+        "label": "Gugu-Badhun"
+      },
+      {
+        "url": "https://phoible.org/languages/gugu1253",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q10510360",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "38175",
+        "grammar_sketch",
+        1973,
+        273,
+        "Sutton, Peter John 1973"
+      ],
+      [
+        "48247",
+        "wordlist_or_less",
+        1886,
+        4,
+        "Atherton, John 1886"
+      ]
+    ]
+  },
+  "id": "gugu1253",
+  "name": "Gugu Badhun",
+  "description": null,
+  "markup_description": null,
+  "latitude": -18.4921,
+  "longitude": 144.46,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Greater Maric",
+      "id": "grea1282",
+      "url": "https://glottolog.org/resource/languoid/id/grea1282"
+    },
+    {
+      "name": "Guwa-Maric",
+      "id": "guwa1245",
+      "url": "https://glottolog.org/resource/languoid/id/guwa1245"
+    },
+    {
+      "name": "Maric",
+      "id": "mari1445",
+      "url": "https://glottolog.org/resource/languoid/id/mari1445"
+    },
+    {
+      "name": "Northern Maric",
+      "id": "nort2757",
+      "url": "https://glottolog.org/resource/languoid/id/nort2757"
+    },
+    {
+      "name": "Warungu-Gugu Badhun",
+      "id": "waru1263",
+      "url": "https://glottolog.org/resource/languoid/id/waru1263"
+    }
+  ],
+  "iso639-3": "gdc"
+}

@@ -1,0 +1,92 @@
+{
+  "pk": 15002,
+  "hid": "lew",
+  "father_pk": 12120,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ado [adoo1237]':1,'Doi {Indonesia} [doii1242]':1,'Edo [edoo1240]':1,'Ija [ijaa1237]':1,'Ledo [ledo1237]':1,'Rai {Ledo Kaili} [raii1238]':1,'Raio [raio1237]':1,'Taa {Indonesia} [taaa1243]':1,'Tado {Ledo Kaili} [tado1247]':1,'Tara [tara1318]':1)'Ledo Kaili [ledo1238][lew]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 10,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q35877",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ledo_Kaili_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kli",
+        "label": "Kaili"
+      }
+    ],
+    "meds": [
+      [
+        "310765",
+        "grammar_sketch",
+        1979,
+        166,
+        "Sikki, Muhammad and Sofyan and Inghuong and Kaseng, {} 1979"
+      ],
+      [
+        "154083",
+        "grammar_sketch",
+        1934,
+        96,
+        "S. J. Esser 1934"
+      ]
+    ]
+  },
+  "id": "ledo1238",
+  "name": "Ledo Kaili",
+  "description": null,
+  "markup_description": null,
+  "latitude": -1.03033,
+  "longitude": 120.132,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Celebic",
+      "id": "cele1242",
+      "url": "https://glottolog.org/resource/languoid/id/cele1242"
+    },
+    {
+      "name": "Kaili-Wolio",
+      "id": "kail1255",
+      "url": "https://glottolog.org/resource/languoid/id/kail1255"
+    },
+    {
+      "name": "Northern Kaili-Wolio",
+      "id": "nort2898",
+      "url": "https://glottolog.org/resource/languoid/id/nort2898"
+    },
+    {
+      "name": "Greater Kaili",
+      "id": "kail1254",
+      "url": "https://glottolog.org/resource/languoid/id/kail1254"
+    },
+    {
+      "name": "Common Kaili",
+      "id": "comm1248",
+      "url": "https://glottolog.org/resource/languoid/id/comm1248"
+    }
+  ],
+  "iso639-3": "lew"
+}

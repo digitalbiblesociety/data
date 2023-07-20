@@ -1,0 +1,109 @@
+{
+  "pk": 16111,
+  "hid": "sch",
+  "father_pk": 13307,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Chorei [chor1278]':1,'Sakachep [sake1246]':1)'Sakachep-Chorei [saka1283][sch]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q37054",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sakachep_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "658215",
+        "phonology_or_text",
+        2021,
+        35,
+        "Pushpa Renu Bhattacharyya and Barshapriya Dutta 2021"
+      ],
+      [
+        "587436",
+        "phonology_or_text",
+        2018,
+        6,
+        "Pauthang Haokip 2018"
+      ],
+      [
+        "556738",
+        "wordlist_or_less",
+        1932,
+        11,
+        "Mullan, C. S. 1932"
+      ],
+      [
+        "118757",
+        "wordlist_or_less",
+        1904,
+        5,
+        "George A. Grierson 1904"
+      ],
+      [
+        "132693",
+        "wordlist_or_less",
+        1880,
+        1,
+        "G. H. Damant 1880"
+      ]
+    ]
+  },
+  "id": "saka1283",
+  "name": "Sakachep-Chorei",
+  "description": null,
+  "markup_description": null,
+  "latitude": 25.994,
+  "longitude": 93.949,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Kuki-Chin",
+      "id": "kuki1246",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1246"
+    },
+    {
+      "name": "Central Kuki-Chin",
+      "id": "cent2330",
+      "url": "https://glottolog.org/resource/languoid/id/cent2330"
+    },
+    {
+      "name": "Core Central Kuki-Chin",
+      "id": "cent2005",
+      "url": "https://glottolog.org/resource/languoid/id/cent2005"
+    },
+    {
+      "name": "Mizoic",
+      "id": "mizo1244",
+      "url": "https://glottolog.org/resource/languoid/id/mizo1244"
+    },
+    {
+      "name": "Hmaric",
+      "id": "hmar1240",
+      "url": "https://glottolog.org/resource/languoid/id/hmar1240"
+    }
+  ],
+  "iso639-3": "sch"
+}

@@ -1,0 +1,87 @@
+{
+  "pk": 1717,
+  "hid": "bcq",
+  "father_pk": 342,
+  "family_pk": 342,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Mer {Bench} [merr1238]':1,'Nuclear Bench [nucl1433]':1,'She {Ethiopia} [shee1239]':1)'Bench [benc1235][bcq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q35108",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bench_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/benc1235",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_gim",
+        "label": "Gimira"
+      }
+    ],
+    "meds": [
+      [
+        "115823",
+        "long_grammar",
+        2006,
+        654,
+        "Rapold, Christian 2006"
+      ],
+      [
+        "137234",
+        "grammar_sketch",
+        1990,
+        67,
+        "Breeze, Mary J. 1990"
+      ],
+      [
+        "65403",
+        "phonology_or_text",
+        1983,
+        28,
+        "Klaus Wedekind 1983"
+      ],
+      [
+        "95060",
+        "wordlist_or_less",
+        1913,
+        212,
+        "Montandon, G. 1913"
+      ],
+      [
+        "585623",
+        "wordlist_or_less",
+        1845,
+        5,
+        "d'Abbadie, Antoine 1845"
+      ]
+    ]
+  },
+  "id": "benc1235",
+  "name": "Bench",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.04682,
+  "longitude": 35.7673,
+  "classification": [
+    {
+      "name": "Ta-Ne-Omotic",
+      "id": "gong1255",
+      "url": "https://glottolog.org/resource/languoid/id/gong1255"
+    }
+  ],
+  "iso639-3": "bcq"
+}

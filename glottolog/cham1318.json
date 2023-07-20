@@ -1,0 +1,102 @@
+{
+  "pk": 6263,
+  "hid": "ccc",
+  "father_pk": 4225,
+  "family_pk": 177,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Chamicuro [cham1318][ccc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2178",
+        "label": "Chamicuro"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Chamicuro_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/cham1318",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2155119",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "112601",
+        "phonology_or_text",
+        1994,
+        105,
+        "Parker, Stephen G. 1994"
+      ],
+      [
+        "477448",
+        "phonology_or_text",
+        1991,
+        218,
+        "Parker, Stephen G. 1991"
+      ],
+      [
+        "158688",
+        "phonology_or_text",
+        1988,
+        120,
+        "Parker, Stephen George 1988"
+      ],
+      [
+        "70846",
+        "phonology_or_text",
+        1987,
+        71,
+        "Orbe C., Gregorio and Parker, Stephen G. and Patow Ch., Alfonso 1987"
+      ],
+      [
+        "34227",
+        "wordlist_or_less",
+        1930,
+        6,
+        "Günter Tessmann 1930"
+      ]
+    ]
+  },
+  "id": "cham1318",
+  "name": "Chamicuro",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.1149,
+  "longitude": -75.6778,
+  "classification": [
+    {
+      "name": "Arawakan",
+      "id": "araw1281",
+      "url": "https://glottolog.org/resource/languoid/id/araw1281"
+    },
+    {
+      "name": "Southern Maipuran",
+      "id": "sout3131",
+      "url": "https://glottolog.org/resource/languoid/id/sout3131"
+    },
+    {
+      "name": "Purus-Chamicuro",
+      "id": "puru1269",
+      "url": "https://glottolog.org/resource/languoid/id/puru1269"
+    },
+    {
+      "name": "Chamicuro-Morike",
+      "id": "cham1317",
+      "url": "https://glottolog.org/resource/languoid/id/cham1317"
+    }
+  ],
+  "iso639-3": "ccc"
+}

@@ -1,0 +1,128 @@
+{
+  "pk": 21090,
+  "hid": "emk",
+  "father_pk": 19150,
+  "family_pk": 121,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Amana [aman1263]':1,'Bö [booo1256]':1,'Koulounkalan [koul1238]':1,'Wasulu [wasu1254]':1)'Eastern Maninkakan [east2426][emk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mnk",
+        "label": "Maninka"
+      },
+      {
+        "url": "https://phoible.org/languages/east2426",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q11002130",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "149872",
+        "long_grammar",
+        1992,
+        310,
+        "Friedländer, Marianne 1992"
+      ],
+      [
+        "14373",
+        "grammar",
+        1929,
+        225,
+        "Delafosse, Maurice 1929"
+      ],
+      [
+        "44402",
+        "grammar_sketch",
+        1906,
+        115,
+        "Abiven, Olivier 1906"
+      ],
+      [
+        "34437",
+        "grammar_sketch",
+        1897,
+        83,
+        "Abiven, Olivier 1897"
+      ],
+      [
+        "66179",
+        "wordlist_or_less",
+        1854,
+        1,
+        "Koelle, Sigismund W. 1854"
+      ]
+    ]
+  },
+  "id": "east2426",
+  "name": "Eastern Maninkakan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.33048,
+  "longitude": -10.5394,
+  "classification": [
+    {
+      "name": "Mande",
+      "id": "mand1469",
+      "url": "https://glottolog.org/resource/languoid/id/mand1469"
+    },
+    {
+      "name": "Western Mande",
+      "id": "west2780",
+      "url": "https://glottolog.org/resource/languoid/id/west2780"
+    },
+    {
+      "name": "Manding-Kpelle",
+      "id": "mand1431",
+      "url": "https://glottolog.org/resource/languoid/id/mand1431"
+    },
+    {
+      "name": "Central Mande",
+      "id": "cent2047",
+      "url": "https://glottolog.org/resource/languoid/id/cent2047"
+    },
+    {
+      "name": "Manding-Jogo",
+      "id": "mand1432",
+      "url": "https://glottolog.org/resource/languoid/id/mand1432"
+    },
+    {
+      "name": "Manding-Vai",
+      "id": "mand1433",
+      "url": "https://glottolog.org/resource/languoid/id/mand1433"
+    },
+    {
+      "name": "Manding-Mokole",
+      "id": "mand1434",
+      "url": "https://glottolog.org/resource/languoid/id/mand1434"
+    },
+    {
+      "name": "Manding",
+      "id": "mand1435",
+      "url": "https://glottolog.org/resource/languoid/id/mand1435"
+    },
+    {
+      "name": "East Manding",
+      "id": "east2425",
+      "url": "https://glottolog.org/resource/languoid/id/east2425"
+    },
+    {
+      "name": "Manenkan",
+      "id": "mane1267",
+      "url": "https://glottolog.org/resource/languoid/id/mane1267"
+    }
+  ],
+  "iso639-3": "emk"
+}

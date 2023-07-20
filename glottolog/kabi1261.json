@@ -1,0 +1,153 @@
+{
+  "pk": 21641,
+  "hid": "kbp",
+  "father_pk": 19871,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Boufale [bouf1238]':1,'Kewe [kewe1235]':1,'Kijang [kija1238]':1,'Lama-Tissi [lama1274]':1)'Kabiyé [kabi1261][kbp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kby",
+        "label": "Kabiyé"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kabiye_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kabi1261",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35475",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "120541",
+        "long_grammar",
+        1999,
+        559,
+        "Lébikaza, Kézié Koyenzi 1999"
+      ],
+      [
+        "124296",
+        "long_grammar",
+        1976,
+        496,
+        "Delord, Jacques 1976"
+      ],
+      [
+        "81530",
+        "grammar",
+        1970,
+        0,
+        "Delord, Jacques 1970"
+      ],
+      [
+        "147886",
+        "grammar_sketch",
+        1963,
+        59,
+        "Delord, Jacques 1963"
+      ],
+      [
+        "33098",
+        "grammar_sketch",
+        1959,
+        11,
+        "Cornevin, Robert 1959"
+      ],
+      [
+        "59641",
+        "grammar_sketch",
+        1937,
+        0,
+        "Brungard, [Révérend] [Père] Antoine 1937"
+      ],
+      [
+        "96926",
+        "wordlist_or_less",
+        1911,
+        1,
+        "Delafosse, Maurice 1911"
+      ],
+      [
+        "160396",
+        "wordlist_or_less",
+        1898,
+        4,
+        "Zech auf Neuhofen, Julius von 1898"
+      ]
+    ]
+  },
+  "id": "kabi1261",
+  "name": "Kabiyé",
+  "description": null,
+  "markup_description": null,
+  "latitude": 8.96816,
+  "longitude": 0.495023,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "North Volta-Congo",
+      "id": "nort3149",
+      "url": "https://glottolog.org/resource/languoid/id/nort3149"
+    },
+    {
+      "name": "Gur",
+      "id": "gura1261",
+      "url": "https://glottolog.org/resource/languoid/id/gura1261"
+    },
+    {
+      "name": "Central Gur",
+      "id": "cent2243",
+      "url": "https://glottolog.org/resource/languoid/id/cent2243"
+    },
+    {
+      "name": "Southern Central Gur",
+      "id": "sout3164",
+      "url": "https://glottolog.org/resource/languoid/id/sout3164"
+    },
+    {
+      "name": "Grusi",
+      "id": "grus1239",
+      "url": "https://glottolog.org/resource/languoid/id/grus1239"
+    },
+    {
+      "name": "East-West Grusi",
+      "id": "east2740",
+      "url": "https://glottolog.org/resource/languoid/id/east2740"
+    },
+    {
+      "name": "Eastern Grusi",
+      "id": "east2397",
+      "url": "https://glottolog.org/resource/languoid/id/east2397"
+    },
+    {
+      "name": "Kabiyeic",
+      "id": "kabi1265",
+      "url": "https://glottolog.org/resource/languoid/id/kabi1265"
+    }
+  ],
+  "iso639-3": "kbp"
+}

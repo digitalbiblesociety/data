@@ -1,0 +1,70 @@
+{
+  "pk": 3141,
+  "hid": "lia",
+  "father_pk": 1600,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central [cent2017]':1,'Western Limba [west2451]':1)'West-Central Limba [west2450][lia]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://phoible.org/languages/west2450",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q32867815",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "22704",
+        "phonology_or_text",
+        1962,
+        18,
+        "Mukarovsky, Hans Guenter 1962/1963"
+      ],
+      [
+        "115080",
+        "wordlist_or_less",
+        1916,
+        2,
+        "Thomas, Northcote Whitridge 1916"
+      ],
+      [
+        "66179",
+        "wordlist_or_less",
+        1854,
+        1,
+        "Koelle, Sigismund W. 1854"
+      ]
+    ]
+  },
+  "id": "west2450",
+  "name": "West-Central Limba",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.52392,
+  "longitude": -12.3138,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Limba",
+      "id": "limb1267",
+      "url": "https://glottolog.org/resource/languoid/id/limb1267"
+    }
+  ],
+  "iso639-3": "lia"
+}

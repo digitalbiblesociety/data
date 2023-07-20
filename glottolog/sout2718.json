@@ -1,0 +1,58 @@
+{
+  "pk": 525,
+  "hid": "tsf",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Southwestern Tamang [sout2718][tsf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "tsf",
+      "name": "Southwestern Tamang",
+      "change_request": "2014-035",
+      "effective": "2015-01-12",
+      "reason": "merge",
+      "change_to": [
+        "taj"
+      ],
+      "remedy": "merged into Eastern Tamang [taj]",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12953176",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500957",
+        "wordlist_or_less",
+        2014,
+        0,
+        "ISO 639-3 Registration Authority 2014"
+      ]
+    ]
+  },
+  "id": "sout2718",
+  "name": "Southwestern Tamang",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.5722,
+  "longitude": 84.9036,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "tsf"
+}

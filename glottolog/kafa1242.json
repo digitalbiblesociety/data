@@ -1,0 +1,97 @@
+{
+  "pk": 5086,
+  "hid": "kbr",
+  "father_pk": 3276,
+  "family_pk": 342,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bosha [bosh1241]':1,'Nuclear Kafa [nucl1434]':1)'Kafa [kafa1242][kbr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kef",
+        "label": "Kefa"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kafa_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kafa1242",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35481",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "158465",
+        "long_grammar",
+        1951,
+        561,
+        "Cerulli, Enrico 1951"
+      ],
+      [
+        "41303",
+        "grammar",
+        1888,
+        227,
+        "Reinisch, Leo 1888"
+      ],
+      [
+        "82217",
+        "grammar_sketch",
+        1887,
+        54,
+        "Cecchi, A. 1887"
+      ],
+      [
+        "576557",
+        "wordlist_or_less",
+        1843,
+        17,
+        "Ritter, Carl 1843"
+      ],
+      [
+        "320653",
+        "wordlist_or_less",
+        1842,
+        2,
+        "d'Abbadie, Antoine [Thompson] 1842"
+      ]
+    ]
+  },
+  "id": "kafa1242",
+  "name": "Kafa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.34022,
+  "longitude": 36.1718,
+  "classification": [
+    {
+      "name": "Ta-Ne-Omotic",
+      "id": "gong1255",
+      "url": "https://glottolog.org/resource/languoid/id/gong1255"
+    },
+    {
+      "name": "Kefoid",
+      "id": "gong1256",
+      "url": "https://glottolog.org/resource/languoid/id/gong1256"
+    },
+    {
+      "name": "South Gonga",
+      "id": "sout2835",
+      "url": "https://glottolog.org/resource/languoid/id/sout2835"
+    }
+  ],
+  "iso639-3": "kbr"
+}

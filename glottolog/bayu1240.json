@@ -1,0 +1,99 @@
+{
+  "pk": 6041,
+  "hid": "bxj",
+  "father_pk": 4045,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Bayungu [bayu1240][bxj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/w23",
+        "label": "Bayungu"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bxj",
+        "label": "Bayungu"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/4003",
+        "label": "Payungu"
+      },
+      {
+        "url": "https://phoible.org/languages/bayu1240",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q10427485",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "3387",
+        "grammar_sketch",
+        2008,
+        107,
+        "Wangka Maya Pilbara Aboriginal Language Centre and Deak, Eleonora 2008"
+      ],
+      [
+        "5286",
+        "phonology_or_text",
+        1992,
+        119,
+        "Austin, Peter K. 1992"
+      ],
+      [
+        "3226",
+        "phonology_or_text",
+        1987,
+        0,
+        "Austin, Peter K. 1987"
+      ],
+      [
+        "755",
+        "wordlist_or_less",
+        1981,
+        3,
+        "Austin, Peter K. 1981"
+      ]
+    ]
+  },
+  "id": "bayu1240",
+  "name": "Bayungu",
+  "description": null,
+  "markup_description": null,
+  "latitude": -23.3809,
+  "longitude": 114.108,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "South-West Pama-Nyungan",
+      "id": "sout3134",
+      "url": "https://glottolog.org/resource/languoid/id/sout3134"
+    },
+    {
+      "name": "Pilbara",
+      "id": "pilb1234",
+      "url": "https://glottolog.org/resource/languoid/id/pilb1234"
+    },
+    {
+      "name": "Kanyara",
+      "id": "kany1246",
+      "url": "https://glottolog.org/resource/languoid/id/kany1246"
+    }
+  ],
+  "iso639-3": "bxj"
+}

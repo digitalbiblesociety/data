@@ -1,0 +1,97 @@
+{
+  "pk": 3694,
+  "hid": "acz",
+  "father_pk": 2017,
+  "family_pk": 59,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Eastern Acheron [east2430]':1,'Western Acheron [west2504]':1)'Acheron [ache1245][acz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3591",
+        "label": "Acheron"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q34769",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Acheron_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/ache1245",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "318436",
+        "grammar_sketch",
+        2012,
+        104,
+        "Alamin, Suzan 2012"
+      ],
+      [
+        "143546",
+        "grammar_sketch",
+        2003,
+        96,
+        "Alamin, Suzan 2003"
+      ],
+      [
+        "31984",
+        "phonology_or_text",
+        2000,
+        34,
+        "Norton, Russell J. 2000"
+      ],
+      [
+        "86556",
+        "phonology_or_text",
+        1995,
+        0,
+        "Norton, Russell J. 1995"
+      ],
+      [
+        "576940",
+        "wordlist_or_less",
+        1981,
+        7,
+        "Schadeberg, Thilo C. 1981"
+      ]
+    ]
+  },
+  "id": "ache1245",
+  "name": "Acheron",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.8827,
+  "longitude": 30.3187,
+  "classification": [
+    {
+      "name": "Narrow Talodi",
+      "id": "narr1279",
+      "url": "https://glottolog.org/resource/languoid/id/narr1279"
+    },
+    {
+      "name": "Buram-Saraf",
+      "id": "bura1298",
+      "url": "https://glottolog.org/resource/languoid/id/bura1298"
+    },
+    {
+      "name": "Acheron-Tocho",
+      "id": "ache1247",
+      "url": "https://glottolog.org/resource/languoid/id/ache1247"
+    }
+  ],
+  "iso639-3": "acz"
+}

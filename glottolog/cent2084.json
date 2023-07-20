@@ -1,0 +1,112 @@
+{
+  "pk": 12383,
+  "hid": "agt",
+  "father_pk": 9435,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Central Cagayan Agta [cent2084][agt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2830",
+        "label": "Central Cagayan Agta"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5017296",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Central_Cagayan_Agta_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_agc",
+        "label": "Agta (Central)"
+      }
+    ],
+    "meds": [
+      [
+        "138026",
+        "grammar_sketch",
+        1960,
+        109,
+        "Phyllis M. Healey 1960"
+      ],
+      [
+        "100817",
+        "phonology_or_text",
+        1955,
+        89,
+        "Oates, Lynette F. and Oates, William J. 1955"
+      ],
+      [
+        "112982",
+        "wordlist_or_less",
+        1937,
+        5,
+        "Vanoverbergh, Morice 1937"
+      ],
+      [
+        "306973",
+        "wordlist_or_less",
+        1892,
+        2,
+        "Blumentritt, F. 1892"
+      ],
+      [
+        "569187",
+        "wordlist_or_less",
+        1884,
+        0,
+        "Blumentritt, F. 1884"
+      ]
+    ]
+  },
+  "id": "cent2084",
+  "name": "Central Cagayan Agta",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.9571,
+  "longitude": 121.857,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Northern Luzon",
+      "id": "nort3238",
+      "url": "https://glottolog.org/resource/languoid/id/nort3238"
+    },
+    {
+      "name": "Cagayan Valley",
+      "id": "caga1241",
+      "url": "https://glottolog.org/resource/languoid/id/caga1241"
+    },
+    {
+      "name": "Ibanagic",
+      "id": "iban1268",
+      "url": "https://glottolog.org/resource/languoid/id/iban1268"
+    },
+    {
+      "name": "Gaddangic",
+      "id": "gadd1245",
+      "url": "https://glottolog.org/resource/languoid/id/gadd1245"
+    }
+  ],
+  "iso639-3": "agt"
+}

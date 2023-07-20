@@ -1,0 +1,80 @@
+{
+  "pk": 5668,
+  "hid": "kyf",
+  "father_pk": 3733,
+  "family_pk": 83,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kouya [kouy1238][kyf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Kuya_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35595",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "477818",
+        "grammar",
+        2009,
+        0,
+        "Saunders, Philip Alexander 2009"
+      ],
+      [
+        "120666",
+        "phonology_or_text",
+        1996,
+        84,
+        "Saunders, Philip and Arthur Eddie 1996"
+      ],
+      [
+        "9573",
+        "wordlist_or_less",
+        1971,
+        1,
+        "Frick, E. and Bolli, M. 1971"
+      ]
+    ]
+  },
+  "id": "kouy1238",
+  "name": "Kouya",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.27375,
+  "longitude": -6.5685,
+  "classification": [
+    {
+      "name": "Kru",
+      "id": "krua1234",
+      "url": "https://glottolog.org/resource/languoid/id/krua1234"
+    },
+    {
+      "name": "Eastern Kru",
+      "id": "east2415",
+      "url": "https://glottolog.org/resource/languoid/id/east2415"
+    },
+    {
+      "name": "Beteic",
+      "id": "bete1265",
+      "url": "https://glottolog.org/resource/languoid/id/bete1265"
+    },
+    {
+      "name": "Eastern Bete",
+      "id": "east2416",
+      "url": "https://glottolog.org/resource/languoid/id/east2416"
+    }
+  ],
+  "iso639-3": "kyf"
+}

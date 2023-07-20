@@ -1,0 +1,88 @@
+{
+  "pk": 6081,
+  "hid": "yil",
+  "father_pk": 4085,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Yindjilandji [yind1248][yil]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3192",
+        "label": "Yindjilandji"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/g14",
+        "label": "Indjilandji"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yindjilandji",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q10723541",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "309626",
+        "wordlist_or_less",
+        1971,
+        1,
+        "Breen, J. Gavan 1971"
+      ],
+      [
+        "584391",
+        "wordlist_or_less",
+        1905,
+        3,
+        "Mathews, Robert Hamilton 1905"
+      ],
+      [
+        "105535",
+        "wordlist_or_less",
+        1897,
+        0,
+        "Roth, Walter Edmund 1897"
+      ]
+    ]
+  },
+  "id": "yind1248",
+  "name": "Yindjilandji",
+  "description": null,
+  "markup_description": null,
+  "latitude": -19.24252,
+  "longitude": 137.5894,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Ngarna",
+      "id": "ngar1290",
+      "url": "https://glottolog.org/resource/languoid/id/ngar1290"
+    },
+    {
+      "name": "Southern Ngarna",
+      "id": "sout2766",
+      "url": "https://glottolog.org/resource/languoid/id/sout2766"
+    },
+    {
+      "name": "Ngarru",
+      "id": "ngar1291",
+      "url": "https://glottolog.org/resource/languoid/id/ngar1291"
+    }
+  ],
+  "iso639-3": "yil"
+}

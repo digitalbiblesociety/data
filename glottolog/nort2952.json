@@ -1,0 +1,77 @@
+{
+  "pk": 1179,
+  "hid": "nmu",
+  "father_pk": 195,
+  "family_pk": 195,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Northeast Maidu [nort2952][nmu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4884",
+        "label": "Maidu"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3278074",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Maidu_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nort2952",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mne",
+        "label": "Maidu (Northeast)"
+      }
+    ],
+    "meds": [
+      [
+        "138560",
+        "grammar",
+        1964,
+        104,
+        "Shipley, William F. 1964"
+      ],
+      [
+        "97804",
+        "grammar",
+        1960,
+        92,
+        "Shipley, William F. 1960"
+      ],
+      [
+        "160482",
+        "grammar_sketch",
+        1900,
+        72,
+        "Dixon, Roland Burrage 1900"
+      ]
+    ]
+  },
+  "id": "nort2952",
+  "name": "Northeast Maidu",
+  "description": null,
+  "markup_description": null,
+  "latitude": 40.4102,
+  "longitude": -120.645,
+  "classification": [
+    {
+      "name": "Maiduan",
+      "id": "maid1262",
+      "url": "https://glottolog.org/resource/languoid/id/maid1262"
+    }
+  ],
+  "iso639-3": "nmu"
+}

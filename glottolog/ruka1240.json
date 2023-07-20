@@ -1,0 +1,87 @@
+{
+  "pk": 1532,
+  "hid": "dru",
+  "father_pk": 289,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Budai [buda1252]':1,'Labuan [labu1252]':1,'Maga [maga1265]':1,'Mantauran [mant1271]':1,'Tanan [tana1287]':1,'Tona [tona1238]':1)'Rukai [ruka1240][dru]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q49232",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Rukai_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/ruka1240",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ruk",
+        "label": "Rukai (Tanan)"
+      }
+    ],
+    "meds": [
+      [
+        "82330",
+        "long_grammar",
+        2007,
+        569,
+        "Zeitoun, Elizabeth 2007"
+      ],
+      [
+        "306110",
+        "long_grammar",
+        2005,
+        569,
+        "Zeitoun, Elizabeth 2005"
+      ],
+      [
+        "300700",
+        "long_grammar",
+        1978,
+        492,
+        "Shelley, III, George L. 1978"
+      ],
+      [
+        "39813",
+        "long_grammar",
+        1973,
+        316,
+        "Paul Jen-Kuei Li 1973"
+      ],
+      [
+        "29621",
+        "wordlist_or_less",
+        1910,
+        1,
+        "W. Müller 1910"
+      ]
+    ]
+  },
+  "id": "ruka1240",
+  "name": "Rukai",
+  "description": null,
+  "markup_description": null,
+  "latitude": 22.7738,
+  "longitude": 120.844,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    }
+  ],
+  "iso639-3": "dru"
+}

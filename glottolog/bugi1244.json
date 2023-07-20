@@ -1,0 +1,107 @@
+{
+  "pk": 9362,
+  "hid": "bug",
+  "father_pk": 6797,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Barru [barr1249]':1,'Bone [bone1252]':1,'Camba [camb1243]':1,'Luwu [luwu1237]':1,'Pangkep [pang1292]':1,'Pasangkayu [pasa1242]':1,'Sawitto [sawi1255]':1,'Sidrap [sidr1237]':1,'Sinjai [sinj1241]':1,'Soppeng [sopp1246]':1,'Wajo [wajo1237]':1)'Buginese [bugi1244][bug]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 11,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bug",
+        "label": "Bugis"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Buginese_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/bugi1244",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33190",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "12435",
+        "long_grammar",
+        2003,
+        332,
+        "Hanson, Christopher John 2003"
+      ],
+      [
+        "306550",
+        "long_grammar",
+        1875,
+        321,
+        "Matthes, Benjamin F. 1875"
+      ],
+      [
+        "574771",
+        "phonology_or_text",
+        1874,
+        1188,
+        "Matthes, Benjamin F. 1874"
+      ],
+      [
+        "577913",
+        "phonology_or_text",
+        1833,
+        35,
+        "Claudius Henry Thomsen 1833"
+      ],
+      [
+        "31869",
+        "wordlist_or_less",
+        1820,
+        59,
+        "John Crawfurd 1820"
+      ]
+    ]
+  },
+  "id": "bugi1244",
+  "name": "Buginese",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.47,
+  "longitude": 119.977,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "South Sulawesi",
+      "id": "sout2923",
+      "url": "https://glottolog.org/resource/languoid/id/sout2923"
+    },
+    {
+      "name": "Tamanic-Bugis",
+      "id": "bugi1243",
+      "url": "https://glottolog.org/resource/languoid/id/bugi1243"
+    },
+    {
+      "name": "Bugis",
+      "id": "bugi1245",
+      "url": "https://glottolog.org/resource/languoid/id/bugi1245"
+    }
+  ],
+  "iso639-3": "bug"
+}

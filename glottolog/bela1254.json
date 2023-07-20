@@ -1,0 +1,82 @@
+{
+  "pk": 7999,
+  "hid": "bel",
+  "father_pk": 5614,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Belarusan [cent1954]':1,'Northeast Belarusan [nort2598]':1,'Southwest Belarusan [sout2603]':1)'Belarusian [bela1254][bel]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_blr",
+        "label": "Belorussian"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Belarusian_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q9091",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "318877",
+        "long_grammar",
+        1962,
+        1299,
+        "Atraxovič, K. K. 1962"
+      ],
+      [
+        "323644",
+        "phonology_or_text",
+        1870,
+        795,
+        "I. I. Nosovič 1870"
+      ]
+    ]
+  },
+  "id": "bela1254",
+  "name": "Belarusian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 53.2307,
+  "longitude": 25.6038,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Balto-Slavic",
+      "id": "balt1263",
+      "url": "https://glottolog.org/resource/languoid/id/balt1263"
+    },
+    {
+      "name": "Slavic",
+      "id": "slav1255",
+      "url": "https://glottolog.org/resource/languoid/id/slav1255"
+    },
+    {
+      "name": "East Slavic",
+      "id": "east1426",
+      "url": "https://glottolog.org/resource/languoid/id/east1426"
+    }
+  ],
+  "iso639-3": "bel"
+}

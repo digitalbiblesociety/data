@@ -1,0 +1,89 @@
+{
+  "pk": 6059,
+  "hid": "wgg",
+  "father_pk": 4064,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Eastern Wangganguru [east2873]':1,'Marlu-papu-nganha [marl1234]':1,'Mikiri-nganha [miki1244]':1)'Wangganguru [wang1290][wgg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3354",
+        "label": "Wangganguru"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/l27",
+        "label": "Wangkangurru"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Wangkangurru_dialect",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/wang1290",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_wgg",
+        "label": "Wangkangurru"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7967859",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "158324",
+        "grammar",
+        1994,
+        172,
+        "Luise A. Hercus 1994"
+      ],
+      [
+        "6569",
+        "grammar",
+        1889,
+        0,
+        "Dittrich, H. 1889"
+      ]
+    ]
+  },
+  "id": "wang1290",
+  "name": "Wangganguru",
+  "description": null,
+  "markup_description": null,
+  "latitude": -25.8148,
+  "longitude": 135.941,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Karnic",
+      "id": "karn1253",
+      "url": "https://glottolog.org/resource/languoid/id/karn1253"
+    },
+    {
+      "name": "Palku",
+      "id": "palk1239",
+      "url": "https://glottolog.org/resource/languoid/id/palk1239"
+    },
+    {
+      "name": "Arabana-Wangganguru",
+      "id": "arab1266",
+      "url": "https://glottolog.org/resource/languoid/id/arab1266"
+    }
+  ],
+  "iso639-3": "wgg"
+}

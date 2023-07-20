@@ -1,0 +1,95 @@
+{
+  "pk": 5597,
+  "hid": "kls",
+  "father_pk": 3704,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Eastern Chitral Kalasha [east2893]':1,('Birir-Jinjiret [biri1261]':1,'Rumbur-Bumboret [rumb1241]':1)'Northern Chitral Kalasha [nort2663]':1,'Southern Chitral Kalasha [sout2669]':1)'Chitral Kalasha [kala1372][kls]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4409",
+        "label": "Kalasha"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_klh",
+        "label": "Kalasha"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Chitral_Kalasha_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33416",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "44567",
+        "long_grammar",
+        1988,
+        461,
+        "Bashir, Elena L. 1988"
+      ],
+      [
+        "13453",
+        "grammar_sketch",
+        1973,
+        131,
+        "Morgenstierne, Georg 1973"
+      ],
+      [
+        "317670",
+        "grammar_sketch",
+        1880,
+        61,
+        "Gottlieb William Leitner 1880"
+      ],
+      [
+        "553443",
+        "wordlist_or_less",
+        1876,
+        92,
+        "Gottlieb William Leitner 1876"
+      ]
+    ]
+  },
+  "id": "kala1372",
+  "name": "Chitral Kalasha",
+  "description": null,
+  "markup_description": null,
+  "latitude": 35.6415,
+  "longitude": 71.6657,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Indo-Aryan",
+      "id": "indo1321",
+      "url": "https://glottolog.org/resource/languoid/id/indo1321"
+    }
+  ],
+  "iso639-3": "kls"
+}

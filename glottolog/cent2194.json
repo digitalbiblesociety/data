@@ -1,0 +1,109 @@
+{
+  "pk": 5756,
+  "hid": "tzm",
+  "father_pk": 3807,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Atlas [cent2195]':1,'Standard Moroccan Tamazight [stan1324][zgh]':1)'Central Moroccan Berber [cent2194][tzm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bma",
+        "label": "Berber (Middle Atlas)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Central_Atlas_Tamazight",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/cent2194",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q49741",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "158541",
+        "long_grammar",
+        1986,
+        476,
+        "Ait Lemkaden, Ben Youssef 1986"
+      ],
+      [
+        "89205",
+        "grammar",
+        1972,
+        288,
+        "Willms, Alfred 1972"
+      ],
+      [
+        "84424",
+        "grammar",
+        1966,
+        252,
+        "Johnson, Mary Jeanette 1966"
+      ],
+      [
+        "78759",
+        "grammar",
+        1918,
+        231,
+        "Laoust, Emile 1918"
+      ],
+      [
+        "14182",
+        "phonology_or_text",
+        1907,
+        124,
+        "Cid Kaoui, S. 1907"
+      ],
+      [
+        "120703",
+        "wordlist_or_less",
+        1715,
+        0,
+        "Jones, Zacharias 1715"
+      ]
+    ]
+  },
+  "id": "cent2194",
+  "name": "Central Moroccan Berber",
+  "description": null,
+  "markup_description": null,
+  "latitude": 32.7415,
+  "longitude": -2.40872,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Berber",
+      "id": "berb1260",
+      "url": "https://glottolog.org/resource/languoid/id/berb1260"
+    },
+    {
+      "name": "Kabyle-Atlas Berber",
+      "id": "kaby1244",
+      "url": "https://glottolog.org/resource/languoid/id/kaby1244"
+    },
+    {
+      "name": "Atlas Berber",
+      "id": "atla1275",
+      "url": "https://glottolog.org/resource/languoid/id/atla1275"
+    }
+  ],
+  "iso639-3": "tzm"
+}

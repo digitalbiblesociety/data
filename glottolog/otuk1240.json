@@ -1,0 +1,63 @@
+{
+  "pk": 1964,
+  "hid": "otu",
+  "father_pk": 874,
+  "family_pk": 46,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Otuke [otuk1240][otu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7110049",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Otuke_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "144652",
+        "wordlist_or_less",
+        1989,
+        14,
+        "Montaño Aragón, Mario 1989"
+      ],
+      [
+        "121928",
+        "wordlist_or_less",
+        1839,
+        7,
+        "d'Orbigny, Alcide Dessalines 1839"
+      ]
+    ]
+  },
+  "id": "otuk1240",
+  "name": "Otuke",
+  "description": null,
+  "markup_description": null,
+  "latitude": -15.2698,
+  "longitude": -59.6986,
+  "classification": [
+    {
+      "name": "Bororoan",
+      "id": "boro1281",
+      "url": "https://glottolog.org/resource/languoid/id/boro1281"
+    },
+    {
+      "name": "Bororo-Otuke",
+      "id": "boro1285",
+      "url": "https://glottolog.org/resource/languoid/id/boro1285"
+    }
+  ],
+  "iso639-3": "otu"
+}

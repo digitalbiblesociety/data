@@ -1,0 +1,96 @@
+{
+  "pk": 14559,
+  "hid": "ncl",
+  "father_pk": 11514,
+  "family_pk": 155,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Michoacán Nahuatl [mich1245][ncl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nhm",
+        "label": "Nahuatl (Michoacán)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Michoac%C3%A1n_Nahuatl",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/mich1245",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2896217",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "303268",
+        "grammar",
+        1765,
+        208,
+        "Cortés y Zedeno, Geronimo Thomas de Aquino 1765"
+      ],
+      [
+        "301079",
+        "grammar_sketch",
+        1692,
+        134,
+        "Guerra, Juan 1900 [1692]"
+      ]
+    ]
+  },
+  "id": "mich1245",
+  "name": "Michoacán Nahuatl",
+  "description": null,
+  "markup_description": null,
+  "latitude": 18.3412,
+  "longitude": -103.361,
+  "classification": [
+    {
+      "name": "Uto-Aztecan",
+      "id": "utoa1244",
+      "url": "https://glottolog.org/resource/languoid/id/utoa1244"
+    },
+    {
+      "name": "Southern Uto-Aztecan",
+      "id": "sout3136",
+      "url": "https://glottolog.org/resource/languoid/id/sout3136"
+    },
+    {
+      "name": "Corachol-Aztecan",
+      "id": "cora1261",
+      "url": "https://glottolog.org/resource/languoid/id/cora1261"
+    },
+    {
+      "name": "Aztec",
+      "id": "azte1234",
+      "url": "https://glottolog.org/resource/languoid/id/azte1234"
+    },
+    {
+      "name": "Western Nahuatl",
+      "id": "west2809",
+      "url": "https://glottolog.org/resource/languoid/id/west2809"
+    },
+    {
+      "name": "Western Periphery-North Guerrero Nahuatl",
+      "id": "west2814",
+      "url": "https://glottolog.org/resource/languoid/id/west2814"
+    },
+    {
+      "name": "Western Periphery Nahuatl",
+      "id": "west2825",
+      "url": "https://glottolog.org/resource/languoid/id/west2825"
+    }
+  ],
+  "iso639-3": "ncl"
+}

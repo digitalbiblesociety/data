@@ -1,0 +1,84 @@
+{
+  "pk": 7576,
+  "hid": "ppi",
+  "father_pk": 5253,
+  "family_pk": 403,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Paipai [paip1241][ppi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1538",
+        "label": "Paipai"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Paipai_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56726",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "667277",
+        "grammar_sketch",
+        2016,
+        118,
+        "Sánchez Fernández, Manuel Alejandro 2016"
+      ],
+      [
+        "158057",
+        "grammar_sketch",
+        1966,
+        91,
+        "Joël, Dina Judith 1966"
+      ],
+      [
+        "571742",
+        "grammar_sketch",
+        1928,
+        14,
+        "Gifford, E. W. and Robert H. Lowie 1928"
+      ]
+    ]
+  },
+  "id": "paip1241",
+  "name": "Paipai",
+  "description": null,
+  "markup_description": null,
+  "latitude": 31.6063,
+  "longitude": -115.871,
+  "classification": [
+    {
+      "name": "Cochimi-Yuman",
+      "id": "coch1271",
+      "url": "https://glottolog.org/resource/languoid/id/coch1271"
+    },
+    {
+      "name": "Yuman",
+      "id": "yuma1250",
+      "url": "https://glottolog.org/resource/languoid/id/yuma1250"
+    },
+    {
+      "name": "General Yuman",
+      "id": "gene1244",
+      "url": "https://glottolog.org/resource/languoid/id/gene1244"
+    },
+    {
+      "name": "Pai",
+      "id": "paii1252",
+      "url": "https://glottolog.org/resource/languoid/id/paii1252"
+    }
+  ],
+  "iso639-3": "ppi"
+}

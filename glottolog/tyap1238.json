@@ -1,0 +1,111 @@
+{
+  "pk": 18129,
+  "hid": "kcg",
+  "father_pk": 15719,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Atakat [atak1251]':1,'Kachichere [kach1281]':1,'Kafanchan [kafa1241]':1,'Kagoro {Nigeria} [kago1246]':1,'Katab [kata1265]':1,'Sholio [shol1241]':1)'Tyap [tyap1238][kcg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3912765",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tyap_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_gwo",
+        "label": "Gworok"
+      }
+    ],
+    "meds": [
+      [
+        "101972",
+        "grammar",
+        1989,
+        166,
+        "Adwiraah, Eleonore 1989"
+      ],
+      [
+        "37690",
+        "wordlist_or_less",
+        1931,
+        5,
+        "Meek, Charles K. 1931"
+      ],
+      [
+        "308259",
+        "wordlist_or_less",
+        1922,
+        7,
+        "Temple, C. L. 1922"
+      ],
+      [
+        "154809",
+        "wordlist_or_less",
+        1912,
+        64,
+        "Tremearne, A. J. N. 1912"
+      ]
+    ]
+  },
+  "id": "tyap1238",
+  "name": "Tyap",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.75568,
+  "longitude": 8.3082,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Benue-Congo Plateau",
+      "id": "benu1248",
+      "url": "https://glottolog.org/resource/languoid/id/benu1248"
+    },
+    {
+      "name": "Benue-Congo Central Plateau",
+      "id": "benu1249",
+      "url": "https://glottolog.org/resource/languoid/id/benu1249"
+    },
+    {
+      "name": "South-Central Benue-Congo Plateau",
+      "id": "sout3163",
+      "url": "https://glottolog.org/resource/languoid/id/sout3163"
+    },
+    {
+      "name": "Nuclear Zaric",
+      "id": "nucl1795",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1795"
+    },
+    {
+      "name": "Katabic",
+      "id": "kata1275",
+      "url": "https://glottolog.org/resource/languoid/id/kata1275"
+    }
+  ],
+  "iso639-3": "kcg"
+}

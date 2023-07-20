@@ -1,0 +1,81 @@
+{
+  "pk": 4039,
+  "hid": "yxl",
+  "father_pk": 2298,
+  "family_pk": 153,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "'Yardliyawarra [yard1234][yxl]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "yxl",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 has separate entries for Wadikali [wdk], Malyangapa [yga], Yardliyawarra [yxl], but they are all part of the same intelligible language on linguistic grounds (**hh:hvw:HercusAustin:Yarli:2004**). See also: Yarli [NOCODE_Yarli]."
+    },
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6742",
+        "label": "Yardliyawarra"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q46264708",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/yard1234",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500494",
+        "wordlist_or_less",
+        2012,
+        0,
+        "ISO 639-3 Registration Authority 2012"
+      ]
+    ]
+  },
+  "id": "yard1234",
+  "name": "Yardliyawarra",
+  "description": null,
+  "markup_description": null,
+  "latitude": -29.79543,
+  "longitude": 141.77353,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Yarli-Baagandji",
+      "id": "yarl1237",
+      "url": "https://glottolog.org/resource/languoid/id/yarl1237"
+    },
+    {
+      "name": "Yarli",
+      "id": "yarl1236",
+      "url": "https://glottolog.org/resource/languoid/id/yarl1236"
+    }
+  ],
+  "iso639-3": "yxl"
+}

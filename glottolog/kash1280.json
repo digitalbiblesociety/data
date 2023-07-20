@@ -1,0 +1,95 @@
+{
+  "pk": 6407,
+  "hid": "kju",
+  "father_pk": 4359,
+  "family_pk": 214,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kashaya [kash1280][kju]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1534",
+        "label": "Kashaya"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3193689",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kashaya_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ksh",
+        "label": "Kashaya"
+      }
+    ],
+    "meds": [
+      [
+        "101578",
+        "long_grammar",
+        1961,
+        349,
+        "Oswalt, Robert L. 1961"
+      ],
+      [
+        "101577",
+        "long_grammar",
+        1960,
+        348,
+        "Oswalt, Robert L. 1960"
+      ],
+      [
+        "157804",
+        "wordlist_or_less",
+        1908,
+        16,
+        "Barrett, Samuel A. 1908"
+      ],
+      [
+        "44155",
+        "wordlist_or_less",
+        1839,
+        14,
+        "von Wrangell, F. P. and Peter S. Kostromitinov 1839"
+      ]
+    ]
+  },
+  "id": "kash1280",
+  "name": "Kashaya",
+  "description": null,
+  "markup_description": null,
+  "latitude": 38.5424,
+  "longitude": -123.08,
+  "classification": [
+    {
+      "name": "Pomoan",
+      "id": "pomo1273",
+      "url": "https://glottolog.org/resource/languoid/id/pomo1273"
+    },
+    {
+      "name": "Russian River and Eastern",
+      "id": "russ1265",
+      "url": "https://glottolog.org/resource/languoid/id/russ1265"
+    },
+    {
+      "name": "Russian River",
+      "id": "russ1266",
+      "url": "https://glottolog.org/resource/languoid/id/russ1266"
+    },
+    {
+      "name": "Southern Pomoan-Kashaya",
+      "id": "sout2983",
+      "url": "https://glottolog.org/resource/languoid/id/sout2983"
+    }
+  ],
+  "iso639-3": "kju"
+}

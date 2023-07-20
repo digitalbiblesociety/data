@@ -1,0 +1,80 @@
+{
+  "pk": 12122,
+  "hid": "ppk",
+  "father_pk": 9240,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bana {Austronesian} [bana1291]':1,'Benggaulu [beng1288]':1,'Kantewu [kant1250]':1,'Southern Uma [sout2927]':1,'Tobaku [toba1267]':1,'Tolee'' [tole1238]':1,'Winatu [wina1237]':1)'Uma [umaa1242][ppk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_uma",
+        "label": "Uma"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Uma_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7881036",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "30766",
+        "grammar",
+        1964,
+        158,
+        "S. J. Esser 1964"
+      ]
+    ]
+  },
+  "id": "umaa1242",
+  "name": "Uma",
+  "description": null,
+  "markup_description": null,
+  "latitude": -1.70416,
+  "longitude": 119.968,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Celebic",
+      "id": "cele1242",
+      "url": "https://glottolog.org/resource/languoid/id/cele1242"
+    },
+    {
+      "name": "Kaili-Wolio",
+      "id": "kail1255",
+      "url": "https://glottolog.org/resource/languoid/id/kail1255"
+    },
+    {
+      "name": "Northern Kaili-Wolio",
+      "id": "nort2898",
+      "url": "https://glottolog.org/resource/languoid/id/nort2898"
+    },
+    {
+      "name": "Uma-Sarudu",
+      "id": "umas1234",
+      "url": "https://glottolog.org/resource/languoid/id/umas1234"
+    }
+  ],
+  "iso639-3": "ppk"
+}

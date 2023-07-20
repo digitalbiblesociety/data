@@ -1,0 +1,91 @@
+{
+  "pk": 7058,
+  "hid": "sgc",
+  "father_pk": 4845,
+  "family_pk": 316,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kipsigis [kips1239][sgc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Kipsigis_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kips1239",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56339",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "32363",
+        "long_grammar",
+        1979,
+        490,
+        "Toweett, Taaitta 1979"
+      ],
+      [
+        "32353",
+        "long_grammar",
+        1977,
+        490,
+        "Toweett, Taaitta 1977"
+      ],
+      [
+        "60756",
+        "grammar_sketch",
+        1923,
+        37,
+        "Barton, J. 1923"
+      ],
+      [
+        "58624",
+        "wordlist_or_less",
+        1904,
+        13,
+        "Johnston, Harry 1904"
+      ]
+    ]
+  },
+  "id": "kips1239",
+  "name": "Kipsigis",
+  "description": null,
+  "markup_description": null,
+  "latitude": -0.35774,
+  "longitude": 35.258532,
+  "classification": [
+    {
+      "name": "Nilotic",
+      "id": "nilo1247",
+      "url": "https://glottolog.org/resource/languoid/id/nilo1247"
+    },
+    {
+      "name": "Southern Nilotic",
+      "id": "sout2830",
+      "url": "https://glottolog.org/resource/languoid/id/sout2830"
+    },
+    {
+      "name": "Kalenjin",
+      "id": "kale1246",
+      "url": "https://glottolog.org/resource/languoid/id/kale1246"
+    },
+    {
+      "name": "Central Kalenjin",
+      "id": "cent2293",
+      "url": "https://glottolog.org/resource/languoid/id/cent2293"
+    }
+  ],
+  "iso639-3": "sgc"
+}

@@ -1,0 +1,109 @@
+{
+  "pk": 14451,
+  "hid": "mwm",
+  "father_pk": 11385,
+  "family_pk": 140,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Majingai [maji1238]':1,'Nar {Chad} [narr1278]':1,'No [nooo1238]':1)'Sar [sarr1246][mwm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Sar_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56850",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "146479",
+        "long_grammar",
+        1989,
+        844,
+        "Palayer, Pierre 1989"
+      ],
+      [
+        "36784",
+        "grammar",
+        1970,
+        194,
+        "Palayer, Pierre and Maurice Fournier and E. Moundo 1970"
+      ],
+      [
+        "16222",
+        "grammar",
+        1966,
+        0,
+        "Thayer, James Edward and Julien Maraby 1966"
+      ],
+      [
+        "69277",
+        "grammar_sketch",
+        1931,
+        108,
+        "Gaston Muraz 1931"
+      ],
+      [
+        "72495",
+        "grammar_sketch",
+        1897,
+        47,
+        "Delafosse, Maurice 1897"
+      ]
+    ]
+  },
+  "id": "sarr1246",
+  "name": "Sar",
+  "description": null,
+  "markup_description": null,
+  "latitude": 8.50634,
+  "longitude": 17.8785,
+  "classification": [
+    {
+      "name": "Central Sudanic",
+      "id": "cent2225",
+      "url": "https://glottolog.org/resource/languoid/id/cent2225"
+    },
+    {
+      "name": "Sara-Bongo-Bagirmi",
+      "id": "sara1341",
+      "url": "https://glottolog.org/resource/languoid/id/sara1341"
+    },
+    {
+      "name": "SBB Occidental",
+      "id": "sbbo1237",
+      "url": "https://glottolog.org/resource/languoid/id/sbbo1237"
+    },
+    {
+      "name": "Nuclear SBB Occidental",
+      "id": "nucl1719",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1719"
+    },
+    {
+      "name": "Saraic",
+      "id": "sara1349",
+      "url": "https://glottolog.org/resource/languoid/id/sara1349"
+    },
+    {
+      "name": "Sara Central",
+      "id": "cent2044",
+      "url": "https://glottolog.org/resource/languoid/id/cent2044"
+    },
+    {
+      "name": "Sara Central Chari",
+      "id": "sara1344",
+      "url": "https://glottolog.org/resource/languoid/id/sara1344"
+    }
+  ],
+  "iso639-3": "mwm"
+}

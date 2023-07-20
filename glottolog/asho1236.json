@@ -1,0 +1,115 @@
+{
+  "pk": 13283,
+  "hid": "csh",
+  "father_pk": 10223,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Chittagong [chit1280]':1,'Khyang [khya1239]':1,'Lemyo [lemy1239]':1,'Minbu [minb1243]':1,'Saingbaun [sain1244]':1,'Sandoway [sand1269]':1,'Thayetmyo [thay1247]':1)'Asho Chin [asho1236][csh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7506059",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sh%C3%B6_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_hyo",
+        "label": "Hyow"
+      }
+    ],
+    "meds": [
+      [
+        "578840",
+        "long_grammar",
+        2018,
+        882,
+        "Zakaria, Muhammad 2018"
+      ],
+      [
+        "574034",
+        "grammar_sketch",
+        1963,
+        244,
+        "Lehman, F. K. 1963"
+      ],
+      [
+        "43713",
+        "grammar_sketch",
+        1892,
+        133,
+        "Houghton, Bernhard 1892"
+      ],
+      [
+        "548868",
+        "grammar_sketch",
+        1875,
+        44,
+        "Fryer, G. E. 1875"
+      ],
+      [
+        "153209",
+        "wordlist_or_less",
+        1868,
+        12,
+        "Hunter, William Wilson 1868"
+      ],
+      [
+        "90875",
+        "wordlist_or_less",
+        1841,
+        3,
+        "Phayre, Arthur Purvis 1841"
+      ]
+    ]
+  },
+  "id": "asho1236",
+  "name": "Asho Chin",
+  "description": null,
+  "markup_description": null,
+  "latitude": 21.393,
+  "longitude": 93.5069,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Kuki-Chin",
+      "id": "kuki1246",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1246"
+    },
+    {
+      "name": "Peripheral Kuki-Chin",
+      "id": "peri1260",
+      "url": "https://glottolog.org/resource/languoid/id/peri1260"
+    },
+    {
+      "name": "South Peripheral Kuki-Chin",
+      "id": "sout3160",
+      "url": "https://glottolog.org/resource/languoid/id/sout3160"
+    },
+    {
+      "name": "Ashoic",
+      "id": "asho1237",
+      "url": "https://glottolog.org/resource/languoid/id/asho1237"
+    }
+  ],
+  "iso639-3": "csh"
+}

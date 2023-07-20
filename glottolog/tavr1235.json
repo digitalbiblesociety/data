@@ -1,0 +1,92 @@
+{
+  "pk": 3913,
+  "hid": "rmu",
+  "father_pk": 2216,
+  "family_pk": 135,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Speech Register",
+  "newick": "'Tavringer Romani [tavr1235][rmu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q27808413",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "313307",
+        "grammar_sketch",
+        2008,
+        111,
+        "Lenny Lindell and Kenth Thorbjörnsson-Djerf 2008"
+      ],
+      [
+        "320501",
+        "grammar_sketch",
+        1977,
+        45,
+        "Johansson, Roger 1977"
+      ],
+      [
+        "68539",
+        "wordlist_or_less",
+        1944,
+        166,
+        "Etzler, Allan 1944"
+      ],
+      [
+        "570951",
+        "wordlist_or_less",
+        1928,
+        22,
+        "Ehrenborg, Harald 1928"
+      ],
+      [
+        "552573",
+        "wordlist_or_less",
+        1847,
+        18,
+        "Carl-Herman Tillhagen 1947 [1847]"
+      ],
+      [
+        "569118",
+        "wordlist_or_less",
+        1730,
+        20,
+        "Björckman, Samuel 1730"
+      ]
+    ]
+  },
+  "id": "tavr1235",
+  "name": "Tavringer Romani",
+  "description": null,
+  "markup_description": null,
+  "latitude": 62.2313,
+  "longitude": 14.4036,
+  "classification": [
+    {
+      "name": "Speech Register",
+      "id": "spee1234",
+      "url": "https://glottolog.org/resource/languoid/id/spee1234"
+    },
+    {
+      "name": "Indo-European Speech Register",
+      "id": "indo1335",
+      "url": "https://glottolog.org/resource/languoid/id/indo1335"
+    },
+    {
+      "name": "Scandinavian Romani",
+      "id": "scan1239",
+      "url": "https://glottolog.org/resource/languoid/id/scan1239"
+    }
+  ],
+  "iso639-3": "rmu"
+}

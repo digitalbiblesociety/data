@@ -1,0 +1,81 @@
+{
+  "pk": 2947,
+  "hid": "rej",
+  "father_pk": 1524,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kebanagung [keba1250]':1,'Lebong [lebo1245]':1,'Pasisir [pasi1255]':1,'Rawas [rawa1266]':1,'Rejang Musi [musi1242]':1)'Rejang [reja1240][rej]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_rej",
+        "label": "Rejang"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Rejang_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3056339",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "321538",
+        "grammar_sketch",
+        1981,
+        178,
+        "Syahrul Napsin and Naning, Zainal Abidin and Abdullah, Slamet and Sjamsuddin, Sjafran and Arsyad, Mohammad and Tarmizi, {} 1981"
+      ],
+      [
+        "158330",
+        "wordlist_or_less",
+        1834,
+        2,
+        "William Marsden 1834"
+      ],
+      [
+        "34023",
+        "wordlist_or_less",
+        1806,
+        32,
+        "Johann Christoph Adelung 1806"
+      ],
+      [
+        "588428",
+        "wordlist_or_less",
+        1784,
+        0,
+        "Marsden, W. 1784"
+      ]
+    ]
+  },
+  "id": "reja1240",
+  "name": "Rejang",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.33056,
+  "longitude": 102.434,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    }
+  ],
+  "iso639-3": "rej"
+}

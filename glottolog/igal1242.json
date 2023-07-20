@@ -1,0 +1,120 @@
+{
+  "pk": 9997,
+  "hid": "igl",
+  "father_pk": 7196,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ankpa [ankp1238]':1,'Anyugba [anyu1238]':1,'Ebu [ebuu1238]':1,'Ibaji [ibaj1238]':1,'Idah [idah1238]':1,'Ife {Nigeria} [ifee1242]':1,'Ogugu [ogug1241]':1)'Igala [igal1242][igl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Igala_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35513",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "548619",
+        "grammar",
+        2017,
+        269,
+        "Salem Ochala Ejeba 2017"
+      ],
+      [
+        "548618",
+        "grammar",
+        2016,
+        0,
+        "Salem Ochala Ejeba 2016"
+      ],
+      [
+        "140264",
+        "grammar_sketch",
+        1935,
+        16,
+        "Philpot, W. T. A. 1935"
+      ],
+      [
+        "9644",
+        "grammar_sketch",
+        1930,
+        15,
+        "Seton, R. Sydney 1930"
+      ],
+      [
+        "667622",
+        "grammar_sketch",
+        1929,
+        11,
+        "Seton, R. Sydney 1929"
+      ],
+      [
+        "143647",
+        "grammar_sketch",
+        1908,
+        5,
+        "Byng-Hall, F.F.W. 1908"
+      ],
+      [
+        "65906",
+        "wordlist_or_less",
+        1867,
+        26,
+        "Coomber, A.G. 1867"
+      ],
+      [
+        "66179",
+        "wordlist_or_less",
+        1854,
+        1,
+        "Koelle, Sigismund W. 1854"
+      ]
+    ]
+  },
+  "id": "igal1242",
+  "name": "Igala",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.34325,
+  "longitude": 7.17974,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Defoid",
+      "id": "defo1239",
+      "url": "https://glottolog.org/resource/languoid/id/defo1239"
+    },
+    {
+      "name": "Yoruboid",
+      "id": "yoru1244",
+      "url": "https://glottolog.org/resource/languoid/id/yoru1244"
+    }
+  ],
+  "iso639-3": "igl"
+}

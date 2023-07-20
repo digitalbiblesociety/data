@@ -1,0 +1,106 @@
+{
+  "pk": 14135,
+  "hid": "acw",
+  "father_pk": 11072,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Coastal Tihaamah [coas1310]':1,'North Hijazi [nort3136]':1,'South Hijazi [sout3118]':1,'Valley Tihaamah [vall1257]':1)'Hijazi Arabic [hija1235][acw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56608",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Hejazi_Arabic",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_arh",
+        "label": "Arabic (Hijazi)"
+      }
+    ],
+    "meds": [
+      [
+        "310007",
+        "long_grammar",
+        1998,
+        308,
+        "Al-Azraqi, Munira 1998"
+      ],
+      [
+        "317978",
+        "long_grammar",
+        1975,
+        300,
+        "Il-Hazmy, Alayan Mohammed 1975"
+      ],
+      [
+        "317859",
+        "grammar",
+        1968,
+        289,
+        "Nadwi, Abdullah Abbas 1968"
+      ],
+      [
+        "50328",
+        "grammar_sketch",
+        1951,
+        120,
+        "Rabin, Chaim 1951"
+      ]
+    ]
+  },
+  "id": "hija1235",
+  "name": "Hijazi Arabic",
+  "description": null,
+  "markup_description": null,
+  "latitude": 22.8346,
+  "longitude": 38.9237,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Semitic",
+      "id": "semi1276",
+      "url": "https://glottolog.org/resource/languoid/id/semi1276"
+    },
+    {
+      "name": "West Semitic",
+      "id": "west2786",
+      "url": "https://glottolog.org/resource/languoid/id/west2786"
+    },
+    {
+      "name": "Central Semitic",
+      "id": "cent2236",
+      "url": "https://glottolog.org/resource/languoid/id/cent2236"
+    },
+    {
+      "name": "Arabian",
+      "id": "arab1394",
+      "url": "https://glottolog.org/resource/languoid/id/arab1394"
+    },
+    {
+      "name": "Arabic",
+      "id": "arab1395",
+      "url": "https://glottolog.org/resource/languoid/id/arab1395"
+    },
+    {
+      "name": "Arabian Peninsula Arabic",
+      "id": "arab1393",
+      "url": "https://glottolog.org/resource/languoid/id/arab1393"
+    }
+  ],
+  "iso639-3": "acw"
+}

@@ -1,0 +1,66 @@
+{
+  "pk": 659,
+  "hid": "nxu",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Narau [nara1265][nxu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "nxu",
+      "name": "Narau",
+      "change_request": "2019-030",
+      "effective": "2020-01-23",
+      "reason": "merge",
+      "change_to": [
+        "bpp"
+      ],
+      "remedy": "merge into Kaure [bpp]",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2721",
+        "label": "Narau"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6965452",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Narau_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "126692",
+        "wordlist_or_less",
+        1975,
+        1,
+        "C. L. Voorhoeve 1975"
+      ]
+    ]
+  },
+  "id": "nara1265",
+  "name": "Narau",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.43594,
+  "longitude": 139.876,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "nxu"
+}

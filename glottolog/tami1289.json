@@ -1,0 +1,141 @@
+{
+  "pk": 23733,
+  "hid": "tam",
+  "father_pk": 22222,
+  "family_pk": 404,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Adi Dravida [adid1237]':1,'Aiyangar [aiya1239]':1,'Aiyar [aiya1240]':1,'Arava [arav1239]':1,'Burgandi [burg1245]':1,'Burma Tamil [burm1258]':1,'Harijan [hari1247]':1,'Hebbar [hebb1237]':1,'Kongar [kong1282]':1,'Madrasi [madr1237]':1,'Malaya Tamil [mala1467]':1,'Mandyam Brahmin [mand1410]':1,'Nuclear Tamil [nucl1304]':1,'Sanketi [sank1249]':1,'Secunderabad Brahmin [secu1237]':1,'South Africa Tamil [sout2709]':1,'Sri Lanka Tamil [sril1244]':1,'Tigalu [tiga1243]':1)'Tamil [tami1289][tam]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 18,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tml",
+        "label": "Tamil"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tsp",
+        "label": "Tamil (Spoken)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tamil_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/tami1289",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5885",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "314955",
+        "long_grammar",
+        1966,
+        931,
+        "Lisker, Leigh and Vaidyanathan, S. 1966"
+      ],
+      [
+        "589949",
+        "long_grammar",
+        1903,
+        476,
+        "Julien Vinson 1903"
+      ],
+      [
+        "148252",
+        "grammar",
+        1846,
+        295,
+        "C. T. E. Rhenius 1846"
+      ],
+      [
+        "93802",
+        "grammar",
+        1822,
+        117,
+        "Constantius J. Beschi 1822"
+      ],
+      [
+        "587512",
+        "grammar_sketch",
+        1549,
+        347,
+        "Jeanne Hein and V. S. Rajam 2013 [1549]"
+      ]
+    ]
+  },
+  "id": "tami1289",
+  "name": "Tamil",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.520219,
+  "longitude": 78.825989,
+  "classification": [
+    {
+      "name": "Dravidian",
+      "id": "drav1251",
+      "url": "https://glottolog.org/resource/languoid/id/drav1251"
+    },
+    {
+      "name": "South Dravidian",
+      "id": "sout3133",
+      "url": "https://glottolog.org/resource/languoid/id/sout3133"
+    },
+    {
+      "name": "South Dravidian I",
+      "id": "sout3138",
+      "url": "https://glottolog.org/resource/languoid/id/sout3138"
+    },
+    {
+      "name": "Tamil-Kannada",
+      "id": "tami1291",
+      "url": "https://glottolog.org/resource/languoid/id/tami1291"
+    },
+    {
+      "name": "Tamil-Kota",
+      "id": "tami1292",
+      "url": "https://glottolog.org/resource/languoid/id/tami1292"
+    },
+    {
+      "name": "Tamil-Toda",
+      "id": "tami1293",
+      "url": "https://glottolog.org/resource/languoid/id/tami1293"
+    },
+    {
+      "name": "Tamil-Irula",
+      "id": "tami1294",
+      "url": "https://glottolog.org/resource/languoid/id/tami1294"
+    },
+    {
+      "name": "Tamil-Kodagu",
+      "id": "tami1297",
+      "url": "https://glottolog.org/resource/languoid/id/tami1297"
+    },
+    {
+      "name": "Tamil-Malayalam",
+      "id": "tami1298",
+      "url": "https://glottolog.org/resource/languoid/id/tami1298"
+    },
+    {
+      "name": "Tamiloid",
+      "id": "tami1299",
+      "url": "https://glottolog.org/resource/languoid/id/tami1299"
+    },
+    {
+      "name": "Tamil-Paliyan",
+      "id": "tami1300",
+      "url": "https://glottolog.org/resource/languoid/id/tami1300"
+    }
+  ],
+  "iso639-3": "tam"
+}

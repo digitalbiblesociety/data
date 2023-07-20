@@ -1,0 +1,119 @@
+{
+  "pk": 17206,
+  "hid": "tlf",
+  "father_pk": 14791,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Feramin [fera1239]':1,'Nuclear Telefol [nucl1611]':1)'Telefol [tele1256][tlf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10675",
+        "label": "Telefol"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tlf",
+        "label": "Telefol"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Telefol_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/tele1256",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7696150",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "143583",
+        "grammar",
+        1966,
+        235,
+        "Phyllis M. Healey 1966"
+      ],
+      [
+        "143580",
+        "grammar",
+        1965,
+        218,
+        "Healey, Phyllis M. 1965"
+      ],
+      [
+        "129648",
+        "phonology_or_text",
+        1962,
+        15,
+        "Healey, Alan 1962"
+      ],
+      [
+        "70434",
+        "wordlist_or_less",
+        1937,
+        19,
+        "Wallace Kienzle and Stuart Campbell 1937"
+      ]
+    ]
+  },
+  "id": "tele1256",
+  "name": "Telefol",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.07444,
+  "longitude": 141.731,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Asmat-Awyu-Ok",
+      "id": "cent2116",
+      "url": "https://glottolog.org/resource/languoid/id/cent2116"
+    },
+    {
+      "name": "Awyu-Ok",
+      "id": "awyu1265",
+      "url": "https://glottolog.org/resource/languoid/id/awyu1265"
+    },
+    {
+      "name": "Ok-Oksapmin",
+      "id": "okok1235",
+      "url": "https://glottolog.org/resource/languoid/id/okok1235"
+    },
+    {
+      "name": "Ok",
+      "id": "okkk1242",
+      "url": "https://glottolog.org/resource/languoid/id/okkk1242"
+    },
+    {
+      "name": "Mountain Ok",
+      "id": "moun1253",
+      "url": "https://glottolog.org/resource/languoid/id/moun1253"
+    },
+    {
+      "name": "Division A Mountain Ok",
+      "id": "divi1235",
+      "url": "https://glottolog.org/resource/languoid/id/divi1235"
+    },
+    {
+      "name": "Tifal-Telefol",
+      "id": "tifa1246",
+      "url": "https://glottolog.org/resource/languoid/id/tifa1246"
+    }
+  ],
+  "iso639-3": "tlf"
+}

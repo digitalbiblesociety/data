@@ -1,0 +1,58 @@
+{
+  "pk": 546,
+  "hid": "bxt",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Buxinhua [buxi1237][bxt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "bxt",
+      "name": "Buxinhua",
+      "change_request": "2007-009",
+      "effective": "2008-01-14",
+      "reason": "duplicate",
+      "change_to": [
+        "bgk"
+      ],
+      "remedy": "Merge into Bit [bgk] as duplicate",
+      "comment": "As best as I can tell, these refer to the same language from two different\nsources. The bgk information seems to have originally come from J-O Svantesson,\nwhereas the Buxinhua information is originally from the Encyclopedic Dictionary\nof Chinese Linguistics. \"Bit\" and \"Buxin(g)hua\" appear to refer to the same\nsmall language in Yunnan province's Mengla county which Chinese linguists (e.g.\nShearer & Sun 2002) classify as Khmuic. As bgk is linked to speakers in Laos, it\nseems simpler to retire bxt."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12953415",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500191",
+        "wordlist_or_less",
+        2007,
+        0,
+        "ISO 639-3 Registration Authority 2007"
+      ]
+    ]
+  },
+  "id": "buxi1237",
+  "name": "Buxinhua",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "bxt"
+}

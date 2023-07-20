@@ -1,0 +1,90 @@
+{
+  "pk": 12168,
+  "hid": "bln",
+  "father_pk": 9273,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Coastal-Virac Bikol [sout2912][bln]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7569754",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Southern_Catanduanes_Bikol_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "42575",
+        "grammar",
+        1990,
+        275,
+        "Paz B. Meman 1990"
+      ],
+      [
+        "61602",
+        "wordlist_or_less",
+        1974,
+        10,
+        "Curtis D. McFarland 1974"
+      ],
+      [
+        "548480",
+        "wordlist_or_less",
+        1972,
+        0,
+        "Dolores, Reynaldo 1972"
+      ]
+    ]
+  },
+  "id": "sout2912",
+  "name": "Coastal-Virac Bikol",
+  "description": null,
+  "markup_description": null,
+  "latitude": 13.6989,
+  "longitude": 124.29,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Greater Central Philippine",
+      "id": "grea1284",
+      "url": "https://glottolog.org/resource/languoid/id/grea1284"
+    },
+    {
+      "name": "Central Philippine",
+      "id": "cent2246",
+      "url": "https://glottolog.org/resource/languoid/id/cent2246"
+    },
+    {
+      "name": "Bikol",
+      "id": "biko1240",
+      "url": "https://glottolog.org/resource/languoid/id/biko1240"
+    },
+    {
+      "name": "Coastal Bikol",
+      "id": "coas1315",
+      "url": "https://glottolog.org/resource/languoid/id/coas1315"
+    }
+  ],
+  "iso639-3": "bln"
+}

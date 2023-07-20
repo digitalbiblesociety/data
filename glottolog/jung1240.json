@@ -1,0 +1,91 @@
+{
+  "pk": 20372,
+  "hid": "inj",
+  "father_pk": 18344,
+  "family_pk": 321,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "('Guayuyaco [guay1256]':1,'San Andrés Inga [sana1282]':1,'Yunguillo-Condagua [yung1255]':1)'San Andrés-Lowland Inga [jung1240][inj]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://phoible.org/languages/jung1240",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q16115012",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "56157",
+        "wordlist_or_less",
+        1976,
+        0,
+        "na 1976"
+      ]
+    ]
+  },
+  "id": "jung1240",
+  "name": "San Andrés-Lowland Inga",
+  "description": null,
+  "markup_description": null,
+  "latitude": 0.88872,
+  "longitude": -76.6593,
+  "classification": [
+    {
+      "name": "Quechuan",
+      "id": "quec1387",
+      "url": "https://glottolog.org/resource/languoid/id/quec1387"
+    },
+    {
+      "name": "Quechua II",
+      "id": "quec1388",
+      "url": "https://glottolog.org/resource/languoid/id/quec1388"
+    },
+    {
+      "name": "Chinchay",
+      "id": "chin1494",
+      "url": "https://glottolog.org/resource/languoid/id/chin1494"
+    },
+    {
+      "name": "Quechua IIC",
+      "id": "quec1389",
+      "url": "https://glottolog.org/resource/languoid/id/quec1389"
+    },
+    {
+      "name": "Colombia-Ecuador Quechua",
+      "id": "colo1257",
+      "url": "https://glottolog.org/resource/languoid/id/colo1257"
+    },
+    {
+      "name": "Ecuadorian Quechua B",
+      "id": "ecua1249",
+      "url": "https://glottolog.org/resource/languoid/id/ecua1249"
+    },
+    {
+      "name": "Imbabura-Colombia-Oriente Quechua",
+      "id": "imba1241",
+      "url": "https://glottolog.org/resource/languoid/id/imba1241"
+    },
+    {
+      "name": "Colombia-Oriente Quechua",
+      "id": "colo1258",
+      "url": "https://glottolog.org/resource/languoid/id/colo1258"
+    },
+    {
+      "name": "Colombian Inga",
+      "id": "inga1252",
+      "url": "https://glottolog.org/resource/languoid/id/inga1252"
+    }
+  ],
+  "iso639-3": "inj"
+}

@@ -1,0 +1,86 @@
+{
+  "pk": 7794,
+  "hid": "chb",
+  "father_pk": 5390,
+  "family_pk": 10,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Chibcha [chib1270][chb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q2356431",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Chibcha_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/chib1270",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_msc",
+        "label": "Muisca"
+      }
+    ],
+    "meds": [
+      [
+        "22979",
+        "grammar",
+        1619,
+        158,
+        "de Lugo, Fray Bernardo 1619"
+      ],
+      [
+        "318170",
+        "grammar_sketch",
+        1605,
+        93,
+        "Anónimo 1605-1620"
+      ]
+    ]
+  },
+  "id": "chib1270",
+  "name": "Chibcha",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.24999,
+  "longitude": -74.1666,
+  "classification": [
+    {
+      "name": "Chibchan",
+      "id": "chib1249",
+      "url": "https://glottolog.org/resource/languoid/id/chib1249"
+    },
+    {
+      "name": "Core Chibchan",
+      "id": "core1252",
+      "url": "https://glottolog.org/resource/languoid/id/core1252"
+    },
+    {
+      "name": "Magdalenic",
+      "id": "magd1236",
+      "url": "https://glottolog.org/resource/languoid/id/magd1236"
+    },
+    {
+      "name": "Southern Magdalenic",
+      "id": "sout3015",
+      "url": "https://glottolog.org/resource/languoid/id/sout3015"
+    },
+    {
+      "name": "Chibcha-Duit",
+      "id": "chib1269",
+      "url": "https://glottolog.org/resource/languoid/id/chib1269"
+    }
+  ],
+  "iso639-3": "chb"
+}

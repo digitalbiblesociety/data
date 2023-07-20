@@ -1,0 +1,72 @@
+{
+  "pk": 4828,
+  "hid": "zma",
+  "father_pk": 3089,
+  "family_pk": 305,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Manda {Australia} [mand1416][zma]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1913",
+        "label": "Manda (Australia)"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/n6",
+        "label": "Menthe"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q18650060",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "2833",
+        "grammar_sketch",
+        1974,
+        10,
+        "Darrell T. Tryon 1974"
+      ],
+      [
+        "148903",
+        "wordlist_or_less",
+        1968,
+        1,
+        "Darrell T. Tryon 1968"
+      ]
+    ]
+  },
+  "id": "mand1416",
+  "name": "Manda (Australia)",
+  "description": null,
+  "markup_description": null,
+  "latitude": -13.6481,
+  "longitude": 129.885,
+  "classification": [
+    {
+      "name": "Western Daly",
+      "id": "west2434",
+      "url": "https://glottolog.org/resource/languoid/id/west2434"
+    },
+    {
+      "name": "Maranunggu-Ame-Manda",
+      "id": "waga1259",
+      "url": "https://glottolog.org/resource/languoid/id/waga1259"
+    },
+    {
+      "name": "Ame-Manda",
+      "id": "amem1235",
+      "url": "https://glottolog.org/resource/languoid/id/amem1235"
+    }
+  ],
+  "iso639-3": "zma"
+}

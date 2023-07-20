@@ -1,0 +1,92 @@
+{
+  "pk": 15172,
+  "hid": "alo",
+  "father_pk": 12396,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Allang [alla1249]':1,'Larike [lari1256]':1,'Wakasihu [waka1277]':1)'Larike-Wakasihu [lari1255][alo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3217929",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Wakasihu_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_lrk",
+        "label": "Larike"
+      }
+    ],
+    "meds": [
+      [
+        "82911",
+        "grammar_sketch",
+        1991,
+        112,
+        "Laidig, Carol J. and Laidig, Wyn D. 1991"
+      ],
+      [
+        "22553",
+        "wordlist_or_less",
+        1862,
+        27,
+        "van der Crab, Petrus 1862"
+      ]
+    ]
+  },
+  "id": "lari1255",
+  "name": "Larike-Wakasihu",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.76522,
+  "longitude": 127.956,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Nunusaku",
+      "id": "nunu1252",
+      "url": "https://glottolog.org/resource/languoid/id/nunu1252"
+    },
+    {
+      "name": "Piru Bay",
+      "id": "piru1243",
+      "url": "https://glottolog.org/resource/languoid/id/piru1243"
+    },
+    {
+      "name": "West Piru Bay",
+      "id": "west2843",
+      "url": "https://glottolog.org/resource/languoid/id/west2843"
+    },
+    {
+      "name": "Hoamoal",
+      "id": "hoam1238",
+      "url": "https://glottolog.org/resource/languoid/id/hoam1238"
+    },
+    {
+      "name": "East Hoamoal",
+      "id": "east2468",
+      "url": "https://glottolog.org/resource/languoid/id/east2468"
+    }
+  ],
+  "iso639-3": "alo"
+}

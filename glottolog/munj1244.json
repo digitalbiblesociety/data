@@ -1,0 +1,112 @@
+{
+  "pk": 10871,
+  "hid": "mnj",
+  "father_pk": 7987,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Munji [cent1974]':1,'Mamalgha Munji [mama1270]':1,'Northern Munji [nort2649]':1,'Southern Munji [sout2651]':1)'Munji [munj1244][mnj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4690",
+        "label": "Munji"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33639",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Munji_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/munj1244",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "121500",
+        "grammar_sketch",
+        1972,
+        158,
+        "Aleksandr L. Grjunberg 1972"
+      ],
+      [
+        "326484",
+        "grammar_sketch",
+        1938,
+        76,
+        "Morgenstierne, Georg 1938"
+      ],
+      [
+        "578865",
+        "phonology_or_text",
+        1926,
+        45,
+        "Zarubin, Ivan I. 1926"
+      ],
+      [
+        "129916",
+        "wordlist_or_less",
+        1921,
+        13,
+        "George A. Grierson 1921"
+      ],
+      [
+        "323987",
+        "wordlist_or_less",
+        1880,
+        10,
+        "Wilhelm Tomaschek 1880"
+      ]
+    ]
+  },
+  "id": "munj1244",
+  "name": "Munji",
+  "description": null,
+  "markup_description": null,
+  "latitude": 35.9321,
+  "longitude": 70.9404,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Iranian",
+      "id": "iran1269",
+      "url": "https://glottolog.org/resource/languoid/id/iran1269"
+    },
+    {
+      "name": "Central Eastern Iranian",
+      "id": "cent2399",
+      "url": "https://glottolog.org/resource/languoid/id/cent2399"
+    },
+    {
+      "name": "Yidgha-Munji",
+      "id": "yidg1239",
+      "url": "https://glottolog.org/resource/languoid/id/yidg1239"
+    }
+  ],
+  "iso639-3": "mnj"
+}

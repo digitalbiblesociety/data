@@ -1,0 +1,98 @@
+{
+  "pk": 12096,
+  "hid": "hvn",
+  "father_pk": 9223,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Liae [liae1237]':1,'Mesara [mesa1246]':1,'Raijua [raij1237]':1,'Seba {Indonesia} [seba1248]':1,'Timu [timu1261]':1)'Hawu [sabu1255][hvn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/9170",
+        "label": "Hawu"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_saw",
+        "label": "Sawu"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Hawu_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2319877",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "82900",
+        "grammar",
+        1980,
+        211,
+        "Alan T. Walker 1980"
+      ],
+      [
+        "156423",
+        "grammar_sketch",
+        1892,
+        81,
+        "Kern, H. 1892"
+      ],
+      [
+        "72454",
+        "wordlist_or_less",
+        1846,
+        27,
+        "Heijmering, Geerlof 1846"
+      ]
+    ]
+  },
+  "id": "sabu1255",
+  "name": "Hawu",
+  "description": null,
+  "markup_description": null,
+  "latitude": -10.5522,
+  "longitude": 121.847,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Bima-Lembata",
+      "id": "bima1248",
+      "url": "https://glottolog.org/resource/languoid/id/bima1248"
+    },
+    {
+      "name": "Flores-Sumba-Hawu",
+      "id": "flor1240",
+      "url": "https://glottolog.org/resource/languoid/id/flor1240"
+    },
+    {
+      "name": "Sumba-Hawu",
+      "id": "sumb1242",
+      "url": "https://glottolog.org/resource/languoid/id/sumb1242"
+    },
+    {
+      "name": "Hawu-Dhao",
+      "id": "hawu1234",
+      "url": "https://glottolog.org/resource/languoid/id/hawu1234"
+    }
+  ],
+  "iso639-3": "hvn"
+}

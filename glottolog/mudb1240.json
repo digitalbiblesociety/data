@@ -1,0 +1,106 @@
+{
+  "pk": 8422,
+  "hid": "dmw",
+  "father_pk": 5950,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Eastern Mudbura [east2863]':1,'Karrangpurru [karr1239]':1,'Kuwirrinji [kuwi1234]':1)'Mudburra [mudb1240][dmw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "mwd",
+      "name": "Mudbura",
+      "change_request": "2012-073",
+      "effective": "2013-01-23",
+      "reason": "split",
+      "change_to": [
+        "xrq",
+        "dmw"
+      ],
+      "remedy": "Split into Karranga [xrq] and Mudburra [dmw]",
+      "comment": "Dr. Bowern supports the judgement by Patrick McConvell that treats Karranga as a\nseparate language (see http://wold.livingsources.org/language/182).\n\nWe believe that Dr. Bowern's research and expertise on languages of Australia,\nas well as the support of the sources listed below are sufficient to define this\nas a distinct language."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/c25",
+        "label": "MUDBURRA"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/2550",
+        "label": "Mudburra"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mdb",
+        "label": "Mudburra"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mudbura_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/mudb1240",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6931573",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "581367",
+        "grammar_sketch",
+        2019,
+        283,
+        "David Osgarby 2019"
+      ],
+      [
+        "61511",
+        "wordlist_or_less",
+        1914,
+        30,
+        "Spencer, Baldwin 1914"
+      ]
+    ]
+  },
+  "id": "mudb1240",
+  "name": "Mudburra",
+  "description": null,
+  "markup_description": null,
+  "latitude": -16.7694,
+  "longitude": 132.329,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Desert Nyungic",
+      "id": "dese1234",
+      "url": "https://glottolog.org/resource/languoid/id/dese1234"
+    },
+    {
+      "name": "Ngumpin-Yapa",
+      "id": "ngum1251",
+      "url": "https://glottolog.org/resource/languoid/id/ngum1251"
+    },
+    {
+      "name": "Ngumpin",
+      "id": "ngum1256",
+      "url": "https://glottolog.org/resource/languoid/id/ngum1256"
+    },
+    {
+      "name": "Eastern Ngumpin",
+      "id": "guri1250",
+      "url": "https://glottolog.org/resource/languoid/id/guri1250"
+    }
+  ],
+  "iso639-3": "dmw"
+}

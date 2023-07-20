@@ -1,0 +1,76 @@
+{
+  "pk": 3575,
+  "hid": "ijs",
+  "father_pk": 1911,
+  "family_pk": 23,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Akassa [akas1241]':1,'Nembe [nemb1238]':1)'Southeast Ijo [sout2774][ijs]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/7930",
+        "label": "Southeast Ijo"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3915854",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Southeast_Ijo",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/sout2774",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "129360",
+        "grammar_sketch",
+        1967,
+        133,
+        "Ẹfẹḅọ, Awọtụa L. 1967"
+      ],
+      [
+        "71106",
+        "grammar_sketch",
+        1904,
+        17,
+        "Tepowa, A. 1904"
+      ]
+    ]
+  },
+  "id": "sout2774",
+  "name": "Southeast Ijo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.44235,
+  "longitude": 6.32192,
+  "classification": [
+    {
+      "name": "Ijoid",
+      "id": "ijoi1239",
+      "url": "https://glottolog.org/resource/languoid/id/ijoi1239"
+    },
+    {
+      "name": "Ijo",
+      "id": "ijoo1239",
+      "url": "https://glottolog.org/resource/languoid/id/ijoo1239"
+    },
+    {
+      "name": "Eastern Ijo",
+      "id": "east2383",
+      "url": "https://glottolog.org/resource/languoid/id/east2383"
+    }
+  ],
+  "iso639-3": "ijs"
+}

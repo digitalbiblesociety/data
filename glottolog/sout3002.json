@@ -1,0 +1,99 @@
+{
+  "pk": 14704,
+  "hid": "mxy",
+  "father_pk": 11767,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Southeastern Nochixtlán Mixtec [sout3002][mxy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10529",
+        "label": "Eastern Alta Mixtec"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7070684",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nuxa%C3%A1_Mixtec",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "665211",
+        "grammar_sketch",
+        2001,
+        91,
+        "McKendry, Inga 2001"
+      ],
+      [
+        "50964",
+        "phonology_or_text",
+        1998,
+        14,
+        "Hugghins, Susan J. 1998"
+      ],
+      [
+        "311095",
+        "wordlist_or_less",
+        1981,
+        1,
+        "Josserand, J. Kathryn 1981"
+      ]
+    ]
+  },
+  "id": "sout3002",
+  "name": "Southeastern Nochixtlán Mixtec",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.21219,
+  "longitude": -97.01454,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Amuzgo-Mixtecan",
+      "id": "amuz1253",
+      "url": "https://glottolog.org/resource/languoid/id/amuz1253"
+    },
+    {
+      "name": "Mixtecan",
+      "id": "mixt1422",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1422"
+    },
+    {
+      "name": "Mixtec-Cuicatec",
+      "id": "mixt1423",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1423"
+    },
+    {
+      "name": "Mixtec",
+      "id": "mixt1427",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1427"
+    },
+    {
+      "name": "Northeastern Alta Mixtec",
+      "id": "nort3198",
+      "url": "https://glottolog.org/resource/languoid/id/nort3198"
+    }
+  ],
+  "iso639-3": "mxy"
+}

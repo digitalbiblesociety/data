@@ -1,0 +1,90 @@
+{
+  "pk": 4953,
+  "hid": "suv",
+  "father_pk": 3167,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Chayangtajo [bugu1245]':1,'Lasumpatte [lasu1234]':1)'Chayangtajoic [chay1250]':1,'Kurung Kumey [kuru1311]':1,'Sario Saria [sari1249]':1)'Eastern Puroik [sulu1241][suv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5429",
+        "label": "Puroik"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56408",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Puroik_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_slg",
+        "label": "Sulung"
+      }
+    ],
+    "meds": [
+      [
+        "14269",
+        "grammar",
+        2004,
+        263,
+        "Daqin Li 2004"
+      ],
+      [
+        "30252",
+        "grammar_sketch",
+        1990,
+        67,
+        "Tayeng, Aduk 1990"
+      ],
+      [
+        "302802",
+        "wordlist_or_less",
+        1982,
+        57,
+        "Deuri, Ram Kumar 1982"
+      ],
+      [
+        "311130",
+        "wordlist_or_less",
+        1947,
+        16,
+        "von Fürer-Haimendorf, Christoph 1947"
+      ]
+    ]
+  },
+  "id": "sulu1241",
+  "name": "Eastern Puroik",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.3153778,
+  "longitude": 92.3840919,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kho-Bwa",
+      "id": "khob1235",
+      "url": "https://glottolog.org/resource/languoid/id/khob1235"
+    },
+    {
+      "name": "Puroikic",
+      "id": "puro1234",
+      "url": "https://glottolog.org/resource/languoid/id/puro1234"
+    }
+  ],
+  "iso639-3": "suv"
+}

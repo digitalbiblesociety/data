@@ -1,0 +1,95 @@
+{
+  "pk": 15518,
+  "hid": "pfe",
+  "father_pk": 12786,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dan Muure [danm1238]':1,'Peer Muure [peer1242]':1,'Zongbi [zong1242]':1)'Peere [peer1241][pfe]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q36377",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kutin_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "67359",
+        "grammar",
+        1981,
+        204,
+        "Raen, Konstanse 1981"
+      ],
+      [
+        "103520",
+        "wordlist_or_less",
+        1941,
+        4,
+        "Griaule, Marcel 1941"
+      ],
+      [
+        "128741",
+        "wordlist_or_less",
+        1910,
+        1,
+        "Strümpell, F. 1910"
+      ]
+    ]
+  },
+  "id": "peer1241",
+  "name": "Peere",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.82186,
+  "longitude": 12.2518,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "North Volta-Congo",
+      "id": "nort3149",
+      "url": "https://glottolog.org/resource/languoid/id/nort3149"
+    },
+    {
+      "name": "Cameroun-Ubangian",
+      "id": "came1255",
+      "url": "https://glottolog.org/resource/languoid/id/came1255"
+    },
+    {
+      "name": "Central Adamawa",
+      "id": "samb1322",
+      "url": "https://glottolog.org/resource/languoid/id/samb1322"
+    },
+    {
+      "name": "Samba-Duru",
+      "id": "samb1323",
+      "url": "https://glottolog.org/resource/languoid/id/samb1323"
+    },
+    {
+      "name": "Southern Samba-Duru",
+      "id": "sout3238",
+      "url": "https://glottolog.org/resource/languoid/id/sout3238"
+    }
+  ],
+  "iso639-3": "pfe"
+}

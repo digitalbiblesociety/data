@@ -1,0 +1,107 @@
+{
+  "pk": 11710,
+  "hid": "scs",
+  "father_pk": 8903,
+  "family_pk": 238,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bearlake Slavey [bear1241]':1,'Hare [hare1244]':1,'Mountain Slavey [moun1257]':1)'North Slavey [nort2942][scs]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q20628",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "154847",
+        "long_grammar",
+        1989,
+        1414,
+        "Keren Rice 1989"
+      ],
+      [
+        "301514",
+        "grammar_sketch",
+        1977,
+        191,
+        "Keren Rice 1977"
+      ],
+      [
+        "303490",
+        "grammar_sketch",
+        1876,
+        51,
+        "Petitot, Émile 1876"
+      ],
+      [
+        "173931",
+        "phonology_or_text",
+        1870,
+        0,
+        "Petitot, Emile 1870"
+      ],
+      [
+        "173909",
+        "phonology_or_text",
+        1865,
+        0,
+        "Petitot, Emile 1865"
+      ],
+      [
+        "572718",
+        "wordlist_or_less",
+        1853,
+        0,
+        "Hooper, W. H. 1853"
+      ]
+    ]
+  },
+  "id": "nort2942",
+  "name": "North Slavey",
+  "description": null,
+  "markup_description": null,
+  "latitude": 63.5,
+  "longitude": -125.67,
+  "classification": [
+    {
+      "name": "Athabaskan-Eyak-Tlingit",
+      "id": "atha1245",
+      "url": "https://glottolog.org/resource/languoid/id/atha1245"
+    },
+    {
+      "name": "Athabaskan-Eyak",
+      "id": "atha1246",
+      "url": "https://glottolog.org/resource/languoid/id/atha1246"
+    },
+    {
+      "name": "Athabaskan",
+      "id": "atha1247",
+      "url": "https://glottolog.org/resource/languoid/id/atha1247"
+    },
+    {
+      "name": "Northwestern Canada Athabaskan",
+      "id": "nort3354",
+      "url": "https://glottolog.org/resource/languoid/id/nort3354"
+    },
+    {
+      "name": "Slaveyic",
+      "id": "hare1243",
+      "url": "https://glottolog.org/resource/languoid/id/hare1243"
+    },
+    {
+      "name": "Slave",
+      "id": "slav1253",
+      "url": "https://glottolog.org/resource/languoid/id/slav1253"
+    }
+  ],
+  "iso639-3": "scs"
+}

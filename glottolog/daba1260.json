@@ -1,0 +1,91 @@
+{
+  "pk": 19046,
+  "hid": "dbr",
+  "father_pk": 16775,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Iroole [iroo1238]':1,'Nuclear Dabarre [nucl1703]':1)'Dabarre [daba1260][dbr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3447286",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dabarre_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "78953",
+        "grammar_sketch",
+        1980,
+        98,
+        "Lamberti, Marcello 1980"
+      ]
+    ]
+  },
+  "id": "daba1260",
+  "name": "Dabarre",
+  "description": null,
+  "markup_description": null,
+  "latitude": 1.2179,
+  "longitude": 43.3304,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Cushitic",
+      "id": "cush1243",
+      "url": "https://glottolog.org/resource/languoid/id/cush1243"
+    },
+    {
+      "name": "East Cushitic",
+      "id": "east2699",
+      "url": "https://glottolog.org/resource/languoid/id/east2699"
+    },
+    {
+      "name": "Lowland East Cushitic",
+      "id": "lowl1267",
+      "url": "https://glottolog.org/resource/languoid/id/lowl1267"
+    },
+    {
+      "name": "Southern Lowland East Cushitic",
+      "id": "sout3055",
+      "url": "https://glottolog.org/resource/languoid/id/sout3055"
+    },
+    {
+      "name": "Mainstream Lowland East Cushitic",
+      "id": "main1283",
+      "url": "https://glottolog.org/resource/languoid/id/main1283"
+    },
+    {
+      "name": "Omo-Tana",
+      "id": "omot1245",
+      "url": "https://glottolog.org/resource/languoid/id/omot1245"
+    },
+    {
+      "name": "Eastern Omo-Tana",
+      "id": "east2653",
+      "url": "https://glottolog.org/resource/languoid/id/east2653"
+    },
+    {
+      "name": "Dabarre-Tunni",
+      "id": "daba1261",
+      "url": "https://glottolog.org/resource/languoid/id/daba1261"
+    }
+  ],
+  "iso639-3": "dbr"
+}

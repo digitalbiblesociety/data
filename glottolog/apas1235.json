@@ -1,0 +1,85 @@
+{
+  "pk": 14705,
+  "hid": "mip",
+  "father_pk": 11767,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Apasco-Apoala Mixtec [apas1235][mip]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10532",
+        "label": "Northeastern Alta Mixtec"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q13583505",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Apoala_Mixtec",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "319436",
+        "wordlist_or_less",
+        1968,
+        32,
+        "Lorenzo Jordán and Garcia Alvarado, Raul 1968"
+      ]
+    ]
+  },
+  "id": "apas1235",
+  "name": "Apasco-Apoala Mixtec",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.6143,
+  "longitude": -97.0657,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Amuzgo-Mixtecan",
+      "id": "amuz1253",
+      "url": "https://glottolog.org/resource/languoid/id/amuz1253"
+    },
+    {
+      "name": "Mixtecan",
+      "id": "mixt1422",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1422"
+    },
+    {
+      "name": "Mixtec-Cuicatec",
+      "id": "mixt1423",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1423"
+    },
+    {
+      "name": "Mixtec",
+      "id": "mixt1427",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1427"
+    },
+    {
+      "name": "Northeastern Alta Mixtec",
+      "id": "nort3198",
+      "url": "https://glottolog.org/resource/languoid/id/nort3198"
+    }
+  ],
+  "iso639-3": "mip"
+}

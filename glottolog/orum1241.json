@@ -1,0 +1,84 @@
+{
+  "pk": 5479,
+  "hid": "orr",
+  "father_pk": 3573,
+  "family_pk": 23,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Oruma [orum1241][orr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/7932",
+        "label": "Oruma"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36299",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Oruma_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "590106",
+        "wordlist_or_less",
+        2016,
+        3,
+        "Ebini-Ipiri R. Worufah 2016"
+      ],
+      [
+        "161806",
+        "wordlist_or_less",
+        2007,
+        63,
+        "Blench, Roger M. 2007"
+      ],
+      [
+        "48214",
+        "wordlist_or_less",
+        1990,
+        2,
+        "Lee, J.D. and Williamson, Kay [Ruth] [Margaret] 1990"
+      ]
+    ]
+  },
+  "id": "orum1241",
+  "name": "Oruma",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.9377,
+  "longitude": 6.38295,
+  "classification": [
+    {
+      "name": "Ijoid",
+      "id": "ijoi1239",
+      "url": "https://glottolog.org/resource/languoid/id/ijoi1239"
+    },
+    {
+      "name": "Ijo",
+      "id": "ijoo1239",
+      "url": "https://glottolog.org/resource/languoid/id/ijoo1239"
+    },
+    {
+      "name": "Western Ijo",
+      "id": "west2446",
+      "url": "https://glottolog.org/resource/languoid/id/west2446"
+    },
+    {
+      "name": "Inland Ijo",
+      "id": "inla1259",
+      "url": "https://glottolog.org/resource/languoid/id/inla1259"
+    }
+  ],
+  "iso639-3": "orr"
+}

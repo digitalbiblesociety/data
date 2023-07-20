@@ -1,0 +1,119 @@
+{
+  "pk": 3815,
+  "hid": "thv",
+  "father_pk": 2142,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ghat [ghat1242]':1,'Hoggar [hogg1238]':1)'Tahaggart Tamahaq [taha1241][thv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/290",
+        "label": "Tahaggart Tamahaq"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tug",
+        "label": "Tuareg (Ahaggar)"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tgh",
+        "label": "Tuareg (Ghat)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tamahaq_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/taha1241",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56703",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "30531",
+        "long_grammar",
+        1972,
+        568,
+        "Prasse, Karl-G. 1972, 1973, 1974"
+      ],
+      [
+        "151246",
+        "long_grammar",
+        1908,
+        339,
+        "de Motylinski, Adolphe 1908"
+      ],
+      [
+        "125043",
+        "long_grammar",
+        1896,
+        331,
+        "Hanoteau, Adolphe 1896"
+      ],
+      [
+        "27349",
+        "grammar",
+        1860,
+        0,
+        "Hanoteau, Louis-Adolphe 1860"
+      ],
+      [
+        "118184",
+        "grammar",
+        1858,
+        0,
+        "Reinaud, Joseph Toussaint 1858"
+      ],
+      [
+        "136437",
+        "grammar",
+        1848,
+        0,
+        "Richardson, James 1848"
+      ],
+      [
+        "163647",
+        "wordlist_or_less",
+        1826,
+        4,
+        "[1826] 1826"
+      ]
+    ]
+  },
+  "id": "taha1241",
+  "name": "Tahaggart Tamahaq",
+  "description": null,
+  "markup_description": null,
+  "latitude": 22.5908,
+  "longitude": 8.73169,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Berber",
+      "id": "berb1260",
+      "url": "https://glottolog.org/resource/languoid/id/berb1260"
+    },
+    {
+      "name": "Tuareg",
+      "id": "tuar1240",
+      "url": "https://glottolog.org/resource/languoid/id/tuar1240"
+    }
+  ],
+  "iso639-3": "thv"
+}

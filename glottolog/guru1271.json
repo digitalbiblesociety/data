@@ -1,0 +1,106 @@
+{
+  "pk": 14260,
+  "hid": "grd",
+  "father_pk": 11177,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dooka [dook1241]':1,'Gar [garr1238]':1,'Gayar [gaya1251]':1,'Karakara [kara1505]':1,'Kuuku [kuuk1242]':1,'Lungu [lung1252]':1,'Mbaaru [mbaa1250]':1)'Guruntum-Mbaaru [guru1271][grd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4240",
+        "label": "Guruntum"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3441272",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Guruntum_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "144574",
+        "grammar",
+        2003,
+        160,
+        "Haruna, Andrew 2003"
+      ],
+      [
+        "163222",
+        "grammar_sketch",
+        1988,
+        21,
+        "Jaggar, Philip J. 1988"
+      ],
+      [
+        "107171",
+        "phonology_or_text",
+        1981,
+        0,
+        "Haruna, Andrew 1981"
+      ],
+      [
+        "109280",
+        "wordlist_or_less",
+        1907,
+        2,
+        "Gowers, W.F. 1907"
+      ]
+    ]
+  },
+  "id": "guru1271",
+  "name": "Guruntum-Mbaaru",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.87332,
+  "longitude": 10.162,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "West Chadic",
+      "id": "west2785",
+      "url": "https://glottolog.org/resource/languoid/id/west2785"
+    },
+    {
+      "name": "West Chadic B",
+      "id": "west2790",
+      "url": "https://glottolog.org/resource/languoid/id/west2790"
+    },
+    {
+      "name": "West Chadic B.3",
+      "id": "west2800",
+      "url": "https://glottolog.org/resource/languoid/id/west2800"
+    },
+    {
+      "name": "South Bauchi East",
+      "id": "sout3161",
+      "url": "https://glottolog.org/resource/languoid/id/sout3161"
+    },
+    {
+      "name": "Guruntumic",
+      "id": "guru1272",
+      "url": "https://glottolog.org/resource/languoid/id/guru1272"
+    }
+  ],
+  "iso639-3": "grd"
+}

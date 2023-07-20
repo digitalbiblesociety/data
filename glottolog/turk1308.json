@@ -1,0 +1,110 @@
+{
+  "pk": 9740,
+  "hid": "tuv",
+  "father_pk": 7087,
+  "family_pk": 316,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Northern Turkana [nort2813]':1,'Southern Turkana [sout2829]':1)'Turkana [turk1308][tuv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q36958",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Turkana_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tna",
+        "label": "Turkana"
+      }
+    ],
+    "meds": [
+      [
+        "123485",
+        "long_grammar",
+        1983,
+        513,
+        "Dimmendaal, Gerrit Jan 1983"
+      ],
+      [
+        "128516",
+        "grammar",
+        1973,
+        47,
+        "Anderson, Joan 1973"
+      ],
+      [
+        "123679",
+        "grammar_sketch",
+        1923,
+        50,
+        "Hulley, D.M. 1923"
+      ],
+      [
+        "153108",
+        "grammar_sketch",
+        1921,
+        31,
+        "Barton, Juxon 1921"
+      ],
+      [
+        "578571",
+        "grammar_sketch",
+        1920,
+        6,
+        "White, R. F. 1920"
+      ],
+      [
+        "107942",
+        "wordlist_or_less",
+        1901,
+        75,
+        "Wellby, Montagu Sinclair 1901"
+      ]
+    ]
+  },
+  "id": "turk1308",
+  "name": "Turkana",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.30688,
+  "longitude": 35.7101,
+  "classification": [
+    {
+      "name": "Nilotic",
+      "id": "nilo1247",
+      "url": "https://glottolog.org/resource/languoid/id/nilo1247"
+    },
+    {
+      "name": "Eastern Nilotic",
+      "id": "east2418",
+      "url": "https://glottolog.org/resource/languoid/id/east2418"
+    },
+    {
+      "name": "Teso-Lotuxo-Maa",
+      "id": "teso1247",
+      "url": "https://glottolog.org/resource/languoid/id/teso1247"
+    },
+    {
+      "name": "Teso-Turkana",
+      "id": "teso1248",
+      "url": "https://glottolog.org/resource/languoid/id/teso1248"
+    },
+    {
+      "name": "Turkanic",
+      "id": "turk1307",
+      "url": "https://glottolog.org/resource/languoid/id/turk1307"
+    }
+  ],
+  "iso639-3": "tuv"
+}

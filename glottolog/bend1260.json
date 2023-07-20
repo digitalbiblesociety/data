@@ -1,0 +1,66 @@
+{
+  "pk": 5891,
+  "hid": "bct",
+  "father_pk": 3933,
+  "family_pk": 140,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Bendi [bend1260][bct]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Bendi_language_(Central_Sudanic)",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q8836662",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "120192",
+        "wordlist_or_less",
+        1934,
+        2,
+        "Liesenborghs, Oswald 1934"
+      ]
+    ]
+  },
+  "id": "bend1260",
+  "name": "Bendi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 2.20229,
+  "longitude": 30.3679,
+  "classification": [
+    {
+      "name": "Central Sudanic",
+      "id": "cent2225",
+      "url": "https://glottolog.org/resource/languoid/id/cent2225"
+    },
+    {
+      "name": "Membi-Mangbutu-Efe",
+      "id": "memb1239",
+      "url": "https://glottolog.org/resource/languoid/id/memb1239"
+    },
+    {
+      "name": "Mangbutu-Efe",
+      "id": "mang1425",
+      "url": "https://glottolog.org/resource/languoid/id/mang1425"
+    },
+    {
+      "name": "Leseic",
+      "id": "lese1245",
+      "url": "https://glottolog.org/resource/languoid/id/lese1245"
+    }
+  ],
+  "iso639-3": "bct"
+}

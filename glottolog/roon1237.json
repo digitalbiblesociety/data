@@ -1,0 +1,116 @@
+{
+  "pk": 15311,
+  "hid": "rnn",
+  "father_pk": 12484,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Roon [roon1237][rnn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7366335",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Roon_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "570493",
+        "phonology_or_text",
+        2011,
+        117,
+        "Deres, Ongen Nover 2011"
+      ],
+      [
+        "129596",
+        "wordlist_or_less",
+        1992,
+        3,
+        "Smits, Leo and Voorhoeve, C. L. 1992"
+      ],
+      [
+        "126692",
+        "wordlist_or_less",
+        1975,
+        1,
+        "C. L. Voorhoeve 1975"
+      ],
+      [
+        "17111",
+        "wordlist_or_less",
+        1955,
+        1,
+        "Galis, Klaas Wilhelm 1955"
+      ],
+      [
+        "54846",
+        "wordlist_or_less",
+        1862,
+        1,
+        "Latham, Robert Gordon 1862"
+      ],
+      [
+        "109606",
+        "wordlist_or_less",
+        1855,
+        1,
+        "Fabritius, G. J. 1855"
+      ]
+    ]
+  },
+  "id": "roon1237",
+  "name": "Roon",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.43005,
+  "longitude": 134.556,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "South Halmahera-West New Guinea",
+      "id": "sout3229",
+      "url": "https://glottolog.org/resource/languoid/id/sout3229"
+    },
+    {
+      "name": "Cenderawasih Bay",
+      "id": "cend1238",
+      "url": "https://glottolog.org/resource/languoid/id/cend1238"
+    },
+    {
+      "name": "Biakic",
+      "id": "biak1249",
+      "url": "https://glottolog.org/resource/languoid/id/biak1249"
+    },
+    {
+      "name": "Biak-Roon",
+      "id": "biak1250",
+      "url": "https://glottolog.org/resource/languoid/id/biak1250"
+    }
+  ],
+  "iso639-3": "rnn"
+}

@@ -1,0 +1,81 @@
+{
+  "pk": 2647,
+  "hid": "mue",
+  "father_pk": 1230,
+  "family_pk": 223,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Mixed Language",
+  "newick": "(('Salcedo Media Lengua [salc1240]':1,'Yacubamba Media Lengua [yacu1234]':1)'Cotopaxi Media Lengua [coto1254]':1,'Imbabura Media Lengua [imba1242]':1)'Media Lengua [medi1245][mue]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q36066",
+        "label": null
+      },
+      {
+        "url": "https://apics-online.info/contributions/73",
+        "label": "Media Lengua"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Media_Lengua",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "48615",
+        "grammar_sketch",
+        2008,
+        228,
+        "Rendón, Jorge Gómez 2008"
+      ],
+      [
+        "103143",
+        "grammar_sketch",
+        1997,
+        62,
+        "Pieter Muysken 1997"
+      ],
+      [
+        "175396",
+        "phonology_or_text",
+        1981,
+        22,
+        "Muysken, Pieter 1981"
+      ],
+      [
+        "86781",
+        "wordlist_or_less",
+        1980,
+        9,
+        "Muysken, Pieter 1980"
+      ]
+    ]
+  },
+  "id": "medi1245",
+  "name": "Media Lengua",
+  "description": null,
+  "markup_description": null,
+  "latitude": -1.04518,
+  "longitude": -78.5392,
+  "classification": [
+    {
+      "name": "Mixed Language",
+      "id": "mixe1287",
+      "url": "https://glottolog.org/resource/languoid/id/mixe1287"
+    },
+    {
+      "name": "Spanish-Quechua",
+      "id": "span1267",
+      "url": "https://glottolog.org/resource/languoid/id/span1267"
+    }
+  ],
+  "iso639-3": "mue"
+}

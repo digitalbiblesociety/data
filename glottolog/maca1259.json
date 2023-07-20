@@ -1,0 +1,75 @@
+{
+  "pk": 1936,
+  "hid": "mbn",
+  "father_pk": 482,
+  "family_pk": 36,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Macaguane del Colorado [maca1266]':1,'Macaguane del Cuiloto [maca1265]':1)'Hitnu [maca1259][mbn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3025",
+        "label": "Macaguán"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3273980",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Macagu%C3%A1n_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/maca1259",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mcg",
+        "label": "Macaguán"
+      }
+    ],
+    "meds": [
+      [
+        "92985",
+        "grammar_sketch",
+        1979,
+        137,
+        "Lobo-Guerrero, Miguel 1979"
+      ],
+      [
+        "30897",
+        "wordlist_or_less",
+        1978,
+        0,
+        "Ortiz, Francisco 1978"
+      ]
+    ]
+  },
+  "id": "maca1259",
+  "name": "Hitnu",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.34582,
+  "longitude": -71.2671,
+  "classification": [
+    {
+      "name": "Guahiboan",
+      "id": "guah1252",
+      "url": "https://glottolog.org/resource/languoid/id/guah1252"
+    },
+    {
+      "name": "Nuclear Guahiboan",
+      "id": "nucl1828",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1828"
+    }
+  ],
+  "iso639-3": "mbn"
+}

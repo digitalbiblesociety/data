@@ -1,0 +1,79 @@
+{
+  "pk": 1355,
+  "hid": "bcf",
+  "father_pk": 269,
+  "family_pk": 269,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Gama [gama1254]':1,'Lower Bamu [lowe1421]':1,'Nuhiro [nuhi1238]':1,'Sisiame [sisi1249]':1,'Upper Bamu [uppe1434]':1)'Bamu [bamu1257][bcf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3503788",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bamu_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "314566",
+        "phonology_or_text",
+        2011,
+        95,
+        "Carr, Chris and Carr, Phil 2011"
+      ],
+      [
+        "8510",
+        "phonology_or_text",
+        1951,
+        7,
+        "Stefan Wurm 1951"
+      ],
+      [
+        "121413",
+        "wordlist_or_less",
+        1930,
+        2,
+        "Baxter E. Riley and Sidney H. Ray 1930, 1930, 1931"
+      ],
+      [
+        "72814",
+        "wordlist_or_less",
+        1913,
+        2,
+        "Sidney H. Ray 1913-1914"
+      ],
+      [
+        "69040",
+        "wordlist_or_less",
+        1907,
+        1,
+        "Sidney H. Ray 1907"
+      ]
+    ]
+  },
+  "id": "bamu1257",
+  "name": "Bamu",
+  "description": null,
+  "markup_description": null,
+  "latitude": -7.93818,
+  "longitude": 143.545,
+  "classification": [
+    {
+      "name": "Kiwaian",
+      "id": "kiwa1251",
+      "url": "https://glottolog.org/resource/languoid/id/kiwa1251"
+    }
+  ],
+  "iso639-3": "bcf"
+}

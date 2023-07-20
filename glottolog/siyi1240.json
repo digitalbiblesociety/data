@@ -1,0 +1,94 @@
+{
+  "pk": 13287,
+  "hid": "csy",
+  "father_pk": 10224,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Sizang Chin [siyi1240][csy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_chs",
+        "label": "Chin (Siyin)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sizang_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7533375",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "446683",
+        "grammar",
+        2010,
+        293,
+        "Sarangthem, Bobita 2010"
+      ],
+      [
+        "156283",
+        "grammar",
+        1925,
+        0,
+        "Naylor, L.B. 1925"
+      ],
+      [
+        "314416",
+        "grammar_sketch",
+        1891,
+        121,
+        "Frank M. Rundall 1891"
+      ]
+    ]
+  },
+  "id": "siyi1240",
+  "name": "Sizang Chin",
+  "description": null,
+  "markup_description": null,
+  "latitude": 23.8192,
+  "longitude": 93.6884,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Kuki-Chin",
+      "id": "kuki1246",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1246"
+    },
+    {
+      "name": "Peripheral Kuki-Chin",
+      "id": "peri1260",
+      "url": "https://glottolog.org/resource/languoid/id/peri1260"
+    },
+    {
+      "name": "Northeastern Kuki-Chin",
+      "id": "nort3179",
+      "url": "https://glottolog.org/resource/languoid/id/nort3179"
+    },
+    {
+      "name": "Sizangic",
+      "id": "siza1239",
+      "url": "https://glottolog.org/resource/languoid/id/siza1239"
+    }
+  ],
+  "iso639-3": "csy"
+}

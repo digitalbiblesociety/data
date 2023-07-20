@@ -1,0 +1,85 @@
+{
+  "pk": 9928,
+  "hid": "orx",
+  "father_pk": 7164,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Oro [oroo1241][orx]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3813396",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Oro_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "116869",
+        "grammar_sketch",
+        1978,
+        211,
+        "Kuperus, Juliana 1978"
+      ],
+      [
+        "27519",
+        "phonology_or_text",
+        1956,
+        14,
+        "Simmons, Donald 1956"
+      ],
+      [
+        "63167",
+        "wordlist_or_less",
+        1913,
+        0,
+        "Ward, William James 1913"
+      ]
+    ]
+  },
+  "id": "oroo1241",
+  "name": "Oro",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.86134,
+  "longitude": 8.11394,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Delta Cross",
+      "id": "delt1251",
+      "url": "https://glottolog.org/resource/languoid/id/delt1251"
+    },
+    {
+      "name": "Lower Cross",
+      "id": "obol1242",
+      "url": "https://glottolog.org/resource/languoid/id/obol1242"
+    }
+  ],
+  "iso639-3": "orx"
+}

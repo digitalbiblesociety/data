@@ -1,0 +1,88 @@
+{
+  "pk": 14955,
+  "hid": "kod",
+  "father_pk": 12095,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kodi Bangedo [kodi1249]':1,'Kodi Bokol [kodi1248]':1)'Kodi [kodi1247][kod]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q4577633",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kodi_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "571340",
+        "grammar_sketch",
+        1957,
+        31,
+        "Fischer, H. T. 1957"
+      ],
+      [
+        "102747",
+        "wordlist_or_less",
+        1917,
+        5,
+        "Wielenga, D. K. 1917"
+      ]
+    ]
+  },
+  "id": "kodi1247",
+  "name": "Kodi",
+  "description": null,
+  "markup_description": null,
+  "latitude": -9.6373,
+  "longitude": 119.114,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Bima-Lembata",
+      "id": "bima1248",
+      "url": "https://glottolog.org/resource/languoid/id/bima1248"
+    },
+    {
+      "name": "Flores-Sumba-Hawu",
+      "id": "flor1240",
+      "url": "https://glottolog.org/resource/languoid/id/flor1240"
+    },
+    {
+      "name": "Sumba-Hawu",
+      "id": "sumb1242",
+      "url": "https://glottolog.org/resource/languoid/id/sumb1242"
+    },
+    {
+      "name": "Sumba",
+      "id": "sumb1243",
+      "url": "https://glottolog.org/resource/languoid/id/sumb1243"
+    },
+    {
+      "name": "Kodi-Gaura",
+      "id": "kodi1251",
+      "url": "https://glottolog.org/resource/languoid/id/kodi1251"
+    }
+  ],
+  "iso639-3": "kod"
+}

@@ -1,0 +1,81 @@
+{
+  "pk": 10620,
+  "hid": "pce",
+  "father_pk": 7724,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bulei [bule1241]':1,'Raojin [raoj1238]':1)'Ruching Palaung [ruch1235][pce]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12953798",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "301458",
+        "grammar_sketch",
+        1986,
+        151,
+        "Chen, Xiangmu and Wan, Jingliu and Lai, Yongliang 1986"
+      ],
+      [
+        "15794",
+        "grammar_sketch",
+        1972,
+        53,
+        "Janzen, Hermann and Janzen, Margerete 1972"
+      ],
+      [
+        "580954",
+        "wordlist_or_less",
+        1905,
+        65,
+        "C. C. Lowis 1905"
+      ]
+    ]
+  },
+  "id": "ruch1235",
+  "name": "Ruching Palaung",
+  "description": null,
+  "markup_description": null,
+  "latitude": 21.6176,
+  "longitude": 98.0915,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Khasi-Palaung",
+      "id": "khas1273",
+      "url": "https://glottolog.org/resource/languoid/id/khas1273"
+    },
+    {
+      "name": "Palaungic",
+      "id": "pala1352",
+      "url": "https://glottolog.org/resource/languoid/id/pala1352"
+    },
+    {
+      "name": "West Palaungic",
+      "id": "west2791",
+      "url": "https://glottolog.org/resource/languoid/id/west2791"
+    },
+    {
+      "name": "Palaung",
+      "id": "pala1336",
+      "url": "https://glottolog.org/resource/languoid/id/pala1336"
+    }
+  ],
+  "iso639-3": "pce"
+}

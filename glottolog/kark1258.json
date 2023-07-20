@@ -1,0 +1,85 @@
+{
+  "pk": 2183,
+  "hid": "yuj",
+  "father_pk": 1005,
+  "family_pk": 126,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Auia-Tarauwi [auia1238]':1,'North Central Yuri [nort2936]':1,'Usari [usar1244]':1)'Karkar-Yuri [kark1258][yuj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10680",
+        "label": "Karkar-Yuri"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kyr",
+        "label": "Karkar-Yuri"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Karkar_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2992906",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "311786",
+        "grammar_sketch",
+        1987,
+        0,
+        "Price, Dorothy 2008 [1987]"
+      ],
+      [
+        "59901",
+        "wordlist_or_less",
+        1975,
+        3,
+        "Stephen A. Wurm and McElhanon, Kenneth A. 1975"
+      ],
+      [
+        "108516",
+        "wordlist_or_less",
+        1973,
+        1,
+        "Laycock, Donald C. 1973"
+      ],
+      [
+        "24303",
+        "wordlist_or_less",
+        1964,
+        1,
+        "Richard Loving and Jack Bass 1964"
+      ]
+    ]
+  },
+  "id": "kark1258",
+  "name": "Karkar-Yuri",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.74954,
+  "longitude": 141.098,
+  "classification": [
+    {
+      "name": "Pauwasi",
+      "id": "pauw1244",
+      "url": "https://glottolog.org/resource/languoid/id/pauw1244"
+    },
+    {
+      "name": "Eastern Pauwasi",
+      "id": "east2530",
+      "url": "https://glottolog.org/resource/languoid/id/east2530"
+    }
+  ],
+  "iso639-3": "yuj"
+}

@@ -1,0 +1,67 @@
+{
+  "pk": 2160,
+  "hid": "tde",
+  "father_pk": 988,
+  "family_pk": 117,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tiranige Diga Dogon [tira1258][tde]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/8738",
+        "label": "Tiranige Diga"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5313387",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Duleri_Dogon",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "311582",
+        "long_grammar",
+        2014,
+        314,
+        "Heath, Jeffrey 2014"
+      ],
+      [
+        "70852",
+        "wordlist_or_less",
+        1953,
+        2,
+        "Bertho, J. 1953"
+      ]
+    ]
+  },
+  "id": "tira1258",
+  "name": "Tiranige Diga Dogon",
+  "description": null,
+  "markup_description": null,
+  "latitude": 14.76,
+  "longitude": -3.7,
+  "classification": [
+    {
+      "name": "Dogon",
+      "id": "dogo1299",
+      "url": "https://glottolog.org/resource/languoid/id/dogo1299"
+    },
+    {
+      "name": "West Dogon",
+      "id": "west2779",
+      "url": "https://glottolog.org/resource/languoid/id/west2779"
+    }
+  ],
+  "iso639-3": "tde"
+}

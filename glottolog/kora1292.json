@@ -1,0 +1,95 @@
+{
+  "pk": 6195,
+  "hid": "kqz",
+  "father_pk": 4175,
+  "family_pk": 171,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Eini [eini1234]':1,'Gysiqua [gysi1234]':1,'Kora [kora1299]':1,'Upper Orange River Korana [uppe1468]':1)'Korana [kora1292][kqz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1306",
+        "label": "Korana"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2756709",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Khoemana",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_krn",
+        "label": "Korana"
+      }
+    ],
+    "meds": [
+      [
+        "128541",
+        "grammar",
+        1930,
+        152,
+        "Meinhof, Carl 1930"
+      ],
+      [
+        "55668",
+        "grammar",
+        1850,
+        5,
+        "Wuras, Carl F. 1850"
+      ],
+      [
+        "62719",
+        "grammar_sketch",
+        1812,
+        4,
+        "Lichtenstein, Hinrich [Martin] [Karl] 1812"
+      ],
+      [
+        "74349",
+        "wordlist_or_less",
+        1726,
+        153,
+        "Valentyn, François 1971/1973 [1726]"
+      ]
+    ]
+  },
+  "id": "kora1292",
+  "name": "Korana",
+  "description": null,
+  "markup_description": null,
+  "latitude": -30.4207,
+  "longitude": 19.7711,
+  "classification": [
+    {
+      "name": "Khoe-Kwadi",
+      "id": "khoe1240",
+      "url": "https://glottolog.org/resource/languoid/id/khoe1240"
+    },
+    {
+      "name": "Khoe",
+      "id": "khoe1241",
+      "url": "https://glottolog.org/resource/languoid/id/khoe1241"
+    },
+    {
+      "name": "Khoekhoe",
+      "id": "khoe1242",
+      "url": "https://glottolog.org/resource/languoid/id/khoe1242"
+    },
+    {
+      "name": "South Khoekhoe",
+      "id": "sout3214",
+      "url": "https://glottolog.org/resource/languoid/id/sout3214"
+    }
+  ],
+  "iso639-3": "kqz"
+}

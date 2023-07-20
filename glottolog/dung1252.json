@@ -1,0 +1,87 @@
+{
+  "pk": 13228,
+  "hid": "raa",
+  "father_pk": 10168,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Khesang [khes1241]':1)'Dungmali [dung1252][raa]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5323",
+        "label": "Dungmali"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56871",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dungmali_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "78648",
+        "wordlist_or_less",
+        1909,
+        4,
+        "George A. Grierson 1909"
+      ],
+      [
+        "72592",
+        "wordlist_or_less",
+        1857,
+        3,
+        "Hodgson, Brian Houghton 1857"
+      ]
+    ]
+  },
+  "id": "dung1252",
+  "name": "Dungmali",
+  "description": null,
+  "markup_description": null,
+  "latitude": 26.9813,
+  "longitude": 87.3328,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Himalayish",
+      "id": "hima1249",
+      "url": "https://glottolog.org/resource/languoid/id/hima1249"
+    },
+    {
+      "name": "Mahakiranti",
+      "id": "maha1306",
+      "url": "https://glottolog.org/resource/languoid/id/maha1306"
+    },
+    {
+      "name": "Kiranti",
+      "id": "kira1253",
+      "url": "https://glottolog.org/resource/languoid/id/kira1253"
+    },
+    {
+      "name": "Central Kiranti",
+      "id": "cent2250",
+      "url": "https://glottolog.org/resource/languoid/id/cent2250"
+    },
+    {
+      "name": "Southern Central Kiranti",
+      "id": "sout2736",
+      "url": "https://glottolog.org/resource/languoid/id/sout2736"
+    }
+  ],
+  "iso639-3": "raa"
+}

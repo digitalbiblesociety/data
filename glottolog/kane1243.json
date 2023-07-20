@@ -1,0 +1,98 @@
+{
+  "pk": 5440,
+  "hid": "kbl",
+  "father_pk": 3567,
+  "family_pk": 16,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Karkawu [kark1257]':1,'Mando [mand1438]':1,'Nguri [ngur1265]':1)'Kanembu [kane1243][kbl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q35521",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kanembu_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kbu",
+        "label": "Kanembu"
+      }
+    ],
+    "meds": [
+      [
+        "312064",
+        "long_grammar",
+        1854,
+        356,
+        "Koelle, Sigismund W. 1854"
+      ],
+      [
+        "137948",
+        "grammar",
+        1821,
+        0,
+        "Lyon, George Francis 1821"
+      ],
+      [
+        "132220",
+        "wordlist_or_less",
+        1697,
+        14,
+        "Lange, Dierk 1972 [1697]"
+      ],
+      [
+        "101755",
+        "wordlist_or_less",
+        1578,
+        0,
+        "Ibn Furtu 1578"
+      ],
+      [
+        "74109",
+        "wordlist_or_less",
+        1576,
+        0,
+        "Ibn Furtu 1576"
+      ]
+    ]
+  },
+  "id": "kane1243",
+  "name": "Kanembu",
+  "description": null,
+  "markup_description": null,
+  "latitude": 13.8749,
+  "longitude": 14.8437,
+  "classification": [
+    {
+      "name": "Saharan",
+      "id": "saha1256",
+      "url": "https://glottolog.org/resource/languoid/id/saha1256"
+    },
+    {
+      "name": "Western Saharan",
+      "id": "west2505",
+      "url": "https://glottolog.org/resource/languoid/id/west2505"
+    },
+    {
+      "name": "Kanuri-Kanembu",
+      "id": "kanu1279",
+      "url": "https://glottolog.org/resource/languoid/id/kanu1279"
+    },
+    {
+      "name": "Kanembuic",
+      "id": "kane1244",
+      "url": "https://glottolog.org/resource/languoid/id/kane1244"
+    }
+  ],
+  "iso639-3": "kbl"
+}

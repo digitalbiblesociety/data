@@ -1,0 +1,80 @@
+{
+  "pk": 7726,
+  "hid": "lbn",
+  "father_pk": 5352,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Lower Lamet [lowe1393]':1,'Upper Lamet [uppe1404]':1)'Lamet [lame1256][lbn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3216723",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lamet_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "155978",
+        "phonology_or_text",
+        1980,
+        162,
+        "Narumol, Charoenma 1980"
+      ],
+      [
+        "128653",
+        "phonology_or_text",
+        1965,
+        30,
+        "Yasuyuki Mitani 1965"
+      ],
+      [
+        "325184",
+        "wordlist_or_less",
+        1873,
+        3,
+        "de Lagrée, Doudart and Garnier, Francis 1873"
+      ]
+    ]
+  },
+  "id": "lame1256",
+  "name": "Lamet",
+  "description": null,
+  "markup_description": null,
+  "latitude": 19.8829,
+  "longitude": 100.268,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Khasi-Palaung",
+      "id": "khas1273",
+      "url": "https://glottolog.org/resource/languoid/id/khas1273"
+    },
+    {
+      "name": "Palaungic",
+      "id": "pala1352",
+      "url": "https://glottolog.org/resource/languoid/id/pala1352"
+    },
+    {
+      "name": "East Palaungic",
+      "id": "east2331",
+      "url": "https://glottolog.org/resource/languoid/id/east2331"
+    }
+  ],
+  "iso639-3": "lbn"
+}

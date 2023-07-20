@@ -1,0 +1,103 @@
+{
+  "pk": 3264,
+  "hid": "itl",
+  "father_pk": 1715,
+  "family_pk": 340,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Sedanka [seda1263]':1,'Xajrjuzovskij [xajr1238]':1)'West Itelmen [itel1242][itl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1062",
+        "label": "Itelmen"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ite",
+        "label": "Itelmen"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Itelmen_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/itel1242",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33624",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "71580",
+        "long_grammar",
+        1976,
+        424,
+        "A. P. Volodin 1976"
+      ],
+      [
+        "312161",
+        "grammar_sketch",
+        1960,
+        30,
+        "T. A. Moll 1960"
+      ],
+      [
+        "75920",
+        "grammar_sketch",
+        1934,
+        20,
+        "S. N. Stebnitskij 1934"
+      ],
+      [
+        "576264",
+        "wordlist_or_less",
+        1893,
+        84,
+        "Radliński, Ignacy 1893"
+      ],
+      [
+        "50725",
+        "wordlist_or_less",
+        1790,
+        11,
+        "J. B. B. Lesseps and J. F. Galaup 1790"
+      ],
+      [
+        "470984",
+        "wordlist_or_less",
+        1755,
+        0,
+        "Stepan P. Krasheninnikov 1755"
+      ]
+    ]
+  },
+  "id": "itel1242",
+  "name": "West Itelmen",
+  "description": null,
+  "markup_description": null,
+  "latitude": 56.046173,
+  "longitude": 156.30704,
+  "classification": [
+    {
+      "name": "Chukotko-Kamchatkan",
+      "id": "chuk1271",
+      "url": "https://glottolog.org/resource/languoid/id/chuk1271"
+    },
+    {
+      "name": "Kamchatkan",
+      "id": "kamc1243",
+      "url": "https://glottolog.org/resource/languoid/id/kamc1243"
+    }
+  ],
+  "iso639-3": "itl"
+}

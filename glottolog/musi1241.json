@@ -1,0 +1,100 @@
+{
+  "pk": 17432,
+  "hid": "mui",
+  "father_pk": 15094,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "((('Belide [beli1262]':1,'Lematang Ilir [lema1245]':1,('Burai [bura1299]':1,'Meranjat [mera1244]':1,'Nuclear Penesak [nucl1813]':1,'Pedamaran [peda1234]':1)'Panesak [pane1234]':1,'Penesak [pene1237][pen]':1)'Lowland Musi [coas1330]':1,('Palembang Lama [pale1265]':1,'Palembang Pasar [pale1267]':1,'Palembang Pesisir [pale1268]':1)'Palembang [pale1264][plm]':1)'Palembang-Lowland [pale1266]':1,(('Kelingi [keli1253]':1,'Penukal [penu1234]':1,'Sekayu Malay [seka1246]':1)'Nuclear Musi [nucl1812]':1,'Pegagan [pega1234]':1,'Rawas Musi [rawa1270]':1)'Upper Musi [uppe1480]':1)'Musi [musi1241][mui]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 21,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Musi_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q615660",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "45687",
+        "grammar",
+        1984,
+        277,
+        "Yuslizal Saleh and M. Lamsari and Abdul Madjid 1984"
+      ],
+      [
+        "105281",
+        "grammar_sketch",
+        1981,
+        236,
+        "Zainal Abidin Gani and Mustanni Ahmad and Diemroh Ihsan 1981"
+      ],
+      [
+        "551504",
+        "phonology_or_text",
+        1970,
+        0,
+        "Harun Mat Piah 1970"
+      ]
+    ]
+  },
+  "id": "musi1241",
+  "name": "Musi",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.93987,
+  "longitude": 103.945,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Malayo-Sumbawan",
+      "id": "mala1536",
+      "url": "https://glottolog.org/resource/languoid/id/mala1536"
+    },
+    {
+      "name": "North and East Malayo-Sumbawan",
+      "id": "nort3170",
+      "url": "https://glottolog.org/resource/languoid/id/nort3170"
+    },
+    {
+      "name": "Malayic",
+      "id": "mala1538",
+      "url": "https://glottolog.org/resource/languoid/id/mala1538"
+    },
+    {
+      "name": "Nuclear Malayic",
+      "id": "nucl1806",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1806"
+    },
+    {
+      "name": "Central Sumatran Malay",
+      "id": "cent2391",
+      "url": "https://glottolog.org/resource/languoid/id/cent2391"
+    },
+    {
+      "name": "Music",
+      "id": "musi1243",
+      "url": "https://glottolog.org/resource/languoid/id/musi1243"
+    }
+  ],
+  "iso639-3": "mui"
+}

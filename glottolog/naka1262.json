@@ -1,0 +1,111 @@
+{
+  "pk": 17626,
+  "hid": "nak",
+  "father_pk": 15247,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bileki [bile1245]':1,'Losa [losa1236]':1,'Maututu [maut1237]':1,'Ubae [ubae1237]':1,'Vere {Papua New Guinea} [vere1251]':1)'Nakanai [naka1262][nak]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nak",
+        "label": "Nakanai"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nakanai_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6528669",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "148952",
+        "long_grammar",
+        1978,
+        431,
+        "Raymond L. Johnston 1978"
+      ],
+      [
+        "318942",
+        "phonology_or_text",
+        1915,
+        41,
+        "Ferdinand Hees 1915-1916"
+      ],
+      [
+        "316690",
+        "wordlist_or_less",
+        1907,
+        55,
+        "Richard Parkinson 1907"
+      ],
+      [
+        "587798",
+        "wordlist_or_less",
+        1905,
+        0,
+        "Jenks, A. E. 1905"
+      ]
+    ]
+  },
+  "id": "naka1262",
+  "name": "Nakanai",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.59931,
+  "longitude": 150.888,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Western Oceanic linkage",
+      "id": "west2818",
+      "url": "https://glottolog.org/resource/languoid/id/west2818"
+    },
+    {
+      "name": "Meso Melanesian linkage",
+      "id": "meso1253",
+      "url": "https://glottolog.org/resource/languoid/id/meso1253"
+    },
+    {
+      "name": "Willaumez linkage",
+      "id": "will1243",
+      "url": "https://glottolog.org/resource/languoid/id/will1243"
+    },
+    {
+      "name": "Nakanai-Meramera",
+      "id": "naka1266",
+      "url": "https://glottolog.org/resource/languoid/id/naka1266"
+    }
+  ],
+  "iso639-3": "nak"
+}

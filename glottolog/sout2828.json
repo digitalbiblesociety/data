@@ -1,0 +1,89 @@
+{
+  "pk": 3944,
+  "hid": "snm",
+  "father_pk": 2242,
+  "family_pk": 140,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ogoko [ogok1238]':1,'Okollo [okol1240]':1,'Rigbo [rigb1238]':1)'Southern Ma''di [sout2828][snm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q15637273",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/sout2828",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "37147",
+        "grammar_sketch",
+        1905,
+        301,
+        "Spire, F. 1905"
+      ],
+      [
+        "102771",
+        "wordlist_or_less",
+        1883,
+        26,
+        "Felkin, Robert William 1883-1884"
+      ],
+      [
+        "16765",
+        "wordlist_or_less",
+        1882,
+        6,
+        "Bey, Emin (Eduard Schnitzer) 1882"
+      ],
+      [
+        "314599",
+        "wordlist_or_less",
+        1864,
+        5,
+        "Miani, Giovanni 1864"
+      ],
+      [
+        "72759",
+        "wordlist_or_less",
+        1863,
+        0,
+        "Miani, Giovanni 1863"
+      ]
+    ]
+  },
+  "id": "sout2828",
+  "name": "Southern Ma'di",
+  "description": null,
+  "markup_description": null,
+  "latitude": 2.8735,
+  "longitude": 31.25,
+  "classification": [
+    {
+      "name": "Central Sudanic",
+      "id": "cent2225",
+      "url": "https://glottolog.org/resource/languoid/id/cent2225"
+    },
+    {
+      "name": "Moru-Madi",
+      "id": "moru1252",
+      "url": "https://glottolog.org/resource/languoid/id/moru1252"
+    },
+    {
+      "name": "Southern Moru-Madi",
+      "id": "sout2827",
+      "url": "https://glottolog.org/resource/languoid/id/sout2827"
+    }
+  ],
+  "iso639-3": "snm"
+}

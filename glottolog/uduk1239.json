@@ -1,0 +1,93 @@
+{
+  "pk": 3597,
+  "hid": "udu",
+  "father_pk": 1925,
+  "family_pk": 29,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Bonya Uduk [bony1234]':1,'Chali Uduk [chal1268]':1)'Northern Uduk [nort3337]':1,'Yabus Uduk [yabu1235]':1)'Uduk [uduk1239][udu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Uduk_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/uduk1239",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3182573",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "314872",
+        "long_grammar",
+        2015,
+        445,
+        "Don Killian 2015"
+      ],
+      [
+        "128256",
+        "grammar",
+        1999,
+        0,
+        "Stevenson, Roland C. and Marvin Lionel Bender 1999"
+      ],
+      [
+        "29623",
+        "phonology_or_text",
+        1970,
+        183,
+        "Beam, Mary S. and Cridland, Elizabeth A. 1970"
+      ],
+      [
+        "56466",
+        "phonology_or_text",
+        1963,
+        0,
+        "Mary Beam and Betty Cridland and Rasha Angwo, Paul 1963"
+      ],
+      [
+        "159016",
+        "wordlist_or_less",
+        1932,
+        3,
+        "Evans-Pritchard, Edward E. 1932"
+      ]
+    ]
+  },
+  "id": "uduk1239",
+  "name": "Uduk",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.16012,
+  "longitude": 34.2293,
+  "classification": [
+    {
+      "name": "Koman",
+      "id": "koma1264",
+      "url": "https://glottolog.org/resource/languoid/id/koma1264"
+    },
+    {
+      "name": "Central Koman",
+      "id": "opuu1238",
+      "url": "https://glottolog.org/resource/languoid/id/opuu1238"
+    },
+    {
+      "name": "Komo-Uduk",
+      "id": "twam1235",
+      "url": "https://glottolog.org/resource/languoid/id/twam1235"
+    }
+  ],
+  "iso639-3": "udu"
+}

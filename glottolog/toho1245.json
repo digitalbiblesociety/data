@@ -1,0 +1,113 @@
+{
+  "pk": 6113,
+  "hid": "ood",
+  "father_pk": 4106,
+  "family_pk": 155,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Akimel O''odham [akim1239]':1,'Tohono O''odam [toho1246]':1)'Tohono O''odham [toho1245][ood]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1166",
+        "label": "O'odham"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ood",
+        "label": "O'odham"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/O%CA%BCodham_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/toho1245",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2393095",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "557423",
+        "grammar",
+        2018,
+        292,
+        "David Leedom Shaul 2018"
+      ],
+      [
+        "74847",
+        "grammar",
+        1997,
+        206,
+        "Zepeda, Ofelia 1997"
+      ],
+      [
+        "144761",
+        "grammar",
+        1983,
+        206,
+        "Ofelia Zepeda 1983"
+      ],
+      [
+        "150698",
+        "grammar",
+        1959,
+        188,
+        "Hale, Kenneth Locke 1959"
+      ],
+      [
+        "313895",
+        "grammar_sketch",
+        1930,
+        101,
+        "Wisdom, Charles Willis 1930"
+      ],
+      [
+        "163781",
+        "phonology_or_text",
+        1913,
+        241,
+        "Dolores, Juan 1913"
+      ]
+    ]
+  },
+  "id": "toho1245",
+  "name": "Tohono O'odham",
+  "description": null,
+  "markup_description": null,
+  "latitude": 31.7973,
+  "longitude": -111.995,
+  "classification": [
+    {
+      "name": "Uto-Aztecan",
+      "id": "utoa1244",
+      "url": "https://glottolog.org/resource/languoid/id/utoa1244"
+    },
+    {
+      "name": "Southern Uto-Aztecan",
+      "id": "sout3136",
+      "url": "https://glottolog.org/resource/languoid/id/sout3136"
+    },
+    {
+      "name": "Tepiman",
+      "id": "tepi1240",
+      "url": "https://glottolog.org/resource/languoid/id/tepi1240"
+    },
+    {
+      "name": "Piman",
+      "id": "pima1249",
+      "url": "https://glottolog.org/resource/languoid/id/pima1249"
+    }
+  ],
+  "iso639-3": "ood"
+}

@@ -1,0 +1,105 @@
+{
+  "pk": 10852,
+  "hid": "div",
+  "father_pk": 7967,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Dhivehi [dhiv1236][div]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_dhi",
+        "label": "Dhivehi"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Maldivian_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/dhiv1236",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q32656",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "549031",
+        "long_grammar",
+        2017,
+        351,
+        "Amalia E. Gnanadesikan 2017"
+      ],
+      [
+        "155364",
+        "grammar",
+        2002,
+        270,
+        "Sonja Fritz 2002"
+      ],
+      [
+        "549780",
+        "grammar",
+        1992,
+        211,
+        "Joseph Joy 1992"
+      ],
+      [
+        "116981",
+        "wordlist_or_less",
+        1841,
+        35,
+        "Wilson, J. 1841"
+      ]
+    ]
+  },
+  "id": "dhiv1236",
+  "name": "Dhivehi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 1.928498,
+  "longitude": 73.54433,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Indo-Aryan",
+      "id": "indo1321",
+      "url": "https://glottolog.org/resource/languoid/id/indo1321"
+    },
+    {
+      "name": "Middle-Modern Indo-Aryan",
+      "id": "midd1375",
+      "url": "https://glottolog.org/resource/languoid/id/midd1375"
+    },
+    {
+      "name": "Dhivehi-Sinhala",
+      "id": "sinh1245",
+      "url": "https://glottolog.org/resource/languoid/id/sinh1245"
+    }
+  ],
+  "iso639-3": "div"
+}

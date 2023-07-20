@@ -1,0 +1,85 @@
+{
+  "pk": 14642,
+  "hid": "abe",
+  "father_pk": 11670,
+  "family_pk": 178,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Western Abenaki [west2630][abe]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_abw",
+        "label": "Abenaki (Western)"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/701",
+        "label": "Western Abenaki"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q17502788",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "84390",
+        "grammar_sketch",
+        1884,
+        242,
+        "Laurent, Joseph 1884"
+      ]
+    ]
+  },
+  "id": "west2630",
+  "name": "Western Abenaki",
+  "description": null,
+  "markup_description": null,
+  "latitude": 46.1381,
+  "longitude": -72.6511,
+  "classification": [
+    {
+      "name": "Algic",
+      "id": "algi1248",
+      "url": "https://glottolog.org/resource/languoid/id/algi1248"
+    },
+    {
+      "name": "Algonquian-Blackfoot",
+      "id": "algo1256",
+      "url": "https://glottolog.org/resource/languoid/id/algo1256"
+    },
+    {
+      "name": "Algonquian",
+      "id": "algo1257",
+      "url": "https://glottolog.org/resource/languoid/id/algo1257"
+    },
+    {
+      "name": "Eastern Algonquian",
+      "id": "east2700",
+      "url": "https://glottolog.org/resource/languoid/id/east2700"
+    },
+    {
+      "name": "Maritimes-Southern New England Algonquian",
+      "id": "mari1452",
+      "url": "https://glottolog.org/resource/languoid/id/mari1452"
+    },
+    {
+      "name": "Northern Eastern Algonquian",
+      "id": "nort3414",
+      "url": "https://glottolog.org/resource/languoid/id/nort3414"
+    },
+    {
+      "name": "Abenaki",
+      "id": "aben1250",
+      "url": "https://glottolog.org/resource/languoid/id/aben1250"
+    }
+  ],
+  "iso639-3": "abe"
+}

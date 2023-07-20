@@ -1,0 +1,88 @@
+{
+  "pk": 16030,
+  "hid": "wly",
+  "father_pk": 13230,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Waling [wali1261][wly]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7961957",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Waling_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "78648",
+        "wordlist_or_less",
+        1909,
+        4,
+        "George A. Grierson 1909"
+      ],
+      [
+        "72592",
+        "wordlist_or_less",
+        1857,
+        3,
+        "Hodgson, Brian Houghton 1857"
+      ]
+    ]
+  },
+  "id": "wali1261",
+  "name": "Waling",
+  "description": null,
+  "markup_description": null,
+  "latitude": 26.6369,
+  "longitude": 86.4837,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Himalayish",
+      "id": "hima1249",
+      "url": "https://glottolog.org/resource/languoid/id/hima1249"
+    },
+    {
+      "name": "Mahakiranti",
+      "id": "maha1306",
+      "url": "https://glottolog.org/resource/languoid/id/maha1306"
+    },
+    {
+      "name": "Kiranti",
+      "id": "kira1253",
+      "url": "https://glottolog.org/resource/languoid/id/kira1253"
+    },
+    {
+      "name": "Central Kiranti",
+      "id": "cent2250",
+      "url": "https://glottolog.org/resource/languoid/id/cent2250"
+    },
+    {
+      "name": "Southern Central Kiranti",
+      "id": "sout2736",
+      "url": "https://glottolog.org/resource/languoid/id/sout2736"
+    },
+    {
+      "name": "Bantawic",
+      "id": "bant1280",
+      "url": "https://glottolog.org/resource/languoid/id/bant1280"
+    }
+  ],
+  "iso639-3": "wly"
+}

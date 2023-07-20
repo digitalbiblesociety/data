@@ -1,0 +1,85 @@
+{
+  "pk": 10035,
+  "hid": "ogc",
+  "father_pk": 7203,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Egnih [egni1238]':1,'Igburu-Usomini [igbu1242]':1)'Ogbah [ogba1241][ogc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q36291",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ogba_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "120404",
+        "phonology_or_text",
+        2005,
+        78,
+        "Blench, Roger 2005"
+      ],
+      [
+        "134315",
+        "wordlist_or_less",
+        1971,
+        4,
+        "Clark, David J. 1971"
+      ],
+      [
+        "150176",
+        "wordlist_or_less",
+        1914,
+        2,
+        "Thomas, Northcote Whitridge 1914"
+      ]
+    ]
+  },
+  "id": "ogba1241",
+  "name": "Ogbah",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.25057,
+  "longitude": 6.53895,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Igboid",
+      "id": "igbo1258",
+      "url": "https://glottolog.org/resource/languoid/id/igbo1258"
+    },
+    {
+      "name": "Nuclear Igboid",
+      "id": "igbo1259",
+      "url": "https://glottolog.org/resource/languoid/id/igbo1259"
+    }
+  ],
+  "iso639-3": "ogc"
+}

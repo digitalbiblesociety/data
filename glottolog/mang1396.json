@@ -1,0 +1,75 @@
+{
+  "pk": 3931,
+  "hid": "mdk",
+  "father_pk": 2238,
+  "family_pk": 140,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Andinai [andi1256]':1,'Angwe [angw1242]':1,'Makutana [maku1275]':1)'Mangbutu [mang1396][mdk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6748877",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mangbutu_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "149672",
+        "wordlist_or_less",
+        1994,
+        2,
+        "Bokula, Moiso and Irumu, Agozia Kario 1994"
+      ],
+      [
+        "29388",
+        "wordlist_or_less",
+        1924,
+        2,
+        "Czekanowski, Jan 1924"
+      ],
+      [
+        "87100",
+        "wordlist_or_less",
+        1885,
+        2,
+        "Keane, A. H. 1885"
+      ]
+    ]
+  },
+  "id": "mang1396",
+  "name": "Mangbutu",
+  "description": null,
+  "markup_description": null,
+  "latitude": 2.74779,
+  "longitude": 29.7358,
+  "classification": [
+    {
+      "name": "Central Sudanic",
+      "id": "cent2225",
+      "url": "https://glottolog.org/resource/languoid/id/cent2225"
+    },
+    {
+      "name": "Membi-Mangbutu-Efe",
+      "id": "memb1239",
+      "url": "https://glottolog.org/resource/languoid/id/memb1239"
+    },
+    {
+      "name": "Mangbutu-Efe",
+      "id": "mang1425",
+      "url": "https://glottolog.org/resource/languoid/id/mang1425"
+    }
+  ],
+  "iso639-3": "mdk"
+}

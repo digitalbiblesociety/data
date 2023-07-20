@@ -1,0 +1,75 @@
+{
+  "pk": 1235,
+  "hid": "xur",
+  "father_pk": 226,
+  "family_pk": 226,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Urartian [urar1245][xur]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "xur",
+      "comment_type": "missing",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "A number of ancient European and Ancient Near Eastern languages are not listed in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26. One of them is Urartian (**hh:g:Benedict:Urartian**)."
+    },
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q36934",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Urartian_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "120284",
+        "grammar",
+        1958,
+        232,
+        "Warren C. Benedict 1958"
+      ],
+      [
+        "317295",
+        "grammar_sketch",
+        1954,
+        256,
+        "I. I. Meščaninov 1954, 1962"
+      ]
+    ]
+  },
+  "id": "urar1245",
+  "name": "Urartian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 38.5,
+  "longitude": 43.3425,
+  "classification": [
+    {
+      "name": "Hurro-Urartian",
+      "id": "hurr1239",
+      "url": "https://glottolog.org/resource/languoid/id/hurr1239"
+    }
+  ],
+  "iso639-3": "xur"
+}

@@ -1,0 +1,78 @@
+{
+  "pk": 9403,
+  "hid": "sne",
+  "father_pk": 6819,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Assem [asse1237]':1,'Dongay [dong1297]':1,'Empawa [empa1241]':1,'Grogo [grog1237]':1,'Gumbang [gumb1243]':1,'Krokong [krok1237]':1,'Serambau [sera1265]':1,'Singge [sing1269]':1,'Stenggang Jagoi [sten1237]':1,'Suti [suti1238]':1,'Taup [taup1243]':1,'Tengoh [teng1270]':1)'Bau-Jagoi Bidayuh [baub1235][sne]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 12,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q2891938",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Jagoi_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "319956",
+        "phonology_or_text",
+        1956,
+        64,
+        "A. Reijffert 1956"
+      ],
+      [
+        "569475",
+        "wordlist_or_less",
+        1846,
+        4,
+        "Henry Keppel and James Brooke 1846"
+      ]
+    ]
+  },
+  "id": "baub1235",
+  "name": "Bau-Jagoi Bidayuh",
+  "description": null,
+  "markup_description": null,
+  "latitude": 1.54467,
+  "longitude": 109.985,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Land Dayak",
+      "id": "land1261",
+      "url": "https://glottolog.org/resource/languoid/id/land1261"
+    },
+    {
+      "name": "Bidayuh-Southern Land Dayak",
+      "id": "bida1239",
+      "url": "https://glottolog.org/resource/languoid/id/bida1239"
+    },
+    {
+      "name": "Bidayuh",
+      "id": "bida1240",
+      "url": "https://glottolog.org/resource/languoid/id/bida1240"
+    }
+  ],
+  "iso639-3": "sne"
+}

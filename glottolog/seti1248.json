@@ -1,0 +1,67 @@
+{
+  "pk": 2109,
+  "hid": "sbi",
+  "father_pk": 960,
+  "family_pk": 103,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Seti [seti1248][sbi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5357",
+        "label": "Seti"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7456682",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Seti_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "77430",
+        "wordlist_or_less",
+        2001,
+        5,
+        "Melissa Crowther 2001"
+      ],
+      [
+        "138610",
+        "wordlist_or_less",
+        1968,
+        1,
+        "Donald C. Laycock 1968"
+      ]
+    ]
+  },
+  "id": "seti1248",
+  "name": "Seti",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.45521,
+  "longitude": 141.827,
+  "classification": [
+    {
+      "name": "Nuclear Torricelli",
+      "id": "nucl1708",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1708"
+    },
+    {
+      "name": "West Wapei",
+      "id": "west2580",
+      "url": "https://glottolog.org/resource/languoid/id/west2580"
+    }
+  ],
+  "iso639-3": "sbi"
+}

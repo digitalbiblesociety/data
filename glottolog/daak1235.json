@@ -1,0 +1,95 @@
+{
+  "pk": 15001,
+  "hid": "kzf",
+  "father_pk": 12120,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Da''a [daaa1238]':1,'Inde [inde1241]':1)'Da''a Kaili [daak1235][kzf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_daa",
+        "label": "Da'a"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33103997",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "568699",
+        "grammar_sketch",
+        1989,
+        147,
+        "Barr, Donald F. and Barr, Sharon G. and Kanangaju, Matius and Dahlan, Lisda and Said, Sri Mulyati 1989"
+      ],
+      [
+        "105965",
+        "grammar_sketch",
+        1988,
+        53,
+        "Barr, Donald F. 1988"
+      ],
+      [
+        "63583",
+        "wordlist_or_less",
+        1979,
+        2,
+        "Donald F. Barr and Sharon G. Barr and C. Salombe 1979"
+      ]
+    ]
+  },
+  "id": "daak1235",
+  "name": "Da'a Kaili",
+  "description": null,
+  "markup_description": null,
+  "latitude": -1.21051,
+  "longitude": 119.527,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Celebic",
+      "id": "cele1242",
+      "url": "https://glottolog.org/resource/languoid/id/cele1242"
+    },
+    {
+      "name": "Kaili-Wolio",
+      "id": "kail1255",
+      "url": "https://glottolog.org/resource/languoid/id/kail1255"
+    },
+    {
+      "name": "Northern Kaili-Wolio",
+      "id": "nort2898",
+      "url": "https://glottolog.org/resource/languoid/id/nort2898"
+    },
+    {
+      "name": "Greater Kaili",
+      "id": "kail1254",
+      "url": "https://glottolog.org/resource/languoid/id/kail1254"
+    },
+    {
+      "name": "Common Kaili",
+      "id": "comm1248",
+      "url": "https://glottolog.org/resource/languoid/id/comm1248"
+    }
+  ],
+  "iso639-3": "kzf"
+}

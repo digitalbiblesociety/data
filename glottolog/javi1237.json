@@ -1,0 +1,102 @@
+{
+  "pk": 18908,
+  "hid": "jvd",
+  "father_pk": 16617,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Javindo [javi1237][jvd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1808",
+        "label": "Javindo"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Javindo",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2719893",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "300950",
+        "grammar_sketch",
+        1994,
+        88,
+        "De Gruiter, Victor Emile 1994"
+      ],
+      [
+        "319381",
+        "wordlist_or_less",
+        1992,
+        11,
+        "de Gruiter, V. E. 1992"
+      ]
+    ]
+  },
+  "id": "javi1237",
+  "name": "Javindo",
+  "description": null,
+  "markup_description": null,
+  "latitude": -7.032902,
+  "longitude": 110.419809,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Germanic",
+      "id": "germ1287",
+      "url": "https://glottolog.org/resource/languoid/id/germ1287"
+    },
+    {
+      "name": "Northwest Germanic",
+      "id": "nort3152",
+      "url": "https://glottolog.org/resource/languoid/id/nort3152"
+    },
+    {
+      "name": "West Germanic",
+      "id": "west2793",
+      "url": "https://glottolog.org/resource/languoid/id/west2793"
+    },
+    {
+      "name": "Macro-Dutch",
+      "id": "macr1270",
+      "url": "https://glottolog.org/resource/languoid/id/macr1270"
+    },
+    {
+      "name": "Middle-Modern Dutch",
+      "id": "midd1347",
+      "url": "https://glottolog.org/resource/languoid/id/midd1347"
+    },
+    {
+      "name": "Modern Dutch",
+      "id": "mode1257",
+      "url": "https://glottolog.org/resource/languoid/id/mode1257"
+    },
+    {
+      "name": "Global Dutch",
+      "id": "glob1241",
+      "url": "https://glottolog.org/resource/languoid/id/glob1241"
+    }
+  ],
+  "iso639-3": "jvd"
+}

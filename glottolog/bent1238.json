@@ -1,0 +1,67 @@
+{
+  "pk": 2163,
+  "hid": "dbt",
+  "father_pk": 989,
+  "family_pk": 117,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ben Tey Dogon [bent1238][dbt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/8731",
+        "label": "Ben Tey"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q4886561",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ben_Tey_Dogon",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "662646",
+        "long_grammar",
+        2013,
+        484,
+        "Heath, Jeffrey 2013"
+      ],
+      [
+        "500017",
+        "wordlist_or_less",
+        2011,
+        0,
+        "ISO 639-3 Registration Authority 2011"
+      ]
+    ]
+  },
+  "id": "bent1238",
+  "name": "Ben Tey Dogon",
+  "description": null,
+  "markup_description": null,
+  "latitude": 14.78,
+  "longitude": -2.94,
+  "classification": [
+    {
+      "name": "Dogon",
+      "id": "dogo1299",
+      "url": "https://glottolog.org/resource/languoid/id/dogo1299"
+    },
+    {
+      "name": "Nangan Dogon",
+      "id": "nang1263",
+      "url": "https://glottolog.org/resource/languoid/id/nang1263"
+    }
+  ],
+  "iso639-3": "dbt"
+}

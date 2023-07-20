@@ -1,0 +1,78 @@
+{
+  "pk": 8915,
+  "hid": "xup",
+  "father_pk": 6433,
+  "family_pk": 238,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Upper Umpqua [uppe1436][xup]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q20607",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Upper_Umpqua_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "130432",
+        "wordlist_or_less",
+        1846,
+        13,
+        "Horatio Hale 1846"
+      ],
+      [
+        "162143",
+        "wordlist_or_less",
+        1841,
+        2,
+        "John Scouler 1841"
+      ]
+    ]
+  },
+  "id": "uppe1436",
+  "name": "Upper Umpqua",
+  "description": null,
+  "markup_description": null,
+  "latitude": 43.22,
+  "longitude": -123.36,
+  "classification": [
+    {
+      "name": "Athabaskan-Eyak-Tlingit",
+      "id": "atha1245",
+      "url": "https://glottolog.org/resource/languoid/id/atha1245"
+    },
+    {
+      "name": "Athabaskan-Eyak",
+      "id": "atha1246",
+      "url": "https://glottolog.org/resource/languoid/id/atha1246"
+    },
+    {
+      "name": "Athabaskan",
+      "id": "atha1247",
+      "url": "https://glottolog.org/resource/languoid/id/atha1247"
+    },
+    {
+      "name": "Pacific Coast Athabaskan",
+      "id": "paci1277",
+      "url": "https://glottolog.org/resource/languoid/id/paci1277"
+    },
+    {
+      "name": "Oregon Athabaskan",
+      "id": "oreg1242",
+      "url": "https://glottolog.org/resource/languoid/id/oreg1242"
+    }
+  ],
+  "iso639-3": "xup"
+}

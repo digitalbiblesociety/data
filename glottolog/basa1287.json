@@ -1,0 +1,75 @@
+{
+  "pk": 4709,
+  "hid": "byq",
+  "father_pk": 2985,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Linaw-Qauqaut [lina1245]':1,'Trobiawan [trob1237]':1)'Basay [basa1287][byq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q716647",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Basay_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "121079",
+        "grammar_sketch",
+        1999,
+        30,
+        "Li, Paul Jen-kuei 1999"
+      ],
+      [
+        "303370",
+        "wordlist_or_less",
+        1991,
+        63,
+        "Tsunekazu Moriguchi 1991"
+      ],
+      [
+        "300725",
+        "wordlist_or_less",
+        1985,
+        10,
+        "Tsuchida, Shigeru 1985"
+      ]
+    ]
+  },
+  "id": "basa1287",
+  "name": "Basay",
+  "description": null,
+  "markup_description": null,
+  "latitude": 25.0046,
+  "longitude": 121.857,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "East Formosan",
+      "id": "east2493",
+      "url": "https://glottolog.org/resource/languoid/id/east2493"
+    },
+    {
+      "name": "Northern East Formosan",
+      "id": "nort2900",
+      "url": "https://glottolog.org/resource/languoid/id/nort2900"
+    }
+  ],
+  "iso639-3": "byq"
+}

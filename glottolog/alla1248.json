@@ -1,0 +1,107 @@
+{
+  "pk": 9916,
+  "hid": "ald",
+  "father_pk": 7161,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Alladian [alla1248][ald]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q34837",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Alladian_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/alla1248",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ald",
+        "label": "Alladian"
+      }
+    ],
+    "meds": [
+      [
+        "95889",
+        "grammar_sketch",
+        1983,
+        45,
+        "Duponchel, Laurent and Mel, Gnamba Bertin 1983"
+      ],
+      [
+        "90924",
+        "phonology_or_text",
+        1974,
+        331,
+        "Duponchel, Laurent 1974"
+      ],
+      [
+        "55307",
+        "wordlist_or_less",
+        1971,
+        10,
+        "Dumestre, Gérard 1971"
+      ],
+      [
+        "114963",
+        "wordlist_or_less",
+        1925,
+        8,
+        "Westermann, Diedrich 1925"
+      ],
+      [
+        "572978",
+        "wordlist_or_less",
+        1902,
+        0,
+        "Clozel, F. J., and R. Villamur. 1902"
+      ]
+    ]
+  },
+  "id": "alla1248",
+  "name": "Alladian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.22371,
+  "longitude": -4.42647,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Kwa Volta-Congo",
+      "id": "kwav1236",
+      "url": "https://glottolog.org/resource/languoid/id/kwav1236"
+    },
+    {
+      "name": "Nyo",
+      "id": "nyoa1234",
+      "url": "https://glottolog.org/resource/languoid/id/nyoa1234"
+    },
+    {
+      "name": "Avikam-Alladian",
+      "id": "avik1242",
+      "url": "https://glottolog.org/resource/languoid/id/avik1242"
+    }
+  ],
+  "iso639-3": "ald"
+}

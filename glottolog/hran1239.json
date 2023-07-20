@@ -1,0 +1,88 @@
+{
+  "pk": 16108,
+  "hid": "hra",
+  "father_pk": 13307,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Hadem [hade1238]':1)'Hrangkhol [hran1239][hra]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q5923435",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Hrangkhol_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "660245",
+        "grammar",
+        2018,
+        273,
+        "Debbarma, Surath 2018"
+      ],
+      [
+        "11858",
+        "grammar_sketch",
+        1887,
+        88,
+        "C. A. Soppitt 1887"
+      ]
+    ]
+  },
+  "id": "hran1239",
+  "name": "Hrangkhol",
+  "description": null,
+  "markup_description": null,
+  "latitude": 24.4559,
+  "longitude": 93.351,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Kuki-Chin",
+      "id": "kuki1246",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1246"
+    },
+    {
+      "name": "Central Kuki-Chin",
+      "id": "cent2330",
+      "url": "https://glottolog.org/resource/languoid/id/cent2330"
+    },
+    {
+      "name": "Core Central Kuki-Chin",
+      "id": "cent2005",
+      "url": "https://glottolog.org/resource/languoid/id/cent2005"
+    },
+    {
+      "name": "Mizoic",
+      "id": "mizo1244",
+      "url": "https://glottolog.org/resource/languoid/id/mizo1244"
+    },
+    {
+      "name": "Hmaric",
+      "id": "hmar1240",
+      "url": "https://glottolog.org/resource/languoid/id/hmar1240"
+    }
+  ],
+  "iso639-3": "hra"
+}

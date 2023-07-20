@@ -1,0 +1,81 @@
+{
+  "pk": 5596,
+  "hid": "khw",
+  "father_pk": 3704,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('East Khowar [east2321]':1,'North Khowar [nort2664]':1,'South Khowar [sout2670]':1,'Swat Khowar [swat1242]':1)'Khowar [khow1242][khw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5647",
+        "label": "Khowar"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_khw",
+        "label": "Khowar"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Khowar_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q938216",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "666050",
+        "grammar",
+        1895,
+        0,
+        "O'Brien, D. J. T. 1895"
+      ],
+      [
+        "318199",
+        "phonology_or_text",
+        1880,
+        10,
+        "John Biddulph 1880"
+      ]
+    ]
+  },
+  "id": "khow1242",
+  "name": "Khowar",
+  "description": null,
+  "markup_description": null,
+  "latitude": 36,
+  "longitude": 72,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Indo-Aryan",
+      "id": "indo1321",
+      "url": "https://glottolog.org/resource/languoid/id/indo1321"
+    }
+  ],
+  "iso639-3": "khw"
+}

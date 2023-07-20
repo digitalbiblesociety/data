@@ -1,0 +1,91 @@
+{
+  "pk": 5540,
+  "hid": "wyr",
+  "father_pk": 3641,
+  "family_pk": 51,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kupndiiriat [kupn1234]':1,'Ngwayoroiat [ngwa1252]':1)'Wayoró [wayo1238][wyr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1566",
+        "label": "Wayoró"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2875044",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Wayor%C3%B3_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "575534",
+        "phonology_or_text",
+        2019,
+        203,
+        "Nogueira, Antonia Fernanda de Souza 2019"
+      ],
+      [
+        "301443",
+        "phonology_or_text",
+        2011,
+        120,
+        "Nogueira, Antonia Fernanda de Souza 2011"
+      ],
+      [
+        "161469",
+        "wordlist_or_less",
+        1963,
+        1,
+        "Čestmír Loukotka 1963"
+      ],
+      [
+        "302809",
+        "wordlist_or_less",
+        1937,
+        31,
+        "Snethlage, Emil Heinrich 1937"
+      ]
+    ]
+  },
+  "id": "wayo1238",
+  "name": "Wayoró",
+  "description": null,
+  "markup_description": null,
+  "latitude": -12.6945,
+  "longitude": -61.3064,
+  "classification": [
+    {
+      "name": "Tupian",
+      "id": "tupi1275",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1275"
+    },
+    {
+      "name": "Tuparic",
+      "id": "tupa1251",
+      "url": "https://glottolog.org/resource/languoid/id/tupa1251"
+    },
+    {
+      "name": "Nuclear Tuparic",
+      "id": "nucl1716",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1716"
+    },
+    {
+      "name": "Wayoro-Tupari",
+      "id": "wayo1240",
+      "url": "https://glottolog.org/resource/languoid/id/wayo1240"
+    }
+  ],
+  "iso639-3": "wyr"
+}

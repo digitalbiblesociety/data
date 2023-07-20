@@ -1,0 +1,84 @@
+{
+  "pk": 5813,
+  "hid": "dym",
+  "father_pk": 3844,
+  "family_pk": 117,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Yanda Dom Dogon [yand1257][dym]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/8734",
+        "label": "Yanda Dom"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q8048316",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yanda_Dogon",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "300798",
+        "long_grammar",
+        2017,
+        585,
+        "Heath, Jeffrey 2017"
+      ],
+      [
+        "565184",
+        "grammar",
+        2016,
+        0,
+        "Heath, Jeffrey 2016"
+      ],
+      [
+        "39258",
+        "wordlist_or_less",
+        2005,
+        30,
+        "Blench, Roger 2005"
+      ]
+    ]
+  },
+  "id": "yand1257",
+  "name": "Yanda Dom Dogon",
+  "description": null,
+  "markup_description": null,
+  "latitude": 14.63,
+  "longitude": -3.15,
+  "classification": [
+    {
+      "name": "Dogon",
+      "id": "dogo1299",
+      "url": "https://glottolog.org/resource/languoid/id/dogo1299"
+    },
+    {
+      "name": "North Plateau Dogon",
+      "id": "nort2824",
+      "url": "https://glottolog.org/resource/languoid/id/nort2824"
+    },
+    {
+      "name": "Yanda-Bondum-Tebul",
+      "id": "yand1255",
+      "url": "https://glottolog.org/resource/languoid/id/yand1255"
+    },
+    {
+      "name": "Yanda-Ana",
+      "id": "yand1256",
+      "url": "https://glottolog.org/resource/languoid/id/yand1256"
+    }
+  ],
+  "iso639-3": "dym"
+}

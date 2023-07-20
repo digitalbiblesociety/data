@@ -1,0 +1,108 @@
+{
+  "pk": 5079,
+  "hid": "alr",
+  "father_pk": 3267,
+  "family_pk": 340,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Alutorskij [alut1246]':1,'Karaginskij [kara1472]':1,'Palanskij [pala1340]':1)'Alutor [alut1245][alr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/947",
+        "label": "Alutor"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_alu",
+        "label": "Alutor"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Alyutor_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/alut1245",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q28213",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "25898",
+        "grammar_sketch",
+        2003,
+        330,
+        "Nagajama, Jukari 2003"
+      ],
+      [
+        "75953",
+        "grammar_sketch",
+        2000,
+        156,
+        "Kibrik, Aleksandr Evgen'evic and Kodzasov, Sandro Vasil'evic and Murav'eva, Irina Anatol'evna 2000"
+      ],
+      [
+        "64865",
+        "grammar_sketch",
+        1980,
+        96,
+        "Alevtina N. Žukova 1980"
+      ],
+      [
+        "590223",
+        "grammar_sketch",
+        1968,
+        16,
+        "Alevtina N. Žukova 1968"
+      ],
+      [
+        "577548",
+        "wordlist_or_less",
+        1939,
+        21,
+        "S. N. Stebnitskij 1939"
+      ],
+      [
+        "577547",
+        "wordlist_or_less",
+        1937,
+        4,
+        "S. N. Stebnitskij 1937"
+      ]
+    ]
+  },
+  "id": "alut1245",
+  "name": "Alutor",
+  "description": null,
+  "markup_description": null,
+  "latitude": 60.3844,
+  "longitude": 165.653,
+  "classification": [
+    {
+      "name": "Chukotko-Kamchatkan",
+      "id": "chuk1271",
+      "url": "https://glottolog.org/resource/languoid/id/chuk1271"
+    },
+    {
+      "name": "Chukotian",
+      "id": "chuk1272",
+      "url": "https://glottolog.org/resource/languoid/id/chuk1272"
+    },
+    {
+      "name": "Koryakic",
+      "id": "kory1247",
+      "url": "https://glottolog.org/resource/languoid/id/kory1247"
+    }
+  ],
+  "iso639-3": "alr"
+}

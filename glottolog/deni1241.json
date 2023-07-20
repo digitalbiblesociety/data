@@ -1,0 +1,94 @@
+{
+  "pk": 5095,
+  "hid": "dny",
+  "father_pk": 3280,
+  "family_pk": 344,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Cuniuá [inau1238]':1,'Xeruã [bomf1238]':1)'Nuclear Deni [mamo1239]':1,'Western Jamamadi [paui1240]':1)'Deni [deni1241][dny]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2558",
+        "label": "Dení"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56562",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Deni_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/deni1241",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_den",
+        "label": "Dení"
+      }
+    ],
+    "meds": [
+      [
+        "547888",
+        "grammar",
+        2017,
+        205,
+        "de Carvalho, Mateus Cruz Maciel 2017"
+      ],
+      [
+        "160559",
+        "grammar_sketch",
+        1985,
+        75,
+        "Koop, Gordon and Koop, Lois 2008 [1985]"
+      ],
+      [
+        "151079",
+        "grammar_sketch",
+        1977,
+        43,
+        "Moran, Paul and Moran, Dorothy 1977"
+      ],
+      [
+        "139320",
+        "wordlist_or_less",
+        1976,
+        0,
+        "Koop, Gordon 1976"
+      ]
+    ]
+  },
+  "id": "deni1241",
+  "name": "Deni",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.74962,
+  "longitude": -67.5029,
+  "classification": [
+    {
+      "name": "Arawan",
+      "id": "araw1282",
+      "url": "https://glottolog.org/resource/languoid/id/araw1282"
+    },
+    {
+      "name": "Madi-Madiha",
+      "id": "madi1262",
+      "url": "https://glottolog.org/resource/languoid/id/madi1262"
+    },
+    {
+      "name": "Madiha",
+      "id": "madi1263",
+      "url": "https://glottolog.org/resource/languoid/id/madi1263"
+    }
+  ],
+  "iso639-3": "dny"
+}

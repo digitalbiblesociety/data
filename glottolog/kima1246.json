@@ -1,0 +1,78 @@
+{
+  "pk": 2406,
+  "hid": "kig",
+  "father_pk": 1125,
+  "family_pk": 175,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kimaama [kima1246][kig]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q11732321",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kimaghama_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kima1246",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kim",
+        "label": "Kimaghama"
+      }
+    ],
+    "meds": [
+      [
+        "126884",
+        "grammar_sketch",
+        1949,
+        8,
+        "Drabbe, Peter 1949"
+      ],
+      [
+        "82257",
+        "wordlist_or_less",
+        1933,
+        3,
+        "Geurtjens, Hendrik 1933"
+      ],
+      [
+        "320148",
+        "wordlist_or_less",
+        1923,
+        3,
+        "Wirz, Paul 1923"
+      ]
+    ]
+  },
+  "id": "kima1246",
+  "name": "Kimaama",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.01899,
+  "longitude": 138.355,
+  "classification": [
+    {
+      "name": "Kolopom",
+      "id": "kolo1268",
+      "url": "https://glottolog.org/resource/languoid/id/kolo1268"
+    },
+    {
+      "name": "Kimaama-Riantana",
+      "id": "kima1245",
+      "url": "https://glottolog.org/resource/languoid/id/kima1245"
+    }
+  ],
+  "iso639-3": "kig"
+}

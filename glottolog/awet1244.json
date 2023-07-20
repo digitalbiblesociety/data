@@ -1,0 +1,90 @@
+{
+  "pk": 3646,
+  "hid": "awe",
+  "father_pk": 1981,
+  "family_pk": 51,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Awetí [awet1244][awe]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/684",
+        "label": "Awetí"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q4830038",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Awet%C3%AF_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/awet1244",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "557177",
+        "grammar_sketch",
+        2011,
+        315,
+        "Sabine Reiter 2011"
+      ],
+      [
+        "153022",
+        "grammar_sketch",
+        2000,
+        112,
+        "Cristina de Cássia Borella 2000"
+      ],
+      [
+        "555076",
+        "phonology_or_text",
+        1972,
+        18,
+        "Emmerich, Charlotte and Ruth F.M. Montserrat 1972"
+      ],
+      [
+        "19379",
+        "wordlist_or_less",
+        1894,
+        37,
+        "Karl von den Steinen 1894"
+      ]
+    ]
+  },
+  "id": "awet1244",
+  "name": "Awetí",
+  "description": null,
+  "markup_description": null,
+  "latitude": -12.381944,
+  "longitude": -53.391944,
+  "classification": [
+    {
+      "name": "Tupian",
+      "id": "tupi1275",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1275"
+    },
+    {
+      "name": "Maweti-Guarani",
+      "id": "mawe1252",
+      "url": "https://glottolog.org/resource/languoid/id/mawe1252"
+    },
+    {
+      "name": "Aweti-Guarani",
+      "id": "awet1245",
+      "url": "https://glottolog.org/resource/languoid/id/awet1245"
+    }
+  ],
+  "iso639-3": "awe"
+}

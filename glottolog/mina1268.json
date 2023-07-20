@@ -1,0 +1,113 @@
+{
+  "pk": 19452,
+  "hid": "min",
+  "father_pk": 17471,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Agam [agam1238]':1,'Aneuk Jamee [aneu1237]':1,'Batu Sangkar-Pariangan [batu1256]':1,('Muko-Muko [muko1237][vmo]':1,'Tapan [tapa1263]':1)'Lunangic [luna1246]':1,'Orang Mamak [oran1257]':1,'Pajokumbuh [pajo1237]':1,'Penghulu [peng1245]':1,'Sakai in Minangkabau [saka1302]':1,'Si Junjung [siju1237]':1,'Singkarak [sing1267]':1,'Tanah [tana1280]':1,'Ulu {Minangkabau} [uluu1244]':1)'Minangkabau [mina1268][min]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 14,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_min",
+        "label": "Minangkabau"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Minangkabau_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/mina1268",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q13324",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "109002",
+        "long_grammar",
+        1998,
+        339,
+        "Moussay, Gerard 1998"
+      ],
+      [
+        "92344",
+        "grammar",
+        1899,
+        250,
+        "van der Toorn, Johannes L. 1899"
+      ],
+      [
+        "34023",
+        "wordlist_or_less",
+        1806,
+        32,
+        "Johann Christoph Adelung 1806"
+      ]
+    ]
+  },
+  "id": "mina1268",
+  "name": "Minangkabau",
+  "description": null,
+  "markup_description": null,
+  "latitude": -0.896,
+  "longitude": 100.44,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Malayo-Sumbawan",
+      "id": "mala1536",
+      "url": "https://glottolog.org/resource/languoid/id/mala1536"
+    },
+    {
+      "name": "North and East Malayo-Sumbawan",
+      "id": "nort3170",
+      "url": "https://glottolog.org/resource/languoid/id/nort3170"
+    },
+    {
+      "name": "Malayic",
+      "id": "mala1538",
+      "url": "https://glottolog.org/resource/languoid/id/mala1538"
+    },
+    {
+      "name": "Nuclear Malayic",
+      "id": "nucl1806",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1806"
+    },
+    {
+      "name": "Northern Sumatra Malay",
+      "id": "nort3388",
+      "url": "https://glottolog.org/resource/languoid/id/nort3388"
+    },
+    {
+      "name": "Kerinci-Minangkabau",
+      "id": "keri1253",
+      "url": "https://glottolog.org/resource/languoid/id/keri1253"
+    },
+    {
+      "name": "Minangkabauic",
+      "id": "mina1280",
+      "url": "https://glottolog.org/resource/languoid/id/mina1280"
+    }
+  ],
+  "iso639-3": "min"
+}

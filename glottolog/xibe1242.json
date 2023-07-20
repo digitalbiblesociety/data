@@ -1,0 +1,93 @@
+{
+  "pk": 4124,
+  "hid": "sjo",
+  "father_pk": 2355,
+  "family_pk": 162,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Aigun [aigu1239]':1,'Ibuci [ibuc1234]':1,'Ilan Boo [ilan1234]':1,'Sibe [sibe1252]':1)'Xibe [xibe1242][sjo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1185",
+        "label": "Xibe"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q13223",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Xibe_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "55159",
+        "long_grammar",
+        2008,
+        428,
+        "Jang, Taeho 2008"
+      ],
+      [
+        "55165",
+        "grammar",
+        2002,
+        214,
+        "Jang, Taeho 2002"
+      ],
+      [
+        "314279",
+        "grammar",
+        1986,
+        166,
+        "Li, Shulan 1986"
+      ],
+      [
+        "324184",
+        "grammar_sketch",
+        1984,
+        3,
+        "Li, Shulan and Qian Zhong and Qingfeng Wang 1984"
+      ],
+      [
+        "306595",
+        "wordlist_or_less",
+        1979,
+        12,
+        "Li, Shulan 1979"
+      ]
+    ]
+  },
+  "id": "xibe1242",
+  "name": "Xibe",
+  "description": null,
+  "markup_description": null,
+  "latitude": 43.5854,
+  "longitude": 81.0034,
+  "classification": [
+    {
+      "name": "Tungusic",
+      "id": "tung1282",
+      "url": "https://glottolog.org/resource/languoid/id/tung1282"
+    },
+    {
+      "name": "Manchu-Jurchen",
+      "id": "manc1250",
+      "url": "https://glottolog.org/resource/languoid/id/manc1250"
+    },
+    {
+      "name": "Manchu-Xibe",
+      "id": "manc1251",
+      "url": "https://glottolog.org/resource/languoid/id/manc1251"
+    }
+  ],
+  "iso639-3": "sjo"
+}

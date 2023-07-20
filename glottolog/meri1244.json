@@ -1,0 +1,91 @@
+{
+  "pk": 1268,
+  "hid": "ulk",
+  "father_pk": 250,
+  "family_pk": 250,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Boigu [boig1238]':1,'Buglial [bugl1238]':1,'Bulgai [bulg1264]':1,'Tagota [tago1247]':1)'Meriam [meri1244][ulk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2548",
+        "label": "Meriam"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/y3",
+        "label": "Meriam Mir"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Meriam_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mer",
+        "label": "Meryam Mir"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q788174",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "133362",
+        "grammar",
+        1989,
+        0,
+        "Piper, Nick 1989"
+      ],
+      [
+        "2825",
+        "grammar_sketch",
+        1883,
+        168,
+        "Gabelentz, Georg Von Der and Meyer, A. B. 1883"
+      ],
+      [
+        "3799",
+        "grammar_sketch",
+        1877,
+        77,
+        "Schulenburg, Albrecht Conon von der 1877"
+      ],
+      [
+        "144372",
+        "wordlist_or_less",
+        1847,
+        73,
+        "Jukes, J. Beete 1847"
+      ],
+      [
+        "1369",
+        "wordlist_or_less",
+        1835,
+        0,
+        "Wilson, Thomas Braidwood 1835"
+      ]
+    ]
+  },
+  "id": "meri1244",
+  "name": "Meriam",
+  "description": null,
+  "markup_description": null,
+  "latitude": -9.59575,
+  "longitude": 143.773,
+  "classification": [
+    {
+      "name": "Eastern Trans-Fly",
+      "id": "east2503",
+      "url": "https://glottolog.org/resource/languoid/id/east2503"
+    }
+  ],
+  "iso639-3": "ulk"
+}

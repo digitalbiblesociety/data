@@ -1,0 +1,126 @@
+{
+  "pk": 20887,
+  "hid": "fry",
+  "father_pk": 18877,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Klaaifrysk [klaa1238]':1,'Súdhoeksk [sudh1238]':1,'Wâldfrysk [wald1238]':1)'Western Frisian [west2354][fry]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_fri",
+        "label": "Frisian"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_frw",
+        "label": "Frisian (Western)"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/10425",
+        "label": "West Frisian"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/West_Frisian_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/west2354",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q27175",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "10817",
+        "grammar",
+        2001,
+        287,
+        "Munske, Horst Haider 2001"
+      ],
+      [
+        "318827",
+        "grammar",
+        1913,
+        194,
+        "Sipma, Pieter 1913"
+      ],
+      [
+        "570970",
+        "phonology_or_text",
+        1907,
+        0,
+        "Eijkman, Leonard Pieter Hendrik 1907"
+      ]
+    ]
+  },
+  "id": "west2354",
+  "name": "Western Frisian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 53.143,
+  "longitude": 5.86091,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Germanic",
+      "id": "germ1287",
+      "url": "https://glottolog.org/resource/languoid/id/germ1287"
+    },
+    {
+      "name": "Northwest Germanic",
+      "id": "nort3152",
+      "url": "https://glottolog.org/resource/languoid/id/nort3152"
+    },
+    {
+      "name": "West Germanic",
+      "id": "west2793",
+      "url": "https://glottolog.org/resource/languoid/id/west2793"
+    },
+    {
+      "name": "North Sea Germanic",
+      "id": "nort3175",
+      "url": "https://glottolog.org/resource/languoid/id/nort3175"
+    },
+    {
+      "name": "Anglo-Frisian",
+      "id": "angl1264",
+      "url": "https://glottolog.org/resource/languoid/id/angl1264"
+    },
+    {
+      "name": "Frisian",
+      "id": "fris1239",
+      "url": "https://glottolog.org/resource/languoid/id/fris1239"
+    },
+    {
+      "name": "Modern West Frisian",
+      "id": "mode1264",
+      "url": "https://glottolog.org/resource/languoid/id/mode1264"
+    },
+    {
+      "name": "Westlauwers-Terschelling Frisian",
+      "id": "west2902",
+      "url": "https://glottolog.org/resource/languoid/id/west2902"
+    }
+  ],
+  "iso639-3": "fry"
+}

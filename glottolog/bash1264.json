@@ -1,0 +1,95 @@
+{
+  "pk": 5431,
+  "hid": "bak",
+  "father_pk": 3559,
+  "family_pk": 14,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Burzhan [burz1239]':1,'Kuvakan [kuva1242]':1,'Yurmaty [yurm1239]':1)'Bashkir [bash1264][bak]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bsk",
+        "label": "Bashkir"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bashkir_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/bash1264",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q13389",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "300936",
+        "long_grammar",
+        1981,
+        496,
+        "A. A. Juldašev 1981"
+      ],
+      [
+        "89873",
+        "grammar",
+        1948,
+        275,
+        "Dmitriev, Nikolai K. 1948"
+      ],
+      [
+        "573354",
+        "grammar",
+        1866,
+        0,
+        "Kazantsev, N. 1866"
+      ],
+      [
+        "54846",
+        "wordlist_or_less",
+        1862,
+        1,
+        "Latham, Robert Gordon 1862"
+      ]
+    ]
+  },
+  "id": "bash1264",
+  "name": "Bashkir",
+  "description": null,
+  "markup_description": null,
+  "latitude": 53.59671,
+  "longitude": 56.55937,
+  "classification": [
+    {
+      "name": "Turkic",
+      "id": "turk1311",
+      "url": "https://glottolog.org/resource/languoid/id/turk1311"
+    },
+    {
+      "name": "Common Turkic",
+      "id": "comm1245",
+      "url": "https://glottolog.org/resource/languoid/id/comm1245"
+    },
+    {
+      "name": "Kipchak",
+      "id": "kipc1239",
+      "url": "https://glottolog.org/resource/languoid/id/kipc1239"
+    },
+    {
+      "name": "North Kipchak",
+      "id": "nort2696",
+      "url": "https://glottolog.org/resource/languoid/id/nort2696"
+    }
+  ],
+  "iso639-3": "bak"
+}

@@ -1,0 +1,90 @@
+{
+  "pk": 10656,
+  "hid": "gdo",
+  "father_pk": 7748,
+  "family_pk": 426,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Zibirkhalin [zibi1241]':1,'Ziloj [zilo1241]':1)'Godoberi [ghod1238][gdo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2314",
+        "label": "Ghodoberi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56515",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Godoberi_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/ghod1238",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_god",
+        "label": "Godoberi"
+      }
+    ],
+    "meds": [
+      [
+        "53924",
+        "long_grammar",
+        1996,
+        322,
+        "Aleksandr E. Kibrik 1996"
+      ],
+      [
+        "93158",
+        "grammar",
+        1973,
+        239,
+        "Saidova, Patimat Abdulaevna 1973"
+      ]
+    ]
+  },
+  "id": "ghod1238",
+  "name": "Godoberi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 42.7428,
+  "longitude": 46.2252,
+  "classification": [
+    {
+      "name": "Nakh-Daghestanian",
+      "id": "nakh1245",
+      "url": "https://glottolog.org/resource/languoid/id/nakh1245"
+    },
+    {
+      "name": "Daghestanian",
+      "id": "dagh1238",
+      "url": "https://glottolog.org/resource/languoid/id/dagh1238"
+    },
+    {
+      "name": "Avar-Andic-Tsezic",
+      "id": "avar1255",
+      "url": "https://glottolog.org/resource/languoid/id/avar1255"
+    },
+    {
+      "name": "Andic",
+      "id": "andi1254",
+      "url": "https://glottolog.org/resource/languoid/id/andi1254"
+    },
+    {
+      "name": "Botlikh-Godoberi",
+      "id": "botl1243",
+      "url": "https://glottolog.org/resource/languoid/id/botl1243"
+    }
+  ],
+  "iso639-3": "gdo"
+}

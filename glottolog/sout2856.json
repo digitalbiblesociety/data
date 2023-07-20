@@ -1,0 +1,106 @@
+{
+  "pk": 19739,
+  "hid": "erk",
+  "father_pk": 17667,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Nafsan [sout2856][erk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3449070",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nafsan_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/sout2856",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_erk",
+        "label": "Efate (South)"
+      }
+    ],
+    "meds": [
+      [
+        "35280",
+        "long_grammar",
+        2004,
+        536,
+        "Nicholas A. Thieberger 2004"
+      ],
+      [
+        "78126",
+        "grammar_sketch",
+        1907,
+        372,
+        "Macdonald, Daniel 1907"
+      ]
+    ]
+  },
+  "id": "sout2856",
+  "name": "Nafsan",
+  "description": null,
+  "markup_description": null,
+  "latitude": -17.7006,
+  "longitude": 168.377,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "North and Central Vanuatu",
+      "id": "nort3195",
+      "url": "https://glottolog.org/resource/languoid/id/nort3195"
+    },
+    {
+      "name": "Central Vanuatu",
+      "id": "cent2269",
+      "url": "https://glottolog.org/resource/languoid/id/cent2269"
+    },
+    {
+      "name": "Epi-Efate",
+      "id": "epie1239",
+      "url": "https://glottolog.org/resource/languoid/id/epie1239"
+    },
+    {
+      "name": "Efate",
+      "id": "efat1236",
+      "url": "https://glottolog.org/resource/languoid/id/efat1236"
+    },
+    {
+      "name": "South Efatic",
+      "id": "sout3196",
+      "url": "https://glottolog.org/resource/languoid/id/sout3196"
+    }
+  ],
+  "iso639-3": "erk"
+}

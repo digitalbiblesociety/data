@@ -1,0 +1,86 @@
+{
+  "pk": 3887,
+  "hid": "oia",
+  "father_pk": 2181,
+  "family_pk": 125,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Oirata [oira1263][oia]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2732",
+        "label": "Oirata"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56738",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Oirata_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "660968",
+        "grammar_sketch",
+        2020,
+        157,
+        "Erniati, {} and Nita Handayani Hasan and Adi Syaiiful Mukhtar 2020"
+      ],
+      [
+        "135007",
+        "grammar_sketch",
+        2006,
+        52,
+        "Vera Faust 2006"
+      ],
+      [
+        "57991",
+        "grammar_sketch",
+        1965,
+        11,
+        "H. K. J. Cowan 1965"
+      ],
+      [
+        "88994",
+        "phonology_or_text",
+        1937,
+        145,
+        "Josselin de Jong, Jan Petrus Benjamin de 1937"
+      ]
+    ]
+  },
+  "id": "oira1263",
+  "name": "Oirata",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.09044,
+  "longitude": 127.201,
+  "classification": [
+    {
+      "name": "Timor-Alor-Pantar",
+      "id": "timo1261",
+      "url": "https://glottolog.org/resource/languoid/id/timo1261"
+    },
+    {
+      "name": "East Timor",
+      "id": "east2520",
+      "url": "https://glottolog.org/resource/languoid/id/east2520"
+    },
+    {
+      "name": "Fataluku-Oirata",
+      "id": "fata1246",
+      "url": "https://glottolog.org/resource/languoid/id/fata1246"
+    }
+  ],
+  "iso639-3": "oia"
+}

@@ -1,0 +1,102 @@
+{
+  "pk": 7653,
+  "hid": "mra",
+  "father_pk": 5310,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mlabri [mlab1235][mra]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1240",
+        "label": "Mlabri"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3073465",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mlabri_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mlm",
+        "label": "Mlabri (Minor)"
+      }
+    ],
+    "meds": [
+      [
+        "56228",
+        "long_grammar",
+        1995,
+        367,
+        "Jørgen Rischel 1995"
+      ],
+      [
+        "578259",
+        "grammar",
+        1963,
+        4,
+        "Velder, C. 1963"
+      ],
+      [
+        "136966",
+        "wordlist_or_less",
+        1942,
+        251,
+        "Hugo Adolf Bernatzik 1942"
+      ],
+      [
+        "305273",
+        "wordlist_or_less",
+        1926,
+        8,
+        "Seidenfaden, Erik 1926"
+      ],
+      [
+        "311146",
+        "wordlist_or_less",
+        1924,
+        6,
+        "Kerr, A. F. G. 1924"
+      ]
+    ]
+  },
+  "id": "mlab1235",
+  "name": "Mlabri",
+  "description": null,
+  "markup_description": null,
+  "latitude": 18.5533,
+  "longitude": 101.163,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Khmuic",
+      "id": "khmu1236",
+      "url": "https://glottolog.org/resource/languoid/id/khmu1236"
+    },
+    {
+      "name": "Phay-Pram",
+      "id": "phay1242",
+      "url": "https://glottolog.org/resource/languoid/id/phay1242"
+    },
+    {
+      "name": "Tinic",
+      "id": "tini1248",
+      "url": "https://glottolog.org/resource/languoid/id/tini1248"
+    }
+  ],
+  "iso639-3": "mra"
+}

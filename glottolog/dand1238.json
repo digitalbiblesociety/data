@@ -1,0 +1,79 @@
+{
+  "pk": 13569,
+  "hid": "daq",
+  "father_pk": 10488,
+  "family_pk": 404,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Geedam [geed1237]':1,'Sukma [sukm1237]':1)'Dandami Maria [dand1238][daq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12952805",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "423439",
+        "long_grammar",
+        1979,
+        310,
+        "Keshinath M. Pandey 1979"
+      ],
+      [
+        "49805",
+        "grammar_sketch",
+        1942,
+        72,
+        "A. N. Mitchell 1942"
+      ]
+    ]
+  },
+  "id": "dand1238",
+  "name": "Dandami Maria",
+  "description": null,
+  "markup_description": null,
+  "latitude": 18.7475,
+  "longitude": 81.3598,
+  "classification": [
+    {
+      "name": "Dravidian",
+      "id": "drav1251",
+      "url": "https://glottolog.org/resource/languoid/id/drav1251"
+    },
+    {
+      "name": "South Dravidian",
+      "id": "sout3133",
+      "url": "https://glottolog.org/resource/languoid/id/sout3133"
+    },
+    {
+      "name": "South Dravidian II",
+      "id": "sout3139",
+      "url": "https://glottolog.org/resource/languoid/id/sout3139"
+    },
+    {
+      "name": "Gondi",
+      "id": "gond1265",
+      "url": "https://glottolog.org/resource/languoid/id/gond1265"
+    },
+    {
+      "name": "Southeast Gondi",
+      "id": "sout3234",
+      "url": "https://glottolog.org/resource/languoid/id/sout3234"
+    },
+    {
+      "name": "South Bastar Gondi-Koya",
+      "id": "hill1257",
+      "url": "https://glottolog.org/resource/languoid/id/hill1257"
+    }
+  ],
+  "iso639-3": "daq"
+}

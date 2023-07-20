@@ -1,0 +1,122 @@
+{
+  "pk": 22645,
+  "hid": "gos",
+  "father_pk": 20899,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Groningen-East Frisian [gron1243]':1,'Veenkoloniaals [veen1238]':1,'West Groningen [west2360]':1,'Westerwolds [west2359]':1)'Gronings [gron1242][gos]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Gronings_dialect",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q508854",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "159970",
+        "grammar",
+        1991,
+        256,
+        "Siemon J. H. Reker 1991"
+      ],
+      [
+        "577035",
+        "phonology_or_text",
+        1923,
+        67,
+        "Frans Gerhard Schuringa 1923"
+      ],
+      [
+        "578374",
+        "phonology_or_text",
+        1895,
+        52,
+        "Wobbe de Vries 1895"
+      ],
+      [
+        "551251",
+        "phonology_or_text",
+        1885,
+        15,
+        "Johannes Onnekes 1885"
+      ]
+    ]
+  },
+  "id": "gron1242",
+  "name": "Gronings",
+  "description": null,
+  "markup_description": null,
+  "latitude": 53.2842,
+  "longitude": 6.698,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Germanic",
+      "id": "germ1287",
+      "url": "https://glottolog.org/resource/languoid/id/germ1287"
+    },
+    {
+      "name": "Northwest Germanic",
+      "id": "nort3152",
+      "url": "https://glottolog.org/resource/languoid/id/nort3152"
+    },
+    {
+      "name": "West Germanic",
+      "id": "west2793",
+      "url": "https://glottolog.org/resource/languoid/id/west2793"
+    },
+    {
+      "name": "North Sea Germanic",
+      "id": "nort3175",
+      "url": "https://glottolog.org/resource/languoid/id/nort3175"
+    },
+    {
+      "name": "Altsächsisch",
+      "id": "alts1234",
+      "url": "https://glottolog.org/resource/languoid/id/alts1234"
+    },
+    {
+      "name": "Middle-Modern Low German",
+      "id": "midd1345",
+      "url": "https://glottolog.org/resource/languoid/id/midd1345"
+    },
+    {
+      "name": "Low German",
+      "id": "lowg1239",
+      "url": "https://glottolog.org/resource/languoid/id/lowg1239"
+    },
+    {
+      "name": "West Low German",
+      "id": "west2357",
+      "url": "https://glottolog.org/resource/languoid/id/west2357"
+    },
+    {
+      "name": "North Low Saxon",
+      "id": "ostf1234",
+      "url": "https://glottolog.org/resource/languoid/id/ostf1234"
+    }
+  ],
+  "iso639-3": "gos"
+}

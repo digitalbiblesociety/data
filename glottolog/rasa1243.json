@@ -1,0 +1,72 @@
+{
+  "pk": 5241,
+  "hid": "rac",
+  "father_pk": 3412,
+  "family_pk": 396,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Rasawa [rasa1243][rac]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5324",
+        "label": "Rasawa"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56443",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Rasawa_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "301770",
+        "wordlist_or_less",
+        1997,
+        2,
+        "Duane A. Clouse 1997"
+      ],
+      [
+        "64567",
+        "wordlist_or_less",
+        1987,
+        1,
+        "Jones, Larry B. 1987"
+      ]
+    ]
+  },
+  "id": "rasa1243",
+  "name": "Rasawa",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.37609,
+  "longitude": 136.352,
+  "classification": [
+    {
+      "name": "Lakes Plain",
+      "id": "lake1255",
+      "url": "https://glottolog.org/resource/languoid/id/lake1255"
+    },
+    {
+      "name": "Far West Lakes Plain",
+      "id": "farw1236",
+      "url": "https://glottolog.org/resource/languoid/id/farw1236"
+    },
+    {
+      "name": "Rasawa-Saponi",
+      "id": "rasa1242",
+      "url": "https://glottolog.org/resource/languoid/id/rasa1242"
+    }
+  ],
+  "iso639-3": "rac"
+}

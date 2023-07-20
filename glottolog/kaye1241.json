@@ -1,0 +1,72 @@
+{
+  "pk": 4663,
+  "hid": "kzl",
+  "father_pk": 2963,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Leliali [leli1237]':1,'Lumaete [luma1237]':1,'Nuclear Kayeli [nucl1527]':1)'Kayeli [kaye1241][kzl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1892",
+        "label": "Kayeli"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kayeli_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q4207444",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "70159",
+        "wordlist_or_less",
+        1982,
+        23,
+        "Stokhof, W. A. L. 1982"
+      ],
+      [
+        "82031",
+        "wordlist_or_less",
+        1868,
+        9,
+        "Ludeking, E. W. A. 1868"
+      ]
+    ]
+  },
+  "id": "kaye1241",
+  "name": "Kayeli",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.39247,
+  "longitude": 127.118,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Nunusaku",
+      "id": "nunu1252",
+      "url": "https://glottolog.org/resource/languoid/id/nunu1252"
+    }
+  ],
+  "iso639-3": "kzl"
+}

@@ -1,0 +1,88 @@
+{
+  "pk": 15766,
+  "hid": "abo",
+  "father_pk": 12989,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Abon [abon1238][abo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q35121",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Abon_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "139568",
+        "wordlist_or_less",
+        2006,
+        7,
+        "Blench, Roger M. 2006"
+      ],
+      [
+        "37690",
+        "wordlist_or_less",
+        1931,
+        5,
+        "Meek, Charles K. 1931"
+      ]
+    ]
+  },
+  "id": "abon1238",
+  "name": "Abon",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.90621,
+  "longitude": 10.8769,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Tivoid",
+      "id": "tivo1239",
+      "url": "https://glottolog.org/resource/languoid/id/tivo1239"
+    },
+    {
+      "name": "North Tivoid",
+      "id": "nort3192",
+      "url": "https://glottolog.org/resource/languoid/id/nort3192"
+    }
+  ],
+  "iso639-3": "abo"
+}

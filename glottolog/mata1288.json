@@ -1,0 +1,68 @@
+{
+  "pk": 4930,
+  "hid": "mtn",
+  "father_pk": 3154,
+  "family_pk": 323,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Matagalpa [mata1288][mtn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3490756",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Matagalpa_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "310186",
+        "phonology_or_text",
+        1987,
+        3,
+        "Constenla Umaña, Alfredo 1987"
+      ],
+      [
+        "157300",
+        "wordlist_or_less",
+        1920,
+        21,
+        "Walther Lehmann 1920"
+      ]
+    ]
+  },
+  "id": "mata1288",
+  "name": "Matagalpa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 13.0333,
+  "longitude": -86,
+  "classification": [
+    {
+      "name": "Misumalpan",
+      "id": "misu1242",
+      "url": "https://glottolog.org/resource/languoid/id/misu1242"
+    },
+    {
+      "name": "Sumalpan",
+      "id": "suma1272",
+      "url": "https://glottolog.org/resource/languoid/id/suma1272"
+    },
+    {
+      "name": "Matagalpan",
+      "id": "mata1287",
+      "url": "https://glottolog.org/resource/languoid/id/mata1287"
+    }
+  ],
+  "iso639-3": "mtn"
+}

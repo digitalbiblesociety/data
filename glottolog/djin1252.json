@@ -1,0 +1,94 @@
+{
+  "pk": 4071,
+  "hid": "djb",
+  "father_pk": 2327,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dabi [dabi1239]':1,'Ganalbingu [gana1269]':1,'Mandjalpingu [mand1418]':1)'Djinba [djin1252][djb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4086",
+        "label": "Djinba"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/n97",
+        "label": "Djinba"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Djinba_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/djin1252",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5285351",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "19076",
+        "grammar",
+        1989,
+        211,
+        "Bruce E. Waters 1989"
+      ],
+      [
+        "1429",
+        "grammar",
+        1984,
+        0,
+        "Waters, Bruce E. 1984"
+      ],
+      [
+        "554499",
+        "wordlist_or_less",
+        1956,
+        4,
+        "Arthur Capell 1956"
+      ],
+      [
+        "574487",
+        "wordlist_or_less",
+        1952,
+        8,
+        "MacIntosh, N. W. G. 1952"
+      ]
+    ]
+  },
+  "id": "djin1252",
+  "name": "Djinba",
+  "description": null,
+  "markup_description": null,
+  "latitude": -12.93,
+  "longitude": 134.967,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Yuulngu",
+      "id": "yuul1239",
+      "url": "https://glottolog.org/resource/languoid/id/yuul1239"
+    },
+    {
+      "name": "Western-Inland Yolngu",
+      "id": "west2440",
+      "url": "https://glottolog.org/resource/languoid/id/west2440"
+    }
+  ],
+  "iso639-3": "djb"
+}

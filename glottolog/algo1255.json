@@ -1,0 +1,99 @@
+{
+  "pk": 14651,
+  "hid": "alq",
+  "father_pk": 11678,
+  "family_pk": 178,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Nipissing [mini1254]':1,'Northern Algonquin [nort3290]':1)'Algonquin [algo1255][alq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_alg",
+        "label": "Algonquin"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Algonquin_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q28092",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "554400",
+        "grammar",
+        1987,
+        170,
+        "Brouillard, Edmond and Marie Dumont-Anicinapeo 1987"
+      ],
+      [
+        "80754",
+        "grammar",
+        1891,
+        106,
+        "Cuoq, Jean-André 1891-1892"
+      ],
+      [
+        "133477",
+        "grammar_sketch",
+        1672,
+        138,
+        "Louis Nicolas 1672-1674"
+      ]
+    ]
+  },
+  "id": "algo1255",
+  "name": "Algonquin",
+  "description": null,
+  "markup_description": null,
+  "latitude": 47.3876,
+  "longitude": -77.5258,
+  "classification": [
+    {
+      "name": "Algic",
+      "id": "algi1248",
+      "url": "https://glottolog.org/resource/languoid/id/algi1248"
+    },
+    {
+      "name": "Algonquian-Blackfoot",
+      "id": "algo1256",
+      "url": "https://glottolog.org/resource/languoid/id/algo1256"
+    },
+    {
+      "name": "Algonquian",
+      "id": "algo1257",
+      "url": "https://glottolog.org/resource/languoid/id/algo1257"
+    },
+    {
+      "name": "Eastern Great Lakes Algonquian",
+      "id": "east2765",
+      "url": "https://glottolog.org/resource/languoid/id/east2765"
+    },
+    {
+      "name": "Ojibwa-Potawatomi",
+      "id": "ojib1240",
+      "url": "https://glottolog.org/resource/languoid/id/ojib1240"
+    },
+    {
+      "name": "Ojibwa",
+      "id": "ojib1241",
+      "url": "https://glottolog.org/resource/languoid/id/ojib1241"
+    },
+    {
+      "name": "Severn-Algonquin",
+      "id": "seve1242",
+      "url": "https://glottolog.org/resource/languoid/id/seve1242"
+    }
+  ],
+  "iso639-3": "alq"
+}

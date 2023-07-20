@@ -1,0 +1,77 @@
+{
+  "pk": 3296,
+  "hid": "djc",
+  "father_pk": 1735,
+  "family_pk": 351,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bardangal [bard1256]':1,'Eref [eref1238]':1,'Gadjira [gadj1244]':1)'Dar Daju Daju [dard1243][djc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q5209890",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Daju_Mongo_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "77758",
+        "grammar",
+        2011,
+        192,
+        "Palayer, Pierre 2011"
+      ],
+      [
+        "17033",
+        "grammar_sketch",
+        2000,
+        119,
+        "Ismail, Muhammad Abbaker 2000"
+      ],
+      [
+        "7670",
+        "grammar_sketch",
+        1949,
+        3,
+        "de Rendinger, R. 1949"
+      ],
+      [
+        "72587",
+        "wordlist_or_less",
+        1925,
+        2,
+        "Grossard, Le Lieutenant-Colonel 1925"
+      ]
+    ]
+  },
+  "id": "dard1243",
+  "name": "Dar Daju Daju",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.1187,
+  "longitude": 18.7996,
+  "classification": [
+    {
+      "name": "Dajuic",
+      "id": "daju1249",
+      "url": "https://glottolog.org/resource/languoid/id/daju1249"
+    },
+    {
+      "name": "Western Dajuic",
+      "id": "west2501",
+      "url": "https://glottolog.org/resource/languoid/id/west2501"
+    }
+  ],
+  "iso639-3": "djc"
+}

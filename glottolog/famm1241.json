@@ -1,0 +1,82 @@
+{
+  "pk": 9980,
+  "hid": "fam",
+  "father_pk": 7187,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Fam [famm1241][fam]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5994",
+        "label": "Fam"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35290",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Fam_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "103119",
+        "wordlist_or_less",
+        2011,
+        1,
+        "Blench, Roger M. 2011"
+      ],
+      [
+        "114869",
+        "wordlist_or_less",
+        1993,
+        1,
+        "Blench, Roger M. 1993"
+      ]
+    ]
+  },
+  "id": "famm1241",
+  "name": "Fam",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.54277,
+  "longitude": 10.505,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Unclassified Bantoid",
+      "id": "unun9931",
+      "url": "https://glottolog.org/resource/languoid/id/unun9931"
+    }
+  ],
+  "iso639-3": "fam"
+}

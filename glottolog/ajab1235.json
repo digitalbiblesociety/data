@@ -1,0 +1,88 @@
+{
+  "pk": 7155,
+  "hid": "ajg",
+  "father_pk": 4891,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dogbo [dogb1238]':1,'Hwe [hwee1238]':1,'Sikpi [sikp1238]':1,'Tado {Benin} [tado1245]':1)'Aja {Benin} [ajab1235][ajg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ajg",
+        "label": "Ajagbe"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Adja_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/ajab1235",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35035",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "104067",
+        "long_grammar",
+        1984,
+        450,
+        "Tchitchi, Toussaint Yauvi 1984"
+      ],
+      [
+        "19747",
+        "grammar_sketch",
+        1972,
+        31,
+        "Pazzi, Roberto 1972"
+      ],
+      [
+        "43877",
+        "wordlist_or_less",
+        1789,
+        49,
+        "Fodor, István 1975 [1789]"
+      ]
+    ]
+  },
+  "id": "ajab1235",
+  "name": "Aja (Benin)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.06634,
+  "longitude": 1.64992,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Kwa Volta-Congo",
+      "id": "kwav1236",
+      "url": "https://glottolog.org/resource/languoid/id/kwav1236"
+    },
+    {
+      "name": "Gbe",
+      "id": "gbee1241",
+      "url": "https://glottolog.org/resource/languoid/id/gbee1241"
+    }
+  ],
+  "iso639-3": "ajg"
+}

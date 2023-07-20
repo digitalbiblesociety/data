@@ -1,0 +1,80 @@
+{
+  "pk": 6365,
+  "hid": "eth",
+  "father_pk": 4319,
+  "family_pk": 206,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Sign Language",
+  "newick": "('Addis Ababa Ethiopian Sign Language [addi1234]':1,'Hosaena Ethiopian Sign Language [hosa1234]':1)'Ethiopian Sign Language [ethi1238][eth]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3501903",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ethiopian_sign_languages",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "320147",
+        "phonology_or_text",
+        2008,
+        0,
+        "Ethiopian National Association of the Deaf, {} 2008"
+      ],
+      [
+        "549225",
+        "phonology_or_text",
+        2005,
+        0,
+        "Eyasu Hailu 2005"
+      ],
+      [
+        "64444",
+        "wordlist_or_less",
+        1981,
+        4,
+        "Derso, Tekle Haimanot 1981"
+      ]
+    ]
+  },
+  "id": "ethi1238",
+  "name": "Ethiopian Sign Language",
+  "description": null,
+  "markup_description": null,
+  "latitude": 8.9761,
+  "longitude": 38.8534,
+  "classification": [
+    {
+      "name": "Sign Language",
+      "id": "sign1238",
+      "url": "https://glottolog.org/resource/languoid/id/sign1238"
+    },
+    {
+      "name": "Deaf Sign Language",
+      "id": "deaf1237",
+      "url": "https://glottolog.org/resource/languoid/id/deaf1237"
+    },
+    {
+      "name": "LSFic",
+      "id": "lsfi1234",
+      "url": "https://glottolog.org/resource/languoid/id/lsfi1234"
+    },
+    {
+      "name": "ASLic",
+      "id": "asli1244",
+      "url": "https://glottolog.org/resource/languoid/id/asli1244"
+    }
+  ],
+  "iso639-3": "eth"
+}

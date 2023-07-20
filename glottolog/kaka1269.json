@@ -1,0 +1,51 @@
+{
+  "pk": 777,
+  "hid": "kbf",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Kakauhua [kaka1269][kbf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "kbf",
+      "name": "Kakauhua",
+      "change_request": "2014-047",
+      "effective": "2015-01-12",
+      "reason": "non-existent",
+      "change_to": [],
+      "remedy": "Retire",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [],
+    "meds": [
+      [
+        "500976",
+        "wordlist_or_less",
+        2014,
+        0,
+        "ISO 639-3 Registration Authority 2014"
+      ]
+    ]
+  },
+  "id": "kaka1269",
+  "name": "Kakauhua",
+  "description": null,
+  "markup_description": null,
+  "latitude": -39.0488,
+  "longitude": -72.3228,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "kbf"
+}

@@ -1,0 +1,91 @@
+{
+  "pk": 6802,
+  "hid": "mdr",
+  "father_pk": 4637,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Balanipa [bala1313]':1,'Majene [maje1237]':1,'Malunda [malu1246]':1,'Pamboang [pamb1245]':1,'Sendana [send1239]':1)'Mandar [mand1442][mdr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q35995",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mandar_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mnr",
+        "label": "Mandar"
+      }
+    ],
+    "meds": [
+      [
+        "326452",
+        "grammar_sketch",
+        1992,
+        226,
+        "Abdul Muthalib 1992"
+      ],
+      [
+        "25387",
+        "grammar_sketch",
+        1979,
+        178,
+        "Ba'dulu, Abd. Muis and H.M. Ide Said and Abdul Muthalib and Abd. Rajab Johari and H.St. Hadarah 1979-1980"
+      ],
+      [
+        "68628",
+        "phonology_or_text",
+        1975,
+        312,
+        "Sahur, Ahmad 1975"
+      ],
+      [
+        "314445",
+        "wordlist_or_less",
+        1967,
+        110,
+        "Pelenkahu, R.A. 1967"
+      ]
+    ]
+  },
+  "id": "mand1442",
+  "name": "Mandar",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.34717,
+  "longitude": 119.068,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "South Sulawesi",
+      "id": "sout2923",
+      "url": "https://glottolog.org/resource/languoid/id/sout2923"
+    },
+    {
+      "name": "Northern South Sulawesi",
+      "id": "nort2894",
+      "url": "https://glottolog.org/resource/languoid/id/nort2894"
+    }
+  ],
+  "iso639-3": "mdr"
+}

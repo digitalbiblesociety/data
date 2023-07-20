@@ -1,0 +1,92 @@
+{
+  "pk": 1989,
+  "hid": "amm",
+  "father_pk": 890,
+  "family_pk": 54,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ama {Papua New Guinea} [amap1240][amm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10662",
+        "label": "Ama"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_amm",
+        "label": "Ama"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ama_language_(New_Guinea)",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3446626",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "108544",
+        "grammar_sketch",
+        1999,
+        115,
+        "Årsjö, Britten 1999"
+      ],
+      [
+        "162572",
+        "grammar_sketch",
+        1994,
+        25,
+        "Årsjö, Britten 1994"
+      ],
+      [
+        "16426",
+        "phonology_or_text",
+        1993,
+        44,
+        "Årsjö, Britten 1993"
+      ],
+      [
+        "109325",
+        "wordlist_or_less",
+        1975,
+        1,
+        "Conrad, Robert J. and T. Wayne Dye 1975"
+      ],
+      [
+        "108516",
+        "wordlist_or_less",
+        1973,
+        1,
+        "Laycock, Donald C. 1973"
+      ]
+    ]
+  },
+  "id": "amap1240",
+  "name": "Ama (Papua New Guinea)",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.20192,
+  "longitude": 141.658,
+  "classification": [
+    {
+      "name": "Left May",
+      "id": "left1242",
+      "url": "https://glottolog.org/resource/languoid/id/left1242"
+    },
+    {
+      "name": "Western Left May",
+      "id": "nucl1244",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1244"
+    }
+  ],
+  "iso639-3": "amm"
+}

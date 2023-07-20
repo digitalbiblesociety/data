@@ -1,0 +1,65 @@
+{
+  "pk": 545,
+  "hid": "mzf",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Aiku [aiku1240][mzf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "mzf",
+      "name": "Aiku",
+      "change_request": "2006-057",
+      "effective": "2007-07-18",
+      "reason": "split",
+      "change_to": [
+        "aag",
+        "yde",
+        "ygl",
+        "ymo"
+      ],
+      "remedy": "Split into four languages: Ambrak [aag]; Yangum Dey [yde]; Yangum Gel [ygl]; Yangum Mon [ymo]",
+      "comment": "The four groups speak related but distinct languages, with communication between\nthe groups in Tok Pisin rather than one or more of the languages, indicating\nthat inherent intelligibility is low."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3329139",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yangum_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500886",
+        "wordlist_or_less",
+        2006,
+        0,
+        "ISO 639-3 Registration Authority 2006"
+      ]
+    ]
+  },
+  "id": "aiku1240",
+  "name": "Aiku",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "mzf"
+}

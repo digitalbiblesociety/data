@@ -1,0 +1,82 @@
+{
+  "pk": 8470,
+  "hid": "xtv",
+  "father_pk": 6009,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Southern Coastal Yuin [sout2771][xtv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Thawa_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/sout2771",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7711494",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "38921",
+        "wordlist_or_less",
+        1993,
+        33,
+        "Liston, John 1993"
+      ],
+      [
+        "305546",
+        "wordlist_or_less",
+        1902,
+        4,
+        "Mathews, R. H. 1902"
+      ]
+    ]
+  },
+  "id": "sout2771",
+  "name": "Southern Coastal Yuin",
+  "description": null,
+  "markup_description": null,
+  "latitude": -37.06227181,
+  "longitude": 149.7169306,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Southeastern Pama-Nyungan",
+      "id": "sout3135",
+      "url": "https://glottolog.org/resource/languoid/id/sout3135"
+    },
+    {
+      "name": "New South Wales Pama-Nyungan",
+      "id": "news1235",
+      "url": "https://glottolog.org/resource/languoid/id/news1235"
+    },
+    {
+      "name": "Yuin-Kuri",
+      "id": "yuin1243",
+      "url": "https://glottolog.org/resource/languoid/id/yuin1243"
+    },
+    {
+      "name": "Yuin",
+      "id": "yuin1242",
+      "url": "https://glottolog.org/resource/languoid/id/yuin1242"
+    }
+  ],
+  "iso639-3": "xtv"
+}

@@ -1,0 +1,65 @@
+{
+  "pk": 3977,
+  "hid": "dbe",
+  "father_pk": 2264,
+  "family_pk": 147,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Dabe [dabe1239][dbe]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4067",
+        "label": "Dabe"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5207451",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dabe_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "39370",
+        "wordlist_or_less",
+        1961,
+        14,
+        "Oosterwal, Gottfried 1961"
+      ]
+    ]
+  },
+  "id": "dabe1239",
+  "name": "Dabe",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.05082,
+  "longitude": 139.116,
+  "classification": [
+    {
+      "name": "Tor-Orya",
+      "id": "toro1256",
+      "url": "https://glottolog.org/resource/languoid/id/toro1256"
+    },
+    {
+      "name": "Tor",
+      "id": "tora1268",
+      "url": "https://glottolog.org/resource/languoid/id/tora1268"
+    },
+    {
+      "name": "Coastal Tor",
+      "id": "coas1312",
+      "url": "https://glottolog.org/resource/languoid/id/coas1312"
+    }
+  ],
+  "iso639-3": "dbe"
+}

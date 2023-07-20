@@ -1,0 +1,83 @@
+{
+  "pk": 12858,
+  "hid": "wci",
+  "father_pk": 9904,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Vo [vooo1238]':1,'Waci [waci1240]':1,'Wance [wanc1240]':1,'Wundi [wund1239]':1)'Waci Gbe [waci1239][wci]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q36987",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Waci_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "99079",
+        "grammar",
+        1972,
+        0,
+        "Anson, G. M. 1972"
+      ],
+      [
+        "142861",
+        "wordlist_or_less",
+        1952,
+        9,
+        "Manoukian, Madeline 1952"
+      ]
+    ]
+  },
+  "id": "waci1239",
+  "name": "Waci Gbe",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.45571,
+  "longitude": 1.69303,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Kwa Volta-Congo",
+      "id": "kwav1236",
+      "url": "https://glottolog.org/resource/languoid/id/kwav1236"
+    },
+    {
+      "name": "Gbe",
+      "id": "gbee1241",
+      "url": "https://glottolog.org/resource/languoid/id/gbee1241"
+    },
+    {
+      "name": "Western Gbe",
+      "id": "west2802",
+      "url": "https://glottolog.org/resource/languoid/id/west2802"
+    },
+    {
+      "name": "Kpesi-Waci",
+      "id": "kpes1239",
+      "url": "https://glottolog.org/resource/languoid/id/kpes1239"
+    }
+  ],
+  "iso639-3": "wci"
+}

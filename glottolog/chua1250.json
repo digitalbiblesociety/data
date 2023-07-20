@@ -1,0 +1,88 @@
+{
+  "pk": 6587,
+  "hid": "cjv",
+  "father_pk": 4534,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Gomia [gomi1239]':1,'Kebai [keba1252]':1,'Sua [suaa1241]':1)'Duom Kobu [nucl1615]':1,'Elimbari [elim1239]':1)'Chuave [chua1250][cjv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_cve",
+        "label": "Chuave"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Chuave_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/chua1250",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5115226",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "320603",
+        "grammar_sketch",
+        1975,
+        100,
+        "Robert C. Thurman 1975"
+      ],
+      [
+        "128749",
+        "phonology_or_text",
+        1966,
+        16,
+        "Swick, Joyce 1966"
+      ],
+      [
+        "15483",
+        "wordlist_or_less",
+        1948,
+        1,
+        "Arthur Capell 1948-1949"
+      ]
+    ]
+  },
+  "id": "chua1250",
+  "name": "Chuave",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.17824,
+  "longitude": 145.139,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Chimbu-Wahgi",
+      "id": "cent2120",
+      "url": "https://glottolog.org/resource/languoid/id/cent2120"
+    },
+    {
+      "name": "Simbu",
+      "id": "simb1258",
+      "url": "https://glottolog.org/resource/languoid/id/simb1258"
+    },
+    {
+      "name": "Chuave-Nomane",
+      "id": "chua1249",
+      "url": "https://glottolog.org/resource/languoid/id/chua1249"
+    }
+  ],
+  "iso639-3": "cjv"
+}

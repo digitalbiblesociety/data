@@ -1,0 +1,118 @@
+{
+  "pk": 17384,
+  "hid": "mbt",
+  "father_pk": 15033,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kulamanen [kula1279]':1,'Matig-Salud [mati1251]':1,'Tala Ingod [tala1286]':1,'Tigwa [tigw1237]':1)'Matigsalug Manobo [mati1250][mbt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kuz",
+        "label": "Kulamanen"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Matigsalug_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6787447",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "301466",
+        "grammar",
+        2006,
+        164,
+        "Peter Wang and Robert Hunt and Jeff McGriff and Richard E. Elkins 2006"
+      ],
+      [
+        "93513",
+        "phonology_or_text",
+        1984,
+        164,
+        "na 1984"
+      ],
+      [
+        "87765",
+        "phonology_or_text",
+        1976,
+        14,
+        "Strong, Clarice 1976"
+      ],
+      [
+        "136553",
+        "wordlist_or_less",
+        1971,
+        2,
+        "Reid, Lawrence Andrew 1971"
+      ],
+      [
+        "23185",
+        "wordlist_or_less",
+        1953,
+        45,
+        "Abrams, Norman and Svelmoe, Gordon 1953"
+      ]
+    ]
+  },
+  "id": "mati1250",
+  "name": "Matigsalug Manobo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.72124,
+  "longitude": 125.16,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Greater Central Philippine",
+      "id": "grea1284",
+      "url": "https://glottolog.org/resource/languoid/id/grea1284"
+    },
+    {
+      "name": "Manobo",
+      "id": "mano1276",
+      "url": "https://glottolog.org/resource/languoid/id/mano1276"
+    },
+    {
+      "name": "Central and Southern Manobo",
+      "id": "cent2255",
+      "url": "https://glottolog.org/resource/languoid/id/cent2255"
+    },
+    {
+      "name": "East-West-Central Manobo",
+      "id": "east2778",
+      "url": "https://glottolog.org/resource/languoid/id/east2778"
+    },
+    {
+      "name": "East and Central Manobo",
+      "id": "east2742",
+      "url": "https://glottolog.org/resource/languoid/id/east2742"
+    },
+    {
+      "name": "Central Manobo",
+      "id": "cent2088",
+      "url": "https://glottolog.org/resource/languoid/id/cent2088"
+    }
+  ],
+  "iso639-3": "mbt"
+}

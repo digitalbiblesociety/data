@@ -1,0 +1,112 @@
+{
+  "pk": 11382,
+  "hid": "bmi",
+  "father_pk": 8383,
+  "family_pk": 140,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bangri [bang1360]':1,'Dam [damm1238]':1,'Gol [goll1238]':1,'Kibar [kiba1246]':1)'Bagirmi [bagi1246][bmi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q34903",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bagirmi_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/bagi1246",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bag",
+        "label": "Bagirmi"
+      }
+    ],
+    "meds": [
+      [
+        "10705",
+        "grammar",
+        1969,
+        205,
+        "Stevenson, Roland C. 1969"
+      ],
+      [
+        "19397",
+        "grammar",
+        1906,
+        147,
+        "Gaden, Henri 1906"
+      ],
+      [
+        "135309",
+        "grammar_sketch",
+        1862,
+        108,
+        "Barth, Heinrich 1862"
+      ],
+      [
+        "127703",
+        "wordlist_or_less",
+        1816,
+        23,
+        "Seetzen, Ulrich J. 1816"
+      ],
+      [
+        "132490",
+        "wordlist_or_less",
+        1812,
+        0,
+        "Adelung, Johann Christoph 1812/17"
+      ]
+    ]
+  },
+  "id": "bagi1246",
+  "name": "Bagirmi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.52392,
+  "longitude": 14.769495,
+  "classification": [
+    {
+      "name": "Central Sudanic",
+      "id": "cent2225",
+      "url": "https://glottolog.org/resource/languoid/id/cent2225"
+    },
+    {
+      "name": "Sara-Bongo-Bagirmi",
+      "id": "sara1341",
+      "url": "https://glottolog.org/resource/languoid/id/sara1341"
+    },
+    {
+      "name": "SBB Occidental",
+      "id": "sbbo1237",
+      "url": "https://glottolog.org/resource/languoid/id/sbbo1237"
+    },
+    {
+      "name": "Nuclear SBB Occidental",
+      "id": "nucl1719",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1719"
+    },
+    {
+      "name": "Saraic",
+      "id": "sara1349",
+      "url": "https://glottolog.org/resource/languoid/id/sara1349"
+    },
+    {
+      "name": "Bagirmic",
+      "id": "bagi1248",
+      "url": "https://glottolog.org/resource/languoid/id/bagi1248"
+    }
+  ],
+  "iso639-3": "bmi"
+}

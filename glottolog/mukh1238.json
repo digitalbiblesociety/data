@@ -1,0 +1,73 @@
+{
+  "pk": 7605,
+  "hid": "mmk",
+  "father_pk": 5263,
+  "family_pk": 404,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mukha-Dora [mukh1238][mmk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6933447",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mukha-Dora_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "40572",
+        "wordlist_or_less",
+        1985,
+        7,
+        "von Fürer-Haimendorf, Christoph 1985"
+      ],
+      [
+        "96716",
+        "wordlist_or_less",
+        1945,
+        390,
+        "von Fürer-Haimendorf, Christoph 1945"
+      ]
+    ]
+  },
+  "id": "mukh1238",
+  "name": "Mukha-Dora",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.4467,
+  "longitude": 81.5663,
+  "classification": [
+    {
+      "name": "Dravidian",
+      "id": "drav1251",
+      "url": "https://glottolog.org/resource/languoid/id/drav1251"
+    },
+    {
+      "name": "South Dravidian",
+      "id": "sout3133",
+      "url": "https://glottolog.org/resource/languoid/id/sout3133"
+    },
+    {
+      "name": "South Dravidian II",
+      "id": "sout3139",
+      "url": "https://glottolog.org/resource/languoid/id/sout3139"
+    },
+    {
+      "name": "Teluguic",
+      "id": "telu1265",
+      "url": "https://glottolog.org/resource/languoid/id/telu1265"
+    }
+  ],
+  "iso639-3": "mmk"
+}

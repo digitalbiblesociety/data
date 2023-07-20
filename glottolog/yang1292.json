@@ -1,0 +1,60 @@
+{
+  "pk": 770,
+  "hid": "ynh",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Yangho [yang1292][ynh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "ynh",
+      "name": "Yangho",
+      "change_request": "2014-052",
+      "effective": "2015-01-12",
+      "reason": "non-existent",
+      "change_to": [],
+      "remedy": "Retire",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q36906",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yangho_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500995",
+        "wordlist_or_less",
+        2014,
+        0,
+        "ISO 639-3 Registration Authority 2014"
+      ]
+    ]
+  },
+  "id": "yang1292",
+  "name": "Yangho",
+  "description": null,
+  "markup_description": null,
+  "latitude": -1.92218,
+  "longitude": 13.0213,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "ynh"
+}

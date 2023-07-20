@@ -1,0 +1,78 @@
+{
+  "pk": 8235,
+  "hid": "dbp",
+  "father_pk": 5779,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Duwai [duwa1244][dbp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56301",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/%C6%8Auwai_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "8042",
+        "phonology_or_text",
+        1977,
+        25,
+        "Schuh, Russell Galen 1977"
+      ],
+      [
+        "66179",
+        "wordlist_or_less",
+        1854,
+        1,
+        "Koelle, Sigismund W. 1854"
+      ]
+    ]
+  },
+  "id": "duwa1244",
+  "name": "Duwai",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.803,
+  "longitude": 11.3367,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "West Chadic",
+      "id": "west2785",
+      "url": "https://glottolog.org/resource/languoid/id/west2785"
+    },
+    {
+      "name": "West Chadic B",
+      "id": "west2790",
+      "url": "https://glottolog.org/resource/languoid/id/west2790"
+    },
+    {
+      "name": "West Chadic B.1",
+      "id": "west2710",
+      "url": "https://glottolog.org/resource/languoid/id/west2710"
+    }
+  ],
+  "iso639-3": "dbp"
+}

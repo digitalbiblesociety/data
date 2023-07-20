@@ -1,0 +1,102 @@
+{
+  "pk": 7984,
+  "hid": "peo",
+  "father_pk": 5606,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Old Persian {ca. 600-400 B.C.} [oldp1254][peo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "peo",
+      "comment_type": "missing",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "A large array of classical or old literary forms of languages have a timespan such that they are not intelligible to their more modern variants which have E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 entries. One of them is Old Persian (**hh:g:Skjaervo:OPersian**)."
+    },
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q35225",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Old_Persian",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "550714",
+        "grammar",
+        1915,
+        264,
+        "Meillet, Antoine 1915"
+      ],
+      [
+        "317721",
+        "grammar_sketch",
+        1862,
+        228,
+        "Fr. Spiegel 1862"
+      ],
+      [
+        "154188",
+        "wordlist_or_less",
+        1707,
+        170,
+        "Relandus, Hadrianus 1707"
+      ]
+    ]
+  },
+  "id": "oldp1254",
+  "name": "Old Persian (ca. 600-400 B.C.)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 32,
+  "longitude": 54,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Iranian",
+      "id": "iran1269",
+      "url": "https://glottolog.org/resource/languoid/id/iran1269"
+    },
+    {
+      "name": "Southwestern Iranian",
+      "id": "sout3157",
+      "url": "https://glottolog.org/resource/languoid/id/sout3157"
+    }
+  ],
+  "iso639-3": "peo"
+}

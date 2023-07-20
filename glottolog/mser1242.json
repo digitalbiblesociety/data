@@ -1,0 +1,94 @@
+{
+  "pk": 11255,
+  "hid": "kqx",
+  "father_pk": 8291,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Gawi [gawi1244]':1,'Houlouf [houl1238]':1,'Kabe [kabe1249]':1,'Kalo [kalo1266]':1,'Nuclear Mser [nucl1691]':1)'Mser [mser1242][kqx]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6032",
+        "label": "Mser"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3502347",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mser_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "578006",
+        "phonology_or_text",
+        2019,
+        0,
+        "Henry Tourneux 2019"
+      ],
+      [
+        "19688",
+        "wordlist_or_less",
+        1912,
+        6,
+        "Benton, Philip A. 1912"
+      ],
+      [
+        "17699",
+        "wordlist_or_less",
+        1907,
+        2,
+        "Gaudefroy-Demombynes, Maurice 1907"
+      ]
+    ]
+  },
+  "id": "mser1242",
+  "name": "Mser",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.9765,
+  "longitude": 15.0373,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "Biu-Mandara",
+      "id": "bium1280",
+      "url": "https://glottolog.org/resource/languoid/id/bium1280"
+    },
+    {
+      "name": "North Biu-Mandara",
+      "id": "nort3156",
+      "url": "https://glottolog.org/resource/languoid/id/nort3156"
+    },
+    {
+      "name": "Kotoko-Buduma",
+      "id": "koto1267",
+      "url": "https://glottolog.org/resource/languoid/id/koto1267"
+    },
+    {
+      "name": "Kotoko Central",
+      "id": "koto1263",
+      "url": "https://glottolog.org/resource/languoid/id/koto1263"
+    }
+  ],
+  "iso639-3": "kqx"
+}

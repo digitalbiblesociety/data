@@ -1,0 +1,82 @@
+{
+  "pk": 3422,
+  "hid": "mec",
+  "father_pk": 1831,
+  "family_pk": 400,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Marra [mara1385][mec]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mra",
+        "label": "Mara"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/1915",
+        "label": "Marra"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Marra_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/mara1385",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6772774",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "163304",
+        "grammar",
+        1981,
+        179,
+        "Heath, Jeffrey 1981"
+      ],
+      [
+        "554499",
+        "wordlist_or_less",
+        1956,
+        4,
+        "Arthur Capell 1956"
+      ],
+      [
+        "88114",
+        "wordlist_or_less",
+        1886,
+        3,
+        "Lowre, James 1886"
+      ]
+    ]
+  },
+  "id": "mara1385",
+  "name": "Marra",
+  "description": null,
+  "markup_description": null,
+  "latitude": -14.7927,
+  "longitude": 134.865,
+  "classification": [
+    {
+      "name": "Mangarrayi-Maran",
+      "id": "mang1423",
+      "url": "https://glottolog.org/resource/languoid/id/mang1423"
+    },
+    {
+      "name": "Maran",
+      "id": "mara1414",
+      "url": "https://glottolog.org/resource/languoid/id/mara1414"
+    }
+  ],
+  "iso639-3": "mec"
+}

@@ -1,0 +1,116 @@
+{
+  "pk": 19251,
+  "hid": "zar",
+  "father_pk": 17184,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Eastern Rincón Zapotec [east2891]':1,'Las Delicias Zapotec [lasd1234][zcd]':1,'Southern Rincon Zapotec [sout3004][zsr]':1)'Rincón Zapotec [rinc1236][zar]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/8789",
+        "label": "Rincón"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Rinc%C3%B3n_Zapotec",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7334628",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "454004",
+        "grammar_sketch",
+        2011,
+        223,
+        "Earl, Roberto and Sheffler de Earl, Catalina 2011"
+      ],
+      [
+        "145624",
+        "grammar_sketch",
+        1990,
+        15,
+        "Pickett, Velma B. 1990"
+      ],
+      [
+        "127102",
+        "phonology_or_text",
+        1968,
+        6,
+        "Earl, Robert 1968"
+      ],
+      [
+        "641935",
+        "phonology_or_text",
+        1687,
+        328,
+        "de Ripalda, Gerónimo 1882 [1687]"
+      ]
+    ]
+  },
+  "id": "rinc1236",
+  "name": "Rincón Zapotec",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.4451,
+  "longitude": -96.3144,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Popoloca-Zapotecan",
+      "id": "popo1292",
+      "url": "https://glottolog.org/resource/languoid/id/popo1292"
+    },
+    {
+      "name": "Zapotecan",
+      "id": "zapo1436",
+      "url": "https://glottolog.org/resource/languoid/id/zapo1436"
+    },
+    {
+      "name": "Zapotec",
+      "id": "zapo1437",
+      "url": "https://glottolog.org/resource/languoid/id/zapo1437"
+    },
+    {
+      "name": "Core Zapotec",
+      "id": "nucl1765",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1765"
+    },
+    {
+      "name": "Narrow Core Zapotec",
+      "id": "core1259",
+      "url": "https://glottolog.org/resource/languoid/id/core1259"
+    },
+    {
+      "name": "Northern Core Zapotec",
+      "id": "nort2987",
+      "url": "https://glottolog.org/resource/languoid/id/nort2987"
+    },
+    {
+      "name": "Rinconic",
+      "id": "rinc1237",
+      "url": "https://glottolog.org/resource/languoid/id/rinc1237"
+    }
+  ],
+  "iso639-3": "zar"
+}

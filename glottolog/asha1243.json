@@ -1,0 +1,100 @@
+{
+  "pk": 14633,
+  "hid": "cni",
+  "father_pk": 11651,
+  "family_pk": 177,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Asháninka [asha1243][cni]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1718",
+        "label": "Asháninka"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_cax",
+        "label": "Campa (Axininca)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ash%C3%A1ninka_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/asha1243",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3437230",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "581637",
+        "grammar_sketch",
+        2018,
+        288,
+        "Esaú Zumaeta Rojas and Zerdin, Gerardo Anton 2018"
+      ],
+      [
+        "8454",
+        "grammar_sketch",
+        1750,
+        72,
+        "Lucien Adam 1890 [1750-1799]"
+      ]
+    ]
+  },
+  "id": "asha1243",
+  "name": "Asháninka",
+  "description": null,
+  "markup_description": null,
+  "latitude": -11.9311,
+  "longitude": -73.9073,
+  "classification": [
+    {
+      "name": "Arawakan",
+      "id": "araw1281",
+      "url": "https://glottolog.org/resource/languoid/id/araw1281"
+    },
+    {
+      "name": "Southern Maipuran",
+      "id": "sout3131",
+      "url": "https://glottolog.org/resource/languoid/id/sout3131"
+    },
+    {
+      "name": "Kampa-Amuesha",
+      "id": "kamp1244",
+      "url": "https://glottolog.org/resource/languoid/id/kamp1244"
+    },
+    {
+      "name": "Pre-Andine Maipuran",
+      "id": "prea1240",
+      "url": "https://glottolog.org/resource/languoid/id/prea1240"
+    },
+    {
+      "name": "Asha-Ashe-Kak-Matsi-Nan",
+      "id": "asha1244",
+      "url": "https://glottolog.org/resource/languoid/id/asha1244"
+    },
+    {
+      "name": "Asha-Ashe-Kak",
+      "id": "asha1241",
+      "url": "https://glottolog.org/resource/languoid/id/asha1241"
+    },
+    {
+      "name": "Ashe-Asha",
+      "id": "asha1242",
+      "url": "https://glottolog.org/resource/languoid/id/asha1242"
+    }
+  ],
+  "iso639-3": "cni"
+}

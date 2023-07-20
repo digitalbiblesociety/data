@@ -1,0 +1,78 @@
+{
+  "pk": 9474,
+  "hid": "ste",
+  "father_pk": 6858,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kobi [kobi1242]':1,'Seti {Indonesian} [seti1246]':1,'Wahakaim [waha1237]':1)'Liana-Seti [lian1255][ste]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6539924",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Liana_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "143037",
+        "grammar_sketch",
+        1928,
+        6,
+        "Odo D. Tauern 1928, 1929, 1930, 1931"
+      ],
+      [
+        "59437",
+        "wordlist_or_less",
+        1927,
+        5,
+        "Stresemann, Erwin 1927"
+      ]
+    ]
+  },
+  "id": "lian1255",
+  "name": "Liana-Seti",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.11832,
+  "longitude": 129.899,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Greater Seram Laut",
+      "id": "grea1302",
+      "url": "https://glottolog.org/resource/languoid/id/grea1302"
+    },
+    {
+      "name": "East Seram",
+      "id": "east2741",
+      "url": "https://glottolog.org/resource/languoid/id/east2741"
+    },
+    {
+      "name": "Setic",
+      "id": "seti1249",
+      "url": "https://glottolog.org/resource/languoid/id/seti1249"
+    }
+  ],
+  "iso639-3": "ste"
+}

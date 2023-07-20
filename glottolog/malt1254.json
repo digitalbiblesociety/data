@@ -1,0 +1,122 @@
+{
+  "pk": 16732,
+  "hid": "mlt",
+  "father_pk": 14143,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Gozo [gozo1238]':1,'Port Maltese [port1290]':1,'Rural Central Maltese [rura1250]':1,'Rural East Maltese [rura1251]':1,'Rural West Maltese [rura1249]':1,'Standard Maltese [stan1322]':1,'Zurrieq [zurr1238]':1)'Maltese [malt1254][mlt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mlt",
+        "label": "Maltese"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Maltese_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/malt1254",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q9166",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "124969",
+        "long_grammar",
+        1993,
+        551,
+        "Martine Vanhove 1993"
+      ],
+      [
+        "126585",
+        "long_grammar",
+        1959,
+        358,
+        "Aquilina, J. 1959"
+      ],
+      [
+        "128528",
+        "grammar",
+        1936,
+        298,
+        "Sutcliffe, Edmund F. 1936"
+      ],
+      [
+        "582136",
+        "grammar_sketch",
+        1845,
+        72,
+        "F. Vella 1845"
+      ],
+      [
+        "319976",
+        "wordlist_or_less",
+        1750,
+        0,
+        "Agius de Soldanis, Giovanni Pietro Francesco 1750"
+      ]
+    ]
+  },
+  "id": "malt1254",
+  "name": "Maltese",
+  "description": null,
+  "markup_description": null,
+  "latitude": 35.8884,
+  "longitude": 14.4508,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Semitic",
+      "id": "semi1276",
+      "url": "https://glottolog.org/resource/languoid/id/semi1276"
+    },
+    {
+      "name": "West Semitic",
+      "id": "west2786",
+      "url": "https://glottolog.org/resource/languoid/id/west2786"
+    },
+    {
+      "name": "Central Semitic",
+      "id": "cent2236",
+      "url": "https://glottolog.org/resource/languoid/id/cent2236"
+    },
+    {
+      "name": "Arabian",
+      "id": "arab1394",
+      "url": "https://glottolog.org/resource/languoid/id/arab1394"
+    },
+    {
+      "name": "Arabic",
+      "id": "arab1395",
+      "url": "https://glottolog.org/resource/languoid/id/arab1395"
+    },
+    {
+      "name": "North African Arabic",
+      "id": "nort3191",
+      "url": "https://glottolog.org/resource/languoid/id/nort3191"
+    },
+    {
+      "name": "Malta-Tunisian Arabic",
+      "id": "malt1259",
+      "url": "https://glottolog.org/resource/languoid/id/malt1259"
+    }
+  ],
+  "iso639-3": "mlt"
+}

@@ -1,0 +1,93 @@
+{
+  "pk": 2732,
+  "hid": "nid",
+  "father_pk": 1282,
+  "family_pk": 253,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ngandi [ngan1295][nid]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4859",
+        "label": "Ngandi"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/n90",
+        "label": "Ngandi"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ngandi_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/ngan1295",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ngn",
+        "label": "Ngandi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7021977",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "162777",
+        "grammar_sketch",
+        1978,
+        103,
+        "Jeffrey Heath 1978"
+      ],
+      [
+        "554499",
+        "wordlist_or_less",
+        1956,
+        4,
+        "Arthur Capell 1956"
+      ],
+      [
+        "4167",
+        "wordlist_or_less",
+        1940,
+        1,
+        "Arthur Capell 1940, 1940"
+      ],
+      [
+        "3622",
+        "wordlist_or_less",
+        1928,
+        4,
+        "Tindale, Norman B. 1928"
+      ]
+    ]
+  },
+  "id": "ngan1295",
+  "name": "Ngandi",
+  "description": null,
+  "markup_description": null,
+  "latitude": -12.8448,
+  "longitude": 134.649,
+  "classification": [
+    {
+      "name": "Gunwinyguan",
+      "id": "gunw1250",
+      "url": "https://glottolog.org/resource/languoid/id/gunw1250"
+    },
+    {
+      "name": "Eastern Gunwinyguan",
+      "id": "east2701",
+      "url": "https://glottolog.org/resource/languoid/id/east2701"
+    }
+  ],
+  "iso639-3": "nid"
+}

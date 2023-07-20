@@ -1,0 +1,74 @@
+{
+  "pk": 2888,
+  "hid": "jel",
+  "father_pk": 1376,
+  "family_pk": 279,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bibikem [bibi1234]':1,('Dodalim [doda1234]':1,'Woboyo [wobo1234]':1)'Galum [galu1242]':1)'Southern Yelmek [yelm1242][jel]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q8052020",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yelmek_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ylm",
+        "label": "Yelmek"
+      }
+    ],
+    "meds": [
+      [
+        "577884",
+        "phonology_or_text",
+        2012,
+        36,
+        "Tethool, Fransiska Octavia 2012"
+      ],
+      [
+        "80825",
+        "wordlist_or_less",
+        1952,
+        5,
+        "Hans Nevermann 1952"
+      ],
+      [
+        "82257",
+        "wordlist_or_less",
+        1933,
+        3,
+        "Geurtjens, Hendrik 1933"
+      ]
+    ]
+  },
+  "id": "yelm1242",
+  "name": "Southern Yelmek",
+  "description": null,
+  "markup_description": null,
+  "latitude": -7.93,
+  "longitude": 139.32,
+  "classification": [
+    {
+      "name": "Bulaka River",
+      "id": "bula1259",
+      "url": "https://glottolog.org/resource/languoid/id/bula1259"
+    },
+    {
+      "name": "Jelmek",
+      "id": "jelm1234",
+      "url": "https://glottolog.org/resource/languoid/id/jelm1234"
+    }
+  ],
+  "iso639-3": "jel"
+}

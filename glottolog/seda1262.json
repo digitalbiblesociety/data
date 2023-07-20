@@ -1,0 +1,93 @@
+{
+  "pk": 10601,
+  "hid": "sed",
+  "father_pk": 7701,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Sedang [cent1991]':1,'Dak Sut Sedang [daks1239]':1,'Greater Sedang [grea1268]':1,'Kon Hring Sedang [konh1238]':1,'Kotua Sedang [kotu1238]':1)'Sedang [seda1262][sed]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56448",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sedang_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/seda1262",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_sed",
+        "label": "Sedang"
+      }
+    ],
+    "meds": [
+      [
+        "103472",
+        "long_grammar",
+        1975,
+        340,
+        "Smith, Kenneth D. 1975"
+      ],
+      [
+        "306959",
+        "grammar_sketch",
+        1967,
+        40,
+        "Smith, Kenneth D. 1967"
+      ],
+      [
+        "148642",
+        "wordlist_or_less",
+        1873,
+        66,
+        "Garnier, Francis 1873"
+      ]
+    ]
+  },
+  "id": "seda1262",
+  "name": "Sedang",
+  "description": null,
+  "markup_description": null,
+  "latitude": 14.7793,
+  "longitude": 108.027,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Bahnaric",
+      "id": "bahn1264",
+      "url": "https://glottolog.org/resource/languoid/id/bahn1264"
+    },
+    {
+      "name": "North Bahnaric",
+      "id": "nort3150",
+      "url": "https://glottolog.org/resource/languoid/id/nort3150"
+    },
+    {
+      "name": "Hre-Sedang-Todrah-Monam",
+      "id": "hres1236",
+      "url": "https://glottolog.org/resource/languoid/id/hres1236"
+    },
+    {
+      "name": "Hre-Sedang",
+      "id": "hres1237",
+      "url": "https://glottolog.org/resource/languoid/id/hres1237"
+    }
+  ],
+  "iso639-3": "sed"
+}

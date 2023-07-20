@@ -1,0 +1,67 @@
+{
+  "pk": 2652,
+  "hid": "nby",
+  "father_pk": 1234,
+  "family_pk": 225,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ningera [ning1275][nby]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4774",
+        "label": "Ningera"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q11732524",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ningera_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "43642",
+        "wordlist_or_less",
+        2005,
+        1,
+        "Mark Donohue and Melissa Crowther 2005"
+      ],
+      [
+        "108516",
+        "wordlist_or_less",
+        1973,
+        1,
+        "Laycock, Donald C. 1973"
+      ]
+    ]
+  },
+  "id": "ning1275",
+  "name": "Ningera",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.77145,
+  "longitude": 141.454,
+  "classification": [
+    {
+      "name": "Border",
+      "id": "bord1247",
+      "url": "https://glottolog.org/resource/languoid/id/bord1247"
+    },
+    {
+      "name": "Bewani",
+      "id": "bewa1242",
+      "url": "https://glottolog.org/resource/languoid/id/bewa1242"
+    }
+  ],
+  "iso639-3": "nby"
+}

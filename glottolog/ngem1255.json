@@ -1,0 +1,141 @@
+{
+  "pk": 23628,
+  "hid": "nge",
+  "father_pk": 22079,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Alatening [alat1245]':1,'Bagangu [baga1278]':1,'Mankon [mank1253]':1,'Mbutu [mbut1238]':1,('Anyang {Cameroon} [anya1246]':1,'Mbrerewi [mbre1246]':1)'Mundum [mund1341]':1,'Njong [njon1238]':1,'Shomba [shom1246]':1,'Songwa [song1306]':1)'Ngemba [ngem1255][nge]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 10,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mkq",
+        "label": "Mankon"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nge",
+        "label": "Ngemba"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mankon_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/ngem1255",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6750551",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "69945",
+        "long_grammar",
+        2003,
+        584,
+        "Leroy, Jacquline 2003"
+      ],
+      [
+        "153586",
+        "grammar",
+        1977,
+        196,
+        "Leroy, Jacqueline 1977"
+      ],
+      [
+        "178699",
+        "phonology_or_text",
+        1975,
+        26,
+        "Warnier, Jacqueline and Jan Voorhoeve 1975"
+      ],
+      [
+        "25058",
+        "wordlist_or_less",
+        1974,
+        3,
+        "Chilver, Elizabeth M. and Kaberry, Phyllis M. 1974"
+      ],
+      [
+        "33283",
+        "wordlist_or_less",
+        1972,
+        7,
+        "Eastlack, Charles L. 1972"
+      ]
+    ]
+  },
+  "id": "ngem1255",
+  "name": "Ngemba",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.97864,
+  "longitude": 10.1469,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Wide Grassfields",
+      "id": "wide1239",
+      "url": "https://glottolog.org/resource/languoid/id/wide1239"
+    },
+    {
+      "name": "Narrow Grassfields",
+      "id": "narr1282",
+      "url": "https://glottolog.org/resource/languoid/id/narr1282"
+    },
+    {
+      "name": "Mbam-Nkam",
+      "id": "mbam1249",
+      "url": "https://glottolog.org/resource/languoid/id/mbam1249"
+    },
+    {
+      "name": "Southern Mbam-Nkam",
+      "id": "sout3350",
+      "url": "https://glottolog.org/resource/languoid/id/sout3350"
+    },
+    {
+      "name": "Ngembaic",
+      "id": "ngem1254",
+      "url": "https://glottolog.org/resource/languoid/id/ngem1254"
+    },
+    {
+      "name": "Mankonic",
+      "id": "mank1258",
+      "url": "https://glottolog.org/resource/languoid/id/mank1258"
+    }
+  ],
+  "iso639-3": "nge"
+}

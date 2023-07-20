@@ -1,0 +1,75 @@
+{
+  "pk": 4856,
+  "hid": "keo",
+  "father_pk": 3110,
+  "family_pk": 316,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kakwa [kakw1240][keo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Kakwa_language_(Africa)",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3033547",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "552677",
+        "grammar_sketch",
+        1975,
+        85,
+        "Wokocan Unyutha 1975"
+      ],
+      [
+        "74329",
+        "wordlist_or_less",
+        1938,
+        43,
+        "Philips, {} 1938"
+      ],
+      [
+        "29388",
+        "wordlist_or_less",
+        1924,
+        2,
+        "Czekanowski, Jan 1924"
+      ]
+    ]
+  },
+  "id": "kakw1240",
+  "name": "Kakwa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 3.65233,
+  "longitude": 30.7762,
+  "classification": [
+    {
+      "name": "Nilotic",
+      "id": "nilo1247",
+      "url": "https://glottolog.org/resource/languoid/id/nilo1247"
+    },
+    {
+      "name": "Eastern Nilotic",
+      "id": "east2418",
+      "url": "https://glottolog.org/resource/languoid/id/east2418"
+    },
+    {
+      "name": "Barian",
+      "id": "bari1283",
+      "url": "https://glottolog.org/resource/languoid/id/bari1283"
+    }
+  ],
+  "iso639-3": "keo"
+}

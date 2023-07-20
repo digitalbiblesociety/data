@@ -1,0 +1,100 @@
+{
+  "pk": 9365,
+  "hid": "mak",
+  "father_pk": 6799,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Gowa [gowa1239]':1,'Maros-Pangkep [maro1245]':1,'Turatea [tura1262]':1)'Makasar [maka1311][mak]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mks",
+        "label": "Makassar"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Makassarese_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/maka1311",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33643",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "120374",
+        "long_grammar",
+        2006,
+        451,
+        "Anthony Jukes 2006"
+      ],
+      [
+        "23486",
+        "grammar_sketch",
+        1996,
+        288,
+        "Abdul Kadir Manyambeang and Abdul Kadir Mulya and Nasruddin, {} 1996"
+      ],
+      [
+        "38283",
+        "grammar_sketch",
+        1858,
+        151,
+        "Matthes, Benjamin F. 1858"
+      ],
+      [
+        "31869",
+        "wordlist_or_less",
+        1820,
+        59,
+        "John Crawfurd 1820"
+      ]
+    ]
+  },
+  "id": "maka1311",
+  "name": "Makasar",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.65551,
+  "longitude": 119.838,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "South Sulawesi",
+      "id": "sout2923",
+      "url": "https://glottolog.org/resource/languoid/id/sout2923"
+    },
+    {
+      "name": "Makassaric",
+      "id": "maka1310",
+      "url": "https://glottolog.org/resource/languoid/id/maka1310"
+    },
+    {
+      "name": "Nuclear Makassaric",
+      "id": "nucl1727",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1727"
+    }
+  ],
+  "iso639-3": "mak"
+}

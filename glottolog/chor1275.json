@@ -1,0 +1,58 @@
+{
+  "pk": 652,
+  "hid": "cjr",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Chorotega [chor1275][cjr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "cjr",
+      "name": "Chorotega",
+      "change_request": "2009-035",
+      "effective": "2010-01-18",
+      "reason": "merge",
+      "change_to": [
+        "mom"
+      ],
+      "remedy": "Merge with Mangue [mom]",
+      "comment": "There was no separate Chorotega language. The Chorotega Indians were speakers of\nMangue, which is the name proposed in a separate request to be used for the\nextinct language identified by [mom], currently called Monimbo.\n\n[RA comment: see change request 2009-034]"
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12645985",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "79914",
+        "grammar_sketch",
+        1886,
+        0,
+        "Brinton, Daniel G. 1886"
+      ]
+    ]
+  },
+  "id": "chor1275",
+  "name": "Chorotega",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.8154,
+  "longitude": -85.1228,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "cjr"
+}

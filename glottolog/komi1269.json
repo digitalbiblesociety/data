@@ -1,0 +1,94 @@
+{
+  "pk": 4759,
+  "hid": "koi",
+  "father_pk": 3051,
+  "family_pk": 302,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('North Permyak [nort2244]':1,'South Permyak [sout2463]':1,'Zyuzdin [zyud1238]':1)'Komi-Permyak [komi1269][koi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3279",
+        "label": "Komi-Permyak"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kop",
+        "label": "Komi-Permyak"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Permyak_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/komi1269",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56318",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "29607",
+        "long_grammar",
+        1998,
+        607,
+        "Fedjunëva, Galina V. 1998"
+      ],
+      [
+        "587331",
+        "long_grammar",
+        1940,
+        368,
+        "Gribanov, S. F. and S. I. Karavaev and N. V. Popov and A. M. Sporova 1940"
+      ],
+      [
+        "308869",
+        "grammar",
+        1860,
+        166,
+        "Rogov, Nikolai A. 1860"
+      ],
+      [
+        "309459",
+        "wordlist_or_less",
+        1786,
+        20,
+        "Pallas, Peter Simon 1786, 1789"
+      ]
+    ]
+  },
+  "id": "komi1269",
+  "name": "Komi-Permyak",
+  "description": null,
+  "markup_description": null,
+  "latitude": 59.6602,
+  "longitude": 54.7959,
+  "classification": [
+    {
+      "name": "Uralic",
+      "id": "ural1272",
+      "url": "https://glottolog.org/resource/languoid/id/ural1272"
+    },
+    {
+      "name": "Permian",
+      "id": "perm1256",
+      "url": "https://glottolog.org/resource/languoid/id/perm1256"
+    },
+    {
+      "name": "Komi",
+      "id": "komi1267",
+      "url": "https://glottolog.org/resource/languoid/id/komi1267"
+    }
+  ],
+  "iso639-3": "koi"
+}

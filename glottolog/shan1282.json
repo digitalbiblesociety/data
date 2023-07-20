@@ -1,0 +1,91 @@
+{
+  "pk": 11297,
+  "hid": "sho",
+  "father_pk": 8313,
+  "family_pk": 121,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Shanga [shan1282][sho]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5047",
+        "label": "Shanga"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3913931",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Shanga_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/shan1282",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "666541",
+        "grammar_sketch",
+        1982,
+        23,
+        "Platiel, Suzy 1982"
+      ],
+      [
+        "135094",
+        "wordlist_or_less",
+        1951,
+        3,
+        "Bertho, J. 1951"
+      ]
+    ]
+  },
+  "id": "shan1282",
+  "name": "Shanga",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.2752,
+  "longitude": 4.41464,
+  "classification": [
+    {
+      "name": "Mande",
+      "id": "mand1469",
+      "url": "https://glottolog.org/resource/languoid/id/mand1469"
+    },
+    {
+      "name": "Eastern Mande",
+      "id": "east2697",
+      "url": "https://glottolog.org/resource/languoid/id/east2697"
+    },
+    {
+      "name": "Bisa-Busa",
+      "id": "bisa1265",
+      "url": "https://glottolog.org/resource/languoid/id/bisa1265"
+    },
+    {
+      "name": "Samo-Busa",
+      "id": "samo1302",
+      "url": "https://glottolog.org/resource/languoid/id/samo1302"
+    },
+    {
+      "name": "Busan",
+      "id": "busa1252",
+      "url": "https://glottolog.org/resource/languoid/id/busa1252"
+    },
+    {
+      "name": "Kyenga-Shanga",
+      "id": "kyen1241",
+      "url": "https://glottolog.org/resource/languoid/id/kyen1241"
+    }
+  ],
+  "iso639-3": "sho"
+}

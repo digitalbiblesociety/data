@@ -1,0 +1,77 @@
+{
+  "pk": 1816,
+  "hid": "bmr",
+  "father_pk": 391,
+  "family_pk": 391,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Muinane [muin1242][bmr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2984",
+        "label": "Muinane"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mui",
+        "label": "Muinane"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Muinane_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/muin1242",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3027894",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "478444",
+        "grammar",
+        1975,
+        84,
+        "Villegas V., Betty and Walton, Janice P. and Walton, James W. 1975"
+      ],
+      [
+        "126961",
+        "phonology_or_text",
+        1967,
+        14,
+        "Waterhouse, Viola G. 1967"
+      ],
+      [
+        "34227",
+        "wordlist_or_less",
+        1930,
+        6,
+        "Günter Tessmann 1930"
+      ]
+    ]
+  },
+  "id": "muin1242",
+  "name": "Muinane",
+  "description": null,
+  "markup_description": null,
+  "latitude": -0.8652,
+  "longitude": -72.4249,
+  "classification": [
+    {
+      "name": "Boran",
+      "id": "bora1262",
+      "url": "https://glottolog.org/resource/languoid/id/bora1262"
+    }
+  ],
+  "iso639-3": "bmr"
+}

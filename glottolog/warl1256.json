@@ -1,0 +1,103 @@
+{
+  "pk": 6080,
+  "hid": "wrb",
+  "father_pk": 4084,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Warluwara [warl1256][wrb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_wlw",
+        "label": "Warluwara"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/g10",
+        "label": "Warluwarra"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/3326",
+        "label": "Warluwarra"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Warluwarra_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/warl1256",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3913761",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "60271",
+        "long_grammar",
+        1971,
+        313,
+        "Breen, J. G. 1971"
+      ],
+      [
+        "60272",
+        "long_grammar",
+        1970,
+        306,
+        "Breen, John Gavan 1970"
+      ],
+      [
+        "3316",
+        "wordlist_or_less",
+        1899,
+        69,
+        "Edge, J. G. 1899"
+      ],
+      [
+        "117699",
+        "wordlist_or_less",
+        1897,
+        1,
+        "Walter Edmund Roth 1897"
+      ]
+    ]
+  },
+  "id": "warl1256",
+  "name": "Warluwara",
+  "description": null,
+  "markup_description": null,
+  "latitude": -22.2909,
+  "longitude": 138.738,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Ngarna",
+      "id": "ngar1290",
+      "url": "https://glottolog.org/resource/languoid/id/ngar1290"
+    },
+    {
+      "name": "Southern Ngarna",
+      "id": "sout2766",
+      "url": "https://glottolog.org/resource/languoid/id/sout2766"
+    },
+    {
+      "name": "Thawa",
+      "id": "thaw1238",
+      "url": "https://glottolog.org/resource/languoid/id/thaw1238"
+    }
+  ],
+  "iso639-3": "wrb"
+}

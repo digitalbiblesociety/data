@@ -1,0 +1,118 @@
+{
+  "pk": 17604,
+  "hid": "tgo",
+  "father_pk": 15239,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Eastern Point [east2456]':1,'Griffin Point [grif1237]':1,'Jelewaga [jele1237]':1,'Pamela [pame1259]':1,'Rambuso [ramb1241]':1)'Sudest [sude1239][tgo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7675351",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sudest_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_sud",
+        "label": "Sudest"
+      }
+    ],
+    "meds": [
+      [
+        "568279",
+        "grammar_sketch",
+        1991,
+        109,
+        "Mike Anderson and Thera Anderson 1991"
+      ],
+      [
+        "67906",
+        "grammar_sketch",
+        1990,
+        0,
+        "na 1990"
+      ],
+      [
+        "309880",
+        "wordlist_or_less",
+        1892,
+        5,
+        "J. P. Thomson 1892"
+      ],
+      [
+        "57662",
+        "wordlist_or_less",
+        1891,
+        4,
+        "Zöller, Hugo 1891"
+      ],
+      [
+        "103429",
+        "wordlist_or_less",
+        1890,
+        3,
+        "MacGregor, William 1890"
+      ]
+    ]
+  },
+  "id": "sude1239",
+  "name": "Sudest",
+  "description": null,
+  "markup_description": null,
+  "latitude": -11.5229,
+  "longitude": 153.488,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Western Oceanic linkage",
+      "id": "west2818",
+      "url": "https://glottolog.org/resource/languoid/id/west2818"
+    },
+    {
+      "name": "Papuan Tip linkage",
+      "id": "papu1253",
+      "url": "https://glottolog.org/resource/languoid/id/papu1253"
+    },
+    {
+      "name": "Peripheral Papuan Tip linkage",
+      "id": "peri1258",
+      "url": "https://glottolog.org/resource/languoid/id/peri1258"
+    },
+    {
+      "name": "Nimoa-Sudest",
+      "id": "nimo1245",
+      "url": "https://glottolog.org/resource/languoid/id/nimo1245"
+    }
+  ],
+  "iso639-3": "tgo"
+}

@@ -1,0 +1,110 @@
+{
+  "pk": 14139,
+  "hid": "acy",
+  "father_pk": 11073,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Cypriot Arabic [cypr1248][acy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3177",
+        "label": "Cypriot Spoken Arabic"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56416",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cypriot_Arabic",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ako",
+        "label": "Arabic (Kormakiti)"
+      }
+    ],
+    "meds": [
+      [
+        "475745",
+        "long_grammar",
+        2014,
+        402,
+        "Frankiskou, Antōnès M. 2014"
+      ],
+      [
+        "99887",
+        "grammar",
+        1985,
+        215,
+        "Borg, Alexander 1985"
+      ],
+      [
+        "141602",
+        "grammar_sketch",
+        1969,
+        69,
+        "Maria Tsiapera 1969"
+      ],
+      [
+        "658626",
+        "wordlist_or_less",
+        1957,
+        5,
+        "Boustany, Fouad E. 1957"
+      ]
+    ]
+  },
+  "id": "cypr1248",
+  "name": "Cypriot Arabic",
+  "description": null,
+  "markup_description": null,
+  "latitude": 35.1674,
+  "longitude": 33.0943,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Semitic",
+      "id": "semi1276",
+      "url": "https://glottolog.org/resource/languoid/id/semi1276"
+    },
+    {
+      "name": "West Semitic",
+      "id": "west2786",
+      "url": "https://glottolog.org/resource/languoid/id/west2786"
+    },
+    {
+      "name": "Central Semitic",
+      "id": "cent2236",
+      "url": "https://glottolog.org/resource/languoid/id/cent2236"
+    },
+    {
+      "name": "Arabian",
+      "id": "arab1394",
+      "url": "https://glottolog.org/resource/languoid/id/arab1394"
+    },
+    {
+      "name": "Arabic",
+      "id": "arab1395",
+      "url": "https://glottolog.org/resource/languoid/id/arab1395"
+    },
+    {
+      "name": "Levantine-Cypriot Arabic",
+      "id": "leva1239",
+      "url": "https://glottolog.org/resource/languoid/id/leva1239"
+    }
+  ],
+  "iso639-3": "acy"
+}

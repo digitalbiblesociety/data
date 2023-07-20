@@ -1,0 +1,65 @@
+{
+  "pk": 3229,
+  "hid": "aoh",
+  "father_pk": 1679,
+  "family_pk": 335,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Unattested",
+  "newick": "'Arma [arma1244][aoh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "aoh",
+      "name": "Arma",
+      "change_request": "2019-017",
+      "effective": "2020-01-23",
+      "reason": "non-existent",
+      "change_to": [],
+      "remedy": null,
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3507971",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Arma_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "309729",
+        "wordlist_or_less",
+        1854,
+        6,
+        "Ezequiel Uricoechea 1854"
+      ]
+    ]
+  },
+  "id": "arma1244",
+  "name": "Arma",
+  "description": null,
+  "markup_description": null,
+  "latitude": 2.03332,
+  "longitude": -76,
+  "classification": [
+    {
+      "name": "Unattested",
+      "id": "unat1236",
+      "url": "https://glottolog.org/resource/languoid/id/unat1236"
+    },
+    {
+      "name": "Chocoan (Unattested)",
+      "id": "choc1284",
+      "url": "https://glottolog.org/resource/languoid/id/choc1284"
+    }
+  ],
+  "iso639-3": "aoh"
+}

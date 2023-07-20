@@ -1,0 +1,93 @@
+{
+  "pk": 17153,
+  "hid": "mza",
+  "father_pk": 14733,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Santa María Zacatepec Mixtec [sant1436][mza]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Zacatepec_Mixtec",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q8063756",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "302499",
+        "grammar",
+        2011,
+        147,
+        "Douglas Towne 2011"
+      ],
+      [
+        "76972",
+        "wordlist_or_less",
+        1983,
+        5,
+        "Josserand, Judy Kathryn 1983"
+      ]
+    ]
+  },
+  "id": "sant1436",
+  "name": "Santa María Zacatepec Mixtec",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.7003,
+  "longitude": -97.9484,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Amuzgo-Mixtecan",
+      "id": "amuz1253",
+      "url": "https://glottolog.org/resource/languoid/id/amuz1253"
+    },
+    {
+      "name": "Mixtecan",
+      "id": "mixt1422",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1422"
+    },
+    {
+      "name": "Mixtec-Cuicatec",
+      "id": "mixt1423",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1423"
+    },
+    {
+      "name": "Mixtec",
+      "id": "mixt1427",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1427"
+    },
+    {
+      "name": "Coast Mixtec",
+      "id": "coas1316",
+      "url": "https://glottolog.org/resource/languoid/id/coas1316"
+    },
+    {
+      "name": "West Coast Mixtec",
+      "id": "west2832",
+      "url": "https://glottolog.org/resource/languoid/id/west2832"
+    }
+  ],
+  "iso639-3": "mza"
+}

@@ -1,0 +1,97 @@
+{
+  "pk": 17582,
+  "hid": "svb",
+  "father_pk": 15233,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ulau-Suain [ulau1237][svb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10523",
+        "label": "Ulau-Suain"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7878769",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ulau-Suain_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "62475",
+        "wordlist_or_less",
+        1905,
+        12,
+        "Johannes Klaffl and Friedrich Vormann 1905"
+      ],
+      [
+        "124132",
+        "wordlist_or_less",
+        1900,
+        2,
+        "Wilhelm Schmidt 1900, 1902"
+      ]
+    ]
+  },
+  "id": "ulau1237",
+  "name": "Ulau-Suain",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.32876,
+  "longitude": 142.845,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Western Oceanic linkage",
+      "id": "west2818",
+      "url": "https://glottolog.org/resource/languoid/id/west2818"
+    },
+    {
+      "name": "North New Guinea linkage",
+      "id": "nort3206",
+      "url": "https://glottolog.org/resource/languoid/id/nort3206"
+    },
+    {
+      "name": "Schouten linkage",
+      "id": "scho1242",
+      "url": "https://glottolog.org/resource/languoid/id/scho1242"
+    },
+    {
+      "name": "Siau",
+      "id": "siau1243",
+      "url": "https://glottolog.org/resource/languoid/id/siau1243"
+    }
+  ],
+  "iso639-3": "svb"
+}

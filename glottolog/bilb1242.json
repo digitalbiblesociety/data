@@ -1,0 +1,81 @@
+{
+  "pk": 15366,
+  "hid": "bpz",
+  "father_pk": 12579,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bokai [boka1251]':1,'Diu [diuu1237]':1,'Lelenuk [lele1271]':1,'Nuclear Bilba [nucl1537]':1)'Bilba [bilb1242][bpz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q8843362",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bilba_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "68931",
+        "phonology_or_text",
+        1913,
+        6,
+        "J. C. G. Jonker 1913"
+      ]
+    ]
+  },
+  "id": "bilb1242",
+  "name": "Bilba",
+  "description": null,
+  "markup_description": null,
+  "latitude": -10.6503,
+  "longitude": 123.307,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Timor-Babar",
+      "id": "timo1265",
+      "url": "https://glottolog.org/resource/languoid/id/timo1265"
+    },
+    {
+      "name": "Rote-Meto",
+      "id": "rote1234",
+      "url": "https://glottolog.org/resource/languoid/id/rote1234"
+    },
+    {
+      "name": "Nuclear Rote",
+      "id": "east2858",
+      "url": "https://glottolog.org/resource/languoid/id/east2858"
+    },
+    {
+      "name": "Central East Rote",
+      "id": "cent2375",
+      "url": "https://glottolog.org/resource/languoid/id/cent2375"
+    },
+    {
+      "name": "Southeast Rote",
+      "id": "east2859",
+      "url": "https://glottolog.org/resource/languoid/id/east2859"
+    }
+  ],
+  "iso639-3": "bpz"
+}

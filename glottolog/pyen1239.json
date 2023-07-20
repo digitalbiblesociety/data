@@ -1,0 +1,100 @@
+{
+  "pk": 18369,
+  "hid": "pyy",
+  "father_pk": 15946,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Pyen [pyen1239][pyy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7262966",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Pyen_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "552154",
+        "phonology_or_text",
+        2009,
+        248,
+        "Shintani, Tadahiko L. A. 2009"
+      ],
+      [
+        "26858",
+        "phonology_or_text",
+        2007,
+        9,
+        "Kirk R. Person 2007"
+      ],
+      [
+        "14371",
+        "wordlist_or_less",
+        1900,
+        3,
+        "George J. Scott and J. P. Hardiman 1900"
+      ]
+    ]
+  },
+  "id": "pyen1239",
+  "name": "Pyen",
+  "description": null,
+  "markup_description": null,
+  "latitude": 20.759,
+  "longitude": 100.029,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Burmo-Qiangic",
+      "id": "burm1265",
+      "url": "https://glottolog.org/resource/languoid/id/burm1265"
+    },
+    {
+      "name": "Lolo-Burmese",
+      "id": "lolo1265",
+      "url": "https://glottolog.org/resource/languoid/id/lolo1265"
+    },
+    {
+      "name": "Loloish",
+      "id": "lolo1267",
+      "url": "https://glottolog.org/resource/languoid/id/lolo1267"
+    },
+    {
+      "name": "Hani-Jino",
+      "id": "hani1249",
+      "url": "https://glottolog.org/resource/languoid/id/hani1249"
+    },
+    {
+      "name": "Bisoid-Hanic",
+      "id": "biso1244",
+      "url": "https://glottolog.org/resource/languoid/id/biso1244"
+    },
+    {
+      "name": "Bisoid",
+      "id": "biso1241",
+      "url": "https://glottolog.org/resource/languoid/id/biso1241"
+    },
+    {
+      "name": "Bisu-Pyen-Laomian",
+      "id": "bisu1246",
+      "url": "https://glottolog.org/resource/languoid/id/bisu1246"
+    }
+  ],
+  "iso639-3": "pyy"
+}

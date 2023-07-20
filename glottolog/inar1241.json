@@ -1,0 +1,91 @@
+{
+  "pk": 6977,
+  "hid": "smn",
+  "father_pk": 4781,
+  "family_pk": 302,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Inari Saami [inar1241][smn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3431",
+        "label": "Inari Saami"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Inari_Sami",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33462",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "556707",
+        "grammar_sketch",
+        2016,
+        214,
+        "Petter Morottaja and Marja-Liisa Olthuis 2016"
+      ],
+      [
+        "575165",
+        "grammar_sketch",
+        2007,
+        107,
+        "Matti Morottaja 2007"
+      ],
+      [
+        "585806",
+        "grammar_sketch",
+        1858,
+        94,
+        "Anders Andelin 1858"
+      ],
+      [
+        "588301",
+        "phonology_or_text",
+        1854,
+        74,
+        "Lönnrot, Elias 1854"
+      ]
+    ]
+  },
+  "id": "inar1241",
+  "name": "Inari Saami",
+  "description": null,
+  "markup_description": null,
+  "latitude": 69.4229,
+  "longitude": 27.8658,
+  "classification": [
+    {
+      "name": "Uralic",
+      "id": "ural1272",
+      "url": "https://glottolog.org/resource/languoid/id/ural1272"
+    },
+    {
+      "name": "Saami",
+      "id": "saam1281",
+      "url": "https://glottolog.org/resource/languoid/id/saam1281"
+    },
+    {
+      "name": "Eastern Saami",
+      "id": "east2324",
+      "url": "https://glottolog.org/resource/languoid/id/east2324"
+    },
+    {
+      "name": "Mainland Eastern Saami",
+      "id": "main1280",
+      "url": "https://glottolog.org/resource/languoid/id/main1280"
+    }
+  ],
+  "iso639-3": "smn"
+}

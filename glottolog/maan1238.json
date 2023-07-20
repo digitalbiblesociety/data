@@ -1,0 +1,108 @@
+{
+  "pk": 12512,
+  "hid": "mhy",
+  "father_pk": 9529,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dusun Balangan [dusu1270]':1,'Samihim [sami1248]':1,'Sihong [siho1237]':1)'Ma''anyan [maan1238][mhy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_myn",
+        "label": "Ma'anyan"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ma%27anyan_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2328761",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "123388",
+        "long_grammar",
+        1985,
+        313,
+        "Gudai, Darmansyah H. 1985"
+      ],
+      [
+        "309883",
+        "grammar_sketch",
+        1984,
+        188,
+        "Kawi, Djantera and Ismail, Abdurachman and Ranrung, Willem 1984"
+      ],
+      [
+        "139233",
+        "grammar_sketch",
+        1951,
+        68,
+        "Dahl, Otto Chr. 1951"
+      ],
+      [
+        "150878",
+        "grammar_sketch",
+        1912,
+        34,
+        "Hermann Sundermann 1912"
+      ],
+      [
+        "45224",
+        "wordlist_or_less",
+        1889,
+        7,
+        "C. den Hamer 1889"
+      ]
+    ]
+  },
+  "id": "maan1238",
+  "name": "Ma'anyan",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.1239,
+  "longitude": 115.092,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Basap-Greater Barito",
+      "id": "basa1291",
+      "url": "https://glottolog.org/resource/languoid/id/basa1291"
+    },
+    {
+      "name": "Greater Barito linkage",
+      "id": "grea1283",
+      "url": "https://glottolog.org/resource/languoid/id/grea1283"
+    },
+    {
+      "name": "Southeast Barito",
+      "id": "sout2919",
+      "url": "https://glottolog.org/resource/languoid/id/sout2919"
+    },
+    {
+      "name": "Maanyan-Paku",
+      "id": "maan1240",
+      "url": "https://glottolog.org/resource/languoid/id/maan1240"
+    }
+  ],
+  "iso639-3": "mhy"
+}

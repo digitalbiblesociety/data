@@ -1,0 +1,94 @@
+{
+  "pk": 9326,
+  "hid": "NOCODE_Old-Malay",
+  "father_pk": 6784,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Old Malay [oldm1243]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "NOCODE_Old-Malay",
+      "comment_type": "missing",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "A large array of classical or old literary forms of languages have a timespan such that they are not intelligible to their more modern variants which have E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 entries. One of them is Old Malay (**hh:s:Mahdi:OldMalay**)."
+    },
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Old_Malay_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q31775823",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "108564",
+        "grammar_sketch",
+        2005,
+        20,
+        "Waruno Mahdi 2005"
+      ],
+      [
+        "184084",
+        "phonology_or_text",
+        1995,
+        54,
+        "Susanna Cumming 1995"
+      ]
+    ]
+  },
+  "id": "oldm1243",
+  "name": "Old Malay",
+  "description": null,
+  "markup_description": null,
+  "latitude": -0.648259,
+  "longitude": 103.353479,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Malayo-Sumbawan",
+      "id": "mala1536",
+      "url": "https://glottolog.org/resource/languoid/id/mala1536"
+    },
+    {
+      "name": "North and East Malayo-Sumbawan",
+      "id": "nort3170",
+      "url": "https://glottolog.org/resource/languoid/id/nort3170"
+    },
+    {
+      "name": "Malayic",
+      "id": "mala1538",
+      "url": "https://glottolog.org/resource/languoid/id/mala1538"
+    }
+  ]
+}

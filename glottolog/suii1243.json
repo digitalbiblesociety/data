@@ -1,0 +1,100 @@
+{
+  "pk": 10430,
+  "hid": "swi",
+  "father_pk": 7481,
+  "family_pk": 356,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Anyang [anya1244]':1,'Pandong [pand1262]':1,'Sandong [sand1270]':1)'Sui [suii1243][swi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3112388",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sui_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/suii1243",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_sui",
+        "label": "Sui"
+      }
+    ],
+    "meds": [
+      [
+        "478491",
+        "long_grammar",
+        2011,
+        483,
+        "Wei, Xuechun 2011"
+      ],
+      [
+        "116491",
+        "grammar",
+        1980,
+        109,
+        "Zhang, Yunru 1980"
+      ],
+      [
+        "667535",
+        "phonology_or_text",
+        1958,
+        81,
+        "Chinese Academy of Sciences 1958"
+      ],
+      [
+        "136315",
+        "wordlist_or_less",
+        1948,
+        8,
+        "Li, Fang-kuei 1948"
+      ]
+    ]
+  },
+  "id": "suii1243",
+  "name": "Sui",
+  "description": null,
+  "markup_description": null,
+  "latitude": 24.0488,
+  "longitude": 106.563,
+  "classification": [
+    {
+      "name": "Tai-Kadai",
+      "id": "taik1256",
+      "url": "https://glottolog.org/resource/languoid/id/taik1256"
+    },
+    {
+      "name": "Kam-Tai",
+      "id": "kamt1241",
+      "url": "https://glottolog.org/resource/languoid/id/kamt1241"
+    },
+    {
+      "name": "Kam-Sui",
+      "id": "kams1241",
+      "url": "https://glottolog.org/resource/languoid/id/kams1241"
+    },
+    {
+      "name": "Then-MMS",
+      "id": "then1235",
+      "url": "https://glottolog.org/resource/languoid/id/then1235"
+    },
+    {
+      "name": "Maonan-Mak-Sui",
+      "id": "maon1239",
+      "url": "https://glottolog.org/resource/languoid/id/maon1239"
+    }
+  ],
+  "iso639-3": "swi"
+}

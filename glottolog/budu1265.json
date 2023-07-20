@@ -1,0 +1,107 @@
+{
+  "pk": 8292,
+  "hid": "bdm",
+  "father_pk": 5803,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kuri {Buduma} [kuri1265]':1,'Northern Buduma [nort3049]':1,'Nuclear Buduma [nucl1686]':1,'Southern Buduma [sout3052]':1)'Buduma [budu1265][bdm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3799",
+        "label": "Buduma"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56287",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yedina_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bud",
+        "label": "Buduma"
+      }
+    ],
+    "meds": [
+      [
+        "126172",
+        "grammar",
+        2001,
+        265,
+        "Awagana, Elhadji Ari 2001"
+      ],
+      [
+        "126173",
+        "grammar",
+        2000,
+        265,
+        "Awagana, Elhadji Ari 2000"
+      ],
+      [
+        "55952",
+        "grammar",
+        1939,
+        162,
+        "Lukas, Johannes 1939"
+      ],
+      [
+        "31426",
+        "grammar_sketch",
+        1938,
+        22,
+        "Gaudiche, Le Capitaine 1938"
+      ],
+      [
+        "159456",
+        "wordlist_or_less",
+        1851,
+        23,
+        "Petermann, A. 1851"
+      ]
+    ]
+  },
+  "id": "budu1265",
+  "name": "Buduma",
+  "description": null,
+  "markup_description": null,
+  "latitude": 13.0692,
+  "longitude": 14.4492,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "Biu-Mandara",
+      "id": "bium1280",
+      "url": "https://glottolog.org/resource/languoid/id/bium1280"
+    },
+    {
+      "name": "North Biu-Mandara",
+      "id": "nort3156",
+      "url": "https://glottolog.org/resource/languoid/id/nort3156"
+    },
+    {
+      "name": "Kotoko-Buduma",
+      "id": "koto1267",
+      "url": "https://glottolog.org/resource/languoid/id/koto1267"
+    }
+  ],
+  "iso639-3": "bdm"
+}

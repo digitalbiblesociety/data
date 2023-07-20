@@ -1,0 +1,82 @@
+{
+  "pk": 9180,
+  "hid": "asd",
+  "father_pk": 6660,
+  "family_pk": 288,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "'Asas [asas1240][asd]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "asd",
+      "name": "Asas",
+      "change_request": "2018-012",
+      "effective": "2019-01-25",
+      "reason": "merge",
+      "change_to": [
+        "snz"
+      ],
+      "remedy": "Merged into [snz] Kou",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q4803639",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Asas_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "560347",
+        "wordlist_or_less",
+        2018,
+        0,
+        "ISO 639-3 Registration Authority 2018"
+      ]
+    ]
+  },
+  "id": "asas1240",
+  "name": "Asas",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.69345,
+  "longitude": 145.549,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Madang",
+      "id": "mada1298",
+      "url": "https://glottolog.org/resource/languoid/id/mada1298"
+    },
+    {
+      "name": "Rai Coast",
+      "id": "raic1241",
+      "url": "https://glottolog.org/resource/languoid/id/raic1241"
+    },
+    {
+      "name": "Evapia",
+      "id": "evap1240",
+      "url": "https://glottolog.org/resource/languoid/id/evap1240"
+    },
+    {
+      "name": "Kou",
+      "id": "sins1241",
+      "url": "https://glottolog.org/resource/languoid/id/sins1241"
+    }
+  ],
+  "iso639-3": "asd"
+}

@@ -1,0 +1,81 @@
+{
+  "pk": 3915,
+  "hid": "xud",
+  "father_pk": 2226,
+  "family_pk": 139,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "'Umiida [umii1236][xud]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "xud",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "Umiida [xud] and Unggaranggu [xun] are close enough from a linguistic point of view to be one and the same language (**hh:hv:McGregorRumsey:Worrorran**). See also: Umiida-Unggarangu [NOCODE_Umiida-Unggarangu]."
+    },
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6725",
+        "label": "Umiida"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q61999874",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/umii1236",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500145",
+        "wordlist_or_less",
+        2011,
+        0,
+        "ISO 639-3 Registration Authority 2011"
+      ]
+    ]
+  },
+  "id": "umii1236",
+  "name": "Umiida",
+  "description": null,
+  "markup_description": null,
+  "latitude": -16.615461,
+  "longitude": 124.079216,
+  "classification": [
+    {
+      "name": "Worrorran",
+      "id": "worr1236",
+      "url": "https://glottolog.org/resource/languoid/id/worr1236"
+    },
+    {
+      "name": "Western Worrorran",
+      "id": "west2435",
+      "url": "https://glottolog.org/resource/languoid/id/west2435"
+    },
+    {
+      "name": "Umiida-Unggarangu",
+      "id": "umii1235",
+      "url": "https://glottolog.org/resource/languoid/id/umii1235"
+    }
+  ],
+  "iso639-3": "xud"
+}

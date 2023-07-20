@@ -1,0 +1,104 @@
+{
+  "pk": 7818,
+  "hid": "gag",
+  "father_pk": 5411,
+  "family_pk": 14,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bulgar Gagauz [bulg1263]':1,'Maritime Gagauzi [mari1413]':1)'Gagauz [gaga1249][gag]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3406",
+        "label": "Gagauz"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_gag",
+        "label": "Gagauz"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Gagauz_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/gaga1249",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33457",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "575783",
+        "long_grammar",
+        1996,
+        371,
+        "Nevsat Özkan 1996"
+      ],
+      [
+        "120754",
+        "grammar",
+        1964,
+        297,
+        "Pokrovskaja, Ljudmila A. 1964"
+      ],
+      [
+        "325729",
+        "phonology_or_text",
+        1904,
+        375,
+        "Moškov, Valentin Aleksandrovič 1904"
+      ],
+      [
+        "575190",
+        "wordlist_or_less",
+        1900,
+        438,
+        "Moshkov, V. A. 1900-1902"
+      ]
+    ]
+  },
+  "id": "gaga1249",
+  "name": "Gagauz",
+  "description": null,
+  "markup_description": null,
+  "latitude": 44.59876,
+  "longitude": 28.02769,
+  "classification": [
+    {
+      "name": "Turkic",
+      "id": "turk1311",
+      "url": "https://glottolog.org/resource/languoid/id/turk1311"
+    },
+    {
+      "name": "Common Turkic",
+      "id": "comm1245",
+      "url": "https://glottolog.org/resource/languoid/id/comm1245"
+    },
+    {
+      "name": "Oghuz",
+      "id": "oghu1243",
+      "url": "https://glottolog.org/resource/languoid/id/oghu1243"
+    },
+    {
+      "name": "Nuclear Oghuz",
+      "id": "nucl1769",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1769"
+    },
+    {
+      "name": "West Oghuz",
+      "id": "west2406",
+      "url": "https://glottolog.org/resource/languoid/id/west2406"
+    }
+  ],
+  "iso639-3": "gag"
+}

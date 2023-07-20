@@ -1,0 +1,101 @@
+{
+  "pk": 4923,
+  "hid": "qvc",
+  "father_pk": 3146,
+  "family_pk": 321,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Eastern Cajamarca [east2550]':1,'Western Cajamarca [west2637]':1)'Cajamarca Quechua [caja1238][qvc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/8121",
+        "label": "Cajamarca Quechua"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_qca",
+        "label": "Quechua (Cajamarca)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cajamarca_Quechua",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/caja1238",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35112",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "439643",
+        "grammar",
+        2006,
+        208,
+        "Quesada Castillo, Félix 2006"
+      ],
+      [
+        "116719",
+        "grammar",
+        1976,
+        181,
+        "Quesada, Félix 1976"
+      ],
+      [
+        "113831",
+        "grammar_sketch",
+        1973,
+        110,
+        "Quesada, Félix 1973"
+      ],
+      [
+        "27974",
+        "wordlist_or_less",
+        1968,
+        13,
+        "Torero, Alfredo 1968"
+      ],
+      [
+        "119017",
+        "wordlist_or_less",
+        1942,
+        3,
+        "J. Eugene Garro 1942"
+      ]
+    ]
+  },
+  "id": "caja1238",
+  "name": "Cajamarca Quechua",
+  "description": null,
+  "markup_description": null,
+  "latitude": -7.09314,
+  "longitude": -78.3214,
+  "classification": [
+    {
+      "name": "Quechuan",
+      "id": "quec1387",
+      "url": "https://glottolog.org/resource/languoid/id/quec1387"
+    },
+    {
+      "name": "Quechua II",
+      "id": "quec1388",
+      "url": "https://glottolog.org/resource/languoid/id/quec1388"
+    },
+    {
+      "name": "Cajamarca-Lambayeque Quechua",
+      "id": "caja1240",
+      "url": "https://glottolog.org/resource/languoid/id/caja1240"
+    }
+  ],
+  "iso639-3": "qvc"
+}

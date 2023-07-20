@@ -1,0 +1,77 @@
+{
+  "pk": 6412,
+  "hid": "sow",
+  "father_pk": 4377,
+  "family_pk": 225,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Sowanda [sowa1245][sow]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10668",
+        "label": "Sowanda"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7571845",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sowanda_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "42038",
+        "wordlist_or_less",
+        1994,
+        4,
+        "Smits, Leo and Voorhoeve, C. L. 1994"
+      ],
+      [
+        "156670",
+        "wordlist_or_less",
+        1956,
+        4,
+        "Galis, Klaas Wilhelm 1956"
+      ]
+    ]
+  },
+  "id": "sowa1245",
+  "name": "Sowanda",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.28373,
+  "longitude": 140.92,
+  "classification": [
+    {
+      "name": "Border",
+      "id": "bord1247",
+      "url": "https://glottolog.org/resource/languoid/id/bord1247"
+    },
+    {
+      "name": "Warisic",
+      "id": "wari1265",
+      "url": "https://glottolog.org/resource/languoid/id/wari1265"
+    },
+    {
+      "name": "Nuclear Warisic",
+      "id": "nucl1773",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1773"
+    },
+    {
+      "name": "Waina-Punda",
+      "id": "wain1248",
+      "url": "https://glottolog.org/resource/languoid/id/wain1248"
+    }
+  ],
+  "iso639-3": "sow"
+}

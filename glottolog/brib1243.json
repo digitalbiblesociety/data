@@ -1,0 +1,111 @@
+{
+  "pk": 7803,
+  "hid": "bzd",
+  "father_pk": 5396,
+  "family_pk": 10,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Amubre-Katsi [amub1238]':1,'Coroma [coro1254]':1,'Salitre-Cabagra [sali1302]':1)'Bribri [brib1243][bzd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/687",
+        "label": "Bribri"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bri",
+        "label": "Bribri"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bribri_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/brib1243",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q28400",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "588718",
+        "grammar",
+        2018,
+        286,
+        "Jara Murillo, Carla Victoria 2018"
+      ],
+      [
+        "117871",
+        "grammar",
+        1998,
+        179,
+        "Adolfo Constenla Umaña and F. Elizondo Figueroa and F. Pereira Mora 1998"
+      ],
+      [
+        "308435",
+        "grammar",
+        1898,
+        150,
+        "Henry Pittier de Fábrega 1898"
+      ],
+      [
+        "661079",
+        "grammar_sketch",
+        1897,
+        150,
+        "de Fábrega, H. Pittier 1897"
+      ],
+      [
+        "571568",
+        "wordlist_or_less",
+        1876,
+        120,
+        "Gabb, W. M. 1876"
+      ]
+    ]
+  },
+  "id": "brib1243",
+  "name": "Bribri",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.39794,
+  "longitude": -83.0539,
+  "classification": [
+    {
+      "name": "Chibchan",
+      "id": "chib1249",
+      "url": "https://glottolog.org/resource/languoid/id/chib1249"
+    },
+    {
+      "name": "Core Chibchan",
+      "id": "core1252",
+      "url": "https://glottolog.org/resource/languoid/id/core1252"
+    },
+    {
+      "name": "Isthmic Chibchan",
+      "id": "isth1243",
+      "url": "https://glottolog.org/resource/languoid/id/isth1243"
+    },
+    {
+      "name": "Western Isthmic Chibchan",
+      "id": "west2641",
+      "url": "https://glottolog.org/resource/languoid/id/west2641"
+    },
+    {
+      "name": "Viceitic",
+      "id": "vice1244",
+      "url": "https://glottolog.org/resource/languoid/id/vice1244"
+    }
+  ],
+  "iso639-3": "bzd"
+}

@@ -1,0 +1,63 @@
+{
+  "pk": 2206,
+  "hid": "emx",
+  "father_pk": 1017,
+  "family_pk": 135,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Speech Register",
+  "newick": "'Erromintxela [erro1240][emx]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q1122188",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Erromintxela_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "321733",
+        "grammar_sketch",
+        1929,
+        45,
+        "Frederick G. Ackerley 1929"
+      ],
+      [
+        "304015",
+        "phonology_or_text",
+        1862,
+        27,
+        "A. Baudrimont 1862"
+      ]
+    ]
+  },
+  "id": "erro1240",
+  "name": "Erromintxela",
+  "description": null,
+  "markup_description": null,
+  "latitude": 43.17251,
+  "longitude": -1.46112,
+  "classification": [
+    {
+      "name": "Speech Register",
+      "id": "spee1234",
+      "url": "https://glottolog.org/resource/languoid/id/spee1234"
+    },
+    {
+      "name": "Basque-Romani",
+      "id": "basq1267",
+      "url": "https://glottolog.org/resource/languoid/id/basq1267"
+    }
+  ],
+  "iso639-3": "emx"
+}

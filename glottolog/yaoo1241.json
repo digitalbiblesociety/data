@@ -1,0 +1,118 @@
+{
+  "pk": 21926,
+  "hid": "yao",
+  "father_pk": 20183,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Chikonono [chik1249]':1,'Makale [maka1302]':1,'Mangoche [mang1390]':1,'Massaninga [mass1261]':1,'Tunduru Yao [tund1256]':1)'Yao [yaoo1241][yao]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_yao",
+        "label": "Yao (in Malawi)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yao_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/yaoo1241",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36902",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "87775",
+        "long_grammar",
+        1966,
+        317,
+        "Whiteley, Wilfred Howell 1966"
+      ],
+      [
+        "78714",
+        "grammar",
+        1889,
+        297,
+        "Hetherwick, Alexander 1889"
+      ],
+      [
+        "77420",
+        "grammar",
+        1814,
+        0,
+        "Salt, Henry 1814"
+      ]
+    ]
+  },
+  "id": "yaoo1241",
+  "name": "Yao",
+  "description": null,
+  "markup_description": null,
+  "latitude": -13.6119,
+  "longitude": 35.2387,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Narrow Bantu",
+      "id": "narr1281",
+      "url": "https://glottolog.org/resource/languoid/id/narr1281"
+    },
+    {
+      "name": "East Bantu",
+      "id": "east2731",
+      "url": "https://glottolog.org/resource/languoid/id/east2731"
+    },
+    {
+      "name": "Rufiji-Ruvuma",
+      "id": "rufi1235",
+      "url": "https://glottolog.org/resource/languoid/id/rufi1235"
+    },
+    {
+      "name": "Ruvuma",
+      "id": "ruvu1234",
+      "url": "https://glottolog.org/resource/languoid/id/ruvu1234"
+    },
+    {
+      "name": "Yaoic",
+      "id": "yaoi1234",
+      "url": "https://glottolog.org/resource/languoid/id/yaoi1234"
+    }
+  ],
+  "iso639-3": "yao"
+}

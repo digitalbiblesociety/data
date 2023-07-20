@@ -1,0 +1,82 @@
+{
+  "pk": 3635,
+  "hid": "ddn",
+  "father_pk": 1968,
+  "family_pk": 48,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Dendi {Benin} [dend1243][ddn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Dendi_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35164",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "132832",
+        "grammar_sketch",
+        1976,
+        10,
+        "Zima, Petr 1976"
+      ],
+      [
+        "19405",
+        "phonology_or_text",
+        1968,
+        0,
+        "Tersis-Surugue, Nicole 1968"
+      ],
+      [
+        "589034",
+        "wordlist_or_less",
+        1924,
+        17,
+        "Perron, Michel 1924"
+      ],
+      [
+        "138944",
+        "wordlist_or_less",
+        1914,
+        4,
+        "Funke, Emil 1914/15"
+      ]
+    ]
+  },
+  "id": "dend1243",
+  "name": "Dendi (Benin)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.6682,
+  "longitude": 3.49109,
+  "classification": [
+    {
+      "name": "Songhay",
+      "id": "song1307",
+      "url": "https://glottolog.org/resource/languoid/id/song1307"
+    },
+    {
+      "name": "Eastern Songhay",
+      "id": "east2431",
+      "url": "https://glottolog.org/resource/languoid/id/east2431"
+    },
+    {
+      "name": "Zarma-Kaado-Dendi",
+      "id": "zarm1240",
+      "url": "https://glottolog.org/resource/languoid/id/zarm1240"
+    }
+  ],
+  "iso639-3": "ddn"
+}

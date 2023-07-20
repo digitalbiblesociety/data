@@ -1,0 +1,66 @@
+{
+  "pk": 1820,
+  "hid": "nyi",
+  "father_pk": 393,
+  "family_pk": 393,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ama {Sudan} [amas1236][nyi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q34846",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nyimang_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/amas1236",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nyi",
+        "label": "Nyimang"
+      }
+    ],
+    "meds": [
+      [
+        "58620",
+        "grammar",
+        1938,
+        195,
+        "Roland C. Stevenson 1938"
+      ],
+      [
+        "90882",
+        "wordlist_or_less",
+        1916,
+        2,
+        "Meinhof, Carl 1916-1917"
+      ]
+    ]
+  },
+  "id": "amas1236",
+  "name": "Ama (Sudan)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.0993,
+  "longitude": 29.4332,
+  "classification": [
+    {
+      "name": "Nyimang",
+      "id": "nyim1244",
+      "url": "https://glottolog.org/resource/languoid/id/nyim1244"
+    }
+  ],
+  "iso639-3": "nyi"
+}

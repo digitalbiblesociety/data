@@ -1,0 +1,77 @@
+{
+  "pk": 1726,
+  "hid": "pad",
+  "father_pk": 344,
+  "family_pk": 344,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ituxi Paumari [paum1248]':1,'Purus Paumari [kuru1310]':1,'Tapauá Paumari [uaia1240]':1)'Paumari [paum1247][pad]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2926",
+        "label": "Paumarí"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_pau",
+        "label": "Paumarí"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Paumar%C3%AD_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/paum1247",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q389827",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "159660",
+        "grammar",
+        1991,
+        194,
+        "Shirley Chapman and Desmond C. Derbyshire 1991"
+      ],
+      [
+        "140258",
+        "grammar",
+        1983,
+        0,
+        "Chapman, Shirley 1983"
+      ],
+      [
+        "10978",
+        "wordlist_or_less",
+        1866,
+        9,
+        "William Chandless 1866"
+      ]
+    ]
+  },
+  "id": "paum1247",
+  "name": "Paumari",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.78403,
+  "longitude": -64.2803,
+  "classification": [
+    {
+      "name": "Arawan",
+      "id": "araw1282",
+      "url": "https://glottolog.org/resource/languoid/id/araw1282"
+    }
+  ],
+  "iso639-3": "pad"
+}

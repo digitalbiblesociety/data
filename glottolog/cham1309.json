@@ -1,0 +1,74 @@
+{
+  "pk": 7745,
+  "hid": "cji",
+  "father_pk": 5359,
+  "family_pk": 426,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Gadyri [gady1241]':1,'Gakvari [gakv1238]':1)'Gakvarian-Gadirian [gakv1239]':1,'Gigatl [giga1238]':1)'Chamalal [cham1309][cji]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1234",
+        "label": "Chamalal"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56567",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Chamalal_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_chm",
+        "label": "Chamalal"
+      }
+    ],
+    "meds": [
+      [
+        "146977",
+        "grammar",
+        1949,
+        178,
+        "Anatolij A. Bokarev 1949"
+      ]
+    ]
+  },
+  "id": "cham1309",
+  "name": "Chamalal",
+  "description": null,
+  "markup_description": null,
+  "latitude": 42.5024,
+  "longitude": 45.995,
+  "classification": [
+    {
+      "name": "Nakh-Daghestanian",
+      "id": "nakh1245",
+      "url": "https://glottolog.org/resource/languoid/id/nakh1245"
+    },
+    {
+      "name": "Daghestanian",
+      "id": "dagh1238",
+      "url": "https://glottolog.org/resource/languoid/id/dagh1238"
+    },
+    {
+      "name": "Avar-Andic-Tsezic",
+      "id": "avar1255",
+      "url": "https://glottolog.org/resource/languoid/id/avar1255"
+    },
+    {
+      "name": "Andic",
+      "id": "andi1254",
+      "url": "https://glottolog.org/resource/languoid/id/andi1254"
+    }
+  ],
+  "iso639-3": "cji"
+}

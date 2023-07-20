@@ -1,0 +1,103 @@
+{
+  "pk": 10413,
+  "hid": "dwr",
+  "father_pk": 7441,
+  "family_pk": 342,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Dawro [dawr1236][dwr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kul",
+        "label": "Kullo"
+      },
+      {
+        "url": "https://phoible.org/languages/dawr1236",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12629647",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "547354",
+        "grammar_sketch",
+        2017,
+        173,
+        "Dawit Bekele 2017"
+      ],
+      [
+        "657997",
+        "grammar_sketch",
+        2016,
+        163,
+        "Dawit Bekele 2016"
+      ],
+      [
+        "133519",
+        "grammar_sketch",
+        1976,
+        27,
+        "Allan, Edward J. 1976"
+      ],
+      [
+        "139791",
+        "wordlist_or_less",
+        1890,
+        92,
+        "Borelli, Jules 1890"
+      ],
+      [
+        "585626",
+        "wordlist_or_less",
+        1845,
+        18,
+        "d'Abbadie, Antoine 1845"
+      ]
+    ]
+  },
+  "id": "dawr1236",
+  "name": "Dawro",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.95,
+  "longitude": 37,
+  "classification": [
+    {
+      "name": "Ta-Ne-Omotic",
+      "id": "gong1255",
+      "url": "https://glottolog.org/resource/languoid/id/gong1255"
+    },
+    {
+      "name": "Ometo",
+      "id": "omet1238",
+      "url": "https://glottolog.org/resource/languoid/id/omet1238"
+    },
+    {
+      "name": "North-West Ometo",
+      "id": "nort3161",
+      "url": "https://glottolog.org/resource/languoid/id/nort3161"
+    },
+    {
+      "name": "Central Ometo",
+      "id": "cent2046",
+      "url": "https://glottolog.org/resource/languoid/id/cent2046"
+    },
+    {
+      "name": "Dawro-Gofa-Gamo",
+      "id": "dawr1235",
+      "url": "https://glottolog.org/resource/languoid/id/dawr1235"
+    }
+  ],
+  "iso639-3": "dwr"
+}

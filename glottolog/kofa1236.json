@@ -1,0 +1,72 @@
+{
+  "pk": 837,
+  "hid": "kso",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Kofa [kofa1236][kso]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "kso",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "Kofa [kso] is listed in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 as a separate language, with the comment that it is ``Reportedly a separate language from Bura-Pabir\n[bwr]''. It is correct that it is distinct from Bura-Pabir [bwr] but already **hh:hew:Meek:Tribal:I**:118-121 had data from Kofa and shows that they speak the same language as Malabu, i.e., Bata [bta]. See also: Bata [bta], Bura-Pabir [bwr]."
+    },
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1965",
+        "label": "Kofa"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56278",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kofa_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "127753",
+        "wordlist_or_less",
+        2003,
+        36,
+        "Fakuade, Gbenga and Gambo, Matudi and Bashir, Abdullahi 2003"
+      ]
+    ]
+  },
+  "id": "kofa1236",
+  "name": "Kofa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.76068,
+  "longitude": 12.8757,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "kso"
+}

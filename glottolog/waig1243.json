@@ -1,0 +1,93 @@
+{
+  "pk": 7982,
+  "hid": "wbk",
+  "father_pk": 5605,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Chima-Nishey [chim1297]':1,'Warjan [varj1239]':1,'Zemiaki [zemi1238]':1)'Nuristani Kalasha [waig1243][wbk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3363",
+        "label": "Waigali"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q34196",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kalasha-ala",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_wgl",
+        "label": "Waigali"
+      }
+    ],
+    "meds": [
+      [
+        "155056",
+        "long_grammar",
+        1998,
+        599,
+        "Almuth Degener 1998"
+      ],
+      [
+        "100422",
+        "grammar_sketch",
+        1954,
+        90,
+        "Georg Morgenstierne 1954"
+      ],
+      [
+        "105841",
+        "wordlist_or_less",
+        1860,
+        157,
+        "Harry Burnett Lumsden 1860"
+      ]
+    ]
+  },
+  "id": "waig1243",
+  "name": "Nuristani Kalasha",
+  "description": null,
+  "markup_description": null,
+  "latitude": 35.191171,
+  "longitude": 70.993533,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Nuristani",
+      "id": "nuri1243",
+      "url": "https://glottolog.org/resource/languoid/id/nuri1243"
+    },
+    {
+      "name": "Nuristani Kalasha-Tregami",
+      "id": "waig1246",
+      "url": "https://glottolog.org/resource/languoid/id/waig1246"
+    }
+  ],
+  "iso639-3": "wbk"
+}

@@ -1,0 +1,80 @@
+{
+  "pk": 13226,
+  "hid": "raq",
+  "father_pk": 10167,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bungla [bung1263]':1,'Sambya [samb1304]':1)'Saam [saam1282][raq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5327",
+        "label": "Saam"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7395644",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Saam_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "128691",
+        "wordlist_or_less",
+        2001,
+        35,
+        "George van Driem 2001"
+      ]
+    ]
+  },
+  "id": "saam1282",
+  "name": "Saam",
+  "description": null,
+  "markup_description": null,
+  "latitude": 26.8442,
+  "longitude": 87.9534,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Himalayish",
+      "id": "hima1249",
+      "url": "https://glottolog.org/resource/languoid/id/hima1249"
+    },
+    {
+      "name": "Mahakiranti",
+      "id": "maha1306",
+      "url": "https://glottolog.org/resource/languoid/id/maha1306"
+    },
+    {
+      "name": "Kiranti",
+      "id": "kira1253",
+      "url": "https://glottolog.org/resource/languoid/id/kira1253"
+    },
+    {
+      "name": "Central Kiranti",
+      "id": "cent2250",
+      "url": "https://glottolog.org/resource/languoid/id/cent2250"
+    },
+    {
+      "name": "Khambu",
+      "id": "kham1300",
+      "url": "https://glottolog.org/resource/languoid/id/kham1300"
+    }
+  ],
+  "iso639-3": "raq"
+}

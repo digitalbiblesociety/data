@@ -1,0 +1,80 @@
+{
+  "pk": 12978,
+  "hid": "ndr",
+  "father_pk": 9981,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ndoola [ndoo1241][ndr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10442",
+        "label": "Ndoola"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35837",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ndoro_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "37690",
+        "wordlist_or_less",
+        1931,
+        5,
+        "Meek, Charles K. 1931"
+      ]
+    ]
+  },
+  "id": "ndoo1241",
+  "name": "Ndoola",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.2884,
+  "longitude": 11.3096,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Northern Bantoid",
+      "id": "nort3168",
+      "url": "https://glottolog.org/resource/languoid/id/nort3168"
+    },
+    {
+      "name": "Mambiloid",
+      "id": "mamb1309",
+      "url": "https://glottolog.org/resource/languoid/id/mamb1309"
+    }
+  ],
+  "iso639-3": "ndr"
+}

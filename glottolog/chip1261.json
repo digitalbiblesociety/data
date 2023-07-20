@@ -1,0 +1,120 @@
+{
+  "pk": 6425,
+  "hid": "chp",
+  "father_pk": 4395,
+  "family_pk": 238,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Eastern Chipewyan [east2857]':1,'Old Yellowknife Chipewyan [oldy1234]':1,'Western Chipewyan [west2954]':1)'Chipewyan [chip1261][chp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_chp",
+        "label": "Chipewyan"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/1689",
+        "label": "Dënesųłiné"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Chipewyan_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/chip1261",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q27692",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "66225",
+        "long_grammar",
+        2004,
+        474,
+        "Cook, Eung-Do 2004"
+      ],
+      [
+        "67905",
+        "long_grammar",
+        1889,
+        351,
+        "Laurent Legoff 1889"
+      ],
+      [
+        "303490",
+        "grammar_sketch",
+        1876,
+        51,
+        "Petitot, Émile 1876"
+      ],
+      [
+        "173931",
+        "phonology_or_text",
+        1870,
+        0,
+        "Petitot, Emile 1870"
+      ],
+      [
+        "173909",
+        "phonology_or_text",
+        1865,
+        0,
+        "Petitot, Emile 1865"
+      ],
+      [
+        "570600",
+        "wordlist_or_less",
+        1744,
+        211,
+        "Dobbs, Arthur 1744"
+      ],
+      [
+        "572935",
+        "wordlist_or_less",
+        1743,
+        0,
+        "Isham, James 1949 [1743]"
+      ]
+    ]
+  },
+  "id": "chip1261",
+  "name": "Chipewyan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 58.98,
+  "longitude": -104.44,
+  "classification": [
+    {
+      "name": "Athabaskan-Eyak-Tlingit",
+      "id": "atha1245",
+      "url": "https://glottolog.org/resource/languoid/id/atha1245"
+    },
+    {
+      "name": "Athabaskan-Eyak",
+      "id": "atha1246",
+      "url": "https://glottolog.org/resource/languoid/id/atha1246"
+    },
+    {
+      "name": "Athabaskan",
+      "id": "atha1247",
+      "url": "https://glottolog.org/resource/languoid/id/atha1247"
+    },
+    {
+      "name": "Northwestern Canada Athabaskan",
+      "id": "nort3354",
+      "url": "https://glottolog.org/resource/languoid/id/nort3354"
+    }
+  ],
+  "iso639-3": "chp"
+}

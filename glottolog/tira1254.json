@@ -1,0 +1,100 @@
+{
+  "pk": 4443,
+  "hid": "tic",
+  "father_pk": 2739,
+  "family_pk": 254,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kinderma [kind1236]':1,'Tira El Akhdar [tira1255]':1,'Tira Lumum [tira1257]':1,'Tira Mandi [tira1256]':1)'Tira [tira1254][tic]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q36677",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tiro_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/tira1254",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "146119",
+        "grammar_sketch",
+        2009,
+        114,
+        "Stevenson, Roland C. 2009"
+      ],
+      [
+        "160138",
+        "grammar_sketch",
+        1956,
+        5,
+        "Stevenson, Roland C. 1956/1957"
+      ],
+      [
+        "160135",
+        "grammar_sketch",
+        1952,
+        0,
+        "Stevenson, Roland C. 1952"
+      ],
+      [
+        "161264",
+        "wordlist_or_less",
+        1916,
+        8,
+        "Meinhof, Carl 1916-1917"
+      ],
+      [
+        "15091",
+        "wordlist_or_less",
+        1910,
+        2,
+        "Seligmann, Brenda Z. 1910-1911"
+      ],
+      [
+        "550022",
+        "wordlist_or_less",
+        1849,
+        1,
+        "Ignaz Knoblecher 1849"
+      ]
+    ]
+  },
+  "id": "tira1254",
+  "name": "Tira",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.0963,
+  "longitude": 30.8092,
+  "classification": [
+    {
+      "name": "Heibanic",
+      "id": "heib1242",
+      "url": "https://glottolog.org/resource/languoid/id/heib1242"
+    },
+    {
+      "name": "West-Central Heibanic",
+      "id": "west2502",
+      "url": "https://glottolog.org/resource/languoid/id/west2502"
+    },
+    {
+      "name": "Western Heibanic",
+      "id": "west2503",
+      "url": "https://glottolog.org/resource/languoid/id/west2503"
+    }
+  ],
+  "iso639-3": "tic"
+}

@@ -1,0 +1,75 @@
+{
+  "pk": 2299,
+  "hid": "nyt",
+  "father_pk": 1060,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Nyawaygi [nyaw1247][nyt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4910",
+        "label": "Nyawaygi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3915783",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nyawaygi_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nyaw1247",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nya",
+        "label": "Nyawaygi"
+      }
+    ],
+    "meds": [
+      [
+        "122327",
+        "grammar_sketch",
+        1983,
+        101,
+        "R.M.W. Dixon 1983"
+      ],
+      [
+        "152630",
+        "wordlist_or_less",
+        1886,
+        6,
+        "Cassady, James 1886"
+      ]
+    ]
+  },
+  "id": "nyaw1247",
+  "name": "Nyawaygi",
+  "description": null,
+  "markup_description": null,
+  "latitude": -18.8743,
+  "longitude": 146.216,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Nyawaygic",
+      "id": "nyaw1248",
+      "url": "https://glottolog.org/resource/languoid/id/nyaw1248"
+    }
+  ],
+  "iso639-3": "nyt"
+}

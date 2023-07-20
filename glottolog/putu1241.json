@@ -1,0 +1,88 @@
+{
+  "pk": 15821,
+  "hid": "afe",
+  "father_pk": 13007,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Afrike [afri1272]':1,'Irungene [obee1238]':1,'Mgbenege [obos1238]':1,'Okorogung [okor1247]':1,'Ukwortung [okor1248]':1,'Utugwang [utug1238]':1)'Utugwang-Irungene-Afrike [putu1241][afe]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3914930",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Putukwam_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "568513",
+        "phonology_or_text",
+        2009,
+        17,
+        "Ayugha, Kierien Ekpang 2009"
+      ],
+      [
+        "31172",
+        "wordlist_or_less",
+        1985,
+        2,
+        "Wente-Lukas, Renate 1985"
+      ]
+    ]
+  },
+  "id": "putu1241",
+  "name": "Utugwang-Irungene-Afrike",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.65923,
+  "longitude": 8.96041,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Bendic",
+      "id": "bend1256",
+      "url": "https://glottolog.org/resource/languoid/id/bend1256"
+    },
+    {
+      "name": "Nuclear Bendic",
+      "id": "nucl1801",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1801"
+    }
+  ],
+  "iso639-3": "afe"
+}

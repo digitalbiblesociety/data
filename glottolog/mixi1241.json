@@ -1,0 +1,98 @@
+{
+  "pk": 19148,
+  "hid": "mfg",
+  "father_pk": 16990,
+  "family_pk": 121,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mixifore [mixi1241][mfg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3914478",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mixifore_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "94575",
+        "grammar_sketch",
+        1999,
+        77,
+        "Jacquline Janse 1999"
+      ],
+      [
+        "580586",
+        "phonology_or_text",
+        1983,
+        54,
+        "Taliby Kaba 1983"
+      ]
+    ]
+  },
+  "id": "mixi1241",
+  "name": "Mixifore",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.6822,
+  "longitude": -14.385,
+  "classification": [
+    {
+      "name": "Mande",
+      "id": "mand1469",
+      "url": "https://glottolog.org/resource/languoid/id/mand1469"
+    },
+    {
+      "name": "Western Mande",
+      "id": "west2780",
+      "url": "https://glottolog.org/resource/languoid/id/west2780"
+    },
+    {
+      "name": "Manding-Kpelle",
+      "id": "mand1431",
+      "url": "https://glottolog.org/resource/languoid/id/mand1431"
+    },
+    {
+      "name": "Central Mande",
+      "id": "cent2047",
+      "url": "https://glottolog.org/resource/languoid/id/cent2047"
+    },
+    {
+      "name": "Manding-Jogo",
+      "id": "mand1432",
+      "url": "https://glottolog.org/resource/languoid/id/mand1432"
+    },
+    {
+      "name": "Manding-Vai",
+      "id": "mand1433",
+      "url": "https://glottolog.org/resource/languoid/id/mand1433"
+    },
+    {
+      "name": "Manding-Mokole",
+      "id": "mand1434",
+      "url": "https://glottolog.org/resource/languoid/id/mand1434"
+    },
+    {
+      "name": "Nuclear Mokole",
+      "id": "nucl1445",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1445"
+    },
+    {
+      "name": "Mixiforic",
+      "id": "mixi1243",
+      "url": "https://glottolog.org/resource/languoid/id/mixi1243"
+    }
+  ],
+  "iso639-3": "mfg"
+}

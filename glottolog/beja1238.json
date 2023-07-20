@@ -1,0 +1,92 @@
+{
+  "pk": 2144,
+  "hid": "bej",
+  "father_pk": 981,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ababda [abab1239]':1,'Amara {Beja} [amar1281]':1,'Beni-Amir [beni1248]':1,'Bisharin [bish1251]':1,'Hadareb [hada1239]':1,'Hadendoa [hade1248]':1)'Beja [beja1238][bej]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q33025",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Beja_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/beja1238",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bej",
+        "label": "Beja"
+      }
+    ],
+    "meds": [
+      [
+        "53200",
+        "long_grammar",
+        1964,
+        337,
+        "Hudson, Richard A. 1964"
+      ],
+      [
+        "132823",
+        "long_grammar",
+        1881,
+        311,
+        "Almkvist, Herman 1881"
+      ],
+      [
+        "77420",
+        "grammar",
+        1814,
+        0,
+        "Salt, Henry 1814"
+      ],
+      [
+        "132490",
+        "wordlist_or_less",
+        1812,
+        0,
+        "Adelung, Johann Christoph 1812/17"
+      ],
+      [
+        "119926",
+        "wordlist_or_less",
+        1070,
+        0,
+        "Sâ'íd al-Andalusî 1070"
+      ]
+    ]
+  },
+  "id": "beja1238",
+  "name": "Beja",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.2436,
+  "longitude": 36.6666,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Cushitic",
+      "id": "cush1243",
+      "url": "https://glottolog.org/resource/languoid/id/cush1243"
+    }
+  ],
+  "iso639-3": "bej"
+}

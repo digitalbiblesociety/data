@@ -1,0 +1,78 @@
+{
+  "pk": 9758,
+  "hid": "toc",
+  "father_pk": 7094,
+  "family_pk": 319,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Cerro Grande Totonac [cerr1235]':1,'Las Lomas [lasl1234]':1,'Mecatlán [meca1234]':1,'Progreso de Zaragoza [prog1234]':1,'Sabaneta [saba1283]':1)'Coyutla Totonac [coyu1235][toc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3540",
+        "label": "Totonac"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q15615591",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "568332",
+        "phonology_or_text",
+        2020,
+        12,
+        "Jorge Tino Antonio 2020"
+      ],
+      [
+        "311011",
+        "wordlist_or_less",
+        1978,
+        3,
+        "García Rojas, Blanca Rosa 1978"
+      ]
+    ]
+  },
+  "id": "coyu1235",
+  "name": "Coyutla Totonac",
+  "description": null,
+  "markup_description": null,
+  "latitude": 20.5447,
+  "longitude": -97.6852,
+  "classification": [
+    {
+      "name": "Totonacan",
+      "id": "toto1251",
+      "url": "https://glottolog.org/resource/languoid/id/toto1251"
+    },
+    {
+      "name": "Totonac",
+      "id": "toto1252",
+      "url": "https://glottolog.org/resource/languoid/id/toto1252"
+    },
+    {
+      "name": "Central Totonacan",
+      "id": "cent1397",
+      "url": "https://glottolog.org/resource/languoid/id/cent1397"
+    },
+    {
+      "name": "Lowland-Sierra Totonacan",
+      "id": "lowl1271",
+      "url": "https://glottolog.org/resource/languoid/id/lowl1271"
+    },
+    {
+      "name": "Sierra Totonacan",
+      "id": "lowl1244",
+      "url": "https://glottolog.org/resource/languoid/id/lowl1244"
+    }
+  ],
+  "iso639-3": "toc"
+}

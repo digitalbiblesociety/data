@@ -1,0 +1,79 @@
+{
+  "pk": 3715,
+  "hid": "aln",
+  "father_pk": 2042,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Gheg [cent2342]':1,'Northeast Gheg [nort3296]':1,('Arbanasi [arba1240]':1,'Istra Albanian [istr1247]':1,'Srem [srem1242]':1)'Northwest Gheg [nort3295]':1,'Southern Gheg [sout3280]':1)'Gheg Albanian [gheg1238][aln]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Gheg_Albanian",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/gheg1238",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q181037",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "115310",
+        "long_grammar",
+        1931,
+        308,
+        "Cordignano, F. 1931"
+      ],
+      [
+        "309135",
+        "grammar",
+        1716,
+        250,
+        "Francesco Maria da Lecce 1716"
+      ],
+      [
+        "304076",
+        "phonology_or_text",
+        1635,
+        250,
+        "Franciscus Blanchus 1635"
+      ]
+    ]
+  },
+  "id": "gheg1238",
+  "name": "Gheg Albanian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 42.317,
+  "longitude": 21.3837,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Albanian",
+      "id": "alba1267",
+      "url": "https://glottolog.org/resource/languoid/id/alba1267"
+    }
+  ],
+  "iso639-3": "aln"
+}

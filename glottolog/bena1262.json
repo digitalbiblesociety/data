@@ -1,0 +1,114 @@
+{
+  "pk": 22007,
+  "hid": "bez",
+  "father_pk": 20231,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Benamanga [bena1274][egm]':1,('Itambo [itam1234]':1,'Itipula [itip1234]':1,'Lwanzali [lwan1234]':1,'Ukalawa [ukal1234]':1)'East Bena [east2889]':1,('Ihanja [ihan1234]':1,'Ikuna [ikun1241]':1,'Kanamalenga [kana1293]':1,'Ujindile [ujin1234]':1,'Utengule [uten1234]':1,'Wangama [wang1302]':1)'Northwest Bena [nort3399]':1,('Liwengi [liwe1234]':1,'Makanjaula [maka1325]':1,'Utalingoro [utal1238]':1)'South Bena [sout3376]':1)'Bena {Tanzania} [bena1262][bez]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 17,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Bena_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/bena1262",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2502949",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "17271",
+        "long_grammar",
+        2011,
+        547,
+        "Michelle Elizabeth Morrison 2011"
+      ],
+      [
+        "50716",
+        "grammar_sketch",
+        1935,
+        160,
+        "Priebusch, Martin 1935"
+      ],
+      [
+        "122585",
+        "wordlist_or_less",
+        1885,
+        8,
+        "Last, Joseph T. 1885"
+      ]
+    ]
+  },
+  "id": "bena1262",
+  "name": "Bena (Tanzania)",
+  "description": null,
+  "markup_description": null,
+  "latitude": -9.26671,
+  "longitude": 35.0364,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Narrow Bantu",
+      "id": "narr1281",
+      "url": "https://glottolog.org/resource/languoid/id/narr1281"
+    },
+    {
+      "name": "East Bantu",
+      "id": "east2731",
+      "url": "https://glottolog.org/resource/languoid/id/east2731"
+    },
+    {
+      "name": "Northeast Savanna Bantu",
+      "id": "nort3203",
+      "url": "https://glottolog.org/resource/languoid/id/nort3203"
+    },
+    {
+      "name": "Southern Tanzania Highlands Bantu",
+      "id": "sout3185",
+      "url": "https://glottolog.org/resource/languoid/id/sout3185"
+    },
+    {
+      "name": "Bena-Hehe",
+      "id": "bena1273",
+      "url": "https://glottolog.org/resource/languoid/id/bena1273"
+    }
+  ],
+  "iso639-3": "bez"
+}

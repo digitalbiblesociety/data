@@ -1,0 +1,119 @@
+{
+  "pk": 13966,
+  "hid": "xpr",
+  "father_pk": 10893,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Parthian [part1239][xpr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "xpr",
+      "comment_type": "missing",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "A number of ancient languages of the Middle East and Central Asia are attested, but missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26. One is Parthian (**hh:s:RastorguevaMolcanova:Parfjanskij**, **hh:g:Durkin-Meisterernst:Westmitteliranischen**)."
+    },
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q25953",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Parthian_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "461299",
+        "long_grammar",
+        2014,
+        301,
+        "Desmond Durkin-Meisterernst 2014"
+      ],
+      [
+        "318578",
+        "grammar_sketch",
+        1981,
+        86,
+        "Vera S. Rastorgueva and E. K. Molčanova 1981"
+      ],
+      [
+        "569372",
+        "phonology_or_text",
+        1975,
+        172,
+        "Mary Boyce 1975"
+      ],
+      [
+        "469867",
+        "phonology_or_text",
+        1939,
+        155,
+        "A. Ghilain 1939"
+      ]
+    ]
+  },
+  "id": "part1239",
+  "name": "Parthian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 37.052,
+  "longitude": 56.056,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Iranian",
+      "id": "iran1269",
+      "url": "https://glottolog.org/resource/languoid/id/iran1269"
+    },
+    {
+      "name": "Central Iranian PBS",
+      "id": "cent2317",
+      "url": "https://glottolog.org/resource/languoid/id/cent2317"
+    },
+    {
+      "name": "Central Iranian PB",
+      "id": "cent2318",
+      "url": "https://glottolog.org/resource/languoid/id/cent2318"
+    },
+    {
+      "name": "Northwestern Iranian",
+      "id": "nort3177",
+      "url": "https://glottolog.org/resource/languoid/id/nort3177"
+    }
+  ],
+  "iso639-3": "xpr"
+}

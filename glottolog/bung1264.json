@@ -1,0 +1,93 @@
+{
+  "pk": 8480,
+  "hid": "xbg",
+  "father_pk": 6016,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Bunganditj [bung1264][xbg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6776",
+        "label": "Buandig"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bungandidj_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/bung1264",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q4997615",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "153741",
+        "grammar_sketch",
+        2003,
+        169,
+        "Barry J. Blake 2003"
+      ],
+      [
+        "72489",
+        "grammar_sketch",
+        1880,
+        154,
+        "James Smith 1880"
+      ],
+      [
+        "1708",
+        "phonology_or_text",
+        1862,
+        0,
+        "Thomas, William 1862"
+      ]
+    ]
+  },
+  "id": "bung1264",
+  "name": "Bunganditj",
+  "description": null,
+  "markup_description": null,
+  "latitude": -36.5,
+  "longitude": 140.5,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Southeastern Pama-Nyungan",
+      "id": "sout3135",
+      "url": "https://glottolog.org/resource/languoid/id/sout3135"
+    },
+    {
+      "name": "Victorian Pama-Nyungan",
+      "id": "vict1234",
+      "url": "https://glottolog.org/resource/languoid/id/vict1234"
+    },
+    {
+      "name": "Kulin-Bunganditj",
+      "id": "kuli1256",
+      "url": "https://glottolog.org/resource/languoid/id/kuli1256"
+    },
+    {
+      "name": "Warrnambool-Bunganditj",
+      "id": "warr1256",
+      "url": "https://glottolog.org/resource/languoid/id/warr1256"
+    }
+  ],
+  "iso639-3": "xbg"
+}

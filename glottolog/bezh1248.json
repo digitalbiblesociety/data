@@ -1,0 +1,93 @@
+{
+  "pk": 10659,
+  "hid": "kap",
+  "father_pk": 7764,
+  "family_pk": 426,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Khocharkhotin [khoc1238]':1,'Nuclear Bezhta [nucl1322]':1,'Tlyadaly [tlya1238]':1)'Bezhta [bezh1248][kap]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6025",
+        "label": "Bezhta"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33054",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bezhta_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bez",
+        "label": "Bezhta"
+      }
+    ],
+    "meds": [
+      [
+        "570073",
+        "long_grammar",
+        2015,
+        656,
+        "Bernard Comrie and Madzhid Khalilov and Zaira Khalilova 2015"
+      ],
+      [
+        "38657",
+        "grammar",
+        1967,
+        17,
+        "Bokarev, E. A. 1967"
+      ],
+      [
+        "313448",
+        "grammar_sketch",
+        1965,
+        208,
+        "Madieva, G. I. 1965"
+      ]
+    ]
+  },
+  "id": "bezh1248",
+  "name": "Bezhta",
+  "description": null,
+  "markup_description": null,
+  "latitude": 42.1206,
+  "longitude": 46.0332,
+  "classification": [
+    {
+      "name": "Nakh-Daghestanian",
+      "id": "nakh1245",
+      "url": "https://glottolog.org/resource/languoid/id/nakh1245"
+    },
+    {
+      "name": "Daghestanian",
+      "id": "dagh1238",
+      "url": "https://glottolog.org/resource/languoid/id/dagh1238"
+    },
+    {
+      "name": "Avar-Andic-Tsezic",
+      "id": "avar1255",
+      "url": "https://glottolog.org/resource/languoid/id/avar1255"
+    },
+    {
+      "name": "Tsezic",
+      "id": "tsez1239",
+      "url": "https://glottolog.org/resource/languoid/id/tsez1239"
+    },
+    {
+      "name": "East Tsezic",
+      "id": "east2368",
+      "url": "https://glottolog.org/resource/languoid/id/east2368"
+    }
+  ],
+  "iso639-3": "kap"
+}

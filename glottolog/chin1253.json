@@ -1,0 +1,78 @@
+{
+  "pk": 2814,
+  "hid": "cpi",
+  "father_pk": 1329,
+  "family_pk": 260,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Pidgin",
+  "newick": "'Chinese Pidgin English [chin1253][cpi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3570",
+        "label": "Nauru Pacific Pidgin"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3435078",
+        "label": null
+      },
+      {
+        "url": "https://apics-online.info/contributions/20",
+        "label": "Chinese Pidgin English"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Chinese_Pidgin_English",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "308790",
+        "grammar_sketch",
+        1975,
+        70,
+        "Anton Bauer 1975"
+      ],
+      [
+        "175360",
+        "grammar_sketch",
+        1944,
+        19,
+        "Hall, Jr., Robert A. 1944"
+      ],
+      [
+        "552932",
+        "wordlist_or_less",
+        1836,
+        8,
+        "Wells S. Williams 1836"
+      ]
+    ]
+  },
+  "id": "chin1253",
+  "name": "Chinese Pidgin English",
+  "description": null,
+  "markup_description": null,
+  "latitude": -0.53224,
+  "longitude": 166.926,
+  "classification": [
+    {
+      "name": "Pidgin",
+      "id": "pidg1258",
+      "url": "https://glottolog.org/resource/languoid/id/pidg1258"
+    },
+    {
+      "name": "English-based pidgin",
+      "id": "engl1287",
+      "url": "https://glottolog.org/resource/languoid/id/engl1287"
+    }
+  ],
+  "iso639-3": "cpi"
+}

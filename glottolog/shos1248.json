@@ -1,0 +1,120 @@
+{
+  "pk": 6119,
+  "hid": "shh",
+  "father_pk": 4109,
+  "family_pk": 155,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Gosiute [gosi1242]':1,'Northern Shoshoni [nort2955]':1,'Western Shoshoni [west2622]':1)'Shoshoni [shos1248][shh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1473",
+        "label": "Shoshone"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_sho",
+        "label": "Shoshone"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_swr",
+        "label": "Shoshone (Wind River)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Shoshoni_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33811",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "150445",
+        "long_grammar",
+        1993,
+        310,
+        "Beverly Crum and Jon Dayley 1993"
+      ],
+      [
+        "124908",
+        "grammar",
+        1992,
+        0,
+        "Peck, Charles W. 1992"
+      ],
+      [
+        "469294",
+        "grammar",
+        1989,
+        0,
+        "Dayley, J. P. 1989"
+      ],
+      [
+        "311759",
+        "grammar_sketch",
+        1970,
+        149,
+        "Jon P. Dayley 1970"
+      ],
+      [
+        "63946",
+        "grammar_sketch",
+        1949,
+        24,
+        "D. B. Shimkin 1949"
+      ],
+      [
+        "306657",
+        "grammar_sketch",
+        1903,
+        0,
+        "St. Clair, II, Harry Hull 1903"
+      ],
+      [
+        "306078",
+        "wordlist_or_less",
+        1876,
+        4,
+        "Albert S. Gatschet 1876"
+      ]
+    ]
+  },
+  "id": "shos1248",
+  "name": "Shoshoni",
+  "description": null,
+  "markup_description": null,
+  "latitude": 41,
+  "longitude": -116,
+  "classification": [
+    {
+      "name": "Uto-Aztecan",
+      "id": "utoa1244",
+      "url": "https://glottolog.org/resource/languoid/id/utoa1244"
+    },
+    {
+      "name": "Northern Uto-Aztecan",
+      "id": "nort2953",
+      "url": "https://glottolog.org/resource/languoid/id/nort2953"
+    },
+    {
+      "name": "Numic",
+      "id": "numi1242",
+      "url": "https://glottolog.org/resource/languoid/id/numi1242"
+    },
+    {
+      "name": "Central Numic",
+      "id": "cent2130",
+      "url": "https://glottolog.org/resource/languoid/id/cent2130"
+    }
+  ],
+  "iso639-3": "shh"
+}

@@ -1,0 +1,75 @@
+{
+  "pk": 3886,
+  "hid": "ddg",
+  "father_pk": 2181,
+  "family_pk": 125,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Fataluku [fata1247][ddg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Fataluku_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35353",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "90356",
+        "grammar_sketch",
+        1979,
+        246,
+        "Campagnolo, Henri 1979"
+      ],
+      [
+        "116195",
+        "grammar_sketch",
+        1973,
+        236,
+        "Henri Campagnolo 1973"
+      ],
+      [
+        "148667",
+        "wordlist_or_less",
+        1972,
+        5,
+        "Capell, Arthur 1972"
+      ]
+    ]
+  },
+  "id": "fata1247",
+  "name": "Fataluku",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.49464,
+  "longitude": 127.08,
+  "classification": [
+    {
+      "name": "Timor-Alor-Pantar",
+      "id": "timo1261",
+      "url": "https://glottolog.org/resource/languoid/id/timo1261"
+    },
+    {
+      "name": "East Timor",
+      "id": "east2520",
+      "url": "https://glottolog.org/resource/languoid/id/east2520"
+    },
+    {
+      "name": "Fataluku-Oirata",
+      "id": "fata1246",
+      "url": "https://glottolog.org/resource/languoid/id/fata1246"
+    }
+  ],
+  "iso639-3": "ddg"
+}

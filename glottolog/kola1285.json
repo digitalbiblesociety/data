@@ -1,0 +1,89 @@
+{
+  "pk": 9301,
+  "hid": "kvv",
+  "father_pk": 6765,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kola [kola1285][kvv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6426967",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kola_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_koo",
+        "label": "Kola"
+      }
+    ],
+    "meds": [
+      [
+        "322723",
+        "grammar_sketch",
+        2013,
+        219,
+        "de Winne, David 2013"
+      ],
+      [
+        "133451",
+        "phonology_or_text",
+        1992,
+        22,
+        "Yuko Takata 1992"
+      ],
+      [
+        "162931",
+        "wordlist_or_less",
+        1885,
+        4,
+        "Adolf Bastian 1885"
+      ]
+    ]
+  },
+  "id": "kola1285",
+  "name": "Kola",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.48833,
+  "longitude": 134.592,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Aru",
+      "id": "aruu1241",
+      "url": "https://glottolog.org/resource/languoid/id/aruu1241"
+    },
+    {
+      "name": "Ujir-Kola-Kompane",
+      "id": "ujir1238",
+      "url": "https://glottolog.org/resource/languoid/id/ujir1238"
+    },
+    {
+      "name": "Kola-Kompane",
+      "id": "kola1292",
+      "url": "https://glottolog.org/resource/languoid/id/kola1292"
+    }
+  ],
+  "iso639-3": "kvv"
+}

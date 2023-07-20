@@ -1,0 +1,80 @@
+{
+  "pk": 7039,
+  "hid": "mvu",
+  "father_pk": 4830,
+  "family_pk": 306,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Marfa [marf1238][mvu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q713633",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Marfa_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "93615",
+        "wordlist_or_less",
+        1991,
+        107,
+        "Edgar, John T. 1991"
+      ],
+      [
+        "108092",
+        "wordlist_or_less",
+        1962,
+        13,
+        "Le Rouvreur, Albert 1962"
+      ],
+      [
+        "105830",
+        "wordlist_or_less",
+        1959,
+        3,
+        "Lebeuf, Annie M.-D. 1959"
+      ]
+    ]
+  },
+  "id": "marf1238",
+  "name": "Marfa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 13.1568,
+  "longitude": 20.7882,
+  "classification": [
+    {
+      "name": "Maban",
+      "id": "maba1274",
+      "url": "https://glottolog.org/resource/languoid/id/maba1274"
+    },
+    {
+      "name": "Mabang",
+      "id": "maba1275",
+      "url": "https://glottolog.org/resource/languoid/id/maba1275"
+    },
+    {
+      "name": "Maba-Masalit",
+      "id": "maba1276",
+      "url": "https://glottolog.org/resource/languoid/id/maba1276"
+    },
+    {
+      "name": "Macro-Maba",
+      "id": "nucl1441",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1441"
+    }
+  ],
+  "iso639-3": "mvu"
+}

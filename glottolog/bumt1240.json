@@ -1,0 +1,88 @@
+{
+  "pk": 16183,
+  "hid": "kjz",
+  "father_pk": 13353,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Chogor [chog1238]':1,'Chunmat [chun1246]':1,'Tang {Bhutan} [tang1332]':1,'Ura [uraa1244]':1)'Bumthangkha [bumt1240][kjz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q2786408",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bumthang_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "71769",
+        "grammar_sketch",
+        1995,
+        111,
+        "van Driem, George 1995"
+      ],
+      [
+        "71062",
+        "wordlist_or_less",
+        1994,
+        5,
+        "Boyd Michailovsky and Martine Mazaudon 1994"
+      ]
+    ]
+  },
+  "id": "bumt1240",
+  "name": "Bumthangkha",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.6494,
+  "longitude": 90.8037,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "Bodish",
+      "id": "bodi1257",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1257"
+    },
+    {
+      "name": "East Bodish",
+      "id": "main1269",
+      "url": "https://glottolog.org/resource/languoid/id/main1269"
+    },
+    {
+      "name": "Phobjib-Chali-Bumthangic",
+      "id": "phob1238",
+      "url": "https://glottolog.org/resource/languoid/id/phob1238"
+    },
+    {
+      "name": "Chali-Bumthangic",
+      "id": "chal1266",
+      "url": "https://glottolog.org/resource/languoid/id/chal1266"
+    },
+    {
+      "name": "Bumthangic",
+      "id": "bumt1238",
+      "url": "https://glottolog.org/resource/languoid/id/bumt1238"
+    }
+  ],
+  "iso639-3": "kjz"
+}

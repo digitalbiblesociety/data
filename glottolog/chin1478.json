@@ -1,0 +1,79 @@
+{
+  "pk": 13280,
+  "hid": "cnb",
+  "father_pk": 10222,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Chinbon Chin [chin1478][cnb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12952327",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "137464",
+        "wordlist_or_less",
+        1988,
+        2,
+        "Hartmann, Helga 1988"
+      ],
+      [
+        "310107",
+        "wordlist_or_less",
+        1934,
+        6,
+        "U Tha Tun Pru 1934"
+      ]
+    ]
+  },
+  "id": "chin1478",
+  "name": "Chinbon Chin",
+  "description": null,
+  "markup_description": null,
+  "latitude": 20.0776,
+  "longitude": 94.0506,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Kuki-Chin",
+      "id": "kuki1246",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1246"
+    },
+    {
+      "name": "Peripheral Kuki-Chin",
+      "id": "peri1260",
+      "url": "https://glottolog.org/resource/languoid/id/peri1260"
+    },
+    {
+      "name": "South Peripheral Kuki-Chin",
+      "id": "sout3160",
+      "url": "https://glottolog.org/resource/languoid/id/sout3160"
+    },
+    {
+      "name": "Choic",
+      "id": "choi1241",
+      "url": "https://glottolog.org/resource/languoid/id/choi1241"
+    }
+  ],
+  "iso639-3": "cnb"
+}

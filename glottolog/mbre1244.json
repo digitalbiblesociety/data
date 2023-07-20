@@ -1,0 +1,93 @@
+{
+  "pk": 4880,
+  "hid": "mka",
+  "father_pk": 3135,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mbre [mbre1244][mka]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4669",
+        "label": "Mbre"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3450154",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mbre_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "565180",
+        "long_grammar",
+        2019,
+        407,
+        "Jeffrey Heath and Brahima Tioté 2019"
+      ],
+      [
+        "589782",
+        "grammar_sketch",
+        2016,
+        420,
+        "Tiote, Brahima 2016"
+      ],
+      [
+        "579362",
+        "wordlist_or_less",
+        2010,
+        6,
+        "Roger Blench 2010"
+      ],
+      [
+        "107427",
+        "wordlist_or_less",
+        2006,
+        0,
+        "Blench, Roger 2006"
+      ],
+      [
+        "119572",
+        "wordlist_or_less",
+        2003,
+        1,
+        "Maarten Mous 2003"
+      ]
+    ]
+  },
+  "id": "mbre1244",
+  "name": "Mbre",
+  "description": null,
+  "markup_description": null,
+  "latitude": 8.20929,
+  "longitude": -5.72944,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Unclassified Volta-Congo",
+      "id": "unun9902",
+      "url": "https://glottolog.org/resource/languoid/id/unun9902"
+    }
+  ],
+  "iso639-3": "mka"
+}

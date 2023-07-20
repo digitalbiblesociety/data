@@ -1,0 +1,94 @@
+{
+  "pk": 5408,
+  "hid": "qxq",
+  "father_pk": 3549,
+  "family_pk": 14,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Afsharic [afsh1239]':1,'Kashkay [kash1283]':1,'Qazwin Turkic [qazw1234]':1,'Solayman-Abad Turkic [sola1234]':1)'Qashqa''i [qash1240][qxq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q13192",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Qashqai_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "570614",
+        "long_grammar",
+        2019,
+        310,
+        "Sohrab Dolatkhah 2019"
+      ],
+      [
+        "586820",
+        "grammar",
+        2016,
+        0,
+        "Sohrab Dolatkhah 2016"
+      ],
+      [
+        "586816",
+        "grammar",
+        2012,
+        0,
+        "Sohrab Dolatkhah 2012"
+      ],
+      [
+        "313353",
+        "grammar_sketch",
+        1987,
+        244,
+        "Soper, John D. 1987"
+      ],
+      [
+        "301976",
+        "grammar_sketch",
+        1937,
+        88,
+        "Tadeusz Kowalski 1937"
+      ]
+    ]
+  },
+  "id": "qash1240",
+  "name": "Qashqa'i",
+  "description": null,
+  "markup_description": null,
+  "latitude": 28.25931,
+  "longitude": 52.83349,
+  "classification": [
+    {
+      "name": "Turkic",
+      "id": "turk1311",
+      "url": "https://glottolog.org/resource/languoid/id/turk1311"
+    },
+    {
+      "name": "Common Turkic",
+      "id": "comm1245",
+      "url": "https://glottolog.org/resource/languoid/id/comm1245"
+    },
+    {
+      "name": "Oghuz",
+      "id": "oghu1243",
+      "url": "https://glottolog.org/resource/languoid/id/oghu1243"
+    },
+    {
+      "name": "Nuclear Oghuz",
+      "id": "nucl1769",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1769"
+    }
+  ],
+  "iso639-3": "qxq"
+}

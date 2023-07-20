@@ -1,0 +1,77 @@
+{
+  "pk": 5872,
+  "hid": "ack",
+  "father_pk": 3909,
+  "family_pk": 134,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Akakora [akak1251][ack]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10716",
+        "label": "Aka-Kora"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3433680",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Aka-Kora_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "68173",
+        "grammar_sketch",
+        1985,
+        30,
+        "Yogendra Yadav 1985"
+      ],
+      [
+        "316426",
+        "wordlist_or_less",
+        1922,
+        27,
+        "Alfred Radcliffe-Brown 1922"
+      ]
+    ]
+  },
+  "id": "akak1251",
+  "name": "Akakora",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.0944,
+  "longitude": 92.7466,
+  "classification": [
+    {
+      "name": "Great Andamanese",
+      "id": "grea1241",
+      "url": "https://glottolog.org/resource/languoid/id/grea1241"
+    },
+    {
+      "name": "North Andamanese-Akakede",
+      "id": "nort3276",
+      "url": "https://glottolog.org/resource/languoid/id/nort3276"
+    },
+    {
+      "name": "Northern Great Andamanese",
+      "id": "nort2678",
+      "url": "https://glottolog.org/resource/languoid/id/nort2678"
+    },
+    {
+      "name": "Jeru-Kora",
+      "id": "jeru1239",
+      "url": "https://glottolog.org/resource/languoid/id/jeru1239"
+    }
+  ],
+  "iso639-3": "ack"
+}

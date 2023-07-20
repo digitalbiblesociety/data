@@ -1,0 +1,90 @@
+{
+  "pk": 13108,
+  "hid": "qxr",
+  "father_pk": 10065,
+  "family_pk": 321,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Azuay Highland Quichua [azua1234]':1,'Cañar Highland Quichua [cana1270]':1,'South Chimborazo Highland Quichua [sout3334]':1)'Cañar-Azuay-South Chimborazo Highland Quichua [cana1262][qxr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10851",
+        "label": "Highland Ecuadorian Quichua"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12953846",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "162679",
+        "grammar",
+        1896,
+        135,
+        "Grimm, Juan 1896"
+      ],
+      [
+        "123809",
+        "grammar_sketch",
+        1892,
+        151,
+        "Cordero, Luis 1967 [1892-1895]"
+      ],
+      [
+        "133830",
+        "wordlist_or_less",
+        1878,
+        0,
+        "González Suárez 1878"
+      ]
+    ]
+  },
+  "id": "cana1262",
+  "name": "Cañar-Azuay-South Chimborazo Highland Quichua",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.48314,
+  "longitude": -78.9672,
+  "classification": [
+    {
+      "name": "Quechuan",
+      "id": "quec1387",
+      "url": "https://glottolog.org/resource/languoid/id/quec1387"
+    },
+    {
+      "name": "Quechua II",
+      "id": "quec1388",
+      "url": "https://glottolog.org/resource/languoid/id/quec1388"
+    },
+    {
+      "name": "Chinchay",
+      "id": "chin1494",
+      "url": "https://glottolog.org/resource/languoid/id/chin1494"
+    },
+    {
+      "name": "Quechua IIC",
+      "id": "quec1389",
+      "url": "https://glottolog.org/resource/languoid/id/quec1389"
+    },
+    {
+      "name": "Colombia-Ecuador Quechua",
+      "id": "colo1257",
+      "url": "https://glottolog.org/resource/languoid/id/colo1257"
+    },
+    {
+      "name": "Ecuadorian Quechua B",
+      "id": "ecua1249",
+      "url": "https://glottolog.org/resource/languoid/id/ecua1249"
+    }
+  ],
+  "iso639-3": "qxr"
+}

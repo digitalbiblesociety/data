@@ -1,0 +1,101 @@
+{
+  "pk": 3611,
+  "hid": "arl",
+  "father_pk": 1933,
+  "family_pk": 34,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Arabela [arab1268][arl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/660",
+        "label": "Arabela"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_arb",
+        "label": "Arabela"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Arabela_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/arab1268",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2591221",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "96980",
+        "grammar_sketch",
+        1999,
+        322,
+        "Rich, Rolland 1999"
+      ],
+      [
+        "27682",
+        "grammar_sketch",
+        1975,
+        36,
+        "Rich, Rolland 1975"
+      ],
+      [
+        "161176",
+        "phonology_or_text",
+        1963,
+        14,
+        "Rich, Furne 1963"
+      ],
+      [
+        "146885",
+        "phonology_or_text",
+        1958,
+        0,
+        "Rich, Furne 1958"
+      ],
+      [
+        "17002",
+        "wordlist_or_less",
+        1955,
+        0,
+        "Rich, Furne and Roland Rich 1955-74"
+      ]
+    ]
+  },
+  "id": "arab1268",
+  "name": "Arabela",
+  "description": null,
+  "markup_description": null,
+  "latitude": -1.96126,
+  "longitude": -75.0612,
+  "classification": [
+    {
+      "name": "Zaparoan",
+      "id": "zapa1251",
+      "url": "https://glottolog.org/resource/languoid/id/zapa1251"
+    },
+    {
+      "name": "Iquito-Arabela",
+      "id": "iqui1244",
+      "url": "https://glottolog.org/resource/languoid/id/iqui1244"
+    },
+    {
+      "name": "Arabela-Andoa",
+      "id": "arab1396",
+      "url": "https://glottolog.org/resource/languoid/id/arab1396"
+    }
+  ],
+  "iso639-3": "arl"
+}

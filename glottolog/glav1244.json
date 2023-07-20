@@ -1,0 +1,106 @@
+{
+  "pk": 14348,
+  "hid": "glw",
+  "father_pk": 11268,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bokwa [bokw1242]':1,'Ngoshie {Glavda} [ngos1242]':1,'Nuclear Glavda [nucl1680]':1)'Glavda [glav1244][glw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3441285",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Glavda_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/glav1244",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "48650",
+        "grammar_sketch",
+        2011,
+        46,
+        "Nghagyiya, Gulla 2011"
+      ],
+      [
+        "164402",
+        "grammar_sketch",
+        2007,
+        35,
+        "Buba, Bello and Owens, Jonathan 2007"
+      ],
+      [
+        "112396",
+        "phonology_or_text",
+        1968,
+        112,
+        "Rapp, Eugen Ludwig and Benzing, Brigitta 1968"
+      ],
+      [
+        "63282",
+        "wordlist_or_less",
+        1966,
+        5,
+        "Rapp, Eugen Ludwig 1966"
+      ]
+    ]
+  },
+  "id": "glav1244",
+  "name": "Glavda",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.1334,
+  "longitude": 13.8652,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "Biu-Mandara",
+      "id": "bium1280",
+      "url": "https://glottolog.org/resource/languoid/id/bium1280"
+    },
+    {
+      "name": "North Biu-Mandara",
+      "id": "nort3156",
+      "url": "https://glottolog.org/resource/languoid/id/nort3156"
+    },
+    {
+      "name": "Margi-Mandara-Mofu",
+      "id": "marg1267",
+      "url": "https://glottolog.org/resource/languoid/id/marg1267"
+    },
+    {
+      "name": "Mandaraic",
+      "id": "mand1472",
+      "url": "https://glottolog.org/resource/languoid/id/mand1472"
+    },
+    {
+      "name": "Wandala-Malgwa-Glavda",
+      "id": "wand1280",
+      "url": "https://glottolog.org/resource/languoid/id/wand1280"
+    }
+  ],
+  "iso639-3": "glw"
+}

@@ -1,0 +1,69 @@
+{
+  "pk": 4011,
+  "hid": "gko",
+  "father_pk": 2286,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kok-Nar [kokn1236][gko]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6692",
+        "label": "Kok-Nar"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kok-Nar_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kokn1236",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6426526",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "94211",
+        "grammar_sketch",
+        1976,
+        17,
+        "Gavan J. Breen 1976"
+      ]
+    ]
+  },
+  "id": "kokn1236",
+  "name": "Kok-Nar",
+  "description": null,
+  "markup_description": null,
+  "latitude": -16.181,
+  "longitude": 141.608,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Paman",
+      "id": "pama1251",
+      "url": "https://glottolog.org/resource/languoid/id/pama1251"
+    },
+    {
+      "name": "Norman Pama",
+      "id": "norm1247",
+      "url": "https://glottolog.org/resource/languoid/id/norm1247"
+    }
+  ],
+  "iso639-3": "gko"
+}

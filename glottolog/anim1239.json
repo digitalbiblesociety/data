@@ -1,0 +1,82 @@
+{
+  "pk": 9889,
+  "hid": "anf",
+  "father_pk": 7149,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Animere [anim1239][anf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3305",
+        "label": "Animere"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q34783",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Animere_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "104057",
+        "phonology_or_text",
+        1982,
+        3,
+        "Heine, Bernd 1982"
+      ],
+      [
+        "129126",
+        "wordlist_or_less",
+        1933,
+        7,
+        "Westermann, Diedrich 1933"
+      ]
+    ]
+  },
+  "id": "anim1239",
+  "name": "Animere",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.60385,
+  "longitude": 0.41962,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Kwa Volta-Congo",
+      "id": "kwav1236",
+      "url": "https://glottolog.org/resource/languoid/id/kwav1236"
+    },
+    {
+      "name": "Ka-Togo",
+      "id": "kato1245",
+      "url": "https://glottolog.org/resource/languoid/id/kato1245"
+    },
+    {
+      "name": "Kebu-Animere",
+      "id": "kebu1246",
+      "url": "https://glottolog.org/resource/languoid/id/kebu1246"
+    }
+  ],
+  "iso639-3": "anf"
+}

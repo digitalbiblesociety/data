@@ -1,0 +1,82 @@
+{
+  "pk": 9322,
+  "hid": "dup",
+  "father_pk": 6784,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Duano [duan1242][dup]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1986",
+        "label": "Duano'"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Duano%CA%BC_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3040468",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "40415",
+        "grammar_sketch",
+        1946,
+        30,
+        "Hans Kähler 1946-1949"
+      ],
+      [
+        "318376",
+        "wordlist_or_less",
+        1884,
+        14,
+        "Schot, J.G. 1884"
+      ]
+    ]
+  },
+  "id": "duan1242",
+  "name": "Duano",
+  "description": null,
+  "markup_description": null,
+  "latitude": 0.72162,
+  "longitude": 103.46759,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Malayo-Sumbawan",
+      "id": "mala1536",
+      "url": "https://glottolog.org/resource/languoid/id/mala1536"
+    },
+    {
+      "name": "North and East Malayo-Sumbawan",
+      "id": "nort3170",
+      "url": "https://glottolog.org/resource/languoid/id/nort3170"
+    },
+    {
+      "name": "Malayic",
+      "id": "mala1538",
+      "url": "https://glottolog.org/resource/languoid/id/mala1538"
+    }
+  ],
+  "iso639-3": "dup"
+}

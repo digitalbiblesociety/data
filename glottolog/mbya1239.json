@@ -1,0 +1,124 @@
+{
+  "pk": 13873,
+  "hid": "gun",
+  "father_pk": 10827,
+  "family_pk": 51,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Baticola [bati1254]':1,'Tambéopé [tamb1258]':1)'Mbyá Guaraní [mbya1239][gun]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2992",
+        "label": "Mbyá"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mby%C3%A1_Guaran%C3%AD_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/mbya1239",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3915584",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "133778",
+        "grammar",
+        2003,
+        220,
+        "Martins, Marci Fileti 2003"
+      ],
+      [
+        "118039",
+        "grammar",
+        1988,
+        28,
+        "Dooley, Robert A. 1988"
+      ],
+      [
+        "141764",
+        "phonology_or_text",
+        1959,
+        225,
+        "Cadogan, Leon 1959"
+      ],
+      [
+        "72779",
+        "phonology_or_text",
+        1937,
+        12,
+        "Vellard, Jehan 1937"
+      ],
+      [
+        "551272",
+        "wordlist_or_less",
+        1934,
+        5,
+        "Jehan Véllard and T. Osuna 1934"
+      ],
+      [
+        "576478",
+        "wordlist_or_less",
+        1835,
+        495,
+        "Rengger, J. R. 1835"
+      ]
+    ]
+  },
+  "id": "mbya1239",
+  "name": "Mbyá Guaraní",
+  "description": null,
+  "markup_description": null,
+  "latitude": -26.0188,
+  "longitude": -52.711,
+  "classification": [
+    {
+      "name": "Tupian",
+      "id": "tupi1275",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1275"
+    },
+    {
+      "name": "Maweti-Guarani",
+      "id": "mawe1252",
+      "url": "https://glottolog.org/resource/languoid/id/mawe1252"
+    },
+    {
+      "name": "Aweti-Guarani",
+      "id": "awet1245",
+      "url": "https://glottolog.org/resource/languoid/id/awet1245"
+    },
+    {
+      "name": "Tupi-Guarani",
+      "id": "tupi1276",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1276"
+    },
+    {
+      "name": "Southern Tupi-Guarani",
+      "id": "sout3271",
+      "url": "https://glottolog.org/resource/languoid/id/sout3271"
+    },
+    {
+      "name": "Tupi-Guarani Subgroup I",
+      "id": "tupi1277",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1277"
+    },
+    {
+      "name": "Tupi-Guarani Subgroup I.A",
+      "id": "tupi1282",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1282"
+    }
+  ],
+  "iso639-3": "gun"
+}

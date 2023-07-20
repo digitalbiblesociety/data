@@ -1,0 +1,80 @@
+{
+  "pk": 12385,
+  "hid": "itv",
+  "father_pk": 9435,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Itawit [itaw1240][itv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_itw",
+        "label": "Itawis"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Itawis_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3915527",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "121486",
+        "grammar_sketch",
+        1970,
+        49,
+        "Natividad, Mateo C. and Syble Solomon 1970"
+      ]
+    ]
+  },
+  "id": "itaw1240",
+  "name": "Itawit",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.7329,
+  "longitude": 121.58,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Northern Luzon",
+      "id": "nort3238",
+      "url": "https://glottolog.org/resource/languoid/id/nort3238"
+    },
+    {
+      "name": "Cagayan Valley",
+      "id": "caga1241",
+      "url": "https://glottolog.org/resource/languoid/id/caga1241"
+    },
+    {
+      "name": "Ibanagic",
+      "id": "iban1268",
+      "url": "https://glottolog.org/resource/languoid/id/iban1268"
+    },
+    {
+      "name": "Gaddangic",
+      "id": "gadd1245",
+      "url": "https://glottolog.org/resource/languoid/id/gadd1245"
+    }
+  ],
+  "iso639-3": "itv"
+}

@@ -1,0 +1,62 @@
+{
+  "pk": 510,
+  "hid": "aam",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Aramanik [aram1252][aam]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "aam",
+      "name": "Aramanik",
+      "change_request": "2014-042",
+      "effective": "2015-01-12",
+      "reason": "merge",
+      "change_to": [
+        "aas"
+      ],
+      "remedy": "Merged into Aasax [aas]",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56541",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Aramanik_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500971",
+        "wordlist_or_less",
+        2014,
+        0,
+        "ISO 639-3 Registration Authority 2014"
+      ]
+    ]
+  },
+  "id": "aram1252",
+  "name": "Aramanik",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.90656,
+  "longitude": 37.3491,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "aam"
+}

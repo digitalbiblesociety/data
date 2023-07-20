@@ -1,0 +1,77 @@
+{
+  "pk": 5707,
+  "hid": "yev",
+  "father_pk": 3764,
+  "family_pk": 103,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Yeri [yapu1240][yev]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2709",
+        "label": "Yeri"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q11044384",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yapunda_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "552938",
+        "long_grammar",
+        2017,
+        833,
+        "Jennifer Wilson 2017"
+      ],
+      [
+        "138610",
+        "wordlist_or_less",
+        1968,
+        1,
+        "Donald C. Laycock 1968"
+      ]
+    ]
+  },
+  "id": "yapu1240",
+  "name": "Yeri",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.47256,
+  "longitude": 142.436,
+  "classification": [
+    {
+      "name": "Nuclear Torricelli",
+      "id": "nucl1708",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1708"
+    },
+    {
+      "name": "Wapei-Palei",
+      "id": "wape1249",
+      "url": "https://glottolog.org/resource/languoid/id/wape1249"
+    },
+    {
+      "name": "West Palai",
+      "id": "west2788",
+      "url": "https://glottolog.org/resource/languoid/id/west2788"
+    },
+    {
+      "name": "Agi-Yeri",
+      "id": "agiy1234",
+      "url": "https://glottolog.org/resource/languoid/id/agiy1234"
+    }
+  ],
+  "iso639-3": "yev"
+}

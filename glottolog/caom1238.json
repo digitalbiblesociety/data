@@ -1,0 +1,83 @@
+{
+  "pk": 13493,
+  "hid": "cov",
+  "father_pk": 10427,
+  "family_pk": 356,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Cao Miao [caom1238][cov]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q2936935",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cao_Miao_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "478598",
+        "long_grammar",
+        2015,
+        362,
+        "Wu, Manxiang 2015"
+      ],
+      [
+        "310439",
+        "long_grammar",
+        1985,
+        311,
+        "Xing, Gongwan and Shi, Lin and Cui, Jianxing 1985"
+      ]
+    ]
+  },
+  "id": "caom1238",
+  "name": "Cao Miao",
+  "description": null,
+  "markup_description": null,
+  "latitude": 26.2236,
+  "longitude": 109.547,
+  "classification": [
+    {
+      "name": "Tai-Kadai",
+      "id": "taik1256",
+      "url": "https://glottolog.org/resource/languoid/id/taik1256"
+    },
+    {
+      "name": "Kam-Tai",
+      "id": "kamt1241",
+      "url": "https://glottolog.org/resource/languoid/id/kamt1241"
+    },
+    {
+      "name": "Kam-Sui",
+      "id": "kams1241",
+      "url": "https://glottolog.org/resource/languoid/id/kams1241"
+    },
+    {
+      "name": "Mulam-Kam",
+      "id": "mula1252",
+      "url": "https://glottolog.org/resource/languoid/id/mula1252"
+    },
+    {
+      "name": "Kamic",
+      "id": "kami1255",
+      "url": "https://glottolog.org/resource/languoid/id/kami1255"
+    },
+    {
+      "name": "Northern Kam",
+      "id": "nort2734",
+      "url": "https://glottolog.org/resource/languoid/id/nort2734"
+    }
+  ],
+  "iso639-3": "cov"
+}

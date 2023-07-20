@@ -1,0 +1,90 @@
+{
+  "pk": 4160,
+  "hid": "lil",
+  "father_pk": 2386,
+  "family_pk": 166,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Lower Lillooet [lowe1456]':1,'Upper Lillooet [uppe1477]':1)'Lillooet [lill1248][lil]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_lil",
+        "label": "Lillooet"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/1935",
+        "label": "St̓át̓imcets (Lillooet)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lillooet_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q34154",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "7461",
+        "long_grammar",
+        1985,
+        306,
+        "Jan van Eijk 1985"
+      ],
+      [
+        "318117",
+        "phonology_or_text",
+        1971,
+        97,
+        "Swoboda, Leo John 1971"
+      ],
+      [
+        "478277",
+        "wordlist_or_less",
+        1906,
+        118,
+        "James Teit 1906"
+      ],
+      [
+        "572568",
+        "wordlist_or_less",
+        1905,
+        93,
+        "Hill-Tout, C. 1905"
+      ]
+    ]
+  },
+  "id": "lill1248",
+  "name": "Lillooet",
+  "description": null,
+  "markup_description": null,
+  "latitude": 50.7272,
+  "longitude": -122.04,
+  "classification": [
+    {
+      "name": "Salishan",
+      "id": "sali1255",
+      "url": "https://glottolog.org/resource/languoid/id/sali1255"
+    },
+    {
+      "name": "Interior Salish",
+      "id": "inte1241",
+      "url": "https://glottolog.org/resource/languoid/id/inte1241"
+    },
+    {
+      "name": "Northern Interior Salish",
+      "id": "nort2948",
+      "url": "https://glottolog.org/resource/languoid/id/nort2948"
+    }
+  ],
+  "iso639-3": "lil"
+}

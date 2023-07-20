@@ -1,0 +1,75 @@
+{
+  "pk": 10191,
+  "hid": "nme",
+  "father_pk": 7343,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mzieme Naga [mzie1235][nme]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5670",
+        "label": "Mzieme Naga"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6949473",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mzieme_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "85928",
+        "wordlist_or_less",
+        1967,
+        7,
+        "Marrison, Geoffrey E. 1967"
+      ]
+    ]
+  },
+  "id": "mzie1235",
+  "name": "Mzieme Naga",
+  "description": null,
+  "markup_description": null,
+  "latitude": 25.4779,
+  "longitude": 93.71,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Zemeic",
+      "id": "zeme1241",
+      "url": "https://glottolog.org/resource/languoid/id/zeme1241"
+    },
+    {
+      "name": "Nuclear Zemeic",
+      "id": "nucl1313",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1313"
+    },
+    {
+      "name": "Mzieme-Zeme",
+      "id": "mzie1236",
+      "url": "https://glottolog.org/resource/languoid/id/mzie1236"
+    }
+  ],
+  "iso639-3": "nme"
+}

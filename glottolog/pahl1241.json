@@ -1,0 +1,128 @@
+{
+  "pk": 10867,
+  "hid": "pal",
+  "father_pk": 7985,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Pahlavi [pahl1241][pal]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "pal",
+      "comment_type": "missing",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "A number of ancient languages of the Middle East and Central Asia are attested, but missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26. One is Pahlavi (**hh:g:Nyberg:Pahlavi**)."
+    },
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q32063",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Middle_Persian",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "461299",
+        "long_grammar",
+        2014,
+        301,
+        "Desmond Durkin-Meisterernst 2014"
+      ],
+      [
+        "141882",
+        "grammar",
+        1977,
+        291,
+        "Brunner, Christopher 1977"
+      ],
+      [
+        "120718",
+        "grammar",
+        1964,
+        259,
+        "Nyberg, Henrik Samuel 1964-1974"
+      ],
+      [
+        "572308",
+        "grammar_sketch",
+        1880,
+        184,
+        "de Harlez, C. 1880"
+      ],
+      [
+        "403812",
+        "grammar_sketch",
+        1870,
+        169,
+        "Haug, Martin 1870"
+      ],
+      [
+        "577487",
+        "grammar_sketch",
+        1851,
+        109,
+        "Spiegel, Fr. 1851"
+      ]
+    ]
+  },
+  "id": "pahl1241",
+  "name": "Pahlavi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 30.06,
+  "longitude": 52.7,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Iranian",
+      "id": "iran1269",
+      "url": "https://glottolog.org/resource/languoid/id/iran1269"
+    },
+    {
+      "name": "Southwestern Iranian",
+      "id": "sout3157",
+      "url": "https://glottolog.org/resource/languoid/id/sout3157"
+    },
+    {
+      "name": "Middle-Modern Persian",
+      "id": "midd1352",
+      "url": "https://glottolog.org/resource/languoid/id/midd1352"
+    }
+  ],
+  "iso639-3": "pal"
+}

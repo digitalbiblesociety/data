@@ -1,0 +1,111 @@
+{
+  "pk": 3938,
+  "hid": "led",
+  "father_pk": 2240,
+  "family_pk": 140,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Pidha [pidh1238]':1,'Rrkphadha [rrkp1234]':1)'Central Lendu [cent2349]':1,('Djadha [djad1245]':1,'Tadha [tadh1238]':1)'Southern Lendu [sout3289]':1)'Lendu [lend1245][led]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Lendu_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/lend1245",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ldu",
+        "label": "Lendu"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q523823",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "95042",
+        "grammar_sketch",
+        1977,
+        135,
+        "Dhejju, Léonard 1977"
+      ],
+      [
+        "78782",
+        "grammar_sketch",
+        1934,
+        46,
+        "Deleu, L. 1934"
+      ],
+      [
+        "114634",
+        "grammar_sketch",
+        1928,
+        13,
+        "Bosch, G. van den 1928"
+      ],
+      [
+        "570465",
+        "grammar_sketch",
+        1923,
+        11,
+        "Van den Eynde, P. 1923"
+      ],
+      [
+        "37175",
+        "wordlist_or_less",
+        1913,
+        133,
+        "Struck, Bernhard 1913"
+      ],
+      [
+        "58624",
+        "wordlist_or_less",
+        1904,
+        13,
+        "Johnston, Harry 1904"
+      ],
+      [
+        "70526",
+        "wordlist_or_less",
+        1894,
+        1,
+        "Stuhlmann, Franz 1894"
+      ]
+    ]
+  },
+  "id": "lend1245",
+  "name": "Lendu",
+  "description": null,
+  "markup_description": null,
+  "latitude": 2.1898,
+  "longitude": 30.6794,
+  "classification": [
+    {
+      "name": "Central Sudanic",
+      "id": "cent2225",
+      "url": "https://glottolog.org/resource/languoid/id/cent2225"
+    },
+    {
+      "name": "Lenduic",
+      "id": "lend1246",
+      "url": "https://glottolog.org/resource/languoid/id/lend1246"
+    },
+    {
+      "name": "Bale",
+      "id": "bale1255",
+      "url": "https://glottolog.org/resource/languoid/id/bale1255"
+    }
+  ],
+  "iso639-3": "led"
+}

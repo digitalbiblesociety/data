@@ -1,0 +1,149 @@
+{
+  "pk": 25676,
+  "hid": "mri",
+  "father_pk": 25144,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Kai-Tahu South Island [sout2867]':1,'Ngaati Kahungunu [ngaa1243]':1,'Ngaati Porou [ngaa1242]':1,'Te Arawa Tuuhoe [bayo1258]':1)'Eastern North Island Maori [east2850]':1,'Moriori [mori1267]':1,('Ngaati Tuuwharetoa [roto1247]':1,('Ngaapuhi [ngaa1244]':1,'Te Aupouri [teau1234]':1)'North Auckland Maori [nort2846]':1,'Taranaki [tara1315]':1,'Waikato [waik1246]':1,'Wanganui [wang1297]':1)'Western North Island Maori [west2940]':1)'Maori [maor1246][mri]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 14,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mao",
+        "label": "Maori"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/3571",
+        "label": "Māori"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/M%C4%81ori_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/maor1246",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36451",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "23871",
+        "long_grammar",
+        1993,
+        638,
+        "Winifred Bauer 1993"
+      ],
+      [
+        "568787",
+        "long_grammar",
+        1982,
+        469,
+        "Bauer, Winifred A. 1982"
+      ],
+      [
+        "12658",
+        "grammar",
+        1894,
+        178,
+        "Robert Maunsell 1894"
+      ],
+      [
+        "665912",
+        "grammar",
+        1000,
+        0,
+        "Ngata, A. 1000"
+      ]
+    ]
+  },
+  "id": "maor1246",
+  "name": "Maori",
+  "description": null,
+  "markup_description": null,
+  "latitude": -38.2881,
+  "longitude": 176.541,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Central Pacific linkage",
+      "id": "cent2060",
+      "url": "https://glottolog.org/resource/languoid/id/cent2060"
+    },
+    {
+      "name": "Tokalau Fijian",
+      "id": "east2445",
+      "url": "https://glottolog.org/resource/languoid/id/east2445"
+    },
+    {
+      "name": "Polynesian",
+      "id": "poly1242",
+      "url": "https://glottolog.org/resource/languoid/id/poly1242"
+    },
+    {
+      "name": "Nuclear Polynesian",
+      "id": "nucl1485",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1485"
+    },
+    {
+      "name": "Northern Outlier Polynesian-East Polynesian",
+      "id": "nort3246",
+      "url": "https://glottolog.org/resource/languoid/id/nort3246"
+    },
+    {
+      "name": "Solomons Northern Outlier Polynesian-East Polynesian",
+      "id": "solo1260",
+      "url": "https://glottolog.org/resource/languoid/id/solo1260"
+    },
+    {
+      "name": "Central Northern Outlier Polynesian-East Polynesian",
+      "id": "cent2298",
+      "url": "https://glottolog.org/resource/languoid/id/cent2298"
+    },
+    {
+      "name": "East Polynesian",
+      "id": "east2449",
+      "url": "https://glottolog.org/resource/languoid/id/east2449"
+    },
+    {
+      "name": "East Polynesian Proximal",
+      "id": "east2896",
+      "url": "https://glottolog.org/resource/languoid/id/east2896"
+    },
+    {
+      "name": "Southern East Polynesian Proximal",
+      "id": "sout3383",
+      "url": "https://glottolog.org/resource/languoid/id/sout3383"
+    }
+  ],
+  "iso639-3": "mri"
+}

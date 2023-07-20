@@ -1,0 +1,114 @@
+{
+  "pk": 9279,
+  "hid": "ceb",
+  "father_pk": 6755,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Boholano [boho1237]':1,'Cebu [cebu1243]':1,'Leyte [leyt1237]':1,'Mindanao Visayan [mind1257]':1)'Cebuano [cebu1242][ceb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ceb",
+        "label": "Cebuano"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cebuano_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/cebu1242",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33239",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "547763",
+        "long_grammar",
+        1971,
+        839,
+        "Bunye, Maria V. and Elsa P. Yap 1971"
+      ],
+      [
+        "85380",
+        "long_grammar",
+        1966,
+        686,
+        "John U. Wolff 1966"
+      ],
+      [
+        "108187",
+        "grammar",
+        1965,
+        291,
+        "Wolff, John Ulrich 1965"
+      ],
+      [
+        "307938",
+        "grammar",
+        1885,
+        216,
+        "Francisco Ensina 1885"
+      ],
+      [
+        "117556",
+        "grammar_sketch",
+        1836,
+        179,
+        "Tomas Oliva 1836"
+      ],
+      [
+        "152673",
+        "wordlist_or_less",
+        1604,
+        75,
+        "Pedro Chirino 1604"
+      ]
+    ]
+  },
+  "id": "cebu1242",
+  "name": "Cebuano",
+  "description": null,
+  "markup_description": null,
+  "latitude": 8.38799,
+  "longitude": 124.367,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Greater Central Philippine",
+      "id": "grea1284",
+      "url": "https://glottolog.org/resource/languoid/id/grea1284"
+    },
+    {
+      "name": "Central Philippine",
+      "id": "cent2246",
+      "url": "https://glottolog.org/resource/languoid/id/cent2246"
+    },
+    {
+      "name": "Bisayan",
+      "id": "bisa1268",
+      "url": "https://glottolog.org/resource/languoid/id/bisa1268"
+    }
+  ],
+  "iso639-3": "ceb"
+}

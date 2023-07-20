@@ -1,0 +1,107 @@
+{
+  "pk": 7839,
+  "hid": "uum",
+  "father_pk": 5423,
+  "family_pk": 14,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Urum [urum1249][uum]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3004",
+        "label": "Urum"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q13257",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Urum_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_urm",
+        "label": "Urum"
+      }
+    ],
+    "meds": [
+      [
+        "31321",
+        "long_grammar",
+        1999,
+        624,
+        "Oleksandr Garkavec' 1999"
+      ],
+      [
+        "22521",
+        "grammar",
+        1997,
+        6,
+        "Muratov, S. N. 1997"
+      ],
+      [
+        "80820",
+        "grammar_sketch",
+        1986,
+        14,
+        "Podolsky, Baruch 1986"
+      ],
+      [
+        "628709",
+        "grammar_sketch",
+        1970,
+        0,
+        "Korelov, I. A. 1970"
+      ],
+      [
+        "636480",
+        "phonology_or_text",
+        1963,
+        14,
+        "Muratov, S. N. 1963"
+      ]
+    ]
+  },
+  "id": "urum1249",
+  "name": "Urum",
+  "description": null,
+  "markup_description": null,
+  "latitude": 42.0379,
+  "longitude": 43.994,
+  "classification": [
+    {
+      "name": "Turkic",
+      "id": "turk1311",
+      "url": "https://glottolog.org/resource/languoid/id/turk1311"
+    },
+    {
+      "name": "Common Turkic",
+      "id": "comm1245",
+      "url": "https://glottolog.org/resource/languoid/id/comm1245"
+    },
+    {
+      "name": "Kipchak",
+      "id": "kipc1239",
+      "url": "https://glottolog.org/resource/languoid/id/kipc1239"
+    },
+    {
+      "name": "West Kipchak",
+      "id": "west1472",
+      "url": "https://glottolog.org/resource/languoid/id/west1472"
+    },
+    {
+      "name": "Crimean Tatar-Urum",
+      "id": "crim1256",
+      "url": "https://glottolog.org/resource/languoid/id/crim1256"
+    }
+  ],
+  "iso639-3": "uum"
+}

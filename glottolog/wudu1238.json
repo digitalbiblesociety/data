@@ -1,0 +1,83 @@
+{
+  "pk": 12873,
+  "hid": "wud",
+  "father_pk": 9907,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Alada [alad1239]':1,'Gbekon [gbek1244]':1)'Wudu [wudu1238][wud]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q36972",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Wudu_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "87592",
+        "wordlist_or_less",
+        1983,
+        20,
+        "Commission Nationale de Linguistique du Togo 1983"
+      ],
+      [
+        "80686",
+        "wordlist_or_less",
+        1980,
+        1,
+        "Capo, Hounkpatin C. 1980"
+      ]
+    ]
+  },
+  "id": "wudu1238",
+  "name": "Wudu",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.57619,
+  "longitude": 1.53522,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Kwa Volta-Congo",
+      "id": "kwav1236",
+      "url": "https://glottolog.org/resource/languoid/id/kwav1236"
+    },
+    {
+      "name": "Gbe",
+      "id": "gbee1241",
+      "url": "https://glottolog.org/resource/languoid/id/gbee1241"
+    },
+    {
+      "name": "Eastern Gbe",
+      "id": "east2711",
+      "url": "https://glottolog.org/resource/languoid/id/east2711"
+    },
+    {
+      "name": "Fongbeic",
+      "id": "fong1244",
+      "url": "https://glottolog.org/resource/languoid/id/fong1244"
+    }
+  ],
+  "iso639-3": "wud"
+}

@@ -1,0 +1,66 @@
+{
+  "pk": 6110,
+  "hid": "xpo",
+  "father_pk": 4102,
+  "family_pk": 155,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Pochutec [poch1244][xpo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q42968898",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nhp",
+        "label": "Nahuatl (Pochutla)"
+      }
+    ],
+    "meds": [
+      [
+        "84550",
+        "grammar_sketch",
+        1917,
+        36,
+        "Boas, Franz 1917"
+      ]
+    ]
+  },
+  "id": "poch1244",
+  "name": "Pochutec",
+  "description": null,
+  "markup_description": null,
+  "latitude": 15.735073,
+  "longitude": -96.468076,
+  "classification": [
+    {
+      "name": "Uto-Aztecan",
+      "id": "utoa1244",
+      "url": "https://glottolog.org/resource/languoid/id/utoa1244"
+    },
+    {
+      "name": "Southern Uto-Aztecan",
+      "id": "sout3136",
+      "url": "https://glottolog.org/resource/languoid/id/sout3136"
+    },
+    {
+      "name": "Corachol-Aztecan",
+      "id": "cora1261",
+      "url": "https://glottolog.org/resource/languoid/id/cora1261"
+    },
+    {
+      "name": "Aztec",
+      "id": "azte1234",
+      "url": "https://glottolog.org/resource/languoid/id/azte1234"
+    }
+  ],
+  "iso639-3": "xpo"
+}

@@ -1,0 +1,106 @@
+{
+  "pk": 16031,
+  "hid": "lbr",
+  "father_pk": 13232,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Biksit [biks1238]':1)'Lohorung [nort2727][lbr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4484",
+        "label": "Northern Lorung"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6668040",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lohorung_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "669198",
+        "phonology_or_text",
+        2004,
+        0,
+        "Yadava, Y. P. 2004"
+      ],
+      [
+        "102795",
+        "phonology_or_text",
+        1992,
+        43,
+        "van Driem, George 1992"
+      ],
+      [
+        "78648",
+        "wordlist_or_less",
+        1909,
+        4,
+        "George A. Grierson 1909"
+      ],
+      [
+        "72592",
+        "wordlist_or_less",
+        1857,
+        3,
+        "Hodgson, Brian Houghton 1857"
+      ]
+    ]
+  },
+  "id": "nort2727",
+  "name": "Lohorung",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.5102,
+  "longitude": 87.2157,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Himalayish",
+      "id": "hima1249",
+      "url": "https://glottolog.org/resource/languoid/id/hima1249"
+    },
+    {
+      "name": "Mahakiranti",
+      "id": "maha1306",
+      "url": "https://glottolog.org/resource/languoid/id/maha1306"
+    },
+    {
+      "name": "Kiranti",
+      "id": "kira1253",
+      "url": "https://glottolog.org/resource/languoid/id/kira1253"
+    },
+    {
+      "name": "Eastern Kiranti",
+      "id": "east2719",
+      "url": "https://glottolog.org/resource/languoid/id/east2719"
+    },
+    {
+      "name": "Upper Arun",
+      "id": "uppe1412",
+      "url": "https://glottolog.org/resource/languoid/id/uppe1412"
+    },
+    {
+      "name": "Lohorung-Yamphu",
+      "id": "loho1238",
+      "url": "https://glottolog.org/resource/languoid/id/loho1238"
+    }
+  ],
+  "iso639-3": "lbr"
+}

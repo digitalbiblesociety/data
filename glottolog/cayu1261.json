@@ -1,0 +1,78 @@
+{
+  "pk": 3319,
+  "hid": "cay",
+  "father_pk": 1746,
+  "family_pk": 357,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Cayuga [cayu1261][cay]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1682",
+        "label": "Cayuga"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_cyg",
+        "label": "Cayuga"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cayuga_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q32967",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "34495",
+        "long_grammar",
+        1982,
+        615,
+        "Mithun, Marianne and Henry, Reginald 1982"
+      ],
+      [
+        "57784",
+        "phonology_or_text",
+        1846,
+        0,
+        "Elliot, Adam. Elliot's Vocabulary of Cayuga. (Reprinted from: Henry Schoolcraft 1846"
+      ],
+      [
+        "33801",
+        "wordlist_or_less",
+        1816,
+        10,
+        "Johann Christoph Adelung and Johann Severin Vater 1816"
+      ]
+    ]
+  },
+  "id": "cayu1261",
+  "name": "Cayuga",
+  "description": null,
+  "markup_description": null,
+  "latitude": 42.41,
+  "longitude": -76.5969,
+  "classification": [
+    {
+      "name": "Iroquoian",
+      "id": "iroq1247",
+      "url": "https://glottolog.org/resource/languoid/id/iroq1247"
+    },
+    {
+      "name": "Northern Iroquoian",
+      "id": "nort2947",
+      "url": "https://glottolog.org/resource/languoid/id/nort2947"
+    }
+  ],
+  "iso639-3": "cay"
+}

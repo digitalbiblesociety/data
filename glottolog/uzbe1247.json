@@ -1,0 +1,89 @@
+{
+  "pk": 7808,
+  "hid": "uzb",
+  "father_pk": 5406,
+  "family_pk": 14,
+  "level": "family",
+  "bookkeeping": false,
+  "category": "Family",
+  "newick": "('Northern Uzbek [nort2690][uzn]-l-':1,'Southern Uzbek [sout2699][uzs]-l-':1)'Uzbek [uzbe1247][uzb]':1",
+  "child_family_count": 0,
+  "child_language_count": 2,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_uzb",
+        "label": "Uzbek"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Uzbek_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q9264",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "545033",
+        "grammar_sketch",
+        1999,
+        0,
+        "na 1999"
+      ],
+      [
+        "178430",
+        "phonology_or_text",
+        1998,
+        18,
+        "Beckwith, Christopher I. 1998"
+      ],
+      [
+        "549404",
+        "wordlist_or_less",
+        1966,
+        0,
+        "Klein, Udo and Klaus von Heusinger 1966"
+      ]
+    ]
+  },
+  "id": "uzbe1247",
+  "name": "Uzbek",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Turkic",
+      "id": "turk1311",
+      "url": "https://glottolog.org/resource/languoid/id/turk1311"
+    },
+    {
+      "name": "Common Turkic",
+      "id": "comm1245",
+      "url": "https://glottolog.org/resource/languoid/id/comm1245"
+    },
+    {
+      "name": "Turkestan Turkic",
+      "id": "karl1243",
+      "url": "https://glottolog.org/resource/languoid/id/karl1243"
+    },
+    {
+      "name": "Uyghur-Uzbek",
+      "id": "uygh1241",
+      "url": "https://glottolog.org/resource/languoid/id/uygh1241"
+    },
+    {
+      "name": "Modern Uyghur-Uzbek",
+      "id": "uygh1240",
+      "url": "https://glottolog.org/resource/languoid/id/uygh1240"
+    }
+  ],
+  "iso639-3": "uzb"
+}

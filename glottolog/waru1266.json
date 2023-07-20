@@ -1,0 +1,95 @@
+{
+  "pk": 19362,
+  "hid": "wru",
+  "father_pk": 17374,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Lalomerui [lalo1239]':1,'Nuclear Waru [nucl1572]':1)'Waru [waru1266][wru]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2802",
+        "label": "Waru"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3566463",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Waru_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "161612",
+        "wordlist_or_less",
+        1999,
+        3,
+        "David E. Mead 1999"
+      ]
+    ]
+  },
+  "id": "waru1266",
+  "name": "Waru",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.412,
+  "longitude": 122.058,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Celebic",
+      "id": "cele1242",
+      "url": "https://glottolog.org/resource/languoid/id/cele1242"
+    },
+    {
+      "name": "Greater Eastern Celebic",
+      "id": "grea1299",
+      "url": "https://glottolog.org/resource/languoid/id/grea1299"
+    },
+    {
+      "name": "Eastern Celebic",
+      "id": "east2488",
+      "url": "https://glottolog.org/resource/languoid/id/east2488"
+    },
+    {
+      "name": "Southeastern Celebic",
+      "id": "sout2928",
+      "url": "https://glottolog.org/resource/languoid/id/sout2928"
+    },
+    {
+      "name": "Bungku-Tolaki",
+      "id": "bung1268",
+      "url": "https://glottolog.org/resource/languoid/id/bung1268"
+    },
+    {
+      "name": "Western Bungku-Tolaki",
+      "id": "west2566",
+      "url": "https://glottolog.org/resource/languoid/id/west2566"
+    },
+    {
+      "name": "West Coast Bungku-Tolaki",
+      "id": "west2567",
+      "url": "https://glottolog.org/resource/languoid/id/west2567"
+    }
+  ],
+  "iso639-3": "wru"
+}

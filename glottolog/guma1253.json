@@ -1,0 +1,94 @@
+{
+  "pk": 11475,
+  "hid": "gnn",
+  "father_pk": 8539,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Mangalili [mang1384]':1)'Gumatj [guma1253][gnn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_gmt",
+        "label": "Gumatj"
+      },
+      {
+        "url": "https://phoible.org/languages/guma1253",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q10510745",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "4960",
+        "phonology_or_text",
+        1984,
+        107,
+        "Ross, Joyce and Walker, Alan T. 1984"
+      ],
+      [
+        "554499",
+        "wordlist_or_less",
+        1956,
+        4,
+        "Arthur Capell 1956"
+      ],
+      [
+        "846",
+        "wordlist_or_less",
+        1950,
+        5,
+        "Berndt, Catherine H. 1950"
+      ]
+    ]
+  },
+  "id": "guma1253",
+  "name": "Gumatj",
+  "description": null,
+  "markup_description": null,
+  "latitude": -12.25254,
+  "longitude": 136.83042,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Yuulngu",
+      "id": "yuul1239",
+      "url": "https://glottolog.org/resource/languoid/id/yuul1239"
+    },
+    {
+      "name": "Southern Yolngu",
+      "id": "sout3142",
+      "url": "https://glottolog.org/resource/languoid/id/sout3142"
+    },
+    {
+      "name": "Southern-Eastern Yolngu",
+      "id": "sout3149",
+      "url": "https://glottolog.org/resource/languoid/id/sout3149"
+    },
+    {
+      "name": "Dhuwal-Dhuwala",
+      "id": "dhuw1248",
+      "url": "https://glottolog.org/resource/languoid/id/dhuw1248"
+    },
+    {
+      "name": "Western Dhuwal-Dhuwala",
+      "id": "west2439",
+      "url": "https://glottolog.org/resource/languoid/id/west2439"
+    }
+  ],
+  "iso639-3": "gnn"
+}

@@ -1,0 +1,97 @@
+{
+  "pk": 5081,
+  "hid": "mdy",
+  "father_pk": 3272,
+  "family_pk": 342,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Male {Ethiopia} [male1284][mdy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/7870",
+        "label": "Malé"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q795327",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Maale_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mle",
+        "label": "Maale"
+      }
+    ],
+    "meds": [
+      [
+        "111638",
+        "long_grammar",
+        2001,
+        325,
+        "Amha, Azeb 2001"
+      ],
+      [
+        "109897",
+        "phonology_or_text",
+        1994,
+        3,
+        "Azeb, Amha 1994"
+      ],
+      [
+        "40747",
+        "phonology_or_text",
+        1988,
+        0,
+        "Hirut, Mengiste 1988"
+      ],
+      [
+        "55484",
+        "wordlist_or_less",
+        1983,
+        15,
+        "Haberland, Eike 1983"
+      ],
+      [
+        "573076",
+        "wordlist_or_less",
+        1959,
+        0,
+        "na 1959"
+      ]
+    ]
+  },
+  "id": "male1284",
+  "name": "Male (Ethiopia)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.91975,
+  "longitude": 36.9892,
+  "classification": [
+    {
+      "name": "Ta-Ne-Omotic",
+      "id": "gong1255",
+      "url": "https://glottolog.org/resource/languoid/id/gong1255"
+    },
+    {
+      "name": "Ometo",
+      "id": "omet1238",
+      "url": "https://glottolog.org/resource/languoid/id/omet1238"
+    },
+    {
+      "name": "North-West Ometo",
+      "id": "nort3161",
+      "url": "https://glottolog.org/resource/languoid/id/nort3161"
+    }
+  ],
+  "iso639-3": "mdy"
+}

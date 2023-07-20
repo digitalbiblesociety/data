@@ -1,0 +1,67 @@
+{
+  "pk": 2309,
+  "hid": "bjy",
+  "father_pk": 1065,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Bayali [baya1257][bjy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/e42",
+        "label": "Baiali"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bayali_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q4874263",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "318239",
+        "grammar_sketch",
+        2012,
+        45,
+        "Besold, Jutta 2012"
+      ],
+      [
+        "159230",
+        "wordlist_or_less",
+        1887,
+        2,
+        "Commissioner of Police, Brisbane 1887"
+      ]
+    ]
+  },
+  "id": "baya1257",
+  "name": "Bayali",
+  "description": null,
+  "markup_description": null,
+  "latitude": -24.9793,
+  "longitude": 151.699,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Rockhampton-Gladstone",
+      "id": "rock1234",
+      "url": "https://glottolog.org/resource/languoid/id/rock1234"
+    }
+  ],
+  "iso639-3": "bjy"
+}

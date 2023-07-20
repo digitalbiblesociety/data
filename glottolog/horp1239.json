@@ -1,0 +1,117 @@
+{
+  "pk": 15923,
+  "hid": "ero",
+  "father_pk": 13131,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dgebshes [dgeb1234]':1,('Eastern Geshiza [east2851]':1,'Western Geshiza [west2941]':1)'Geshiza [gesh1238]':1,'Phosul [phos1234]':1,'Rtau [daof1238]':1)'Stau-Dgebshes [horp1239][ero]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/640",
+        "label": "Horpa"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/8369",
+        "label": "Nyagrong Minyag"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Horpa_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56854",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "572711",
+        "long_grammar",
+        2019,
+        935,
+        "Sami Honkasalo 2019"
+      ],
+      [
+        "324777",
+        "long_grammar",
+        1998,
+        302,
+        "Duo'erji, {} 1998"
+      ],
+      [
+        "309201",
+        "grammar_sketch",
+        1983,
+        8,
+        "Sun, Hongkai 1983"
+      ],
+      [
+        "470383",
+        "wordlist_or_less",
+        1857,
+        31,
+        "Hodgson, B.H. 1857-8"
+      ],
+      [
+        "137872",
+        "wordlist_or_less",
+        1853,
+        7,
+        "Brian H. Hodgson 1853"
+      ]
+    ]
+  },
+  "id": "horp1239",
+  "name": "Stau-Dgebshes",
+  "description": null,
+  "markup_description": null,
+  "latitude": 31.1026,
+  "longitude": 101.72,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Burmo-Qiangic",
+      "id": "burm1265",
+      "url": "https://glottolog.org/resource/languoid/id/burm1265"
+    },
+    {
+      "name": "Na-Qiangic",
+      "id": "naqi1236",
+      "url": "https://glottolog.org/resource/languoid/id/naqi1236"
+    },
+    {
+      "name": "Qiangic",
+      "id": "qian1263",
+      "url": "https://glottolog.org/resource/languoid/id/qian1263"
+    },
+    {
+      "name": "Gyalrongic",
+      "id": "rgya1241",
+      "url": "https://glottolog.org/resource/languoid/id/rgya1241"
+    },
+    {
+      "name": "West Gyalrongic",
+      "id": "west2973",
+      "url": "https://glottolog.org/resource/languoid/id/west2973"
+    },
+    {
+      "name": "Horpa",
+      "id": "horp1240",
+      "url": "https://glottolog.org/resource/languoid/id/horp1240"
+    }
+  ],
+  "iso639-3": "ero"
+}

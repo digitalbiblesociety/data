@@ -1,0 +1,105 @@
+{
+  "pk": 13783,
+  "hid": "udi",
+  "father_pk": 10678,
+  "family_pk": 426,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Nidzh [nidz1238]':1,'Oghuz {Udi} [oghu1245]':1,'Oktomberi [okto1238]':1)'Udi [udii1243][udi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3011",
+        "label": "Udi"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_udi",
+        "label": "Udi"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Udi_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36867",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "114362",
+        "long_grammar",
+        1982,
+        332,
+        "Wolfgang Schulze 1982"
+      ],
+      [
+        "306012",
+        "grammar",
+        1974,
+        0,
+        "V. N. Pančvidze 1974"
+      ],
+      [
+        "63308",
+        "grammar_sketch",
+        1903,
+        112,
+        "Adolf Dirr 1903"
+      ],
+      [
+        "420257",
+        "grammar_sketch",
+        1863,
+        110,
+        "Anton Schiefner 1863"
+      ]
+    ]
+  },
+  "id": "udii1243",
+  "name": "Udi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 40.9,
+  "longitude": 47.7236,
+  "classification": [
+    {
+      "name": "Nakh-Daghestanian",
+      "id": "nakh1245",
+      "url": "https://glottolog.org/resource/languoid/id/nakh1245"
+    },
+    {
+      "name": "Daghestanian",
+      "id": "dagh1238",
+      "url": "https://glottolog.org/resource/languoid/id/dagh1238"
+    },
+    {
+      "name": "Lezgic",
+      "id": "lezg1248",
+      "url": "https://glottolog.org/resource/languoid/id/lezg1248"
+    },
+    {
+      "name": "Samur",
+      "id": "nucl1321",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1321"
+    },
+    {
+      "name": "Eastern Samur",
+      "id": "east2790",
+      "url": "https://glottolog.org/resource/languoid/id/east2790"
+    },
+    {
+      "name": "Udi-Aghwan",
+      "id": "udia1235",
+      "url": "https://glottolog.org/resource/languoid/id/udia1235"
+    }
+  ],
+  "iso639-3": "udi"
+}

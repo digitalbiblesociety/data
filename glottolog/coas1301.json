@@ -1,0 +1,76 @@
+{
+  "pk": 3897,
+  "hid": "csi",
+  "father_pk": 2191,
+  "family_pk": 128,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bodega [bode1246]':1,'Huimen [huim1238]':1,'Marin Miwok [mari1441]':1)'Coast Miwok [coas1301][csi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1693",
+        "label": "Coast Miwok"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2981109",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Coast_Miwok_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mkb",
+        "label": "Miwok (Bodega)"
+      }
+    ],
+    "meds": [
+      [
+        "308667",
+        "grammar_sketch",
+        1947,
+        16,
+        "Lucy S. Freeland 1947"
+      ],
+      [
+        "44155",
+        "wordlist_or_less",
+        1839,
+        14,
+        "von Wrangell, F. P. and Peter S. Kostromitinov 1839"
+      ]
+    ]
+  },
+  "id": "coas1301",
+  "name": "Coast Miwok",
+  "description": null,
+  "markup_description": null,
+  "latitude": 38.3285,
+  "longitude": -122.994,
+  "classification": [
+    {
+      "name": "Miwok-Costanoan",
+      "id": "miwo1274",
+      "url": "https://glottolog.org/resource/languoid/id/miwo1274"
+    },
+    {
+      "name": "Miwokan",
+      "id": "miwo1275",
+      "url": "https://glottolog.org/resource/languoid/id/miwo1275"
+    },
+    {
+      "name": "Western Miwokan",
+      "id": "west2633",
+      "url": "https://glottolog.org/resource/languoid/id/west2633"
+    }
+  ],
+  "iso639-3": "csi"
+}

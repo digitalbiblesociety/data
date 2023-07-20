@@ -1,0 +1,119 @@
+{
+  "pk": 10896,
+  "hid": "ukr",
+  "father_pk": 7998,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('East Ukrainian [east2270]':1,('Central Polesian [cent2398]':1,'Eastern Polesian [east2882]':1,'Western Polesian [west2977]':1)'Northwest Ukrainian [nort2599]':1,'Southwest Ukrainian [sout2604]':1)'Ukrainian [ukra1253][ukr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ukr",
+        "label": "Ukrainian"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ukrainian_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/ukra1253",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q8798",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "119060",
+        "long_grammar",
+        1992,
+        802,
+        "N. Pylypiuk 1992"
+      ],
+      [
+        "146555",
+        "long_grammar",
+        1982,
+        350,
+        "Struk, Danylo Husar 1982"
+      ],
+      [
+        "116651",
+        "grammar",
+        1963,
+        211,
+        "Medusevskij, A. P. and Zyatkovska, R. 1963"
+      ],
+      [
+        "79823",
+        "grammar",
+        1958,
+        0,
+        "Stechishin, J.W. 1958"
+      ],
+      [
+        "320409",
+        "grammar_sketch",
+        1596,
+        96,
+        "Zyzanij-Tustanovs'kyj, Lavrentij 1596"
+      ],
+      [
+        "319681",
+        "grammar_sketch",
+        1591,
+        0,
+        "Adelfóte:s, {} 1591"
+      ]
+    ]
+  },
+  "id": "ukra1253",
+  "name": "Ukrainian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 49.796,
+  "longitude": 29.945,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Balto-Slavic",
+      "id": "balt1263",
+      "url": "https://glottolog.org/resource/languoid/id/balt1263"
+    },
+    {
+      "name": "Slavic",
+      "id": "slav1255",
+      "url": "https://glottolog.org/resource/languoid/id/slav1255"
+    },
+    {
+      "name": "East Slavic",
+      "id": "east1426",
+      "url": "https://glottolog.org/resource/languoid/id/east1426"
+    },
+    {
+      "name": "Ukrainian-Rusyn",
+      "id": "ukra1257",
+      "url": "https://glottolog.org/resource/languoid/id/ukra1257"
+    }
+  ],
+  "iso639-3": "ukr"
+}

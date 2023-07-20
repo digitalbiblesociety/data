@@ -1,0 +1,105 @@
+{
+  "pk": 11303,
+  "hid": "nhb",
+  "father_pk": 8315,
+  "family_pk": 121,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Beng [beng1286][nhb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3913311",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Beng_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/beng1286",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bnq",
+        "label": "Beng"
+      }
+    ],
+    "meds": [
+      [
+        "431251",
+        "grammar_sketch",
+        2014,
+        130,
+        "Paperno, Denis 2014"
+      ],
+      [
+        "55572",
+        "grammar_sketch",
+        1995,
+        71,
+        "Gottlieb, Alma and Murphy, Lynne M. 1995"
+      ],
+      [
+        "121543",
+        "grammar_sketch",
+        1953,
+        21,
+        "Prost, André 1953"
+      ],
+      [
+        "30894",
+        "wordlist_or_less",
+        1921,
+        16,
+        "Tauxier, Louis 1921"
+      ]
+    ]
+  },
+  "id": "beng1286",
+  "name": "Beng",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.78122,
+  "longitude": -4.23539,
+  "classification": [
+    {
+      "name": "Mande",
+      "id": "mand1469",
+      "url": "https://glottolog.org/resource/languoid/id/mand1469"
+    },
+    {
+      "name": "Eastern Mande",
+      "id": "east2697",
+      "url": "https://glottolog.org/resource/languoid/id/east2697"
+    },
+    {
+      "name": "Southeastern Mande",
+      "id": "sout3140",
+      "url": "https://glottolog.org/resource/languoid/id/sout3140"
+    },
+    {
+      "name": "Nwa-Ben",
+      "id": "nwab1239",
+      "url": "https://glottolog.org/resource/languoid/id/nwab1239"
+    },
+    {
+      "name": "Ben-Gban",
+      "id": "beng1285",
+      "url": "https://glottolog.org/resource/languoid/id/beng1285"
+    },
+    {
+      "name": "Bengic",
+      "id": "beng1291",
+      "url": "https://glottolog.org/resource/languoid/id/beng1291"
+    }
+  ],
+  "iso639-3": "nhb"
+}

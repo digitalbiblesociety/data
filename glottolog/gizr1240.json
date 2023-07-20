@@ -1,0 +1,83 @@
+{
+  "pk": 1269,
+  "hid": "tof",
+  "father_pk": 250,
+  "family_pk": 250,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Waidoro [waid1239]':1,'Western Gizra [west2584]':1)'Gizrra [gizr1240][tof]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/7369",
+        "label": "Gizrra"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5565941",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Gizrra_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "658455",
+        "grammar_sketch",
+        2005,
+        0,
+        "Bodegraven, Elly Van and Bodegraven, Nico Van 2005"
+      ],
+      [
+        "126672",
+        "phonology_or_text",
+        2004,
+        11,
+        "Nico van Bodegraven and Elly van Bodegraven 2004"
+      ],
+      [
+        "133002",
+        "wordlist_or_less",
+        1976,
+        6,
+        "Fleischmann, Lillian and Turpeinen, Sinikka 1976"
+      ],
+      [
+        "81764",
+        "wordlist_or_less",
+        1923,
+        1,
+        "Sidney H. Ray 1923"
+      ],
+      [
+        "325183",
+        "wordlist_or_less",
+        1918,
+        1,
+        "A. P. Lyons 1918"
+      ]
+    ]
+  },
+  "id": "gizr1240",
+  "name": "Gizrra",
+  "description": null,
+  "markup_description": null,
+  "latitude": -9.183,
+  "longitude": 142.804,
+  "classification": [
+    {
+      "name": "Eastern Trans-Fly",
+      "id": "east2503",
+      "url": "https://glottolog.org/resource/languoid/id/east2503"
+    }
+  ],
+  "iso639-3": "tof"
+}

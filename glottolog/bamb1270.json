@@ -1,0 +1,94 @@
+{
+  "pk": 12294,
+  "hid": "ptu",
+  "father_pk": 9375,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bambam Hulu [bamb1271]':1,'Bumal [buma1246]':1,'Issilita'' [issi1237]':1,'Matangnga [mata1286]':1,'Mehalaan [meha1242]':1,'Pakkau [pakk1243]':1,'Salu Mokanam [salu1250]':1)'Bambam [bamb1270][ptu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bbm",
+        "label": "Bambam"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bambam_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q4853321",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "68369",
+        "grammar",
+        1989,
+        199,
+        "Philip J. Campbell 1989"
+      ],
+      [
+        "122191",
+        "wordlist_or_less",
+        1987,
+        3,
+        "Grimes, Charles E. and Grimes, Barbara D. 1987"
+      ],
+      [
+        "472783",
+        "wordlist_or_less",
+        1929,
+        4,
+        "van der Veen, Hendrik 1929"
+      ]
+    ]
+  },
+  "id": "bamb1270",
+  "name": "Bambam",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.02759,
+  "longitude": 119.201,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "South Sulawesi",
+      "id": "sout2923",
+      "url": "https://glottolog.org/resource/languoid/id/sout2923"
+    },
+    {
+      "name": "Northern South Sulawesi",
+      "id": "nort2894",
+      "url": "https://glottolog.org/resource/languoid/id/nort2894"
+    },
+    {
+      "name": "Pitu Ulunna Salu",
+      "id": "pitu1237",
+      "url": "https://glottolog.org/resource/languoid/id/pitu1237"
+    },
+    {
+      "name": "Matangnga-Aralle-Tabulahan",
+      "id": "mata1312",
+      "url": "https://glottolog.org/resource/languoid/id/mata1312"
+    }
+  ],
+  "iso639-3": "ptu"
+}

@@ -1,0 +1,78 @@
+{
+  "pk": 10230,
+  "hid": "sez",
+  "father_pk": 7355,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Senthang Chin [sent1260][sez]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7451223",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Senthang_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "551349",
+        "grammar_sketch",
+        2016,
+        103,
+        "Ngun Tin Par 2016"
+      ],
+      [
+        "139416",
+        "wordlist_or_less",
+        2001,
+        4,
+        "Khoi Lam Thang 2001"
+      ]
+    ]
+  },
+  "id": "sent1260",
+  "name": "Senthang Chin",
+  "description": null,
+  "markup_description": null,
+  "latitude": 21.8936,
+  "longitude": 93.8087,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Kuki-Chin",
+      "id": "kuki1246",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1246"
+    },
+    {
+      "name": "Central Kuki-Chin",
+      "id": "cent2330",
+      "url": "https://glottolog.org/resource/languoid/id/cent2330"
+    },
+    {
+      "name": "Maraic",
+      "id": "mara1381",
+      "url": "https://glottolog.org/resource/languoid/id/mara1381"
+    }
+  ],
+  "iso639-3": "sez"
+}

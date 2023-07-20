@@ -1,0 +1,89 @@
+{
+  "pk": 3519,
+  "hid": "zor",
+  "father_pk": 1880,
+  "family_pk": 3,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Rayón Zoque [rayo1235][zor]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12954015",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_zqr",
+        "label": "Zoque (Rayon)"
+      }
+    ],
+    "meds": [
+      [
+        "313123",
+        "grammar",
+        2012,
+        190,
+        "Faarlund, Jan Terje 2012"
+      ],
+      [
+        "317836",
+        "grammar",
+        1999,
+        174,
+        "González Alvarez, Wilfrido and Morales Gómez, Alejandra and Hernández Hernández, Adriana 1999"
+      ],
+      [
+        "42707",
+        "phonology_or_text",
+        1984,
+        127,
+        "Harrison, Roy and Harrison, Margaret 1984"
+      ],
+      [
+        "318605",
+        "phonology_or_text",
+        1982,
+        108,
+        "Cundapí Estrada, Porfirio 1982"
+      ],
+      [
+        "427047",
+        "wordlist_or_less",
+        1975,
+        290,
+        "Villa Rojas, Alfonso and Velasco Toro, José M. and Báez-Jorge, Félix and Córdoba, Francisco and Thomas, Norman Dwight 1975"
+      ]
+    ]
+  },
+  "id": "rayo1235",
+  "name": "Rayón Zoque",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.2953,
+  "longitude": -93.1006,
+  "classification": [
+    {
+      "name": "Mixe-Zoque",
+      "id": "mixe1284",
+      "url": "https://glottolog.org/resource/languoid/id/mixe1284"
+    },
+    {
+      "name": "Zoque",
+      "id": "zoqu1261",
+      "url": "https://glottolog.org/resource/languoid/id/zoqu1261"
+    },
+    {
+      "name": "Chiapas Zoque",
+      "id": "chia1261",
+      "url": "https://glottolog.org/resource/languoid/id/chia1261"
+    }
+  ],
+  "iso639-3": "zor"
+}

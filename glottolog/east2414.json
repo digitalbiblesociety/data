@@ -1,0 +1,78 @@
+{
+  "pk": 8114,
+  "hid": "kqo",
+  "father_pk": 5677,
+  "family_pk": 83,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Gorbo [gorb1238]':1,'Kanneh [kann1256]':1,'Konobo [kono1266]':1,'Tchien [tchi1246]':1)'Konobo-Eastern Krahn [east2414][kqo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3915374",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Konobo_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "22630",
+        "phonology_or_text",
+        1986,
+        11,
+        "Marchese, Lynell 1986"
+      ],
+      [
+        "124849",
+        "wordlist_or_less",
+        1964,
+        4,
+        "Dalby, David and Paul Edward Hedley Hair 1964"
+      ]
+    ]
+  },
+  "id": "east2414",
+  "name": "Konobo-Eastern Krahn",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.83555,
+  "longitude": -7.85454,
+  "classification": [
+    {
+      "name": "Kru",
+      "id": "krua1234",
+      "url": "https://glottolog.org/resource/languoid/id/krua1234"
+    },
+    {
+      "name": "Greater Western Kru",
+      "id": "grea1300",
+      "url": "https://glottolog.org/resource/languoid/id/grea1300"
+    },
+    {
+      "name": "Western Kru",
+      "id": "west2485",
+      "url": "https://glottolog.org/resource/languoid/id/west2485"
+    },
+    {
+      "name": "Wee-Bassa-Klao",
+      "id": "weeb1234",
+      "url": "https://glottolog.org/resource/languoid/id/weeb1234"
+    },
+    {
+      "name": "Wee",
+      "id": "weea1234",
+      "url": "https://glottolog.org/resource/languoid/id/weea1234"
+    }
+  ],
+  "iso639-3": "kqo"
+}

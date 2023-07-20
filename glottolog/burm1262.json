@@ -1,0 +1,102 @@
+{
+  "pk": 10378,
+  "hid": "pyx",
+  "father_pk": 7410,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Burma Pyu [burm1262][pyx]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "pyx",
+      "comment_type": "missing",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "Pyu, an extinct Sino-Tibetan language (possibly of the Sak subgroup) known from inscriptions, is missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 (**hh:w:Beckwith:Pyu**, **hh:hv:Beckwith:Pyu-Tibetan**, **hh:e:Luce:Pyu**)."
+    },
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Pyu_language_(Sino-Tibetan)",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36259",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "95905",
+        "wordlist_or_less",
+        2002,
+        3,
+        "Beckwith, Christopher I. 2002"
+      ],
+      [
+        "568916",
+        "wordlist_or_less",
+        1939,
+        5,
+        "Robert Shafer and Paul K. Benedict 1939"
+      ],
+      [
+        "319939",
+        "wordlist_or_less",
+        1937,
+        15,
+        "Luce, Gordon H. 1937"
+      ]
+    ]
+  },
+  "id": "burm1262",
+  "name": "Burma Pyu",
+  "description": null,
+  "markup_description": null,
+  "latitude": 21.31928,
+  "longitude": 95.897864,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Brahmaputran",
+      "id": "brah1260",
+      "url": "https://glottolog.org/resource/languoid/id/brah1260"
+    },
+    {
+      "name": "Jingpho-Luish",
+      "id": "jing1259",
+      "url": "https://glottolog.org/resource/languoid/id/jing1259"
+    },
+    {
+      "name": "Luish",
+      "id": "sakk1239",
+      "url": "https://glottolog.org/resource/languoid/id/sakk1239"
+    },
+    {
+      "name": "Unclassified Luish",
+      "id": "uncl1508",
+      "url": "https://glottolog.org/resource/languoid/id/uncl1508"
+    }
+  ],
+  "iso639-3": "pyx"
+}

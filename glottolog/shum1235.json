@@ -1,0 +1,80 @@
+{
+  "pk": 10858,
+  "hid": "sts",
+  "father_pk": 7972,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Shumashti [shum1235][sts]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5425",
+        "label": "Shumashti"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33777",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Shumashti_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "45148",
+        "grammar_sketch",
+        1945,
+        43,
+        "Georg Morgenstierne 1945"
+      ]
+    ]
+  },
+  "id": "shum1235",
+  "name": "Shumashti",
+  "description": null,
+  "markup_description": null,
+  "latitude": 34.73008,
+  "longitude": 70.782866,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Indo-Aryan",
+      "id": "indo1321",
+      "url": "https://glottolog.org/resource/languoid/id/indo1321"
+    },
+    {
+      "name": "Gawarbatic",
+      "id": "gawa1246",
+      "url": "https://glottolog.org/resource/languoid/id/gawa1246"
+    },
+    {
+      "name": "Shumashtic",
+      "id": "shum1244",
+      "url": "https://glottolog.org/resource/languoid/id/shum1244"
+    }
+  ],
+  "iso639-3": "sts"
+}

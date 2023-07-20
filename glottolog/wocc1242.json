@@ -1,0 +1,70 @@
+{
+  "pk": 2478,
+  "hid": "xwc",
+  "father_pk": 1189,
+  "family_pk": 201,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Woccon [wocc1242][xwc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3569569",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Woccon_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "47363",
+        "wordlist_or_less",
+        1980,
+        13,
+        "R. T. Carter 1980"
+      ],
+      [
+        "33801",
+        "wordlist_or_less",
+        1816,
+        10,
+        "Johann Christoph Adelung and Johann Severin Vater 1816"
+      ],
+      [
+        "565797",
+        "wordlist_or_less",
+        1709,
+        0,
+        "Lawson, John 1709"
+      ]
+    ]
+  },
+  "id": "wocc1242",
+  "name": "Woccon",
+  "description": null,
+  "markup_description": null,
+  "latitude": 35.379075,
+  "longitude": -77.985987,
+  "classification": [
+    {
+      "name": "Siouan",
+      "id": "siou1252",
+      "url": "https://glottolog.org/resource/languoid/id/siou1252"
+    },
+    {
+      "name": "Catawban",
+      "id": "cata1285",
+      "url": "https://glottolog.org/resource/languoid/id/cata1285"
+    }
+  ],
+  "iso639-3": "xwc"
+}

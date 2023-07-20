@@ -1,0 +1,92 @@
+{
+  "pk": 14337,
+  "hid": "msv",
+  "father_pk": 11264,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Nuclear Maslam [nucl1689]':1,'Sao [saoo1238]':1)'Maslam [masl1241][msv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2306",
+        "label": "Maslam"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3502273",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Maslam_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "303043",
+        "wordlist_or_less",
+        1987,
+        4,
+        "Daniel Barreteau 1987"
+      ],
+      [
+        "105830",
+        "wordlist_or_less",
+        1959,
+        3,
+        "Lebeuf, Annie M.-D. 1959"
+      ]
+    ]
+  },
+  "id": "masl1241",
+  "name": "Maslam",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.1918,
+  "longitude": 14.8873,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "Biu-Mandara",
+      "id": "bium1280",
+      "url": "https://glottolog.org/resource/languoid/id/bium1280"
+    },
+    {
+      "name": "North Biu-Mandara",
+      "id": "nort3156",
+      "url": "https://glottolog.org/resource/languoid/id/nort3156"
+    },
+    {
+      "name": "Kotoko-Buduma",
+      "id": "koto1267",
+      "url": "https://glottolog.org/resource/languoid/id/koto1267"
+    },
+    {
+      "name": "Kotoko Septentrional",
+      "id": "koto1265",
+      "url": "https://glottolog.org/resource/languoid/id/koto1265"
+    },
+    {
+      "name": "Kotoko Septentrional 1",
+      "id": "koto1268",
+      "url": "https://glottolog.org/resource/languoid/id/koto1268"
+    }
+  ],
+  "iso639-3": "msv"
+}

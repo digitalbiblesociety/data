@@ -1,0 +1,84 @@
+{
+  "pk": 7537,
+  "hid": "miw",
+  "father_pk": 5215,
+  "family_pk": 385,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Akoye [akoy1238][miw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4663",
+        "label": "Akoye"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3327462",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Akoye_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "315111",
+        "grammar",
+        1991,
+        164,
+        "Henry Whitney and Virginia Whitney 1991"
+      ],
+      [
+        "140544",
+        "phonology_or_text",
+        1973,
+        3,
+        "Lloyd, Richard G. 1973"
+      ],
+      [
+        "321925",
+        "wordlist_or_less",
+        1918,
+        1,
+        "E. C. Skelly 1918"
+      ]
+    ]
+  },
+  "id": "akoy1238",
+  "name": "Akoye",
+  "description": null,
+  "markup_description": null,
+  "latitude": -7.66067,
+  "longitude": 145.669,
+  "classification": [
+    {
+      "name": "Angan",
+      "id": "anga1289",
+      "url": "https://glottolog.org/resource/languoid/id/anga1289"
+    },
+    {
+      "name": "Nuclear Angan",
+      "id": "nucl1763",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1763"
+    },
+    {
+      "name": "Ankave-Tainae-Akoye",
+      "id": "sout3130",
+      "url": "https://glottolog.org/resource/languoid/id/sout3130"
+    },
+    {
+      "name": "Tainae-Akoye",
+      "id": "tain1255",
+      "url": "https://glottolog.org/resource/languoid/id/tain1255"
+    }
+  ],
+  "iso639-3": "miw"
+}

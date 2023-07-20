@@ -1,0 +1,80 @@
+{
+  "pk": 13571,
+  "hid": "mha",
+  "father_pk": 10489,
+  "family_pk": 404,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Manda {India} [mand1413][mha]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4653",
+        "label": "Manda (India)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56760",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Manda_language_(India)",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "142494",
+        "grammar_sketch",
+        1976,
+        18,
+        "Thomas Burrow 1976"
+      ]
+    ]
+  },
+  "id": "mand1413",
+  "name": "Manda (India)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 20.0962,
+  "longitude": 83.6749,
+  "classification": [
+    {
+      "name": "Dravidian",
+      "id": "drav1251",
+      "url": "https://glottolog.org/resource/languoid/id/drav1251"
+    },
+    {
+      "name": "South Dravidian",
+      "id": "sout3133",
+      "url": "https://glottolog.org/resource/languoid/id/sout3133"
+    },
+    {
+      "name": "South Dravidian II",
+      "id": "sout3139",
+      "url": "https://glottolog.org/resource/languoid/id/sout3139"
+    },
+    {
+      "name": "Konda-Kui",
+      "id": "kond1294",
+      "url": "https://glottolog.org/resource/languoid/id/kond1294"
+    },
+    {
+      "name": "Manda-Kui",
+      "id": "mand1411",
+      "url": "https://glottolog.org/resource/languoid/id/mand1411"
+    },
+    {
+      "name": "Manda-Pengo",
+      "id": "mand1412",
+      "url": "https://glottolog.org/resource/languoid/id/mand1412"
+    }
+  ],
+  "iso639-3": "mha"
+}

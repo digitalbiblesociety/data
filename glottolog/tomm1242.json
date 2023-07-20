@@ -1,0 +1,84 @@
+{
+  "pk": 2158,
+  "hid": "dto",
+  "father_pk": 987,
+  "family_pk": 117,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tommo So Dogon [tomm1242][dto]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tms",
+        "label": "Tommo So"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q47012992",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "317790",
+        "long_grammar",
+        2013,
+        648,
+        "Laura McPherson 2013"
+      ],
+      [
+        "301752",
+        "long_grammar",
+        2011,
+        619,
+        "Laura McPherson 2011"
+      ],
+      [
+        "122059",
+        "grammar_sketch",
+        1995,
+        47,
+        "Plungian, Vladimir 1995"
+      ],
+      [
+        "118151",
+        "phonology_or_text",
+        1987,
+        0,
+        "Timbiné, Amadou 1987"
+      ],
+      [
+        "70852",
+        "wordlist_or_less",
+        1953,
+        2,
+        "Bertho, J. 1953"
+      ]
+    ]
+  },
+  "id": "tomm1242",
+  "name": "Tommo So Dogon",
+  "description": null,
+  "markup_description": null,
+  "latitude": 14.756,
+  "longitude": -3.28,
+  "classification": [
+    {
+      "name": "Dogon",
+      "id": "dogo1299",
+      "url": "https://glottolog.org/resource/languoid/id/dogo1299"
+    },
+    {
+      "name": "Escarpment Dogon",
+      "id": "esca1235",
+      "url": "https://glottolog.org/resource/languoid/id/esca1235"
+    }
+  ],
+  "iso639-3": "dto"
+}

@@ -1,0 +1,88 @@
+{
+  "pk": 3216,
+  "hid": "enx",
+  "father_pk": 1668,
+  "family_pk": 334,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Enxet Sur [sout2989][enx]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5166",
+        "label": "Enxet Sur"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Enxet_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q15462609",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "586955",
+        "long_grammar",
+        2021,
+        818,
+        "John A. Elliott 2021"
+      ],
+      [
+        "584840",
+        "grammar_sketch",
+        1929,
+        128,
+        "Powys, E. L. G. 1929"
+      ],
+      [
+        "117729",
+        "grammar_sketch",
+        1922,
+        31,
+        "Coryn, Alfredo 1922"
+      ],
+      [
+        "162219",
+        "wordlist_or_less",
+        1914,
+        17,
+        "Grubb, Wilfred Barbrooke 1914"
+      ],
+      [
+        "105857",
+        "wordlist_or_less",
+        1901,
+        10,
+        "Seymour H. C. Hawtrey 1901"
+      ]
+    ]
+  },
+  "id": "sout2989",
+  "name": "Enxet Sur",
+  "description": null,
+  "markup_description": null,
+  "latitude": -23.427556,
+  "longitude": -57.945626,
+  "classification": [
+    {
+      "name": "Lengua-Mascoy",
+      "id": "leng1261",
+      "url": "https://glottolog.org/resource/languoid/id/leng1261"
+    },
+    {
+      "name": "Lengua",
+      "id": "leng1262",
+      "url": "https://glottolog.org/resource/languoid/id/leng1262"
+    }
+  ],
+  "iso639-3": "enx"
+}

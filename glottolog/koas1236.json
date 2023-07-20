@@ -1,0 +1,89 @@
+{
+  "pk": 3390,
+  "hid": "cku",
+  "father_pk": 1811,
+  "family_pk": 388,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Koasati [koas1236][cku]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/843",
+        "label": "Koasati"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_koa",
+        "label": "Koasati"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Koasati_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/koas1236",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35162",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "78659",
+        "long_grammar",
+        1991,
+        666,
+        "Geoffrey D. Kimball 1991"
+      ],
+      [
+        "97103",
+        "long_grammar",
+        1985,
+        571,
+        "Kimball, Geoffrey David 1985"
+      ],
+      [
+        "68661",
+        "grammar_sketch",
+        1952,
+        344,
+        "Kyzer, Willye Maye 1952"
+      ],
+      [
+        "152988",
+        "wordlist_or_less",
+        1944,
+        8,
+        "Haas, Mary R. 1944"
+      ]
+    ]
+  },
+  "id": "koas1236",
+  "name": "Koasati",
+  "description": null,
+  "markup_description": null,
+  "latitude": 30.4096,
+  "longitude": -92.709,
+  "classification": [
+    {
+      "name": "Muskogean",
+      "id": "musk1252",
+      "url": "https://glottolog.org/resource/languoid/id/musk1252"
+    },
+    {
+      "name": "Alabaman-Koasati",
+      "id": "alab1247",
+      "url": "https://glottolog.org/resource/languoid/id/alab1247"
+    }
+  ],
+  "iso639-3": "cku"
+}

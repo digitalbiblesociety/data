@@ -1,0 +1,91 @@
+{
+  "pk": 7640,
+  "hid": "tef",
+  "father_pk": 5299,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bompoka [bomp1241]':1)'Teressa [tere1272][tef]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5098",
+        "label": "Teressa"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3518362",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Teressa_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "656663",
+        "phonology_or_text",
+        2020,
+        138,
+        "Abbi, Anvita and R. Vysakh 2020"
+      ],
+      [
+        "578383",
+        "phonology_or_text",
+        2019,
+        50,
+        "R. Vysakh 2019"
+      ],
+      [
+        "111601",
+        "wordlist_or_less",
+        1875,
+        17,
+        "de Röepstorff, Ad. 1875"
+      ],
+      [
+        "54846",
+        "wordlist_or_less",
+        1862,
+        1,
+        "Latham, Robert Gordon 1862"
+      ]
+    ]
+  },
+  "id": "tere1272",
+  "name": "Teressa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 8.23716,
+  "longitude": 93.1297,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Nicobaric",
+      "id": "nico1262",
+      "url": "https://glottolog.org/resource/languoid/id/nico1262"
+    },
+    {
+      "name": "Nuclear Nicobaric",
+      "id": "nucl1758",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1758"
+    },
+    {
+      "name": "Chowra-Teressa",
+      "id": "chow1240",
+      "url": "https://glottolog.org/resource/languoid/id/chow1240"
+    }
+  ],
+  "iso639-3": "tef"
+}

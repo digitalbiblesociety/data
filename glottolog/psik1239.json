@@ -1,0 +1,78 @@
+{
+  "pk": 8301,
+  "hid": "kvj",
+  "father_pk": 5807,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Nuclear Psikye [nucl1685]':1,'Wula [wula1250]':1,'Zlenge [zlen1238]':1)'Psikye [psik1239][kvj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56304",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Psiky%C9%9B_dialect",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "158107",
+        "grammar",
+        1969,
+        180,
+        "Smith, David Martin 1969"
+      ],
+      [
+        "312368",
+        "wordlist_or_less",
+        1922,
+        2,
+        "Strümpell, F. 1922-1923"
+      ]
+    ]
+  },
+  "id": "psik1239",
+  "name": "Psikye",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.677,
+  "longitude": 13.569,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "Biu-Mandara",
+      "id": "bium1280",
+      "url": "https://glottolog.org/resource/languoid/id/bium1280"
+    },
+    {
+      "name": "North Biu-Mandara",
+      "id": "nort3156",
+      "url": "https://glottolog.org/resource/languoid/id/nort3156"
+    },
+    {
+      "name": "Higic",
+      "id": "higi1241",
+      "url": "https://glottolog.org/resource/languoid/id/higi1241"
+    }
+  ],
+  "iso639-3": "kvj"
+}

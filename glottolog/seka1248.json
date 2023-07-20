@@ -1,0 +1,90 @@
+{
+  "pk": 12061,
+  "hid": "skp",
+  "father_pk": 9206,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Sekapan [seka1248][skp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7447132",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sekapan_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "552252",
+        "wordlist_or_less",
+        2017,
+        5,
+        "Smith, Alexander 2017"
+      ],
+      [
+        "104448",
+        "wordlist_or_less",
+        1955,
+        1,
+        "A. N. Urquhart 1955"
+      ],
+      [
+        "159859",
+        "wordlist_or_less",
+        1935,
+        1,
+        "E. Banks 1935"
+      ]
+    ]
+  },
+  "id": "seka1248",
+  "name": "Sekapan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 2.47567,
+  "longitude": 113.562,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "North Borneo Malayo-Polynesian",
+      "id": "nort3253",
+      "url": "https://glottolog.org/resource/languoid/id/nort3253"
+    },
+    {
+      "name": "Central Sarawak",
+      "id": "sara1342",
+      "url": "https://glottolog.org/resource/languoid/id/sara1342"
+    },
+    {
+      "name": "Melanau-Kajang",
+      "id": "mela1262",
+      "url": "https://glottolog.org/resource/languoid/id/mela1262"
+    },
+    {
+      "name": "Kajang",
+      "id": "kaja1255",
+      "url": "https://glottolog.org/resource/languoid/id/kaja1255"
+    }
+  ],
+  "iso639-3": "skp"
+}

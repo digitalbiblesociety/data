@@ -1,0 +1,94 @@
+{
+  "pk": 13133,
+  "hid": "jiq",
+  "father_pk": 10100,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ere {China} [eree1240]':1,'Ergali [erga1238]':1,'Guanyingqiao [guan1252]':1,'Muerzong [muer1238]':1,'Siyaowu [siya1242]':1,'Taiyanghe [taiy1241]':1,'Xiaoyili [xiao1245]':1,'Yelong [yelo1242]':1)'Khroskyabs [guan1266][jiq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 8,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10979",
+        "label": "Khroskyabs"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Khroskyabs_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3118757",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "550188",
+        "long_grammar",
+        2017,
+        835,
+        "Lai, Yunfan 2017"
+      ],
+      [
+        "323222",
+        "long_grammar",
+        2007,
+        395,
+        "Yin, Weibin 2007"
+      ],
+      [
+        "317828",
+        "grammar_sketch",
+        1993,
+        392,
+        "Lín, Xiàngróng 1993"
+      ]
+    ]
+  },
+  "id": "guan1266",
+  "name": "Khroskyabs",
+  "description": null,
+  "markup_description": null,
+  "latitude": 31.5655,
+  "longitude": 101.928,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Burmo-Qiangic",
+      "id": "burm1265",
+      "url": "https://glottolog.org/resource/languoid/id/burm1265"
+    },
+    {
+      "name": "Na-Qiangic",
+      "id": "naqi1236",
+      "url": "https://glottolog.org/resource/languoid/id/naqi1236"
+    },
+    {
+      "name": "Qiangic",
+      "id": "qian1263",
+      "url": "https://glottolog.org/resource/languoid/id/qian1263"
+    },
+    {
+      "name": "Gyalrongic",
+      "id": "rgya1241",
+      "url": "https://glottolog.org/resource/languoid/id/rgya1241"
+    },
+    {
+      "name": "West Gyalrongic",
+      "id": "west2973",
+      "url": "https://glottolog.org/resource/languoid/id/west2973"
+    }
+  ],
+  "iso639-3": "jiq"
+}

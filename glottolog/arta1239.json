@@ -1,0 +1,86 @@
+{
+  "pk": 4647,
+  "hid": "atz",
+  "father_pk": 2959,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Arta [arta1239][atz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2834",
+        "label": "Arta"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3508067",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Arta_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "573466",
+        "long_grammar",
+        2017,
+        512,
+        "Yukinori Kimoto 2017"
+      ],
+      [
+        "665682",
+        "grammar",
+        2014,
+        12,
+        "木本幸憲, Yukinori Kimoto 2014"
+      ],
+      [
+        "573467",
+        "phonology_or_text",
+        2013,
+        26,
+        "Yukinori Kimoto 2013"
+      ],
+      [
+        "93512",
+        "wordlist_or_less",
+        1989,
+        14,
+        "Lawrence A. Reid 1989"
+      ]
+    ]
+  },
+  "id": "arta1239",
+  "name": "Arta",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.4185,
+  "longitude": 121.656,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Northern Luzon",
+      "id": "nort3238",
+      "url": "https://glottolog.org/resource/languoid/id/nort3238"
+    }
+  ],
+  "iso639-3": "atz"
+}

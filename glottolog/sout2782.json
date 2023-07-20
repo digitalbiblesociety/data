@@ -1,0 +1,83 @@
+{
+  "pk": 7123,
+  "hid": "fal",
+  "father_pk": 4881,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bele [bele1248]':1,'Fali-Tinguelin [fali1264]':1,'Kangou [kang1284]':1)'South Fali [sout2782][fal]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q15637351",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "323293",
+        "long_grammar",
+        2014,
+        344,
+        "Kramer, Raija 2014"
+      ],
+      [
+        "53670",
+        "grammar_sketch",
+        1971,
+        136,
+        "Juergen Ennulat and Helene Ennulat 1971"
+      ],
+      [
+        "19688",
+        "wordlist_or_less",
+        1912,
+        6,
+        "Benton, Philip A. 1912"
+      ],
+      [
+        "128741",
+        "wordlist_or_less",
+        1910,
+        1,
+        "Strümpell, F. 1910"
+      ]
+    ]
+  },
+  "id": "sout2782",
+  "name": "South Fali",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.51408,
+  "longitude": 13.6164,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Unclassified Volta-Congo",
+      "id": "unun9902",
+      "url": "https://glottolog.org/resource/languoid/id/unun9902"
+    },
+    {
+      "name": "Adamawa Fali",
+      "id": "adam1254",
+      "url": "https://glottolog.org/resource/languoid/id/adam1254"
+    }
+  ],
+  "iso639-3": "fal"
+}

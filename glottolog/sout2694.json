@@ -1,0 +1,109 @@
+{
+  "pk": 5425,
+  "hid": "alt",
+  "father_pk": 3557,
+  "family_pk": 14,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Altai-Kizi [alta1277]':1,'Telengit [tala1279]':1,'Teleut [tele1257]':1)'Southern Altai [sout2694][alt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_aso",
+        "label": "Altai (Southern)"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/3044",
+        "label": "Southern Altai"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Southern_Altai_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q1991779",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "10765",
+        "long_grammar",
+        1940,
+        302,
+        "Dyrenkova, N. P. 1940"
+      ],
+      [
+        "573257",
+        "grammar_sketch",
+        1926,
+        62,
+        "Kanaev, M. S. 1926"
+      ],
+      [
+        "635462",
+        "grammar_sketch",
+        1869,
+        0,
+        "Altajskaya Missiya 1869"
+      ],
+      [
+        "568848",
+        "grammar_sketch",
+        1866,
+        0,
+        "B. Ya. Bedyurov 2005 [1866]"
+      ],
+      [
+        "54846",
+        "wordlist_or_less",
+        1862,
+        1,
+        "Latham, Robert Gordon 1862"
+      ],
+      [
+        "34023",
+        "wordlist_or_less",
+        1806,
+        32,
+        "Johann Christoph Adelung 1806"
+      ]
+    ]
+  },
+  "id": "sout2694",
+  "name": "Southern Altai",
+  "description": null,
+  "markup_description": null,
+  "latitude": 50.1347,
+  "longitude": 86.8705,
+  "classification": [
+    {
+      "name": "Turkic",
+      "id": "turk1311",
+      "url": "https://glottolog.org/resource/languoid/id/turk1311"
+    },
+    {
+      "name": "Common Turkic",
+      "id": "comm1245",
+      "url": "https://glottolog.org/resource/languoid/id/comm1245"
+    },
+    {
+      "name": "Kipchak",
+      "id": "kipc1239",
+      "url": "https://glottolog.org/resource/languoid/id/kipc1239"
+    },
+    {
+      "name": "East Kipchak",
+      "id": "east2791",
+      "url": "https://glottolog.org/resource/languoid/id/east2791"
+    }
+  ],
+  "iso639-3": "alt"
+}

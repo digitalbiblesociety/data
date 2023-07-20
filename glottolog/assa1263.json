@@ -1,0 +1,151 @@
+{
+  "pk": 22279,
+  "hid": "asm",
+  "father_pk": 20572,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Jharwa [jhar1240]':1,'Mayang [maya1277]':1,'Standard Assamese [stan1302]':1,'Western Assamese [west2383]':1)'Assamese [assa1263][asm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ass",
+        "label": "Assamese"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Assamese_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/assa1263",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q29401",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "23317",
+        "long_grammar",
+        1980,
+        1068,
+        "P. N. Dutta Baruah 1980"
+      ],
+      [
+        "587856",
+        "long_grammar",
+        1973,
+        366,
+        "Kakati, Banamali 1973"
+      ],
+      [
+        "15182",
+        "long_grammar",
+        1970,
+        326,
+        "Upendranath Goswami 1970"
+      ],
+      [
+        "549095",
+        "grammar",
+        1958,
+        267,
+        "Goswami, Upendra Nath 1958"
+      ],
+      [
+        "86566",
+        "grammar_sketch",
+        1848,
+        106,
+        "Nathan Brown 1848"
+      ],
+      [
+        "581620",
+        "grammar_sketch",
+        1839,
+        80,
+        "Robinson, William 1839"
+      ],
+      [
+        "115954",
+        "wordlist_or_less",
+        1837,
+        1,
+        "Brown, Nathan 1837"
+      ]
+    ]
+  },
+  "id": "assa1263",
+  "name": "Assamese",
+  "description": null,
+  "markup_description": null,
+  "latitude": 26.0876,
+  "longitude": 91.2932,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Indo-Aryan",
+      "id": "indo1321",
+      "url": "https://glottolog.org/resource/languoid/id/indo1321"
+    },
+    {
+      "name": "Middle-Modern Indo-Aryan",
+      "id": "midd1375",
+      "url": "https://glottolog.org/resource/languoid/id/midd1375"
+    },
+    {
+      "name": "Continental Indo-Aryan",
+      "id": "cont1248",
+      "url": "https://glottolog.org/resource/languoid/id/cont1248"
+    },
+    {
+      "name": "Indo-Aryan Eastern zone",
+      "id": "indo1323",
+      "url": "https://glottolog.org/resource/languoid/id/indo1323"
+    },
+    {
+      "name": "Oriya-Gauda-Kamrupa",
+      "id": "oriy1254",
+      "url": "https://glottolog.org/resource/languoid/id/oriy1254"
+    },
+    {
+      "name": "Gauda-Kamrupa",
+      "id": "gaud1237",
+      "url": "https://glottolog.org/resource/languoid/id/gaud1237"
+    },
+    {
+      "name": "Kamrupa",
+      "id": "kamt1240",
+      "url": "https://glottolog.org/resource/languoid/id/kamt1240"
+    },
+    {
+      "name": "Eastern Kamrupa",
+      "id": "assa1262",
+      "url": "https://glottolog.org/resource/languoid/id/assa1262"
+    }
+  ],
+  "iso639-3": "asm"
+}

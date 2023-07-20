@@ -1,0 +1,85 @@
+{
+  "pk": 2616,
+  "hid": "peb",
+  "father_pk": 1209,
+  "family_pk": 214,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Eastern Pomo [east2545][peb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/863",
+        "label": "Eastern Pomo"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3396032",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Eastern_Pomo_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_pme",
+        "label": "Pomo (Eastern)"
+      }
+    ],
+    "meds": [
+      [
+        "135567",
+        "grammar",
+        1975,
+        210,
+        "Sally McLendon 1975"
+      ],
+      [
+        "573720",
+        "grammar",
+        1953,
+        0,
+        "Kroeber, A. L. 1953"
+      ],
+      [
+        "577597",
+        "grammar_sketch",
+        1943,
+        12,
+        "Stewart, Omer C. 1943"
+      ],
+      [
+        "157804",
+        "wordlist_or_less",
+        1908,
+        16,
+        "Barrett, Samuel A. 1908"
+      ]
+    ]
+  },
+  "id": "east2545",
+  "name": "Eastern Pomo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 38.5647,
+  "longitude": -122.586,
+  "classification": [
+    {
+      "name": "Pomoan",
+      "id": "pomo1273",
+      "url": "https://glottolog.org/resource/languoid/id/pomo1273"
+    },
+    {
+      "name": "Russian River and Eastern",
+      "id": "russ1265",
+      "url": "https://glottolog.org/resource/languoid/id/russ1265"
+    }
+  ],
+  "iso639-3": "peb"
+}

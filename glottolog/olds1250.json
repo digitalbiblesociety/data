@@ -1,0 +1,95 @@
+{
+  "pk": 14015,
+  "hid": "osx",
+  "father_pk": 10927,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Old Saxon [olds1250][osx]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Old_Saxon",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35219",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "314509",
+        "long_grammar",
+        1992,
+        459,
+        "Rauch, Irmengard 1992"
+      ],
+      [
+        "129278",
+        "long_grammar",
+        1910,
+        358,
+        "Johan Hendrik Gallée 1910"
+      ],
+      [
+        "553177",
+        "grammar_sketch",
+        1897,
+        407,
+        "Behaghel, Otto 1897"
+      ]
+    ]
+  },
+  "id": "olds1250",
+  "name": "Old Saxon",
+  "description": null,
+  "markup_description": null,
+  "latitude": 52.37,
+  "longitude": 9.72,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Germanic",
+      "id": "germ1287",
+      "url": "https://glottolog.org/resource/languoid/id/germ1287"
+    },
+    {
+      "name": "Northwest Germanic",
+      "id": "nort3152",
+      "url": "https://glottolog.org/resource/languoid/id/nort3152"
+    },
+    {
+      "name": "West Germanic",
+      "id": "west2793",
+      "url": "https://glottolog.org/resource/languoid/id/west2793"
+    },
+    {
+      "name": "North Sea Germanic",
+      "id": "nort3175",
+      "url": "https://glottolog.org/resource/languoid/id/nort3175"
+    },
+    {
+      "name": "Altsächsisch",
+      "id": "alts1234",
+      "url": "https://glottolog.org/resource/languoid/id/alts1234"
+    }
+  ],
+  "iso639-3": "osx"
+}

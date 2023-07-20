@@ -1,0 +1,93 @@
+{
+  "pk": 2315,
+  "hid": "yia",
+  "father_pk": 1066,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Northern Inggarda [nort2755]':1,'Southern Inggarda [sout2764]':1)'Yinggarda [ying1247][yia]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3198",
+        "label": "Yingkarta"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/w19",
+        "label": "Yingkarta"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yinggarda_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/ying1247",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_yng",
+        "label": "Yingkarta"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3913777",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "668316",
+        "grammar",
+        1996,
+        0,
+        "Thieberger, Nicholas 1996"
+      ],
+      [
+        "26718",
+        "grammar_sketch",
+        1985,
+        0,
+        "Alan Dench 1985"
+      ],
+      [
+        "1317",
+        "phonology_or_text",
+        1978,
+        0,
+        "Scheffler, H. W. 1978"
+      ],
+      [
+        "105409",
+        "wordlist_or_less",
+        1886,
+        4,
+        "Gifford, Edric F. 1886"
+      ]
+    ]
+  },
+  "id": "ying1247",
+  "name": "Yinggarda",
+  "description": null,
+  "markup_description": null,
+  "latitude": -25.4446,
+  "longitude": 115.58,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "South-West Pama-Nyungan",
+      "id": "sout3134",
+      "url": "https://glottolog.org/resource/languoid/id/sout3134"
+    }
+  ],
+  "iso639-3": "yia"
+}

@@ -1,0 +1,93 @@
+{
+  "pk": 2303,
+  "hid": "kky",
+  "father_pk": 1061,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Guugu Yimidhirr [gugu1255][kky]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/y82",
+        "label": "GUUGU YIMITHIRR"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_guu",
+        "label": "Guugu Yimidhirr"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/5825",
+        "label": "Guugu-Yimidhirr"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Guugu_Yimithirr_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/gugu1255",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56543",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "149751",
+        "grammar",
+        1969,
+        168,
+        "Jan Daniel de Zwaan 1969"
+      ],
+      [
+        "6720",
+        "grammar_sketch",
+        1967,
+        239,
+        "Zwaan, Jan Daniel de 1967"
+      ],
+      [
+        "1043",
+        "grammar_sketch",
+        1901,
+        35,
+        "Roth, Walter Edmund 1901"
+      ],
+      [
+        "63100",
+        "wordlist_or_less",
+        1886,
+        2,
+        "Cook, James and King, P. P. 1886"
+      ]
+    ]
+  },
+  "id": "gugu1255",
+  "name": "Guugu Yimidhirr",
+  "description": null,
+  "markup_description": null,
+  "latitude": -14.9424,
+  "longitude": 144.831,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Yimidhirr-Yalanji-Yidinic",
+      "id": "yimi1234",
+      "url": "https://glottolog.org/resource/languoid/id/yimi1234"
+    }
+  ],
+  "iso639-3": "kky"
+}

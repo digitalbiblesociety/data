@@ -1,0 +1,108 @@
+{
+  "pk": 3535,
+  "hid": "rma",
+  "father_pk": 1890,
+  "family_pk": 10,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Rama [rama1270][rma]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5339",
+        "label": "Rama"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3444486",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Rama_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/rama1270",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ram",
+        "label": "Rama"
+      }
+    ],
+    "meds": [
+      [
+        "157433",
+        "grammar",
+        1990,
+        140,
+        "Colette G. Grinevald 1990"
+      ],
+      [
+        "107208",
+        "grammar",
+        1988,
+        0,
+        "Grinevald, Colette G. 1988"
+      ],
+      [
+        "101481",
+        "grammar",
+        1987,
+        0,
+        "CIDCA 1987"
+      ],
+      [
+        "159599",
+        "grammar_sketch",
+        1914,
+        124,
+        "Lehmann, Walter. 1914"
+      ],
+      [
+        "146638",
+        "grammar_sketch",
+        1909,
+        0,
+        "Lehmann, Walter. 1909"
+      ],
+      [
+        "150067",
+        "wordlist_or_less",
+        1891,
+        2,
+        "Daniel G. Brinton 1891"
+      ]
+    ]
+  },
+  "id": "rama1270",
+  "name": "Rama",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.5007,
+  "longitude": -83.8571,
+  "classification": [
+    {
+      "name": "Chibchan",
+      "id": "chib1249",
+      "url": "https://glottolog.org/resource/languoid/id/chib1249"
+    },
+    {
+      "name": "Core Chibchan",
+      "id": "core1252",
+      "url": "https://glottolog.org/resource/languoid/id/core1252"
+    },
+    {
+      "name": "Votic Chibchan",
+      "id": "voti1248",
+      "url": "https://glottolog.org/resource/languoid/id/voti1248"
+    }
+  ],
+  "iso639-3": "rma"
+}

@@ -1,0 +1,91 @@
+{
+  "pk": 11274,
+  "hid": "mpk",
+  "father_pk": 8299,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mbara {Chad} [mbar1260][mpk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/578",
+        "label": "Mbara (Chad)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mbara_language_(Chad)",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mbr",
+        "label": "Mbara"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3912770",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "122238",
+        "long_grammar",
+        1986,
+        317,
+        "Tourneux, Henry and Seignobos, Christian and Lafarge, Francine 1986"
+      ],
+      [
+        "67998",
+        "wordlist_or_less",
+        1978,
+        6,
+        "Tourneux, Henry 1978"
+      ]
+    ]
+  },
+  "id": "mbar1260",
+  "name": "Mbara (Chad)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.91,
+  "longitude": 15.54,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "Biu-Mandara",
+      "id": "bium1280",
+      "url": "https://glottolog.org/resource/languoid/id/bium1280"
+    },
+    {
+      "name": "North Biu-Mandara",
+      "id": "nort3156",
+      "url": "https://glottolog.org/resource/languoid/id/nort3156"
+    },
+    {
+      "name": "Musguic",
+      "id": "bium1279",
+      "url": "https://glottolog.org/resource/languoid/id/bium1279"
+    },
+    {
+      "name": "Musgu-Mbara",
+      "id": "musg1256",
+      "url": "https://glottolog.org/resource/languoid/id/musg1256"
+    }
+  ],
+  "iso639-3": "mpk"
+}

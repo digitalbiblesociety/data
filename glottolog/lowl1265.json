@@ -1,0 +1,84 @@
+{
+  "pk": 6104,
+  "hid": "tac",
+  "father_pk": 4097,
+  "family_pk": 155,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Guazapar [guaz1234]':1,'Urique Tarahumara [uriq1234]':1,'Uruachi Tarahumara [urua1246]':1)'Western Tarahumara [lowl1265][tac]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3453",
+        "label": "Tarahumara"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_twe",
+        "label": "Tarahumara (Western)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q15616384",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "454760",
+        "grammar",
+        2013,
+        261,
+        "Valdez Jara, Yolanda 2013"
+      ],
+      [
+        "35635",
+        "grammar",
+        1984,
+        149,
+        "Burgess, Donald H. 1984"
+      ],
+      [
+        "152719",
+        "grammar",
+        1683,
+        0,
+        "Guadalaxara, Tomás de 1683"
+      ]
+    ]
+  },
+  "id": "lowl1265",
+  "name": "Western Tarahumara",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.3512,
+  "longitude": -108.0559,
+  "classification": [
+    {
+      "name": "Uto-Aztecan",
+      "id": "utoa1244",
+      "url": "https://glottolog.org/resource/languoid/id/utoa1244"
+    },
+    {
+      "name": "Southern Uto-Aztecan",
+      "id": "sout3136",
+      "url": "https://glottolog.org/resource/languoid/id/sout3136"
+    },
+    {
+      "name": "Tarahumara-Guarijio",
+      "id": "tara1326",
+      "url": "https://glottolog.org/resource/languoid/id/tara1326"
+    },
+    {
+      "name": "Tarahumaran",
+      "id": "tara1321",
+      "url": "https://glottolog.org/resource/languoid/id/tara1321"
+    }
+  ],
+  "iso639-3": "tac"
+}

@@ -1,0 +1,97 @@
+{
+  "pk": 18366,
+  "hid": "hni",
+  "father_pk": 15944,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Angluo [angl1266]':1,'Dazhai [dazh1234]':1,'Gehuo [gehu1234]':1,'Guohue [guoh1234]':1,'Guozuo [guoz1234]':1,'Khabi [khab1234]':1,'Lami [lami1239]':1,'Luobi [luob1237]':1,'Luomian [luom1234]':1)'Hani [hani1248][hni]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 9,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_han",
+        "label": "Hani"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Hani_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56516",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "77130",
+        "grammar",
+        1986,
+        210,
+        "Li, YongSui 1986"
+      ],
+      [
+        "136143",
+        "wordlist_or_less",
+        1892,
+        2,
+        "Lefèvre-Pontalis, Pierre 1892, 1896, 1896"
+      ]
+    ]
+  },
+  "id": "hani1248",
+  "name": "Hani",
+  "description": null,
+  "markup_description": null,
+  "latitude": 22.67753,
+  "longitude": 102.851673333,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Burmo-Qiangic",
+      "id": "burm1265",
+      "url": "https://glottolog.org/resource/languoid/id/burm1265"
+    },
+    {
+      "name": "Lolo-Burmese",
+      "id": "lolo1265",
+      "url": "https://glottolog.org/resource/languoid/id/lolo1265"
+    },
+    {
+      "name": "Loloish",
+      "id": "lolo1267",
+      "url": "https://glottolog.org/resource/languoid/id/lolo1267"
+    },
+    {
+      "name": "Hani-Jino",
+      "id": "hani1249",
+      "url": "https://glottolog.org/resource/languoid/id/hani1249"
+    },
+    {
+      "name": "Bisoid-Hanic",
+      "id": "biso1244",
+      "url": "https://glottolog.org/resource/languoid/id/biso1244"
+    },
+    {
+      "name": "Hanic",
+      "id": "hani1250",
+      "url": "https://glottolog.org/resource/languoid/id/hani1250"
+    },
+    {
+      "name": "Ha-Ya",
+      "id": "haya1251",
+      "url": "https://glottolog.org/resource/languoid/id/haya1251"
+    }
+  ],
+  "iso639-3": "hni"
+}

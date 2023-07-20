@@ -1,0 +1,123 @@
+{
+  "pk": 23705,
+  "hid": "shn",
+  "father_pk": 22192,
+  "family_pk": 356,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kokant Shan [koka1237]':1,'Tai Mao [taim1251]':1)'Shan [shan1277][shn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_sha",
+        "label": "Shan"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Shan_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/shan1277",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56482",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "37473",
+        "grammar",
+        1906,
+        276,
+        "Cushing, Josiah Nelson 1906"
+      ],
+      [
+        "89277",
+        "grammar",
+        1888,
+        0,
+        "Cushing, Josiah N. 1888"
+      ],
+      [
+        "312480",
+        "wordlist_or_less",
+        1858,
+        9,
+        "Bigandet, Paul Ambrose 1858"
+      ]
+    ]
+  },
+  "id": "shan1277",
+  "name": "Shan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 21.5995,
+  "longitude": 98.0342,
+  "classification": [
+    {
+      "name": "Tai-Kadai",
+      "id": "taik1256",
+      "url": "https://glottolog.org/resource/languoid/id/taik1256"
+    },
+    {
+      "name": "Kam-Tai",
+      "id": "kamt1241",
+      "url": "https://glottolog.org/resource/languoid/id/kamt1241"
+    },
+    {
+      "name": "Daic-Beic",
+      "id": "daic1238",
+      "url": "https://glottolog.org/resource/languoid/id/daic1238"
+    },
+    {
+      "name": "Daic",
+      "id": "daic1237",
+      "url": "https://glottolog.org/resource/languoid/id/daic1237"
+    },
+    {
+      "name": "Central-Southwestern Tai",
+      "id": "cent2251",
+      "url": "https://glottolog.org/resource/languoid/id/cent2251"
+    },
+    {
+      "name": "Wenma-Southwestern Tai",
+      "id": "wenm1239",
+      "url": "https://glottolog.org/resource/languoid/id/wenm1239"
+    },
+    {
+      "name": "Sapa-Southwestern Tai",
+      "id": "sapa1255",
+      "url": "https://glottolog.org/resource/languoid/id/sapa1255"
+    },
+    {
+      "name": "Southwestern Tai",
+      "id": "sout3184",
+      "url": "https://glottolog.org/resource/languoid/id/sout3184"
+    },
+    {
+      "name": "Southwestern Tai P",
+      "id": "sout2743",
+      "url": "https://glottolog.org/resource/languoid/id/sout2743"
+    },
+    {
+      "name": "Shan Tai",
+      "id": "shan1276",
+      "url": "https://glottolog.org/resource/languoid/id/shan1276"
+    },
+    {
+      "name": "Northern Shan",
+      "id": "nort2739",
+      "url": "https://glottolog.org/resource/languoid/id/nort2739"
+    }
+  ],
+  "iso639-3": "shn"
+}

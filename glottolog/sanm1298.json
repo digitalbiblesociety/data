@@ -1,0 +1,89 @@
+{
+  "pk": 8963,
+  "hid": "trq",
+  "father_pk": 6471,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'San Martín Itunyoso Triqui [sanm1298][trq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6193",
+        "label": "Triqui"
+      },
+      {
+        "url": "https://phoible.org/languages/sanm1298",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12953934",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "548423",
+        "phonology_or_text",
+        2016,
+        42,
+        "DiCanio, Christian Thomas 2016"
+      ],
+      [
+        "548419",
+        "phonology_or_text",
+        2012,
+        15,
+        "DiCanio, Christian T. 2012"
+      ],
+      [
+        "159284",
+        "phonology_or_text",
+        2008,
+        295,
+        "DiCanio, Christian Thomas 2008"
+      ]
+    ]
+  },
+  "id": "sanm1298",
+  "name": "San Martín Itunyoso Triqui",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.2428,
+  "longitude": -97.9202,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Amuzgo-Mixtecan",
+      "id": "amuz1253",
+      "url": "https://glottolog.org/resource/languoid/id/amuz1253"
+    },
+    {
+      "name": "Mixtecan",
+      "id": "mixt1422",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1422"
+    },
+    {
+      "name": "Trique",
+      "id": "triq1251",
+      "url": "https://glottolog.org/resource/languoid/id/triq1251"
+    }
+  ],
+  "iso639-3": "trq"
+}

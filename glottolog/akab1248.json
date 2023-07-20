@@ -1,0 +1,77 @@
+{
+  "pk": 5871,
+  "hid": "akm",
+  "father_pk": 3908,
+  "family_pk": 134,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Akabo [akab1248][akm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10715",
+        "label": "Aka-Bo"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35361",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Aka-Bo_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "128381",
+        "grammar_sketch",
+        2006,
+        5,
+        "Anvita Abbi 2006"
+      ],
+      [
+        "316426",
+        "wordlist_or_less",
+        1922,
+        27,
+        "Alfred Radcliffe-Brown 1922"
+      ]
+    ]
+  },
+  "id": "akab1248",
+  "name": "Akabo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.3629,
+  "longitude": 92.8011,
+  "classification": [
+    {
+      "name": "Great Andamanese",
+      "id": "grea1241",
+      "url": "https://glottolog.org/resource/languoid/id/grea1241"
+    },
+    {
+      "name": "North Andamanese-Akakede",
+      "id": "nort3276",
+      "url": "https://glottolog.org/resource/languoid/id/nort3276"
+    },
+    {
+      "name": "Northern Great Andamanese",
+      "id": "nort2678",
+      "url": "https://glottolog.org/resource/languoid/id/nort2678"
+    },
+    {
+      "name": "Bo-Cari",
+      "id": "boca1235",
+      "url": "https://glottolog.org/resource/languoid/id/boca1235"
+    }
+  ],
+  "iso639-3": "akm"
+}

@@ -1,0 +1,82 @@
+{
+  "pk": 8404,
+  "hid": "igg",
+  "father_pk": 5940,
+  "family_pk": 143,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Igana [igan1243][igg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4295",
+        "label": "Igana"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5991454",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Igana_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "668396",
+        "wordlist_or_less",
+        2013,
+        2,
+        "Tousch, André 2013"
+      ],
+      [
+        "126669",
+        "wordlist_or_less",
+        1975,
+        2,
+        "John A. Z'graggen 1975"
+      ]
+    ]
+  },
+  "id": "igan1243",
+  "name": "Igana",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.70942,
+  "longitude": 144.841,
+  "classification": [
+    {
+      "name": "Lower Sepik-Ramu",
+      "id": "lowe1437",
+      "url": "https://glottolog.org/resource/languoid/id/lowe1437"
+    },
+    {
+      "name": "Ramu",
+      "id": "ramu1234",
+      "url": "https://glottolog.org/resource/languoid/id/ramu1234"
+    },
+    {
+      "name": "Goam",
+      "id": "goam1234",
+      "url": "https://glottolog.org/resource/languoid/id/goam1234"
+    },
+    {
+      "name": "Tamolan",
+      "id": "tamo1242",
+      "url": "https://glottolog.org/resource/languoid/id/tamo1242"
+    },
+    {
+      "name": "Unclassified Tamolan",
+      "id": "unun9900",
+      "url": "https://glottolog.org/resource/languoid/id/unun9900"
+    }
+  ],
+  "iso639-3": "igg"
+}

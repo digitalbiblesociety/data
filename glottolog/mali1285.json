@@ -1,0 +1,97 @@
+{
+  "pk": 11750,
+  "hid": "tcf",
+  "father_pk": 8942,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Huizapula-Zapotitlán Tablas [huiz1244]':1,'Malinaltepec [mali1286]':1,'Zilacayotitlán [zila1239]':1)'Malinaltepec Me''phaa [mali1285][tcf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3513",
+        "label": "Tlapanec"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q25559732",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "148665",
+        "long_grammar",
+        1983,
+        641,
+        "Jorge A. Suárez 1983"
+      ],
+      [
+        "311536",
+        "wordlist_or_less",
+        1979,
+        10,
+        "Jorge A. Suárez 1979"
+      ],
+      [
+        "133817",
+        "wordlist_or_less",
+        1976,
+        3,
+        "Weathers, Mark L. 1976"
+      ],
+      [
+        "552909",
+        "wordlist_or_less",
+        1966,
+        0,
+        "Wichmann, Søren 1966"
+      ]
+    ]
+  },
+  "id": "mali1285",
+  "name": "Malinaltepec Me'phaa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.2122,
+  "longitude": -98.6322,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Western Otomanguean",
+      "id": "west2783",
+      "url": "https://glottolog.org/resource/languoid/id/west2783"
+    },
+    {
+      "name": "Tlapanec-Manguean",
+      "id": "tlap1252",
+      "url": "https://glottolog.org/resource/languoid/id/tlap1252"
+    },
+    {
+      "name": "Subtiaba-Tlapanec",
+      "id": "subt1249",
+      "url": "https://glottolog.org/resource/languoid/id/subt1249"
+    },
+    {
+      "name": "Mephaa",
+      "id": "meph1234",
+      "url": "https://glottolog.org/resource/languoid/id/meph1234"
+    },
+    {
+      "name": "North-Central Mephaa",
+      "id": "nort3350",
+      "url": "https://glottolog.org/resource/languoid/id/nort3350"
+    }
+  ],
+  "iso639-3": "tcf"
+}

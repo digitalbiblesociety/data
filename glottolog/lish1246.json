@@ -1,0 +1,125 @@
+{
+  "pk": 24167,
+  "hid": "trg",
+  "father_pk": 22829,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Anatolia [anat1252]':1,'Salmas [salm1240]':1)'Northern Cluster Lishán Didán [nort3098]':1,('Mahabad [maha1304]':1,'Naghada [nagh1238]':1,'Ushno [ushn1238]':1)'Southern Cluster Lishán Didán [sout3077]':1)'Lishán Didán [lish1246][trg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Jewish_Neo-Aramaic_dialect_of_Urmia",
+        "label": null
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/3506",
+        "label": "Jewish Azerbaijani Neo-Aramaic"
+      },
+      {
+        "url": "https://phoible.org/languages/lish1246",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nap",
+        "label": "Neo-Aramaic (Persian Azerbaijan)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56473",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "144738",
+        "long_grammar",
+        2008,
+        642,
+        "Khan, Geoffrey 2008"
+      ],
+      [
+        "76604",
+        "grammar",
+        1965,
+        171,
+        "Irene Garbell 1965"
+      ]
+    ]
+  },
+  "id": "lish1246",
+  "name": "Lishán Didán",
+  "description": null,
+  "markup_description": null,
+  "latitude": 36.23,
+  "longitude": 44.37,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Semitic",
+      "id": "semi1276",
+      "url": "https://glottolog.org/resource/languoid/id/semi1276"
+    },
+    {
+      "name": "West Semitic",
+      "id": "west2786",
+      "url": "https://glottolog.org/resource/languoid/id/west2786"
+    },
+    {
+      "name": "Central Semitic",
+      "id": "cent2236",
+      "url": "https://glottolog.org/resource/languoid/id/cent2236"
+    },
+    {
+      "name": "Northwest Semitic",
+      "id": "nort3165",
+      "url": "https://glottolog.org/resource/languoid/id/nort3165"
+    },
+    {
+      "name": "Aramaic",
+      "id": "aram1259",
+      "url": "https://glottolog.org/resource/languoid/id/aram1259"
+    },
+    {
+      "name": "Imperial-Middle-Modern Aramaic",
+      "id": "impe1236",
+      "url": "https://glottolog.org/resource/languoid/id/impe1236"
+    },
+    {
+      "name": "Middle-Modern Aramaic",
+      "id": "midd1367",
+      "url": "https://glottolog.org/resource/languoid/id/midd1367"
+    },
+    {
+      "name": "Eastern Aramaic",
+      "id": "east2680",
+      "url": "https://glottolog.org/resource/languoid/id/east2680"
+    },
+    {
+      "name": "Central Eastern Aramaic",
+      "id": "cent2217",
+      "url": "https://glottolog.org/resource/languoid/id/cent2217"
+    },
+    {
+      "name": "North-Eastern Neo-Aramaic",
+      "id": "nort3241",
+      "url": "https://glottolog.org/resource/languoid/id/nort3241"
+    },
+    {
+      "name": "Trans-Zab",
+      "id": "tran1290",
+      "url": "https://glottolog.org/resource/languoid/id/tran1290"
+    }
+  ],
+  "iso639-3": "trg"
+}

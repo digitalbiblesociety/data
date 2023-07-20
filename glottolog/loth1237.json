@@ -1,0 +1,92 @@
+{
+  "pk": 7346,
+  "hid": "njh",
+  "father_pk": 5017,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kyo [kyoo1238]':1,'Kyon [kyon1245]':1,'Kyong [kyon1246]':1,'Kyou [kyou1238]':1,'Live [live1239]':1,'Ndreng [ndre1238]':1,'Tsontsu [tson1248]':1)'Lotha Naga [loth1237][njh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_lot",
+        "label": "Lotha"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/5659",
+        "label": "Lotha Naga"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lotha_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/loth1237",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33590",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "97071",
+        "grammar",
+        1983,
+        166,
+        "Acharya, K. P. 1983"
+      ],
+      [
+        "33322",
+        "grammar",
+        1888,
+        157,
+        "W. E. Witter 1888"
+      ],
+      [
+        "132693",
+        "wordlist_or_less",
+        1880,
+        1,
+        "G. H. Damant 1880"
+      ]
+    ]
+  },
+  "id": "loth1237",
+  "name": "Lotha Naga",
+  "description": null,
+  "markup_description": null,
+  "latitude": 26.01396,
+  "longitude": 94.04355,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Angami-Ao",
+      "id": "anga1312",
+      "url": "https://glottolog.org/resource/languoid/id/anga1312"
+    },
+    {
+      "name": "Central Naga",
+      "id": "aoic1235",
+      "url": "https://glottolog.org/resource/languoid/id/aoic1235"
+    }
+  ],
+  "iso639-3": "njh"
+}

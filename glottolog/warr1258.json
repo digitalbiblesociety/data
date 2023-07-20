@@ -1,0 +1,108 @@
+{
+  "pk": 5112,
+  "hid": "wwr",
+  "father_pk": 3301,
+  "family_pk": 354,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Warrwa [warr1258][wwr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3308",
+        "label": "Warrwa"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7970852",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Warrwa_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/warr1258",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_wrw",
+        "label": "Warrwa"
+      }
+    ],
+    "meds": [
+      [
+        "1206",
+        "grammar_sketch",
+        2009,
+        128,
+        "McGregor, William B. 2009"
+      ],
+      [
+        "4588",
+        "grammar_sketch",
+        1994,
+        64,
+        "William McGregor 1994"
+      ],
+      [
+        "6852",
+        "grammar_sketch",
+        1953,
+        3,
+        "Capell, Arthur 1953"
+      ],
+      [
+        "3842",
+        "grammar_sketch",
+        1952,
+        2,
+        "Capell, Arthur 1952"
+      ],
+      [
+        "4167",
+        "wordlist_or_less",
+        1940,
+        1,
+        "Arthur Capell 1940, 1940"
+      ],
+      [
+        "64",
+        "wordlist_or_less",
+        1939,
+        2,
+        "Capell, Arthur 1939"
+      ]
+    ]
+  },
+  "id": "warr1258",
+  "name": "Warrwa",
+  "description": null,
+  "markup_description": null,
+  "latitude": -17.0965,
+  "longitude": 123.971,
+  "classification": [
+    {
+      "name": "Nyulnyulan",
+      "id": "nyul1248",
+      "url": "https://glottolog.org/resource/languoid/id/nyul1248"
+    },
+    {
+      "name": "Eastern Nyulnyulan",
+      "id": "east2381",
+      "url": "https://glottolog.org/resource/languoid/id/east2381"
+    },
+    {
+      "name": "Nyikinic",
+      "id": "nyik1244",
+      "url": "https://glottolog.org/resource/languoid/id/nyik1244"
+    }
+  ],
+  "iso639-3": "wwr"
+}

@@ -1,0 +1,71 @@
+{
+  "pk": 8318,
+  "hid": "xgb",
+  "father_pk": 5828,
+  "family_pk": 121,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Gbin [gbin1239][xgb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q16934745",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Gbin_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "8689",
+        "wordlist_or_less",
+        1904,
+        5,
+        "Delafosse, Maurice 1904"
+      ]
+    ]
+  },
+  "id": "gbin1239",
+  "name": "Gbin",
+  "description": null,
+  "markup_description": null,
+  "latitude": 8.020857,
+  "longitude": -2.811213,
+  "classification": [
+    {
+      "name": "Mande",
+      "id": "mand1469",
+      "url": "https://glottolog.org/resource/languoid/id/mand1469"
+    },
+    {
+      "name": "Eastern Mande",
+      "id": "east2697",
+      "url": "https://glottolog.org/resource/languoid/id/east2697"
+    },
+    {
+      "name": "Southeastern Mande",
+      "id": "sout3140",
+      "url": "https://glottolog.org/resource/languoid/id/sout3140"
+    },
+    {
+      "name": "Nwa-Ben",
+      "id": "nwab1239",
+      "url": "https://glottolog.org/resource/languoid/id/nwab1239"
+    },
+    {
+      "name": "Unclassified Nwa-Ben",
+      "id": "unun9970",
+      "url": "https://glottolog.org/resource/languoid/id/unun9970"
+    }
+  ],
+  "iso639-3": "xgb"
+}

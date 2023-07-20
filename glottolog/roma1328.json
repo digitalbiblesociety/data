@@ -1,0 +1,129 @@
+{
+  "pk": 25015,
+  "hid": "rgn",
+  "father_pk": 24151,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Northern Romagnolo [nort2607]':1,'Sammarinese [samm1243]':1,'Southern Romagnolo [sout2611]':1)'Romagnol [roma1328][rgn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3206",
+        "label": "Romagnol"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Romagnol_dialects",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q1641543",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "319854",
+        "grammar",
+        1977,
+        178,
+        "Pelliciardi, Ferdinando 1977"
+      ],
+      [
+        "319129",
+        "phonology_or_text",
+        1918,
+        150,
+        "Friedrich Schürr 1918, 1919"
+      ],
+      [
+        "319204",
+        "phonology_or_text",
+        1917,
+        80,
+        "Friedrich Schürr 1917"
+      ]
+    ]
+  },
+  "id": "roma1328",
+  "name": "Romagnol",
+  "description": null,
+  "markup_description": null,
+  "latitude": 44.2349,
+  "longitude": 11.7189,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Italic",
+      "id": "ital1284",
+      "url": "https://glottolog.org/resource/languoid/id/ital1284"
+    },
+    {
+      "name": "Latino-Faliscan",
+      "id": "lati1262",
+      "url": "https://glottolog.org/resource/languoid/id/lati1262"
+    },
+    {
+      "name": "Latinic",
+      "id": "lati1263",
+      "url": "https://glottolog.org/resource/languoid/id/lati1263"
+    },
+    {
+      "name": "Imperial Latin",
+      "id": "impe1234",
+      "url": "https://glottolog.org/resource/languoid/id/impe1234"
+    },
+    {
+      "name": "Romance",
+      "id": "roma1334",
+      "url": "https://glottolog.org/resource/languoid/id/roma1334"
+    },
+    {
+      "name": "Italo-Western Romance",
+      "id": "ital1285",
+      "url": "https://glottolog.org/resource/languoid/id/ital1285"
+    },
+    {
+      "name": "Western Romance",
+      "id": "west2813",
+      "url": "https://glottolog.org/resource/languoid/id/west2813"
+    },
+    {
+      "name": "Shifted Western Romance",
+      "id": "shif1234",
+      "url": "https://glottolog.org/resource/languoid/id/shif1234"
+    },
+    {
+      "name": "Northwestern Shifted Romance",
+      "id": "nort3208",
+      "url": "https://glottolog.org/resource/languoid/id/nort3208"
+    },
+    {
+      "name": "Gallo-Italian",
+      "id": "gall1279",
+      "url": "https://glottolog.org/resource/languoid/id/gall1279"
+    },
+    {
+      "name": "Emiliano-Romagnolo",
+      "id": "emil1243",
+      "url": "https://glottolog.org/resource/languoid/id/emil1243"
+    }
+  ],
+  "iso639-3": "rgn"
+}

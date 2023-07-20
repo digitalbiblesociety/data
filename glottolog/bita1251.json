@@ -1,0 +1,88 @@
+{
+  "pk": 15767,
+  "hid": "brt",
+  "father_pk": 12989,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Bitare [bita1251][brt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q34946",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bitare_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "139568",
+        "wordlist_or_less",
+        2006,
+        7,
+        "Blench, Roger M. 2006"
+      ],
+      [
+        "37690",
+        "wordlist_or_less",
+        1931,
+        5,
+        "Meek, Charles K. 1931"
+      ]
+    ]
+  },
+  "id": "bita1251",
+  "name": "Bitare",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.87398,
+  "longitude": 11.3072,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Tivoid",
+      "id": "tivo1239",
+      "url": "https://glottolog.org/resource/languoid/id/tivo1239"
+    },
+    {
+      "name": "North Tivoid",
+      "id": "nort3192",
+      "url": "https://glottolog.org/resource/languoid/id/nort3192"
+    }
+  ],
+  "iso639-3": "brt"
+}

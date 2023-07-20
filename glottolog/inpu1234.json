@@ -1,0 +1,90 @@
+{
+  "pk": 5012,
+  "hid": "nkf",
+  "father_pk": 3192,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Inpui Naga [inpu1234][nkf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kbi",
+        "label": "Kabui"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/5681",
+        "label": "Puiron"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Inpui_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q21481817",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "548391",
+        "grammar",
+        2014,
+        236,
+        "Devi, Waikhom Pinky 2014"
+      ],
+      [
+        "85928",
+        "wordlist_or_less",
+        1967,
+        7,
+        "Marrison, Geoffrey E. 1967"
+      ],
+      [
+        "51830",
+        "wordlist_or_less",
+        1859,
+        5,
+        "McCulloch, W. 1859"
+      ],
+      [
+        "115954",
+        "wordlist_or_less",
+        1837,
+        1,
+        "Brown, Nathan 1837"
+      ]
+    ]
+  },
+  "id": "inpu1234",
+  "name": "Inpui Naga",
+  "description": null,
+  "markup_description": null,
+  "latitude": 24.8761,
+  "longitude": 93.8096,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Zemeic",
+      "id": "zeme1241",
+      "url": "https://glottolog.org/resource/languoid/id/zeme1241"
+    }
+  ],
+  "iso639-3": "nkf"
+}

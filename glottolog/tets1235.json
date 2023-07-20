@@ -1,0 +1,86 @@
+{
+  "pk": 3808,
+  "hid": "tez",
+  "father_pk": 2139,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tetserret [tets1235][tez]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/8509",
+        "label": "Tetserret"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tetserret_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7706841",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "550485",
+        "long_grammar",
+        2013,
+        560,
+        "Cécile Lux 2013"
+      ],
+      [
+        "20700",
+        "long_grammar",
+        2011,
+        524,
+        "Cécile Lux 2011"
+      ],
+      [
+        "47956",
+        "wordlist_or_less",
+        2000,
+        22,
+        "Saskia Walentowitz and Attayoub, Abdoulmohamine Khamed 2000-2001"
+      ],
+      [
+        "10771",
+        "wordlist_or_less",
+        1984,
+        14,
+        "Drouin, Jeannine 1984"
+      ]
+    ]
+  },
+  "id": "tets1235",
+  "name": "Tetserret",
+  "description": null,
+  "markup_description": null,
+  "latitude": 14.973333,
+  "longitude": 5.699722,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Berber",
+      "id": "berb1260",
+      "url": "https://glottolog.org/resource/languoid/id/berb1260"
+    },
+    {
+      "name": "Western Berber",
+      "id": "west2724",
+      "url": "https://glottolog.org/resource/languoid/id/west2724"
+    }
+  ],
+  "iso639-3": "tez"
+}

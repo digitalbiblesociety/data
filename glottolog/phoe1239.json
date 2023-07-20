@@ -1,0 +1,117 @@
+{
+  "pk": 16743,
+  "hid": "phn",
+  "father_pk": 14151,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Phoenician [phoe1239][phn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "phn",
+      "comment_type": "missing",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "The extinct but well-attested Phoenician-Punic language is missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 (**hh:s:Harris:Phoenician**, **hh:g:Friedrich:Punische**, **hh:g:Kerr:Latino-Punic**)."
+    },
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q36734",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Phoenician_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "10509",
+        "long_grammar",
+        1976,
+        330,
+        "Segert, Stanislav 1976"
+      ],
+      [
+        "319258",
+        "grammar",
+        1969,
+        174,
+        "van den Branden, Albert 1969"
+      ],
+      [
+        "127225",
+        "grammar_sketch",
+        1936,
+        183,
+        "Harris, Zellig S. 1936"
+      ]
+    ]
+  },
+  "id": "phoe1239",
+  "name": "Phoenician",
+  "description": null,
+  "markup_description": null,
+  "latitude": 34.12,
+  "longitude": 35.65,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Semitic",
+      "id": "semi1276",
+      "url": "https://glottolog.org/resource/languoid/id/semi1276"
+    },
+    {
+      "name": "West Semitic",
+      "id": "west2786",
+      "url": "https://glottolog.org/resource/languoid/id/west2786"
+    },
+    {
+      "name": "Central Semitic",
+      "id": "cent2236",
+      "url": "https://glottolog.org/resource/languoid/id/cent2236"
+    },
+    {
+      "name": "Northwest Semitic",
+      "id": "nort3165",
+      "url": "https://glottolog.org/resource/languoid/id/nort3165"
+    },
+    {
+      "name": "Canaanite",
+      "id": "cana1267",
+      "url": "https://glottolog.org/resource/languoid/id/cana1267"
+    },
+    {
+      "name": "Ugarito-Phoenician",
+      "id": "ugar1239",
+      "url": "https://glottolog.org/resource/languoid/id/ugar1239"
+    },
+    {
+      "name": "Phoenician-Punic",
+      "id": "phoe1238",
+      "url": "https://glottolog.org/resource/languoid/id/phoe1238"
+    }
+  ],
+  "iso639-3": "phn"
+}

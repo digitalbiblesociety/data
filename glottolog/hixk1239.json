@@ -1,0 +1,101 @@
+{
+  "pk": 3682,
+  "hid": "hix",
+  "father_pk": 2008,
+  "family_pk": 56,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Hixkariana [hixk1240]':1,'Xerew [xere1241]':1)'Hixkaryána [hixk1239][hix]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3219",
+        "label": "Hixkaryana"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_hix",
+        "label": "Hixkaryana"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Hixkaryana_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/hixk1239",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56522",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "610049",
+        "long_grammar",
+        1979,
+        303,
+        "Derbyshire, Desmond C. 1979"
+      ],
+      [
+        "56272",
+        "grammar",
+        1961,
+        11,
+        "Derbyshire, Desmond C. 1961"
+      ],
+      [
+        "128227",
+        "wordlist_or_less",
+        1947,
+        14,
+        "Hugo Mense 1947"
+      ],
+      [
+        "114202",
+        "wordlist_or_less",
+        1946,
+        42,
+        "Mense, F.Hugo 1946-47"
+      ],
+      [
+        "80619",
+        "wordlist_or_less",
+        1913,
+        27,
+        "Koch-Grünberg, Theodor 1913"
+      ]
+    ]
+  },
+  "id": "hixk1239",
+  "name": "Hixkaryána",
+  "description": null,
+  "markup_description": null,
+  "latitude": -0.16265,
+  "longitude": -58.80153,
+  "classification": [
+    {
+      "name": "Cariban",
+      "id": "cari1283",
+      "url": "https://glottolog.org/resource/languoid/id/cari1283"
+    },
+    {
+      "name": "Parukotoan",
+      "id": "paru1239",
+      "url": "https://glottolog.org/resource/languoid/id/paru1239"
+    },
+    {
+      "name": "Waiwaian",
+      "id": "waiw1245",
+      "url": "https://glottolog.org/resource/languoid/id/waiw1245"
+    }
+  ],
+  "iso639-3": "hix"
+}

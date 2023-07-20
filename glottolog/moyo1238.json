@@ -1,0 +1,75 @@
+{
+  "pk": 10238,
+  "hid": "nmo",
+  "father_pk": 7357,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Moyon [moyo1238][nmo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6927748",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Moyon_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/moyo1238",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "314426",
+        "long_grammar",
+        1989,
+        406,
+        "Donald Kosha 1989"
+      ]
+    ]
+  },
+  "id": "moyo1238",
+  "name": "Moyon",
+  "description": null,
+  "markup_description": null,
+  "latitude": 24.4793,
+  "longitude": 94.3421,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Kuki-Chin",
+      "id": "kuki1246",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1246"
+    },
+    {
+      "name": "Northwestern Kuki-Chin",
+      "id": "oldk1252",
+      "url": "https://glottolog.org/resource/languoid/id/oldk1252"
+    },
+    {
+      "name": "Moyon-Monsang Naga",
+      "id": "moyo1240",
+      "url": "https://glottolog.org/resource/languoid/id/moyo1240"
+    }
+  ],
+  "iso639-3": "nmo"
+}

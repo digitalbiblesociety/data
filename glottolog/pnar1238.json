@@ -1,0 +1,103 @@
+{
+  "pk": 10618,
+  "hid": "pbv",
+  "father_pk": 7720,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Barato [bara1355]':1,'Batau [bata1284]':1,'Jowai [jowa1238]':1,'Lakadong [laka1251]':1,'Martiang [mart1253]':1,'Mynso [myns1238]':1,'Nongtalang [nong1246]':1,'Raliang [rali1240]':1,'Rymbai [rymb1238]':1,'Shangpung [shan1273]':1,'Sumer [sume1240]':1,'Sutnga [sutn1238]':1)'Jaintia [jain1238]':1,'Nongtung [nong1245]':1)'Pnar [pnar1238][pbv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 14,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Pnar_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/pnar1238",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3501850",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "472146",
+        "long_grammar",
+        2015,
+        716,
+        "Hiram Ring 2015"
+      ],
+      [
+        "317448",
+        "grammar",
+        2007,
+        288,
+        "Bareh, Curiously 2007"
+      ],
+      [
+        "97195",
+        "grammar_sketch",
+        2004,
+        94,
+        "Narayan Kumar Choudhary 2004"
+      ],
+      [
+        "572015",
+        "grammar_sketch",
+        1922,
+        0,
+        "Grignard, S. J. 1992 [1922]"
+      ],
+      [
+        "143512",
+        "wordlist_or_less",
+        1904,
+        8,
+        "George A. Grierson 1904"
+      ]
+    ]
+  },
+  "id": "pnar1238",
+  "name": "Pnar",
+  "description": null,
+  "markup_description": null,
+  "latitude": 24.8237,
+  "longitude": 92.2628,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Khasi-Palaung",
+      "id": "khas1273",
+      "url": "https://glottolog.org/resource/languoid/id/khas1273"
+    },
+    {
+      "name": "Khasian",
+      "id": "khas1268",
+      "url": "https://glottolog.org/resource/languoid/id/khas1268"
+    },
+    {
+      "name": "Khasi-Pnar-Lyngngam",
+      "id": "khas1274",
+      "url": "https://glottolog.org/resource/languoid/id/khas1274"
+    },
+    {
+      "name": "Khasi-Pnar",
+      "id": "khas1275",
+      "url": "https://glottolog.org/resource/languoid/id/khas1275"
+    }
+  ],
+  "iso639-3": "pbv"
+}

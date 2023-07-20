@@ -1,0 +1,79 @@
+{
+  "pk": 4268,
+  "hid": "bpe",
+  "father_pk": 2476,
+  "family_pk": 198,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Barapu-Warapu [bara1405]':1,'Pou [pouu1234]':1)'Bauni [wara1302][bpe]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2707",
+        "label": "Warapu"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_brp",
+        "label": "Barupu"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56739",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "140397",
+        "long_grammar",
+        2005,
+        433,
+        "Miriam Corris 2005"
+      ],
+      [
+        "659861",
+        "grammar",
+        2003,
+        0,
+        "Corris, Miriam 2003"
+      ],
+      [
+        "124132",
+        "wordlist_or_less",
+        1900,
+        2,
+        "Wilhelm Schmidt 1900, 1902"
+      ]
+    ]
+  },
+  "id": "wara1302",
+  "name": "Bauni",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.07263,
+  "longitude": 142.012,
+  "classification": [
+    {
+      "name": "Sko",
+      "id": "skoo1245",
+      "url": "https://glottolog.org/resource/languoid/id/skoo1245"
+    },
+    {
+      "name": "Skou-Serra-Piore",
+      "id": "skou1238",
+      "url": "https://glottolog.org/resource/languoid/id/skou1238"
+    },
+    {
+      "name": "Barupu Lagoon",
+      "id": "lago1243",
+      "url": "https://glottolog.org/resource/languoid/id/lago1243"
+    }
+  ],
+  "iso639-3": "bpe"
+}

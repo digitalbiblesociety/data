@@ -1,0 +1,84 @@
+{
+  "pk": 1289,
+  "hid": "ykg",
+  "father_pk": 258,
+  "family_pk": 258,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Northern Yukaghir [nort2745][ykg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3024",
+        "label": "Tundra Yukagir"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ytu",
+        "label": "Yukaghir (Tundra)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tundra_Yukaghir_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nort2745",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56319",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "422656",
+        "long_grammar",
+        2013,
+        379,
+        "Mark Schmalz 2013"
+      ],
+      [
+        "15998",
+        "grammar",
+        1958,
+        288,
+        "Eruxim A. Krejnovič 1958"
+      ],
+      [
+        "573101",
+        "wordlist_or_less",
+        1919,
+        469,
+        "Jochelson, W. 1919-26"
+      ],
+      [
+        "313081",
+        "wordlist_or_less",
+        1905,
+        0,
+        "na 1905"
+      ]
+    ]
+  },
+  "id": "nort2745",
+  "name": "Northern Yukaghir",
+  "description": null,
+  "markup_description": null,
+  "latitude": 70.498,
+  "longitude": 157.853,
+  "classification": [
+    {
+      "name": "Yukaghir",
+      "id": "yuka1259",
+      "url": "https://glottolog.org/resource/languoid/id/yuka1259"
+    }
+  ],
+  "iso639-3": "ykg"
+}

@@ -1,0 +1,83 @@
+{
+  "pk": 8511,
+  "hid": "dhr",
+  "father_pk": 6045,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Dhargari [dhar1247][dhr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4078",
+        "label": "Tharrkari"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/w21",
+        "label": "Tharrkari"
+      },
+      {
+        "url": "https://phoible.org/languages/dhar1247",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_dhr",
+        "label": "Dhargari"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q10470289",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "314042",
+        "grammar_sketch",
+        1969,
+        64,
+        "Terry J. Klokeid 1969"
+      ]
+    ]
+  },
+  "id": "dhar1247",
+  "name": "Dhargari",
+  "description": null,
+  "markup_description": null,
+  "latitude": -24.0601,
+  "longitude": 114.847,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "South-West Pama-Nyungan",
+      "id": "sout3134",
+      "url": "https://glottolog.org/resource/languoid/id/sout3134"
+    },
+    {
+      "name": "Pilbara",
+      "id": "pilb1234",
+      "url": "https://glottolog.org/resource/languoid/id/pilb1234"
+    },
+    {
+      "name": "Mantharta",
+      "id": "mant1266",
+      "url": "https://glottolog.org/resource/languoid/id/mant1266"
+    },
+    {
+      "name": "Wariyangga-Dhargari",
+      "id": "wari1270",
+      "url": "https://glottolog.org/resource/languoid/id/wari1270"
+    }
+  ],
+  "iso639-3": "dhr"
+}

@@ -1,0 +1,76 @@
+{
+  "pk": 992,
+  "hid": "kyl",
+  "father_pk": 120,
+  "family_pk": 120,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Central Kalapuya [kala1400][kyl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3192120",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Central_Kalapuya_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_klp",
+        "label": "Kalapuya"
+      }
+    ],
+    "meds": [
+      [
+        "141414",
+        "grammar_sketch",
+        2007,
+        98,
+        "Jonathan Banks 2007"
+      ],
+      [
+        "477752",
+        "phonology_or_text",
+        1987,
+        11,
+        "Rude, Noel 1987"
+      ],
+      [
+        "319415",
+        "phonology_or_text",
+        1945,
+        99,
+        "Melville Jacobs 1945"
+      ],
+      [
+        "162143",
+        "wordlist_or_less",
+        1841,
+        2,
+        "John Scouler 1841"
+      ]
+    ]
+  },
+  "id": "kala1400",
+  "name": "Central Kalapuya",
+  "description": null,
+  "markup_description": null,
+  "latitude": 44.9861,
+  "longitude": -123.925,
+  "classification": [
+    {
+      "name": "Kalapuyan",
+      "id": "kala1402",
+      "url": "https://glottolog.org/resource/languoid/id/kala1402"
+    }
+  ],
+  "iso639-3": "kyl"
+}

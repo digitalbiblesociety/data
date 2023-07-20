@@ -1,0 +1,97 @@
+{
+  "pk": 8542,
+  "hid": "aly",
+  "father_pk": 6075,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Alyawarr [alya1239][aly]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/c14",
+        "label": "Alyawarr"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/5249",
+        "label": "Alyawarr"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_aly",
+        "label": "Alyawarra"
+      },
+      {
+        "url": "https://phoible.org/languages/alya1239",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3327389",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "5424",
+        "long_grammar",
+        1970,
+        342,
+        "Yallop, Colin L. 1970"
+      ],
+      [
+        "24772",
+        "wordlist_or_less",
+        1962,
+        1,
+        "Kenneth L. Hale 1962"
+      ],
+      [
+        "1445",
+        "wordlist_or_less",
+        1899,
+        96,
+        "Spencer, W. Baldwin and Gillen, F. J. 1899"
+      ]
+    ]
+  },
+  "id": "alya1239",
+  "name": "Alyawarr",
+  "description": null,
+  "markup_description": null,
+  "latitude": -21.0427,
+  "longitude": 136.835,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Arandic-Thura-Yura",
+      "id": "aran1266",
+      "url": "https://glottolog.org/resource/languoid/id/aran1266"
+    },
+    {
+      "name": "Arandic",
+      "id": "aran1267",
+      "url": "https://glottolog.org/resource/languoid/id/aran1267"
+    },
+    {
+      "name": "South Arandic",
+      "id": "sout3384",
+      "url": "https://glottolog.org/resource/languoid/id/sout3384"
+    },
+    {
+      "name": "Upper Arrernte",
+      "id": "aran1263",
+      "url": "https://glottolog.org/resource/languoid/id/aran1263"
+    }
+  ],
+  "iso639-3": "aly"
+}

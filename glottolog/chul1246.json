@@ -1,0 +1,102 @@
+{
+  "pk": 5414,
+  "hid": "clw",
+  "father_pk": 3553,
+  "family_pk": 14,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Chibi [chib1271]':1,'Ketsik [kets1234]':1,'Küärik [kuar1234]':1,'Yatsi [yats1234]':1,'Yezhi [yezh1234]':1)'Lower Chulym Turkic [lowe1396]':1,('Melet [mele1253]':1,'Tutal [tuta1234]':1)'Middle Chulym Turkic [midd1324]':1)'Chulym Turkic [chul1246][clw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 9,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1736",
+        "label": "Chulym"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33125",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Chulym_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_cly",
+        "label": "Chulym"
+      }
+    ],
+    "meds": [
+      [
+        "317441",
+        "grammar",
+        2008,
+        269,
+        "Li, Yong-Sŏng and Lee, Ho-Yong and Choi, Hyong-Won and Kim, Geon Sook and Lee, Dong Eun and Ölmez, Mehmet 2008"
+      ],
+      [
+        "300113",
+        "grammar_sketch",
+        2006,
+        25,
+        "Anderson, Gregory and K. David Harrison 2006"
+      ],
+      [
+        "11379",
+        "grammar_sketch",
+        1997,
+        7,
+        "Birjukovich, Rima M. 1997"
+      ],
+      [
+        "313031",
+        "grammar_sketch",
+        1979,
+        0,
+        "Birjukovich, Rima M. 1979, 1981"
+      ],
+      [
+        "14645",
+        "wordlist_or_less",
+        1823,
+        6,
+        "von Klaproth, Julius H. 1823"
+      ]
+    ]
+  },
+  "id": "chul1246",
+  "name": "Chulym Turkic",
+  "description": null,
+  "markup_description": null,
+  "latitude": 54.3209,
+  "longitude": 89.5541,
+  "classification": [
+    {
+      "name": "Turkic",
+      "id": "turk1311",
+      "url": "https://glottolog.org/resource/languoid/id/turk1311"
+    },
+    {
+      "name": "Common Turkic",
+      "id": "comm1245",
+      "url": "https://glottolog.org/resource/languoid/id/comm1245"
+    },
+    {
+      "name": "Central Siberian Turkic",
+      "id": "cent2326",
+      "url": "https://glottolog.org/resource/languoid/id/cent2326"
+    },
+    {
+      "name": "South Siberian Turkic",
+      "id": "sout2693",
+      "url": "https://glottolog.org/resource/languoid/id/sout2693"
+    }
+  ],
+  "iso639-3": "clw"
+}

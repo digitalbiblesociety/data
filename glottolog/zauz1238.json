@@ -1,0 +1,89 @@
+{
+  "pk": 10110,
+  "hid": "zal",
+  "father_pk": 7270,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Guoli [guol1234]':1,'Jiangmo [wupi1238]':1)'Zauzou [zauz1238][zal]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5168",
+        "label": "Zauzou"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3616358",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Zauzou_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "588252",
+        "long_grammar",
+        2020,
+        841,
+        "Li, Yu 2020"
+      ],
+      [
+        "44759",
+        "long_grammar",
+        2002,
+        308,
+        "Sun, Hongkai and Chenglong Huang and Maocao Zhou 2002"
+      ],
+      [
+        "16805",
+        "grammar_sketch",
+        1985,
+        16,
+        "Sun, Hongkai 1985"
+      ]
+    ]
+  },
+  "id": "zauz1238",
+  "name": "Zauzou",
+  "description": null,
+  "markup_description": null,
+  "latitude": 26.4572,
+  "longitude": 98.8634,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Burmo-Qiangic",
+      "id": "burm1265",
+      "url": "https://glottolog.org/resource/languoid/id/burm1265"
+    },
+    {
+      "name": "Lolo-Burmese",
+      "id": "lolo1265",
+      "url": "https://glottolog.org/resource/languoid/id/lolo1265"
+    },
+    {
+      "name": "Loloish",
+      "id": "lolo1267",
+      "url": "https://glottolog.org/resource/languoid/id/lolo1267"
+    },
+    {
+      "name": "Nusoish",
+      "id": "nuso1234",
+      "url": "https://glottolog.org/resource/languoid/id/nuso1234"
+    }
+  ],
+  "iso639-3": "zal"
+}

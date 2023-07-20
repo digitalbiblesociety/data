@@ -1,0 +1,90 @@
+{
+  "pk": 12626,
+  "hid": "eyo",
+  "father_pk": 9668,
+  "family_pk": 316,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kamarin [kama1379]':1,'Kiptani [kipt1234]':1,'Sergoit [serg1234]':1,'Southwest Marakwet [sout3393]':1,'Soy [soyy1234]':1)'Keiyo [keiy1238][eyo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56856",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Keiyo_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "589796",
+        "grammar",
+        1970,
+        298,
+        "Serge Tornay 1970"
+      ],
+      [
+        "44467",
+        "grammar_sketch",
+        1969,
+        23,
+        "Tornay, Serge 1969"
+      ],
+      [
+        "87457",
+        "wordlist_or_less",
+        1927,
+        0,
+        "Massam, J. A. 1927"
+      ]
+    ]
+  },
+  "id": "keiy1238",
+  "name": "Keiyo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 0.510857,
+  "longitude": 35.226745,
+  "classification": [
+    {
+      "name": "Nilotic",
+      "id": "nilo1247",
+      "url": "https://glottolog.org/resource/languoid/id/nilo1247"
+    },
+    {
+      "name": "Southern Nilotic",
+      "id": "sout2830",
+      "url": "https://glottolog.org/resource/languoid/id/sout2830"
+    },
+    {
+      "name": "Kalenjin",
+      "id": "kale1246",
+      "url": "https://glottolog.org/resource/languoid/id/kale1246"
+    },
+    {
+      "name": "Central Kalenjin",
+      "id": "cent2293",
+      "url": "https://glottolog.org/resource/languoid/id/cent2293"
+    },
+    {
+      "name": "Plateau Central Kalenjin",
+      "id": "plat1260",
+      "url": "https://glottolog.org/resource/languoid/id/plat1260"
+    },
+    {
+      "name": "Western Plateau Central Kalenjin",
+      "id": "west3004",
+      "url": "https://glottolog.org/resource/languoid/id/west3004"
+    }
+  ],
+  "iso639-3": "eyo"
+}

@@ -1,0 +1,82 @@
+{
+  "pk": 8551,
+  "hid": "gvy",
+  "father_pk": 6078,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Guyani [guya1249][gvy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6664",
+        "label": "Kuyani"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/l9",
+        "label": "Kuyani"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q10511230",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "313007",
+        "phonology_or_text",
+        1976,
+        21,
+        "Austin, Peter and Ellis, R. and Hercus, Luise A. 1976"
+      ],
+      [
+        "124518",
+        "wordlist_or_less",
+        1886,
+        2,
+        "Kingsmill, J. W. 1886"
+      ]
+    ]
+  },
+  "id": "guya1249",
+  "name": "Guyani",
+  "description": null,
+  "markup_description": null,
+  "latitude": -34.739,
+  "longitude": 137.661,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Arandic-Thura-Yura",
+      "id": "aran1266",
+      "url": "https://glottolog.org/resource/languoid/id/aran1266"
+    },
+    {
+      "name": "Thura-Yura",
+      "id": "thur1253",
+      "url": "https://glottolog.org/resource/languoid/id/thur1253"
+    },
+    {
+      "name": "Core Thura Yura",
+      "id": "core1260",
+      "url": "https://glottolog.org/resource/languoid/id/core1260"
+    },
+    {
+      "name": "Northern Thura-Yura",
+      "id": "nort2752",
+      "url": "https://glottolog.org/resource/languoid/id/nort2752"
+    }
+  ],
+  "iso639-3": "gvy"
+}

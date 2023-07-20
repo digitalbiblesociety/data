@@ -1,0 +1,79 @@
+{
+  "pk": 5256,
+  "hid": "nit",
+  "father_pk": 3426,
+  "family_pk": 404,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Asifabad [asif1237]':1,'Metla-Kinwat [metl1237]':1,'Naiki [naik1250]':1,'Utnur [utnu1237]':1)'Southeastern Kolami [sout1549][nit]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4861",
+        "label": "Southeastern Kolami"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56767",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Naiki_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "81125",
+        "grammar_sketch",
+        1961,
+        33,
+        "Sudhibhushan Bhattacharya 1961"
+      ],
+      [
+        "319015",
+        "grammar_sketch",
+        1950,
+        6,
+        "P. Setumadhava Rao 1950"
+      ],
+      [
+        "304344",
+        "wordlist_or_less",
+        1906,
+        3,
+        "George A. Grierson 1906"
+      ]
+    ]
+  },
+  "id": "sout1549",
+  "name": "Southeastern Kolami",
+  "description": null,
+  "markup_description": null,
+  "latitude": 19.6908,
+  "longitude": 78.5936,
+  "classification": [
+    {
+      "name": "Dravidian",
+      "id": "drav1251",
+      "url": "https://glottolog.org/resource/languoid/id/drav1251"
+    },
+    {
+      "name": "Central Dravidian",
+      "id": "cent2227",
+      "url": "https://glottolog.org/resource/languoid/id/cent2227"
+    },
+    {
+      "name": "Kolami-Naiki",
+      "id": "kola1242",
+      "url": "https://glottolog.org/resource/languoid/id/kola1242"
+    }
+  ],
+  "iso639-3": "nit"
+}

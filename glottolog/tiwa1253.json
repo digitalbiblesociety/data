@@ -1,0 +1,103 @@
+{
+  "pk": 10398,
+  "hid": "lax",
+  "father_pk": 7429,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tiwa {India} [tiwa1253][lax]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4480",
+        "label": "Tiwa"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7810466",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tiwa_language_(India)",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "575216",
+        "grammar",
+        2014,
+        258,
+        "Muchahary, Laheram 2014"
+      ],
+      [
+        "549046",
+        "grammar",
+        1990,
+        250,
+        "Gogoi, Benu 1990"
+      ],
+      [
+        "101924",
+        "grammar_sketch",
+        1975,
+        63,
+        "Balawan, Michael 1975"
+      ],
+      [
+        "324006",
+        "phonology_or_text",
+        1965,
+        102,
+        "Balawan, Michael 1965"
+      ],
+      [
+        "162861",
+        "wordlist_or_less",
+        1903,
+        4,
+        "George A. Grierson 1903"
+      ]
+    ]
+  },
+  "id": "tiwa1253",
+  "name": "Tiwa (India)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 26.0667,
+  "longitude": 92.2583,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Brahmaputran",
+      "id": "brah1260",
+      "url": "https://glottolog.org/resource/languoid/id/brah1260"
+    },
+    {
+      "name": "Bodo-Garo",
+      "id": "bodo1279",
+      "url": "https://glottolog.org/resource/languoid/id/bodo1279"
+    },
+    {
+      "name": "Boroic",
+      "id": "boro1284",
+      "url": "https://glottolog.org/resource/languoid/id/boro1284"
+    },
+    {
+      "name": "Tiwa-Boro",
+      "id": "tiwa1256",
+      "url": "https://glottolog.org/resource/languoid/id/tiwa1256"
+    }
+  ],
+  "iso639-3": "lax"
+}

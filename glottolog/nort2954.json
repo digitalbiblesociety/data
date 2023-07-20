@@ -1,0 +1,106 @@
+{
+  "pk": 6122,
+  "hid": "pao",
+  "father_pk": 4110,
+  "family_pk": 155,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bannock [bann1248]':1,'North Northern Paiute [nort1551]':1,'South Northern Paiute [sout2967]':1)'Northern Paiute [nort2954][pao]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1916",
+        "label": "Northern Paiute"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_pno",
+        "label": "Paiute (Northern)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Northern_Paiute_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nort2954",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3360656",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "115850",
+        "long_grammar",
+        2003,
+        580,
+        "Thornes, Timothy Jon 2003"
+      ],
+      [
+        "90959",
+        "grammar",
+        1987,
+        172,
+        "Dick, Russell and Williams, Ed and Poldervaart, Arie 1987"
+      ],
+      [
+        "81711",
+        "grammar",
+        1982,
+        0,
+        "Langacker, Ronald W. 1982"
+      ],
+      [
+        "300075",
+        "grammar_sketch",
+        1974,
+        179,
+        "Michael J. P. Nichols 1974"
+      ],
+      [
+        "49701",
+        "phonology_or_text",
+        1911,
+        33,
+        "Waterman, T. T. 1911"
+      ]
+    ]
+  },
+  "id": "nort2954",
+  "name": "Northern Paiute",
+  "description": null,
+  "markup_description": null,
+  "latitude": 40.0799,
+  "longitude": -119.536,
+  "classification": [
+    {
+      "name": "Uto-Aztecan",
+      "id": "utoa1244",
+      "url": "https://glottolog.org/resource/languoid/id/utoa1244"
+    },
+    {
+      "name": "Northern Uto-Aztecan",
+      "id": "nort2953",
+      "url": "https://glottolog.org/resource/languoid/id/nort2953"
+    },
+    {
+      "name": "Numic",
+      "id": "numi1242",
+      "url": "https://glottolog.org/resource/languoid/id/numi1242"
+    },
+    {
+      "name": "Western Numic",
+      "id": "west2621",
+      "url": "https://glottolog.org/resource/languoid/id/west2621"
+    }
+  ],
+  "iso639-3": "pao"
+}

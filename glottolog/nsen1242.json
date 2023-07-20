@@ -1,0 +1,104 @@
+{
+  "pk": 18198,
+  "hid": "nse",
+  "father_pk": 15790,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Chipata Nsenga [ngon1271]':1,'Kunda [kund1254]':1,'Petauke Nsenga [nucl1397]':1)'Nsenga [nsen1242][nse]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3081996",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nsenga_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nse",
+        "label": "Nsenga"
+      }
+    ],
+    "meds": [
+      [
+        "22162",
+        "long_grammar",
+        1928,
+        337,
+        "Ranger, A. Sidney B. 1928"
+      ],
+      [
+        "9440",
+        "grammar_sketch",
+        1905,
+        100,
+        "Madan, Arthur Cornwallis 1905"
+      ],
+      [
+        "50191",
+        "wordlist_or_less",
+        1897,
+        9,
+        "Johnston, Harry Hamilton 1897"
+      ]
+    ]
+  },
+  "id": "nsen1242",
+  "name": "Nsenga",
+  "description": null,
+  "markup_description": null,
+  "latitude": -15.3946,
+  "longitude": 31.3544,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Narrow Bantu",
+      "id": "narr1281",
+      "url": "https://glottolog.org/resource/languoid/id/narr1281"
+    },
+    {
+      "name": "East Bantu",
+      "id": "east2731",
+      "url": "https://glottolog.org/resource/languoid/id/east2731"
+    },
+    {
+      "name": "Sabi",
+      "id": "sabi1248",
+      "url": "https://glottolog.org/resource/languoid/id/sabi1248"
+    }
+  ],
+  "iso639-3": "nse"
+}

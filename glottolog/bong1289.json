@@ -1,0 +1,89 @@
+{
+  "pk": 9193,
+  "hid": "bdg",
+  "father_pk": 6702,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Bonggi [bong1289][bdg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q2910053",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bonggi_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bgz",
+        "label": "Banggi"
+      }
+    ],
+    "meds": [
+      [
+        "144769",
+        "grammar_sketch",
+        1994,
+        250,
+        "Boutin, Michael E. 1994"
+      ],
+      [
+        "83528",
+        "grammar_sketch",
+        1988,
+        57,
+        "Boutin, Alanna Y. and Boutin, Michael E. 1988"
+      ],
+      [
+        "124789",
+        "wordlist_or_less",
+        1937,
+        20,
+        "Schneeberger, Werner F. 1937"
+      ]
+    ]
+  },
+  "id": "bong1289",
+  "name": "Bonggi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.29249,
+  "longitude": 117.174,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "North Borneo Malayo-Polynesian",
+      "id": "nort3253",
+      "url": "https://glottolog.org/resource/languoid/id/nort3253"
+    },
+    {
+      "name": "Sabahan",
+      "id": "saba1285",
+      "url": "https://glottolog.org/resource/languoid/id/saba1285"
+    },
+    {
+      "name": "Northeast Sabahan",
+      "id": "nort3172",
+      "url": "https://glottolog.org/resource/languoid/id/nort3172"
+    }
+  ],
+  "iso639-3": "bdg"
+}

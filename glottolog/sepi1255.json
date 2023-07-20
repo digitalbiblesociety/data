@@ -1,0 +1,72 @@
+{
+  "pk": 4811,
+  "hid": "iws",
+  "father_pk": 3077,
+  "family_pk": 304,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Sepik Iwam [sepi1255][iws]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10581",
+        "label": "Sepik Iwam"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sepik_Iwam_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q16893603",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "81993",
+        "phonology_or_text",
+        1972,
+        26,
+        "Conrad, Robert J. 1972"
+      ],
+      [
+        "130800",
+        "phonology_or_text",
+        1970,
+        70,
+        "Marilyn Laszlo and Judy Rehburg 1970"
+      ]
+    ]
+  },
+  "id": "sepi1255",
+  "name": "Sepik Iwam",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.30928,
+  "longitude": 142.117,
+  "classification": [
+    {
+      "name": "Sepik",
+      "id": "sepi1257",
+      "url": "https://glottolog.org/resource/languoid/id/sepi1257"
+    },
+    {
+      "name": "Iwam-Wogamus",
+      "id": "iwam1259",
+      "url": "https://glottolog.org/resource/languoid/id/iwam1259"
+    },
+    {
+      "name": "Iwamic",
+      "id": "iwam1260",
+      "url": "https://glottolog.org/resource/languoid/id/iwam1260"
+    }
+  ],
+  "iso639-3": "iws"
+}

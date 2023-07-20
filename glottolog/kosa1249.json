@@ -1,0 +1,79 @@
+{
+  "pk": 4517,
+  "hid": "kkl",
+  "father_pk": 2912,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Gilika [gili1242]':1,'Kosarek [kosa1250]':1,'Tiple [tipl1238]':1)'Kosarek Yale [kosa1249][kkl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6432995",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kosarek_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_yal",
+        "label": "Yale (Kosarek)"
+      }
+    ],
+    "meds": [
+      [
+        "76556",
+        "grammar_sketch",
+        1992,
+        96,
+        "Volker Heeschen 1992"
+      ],
+      [
+        "37015",
+        "wordlist_or_less",
+        1978,
+        4,
+        "Volker Heeschen 1978"
+      ],
+      [
+        "126692",
+        "wordlist_or_less",
+        1975,
+        1,
+        "C. L. Voorhoeve 1975"
+      ]
+    ]
+  },
+  "id": "kosa1249",
+  "name": "Kosarek Yale",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.06603,
+  "longitude": 139.645,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Mek",
+      "id": "mekk1240",
+      "url": "https://glottolog.org/resource/languoid/id/mekk1240"
+    },
+    {
+      "name": "Western Mek",
+      "id": "west2585",
+      "url": "https://glottolog.org/resource/languoid/id/west2585"
+    }
+  ],
+  "iso639-3": "kkl"
+}

@@ -1,0 +1,82 @@
+{
+  "pk": 8307,
+  "hid": "bdn",
+  "father_pk": 5809,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Baldemu [bald1241][bdn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/539",
+        "label": "Baldemu"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56280",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Baldemu_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "28536",
+        "wordlist_or_less",
+        1984,
+        18,
+        "Seignobos, Christian and Tourneux, Henry 1984"
+      ],
+      [
+        "312368",
+        "wordlist_or_less",
+        1922,
+        2,
+        "Strümpell, F. 1922-1923"
+      ]
+    ]
+  },
+  "id": "bald1241",
+  "name": "Baldemu",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.9078,
+  "longitude": 14.4674,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "Biu-Mandara",
+      "id": "bium1280",
+      "url": "https://glottolog.org/resource/languoid/id/bium1280"
+    },
+    {
+      "name": "North Biu-Mandara",
+      "id": "nort3156",
+      "url": "https://glottolog.org/resource/languoid/id/nort3156"
+    },
+    {
+      "name": "Maroua",
+      "id": "maro1246",
+      "url": "https://glottolog.org/resource/languoid/id/maro1246"
+    }
+  ],
+  "iso639-3": "bdn"
+}

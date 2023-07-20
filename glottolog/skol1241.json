@@ -1,0 +1,102 @@
+{
+  "pk": 6976,
+  "hid": "sms",
+  "father_pk": 4781,
+  "family_pk": 302,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Notozer [noto1238]':1,'Yokan [yoka1242]':1)'Skolt Saami [skol1241][sms]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3047",
+        "label": "Skolt Saami"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Skolt_Sami",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/skol1241",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q13271",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "302019",
+        "long_grammar",
+        2010,
+        478,
+        "Feist, Timothy 2010"
+      ],
+      [
+        "33951",
+        "grammar_sketch",
+        1973,
+        163,
+        "Korhonen, Mikko and Mosnikoff, Jouni and Sammallahti, Pekka 1973"
+      ],
+      [
+        "308808",
+        "phonology_or_text",
+        1958,
+        640,
+        "Itkonen, Toivo I. 1958"
+      ],
+      [
+        "300432",
+        "phonology_or_text",
+        1931,
+        162,
+        "Itkonen, Toivo I. 1931"
+      ],
+      [
+        "57640",
+        "wordlist_or_less",
+        1916,
+        126,
+        "Itkonen, Toivo Immanuel 1916"
+      ]
+    ]
+  },
+  "id": "skol1241",
+  "name": "Skolt Saami",
+  "description": null,
+  "markup_description": null,
+  "latitude": 68.8326,
+  "longitude": 29.7204,
+  "classification": [
+    {
+      "name": "Uralic",
+      "id": "ural1272",
+      "url": "https://glottolog.org/resource/languoid/id/ural1272"
+    },
+    {
+      "name": "Saami",
+      "id": "saam1281",
+      "url": "https://glottolog.org/resource/languoid/id/saam1281"
+    },
+    {
+      "name": "Eastern Saami",
+      "id": "east2324",
+      "url": "https://glottolog.org/resource/languoid/id/east2324"
+    },
+    {
+      "name": "Mainland Eastern Saami",
+      "id": "main1280",
+      "url": "https://glottolog.org/resource/languoid/id/main1280"
+    }
+  ],
+  "iso639-3": "sms"
+}

@@ -1,0 +1,90 @@
+{
+  "pk": 4652,
+  "hid": "ilo",
+  "father_pk": 2959,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Iloko [ilok1237][ilo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ilo",
+        "label": "Ilocano"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ilocano_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/ilok1237",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35936",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "154046",
+        "long_grammar",
+        1997,
+        544,
+        "Carl Ralph Galvez Rubino 1997"
+      ],
+      [
+        "568967",
+        "long_grammar",
+        1975,
+        470,
+        "Emma J. Fonacier Bernabe and Virginia Lapid and Bonifacio P. Sibayan 1975"
+      ],
+      [
+        "64979",
+        "long_grammar",
+        1895,
+        370,
+        "López, Francisco and Carro, Andrés. 1895"
+      ],
+      [
+        "588302",
+        "long_grammar",
+        1627,
+        343,
+        "Francisco López 1627"
+      ]
+    ]
+  },
+  "id": "ilok1237",
+  "name": "Iloko",
+  "description": null,
+  "markup_description": null,
+  "latitude": 15.9361,
+  "longitude": 120.993,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Northern Luzon",
+      "id": "nort3238",
+      "url": "https://glottolog.org/resource/languoid/id/nort3238"
+    }
+  ],
+  "iso639-3": "ilo"
+}

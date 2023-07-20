@@ -1,0 +1,106 @@
+{
+  "pk": 5961,
+  "hid": "ktd",
+  "father_pk": 3988,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kokata [koka1244][ktd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4445",
+        "label": "Kokatha"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/c3",
+        "label": "Kokatha"
+      },
+      {
+        "url": "https://phoible.org/languages/koka1244",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_gug",
+        "label": "Gugada"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q10547021",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "121339",
+        "grammar_sketch",
+        1972,
+        72,
+        "John T. Platt 1972"
+      ],
+      [
+        "302540",
+        "grammar_sketch",
+        1970,
+        3,
+        "Platt, John T. 1970"
+      ],
+      [
+        "2501",
+        "phonology_or_text",
+        1968,
+        3,
+        "Platt, John T. 1968"
+      ],
+      [
+        "1388",
+        "wordlist_or_less",
+        1920,
+        6,
+        "Black, John McConnell 1920"
+      ],
+      [
+        "3400",
+        "wordlist_or_less",
+        1896,
+        14,
+        "Helms, R. 1896"
+      ]
+    ]
+  },
+  "id": "koka1244",
+  "name": "Kokata",
+  "description": null,
+  "markup_description": null,
+  "latitude": -29.94,
+  "longitude": 135.55,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Desert Nyungic",
+      "id": "dese1234",
+      "url": "https://glottolog.org/resource/languoid/id/dese1234"
+    },
+    {
+      "name": "Wati",
+      "id": "wati1241",
+      "url": "https://glottolog.org/resource/languoid/id/wati1241"
+    },
+    {
+      "name": "Unclassified Wati",
+      "id": "unun9966",
+      "url": "https://glottolog.org/resource/languoid/id/unun9966"
+    }
+  ],
+  "iso639-3": "ktd"
+}

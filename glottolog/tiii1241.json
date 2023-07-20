@@ -1,0 +1,75 @@
+{
+  "pk": 9559,
+  "hid": "txq",
+  "father_pk": 6910,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tii [tiii1241][txq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/9129",
+        "label": "Tii"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7801784",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tii_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "84690",
+        "phonology_or_text",
+        1911,
+        135,
+        "Jonker, Johann Christoph Gerhard 1911"
+      ]
+    ]
+  },
+  "id": "tiii1241",
+  "name": "Tii",
+  "description": null,
+  "markup_description": null,
+  "latitude": -10.8425,
+  "longitude": 122.963,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Timor-Babar",
+      "id": "timo1265",
+      "url": "https://glottolog.org/resource/languoid/id/timo1265"
+    },
+    {
+      "name": "Rote-Meto",
+      "id": "rote1234",
+      "url": "https://glottolog.org/resource/languoid/id/rote1234"
+    },
+    {
+      "name": "Nuclear Rote",
+      "id": "east2858",
+      "url": "https://glottolog.org/resource/languoid/id/east2858"
+    }
+  ],
+  "iso639-3": "txq"
+}

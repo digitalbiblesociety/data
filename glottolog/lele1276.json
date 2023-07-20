@@ -1,0 +1,91 @@
+{
+  "pk": 11203,
+  "hid": "lln",
+  "father_pk": 8256,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Lele {Chad} [lele1276][lln]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q1641493",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lele_language_(Chad)",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/lele1276",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_lel",
+        "label": "Lele"
+      }
+    ],
+    "meds": [
+      [
+        "148078",
+        "long_grammar",
+        2001,
+        511,
+        "Frajzyngier, Zygmunt 2001"
+      ],
+      [
+        "17065",
+        "grammar_sketch",
+        1942,
+        197,
+        "Lami, Pierre 1942"
+      ]
+    ]
+  },
+  "id": "lele1276",
+  "name": "Lele (Chad)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.158,
+  "longitude": 15.81149,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "East Chadic",
+      "id": "east2632",
+      "url": "https://glottolog.org/resource/languoid/id/east2632"
+    },
+    {
+      "name": "East Chadic A",
+      "id": "east2640",
+      "url": "https://glottolog.org/resource/languoid/id/east2640"
+    },
+    {
+      "name": "East Chadic A.2",
+      "id": "east2645",
+      "url": "https://glottolog.org/resource/languoid/id/east2645"
+    },
+    {
+      "name": "East Chadic A.2 1",
+      "id": "east2721",
+      "url": "https://glottolog.org/resource/languoid/id/east2721"
+    }
+  ],
+  "iso639-3": "lln"
+}

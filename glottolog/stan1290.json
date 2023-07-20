@@ -1,0 +1,183 @@
+{
+  "pk": 26289,
+  "hid": "fra",
+  "father_pk": 25993,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Acadian [acad1238]':1,'Angevin [ange1244]':1,'Anglo-Norman [angl1258][xno]':1,'Berrichon [berr1239]':1,'Bourbonnais [bour1246]':1,'Camfranglais [camf1234]':1,'Dgernesiais [dger1238]':1,'Franco-Ontarien [fran1263]':1,'Jerriais [jerr1238][nrf]':1,('Bourguignon [bour1247]':1,'Champenois [cham1332]':1,'Franc-Comtois [fran1270]':1,'Gallo [gall1275]':1,'Lorraine [lorr1242]':1,'Normand [norm1245]':1,'Poitevin [poit1240]':1,'Santongeais [sant1407]':1)'Langues d''Oil [lang1337]':1,'Middle French [midd1316][frm]':1,'Québécois [queb1247]':1)'French [stan1290][fra]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 20,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_fre",
+        "label": "French"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/French_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/stan1290",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q150",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "309623",
+        "long_grammar",
+        2001,
+        1079,
+        "Claude Frey 2001"
+      ],
+      [
+        "305467",
+        "long_grammar",
+        1999,
+        802,
+        "Gisèle Carriere-Prignitz 1999"
+      ],
+      [
+        "36931",
+        "long_grammar",
+        1985,
+        528,
+        "Judge, Anne and Healey, F. G. 1985"
+      ],
+      [
+        "36929",
+        "long_grammar",
+        1983,
+        524,
+        "Anne Judge and F.G. Healey 1983"
+      ],
+      [
+        "53331",
+        "long_grammar",
+        1976,
+        476,
+        "Highfield, Arnold R. 1976"
+      ],
+      [
+        "162758",
+        "long_grammar",
+        1798,
+        368,
+        "Condillac, Étienne Bonnot de 1798"
+      ],
+      [
+        "11269",
+        "grammar",
+        1530,
+        43,
+        "J. Palsgrave 1530"
+      ],
+      [
+        "586010",
+        "phonology_or_text",
+        1521,
+        32,
+        "Alexander Barcley 1521"
+      ]
+    ]
+  },
+  "id": "stan1290",
+  "name": "French",
+  "description": null,
+  "markup_description": null,
+  "latitude": 48,
+  "longitude": 2,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Italic",
+      "id": "ital1284",
+      "url": "https://glottolog.org/resource/languoid/id/ital1284"
+    },
+    {
+      "name": "Latino-Faliscan",
+      "id": "lati1262",
+      "url": "https://glottolog.org/resource/languoid/id/lati1262"
+    },
+    {
+      "name": "Latinic",
+      "id": "lati1263",
+      "url": "https://glottolog.org/resource/languoid/id/lati1263"
+    },
+    {
+      "name": "Imperial Latin",
+      "id": "impe1234",
+      "url": "https://glottolog.org/resource/languoid/id/impe1234"
+    },
+    {
+      "name": "Romance",
+      "id": "roma1334",
+      "url": "https://glottolog.org/resource/languoid/id/roma1334"
+    },
+    {
+      "name": "Italo-Western Romance",
+      "id": "ital1285",
+      "url": "https://glottolog.org/resource/languoid/id/ital1285"
+    },
+    {
+      "name": "Western Romance",
+      "id": "west2813",
+      "url": "https://glottolog.org/resource/languoid/id/west2813"
+    },
+    {
+      "name": "Shifted Western Romance",
+      "id": "shif1234",
+      "url": "https://glottolog.org/resource/languoid/id/shif1234"
+    },
+    {
+      "name": "Northwestern Shifted Romance",
+      "id": "nort3208",
+      "url": "https://glottolog.org/resource/languoid/id/nort3208"
+    },
+    {
+      "name": "Gallo-Rhaetian",
+      "id": "gall1280",
+      "url": "https://glottolog.org/resource/languoid/id/gall1280"
+    },
+    {
+      "name": "Oil",
+      "id": "oila1234",
+      "url": "https://glottolog.org/resource/languoid/id/oila1234"
+    },
+    {
+      "name": "Central Oil",
+      "id": "cent2283",
+      "url": "https://glottolog.org/resource/languoid/id/cent2283"
+    },
+    {
+      "name": "Macro-French",
+      "id": "macr1273",
+      "url": "https://glottolog.org/resource/languoid/id/macr1273"
+    },
+    {
+      "name": "Global French",
+      "id": "glob1239",
+      "url": "https://glottolog.org/resource/languoid/id/glob1239"
+    }
+  ],
+  "iso639-3": "fra"
+}

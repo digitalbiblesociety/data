@@ -1,0 +1,71 @@
+{
+  "pk": 2100,
+  "hid": "urt",
+  "father_pk": 955,
+  "family_pk": 103,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Wasep Nau [wase1250]':1,'Wasep Yam [wase1251]':1,('Wusyep Ngel [wusy1244]':1,'Wusyep Tep [wusy1241]':1,'Wusyep Yehre [wusy1243]':1)'Yehreic [wusy1242]':1)'Urat [urat1244][urt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10556",
+        "label": "Urat"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3502084",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Urat_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_urt",
+        "label": "Urat"
+      }
+    ],
+    "meds": [
+      [
+        "315417",
+        "grammar_sketch",
+        1989,
+        102,
+        "Barney Barnes 1989"
+      ],
+      [
+        "138610",
+        "wordlist_or_less",
+        1968,
+        1,
+        "Donald C. Laycock 1968"
+      ]
+    ]
+  },
+  "id": "urat1244",
+  "name": "Urat",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.60065,
+  "longitude": 142.79,
+  "classification": [
+    {
+      "name": "Nuclear Torricelli",
+      "id": "nucl1708",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1708"
+    },
+    {
+      "name": "Kombio-Arapesh-Urat",
+      "id": "komb1276",
+      "url": "https://glottolog.org/resource/languoid/id/komb1276"
+    }
+  ],
+  "iso639-3": "urt"
+}

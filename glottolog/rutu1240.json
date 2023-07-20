@@ -1,0 +1,111 @@
+{
+  "pk": 10676,
+  "hid": "rut",
+  "father_pk": 7771,
+  "family_pk": 426,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Borch [borc1243]':1,'Ixreko-Muxrek [ixre1238]':1,'Shina {Nakh-Daghestan} [shin1265]':1)'Rutul [rutu1240][rut]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3046",
+        "label": "Rutul"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_rut",
+        "label": "Rutul"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Rutul_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/rutu1240",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36757",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "49612",
+        "long_grammar",
+        2004,
+        308,
+        "Garun X. Ibragimov 2004"
+      ],
+      [
+        "143370",
+        "long_grammar",
+        1978,
+        307,
+        "Garun X. Ibragimov 1978"
+      ],
+      [
+        "22665",
+        "grammar",
+        1967,
+        11,
+        "Dzhejranishvili, E. F. 1967"
+      ],
+      [
+        "304861",
+        "grammar_sketch",
+        1966,
+        0,
+        "E. Džeiranišvili 1966"
+      ],
+      [
+        "18941",
+        "wordlist_or_less",
+        1928,
+        30,
+        "Adolf Dirr 1928"
+      ]
+    ]
+  },
+  "id": "rutu1240",
+  "name": "Rutul",
+  "description": null,
+  "markup_description": null,
+  "latitude": 41.6187,
+  "longitude": 47.3244,
+  "classification": [
+    {
+      "name": "Nakh-Daghestanian",
+      "id": "nakh1245",
+      "url": "https://glottolog.org/resource/languoid/id/nakh1245"
+    },
+    {
+      "name": "Daghestanian",
+      "id": "dagh1238",
+      "url": "https://glottolog.org/resource/languoid/id/dagh1238"
+    },
+    {
+      "name": "Lezgic",
+      "id": "lezg1248",
+      "url": "https://glottolog.org/resource/languoid/id/lezg1248"
+    },
+    {
+      "name": "Samur",
+      "id": "nucl1321",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1321"
+    },
+    {
+      "name": "Western Samur",
+      "id": "west2428",
+      "url": "https://glottolog.org/resource/languoid/id/west2428"
+    }
+  ],
+  "iso639-3": "rut"
+}

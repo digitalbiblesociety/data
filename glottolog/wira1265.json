@@ -1,0 +1,83 @@
+{
+  "pk": 4083,
+  "hid": "wgu",
+  "father_pk": 2330,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Wirangu [wira1265][wgu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3344",
+        "label": "Wirangu"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2092286",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Wirangu_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_wir",
+        "label": "Wirangu"
+      }
+    ],
+    "meds": [
+      [
+        "313647",
+        "grammar",
+        1999,
+        239,
+        "Luise A. Hercus 1999"
+      ],
+      [
+        "302540",
+        "grammar_sketch",
+        1970,
+        3,
+        "Platt, John T. 1970"
+      ],
+      [
+        "21824",
+        "wordlist_or_less",
+        1845,
+        77,
+        "Eyre, Edward John 1845"
+      ]
+    ]
+  },
+  "id": "wira1265",
+  "name": "Wirangu",
+  "description": null,
+  "markup_description": null,
+  "latitude": -32,
+  "longitude": 134,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Arandic-Thura-Yura",
+      "id": "aran1266",
+      "url": "https://glottolog.org/resource/languoid/id/aran1266"
+    },
+    {
+      "name": "Thura-Yura",
+      "id": "thur1253",
+      "url": "https://glottolog.org/resource/languoid/id/thur1253"
+    }
+  ],
+  "iso639-3": "wgu"
+}

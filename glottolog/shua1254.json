@@ -1,0 +1,102 @@
+{
+  "pk": 6200,
+  "hid": "shg",
+  "father_pk": 4179,
+  "family_pk": 171,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Cara {Botswana} [cara1246]':1,'Danisi [dani1286]':1,'Deti [deti1240]':1,'Ganádi [gana1276]':1,'N|oo-Khwe [nook1246]':1,'Shua-Khwe [shua1255]':1,'Tshidi-Khwe [tshi1238]':1,'|Oree-Khwe [oree1238]':1,'|Xaise [xais1238]':1,'||''Aiye [aiye1242]':1)'Shua [shua1254][shg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 10,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/600",
+        "label": "Shua"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3501092",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Shua_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_det",
+        "label": "Deti"
+      }
+    ],
+    "meds": [
+      [
+        "311495",
+        "grammar_sketch",
+        2013,
+        25,
+        "Rainer Vossen 2013"
+      ],
+      [
+        "148882",
+        "phonology_or_text",
+        1997,
+        12,
+        "Voßen, Rainer 1997"
+      ],
+      [
+        "47851",
+        "wordlist_or_less",
+        1962,
+        3,
+        "Köhler, Oswin 1962"
+      ],
+      [
+        "23987",
+        "wordlist_or_less",
+        1905,
+        33,
+        "Passarge, Siegfried 1905"
+      ],
+      [
+        "69443",
+        "wordlist_or_less",
+        1851,
+        3,
+        "Livingstone, David 1851"
+      ]
+    ]
+  },
+  "id": "shua1254",
+  "name": "Shua",
+  "description": null,
+  "markup_description": null,
+  "latitude": -21.52,
+  "longitude": 26.0238,
+  "classification": [
+    {
+      "name": "Khoe-Kwadi",
+      "id": "khoe1240",
+      "url": "https://glottolog.org/resource/languoid/id/khoe1240"
+    },
+    {
+      "name": "Khoe",
+      "id": "khoe1241",
+      "url": "https://glottolog.org/resource/languoid/id/khoe1241"
+    },
+    {
+      "name": "Non-Khoekhoe",
+      "id": "nonk1236",
+      "url": "https://glottolog.org/resource/languoid/id/nonk1236"
+    },
+    {
+      "name": "Ost-Kxoe",
+      "id": "ostk1235",
+      "url": "https://glottolog.org/resource/languoid/id/ostk1235"
+    }
+  ],
+  "iso639-3": "shg"
+}

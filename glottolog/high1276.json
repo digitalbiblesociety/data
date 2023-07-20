@@ -1,0 +1,97 @@
+{
+  "pk": 3522,
+  "hid": "poi",
+  "father_pk": 1881,
+  "family_pk": 3,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Highland Popoluca [high1276][poi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_zqs",
+        "label": "Popoluca (Sierra)"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/6169",
+        "label": "Sierra Popoluca"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sierra_Popoluca",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7511556",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "8986",
+        "long_grammar",
+        2009,
+        1050,
+        "de Jong Boudreault, Lynda J. 2009"
+      ],
+      [
+        "34157",
+        "grammar",
+        1984,
+        133,
+        "Elson, Benjamin F. 1984"
+      ],
+      [
+        "308246",
+        "grammar_sketch",
+        1960,
+        137,
+        "Benjamin F. Elson 1960"
+      ],
+      [
+        "138715",
+        "grammar_sketch",
+        1948,
+        48,
+        "Foster, Mary Frazer Le Cron and Foster, George McClelland 1948"
+      ],
+      [
+        "302638",
+        "grammar_sketch",
+        1940,
+        41,
+        "George M. Foster 1940"
+      ]
+    ]
+  },
+  "id": "high1276",
+  "name": "Highland Popoluca",
+  "description": null,
+  "markup_description": null,
+  "latitude": 18.198,
+  "longitude": -94.9109,
+  "classification": [
+    {
+      "name": "Mixe-Zoque",
+      "id": "mixe1284",
+      "url": "https://glottolog.org/resource/languoid/id/mixe1284"
+    },
+    {
+      "name": "Zoque",
+      "id": "zoqu1261",
+      "url": "https://glottolog.org/resource/languoid/id/zoqu1261"
+    },
+    {
+      "name": "Gulf Zoque",
+      "id": "gulf1238",
+      "url": "https://glottolog.org/resource/languoid/id/gulf1238"
+    }
+  ],
+  "iso639-3": "poi"
+}

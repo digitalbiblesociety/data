@@ -1,0 +1,81 @@
+{
+  "pk": 6020,
+  "hid": "xbe",
+  "father_pk": 4028,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Bigambal [biga1237][xbe]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10756",
+        "label": "Bigambal"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q16841801",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bigambal_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/biga1237",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "477676",
+        "wordlist_or_less",
+        1875,
+        8,
+        "Ridley, William 1875"
+      ],
+      [
+        "137322",
+        "wordlist_or_less",
+        1873,
+        6,
+        "Harriott Barlow 1873"
+      ]
+    ]
+  },
+  "id": "biga1237",
+  "name": "Bigambal",
+  "description": null,
+  "markup_description": null,
+  "latitude": -28.266,
+  "longitude": 149.515,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "East Queensland Border Pama Nyungan",
+      "id": "east2770",
+      "url": "https://glottolog.org/resource/languoid/id/east2770"
+    },
+    {
+      "name": "Yugambalic",
+      "id": "yuga1242",
+      "url": "https://glottolog.org/resource/languoid/id/yuga1242"
+    },
+    {
+      "name": "Yugambal-Bigambal",
+      "id": "yuga1243",
+      "url": "https://glottolog.org/resource/languoid/id/yuga1243"
+    }
+  ],
+  "iso639-3": "xbe"
+}

@@ -1,0 +1,89 @@
+{
+  "pk": 5972,
+  "hid": "lnj",
+  "father_pk": 3996,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Linngithigh [leni1238][lnj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_lnj",
+        "label": "Linngithig"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/y26",
+        "label": "Linngithigh"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/6666",
+        "label": "Linngithigh"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Linngithigh_dialect",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/leni1238",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3915694",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "77970",
+        "grammar_sketch",
+        1966,
+        22,
+        "Hale, Kenneth L. 1966"
+      ],
+      [
+        "53361",
+        "wordlist_or_less",
+        1964,
+        3,
+        "Kenneth Hale 1964"
+      ]
+    ]
+  },
+  "id": "leni1238",
+  "name": "Linngithigh",
+  "description": null,
+  "markup_description": null,
+  "latitude": -12.771375,
+  "longitude": 141.962,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Paman",
+      "id": "pama1251",
+      "url": "https://glottolog.org/resource/languoid/id/pama1251"
+    },
+    {
+      "name": "Northern Pama",
+      "id": "nort2758",
+      "url": "https://glottolog.org/resource/languoid/id/nort2758"
+    },
+    {
+      "name": "Linngithigh-Alngith",
+      "id": "leni1237",
+      "url": "https://glottolog.org/resource/languoid/id/leni1237"
+    }
+  ],
+  "iso639-3": "lnj"
+}

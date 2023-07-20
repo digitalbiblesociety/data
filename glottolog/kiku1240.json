@@ -1,0 +1,132 @@
+{
+  "pk": 21985,
+  "hid": "kik",
+  "father_pk": 20220,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Gichugu [gich1238]':1,'Mathira [math1238]':1,'Ndia [ndia1238]':1,'Northern Gikuyu [nort2797]':1,'Southern Gikuyu [sout2813]':1)'Kikuyu [kiku1240][kik]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kik",
+        "label": "Kikuyu"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kikuyu_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kiku1240",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33587",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "9569",
+        "long_grammar",
+        1985,
+        357,
+        "Bennett, Patrick R. and Biersteker, Ann [Joyce] and Gikonyo, Waithira [Lucy] and Hershberg, Susan and Kamande, Joel and Harford [Perez], Carolyn and Swearingen, Martha 1985"
+      ],
+      [
+        "101072",
+        "grammar",
+        1951,
+        281,
+        "Barlow, Arthur Ruffell 1951"
+      ],
+      [
+        "79455",
+        "grammar",
+        1914,
+        0,
+        "Barlow, Arthur Ruffell 1914"
+      ],
+      [
+        "105524",
+        "grammar",
+        1905,
+        0,
+        "McGregor, Arthur Wallace 1905"
+      ],
+      [
+        "140954",
+        "grammar",
+        1902,
+        0,
+        "Héméry, A. 1902"
+      ]
+    ]
+  },
+  "id": "kiku1240",
+  "name": "Kikuyu",
+  "description": null,
+  "markup_description": null,
+  "latitude": -0.29005,
+  "longitude": 36.719,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Narrow Bantu",
+      "id": "narr1281",
+      "url": "https://glottolog.org/resource/languoid/id/narr1281"
+    },
+    {
+      "name": "East Bantu",
+      "id": "east2731",
+      "url": "https://glottolog.org/resource/languoid/id/east2731"
+    },
+    {
+      "name": "Northeast Savanna Bantu",
+      "id": "nort3203",
+      "url": "https://glottolog.org/resource/languoid/id/nort3203"
+    },
+    {
+      "name": "Central Kenya Bantu",
+      "id": "cent2274",
+      "url": "https://glottolog.org/resource/languoid/id/cent2274"
+    },
+    {
+      "name": "Gikuyu-Temi",
+      "id": "giku1234",
+      "url": "https://glottolog.org/resource/languoid/id/giku1234"
+    }
+  ],
+  "iso639-3": "kik"
+}

@@ -1,0 +1,94 @@
+{
+  "pk": 12870,
+  "hid": "guw",
+  "father_pk": 9907,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Gun [gunn1250][guw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_guw",
+        "label": "Gungbe"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Gun_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3111668",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "68569",
+        "grammar",
+        1979,
+        288,
+        "Hazoume, Marc-Laurent 1979"
+      ],
+      [
+        "321815",
+        "phonology_or_text",
+        1955,
+        12,
+        "Feyer, Ursula 1955"
+      ],
+      [
+        "159037",
+        "phonology_or_text",
+        1952,
+        8,
+        "Westermann, Diedrich 1952"
+      ]
+    ]
+  },
+  "id": "gunn1250",
+  "name": "Gun",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.48529,
+  "longitude": 2.76767,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Kwa Volta-Congo",
+      "id": "kwav1236",
+      "url": "https://glottolog.org/resource/languoid/id/kwav1236"
+    },
+    {
+      "name": "Gbe",
+      "id": "gbee1241",
+      "url": "https://glottolog.org/resource/languoid/id/gbee1241"
+    },
+    {
+      "name": "Eastern Gbe",
+      "id": "east2711",
+      "url": "https://glottolog.org/resource/languoid/id/east2711"
+    },
+    {
+      "name": "Fongbeic",
+      "id": "fong1244",
+      "url": "https://glottolog.org/resource/languoid/id/fong1244"
+    }
+  ],
+  "iso639-3": "guw"
+}

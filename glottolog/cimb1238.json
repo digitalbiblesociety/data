@@ -1,0 +1,133 @@
+{
+  "pk": 22707,
+  "hid": "cim",
+  "father_pk": 20935,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Lusernese Cimbrian [luse1250]':1,'Sette Comuni Cimbrian [sett1242]':1,'Tredici Communi Cimbrian [tred1238]':1)'Cimbrian [cimb1238][cim]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3164",
+        "label": "Cimbrian"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cimbrian_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q37053",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "112280",
+        "long_grammar",
+        2008,
+        1016,
+        "Schweizer, Bruno 2008"
+      ],
+      [
+        "74482",
+        "long_grammar",
+        2003,
+        302,
+        "Tyroller, Hans 2003"
+      ],
+      [
+        "573679",
+        "grammar_sketch",
+        1925,
+        320,
+        "Eberhard Kranzmayer 1981, 1985 [1925]"
+      ],
+      [
+        "568535",
+        "grammar_sketch",
+        1905,
+        152,
+        "Bacher, Josef 1905"
+      ],
+      [
+        "576981",
+        "phonology_or_text",
+        1855,
+        212,
+        "Schmeller, Johann A. 1855"
+      ]
+    ]
+  },
+  "id": "cimb1238",
+  "name": "Cimbrian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 45.921,
+  "longitude": 11.324,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Germanic",
+      "id": "germ1287",
+      "url": "https://glottolog.org/resource/languoid/id/germ1287"
+    },
+    {
+      "name": "Northwest Germanic",
+      "id": "nort3152",
+      "url": "https://glottolog.org/resource/languoid/id/nort3152"
+    },
+    {
+      "name": "West Germanic",
+      "id": "west2793",
+      "url": "https://glottolog.org/resource/languoid/id/west2793"
+    },
+    {
+      "name": "High German",
+      "id": "high1289",
+      "url": "https://glottolog.org/resource/languoid/id/high1289"
+    },
+    {
+      "name": "Upper German",
+      "id": "high1286",
+      "url": "https://glottolog.org/resource/languoid/id/high1286"
+    },
+    {
+      "name": "Middle-Modern High German",
+      "id": "midd1349",
+      "url": "https://glottolog.org/resource/languoid/id/midd1349"
+    },
+    {
+      "name": "Modern High German",
+      "id": "mode1258",
+      "url": "https://glottolog.org/resource/languoid/id/mode1258"
+    },
+    {
+      "name": "Bairisch",
+      "id": "baye1239",
+      "url": "https://glottolog.org/resource/languoid/id/baye1239"
+    },
+    {
+      "name": "Global South Bavarian",
+      "id": "glob1242",
+      "url": "https://glottolog.org/resource/languoid/id/glob1242"
+    }
+  ],
+  "iso639-3": "cim"
+}

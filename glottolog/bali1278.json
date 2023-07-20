@@ -1,0 +1,93 @@
+{
+  "pk": 9328,
+  "hid": "ban",
+  "father_pk": 6785,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Highland Bali [high1274]':1,'Lowland Bali [lowl1258]':1,'Nusa Penida [nusa1244]':1)'Balinese [bali1278][ban]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bal",
+        "label": "Balinese"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Balinese_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/bali1278",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33070",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "59998",
+        "long_grammar",
+        1977,
+        437,
+        "Charles C. Barber 1977"
+      ],
+      [
+        "69979",
+        "grammar_sketch",
+        1948,
+        102,
+        "Kersten, J. 1948"
+      ],
+      [
+        "568900",
+        "wordlist_or_less",
+        1936,
+        20,
+        "Belo, J. 1936"
+      ]
+    ]
+  },
+  "id": "bali1278",
+  "name": "Balinese",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.35714,
+  "longitude": 115.075,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Malayo-Sumbawan",
+      "id": "mala1536",
+      "url": "https://glottolog.org/resource/languoid/id/mala1536"
+    },
+    {
+      "name": "North and East Malayo-Sumbawan",
+      "id": "nort3170",
+      "url": "https://glottolog.org/resource/languoid/id/nort3170"
+    },
+    {
+      "name": "Bali-Sasak-Sumbawa",
+      "id": "bali1277",
+      "url": "https://glottolog.org/resource/languoid/id/bali1277"
+    }
+  ],
+  "iso639-3": "ban"
+}

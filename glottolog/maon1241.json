@@ -1,0 +1,87 @@
+{
+  "pk": 13495,
+  "hid": "mmd",
+  "father_pk": 10428,
+  "family_pk": 356,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Maonan [maon1241][mmd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1432",
+        "label": "Maonan"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3092293",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Maonan_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "52854",
+        "long_grammar",
+        2008,
+        457,
+        "Lu, Tian Qiao 2008"
+      ],
+      [
+        "114450",
+        "grammar",
+        1980,
+        110,
+        "Liang, Min 1980"
+      ]
+    ]
+  },
+  "id": "maon1241",
+  "name": "Maonan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 25.0169,
+  "longitude": 108.024,
+  "classification": [
+    {
+      "name": "Tai-Kadai",
+      "id": "taik1256",
+      "url": "https://glottolog.org/resource/languoid/id/taik1256"
+    },
+    {
+      "name": "Kam-Tai",
+      "id": "kamt1241",
+      "url": "https://glottolog.org/resource/languoid/id/kamt1241"
+    },
+    {
+      "name": "Kam-Sui",
+      "id": "kams1241",
+      "url": "https://glottolog.org/resource/languoid/id/kams1241"
+    },
+    {
+      "name": "Then-MMS",
+      "id": "then1235",
+      "url": "https://glottolog.org/resource/languoid/id/then1235"
+    },
+    {
+      "name": "Maonan-Mak-Sui",
+      "id": "maon1239",
+      "url": "https://glottolog.org/resource/languoid/id/maon1239"
+    },
+    {
+      "name": "Maonan-Chadong",
+      "id": "maon1240",
+      "url": "https://glottolog.org/resource/languoid/id/maon1240"
+    }
+  ],
+  "iso639-3": "mmd"
+}

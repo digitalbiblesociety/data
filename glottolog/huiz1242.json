@@ -1,0 +1,85 @@
+{
+  "pk": 10313,
+  "hid": "czh",
+  "father_pk": 7398,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Jingzhan [jing1261]':1,('Hongchuan [hong1243]':1,'Hongmen [hong1244]':1,'Shexian [shex1234]':1,'Tangcun [tang1380]':1)'Jixi [jixi1238]':1,'Qide [qide1238]':1,('Huangshan [huan1251]':1,'Southeastern Qimen [sout3255]':1,'Tunxi [tunx1234]':1,'Wuyuan [wuyu1234]':1,'Xiuning [xiun1234]':1,'Yixian [yixi1234]':1)'Xiuyi [xiuy1238]':1,'Yanzhou [yanz1241]':1)'Hui Chinese [huiz1242][czh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 15,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56546",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Huizhou_Chinese",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "588317",
+        "long_grammar",
+        2018,
+        346,
+        "Lu, Wen 2018"
+      ],
+      [
+        "550726",
+        "grammar_sketch",
+        1997,
+        134,
+        "Mèng, Qìnghuì 1997"
+      ],
+      [
+        "553030",
+        "grammar_sketch",
+        1965,
+        103,
+        "Zhào, Yuánrèn and Yáng, Shíféng 1965"
+      ]
+    ]
+  },
+  "id": "huiz1242",
+  "name": "Hui Chinese",
+  "description": null,
+  "markup_description": null,
+  "latitude": 29.7646,
+  "longitude": 118.232,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Sinitic",
+      "id": "sini1245",
+      "url": "https://glottolog.org/resource/languoid/id/sini1245"
+    },
+    {
+      "name": "Classical-Middle-Modern Sinitic",
+      "id": "clas1255",
+      "url": "https://glottolog.org/resource/languoid/id/clas1255"
+    },
+    {
+      "name": "Middle-Modern Sinitic",
+      "id": "midd1354",
+      "url": "https://glottolog.org/resource/languoid/id/midd1354"
+    },
+    {
+      "name": "Wu-Hui Chinese",
+      "id": "wuhu1234",
+      "url": "https://glottolog.org/resource/languoid/id/wuhu1234"
+    }
+  ],
+  "iso639-3": "czh"
+}

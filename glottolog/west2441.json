@@ -1,0 +1,97 @@
+{
+  "pk": 8543,
+  "hid": "are",
+  "father_pk": 6075,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Akerre [aker1238]':1,'Pertame [pert1234]':1,'Tyuretye Arrernte [tyur1234]':1)'Western Arrarnta [west2441][are]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_awe",
+        "label": "Arrernte (Western)"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/c47",
+        "label": "Western Arrarnta"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/6273",
+        "label": "Western Arrarnte"
+      },
+      {
+        "url": "https://phoible.org/languages/west2441",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12645549",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "311022",
+        "grammar",
+        1944,
+        224,
+        "T. G. H. Strehlow 1944"
+      ],
+      [
+        "118496",
+        "grammar",
+        1942,
+        162,
+        "T. G. H. Strehlow 1942, 1942, 1943, 1943, 1943, 1944"
+      ],
+      [
+        "80633",
+        "grammar_sketch",
+        1891,
+        54,
+        "H. Kempe 1891"
+      ]
+    ]
+  },
+  "id": "west2441",
+  "name": "Western Arrarnta",
+  "description": null,
+  "markup_description": null,
+  "latitude": -24.05052,
+  "longitude": 133.24621,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Arandic-Thura-Yura",
+      "id": "aran1266",
+      "url": "https://glottolog.org/resource/languoid/id/aran1266"
+    },
+    {
+      "name": "Arandic",
+      "id": "aran1267",
+      "url": "https://glottolog.org/resource/languoid/id/aran1267"
+    },
+    {
+      "name": "South Arandic",
+      "id": "sout3384",
+      "url": "https://glottolog.org/resource/languoid/id/sout3384"
+    },
+    {
+      "name": "Upper Arrernte",
+      "id": "aran1263",
+      "url": "https://glottolog.org/resource/languoid/id/aran1263"
+    }
+  ],
+  "iso639-3": "are"
+}

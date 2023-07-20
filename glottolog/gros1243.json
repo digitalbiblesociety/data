@@ -1,0 +1,103 @@
+{
+  "pk": 8810,
+  "hid": "ats",
+  "father_pk": 6299,
+  "family_pk": 178,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Gros Ventre [gros1243][ats]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2440",
+        "label": "Gros Ventre"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56628",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Gros_Ventre_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "663409",
+        "grammar",
+        2007,
+        0,
+        "Johansen, Bruce E. 2007"
+      ],
+      [
+        "36243",
+        "phonology_or_text",
+        1969,
+        8,
+        "Zdenek Salzmann 1969"
+      ],
+      [
+        "70706",
+        "wordlist_or_less",
+        1967,
+        15,
+        "Taylor, Allan 1967"
+      ],
+      [
+        "149413",
+        "wordlist_or_less",
+        1916,
+        8,
+        "Kroeber, Alfred Louis 1916"
+      ],
+      [
+        "573718",
+        "wordlist_or_less",
+        1908,
+        141,
+        "Kroeber, A. L. 1908"
+      ]
+    ]
+  },
+  "id": "gros1243",
+  "name": "Gros Ventre",
+  "description": null,
+  "markup_description": null,
+  "latitude": 48.4834,
+  "longitude": -108.738,
+  "classification": [
+    {
+      "name": "Algic",
+      "id": "algi1248",
+      "url": "https://glottolog.org/resource/languoid/id/algi1248"
+    },
+    {
+      "name": "Algonquian-Blackfoot",
+      "id": "algo1256",
+      "url": "https://glottolog.org/resource/languoid/id/algo1256"
+    },
+    {
+      "name": "Algonquian",
+      "id": "algo1257",
+      "url": "https://glottolog.org/resource/languoid/id/algo1257"
+    },
+    {
+      "name": "Arapahoic",
+      "id": "arap1273",
+      "url": "https://glottolog.org/resource/languoid/id/arap1273"
+    },
+    {
+      "name": "Arapaho-Gros Ventre-Besawunena",
+      "id": "arap1280",
+      "url": "https://glottolog.org/resource/languoid/id/arap1280"
+    }
+  ],
+  "iso639-3": "ats"
+}

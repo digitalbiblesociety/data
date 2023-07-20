@@ -1,0 +1,79 @@
+{
+  "pk": 4841,
+  "hid": "yab",
+  "father_pk": 3097,
+  "family_pk": 312,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Yuhup [yuhu1238][yab]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/634",
+        "label": "Yuhup"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3573115",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/yuhu1238",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "76408",
+        "long_grammar",
+        2002,
+        484,
+        "Ospina Bozzi, Ana Maria 2002"
+      ],
+      [
+        "40361",
+        "grammar_sketch",
+        1977,
+        18,
+        "Moore, Barbara J. 1977"
+      ],
+      [
+        "117675",
+        "wordlist_or_less",
+        1906,
+        10,
+        "Theodor Koch-Grünberg 1906"
+      ]
+    ]
+  },
+  "id": "yuhu1238",
+  "name": "Yuhup",
+  "description": null,
+  "markup_description": null,
+  "latitude": 0.2485,
+  "longitude": -69.8079,
+  "classification": [
+    {
+      "name": "Naduhup",
+      "id": "nada1235",
+      "url": "https://glottolog.org/resource/languoid/id/nada1235"
+    },
+    {
+      "name": "Eastern Naduhup",
+      "id": "east2549",
+      "url": "https://glottolog.org/resource/languoid/id/east2549"
+    },
+    {
+      "name": "Hup-Yuhup",
+      "id": "hupy1235",
+      "url": "https://glottolog.org/resource/languoid/id/hupy1235"
+    }
+  ],
+  "iso639-3": "yab"
+}

@@ -1,0 +1,71 @@
+{
+  "pk": 3182,
+  "hid": "raw",
+  "father_pk": 1654,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Agu [aguu1241]':1,'Hpungsi [hpun1238]':1,'Htiselwang [htis1238]':1,'Kunlang [kunl1238]':1,'Longmi [long1385]':1,'Matwanly [matw1238]':1,'Mutwang [mutw1238]':1,'Nuclear Rawang [nucl1319]':1,'Serhta [serh1238]':1,'Serwang [serw1238]':1,'Tangsarr [tang1339]':1,'Taron [taro1261]':1,'Wadamkong [wada1259]':1,'Wahke [wahk1238]':1,'Zithung [zith1239]':1)'Rawang [rawa1265][raw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 15,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_raw",
+        "label": "Rawang"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Rawang_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/rawa1265",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q542564",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "575015",
+        "grammar_sketch",
+        1980,
+        170,
+        "{Burmese Military} 1980"
+      ],
+      [
+        "155285",
+        "grammar_sketch",
+        1934,
+        132,
+        "J. T. O. Barnard 1934"
+      ]
+    ]
+  },
+  "id": "rawa1265",
+  "name": "Rawang",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.1027,
+  "longitude": 97.0738,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Nungish",
+      "id": "nung1293",
+      "url": "https://glottolog.org/resource/languoid/id/nung1293"
+    }
+  ],
+  "iso639-3": "raw"
+}

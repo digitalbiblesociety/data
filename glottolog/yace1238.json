@@ -1,0 +1,78 @@
+{
+  "pk": 9942,
+  "hid": "ekr",
+  "father_pk": 7168,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Alifokpa [alif1238]':1,'Ijiegu [ijie1238]':1)'Yace [yace1238][ekr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q36901",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yace_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "145992",
+        "phonology_or_text",
+        1970,
+        40,
+        "Stahlke, Herbert Frederick Walter 1970"
+      ],
+      [
+        "12958",
+        "wordlist_or_less",
+        1930,
+        2,
+        "Watson, C.B.G. 1930"
+      ]
+    ]
+  },
+  "id": "yace1238",
+  "name": "Yace",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.84259,
+  "longitude": 8.84077,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Idomoid",
+      "id": "idom1262",
+      "url": "https://glottolog.org/resource/languoid/id/idom1262"
+    },
+    {
+      "name": "Yatye-Akpa",
+      "id": "yaty1238",
+      "url": "https://glottolog.org/resource/languoid/id/yaty1238"
+    }
+  ],
+  "iso639-3": "ekr"
+}

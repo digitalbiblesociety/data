@@ -1,0 +1,92 @@
+{
+  "pk": 14731,
+  "hid": "mit",
+  "father_pk": 11774,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Southern Puebla Mixtec [sout3001][mit]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10534",
+        "label": "Northern Baja Mixtec"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Southern_Puebla_Mixtec",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7570345",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "582129",
+        "grammar_sketch",
+        1997,
+        0,
+        "Vázquez Peralta, Rodrigo 1997"
+      ],
+      [
+        "579076",
+        "phonology_or_text",
+        1899,
+        0,
+        "{Anónimo} 1899"
+      ]
+    ]
+  },
+  "id": "sout3001",
+  "name": "Southern Puebla Mixtec",
+  "description": null,
+  "markup_description": null,
+  "latitude": 18.2123,
+  "longitude": -97.9572,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Amuzgo-Mixtecan",
+      "id": "amuz1253",
+      "url": "https://glottolog.org/resource/languoid/id/amuz1253"
+    },
+    {
+      "name": "Mixtecan",
+      "id": "mixt1422",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1422"
+    },
+    {
+      "name": "Mixtec-Cuicatec",
+      "id": "mixt1423",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1423"
+    },
+    {
+      "name": "Mixtec",
+      "id": "mixt1427",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1427"
+    },
+    {
+      "name": "Northern Baja Mixtec",
+      "id": "nort3200",
+      "url": "https://glottolog.org/resource/languoid/id/nort3200"
+    }
+  ],
+  "iso639-3": "mit"
+}

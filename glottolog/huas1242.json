@@ -1,0 +1,75 @@
+{
+  "pk": 2051,
+  "hid": "hus",
+  "father_pk": 924,
+  "family_pk": 76,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Huastec [huas1242][hus]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2085",
+        "label": "Huastec"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_htc",
+        "label": "Huastec"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Huastec_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/huas1242",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35573",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "162940",
+        "long_grammar",
+        1988,
+        795,
+        "Edmonson, Barbara Wedemeyer 1988"
+      ],
+      [
+        "323167",
+        "grammar_sketch",
+        1711,
+        248,
+        "Bernardo de Quirós, Seberino 2013 [1711]"
+      ]
+    ]
+  },
+  "id": "huas1242",
+  "name": "Huastec",
+  "description": null,
+  "markup_description": null,
+  "latitude": 21.6153,
+  "longitude": -98.5028,
+  "classification": [
+    {
+      "name": "Mayan",
+      "id": "maya1287",
+      "url": "https://glottolog.org/resource/languoid/id/maya1287"
+    },
+    {
+      "name": "Huastecan Mayan",
+      "id": "huas1241",
+      "url": "https://glottolog.org/resource/languoid/id/huas1241"
+    }
+  ],
+  "iso639-3": "hus"
+}

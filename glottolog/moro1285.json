@@ -1,0 +1,101 @@
+{
+  "pk": 4442,
+  "hid": "mor",
+  "father_pk": 2739,
+  "family_pk": 254,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Laiyen [laiy1245]':1,'Nderre [nder1246]':1,'Nubwa [nubw1238]':1,'Ulba [ulba1238]':1,'Umm Dorein [ummd1238]':1,'Umm Gabralla [ummg1238]':1,'Werria [werr1238]':1)'Moro [moro1285][mor]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4695",
+        "label": "Moro"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36172",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Moro_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/moro1285",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mro",
+        "label": "Moro"
+      }
+    ],
+    "meds": [
+      [
+        "101860",
+        "grammar_sketch",
+        1971,
+        181,
+        "Black, Keith and Black, Elizabeth 1971"
+      ],
+      [
+        "160138",
+        "grammar_sketch",
+        1956,
+        5,
+        "Stevenson, Roland C. 1956/1957"
+      ],
+      [
+        "160135",
+        "grammar_sketch",
+        1952,
+        0,
+        "Stevenson, Roland C. 1952"
+      ],
+      [
+        "137294",
+        "wordlist_or_less",
+        1931,
+        1,
+        "MacDiarmid, P. A. and MacDiarmid, D. N. 1931"
+      ],
+      [
+        "52692",
+        "wordlist_or_less",
+        1917,
+        1,
+        "Meinhof, Carl 1917-1918"
+      ]
+    ]
+  },
+  "id": "moro1285",
+  "name": "Moro",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.9194,
+  "longitude": 30.2138,
+  "classification": [
+    {
+      "name": "Heibanic",
+      "id": "heib1242",
+      "url": "https://glottolog.org/resource/languoid/id/heib1242"
+    },
+    {
+      "name": "West-Central Heibanic",
+      "id": "west2502",
+      "url": "https://glottolog.org/resource/languoid/id/west2502"
+    },
+    {
+      "name": "Western Heibanic",
+      "id": "west2503",
+      "url": "https://glottolog.org/resource/languoid/id/west2503"
+    }
+  ],
+  "iso639-3": "mor"
+}

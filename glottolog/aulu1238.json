@@ -1,0 +1,106 @@
+{
+  "pk": 19759,
+  "hid": "aul",
+  "father_pk": 17679,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Boinelang [boin1237]':1,'Onesso [ones1240]':1)'Aulua [aulu1238][aul]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10749",
+        "label": "Aulua"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q427300",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Aulua_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_aul",
+        "label": "Aulua"
+      }
+    ],
+    "meds": [
+      [
+        "585830",
+        "phonology_or_text",
+        1953,
+        19,
+        "Anonymous 1953"
+      ],
+      [
+        "164113",
+        "phonology_or_text",
+        1893,
+        6,
+        "Sidney H. Ray 1893"
+      ]
+    ]
+  },
+  "id": "aulu1238",
+  "name": "Aulua",
+  "description": null,
+  "markup_description": null,
+  "latitude": -16.3579,
+  "longitude": 167.697,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "North and Central Vanuatu",
+      "id": "nort3195",
+      "url": "https://glottolog.org/resource/languoid/id/nort3195"
+    },
+    {
+      "name": "Central Vanuatu",
+      "id": "cent2269",
+      "url": "https://glottolog.org/resource/languoid/id/cent2269"
+    },
+    {
+      "name": "Malakula",
+      "id": "mala1539",
+      "url": "https://glottolog.org/resource/languoid/id/mala1539"
+    },
+    {
+      "name": "Eastern Malakula linkage",
+      "id": "east2753",
+      "url": "https://glottolog.org/resource/languoid/id/east2753"
+    },
+    {
+      "name": "Central-Southeast Malakula",
+      "id": "cent2315",
+      "url": "https://glottolog.org/resource/languoid/id/cent2315"
+    }
+  ],
+  "iso639-3": "aul"
+}

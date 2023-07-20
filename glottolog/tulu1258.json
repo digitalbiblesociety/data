@@ -1,0 +1,93 @@
+{
+  "pk": 10484,
+  "hid": "tcy",
+  "father_pk": 7599,
+  "family_pk": 404,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Northeast Tulu [nort3359]':1,'Northwest Tulu [nort3358]':1,'South Central Tulu [sout3343]':1,'Southeast Tulu [sout3342]':1,'Southwest Tulu [sout3341]':1)'Tulu [tulu1258][tcy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tul",
+        "label": "Tulu"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tulu_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/tulu1258",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q34251",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "118456",
+        "long_grammar",
+        1971,
+        585,
+        "Bhatt, Sooda Lakshminarayana 1971"
+      ],
+      [
+        "96450",
+        "grammar",
+        1872,
+        143,
+        "J. Brigel 1872"
+      ],
+      [
+        "54846",
+        "wordlist_or_less",
+        1862,
+        1,
+        "Latham, Robert Gordon 1862"
+      ]
+    ]
+  },
+  "id": "tulu1258",
+  "name": "Tulu",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.8114,
+  "longitude": 75.2651,
+  "classification": [
+    {
+      "name": "Dravidian",
+      "id": "drav1251",
+      "url": "https://glottolog.org/resource/languoid/id/drav1251"
+    },
+    {
+      "name": "South Dravidian",
+      "id": "sout3133",
+      "url": "https://glottolog.org/resource/languoid/id/sout3133"
+    },
+    {
+      "name": "South Dravidian I",
+      "id": "sout3138",
+      "url": "https://glottolog.org/resource/languoid/id/sout3138"
+    },
+    {
+      "name": "South-Western Dravidian",
+      "id": "tulu1261",
+      "url": "https://glottolog.org/resource/languoid/id/tulu1261"
+    },
+    {
+      "name": "Tuluic",
+      "id": "tulu1263",
+      "url": "https://glottolog.org/resource/languoid/id/tulu1263"
+    }
+  ],
+  "iso639-3": "tcy"
+}

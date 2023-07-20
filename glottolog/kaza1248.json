@@ -1,0 +1,98 @@
+{
+  "pk": 5427,
+  "hid": "kaz",
+  "father_pk": 3558,
+  "family_pk": 14,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Northeastern Kazakh [nort2695]':1,'Southern Kazakh [sout2704]':1,'Western Kazakh [west2404]':1)'Kazakh [kaza1248][kaz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kaz",
+        "label": "Kazakh"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kazakh_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q9252",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "547356",
+        "long_grammar",
+        2004,
+        722,
+        "Bekturova, A. Š. and Š. K. Bekturov 2004"
+      ],
+      [
+        "303812",
+        "long_grammar",
+        1959,
+        685,
+        "Balakaev, Maulen B. and Nikolaj A. Baskakov and S.K. Kenesbaev 1959, 1962"
+      ],
+      [
+        "579182",
+        "long_grammar",
+        1954,
+        562,
+        "Balaqaev, Mäūlen 1954"
+      ],
+      [
+        "572805",
+        "grammar_sketch",
+        1938,
+        109,
+        "Hudson, A. E. 1938"
+      ],
+      [
+        "572034",
+        "wordlist_or_less",
+        1889,
+        0,
+        "Grodekov, N. I. 1889"
+      ]
+    ]
+  },
+  "id": "kaza1248",
+  "name": "Kazakh",
+  "description": null,
+  "markup_description": null,
+  "latitude": 51.17,
+  "longitude": 71.454,
+  "classification": [
+    {
+      "name": "Turkic",
+      "id": "turk1311",
+      "url": "https://glottolog.org/resource/languoid/id/turk1311"
+    },
+    {
+      "name": "Common Turkic",
+      "id": "comm1245",
+      "url": "https://glottolog.org/resource/languoid/id/comm1245"
+    },
+    {
+      "name": "Kipchak",
+      "id": "kipc1239",
+      "url": "https://glottolog.org/resource/languoid/id/kipc1239"
+    },
+    {
+      "name": "South Kipchak",
+      "id": "sout2701",
+      "url": "https://glottolog.org/resource/languoid/id/sout2701"
+    }
+  ],
+  "iso639-3": "kaz"
+}

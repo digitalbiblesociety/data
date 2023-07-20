@@ -1,0 +1,102 @@
+{
+  "pk": 10771,
+  "hid": "kjh",
+  "father_pk": 7826,
+  "family_pk": 14,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Beltir [belt1239]':1,'Fuyu Kirghiz [fuyu1243]':1,'Kacha [kach1278]':1,'Kamassian {Turkic} [kama1354]':1,'Kyzyl [kyzy1244]':1,'Sagai [saga1260]':1)'Khakas [khak1248][kjh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2434",
+        "label": "Khakas"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_khk",
+        "label": "Khakas"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Khakas_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/khak1248",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33575",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "125248",
+        "long_grammar",
+        1975,
+        417,
+        "Baskakov, Nikolaj A. 1975"
+      ],
+      [
+        "15171",
+        "grammar",
+        1953,
+        244,
+        "Baskakov, Nikolaj A. and Inkizekova-Grekyl, A. I. 1953"
+      ],
+      [
+        "105079",
+        "grammar",
+        1857,
+        120,
+        "Castrén, Matthias Alexander 1857"
+      ]
+    ]
+  },
+  "id": "khak1248",
+  "name": "Khakas",
+  "description": null,
+  "markup_description": null,
+  "latitude": 50.73933,
+  "longitude": 107.16939,
+  "classification": [
+    {
+      "name": "Turkic",
+      "id": "turk1311",
+      "url": "https://glottolog.org/resource/languoid/id/turk1311"
+    },
+    {
+      "name": "Common Turkic",
+      "id": "comm1245",
+      "url": "https://glottolog.org/resource/languoid/id/comm1245"
+    },
+    {
+      "name": "Central Siberian Turkic",
+      "id": "cent2326",
+      "url": "https://glottolog.org/resource/languoid/id/cent2326"
+    },
+    {
+      "name": "South Siberian Turkic",
+      "id": "sout2693",
+      "url": "https://glottolog.org/resource/languoid/id/sout2693"
+    },
+    {
+      "name": "Yenisei-East Siberian Turkic",
+      "id": "yeni1256",
+      "url": "https://glottolog.org/resource/languoid/id/yeni1256"
+    },
+    {
+      "name": "Yenisey Turkic",
+      "id": "yeni1251",
+      "url": "https://glottolog.org/resource/languoid/id/yeni1251"
+    }
+  ],
+  "iso639-3": "kjh"
+}

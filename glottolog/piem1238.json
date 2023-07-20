@@ -1,0 +1,147 @@
+{
+  "pk": 25019,
+  "hid": "pms",
+  "father_pk": 24153,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('High Piemontese [high1267]':1,'Low Piemontese [lowp1238]':1,'Turinese [turi1245]':1)'Piemontese [piem1238][pms]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_itu",
+        "label": "Italian (Turinese)"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/3273",
+        "label": "Piemontese"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Piedmontese_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q15085",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "317608",
+        "long_grammar",
+        1933,
+        403,
+        "Arturo Aly-Belfàdel 1933"
+      ],
+      [
+        "322986",
+        "grammar_sketch",
+        1875,
+        150,
+        "Pipino, Maurizio 1875"
+      ],
+      [
+        "319195",
+        "grammar_sketch",
+        1853,
+        112,
+        "Pipino, Maurizio 1853"
+      ],
+      [
+        "589083",
+        "phonology_or_text",
+        1830,
+        463,
+        "Michele Ponza 1830, 1832, 1833"
+      ],
+      [
+        "113070",
+        "wordlist_or_less",
+        1787,
+        4,
+        "Lorenzo Hervas 1787"
+      ]
+    ]
+  },
+  "id": "piem1238",
+  "name": "Piemontese",
+  "description": null,
+  "markup_description": null,
+  "latitude": 45.4633,
+  "longitude": 8.32366,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Italic",
+      "id": "ital1284",
+      "url": "https://glottolog.org/resource/languoid/id/ital1284"
+    },
+    {
+      "name": "Latino-Faliscan",
+      "id": "lati1262",
+      "url": "https://glottolog.org/resource/languoid/id/lati1262"
+    },
+    {
+      "name": "Latinic",
+      "id": "lati1263",
+      "url": "https://glottolog.org/resource/languoid/id/lati1263"
+    },
+    {
+      "name": "Imperial Latin",
+      "id": "impe1234",
+      "url": "https://glottolog.org/resource/languoid/id/impe1234"
+    },
+    {
+      "name": "Romance",
+      "id": "roma1334",
+      "url": "https://glottolog.org/resource/languoid/id/roma1334"
+    },
+    {
+      "name": "Italo-Western Romance",
+      "id": "ital1285",
+      "url": "https://glottolog.org/resource/languoid/id/ital1285"
+    },
+    {
+      "name": "Western Romance",
+      "id": "west2813",
+      "url": "https://glottolog.org/resource/languoid/id/west2813"
+    },
+    {
+      "name": "Shifted Western Romance",
+      "id": "shif1234",
+      "url": "https://glottolog.org/resource/languoid/id/shif1234"
+    },
+    {
+      "name": "Northwestern Shifted Romance",
+      "id": "nort3208",
+      "url": "https://glottolog.org/resource/languoid/id/nort3208"
+    },
+    {
+      "name": "Gallo-Italian",
+      "id": "gall1279",
+      "url": "https://glottolog.org/resource/languoid/id/gall1279"
+    },
+    {
+      "name": "Piemontese-Lombard",
+      "id": "piem1239",
+      "url": "https://glottolog.org/resource/languoid/id/piem1239"
+    }
+  ],
+  "iso639-3": "pms"
+}

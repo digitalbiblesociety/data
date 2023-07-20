@@ -1,0 +1,111 @@
+{
+  "pk": 3955,
+  "hid": "avu",
+  "father_pk": 2244,
+  "family_pk": 140,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ajugu [ajug1238]':1,'Avokaya Pur [avok1243]':1,'Northern Ogambi [nort2812]':1,'Ojila [ojil1238]':1)'Avokaya [avok1242][avu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_avo",
+        "label": "Avokaya"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Avokaya_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/avok1242",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56685",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "135807",
+        "grammar_sketch",
+        1986,
+        29,
+        "Dimmendaal, Gerrit J. 1986"
+      ],
+      [
+        "22820",
+        "phonology_or_text",
+        1984,
+        34,
+        "Kilpatrick, Eileen 1984"
+      ],
+      [
+        "112499",
+        "phonology_or_text",
+        1981,
+        19,
+        "Kilpatrick, Eileen 1981"
+      ],
+      [
+        "91009",
+        "phonology_or_text",
+        1940,
+        7,
+        "Tucker, Archibald N. 1940"
+      ],
+      [
+        "135028",
+        "wordlist_or_less",
+        1922,
+        14,
+        "MacMichael, H. A. 1922"
+      ],
+      [
+        "58624",
+        "wordlist_or_less",
+        1904,
+        13,
+        "Johnston, Harry 1904"
+      ],
+      [
+        "116433",
+        "wordlist_or_less",
+        1878,
+        13,
+        "Marno, Ernst 1878"
+      ]
+    ]
+  },
+  "id": "avok1242",
+  "name": "Avokaya",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.38639,
+  "longitude": 29.9379,
+  "classification": [
+    {
+      "name": "Central Sudanic",
+      "id": "cent2225",
+      "url": "https://glottolog.org/resource/languoid/id/cent2225"
+    },
+    {
+      "name": "Moru-Madi",
+      "id": "moru1252",
+      "url": "https://glottolog.org/resource/languoid/id/moru1252"
+    },
+    {
+      "name": "Central Moru-Madi",
+      "id": "cent2043",
+      "url": "https://glottolog.org/resource/languoid/id/cent2043"
+    }
+  ],
+  "iso639-3": "avu"
+}

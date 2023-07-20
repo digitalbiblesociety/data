@@ -1,0 +1,92 @@
+{
+  "pk": 2874,
+  "hid": "fia",
+  "father_pk": 1365,
+  "family_pk": 274,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Fiyadikka [fiya1238]':1,'Mahas [maha1295]':1)'Nobiin [nobi1240][fia]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q36503",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nobiin_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nobi1240",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nob",
+        "label": "Nobiin"
+      }
+    ],
+    "meds": [
+      [
+        "87236",
+        "long_grammar",
+        1986,
+        406,
+        "Werner, Roland 1986"
+      ],
+      [
+        "122014",
+        "grammar",
+        1880,
+        211,
+        "Lepsius, Richard 1880"
+      ],
+      [
+        "35581",
+        "grammar_sketch",
+        1879,
+        72,
+        "Reinisch, Leo 1879"
+      ],
+      [
+        "47659",
+        "wordlist_or_less",
+        1824,
+        82,
+        "Minutoli, Johann Heinrich Carl von 1824"
+      ],
+      [
+        "127703",
+        "wordlist_or_less",
+        1816,
+        23,
+        "Seetzen, Ulrich J. 1816"
+      ]
+    ]
+  },
+  "id": "nobi1240",
+  "name": "Nobiin",
+  "description": null,
+  "markup_description": null,
+  "latitude": 22.8142,
+  "longitude": 31.8376,
+  "classification": [
+    {
+      "name": "Nubian",
+      "id": "nubi1251",
+      "url": "https://glottolog.org/resource/languoid/id/nubi1251"
+    },
+    {
+      "name": "Nobiin Nubian",
+      "id": "nobi1239",
+      "url": "https://glottolog.org/resource/languoid/id/nobi1239"
+    }
+  ],
+  "iso639-3": "fia"
+}

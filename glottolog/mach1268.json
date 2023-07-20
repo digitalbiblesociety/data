@@ -1,0 +1,96 @@
+{
+  "pk": 8778,
+  "hid": "mpd",
+  "father_pk": 6264,
+  "family_pk": 177,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Machinere [mach1268][mpd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2907",
+        "label": "Maxineri"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12953681",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/mach1268",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "577254",
+        "grammar_sketch",
+        2013,
+        140,
+        "dos Santos Silva, Edineida 2013"
+      ],
+      [
+        "570169",
+        "phonology_or_text",
+        2012,
+        113,
+        "Fábio Pereira Couto 2012"
+      ],
+      [
+        "40274",
+        "phonology_or_text",
+        2008,
+        43,
+        "dos Santos Silva, Edineida 2008"
+      ],
+      [
+        "10978",
+        "wordlist_or_less",
+        1866,
+        9,
+        "William Chandless 1866"
+      ]
+    ]
+  },
+  "id": "mach1268",
+  "name": "Machinere",
+  "description": null,
+  "markup_description": null,
+  "latitude": -10.661655,
+  "longitude": -70.208108,
+  "classification": [
+    {
+      "name": "Arawakan",
+      "id": "araw1281",
+      "url": "https://glottolog.org/resource/languoid/id/araw1281"
+    },
+    {
+      "name": "Southern Maipuran",
+      "id": "sout3131",
+      "url": "https://glottolog.org/resource/languoid/id/sout3131"
+    },
+    {
+      "name": "Purus-Chamicuro",
+      "id": "puru1269",
+      "url": "https://glottolog.org/resource/languoid/id/puru1269"
+    },
+    {
+      "name": "Purus",
+      "id": "puru1265",
+      "url": "https://glottolog.org/resource/languoid/id/puru1265"
+    },
+    {
+      "name": "Yineic",
+      "id": "yine1239",
+      "url": "https://glottolog.org/resource/languoid/id/yine1239"
+    }
+  ],
+  "iso639-3": "mpd"
+}

@@ -1,0 +1,111 @@
+{
+  "pk": 17653,
+  "hid": "nlg",
+  "father_pk": 15257,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Gela [gela1263][nlg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3063531",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Gela_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_gel",
+        "label": "Gela"
+      }
+    ],
+    "meds": [
+      [
+        "300643",
+        "long_grammar",
+        1975,
+        609,
+        "Ingrid Miller 1975"
+      ],
+      [
+        "314390",
+        "grammar_sketch",
+        1941,
+        47,
+        "Fox, Charles E. 1941"
+      ],
+      [
+        "37367",
+        "grammar_sketch",
+        1937,
+        36,
+        "W. G. Ivens 1937"
+      ],
+      [
+        "318062",
+        "grammar_sketch",
+        1885,
+        18,
+        "Robert Codrington 1885"
+      ]
+    ]
+  },
+  "id": "gela1263",
+  "name": "Gela",
+  "description": null,
+  "markup_description": null,
+  "latitude": -9.04587,
+  "longitude": 160.186,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Southeast Solomonic",
+      "id": "sout2853",
+      "url": "https://glottolog.org/resource/languoid/id/sout2853"
+    },
+    {
+      "name": "Guadalcanal-Nggelic",
+      "id": "guad1241",
+      "url": "https://glottolog.org/resource/languoid/id/guad1241"
+    },
+    {
+      "name": "Nuclear Guadalcanal-Nggelic",
+      "id": "nucl1470",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1470"
+    },
+    {
+      "name": "Nggelic",
+      "id": "ngge1240",
+      "url": "https://glottolog.org/resource/languoid/id/ngge1240"
+    }
+  ],
+  "iso639-3": "nlg"
+}

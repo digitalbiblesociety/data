@@ -1,0 +1,121 @@
+{
+  "pk": 24774,
+  "hid": "agq",
+  "father_pk": 23647,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Aghem [aghe1239][agq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_agh",
+        "label": "Aghem"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Aghem_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/aghe1239",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q34737",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "129728",
+        "grammar",
+        1979,
+        220,
+        "Hyman, Larry M. 1979"
+      ],
+      [
+        "128843",
+        "wordlist_or_less",
+        1952,
+        0,
+        "Kaberry, Phyllis M. 1952"
+      ]
+    ]
+  },
+  "id": "aghe1239",
+  "name": "Aghem",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.38956,
+  "longitude": 10.0807,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Wide Grassfields",
+      "id": "wide1239",
+      "url": "https://glottolog.org/resource/languoid/id/wide1239"
+    },
+    {
+      "name": "Narrow Grassfields",
+      "id": "narr1282",
+      "url": "https://glottolog.org/resource/languoid/id/narr1282"
+    },
+    {
+      "name": "Ring",
+      "id": "ring1243",
+      "url": "https://glottolog.org/resource/languoid/id/ring1243"
+    },
+    {
+      "name": "Center-West Ring",
+      "id": "cent2385",
+      "url": "https://glottolog.org/resource/languoid/id/cent2385"
+    },
+    {
+      "name": "West Ring",
+      "id": "west2835",
+      "url": "https://glottolog.org/resource/languoid/id/west2835"
+    },
+    {
+      "name": "Aghemic",
+      "id": "aghe1240",
+      "url": "https://glottolog.org/resource/languoid/id/aghe1240"
+    },
+    {
+      "name": "Aghem-Weh",
+      "id": "aghe1241",
+      "url": "https://glottolog.org/resource/languoid/id/aghe1241"
+    }
+  ],
+  "iso639-3": "agq"
+}

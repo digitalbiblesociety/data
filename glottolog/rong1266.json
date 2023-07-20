@@ -1,0 +1,86 @@
+{
+  "pk": 5013,
+  "hid": "nbu",
+  "father_pk": 3192,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Songbu [song1297]':1)'Rongmei Naga [rong1266][nbu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5673",
+        "label": "Rongmei Naga"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Rongmei_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12952912",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "305441",
+        "grammar",
+        1971,
+        296,
+        "Tiwari, Surendra Kumar 1971"
+      ],
+      [
+        "85928",
+        "wordlist_or_less",
+        1967,
+        7,
+        "Marrison, Geoffrey E. 1967"
+      ],
+      [
+        "51830",
+        "wordlist_or_less",
+        1859,
+        5,
+        "McCulloch, W. 1859"
+      ],
+      [
+        "115954",
+        "wordlist_or_less",
+        1837,
+        1,
+        "Brown, Nathan 1837"
+      ]
+    ]
+  },
+  "id": "rong1266",
+  "name": "Rongmei Naga",
+  "description": null,
+  "markup_description": null,
+  "latitude": 25.098,
+  "longitude": 93.7869,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Zemeic",
+      "id": "zeme1241",
+      "url": "https://glottolog.org/resource/languoid/id/zeme1241"
+    }
+  ],
+  "iso639-3": "nbu"
+}

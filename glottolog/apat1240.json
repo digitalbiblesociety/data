@@ -1,0 +1,90 @@
+{
+  "pk": 10131,
+  "hid": "apt",
+  "father_pk": 7282,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Apatani [apat1240][apt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/657",
+        "label": "Apatani"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56306",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Apatani_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/apat1240",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_apt",
+        "label": "Apatani"
+      }
+    ],
+    "meds": [
+      [
+        "122633",
+        "grammar",
+        1985,
+        198,
+        "P. T. Abraham 1985"
+      ],
+      [
+        "11602",
+        "grammar_sketch",
+        1972,
+        194,
+        "Simon, I. M. 1972"
+      ]
+    ]
+  },
+  "id": "apat1240",
+  "name": "Apatani",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.1933,
+  "longitude": 93.7284,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Macro-Tani",
+      "id": "macr1268",
+      "url": "https://glottolog.org/resource/languoid/id/macr1268"
+    },
+    {
+      "name": "Tani",
+      "id": "tani1259",
+      "url": "https://glottolog.org/resource/languoid/id/tani1259"
+    },
+    {
+      "name": "Pre-Western Tani",
+      "id": "prew1234",
+      "url": "https://glottolog.org/resource/languoid/id/prew1234"
+    },
+    {
+      "name": "Western Tani",
+      "id": "west2797",
+      "url": "https://glottolog.org/resource/languoid/id/west2797"
+    }
+  ],
+  "iso639-3": "apt"
+}

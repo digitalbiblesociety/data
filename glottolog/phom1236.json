@@ -1,0 +1,91 @@
+{
+  "pk": 7405,
+  "hid": "nph",
+  "father_pk": 5042,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Yongyasha [yong1271]':1)'Phom Naga [phom1236][nph]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5680",
+        "label": "Phom Naga"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7187109",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Phom_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "139594",
+        "long_grammar",
+        2008,
+        330,
+        "Atiqua Bano 2008"
+      ],
+      [
+        "153029",
+        "phonology_or_text",
+        1973,
+        97,
+        "Kumar, Braj Bihari and Podhok Phom and Anandi Prasad Mandal 1973"
+      ],
+      [
+        "85928",
+        "wordlist_or_less",
+        1967,
+        7,
+        "Marrison, Geoffrey E. 1967"
+      ],
+      [
+        "162861",
+        "wordlist_or_less",
+        1903,
+        4,
+        "George A. Grierson 1903"
+      ]
+    ]
+  },
+  "id": "phom1236",
+  "name": "Phom Naga",
+  "description": null,
+  "markup_description": null,
+  "latitude": 26.4715,
+  "longitude": 94.7476,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Brahmaputran",
+      "id": "brah1260",
+      "url": "https://glottolog.org/resource/languoid/id/brah1260"
+    },
+    {
+      "name": "Konyak",
+      "id": "kony1246",
+      "url": "https://glottolog.org/resource/languoid/id/kony1246"
+    },
+    {
+      "name": "Konyak I",
+      "id": "kony1247",
+      "url": "https://glottolog.org/resource/languoid/id/kony1247"
+    }
+  ],
+  "iso639-3": "nph"
+}

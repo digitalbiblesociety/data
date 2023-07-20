@@ -1,0 +1,71 @@
+{
+  "pk": 3905,
+  "hid": "tqn",
+  "father_pk": 2194,
+  "family_pk": 129,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tenino [teni1238][tqn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q15699255",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "72033",
+        "wordlist_or_less",
+        1965,
+        28,
+        "Rigsby, Bruce Joseph 1965"
+      ],
+      [
+        "575272",
+        "wordlist_or_less",
+        1958,
+        17,
+        "Murdock, G. P. 1958"
+      ],
+      [
+        "576360",
+        "wordlist_or_less",
+        1942,
+        9,
+        "Ray, V. F. 1942"
+      ]
+    ]
+  },
+  "id": "teni1238",
+  "name": "Tenino",
+  "description": null,
+  "markup_description": null,
+  "latitude": 44.7985,
+  "longitude": -121.44,
+  "classification": [
+    {
+      "name": "Sahaptian",
+      "id": "saha1239",
+      "url": "https://glottolog.org/resource/languoid/id/saha1239"
+    },
+    {
+      "name": "Sahaptin",
+      "id": "saha1240",
+      "url": "https://glottolog.org/resource/languoid/id/saha1240"
+    },
+    {
+      "name": "Southern Sahaptin",
+      "id": "sout1502",
+      "url": "https://glottolog.org/resource/languoid/id/sout1502"
+    }
+  ],
+  "iso639-3": "tqn"
+}

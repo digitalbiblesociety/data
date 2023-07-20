@@ -1,0 +1,77 @@
+{
+  "pk": 6281,
+  "hid": "sar",
+  "father_pk": 4231,
+  "family_pk": 177,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Saraveca [sara1331][sar]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2748",
+        "label": "Saraveca"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3450556",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Saraveca_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "16303",
+        "grammar_sketch",
+        1913,
+        44,
+        "de Créqui-Montfort, Georges and Rivet, Paul 1913"
+      ],
+      [
+        "121928",
+        "wordlist_or_less",
+        1839,
+        7,
+        "d'Orbigny, Alcide Dessalines 1839"
+      ]
+    ]
+  },
+  "id": "sara1331",
+  "name": "Saraveca",
+  "description": null,
+  "markup_description": null,
+  "latitude": -16.07,
+  "longitude": -57.8,
+  "classification": [
+    {
+      "name": "Arawakan",
+      "id": "araw1281",
+      "url": "https://glottolog.org/resource/languoid/id/araw1281"
+    },
+    {
+      "name": "Central-Eastern Maipuran",
+      "id": "cent2413",
+      "url": "https://glottolog.org/resource/languoid/id/cent2413"
+    },
+    {
+      "name": "Central Maipuran",
+      "id": "cent2226",
+      "url": "https://glottolog.org/resource/languoid/id/cent2226"
+    },
+    {
+      "name": "Xaray",
+      "id": "pare1273",
+      "url": "https://glottolog.org/resource/languoid/id/pare1273"
+    }
+  ],
+  "iso639-3": "sar"
+}

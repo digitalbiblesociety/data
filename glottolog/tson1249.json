@@ -1,0 +1,141 @@
+{
+  "pk": 25772,
+  "hid": "tso",
+  "father_pk": 25292,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bila {Tsonga} [bila1254]':1,'Changana [chan1318]':1,'Gwamba [gwam1246]':1,'Hlave [hlav1238]':1,'Jonga [jong1238]':1,'Kande {Tsonga} [kand1297]':1,'Luleke [lule1255]':1,'N''walungu [nwal1238]':1,'Nhlanganu [nhla1238]':1,'Nkuma [nkum1249]':1,'Xonga [xong1238]':1)'Tsonga [tson1249][tso]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 11,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tsn",
+        "label": "Tsonga"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tsonga_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q34327",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "15691",
+        "long_grammar",
+        1965,
+        520,
+        "Ribeiro, Armando 1965"
+      ],
+      [
+        "34265",
+        "grammar",
+        1908,
+        0,
+        "Berthoud, Henri 1908"
+      ],
+      [
+        "124056",
+        "grammar",
+        1907,
+        0,
+        "Junod, Henri-Alexandre 1907"
+      ],
+      [
+        "89280",
+        "wordlist_or_less",
+        1856,
+        21,
+        "Bleek, Wilhelm Heinrich Immanuel 1856"
+      ]
+    ]
+  },
+  "id": "tson1249",
+  "name": "Tsonga",
+  "description": null,
+  "markup_description": null,
+  "latitude": -23.5754,
+  "longitude": 31.8105,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Narrow Bantu",
+      "id": "narr1281",
+      "url": "https://glottolog.org/resource/languoid/id/narr1281"
+    },
+    {
+      "name": "East Bantu",
+      "id": "east2731",
+      "url": "https://glottolog.org/resource/languoid/id/east2731"
+    },
+    {
+      "name": "Southern Bantu",
+      "id": "sout3387",
+      "url": "https://glottolog.org/resource/languoid/id/sout3387"
+    },
+    {
+      "name": "Nuclear Southern Bantu",
+      "id": "nucl1826",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1826"
+    },
+    {
+      "name": "Dimsuffix Southern Bantu",
+      "id": "dims1234",
+      "url": "https://glottolog.org/resource/languoid/id/dims1234"
+    },
+    {
+      "name": "Nguni-Tsonga-Copi",
+      "id": "ngun1280",
+      "url": "https://glottolog.org/resource/languoid/id/ngun1280"
+    },
+    {
+      "name": "Tsonga-Copi",
+      "id": "tson1250",
+      "url": "https://glottolog.org/resource/languoid/id/tson1250"
+    },
+    {
+      "name": "Tswa-Ronga (S.50)",
+      "id": "tswa1254",
+      "url": "https://glottolog.org/resource/languoid/id/tswa1254"
+    },
+    {
+      "name": "Tsongan",
+      "id": "tson1251",
+      "url": "https://glottolog.org/resource/languoid/id/tson1251"
+    }
+  ],
+  "iso639-3": "tso"
+}

@@ -1,0 +1,75 @@
+{
+  "pk": 4578,
+  "hid": "ipi",
+  "father_pk": 2934,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Paiela [paie1238]':1,'Porgera [porg1242]':1,'Tipinini [tipi1239]':1)'Ipili [ipil1240][ipi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Ipili_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6065141",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "587713",
+        "phonology_or_text",
+        1996,
+        13,
+        "Frances Ingemann 1996"
+      ],
+      [
+        "318703",
+        "wordlist_or_less",
+        1963,
+        0,
+        "Eike Haberland 1963"
+      ],
+      [
+        "18893",
+        "wordlist_or_less",
+        1957,
+        25,
+        "M. J. Meggitt 1957-1958"
+      ]
+    ]
+  },
+  "id": "ipil1240",
+  "name": "Ipili",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.42586,
+  "longitude": 143.089,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Enga-Kewa-Huli",
+      "id": "enga1254",
+      "url": "https://glottolog.org/resource/languoid/id/enga1254"
+    },
+    {
+      "name": "Engan",
+      "id": "enga1251",
+      "url": "https://glottolog.org/resource/languoid/id/enga1251"
+    }
+  ],
+  "iso639-3": "ipi"
+}

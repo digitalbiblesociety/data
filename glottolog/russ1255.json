@@ -1,0 +1,98 @@
+{
+  "pk": 6390,
+  "hid": "rsl",
+  "father_pk": 4338,
+  "family_pk": 206,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Sign Language",
+  "newick": "('Kazakh-Russian Sign Language [kaza1251]':1,'Russian Sign Language [russ1271]':1,'Tajik Sign Language [taji1251]':1)'Russian-Tajik Sign Language [russ1255][rsl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q13210",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Russian_Sign_Language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_rsl",
+        "label": "Russian Sign Language"
+      }
+    ],
+    "meds": [
+      [
+        "629741",
+        "phonology_or_text",
+        2020,
+        324,
+        "Kyuseva, Maria 2020"
+      ],
+      [
+        "323468",
+        "phonology_or_text",
+        2014,
+        145,
+        "Vadim Kimmelman 2014"
+      ],
+      [
+        "319568",
+        "phonology_or_text",
+        2011,
+        55,
+        "Vadim Kimmelman 2011"
+      ],
+      [
+        "669286",
+        "wordlist_or_less",
+        2000,
+        0,
+        "Zajceva, Galina 2000"
+      ],
+      [
+        "100646",
+        "wordlist_or_less",
+        1992,
+        18,
+        "Grenoble, Lenore 1992"
+      ]
+    ]
+  },
+  "id": "russ1255",
+  "name": "Russian-Tajik Sign Language",
+  "description": null,
+  "markup_description": null,
+  "latitude": 56,
+  "longitude": 44,
+  "classification": [
+    {
+      "name": "Sign Language",
+      "id": "sign1238",
+      "url": "https://glottolog.org/resource/languoid/id/sign1238"
+    },
+    {
+      "name": "Deaf Sign Language",
+      "id": "deaf1237",
+      "url": "https://glottolog.org/resource/languoid/id/deaf1237"
+    },
+    {
+      "name": "RSLic",
+      "id": "russ1270",
+      "url": "https://glottolog.org/resource/languoid/id/russ1270"
+    },
+    {
+      "name": "Nuclear RSLic",
+      "id": "nucl1824",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1824"
+    }
+  ],
+  "iso639-3": "rsl"
+}

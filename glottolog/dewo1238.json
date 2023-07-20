@@ -1,0 +1,94 @@
+{
+  "pk": 11035,
+  "hid": "dee",
+  "father_pk": 8112,
+  "family_pk": 83,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Dewoin [dewo1238][dee]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4805",
+        "label": "Dewoin"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3914892",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dewoin_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "122582",
+        "grammar_sketch",
+        1904,
+        96,
+        "Delafosse, Maurice 1904"
+      ],
+      [
+        "54846",
+        "wordlist_or_less",
+        1862,
+        1,
+        "Latham, Robert Gordon 1862"
+      ],
+      [
+        "66179",
+        "wordlist_or_less",
+        1854,
+        1,
+        "Koelle, Sigismund W. 1854"
+      ]
+    ]
+  },
+  "id": "dewo1238",
+  "name": "Dewoin",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.56113,
+  "longitude": -10.9076,
+  "classification": [
+    {
+      "name": "Kru",
+      "id": "krua1234",
+      "url": "https://glottolog.org/resource/languoid/id/krua1234"
+    },
+    {
+      "name": "Greater Western Kru",
+      "id": "grea1300",
+      "url": "https://glottolog.org/resource/languoid/id/grea1300"
+    },
+    {
+      "name": "Western Kru",
+      "id": "west2485",
+      "url": "https://glottolog.org/resource/languoid/id/west2485"
+    },
+    {
+      "name": "Wee-Bassa-Klao",
+      "id": "weeb1234",
+      "url": "https://glottolog.org/resource/languoid/id/weeb1234"
+    },
+    {
+      "name": "Bassa-Klao",
+      "id": "bass1266",
+      "url": "https://glottolog.org/resource/languoid/id/bass1266"
+    },
+    {
+      "name": "Bassaic",
+      "id": "bass1262",
+      "url": "https://glottolog.org/resource/languoid/id/bass1262"
+    }
+  ],
+  "iso639-3": "dee"
+}

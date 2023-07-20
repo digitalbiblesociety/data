@@ -1,0 +1,105 @@
+{
+  "pk": 19499,
+  "hid": "tlu",
+  "father_pk": 17505,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Liang [lian1254]':1,'Nuclear Tulehu [nucl1528]':1,'Tengah-Tengah [teng1269]':1,'Tial [tial1240]':1)'Tulehu [tule1244][tlu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7852006",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tulehu_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "41831",
+        "phonology_or_text",
+        2010,
+        22,
+        "Simon Musgrave 2010"
+      ],
+      [
+        "305286",
+        "phonology_or_text",
+        1973,
+        0,
+        "Samonsir, Solo I. 1973"
+      ],
+      [
+        "310108",
+        "wordlist_or_less",
+        1903,
+        13,
+        "Sidney H. Ray 1903"
+      ]
+    ]
+  },
+  "id": "tule1244",
+  "name": "Tulehu",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.57785,
+  "longitude": 128.31,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Nunusaku",
+      "id": "nunu1252",
+      "url": "https://glottolog.org/resource/languoid/id/nunu1252"
+    },
+    {
+      "name": "Piru Bay",
+      "id": "piru1243",
+      "url": "https://glottolog.org/resource/languoid/id/piru1243"
+    },
+    {
+      "name": "East Piru Bay",
+      "id": "east2752",
+      "url": "https://glottolog.org/resource/languoid/id/east2752"
+    },
+    {
+      "name": "Solehua",
+      "id": "sole1243",
+      "url": "https://glottolog.org/resource/languoid/id/sole1243"
+    },
+    {
+      "name": "Seram Straits",
+      "id": "sera1270",
+      "url": "https://glottolog.org/resource/languoid/id/sera1270"
+    },
+    {
+      "name": "Ambonic",
+      "id": "ambo1254",
+      "url": "https://glottolog.org/resource/languoid/id/ambo1254"
+    },
+    {
+      "name": "Northeast Ambon",
+      "id": "nort3236",
+      "url": "https://glottolog.org/resource/languoid/id/nort3236"
+    }
+  ],
+  "iso639-3": "tlu"
+}

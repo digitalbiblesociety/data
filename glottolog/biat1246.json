@@ -1,0 +1,89 @@
+{
+  "pk": 9404,
+  "hid": "bth",
+  "father_pk": 6819,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Siburan [sibu1256]':1,'Stang [stan1307]':1,'Tibia [tibi1237]':1)'Biatah Bidayuh [biat1246][bth]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bit",
+        "label": "Biatah"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Biatah_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2900881",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "111564",
+        "grammar_sketch",
+        1994,
+        114,
+        "Darmansyah, {} and Durdje Durasid and Nirmala Sari 1994"
+      ],
+      [
+        "119414",
+        "grammar_sketch",
+        1983,
+        14,
+        "Omar, Asmah Haji 1983"
+      ],
+      [
+        "23345",
+        "wordlist_or_less",
+        1913,
+        2,
+        "Sidney H. Ray 1913"
+      ]
+    ]
+  },
+  "id": "biat1246",
+  "name": "Biatah Bidayuh",
+  "description": null,
+  "markup_description": null,
+  "latitude": 1.17596,
+  "longitude": 110.254,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Land Dayak",
+      "id": "land1261",
+      "url": "https://glottolog.org/resource/languoid/id/land1261"
+    },
+    {
+      "name": "Bidayuh-Southern Land Dayak",
+      "id": "bida1239",
+      "url": "https://glottolog.org/resource/languoid/id/bida1239"
+    },
+    {
+      "name": "Bidayuh",
+      "id": "bida1240",
+      "url": "https://glottolog.org/resource/languoid/id/bida1240"
+    }
+  ],
+  "iso639-3": "bth"
+}

@@ -1,0 +1,85 @@
+{
+  "pk": 8831,
+  "hid": "pgz",
+  "father_pk": 6331,
+  "family_pk": 206,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Sign Language",
+  "newick": "'Papua New Guinean Sign Language [papu1255][pgz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q25044405",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Papua_New_Guinean_Sign_Language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "548747",
+        "wordlist_or_less",
+        2017,
+        0,
+        "Gary F. Simons and Charles D. Fennig 2017"
+      ],
+      [
+        "548746",
+        "wordlist_or_less",
+        2016,
+        0,
+        "Lewis, Paul M. and Gary F. Simons and Charles D. Fennig 2016"
+      ],
+      [
+        "535620",
+        "wordlist_or_less",
+        2015,
+        0,
+        "ISO 639-3 Registration Authority 2015"
+      ]
+    ]
+  },
+  "id": "papu1255",
+  "name": "Papua New Guinean Sign Language",
+  "description": null,
+  "markup_description": null,
+  "latitude": -9.5,
+  "longitude": 147.116667,
+  "classification": [
+    {
+      "name": "Sign Language",
+      "id": "sign1238",
+      "url": "https://glottolog.org/resource/languoid/id/sign1238"
+    },
+    {
+      "name": "Deaf Sign Language",
+      "id": "deaf1237",
+      "url": "https://glottolog.org/resource/languoid/id/deaf1237"
+    },
+    {
+      "name": "BSLic",
+      "id": "bsli1234",
+      "url": "https://glottolog.org/resource/languoid/id/bsli1234"
+    },
+    {
+      "name": "BANZL",
+      "id": "banz1243",
+      "url": "https://glottolog.org/resource/languoid/id/banz1243"
+    },
+    {
+      "name": "Auslan-PNG Sign",
+      "id": "aust1310",
+      "url": "https://glottolog.org/resource/languoid/id/aust1310"
+    }
+  ],
+  "iso639-3": "pgz"
+}

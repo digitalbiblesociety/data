@@ -1,0 +1,56 @@
+{
+  "pk": 5410,
+  "hid": null,
+  "father_pk": 3549,
+  "family_pk": 14,
+  "level": "family",
+  "bookkeeping": false,
+  "category": "Family",
+  "newick": "((('Baku [baku1259]':1,'Derbend Azerbaijani [derb1245]':1,'Lenkaran [lenk1246]':1,'Quba {Turkic} [quba1245]':1,'Salyan [saly1245]':1,'Shamakhi [sham1275]':1)'Eastern Azerbaijani [east2839]':1,('Nukha [nukh1239]':1,'Qabala [qaba1238]':1,'Zaqatala {Turkic} [zaqa1241]':1)'Northern Azerbaijani [nort3322]':1,'Qyzylbash [qyzy1236]':1,('Karapapak [kara1470]':1,'Nakhchivan [nakh1244]':1,'Ordubad [ordu1239]':1,'Terekeme [tere1273]':1,'Yerevan [yere1242]':1)'Southern Azerbaijani [sout3306]':1,('Airym [airy1239]':1,'Borcala [borc1242]':1,('Ganja [ganj1240]':1,'Shusha [shus1247]':1)'Central Azerbaijani [cent2356]':1,'Qazakh [qaza1238]':1)'Western Azerbaijani [west2924]':1)'North Azerbaijani [nort2697][azj]-l-':1,('Afshari [afsh1238]':1,'Aynallu [ayna1239]':1,'Baharlu [baha1255]':1,'Bayat [baya1256]':1,'Dara-Gaz [dara1256]':1,'Galugah [galu1241]':1,'Kars [kars1238]':1,'Kirkuk [kirk1242]':1,'Lotf-Abad [lotf1234]':1,'Moqaddam [moqa1238]':1,'Nafar [nafa1255]':1,'Pishagchi [pish1238]':1,'Qajar [qaja1238]':1,'Qaragozlu [qara1243]':1,'Shahsavani [shah1257]':1,'Sonqor [sonq1234]':1,'Tabriz [tabr1242]':1,'Zanjan Turkic [zanj1239]':1)'South Azerbaijani [sout2697][azb]-l-':1)'Central Oghuz [azer1255]':1",
+  "child_family_count": 0,
+  "child_language_count": 2,
+  "child_dialect_count": 43,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q9292",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Azerbaijani_language",
+        "label": null
+      }
+    ]
+  },
+  "id": "azer1255",
+  "name": "Central Oghuz",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Turkic",
+      "id": "turk1311",
+      "url": "https://glottolog.org/resource/languoid/id/turk1311"
+    },
+    {
+      "name": "Common Turkic",
+      "id": "comm1245",
+      "url": "https://glottolog.org/resource/languoid/id/comm1245"
+    },
+    {
+      "name": "Oghuz",
+      "id": "oghu1243",
+      "url": "https://glottolog.org/resource/languoid/id/oghu1243"
+    },
+    {
+      "name": "Nuclear Oghuz",
+      "id": "nucl1769",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1769"
+    }
+  ]
+}

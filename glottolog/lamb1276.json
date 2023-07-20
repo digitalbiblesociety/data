@@ -1,0 +1,104 @@
+{
+  "pk": 4924,
+  "hid": "quf",
+  "father_pk": 3146,
+  "family_pk": 321,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Cañaris [cana1261]':1,'Incahuasi [inca1238]':1)'Lambayeque Quechua [lamb1276][quf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5307",
+        "label": "Lambayeque Quechua"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lambayeque_Quechua",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/lamb1276",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35519",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "326092",
+        "grammar",
+        1999,
+        172,
+        "Taylor, Gerald 1999"
+      ],
+      [
+        "117731",
+        "grammar_sketch",
+        1996,
+        144,
+        "Taylor, Gerald 1996"
+      ],
+      [
+        "72736",
+        "grammar_sketch",
+        1982,
+        40,
+        "Taylor, Gerald 1982"
+      ],
+      [
+        "411152",
+        "phonology_or_text",
+        1977,
+        72,
+        "Escribens Trisano, Augusto 1977"
+      ],
+      [
+        "17825",
+        "phonology_or_text",
+        1975,
+        0,
+        "Echerd, Stephen 1975"
+      ],
+      [
+        "27974",
+        "wordlist_or_less",
+        1968,
+        13,
+        "Torero, Alfredo 1968"
+      ]
+    ]
+  },
+  "id": "lamb1276",
+  "name": "Lambayeque Quechua",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.1715,
+  "longitude": -79.468,
+  "classification": [
+    {
+      "name": "Quechuan",
+      "id": "quec1387",
+      "url": "https://glottolog.org/resource/languoid/id/quec1387"
+    },
+    {
+      "name": "Quechua II",
+      "id": "quec1388",
+      "url": "https://glottolog.org/resource/languoid/id/quec1388"
+    },
+    {
+      "name": "Cajamarca-Lambayeque Quechua",
+      "id": "caja1240",
+      "url": "https://glottolog.org/resource/languoid/id/caja1240"
+    }
+  ],
+  "iso639-3": "quf"
+}

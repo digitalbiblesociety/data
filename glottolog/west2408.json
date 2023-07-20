@@ -1,0 +1,95 @@
+{
+  "pk": 16329,
+  "hid": "mut",
+  "father_pk": 13555,
+  "family_pk": 404,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Banchapai [banc1237]':1,'Dhanora [dhan1269]':1,'Sonapal [sona1242]':1)'Western Muria [west2408][mut]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12952886",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/west2408",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "54568",
+        "long_grammar",
+        1978,
+        696,
+        "Andres, Susie 1978"
+      ],
+      [
+        "319310",
+        "wordlist_or_less",
+        1960,
+        12,
+        "Thomas Burrow and Sudhibhushan Bhattacharya 1960"
+      ],
+      [
+        "475599",
+        "wordlist_or_less",
+        1947,
+        698,
+        "Verrier Elwin 1947"
+      ]
+    ]
+  },
+  "id": "west2408",
+  "name": "Western Muria",
+  "description": null,
+  "markup_description": null,
+  "latitude": 20.2384,
+  "longitude": 80.7006,
+  "classification": [
+    {
+      "name": "Dravidian",
+      "id": "drav1251",
+      "url": "https://glottolog.org/resource/languoid/id/drav1251"
+    },
+    {
+      "name": "South Dravidian",
+      "id": "sout3133",
+      "url": "https://glottolog.org/resource/languoid/id/sout3133"
+    },
+    {
+      "name": "South Dravidian II",
+      "id": "sout3139",
+      "url": "https://glottolog.org/resource/languoid/id/sout3139"
+    },
+    {
+      "name": "Gondi",
+      "id": "gond1265",
+      "url": "https://glottolog.org/resource/languoid/id/gond1265"
+    },
+    {
+      "name": "Northwest Gondi",
+      "id": "nort3258",
+      "url": "https://glottolog.org/resource/languoid/id/nort3258"
+    },
+    {
+      "name": "Southwest Gondi",
+      "id": "sout3367",
+      "url": "https://glottolog.org/resource/languoid/id/sout3367"
+    },
+    {
+      "name": "Muria",
+      "id": "muri1262",
+      "url": "https://glottolog.org/resource/languoid/id/muri1262"
+    }
+  ],
+  "iso639-3": "mut"
+}

@@ -1,0 +1,117 @@
+{
+  "pk": 15069,
+  "hid": "tsg",
+  "father_pk": 12182,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tausug [taus1251][tsg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tsg",
+        "label": "Tausug"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tausug_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/taus1251",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q34142",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "317767",
+        "long_grammar",
+        2006,
+        434,
+        "Carl R. Galvez Rubino 2006"
+      ],
+      [
+        "311378",
+        "grammar_sketch",
+        1893,
+        168,
+        "Cowie, Andson 1893"
+      ],
+      [
+        "311318",
+        "phonology_or_text",
+        1886,
+        113,
+        "Thomas H. Haynes 1886, 1887"
+      ],
+      [
+        "550866",
+        "wordlist_or_less",
+        1885,
+        27,
+        "Joseph Montano 1885"
+      ],
+      [
+        "85606",
+        "wordlist_or_less",
+        1873,
+        2,
+        "Meijer, Adolf Bernhard 1873"
+      ]
+    ]
+  },
+  "id": "taus1251",
+  "name": "Tausug",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.12236,
+  "longitude": 118.88,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Greater Central Philippine",
+      "id": "grea1284",
+      "url": "https://glottolog.org/resource/languoid/id/grea1284"
+    },
+    {
+      "name": "Central Philippine",
+      "id": "cent2246",
+      "url": "https://glottolog.org/resource/languoid/id/cent2246"
+    },
+    {
+      "name": "Bisayan",
+      "id": "bisa1268",
+      "url": "https://glottolog.org/resource/languoid/id/bisa1268"
+    },
+    {
+      "name": "South Bisayan",
+      "id": "sout3175",
+      "url": "https://glottolog.org/resource/languoid/id/sout3175"
+    },
+    {
+      "name": "Butuan-Tausug",
+      "id": "butu1243",
+      "url": "https://glottolog.org/resource/languoid/id/butu1243"
+    }
+  ],
+  "iso639-3": "tsg"
+}

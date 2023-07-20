@@ -1,0 +1,118 @@
+{
+  "pk": 20827,
+  "hid": "tly",
+  "father_pk": 18828,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Asalemi [asal1234]':1,'Hashtpari [hash1240]':1)'Central Talyshi [cent1970]':1,('Astara [asta1240]':1,'Lenkoran [lenk1245]':1,'Lerik [leri1235]':1)'Northern Talyshi [nort2639]':1)'North-Central Talysh [taly1247][tly]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5697",
+        "label": "Talysh"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_taz",
+        "label": "Talysh (Azerbaijan)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Talysh_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q34318",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "145794",
+        "grammar",
+        1953,
+        267,
+        "B. V. Miller 1953"
+      ],
+      [
+        "581139",
+        "phonology_or_text",
+        1930,
+        0,
+        "B. V. Miller 1930"
+      ],
+      [
+        "401325",
+        "wordlist_or_less",
+        1904,
+        14,
+        "de Morgan, Jacques 1904"
+      ]
+    ]
+  },
+  "id": "taly1247",
+  "name": "North-Central Talysh",
+  "description": null,
+  "markup_description": null,
+  "latitude": 38.4552,
+  "longitude": 48.6349,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Iranian",
+      "id": "iran1269",
+      "url": "https://glottolog.org/resource/languoid/id/iran1269"
+    },
+    {
+      "name": "Central Iranian PBS",
+      "id": "cent2317",
+      "url": "https://glottolog.org/resource/languoid/id/cent2317"
+    },
+    {
+      "name": "Central Iranian PB",
+      "id": "cent2318",
+      "url": "https://glottolog.org/resource/languoid/id/cent2318"
+    },
+    {
+      "name": "Northwestern Iranian",
+      "id": "nort3177",
+      "url": "https://glottolog.org/resource/languoid/id/nort3177"
+    },
+    {
+      "name": "Adharic",
+      "id": "tati1243",
+      "url": "https://glottolog.org/resource/languoid/id/tati1243"
+    },
+    {
+      "name": "Tatic",
+      "id": "tati1244",
+      "url": "https://glottolog.org/resource/languoid/id/tati1244"
+    },
+    {
+      "name": "Central Tatic",
+      "id": "cent2265",
+      "url": "https://glottolog.org/resource/languoid/id/cent2265"
+    }
+  ],
+  "iso639-3": "tly"
+}

@@ -1,0 +1,86 @@
+{
+  "pk": 5351,
+  "hid": "dnu",
+  "father_pk": 3503,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Danau [dana1252][dnu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1244",
+        "label": "Danau"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5013745",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Danau_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "406454",
+        "grammar_sketch",
+        2015,
+        41,
+        "Aung Si 2015"
+      ],
+      [
+        "589751",
+        "grammar_sketch",
+        2005,
+        0,
+        "Ma Nu Nu Thein 2005"
+      ],
+      [
+        "120746",
+        "phonology_or_text",
+        1964,
+        0,
+        "Luce, Gordon H. 1964"
+      ],
+      [
+        "14371",
+        "wordlist_or_less",
+        1900,
+        3,
+        "George J. Scott and J. P. Hardiman 1900"
+      ]
+    ]
+  },
+  "id": "dana1252",
+  "name": "Danau",
+  "description": null,
+  "markup_description": null,
+  "latitude": 20.4957,
+  "longitude": 96.998,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Khasi-Palaung",
+      "id": "khas1273",
+      "url": "https://glottolog.org/resource/languoid/id/khas1273"
+    },
+    {
+      "name": "Palaungic",
+      "id": "pala1352",
+      "url": "https://glottolog.org/resource/languoid/id/pala1352"
+    }
+  ],
+  "iso639-3": "dnu"
+}

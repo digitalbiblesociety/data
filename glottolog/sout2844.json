@@ -1,0 +1,85 @@
+{
+  "pk": 8310,
+  "hid": "sbd",
+  "father_pk": 5820,
+  "family_pk": 121,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Toma {Eastern Mande} [toma1246]':1)'Southern Samo [sout2844][sbd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://phoible.org/languages/sout2844",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33122730",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "16170",
+        "long_grammar",
+        1974,
+        642,
+        "Platiel, Suzanne 1974"
+      ],
+      [
+        "551593",
+        "wordlist_or_less",
+        1953,
+        7,
+        "Prost, André 1953"
+      ],
+      [
+        "577835",
+        "wordlist_or_less",
+        1917,
+        0,
+        "Tauxier, L. 1917"
+      ]
+    ]
+  },
+  "id": "sout2844",
+  "name": "Southern Samo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.713,
+  "longitude": -2.9052,
+  "classification": [
+    {
+      "name": "Mande",
+      "id": "mand1469",
+      "url": "https://glottolog.org/resource/languoid/id/mand1469"
+    },
+    {
+      "name": "Eastern Mande",
+      "id": "east2697",
+      "url": "https://glottolog.org/resource/languoid/id/east2697"
+    },
+    {
+      "name": "Bisa-Busa",
+      "id": "bisa1265",
+      "url": "https://glottolog.org/resource/languoid/id/bisa1265"
+    },
+    {
+      "name": "Samo-Busa",
+      "id": "samo1302",
+      "url": "https://glottolog.org/resource/languoid/id/samo1302"
+    },
+    {
+      "name": "Mande Samo",
+      "id": "mand1437",
+      "url": "https://glottolog.org/resource/languoid/id/mand1437"
+    }
+  ],
+  "iso639-3": "sbd"
+}

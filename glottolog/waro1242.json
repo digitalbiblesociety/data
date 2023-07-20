@@ -1,0 +1,84 @@
+{
+  "pk": 6875,
+  "hid": "wrp",
+  "father_pk": 4670,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Mo''or [moor1246]':1,'Napan [napa1243]':1,'Waropen Kai [waro1243]':1)'Waropen [waro1242][wrp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7969851",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Waropen_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_wrp",
+        "label": "Waropen"
+      }
+    ],
+    "meds": [
+      [
+        "80378",
+        "grammar",
+        1942,
+        154,
+        "Gerrit J. Held 1942"
+      ],
+      [
+        "54846",
+        "wordlist_or_less",
+        1862,
+        1,
+        "Latham, Robert Gordon 1862"
+      ],
+      [
+        "109606",
+        "wordlist_or_less",
+        1855,
+        1,
+        "Fabritius, G. J. 1855"
+      ]
+    ]
+  },
+  "id": "waro1242",
+  "name": "Waropen",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.31142,
+  "longitude": 136.633,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "South Halmahera-West New Guinea",
+      "id": "sout3229",
+      "url": "https://glottolog.org/resource/languoid/id/sout3229"
+    }
+  ],
+  "iso639-3": "wrp"
+}

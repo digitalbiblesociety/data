@@ -1,0 +1,95 @@
+{
+  "pk": 6845,
+  "hid": "tao",
+  "father_pk": 4659,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Yami [yami1254][tao]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10747",
+        "label": "Tao"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q715760",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yami_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ymi",
+        "label": "Yami"
+      }
+    ],
+    "meds": [
+      [
+        "301405",
+        "grammar",
+        2000,
+        177,
+        "Chang, Claire H. 2000"
+      ],
+      [
+        "573817",
+        "grammar_sketch",
+        1962,
+        284,
+        "Wei, H. L., and P. H. Liu. 1962"
+      ],
+      [
+        "84529",
+        "grammar_sketch",
+        1936,
+        106,
+        "Asai, Erin 1936"
+      ],
+      [
+        "29621",
+        "wordlist_or_less",
+        1910,
+        1,
+        "W. Müller 1910"
+      ]
+    ]
+  },
+  "id": "yami1254",
+  "name": "Yami",
+  "description": null,
+  "markup_description": null,
+  "latitude": 22.055,
+  "longitude": 121.544,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Batanic",
+      "id": "bata1315",
+      "url": "https://glottolog.org/resource/languoid/id/bata1315"
+    },
+    {
+      "name": "Yami-Itbayat",
+      "id": "yami1257",
+      "url": "https://glottolog.org/resource/languoid/id/yami1257"
+    }
+  ],
+  "iso639-3": "tao"
+}

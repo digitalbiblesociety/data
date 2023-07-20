@@ -1,0 +1,101 @@
+{
+  "pk": 22888,
+  "hid": "zpn",
+  "father_pk": 21126,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Zaachila [zaac1238]':1)'Santa Inés Yatzechi Zapotec [sant1447][zpn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Yatzeche_Zapotec",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q8050300",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "135876",
+        "wordlist_or_less",
+        1994,
+        3,
+        "Thomas C. Smith Stark 1994"
+      ]
+    ]
+  },
+  "id": "sant1447",
+  "name": "Santa Inés Yatzechi Zapotec",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.8842,
+  "longitude": -96.7527,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Popoloca-Zapotecan",
+      "id": "popo1292",
+      "url": "https://glottolog.org/resource/languoid/id/popo1292"
+    },
+    {
+      "name": "Zapotecan",
+      "id": "zapo1436",
+      "url": "https://glottolog.org/resource/languoid/id/zapo1436"
+    },
+    {
+      "name": "Zapotec",
+      "id": "zapo1437",
+      "url": "https://glottolog.org/resource/languoid/id/zapo1437"
+    },
+    {
+      "name": "Core Zapotec",
+      "id": "nucl1765",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1765"
+    },
+    {
+      "name": "Narrow Core Zapotec",
+      "id": "core1259",
+      "url": "https://glottolog.org/resource/languoid/id/core1259"
+    },
+    {
+      "name": "Central Core Zapotec",
+      "id": "cent2146",
+      "url": "https://glottolog.org/resource/languoid/id/cent2146"
+    },
+    {
+      "name": "Western Valley Zapotec",
+      "id": "west2947",
+      "url": "https://glottolog.org/resource/languoid/id/west2947"
+    },
+    {
+      "name": "Extended Ocotepec Zapotec",
+      "id": "exte1234",
+      "url": "https://glottolog.org/resource/languoid/id/exte1234"
+    },
+    {
+      "name": "Tilquiapanic",
+      "id": "tilq1236",
+      "url": "https://glottolog.org/resource/languoid/id/tilq1236"
+    }
+  ],
+  "iso639-3": "zpn"
+}

@@ -1,0 +1,111 @@
+{
+  "pk": 10162,
+  "hid": "tdh",
+  "father_pk": 7300,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Thulung [cent2007]':1,'Eastern Thulung [east2360]':1,'Lannachyo [lann1238]':1,'Northern Thulung [nort2731]':1,'Southern Thulung [sout2738]':1)'Thulung [thul1246][tdh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5101",
+        "label": "Thulung"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56553",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Thulung_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/thul1246",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_thu",
+        "label": "Thulung"
+      }
+    ],
+    "meds": [
+      [
+        "50827",
+        "long_grammar",
+        2002,
+        384,
+        "Aimée Lahaussois 2002"
+      ],
+      [
+        "123810",
+        "grammar",
+        1975,
+        0,
+        "Allen, Nicholas J. 1975"
+      ],
+      [
+        "548882",
+        "grammar",
+        1966,
+        0,
+        "Gaenszle, Martin 1966"
+      ],
+      [
+        "49334",
+        "wordlist_or_less",
+        1935,
+        25,
+        "Stuart Wolfenden 1935"
+      ],
+      [
+        "78648",
+        "wordlist_or_less",
+        1909,
+        4,
+        "George A. Grierson 1909"
+      ]
+    ]
+  },
+  "id": "thul1246",
+  "name": "Thulung",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.5389,
+  "longitude": 87.6063,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Himalayish",
+      "id": "hima1249",
+      "url": "https://glottolog.org/resource/languoid/id/hima1249"
+    },
+    {
+      "name": "Mahakiranti",
+      "id": "maha1306",
+      "url": "https://glottolog.org/resource/languoid/id/maha1306"
+    },
+    {
+      "name": "Kiranti",
+      "id": "kira1253",
+      "url": "https://glottolog.org/resource/languoid/id/kira1253"
+    },
+    {
+      "name": "Western Kiranti",
+      "id": "west2424",
+      "url": "https://glottolog.org/resource/languoid/id/west2424"
+    }
+  ],
+  "iso639-3": "tdh"
+}

@@ -1,0 +1,81 @@
+{
+  "pk": 5861,
+  "hid": "kvw",
+  "father_pk": 3883,
+  "family_pk": 125,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kolana [kola1287]':1,'Langkuru [lang1327]':1,'Maneta [mane1265]':1)'Wersing [wers1238][kvw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/9509",
+        "label": "Wersing"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7983599",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Wersing_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kln",
+        "label": "Kolana"
+      }
+    ],
+    "meds": [
+      [
+        "319600",
+        "grammar_sketch",
+        2014,
+        56,
+        "Schapper, Antoinette and Rachel Hendery 2014"
+      ],
+      [
+        "80328",
+        "wordlist_or_less",
+        1914,
+        6,
+        "Verbeek, R. D. M. 1914"
+      ]
+    ]
+  },
+  "id": "wers1238",
+  "name": "Wersing",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.33936,
+  "longitude": 124.932,
+  "classification": [
+    {
+      "name": "Timor-Alor-Pantar",
+      "id": "timo1261",
+      "url": "https://glottolog.org/resource/languoid/id/timo1261"
+    },
+    {
+      "name": "Alor-Pantar",
+      "id": "alor1249",
+      "url": "https://glottolog.org/resource/languoid/id/alor1249"
+    },
+    {
+      "name": "East Alor",
+      "id": "kola1286",
+      "url": "https://glottolog.org/resource/languoid/id/kola1286"
+    },
+    {
+      "name": "Sawila-Wersing",
+      "id": "sawi1258",
+      "url": "https://glottolog.org/resource/languoid/id/sawi1258"
+    }
+  ],
+  "iso639-3": "kvw"
+}

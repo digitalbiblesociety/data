@@ -1,0 +1,58 @@
+{
+  "pk": 492,
+  "hid": "cun",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'K''iche''/ Cunén [kich1264][cun]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "cun",
+      "name": "Cunén Quiché",
+      "change_request": "2008-054",
+      "effective": "2009-01-16",
+      "reason": "merge",
+      "change_to": [
+        "quc"
+      ],
+      "remedy": "Merge with K'iche' [quc]",
+      "comment": "The name is a dialect or dialect group name, and therefore incorrect for a\nlanguage designation. It should be changed to the general language name. There\nis almost no disagreement among linguists about what the general language names\nfor Mayan languages are. The majority of the Ethnologue/ISO names are, however,\ndialect names. Please see section 4 for an elaboration of the languages\naccording to family divisions and branches.\n\n[RA comment: the name form Quiché in Spanish spelling will also be retained for\nhistorical reference with regard to the standard.]"
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12953588",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500287",
+        "wordlist_or_less",
+        2008,
+        0,
+        "ISO 639-3 Registration Authority 2008"
+      ]
+    ]
+  },
+  "id": "kich1264",
+  "name": "K'iche', Cunén",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "cun"
+}

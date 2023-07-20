@@ -1,0 +1,72 @@
+{
+  "pk": 3516,
+  "hid": "zoc",
+  "father_pk": 1880,
+  "family_pk": 3,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ocotepec [ocot1242]':1,'Ostuacín [ostu1241]':1)'Copainalá Zoque [copa1236][zoc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_zqc",
+        "label": "Zoque (Copainalá)"
+      },
+      {
+        "url": "https://phoible.org/languages/copa1236",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12954017",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "314395",
+        "grammar_sketch",
+        1981,
+        249,
+        "Harrison, Roy and Harrison, Margaret and García Hernández, Cástulo 1981"
+      ],
+      [
+        "319343",
+        "grammar_sketch",
+        1672,
+        224,
+        "Luis González 1997 [1672]"
+      ]
+    ]
+  },
+  "id": "copa1236",
+  "name": "Copainalá Zoque",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.2157,
+  "longitude": -93.3183,
+  "classification": [
+    {
+      "name": "Mixe-Zoque",
+      "id": "mixe1284",
+      "url": "https://glottolog.org/resource/languoid/id/mixe1284"
+    },
+    {
+      "name": "Zoque",
+      "id": "zoqu1261",
+      "url": "https://glottolog.org/resource/languoid/id/zoqu1261"
+    },
+    {
+      "name": "Chiapas Zoque",
+      "id": "chia1261",
+      "url": "https://glottolog.org/resource/languoid/id/chia1261"
+    }
+  ],
+  "iso639-3": "zoc"
+}

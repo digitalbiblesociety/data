@@ -1,0 +1,57 @@
+{
+  "pk": 7600,
+  "hid": "gon",
+  "father_pk": 5261,
+  "family_pk": 404,
+  "level": "family",
+  "bookkeeping": false,
+  "category": "Family",
+  "newick": "(('Amravati [amra1237]':1,'Betul [betu1237]':1,'Bhandara [bhan1241]':1,'Chhindwara [chhi1244]':1,'Mandla {Dravidian} [mand1414]':1,'Nagpur [nagp1250]':1,'Seoni [seon1237]':1,'Yavatmal [yava1251]':1)'Northern Gondi [nort2702][gno]-l-':1,((('Lanjoda [lanj1237]':1,'Raigarh [raig1237]':1)'Eastern Muria [east2340][emu]-l-':1,('Banchapai [banc1237]':1,'Dhanora [dhan1269]':1,'Sonapal [sona1242]':1)'Western Muria [west2408][mut]-l-':1)'Muria [muri1262]':1,(('Nirmal [nirm1237]':1,'Rajura [raju1237]':1)'Adilabad Gondi [utno1237][wsg]-l-':1,(('Bhamragarh [bham1239]':1,'Etapally Gondi [etap1239]':1,'Sironcha [siro1248]':1)'Aheri Gondi [aher1237][esg]-l-':1,'Far Western Muria [farw1235][fmu]-l-':1)'Eastern Gondi [east2880]':1)'Southern Gondi [sout2711]':1)'Southwest Gondi [sout3367]':1)'Northwest Gondi [nort3258][gon]':1",
+  "child_family_count": 4,
+  "child_language_count": 6,
+  "child_dialect_count": 18,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [],
+    "meds": [
+      [
+        "535632",
+        "wordlist_or_less",
+        2015,
+        0,
+        "ISO 639-3 Registration Authority 2015"
+      ]
+    ]
+  },
+  "id": "nort3258",
+  "name": "Northwest Gondi",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Dravidian",
+      "id": "drav1251",
+      "url": "https://glottolog.org/resource/languoid/id/drav1251"
+    },
+    {
+      "name": "South Dravidian",
+      "id": "sout3133",
+      "url": "https://glottolog.org/resource/languoid/id/sout3133"
+    },
+    {
+      "name": "South Dravidian II",
+      "id": "sout3139",
+      "url": "https://glottolog.org/resource/languoid/id/sout3139"
+    },
+    {
+      "name": "Gondi",
+      "id": "gond1265",
+      "url": "https://glottolog.org/resource/languoid/id/gond1265"
+    }
+  ],
+  "iso639-3": "gon"
+}

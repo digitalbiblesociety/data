@@ -1,0 +1,99 @@
+{
+  "pk": 6121,
+  "hid": "par",
+  "father_pk": 4109,
+  "family_pk": 155,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Panamint [pana1305][par]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4944",
+        "label": "Panamint"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33926",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Timbisha_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/pana1305",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tsh",
+        "label": "Tümpisa Shoshone"
+      }
+    ],
+    "meds": [
+      [
+        "93411",
+        "long_grammar",
+        1989,
+        534,
+        "Dayley, Jon P. 1989"
+      ],
+      [
+        "17947",
+        "grammar",
+        1987,
+        225,
+        "McLaughlin, John Earls 1987"
+      ],
+      [
+        "577587",
+        "wordlist_or_less",
+        1938,
+        11,
+        "Steward, J. H. 1938"
+      ],
+      [
+        "13002",
+        "wordlist_or_less",
+        1936,
+        10,
+        "Steward, J. H. 1936"
+      ]
+    ]
+  },
+  "id": "pana1305",
+  "name": "Panamint",
+  "description": null,
+  "markup_description": null,
+  "latitude": 36.0007,
+  "longitude": -117.901,
+  "classification": [
+    {
+      "name": "Uto-Aztecan",
+      "id": "utoa1244",
+      "url": "https://glottolog.org/resource/languoid/id/utoa1244"
+    },
+    {
+      "name": "Northern Uto-Aztecan",
+      "id": "nort2953",
+      "url": "https://glottolog.org/resource/languoid/id/nort2953"
+    },
+    {
+      "name": "Numic",
+      "id": "numi1242",
+      "url": "https://glottolog.org/resource/languoid/id/numi1242"
+    },
+    {
+      "name": "Central Numic",
+      "id": "cent2130",
+      "url": "https://glottolog.org/resource/languoid/id/cent2130"
+    }
+  ],
+  "iso639-3": "par"
+}

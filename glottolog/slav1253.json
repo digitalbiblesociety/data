@@ -1,0 +1,66 @@
+{
+  "pk": 8903,
+  "hid": "den",
+  "father_pk": 6427,
+  "family_pk": 238,
+  "level": "family",
+  "bookkeeping": false,
+  "category": "Family",
+  "newick": "(('Bearlake Slavey [bear1241]':1,'Hare [hare1244]':1,'Mountain Slavey [moun1257]':1)'North Slavey [nort2942][scs]-l-':1,'South Slavey [sout2959][xsl]-l-':1)'Slave [slav1253][den]':1",
+  "child_family_count": 0,
+  "child_language_count": 2,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_sla",
+        "label": "Slave"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Slavey_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q13272",
+        "label": null
+      }
+    ]
+  },
+  "id": "slav1253",
+  "name": "Slave",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Athabaskan-Eyak-Tlingit",
+      "id": "atha1245",
+      "url": "https://glottolog.org/resource/languoid/id/atha1245"
+    },
+    {
+      "name": "Athabaskan-Eyak",
+      "id": "atha1246",
+      "url": "https://glottolog.org/resource/languoid/id/atha1246"
+    },
+    {
+      "name": "Athabaskan",
+      "id": "atha1247",
+      "url": "https://glottolog.org/resource/languoid/id/atha1247"
+    },
+    {
+      "name": "Northwestern Canada Athabaskan",
+      "id": "nort3354",
+      "url": "https://glottolog.org/resource/languoid/id/nort3354"
+    },
+    {
+      "name": "Slaveyic",
+      "id": "hare1243",
+      "url": "https://glottolog.org/resource/languoid/id/hare1243"
+    }
+  ],
+  "iso639-3": "den"
+}

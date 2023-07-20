@@ -1,0 +1,70 @@
+{
+  "pk": 2239,
+  "hid": "ndp",
+  "father_pk": 1028,
+  "family_pk": 140,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Avari [avar1257]':1,'Membi [memb1238]':1,'Oke''bu [okeb1238]':1)'Ndo [ndoo1242][ndp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6983774",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ndo_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "547228",
+        "phonology_or_text",
+        1978,
+        0,
+        "Banga, Yey Dokery 1978"
+      ],
+      [
+        "53144",
+        "wordlist_or_less",
+        1966,
+        8,
+        "Tucker, Archibald N. and Bryan, Margaret A. 1966"
+      ],
+      [
+        "79115",
+        "wordlist_or_less",
+        1910,
+        8,
+        "Dundas, Kenneth R. 1910"
+      ]
+    ]
+  },
+  "id": "ndoo1242",
+  "name": "Ndo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 2.68546,
+  "longitude": 30.5652,
+  "classification": [
+    {
+      "name": "Central Sudanic",
+      "id": "cent2225",
+      "url": "https://glottolog.org/resource/languoid/id/cent2225"
+    },
+    {
+      "name": "Membi-Mangbutu-Efe",
+      "id": "memb1239",
+      "url": "https://glottolog.org/resource/languoid/id/memb1239"
+    }
+  ],
+  "iso639-3": "ndp"
+}

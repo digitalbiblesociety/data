@@ -1,0 +1,82 @@
+{
+  "pk": 8403,
+  "hid": "xoi",
+  "father_pk": 5940,
+  "family_pk": 143,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kominimung [komi1271][xoi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10697",
+        "label": "Kominimung"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6428352",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kominimung_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "668396",
+        "wordlist_or_less",
+        2013,
+        2,
+        "Tousch, André 2013"
+      ],
+      [
+        "126669",
+        "wordlist_or_less",
+        1975,
+        2,
+        "John A. Z'graggen 1975"
+      ]
+    ]
+  },
+  "id": "komi1271",
+  "name": "Kominimung",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.68537,
+  "longitude": 144.783,
+  "classification": [
+    {
+      "name": "Lower Sepik-Ramu",
+      "id": "lowe1437",
+      "url": "https://glottolog.org/resource/languoid/id/lowe1437"
+    },
+    {
+      "name": "Ramu",
+      "id": "ramu1234",
+      "url": "https://glottolog.org/resource/languoid/id/ramu1234"
+    },
+    {
+      "name": "Goam",
+      "id": "goam1234",
+      "url": "https://glottolog.org/resource/languoid/id/goam1234"
+    },
+    {
+      "name": "Tamolan",
+      "id": "tamo1242",
+      "url": "https://glottolog.org/resource/languoid/id/tamo1242"
+    },
+    {
+      "name": "Unclassified Tamolan",
+      "id": "unun9900",
+      "url": "https://glottolog.org/resource/languoid/id/unun9900"
+    }
+  ],
+  "iso639-3": "xoi"
+}

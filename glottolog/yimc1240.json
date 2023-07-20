@@ -1,0 +1,89 @@
+{
+  "pk": 10206,
+  "hid": "yim",
+  "father_pk": 7347,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Chirr [chir1282]':1,('Minir [mini1250]':1,'Pherrongre [pher1238]':1,'Yimchungru [yimc1241]':1)'Southern [sout2731]':1,'Tikhir [tikh1241]':1,'Wai [waii1241]':1)'Yimchungru Naga [yimc1240][yim]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Yimkhiungr%C3%BC_language",
+        "label": null
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/5709",
+        "label": "Yimchungru Naga"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56348",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "36585",
+        "phonology_or_text",
+        1973,
+        104,
+        "Kumar, Braj Bihari 1973"
+      ],
+      [
+        "85928",
+        "wordlist_or_less",
+        1967,
+        7,
+        "Marrison, Geoffrey E. 1967"
+      ],
+      [
+        "162861",
+        "wordlist_or_less",
+        1903,
+        4,
+        "George A. Grierson 1903"
+      ]
+    ]
+  },
+  "id": "yimc1240",
+  "name": "Yimchungru Naga",
+  "description": null,
+  "markup_description": null,
+  "latitude": 25.7675,
+  "longitude": 94.8087,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Angami-Ao",
+      "id": "anga1312",
+      "url": "https://glottolog.org/resource/languoid/id/anga1312"
+    },
+    {
+      "name": "Central Naga",
+      "id": "aoic1235",
+      "url": "https://glottolog.org/resource/languoid/id/aoic1235"
+    },
+    {
+      "name": "Yimchingric",
+      "id": "yimc1239",
+      "url": "https://glottolog.org/resource/languoid/id/yimc1239"
+    }
+  ],
+  "iso639-3": "yim"
+}

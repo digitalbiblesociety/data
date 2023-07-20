@@ -1,0 +1,71 @@
+{
+  "pk": 4671,
+  "hid": "abl",
+  "father_pk": 2967,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Jabung [jabu1248]':1,'Kota Bumi [kota1277]':1,'Menggala [meng1269]':1)'Lampung Nyo [lamp1242][abl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12473424",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "324521",
+        "grammar_sketch",
+        1992,
+        182,
+        "Ni Nyoman Wetty 1992"
+      ],
+      [
+        "325315",
+        "grammar_sketch",
+        1987,
+        134,
+        "Ni. Nyoman Wetty and Effendi Sanusi and H. Baichaki Nawawi and Hartati D. Tejanegara and Mahyuddin, {} 1987"
+      ],
+      [
+        "318031",
+        "wordlist_or_less",
+        1869,
+        4,
+        "van der Tuuk, H. N. 1869"
+      ]
+    ]
+  },
+  "id": "lamp1242",
+  "name": "Lampung Nyo",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.43957,
+  "longitude": 105.397,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Lampungic",
+      "id": "lamp1241",
+      "url": "https://glottolog.org/resource/languoid/id/lamp1241"
+    }
+  ],
+  "iso639-3": "abl"
+}

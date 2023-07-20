@@ -1,0 +1,98 @@
+{
+  "pk": 10812,
+  "hid": "avv",
+  "father_pk": 7935,
+  "family_pk": 51,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Avá-Canoeiro [avac1239][avv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/681",
+        "label": "Avá"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q4829584",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Av%C3%A1-Canoeiro_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/avac1239",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "93684",
+        "long_grammar",
+        2006,
+        356,
+        "Borges, Mônica Veloso 2006"
+      ],
+      [
+        "105302",
+        "phonology_or_text",
+        1996,
+        0,
+        "Paiva, Anivaldo Macedo 1996"
+      ],
+      [
+        "21386",
+        "wordlist_or_less",
+        1863,
+        29,
+        "Couto de Magalhães, José Vieira 1863"
+      ]
+    ]
+  },
+  "id": "avac1239",
+  "name": "Avá-Canoeiro",
+  "description": null,
+  "markup_description": null,
+  "latitude": -13.6081,
+  "longitude": -48.1336,
+  "classification": [
+    {
+      "name": "Tupian",
+      "id": "tupi1275",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1275"
+    },
+    {
+      "name": "Maweti-Guarani",
+      "id": "mawe1252",
+      "url": "https://glottolog.org/resource/languoid/id/mawe1252"
+    },
+    {
+      "name": "Aweti-Guarani",
+      "id": "awet1245",
+      "url": "https://glottolog.org/resource/languoid/id/awet1245"
+    },
+    {
+      "name": "Tupi-Guarani",
+      "id": "tupi1276",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1276"
+    },
+    {
+      "name": "Tupi-Guarani Subgroup VIII",
+      "id": "tupi1281",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1281"
+    },
+    {
+      "name": "Guaja-Kaapor-Ava",
+      "id": "guaj1258",
+      "url": "https://glottolog.org/resource/languoid/id/guaj1258"
+    }
+  ],
+  "iso639-3": "avv"
+}

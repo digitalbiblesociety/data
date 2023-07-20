@@ -1,0 +1,132 @@
+{
+  "pk": 25053,
+  "hid": "ext",
+  "father_pk": 24163,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Extremaduran [cent1957]':1,'Northern Extremaduran [nort2604]':1,'Southern Extremaduran [sout2610]':1)'Extremaduran [extr1243][ext]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Extremaduran_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q30007",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "448443",
+        "grammar_sketch",
+        1974,
+        280,
+        "Cummins, John G. 1974"
+      ],
+      [
+        "547245",
+        "grammar_sketch",
+        1967,
+        0,
+        "Baptista, Cândida da Saudade Costa 1967"
+      ],
+      [
+        "472249",
+        "phonology_or_text",
+        1940,
+        164,
+        "Santos Coco, Francisco 1940, 1940, 1940, 1941, 1942, 1944"
+      ],
+      [
+        "319155",
+        "phonology_or_text",
+        1902,
+        66,
+        "Gabriel y Galán, José María 1902"
+      ]
+    ]
+  },
+  "id": "extr1243",
+  "name": "Extremaduran",
+  "description": null,
+  "markup_description": null,
+  "latitude": 39.1926,
+  "longitude": -6.10179,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Italic",
+      "id": "ital1284",
+      "url": "https://glottolog.org/resource/languoid/id/ital1284"
+    },
+    {
+      "name": "Latino-Faliscan",
+      "id": "lati1262",
+      "url": "https://glottolog.org/resource/languoid/id/lati1262"
+    },
+    {
+      "name": "Latinic",
+      "id": "lati1263",
+      "url": "https://glottolog.org/resource/languoid/id/lati1263"
+    },
+    {
+      "name": "Imperial Latin",
+      "id": "impe1234",
+      "url": "https://glottolog.org/resource/languoid/id/impe1234"
+    },
+    {
+      "name": "Romance",
+      "id": "roma1334",
+      "url": "https://glottolog.org/resource/languoid/id/roma1334"
+    },
+    {
+      "name": "Italo-Western Romance",
+      "id": "ital1285",
+      "url": "https://glottolog.org/resource/languoid/id/ital1285"
+    },
+    {
+      "name": "Western Romance",
+      "id": "west2813",
+      "url": "https://glottolog.org/resource/languoid/id/west2813"
+    },
+    {
+      "name": "Shifted Western Romance",
+      "id": "shif1234",
+      "url": "https://glottolog.org/resource/languoid/id/shif1234"
+    },
+    {
+      "name": "Southwestern Shifted Romance",
+      "id": "sout3183",
+      "url": "https://glottolog.org/resource/languoid/id/sout3183"
+    },
+    {
+      "name": "West Ibero-Romance",
+      "id": "west2838",
+      "url": "https://glottolog.org/resource/languoid/id/west2838"
+    },
+    {
+      "name": "Castilic",
+      "id": "cast1243",
+      "url": "https://glottolog.org/resource/languoid/id/cast1243"
+    }
+  ],
+  "iso639-3": "ext"
+}

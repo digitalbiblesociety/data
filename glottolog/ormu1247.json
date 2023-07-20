@@ -1,0 +1,111 @@
+{
+  "pk": 7995,
+  "hid": "oru",
+  "father_pk": 5611,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kanigurami [kani1241]':1,'Logar [loga1242]':1)'Ormuri [ormu1247][oru]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4930",
+        "label": "Ormuri"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33740",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ormuri",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/ormu1247",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_orm",
+        "label": "Ormuri"
+      }
+    ],
+    "meds": [
+      [
+        "319280",
+        "long_grammar",
+        2011,
+        334,
+        "Efimov, Valentin A. 2011"
+      ],
+      [
+        "95044",
+        "grammar",
+        2003,
+        249,
+        "Kieffer, Charles M. 2003"
+      ],
+      [
+        "556014",
+        "grammar",
+        1975,
+        132,
+        "Kieffer, Charles M. 1975"
+      ],
+      [
+        "471597",
+        "grammar_sketch",
+        1973,
+        127,
+        "Georg Morgenstierne 1973"
+      ],
+      [
+        "301200",
+        "grammar_sketch",
+        1918,
+        101,
+        "Grierson, George A. 1918"
+      ]
+    ]
+  },
+  "id": "ormu1247",
+  "name": "Ormuri",
+  "description": null,
+  "markup_description": null,
+  "latitude": 32.6819,
+  "longitude": 69.3444,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Iranian",
+      "id": "iran1269",
+      "url": "https://glottolog.org/resource/languoid/id/iran1269"
+    },
+    {
+      "name": "Ormuri-Parachi",
+      "id": "ormu1249",
+      "url": "https://glottolog.org/resource/languoid/id/ormu1249"
+    }
+  ],
+  "iso639-3": "oru"
+}

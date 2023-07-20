@@ -1,0 +1,72 @@
+{
+  "pk": 3526,
+  "hid": "tby",
+  "father_pk": 1887,
+  "family_pk": 5,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Adu [aduu1238]':1,'Nyeku [nyek1238]':1)'Tabaru [taba1263][tby]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tbr",
+        "label": "Tabaru"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tabaru_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q11732670",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "160078",
+        "grammar_sketch",
+        1928,
+        245,
+        "J. Fortgens 1928"
+      ],
+      [
+        "317769",
+        "wordlist_or_less",
+        1905,
+        18,
+        "Fortgens, J. 1905"
+      ]
+    ]
+  },
+  "id": "taba1263",
+  "name": "Tabaru",
+  "description": null,
+  "markup_description": null,
+  "latitude": 1.46563,
+  "longitude": 127.633,
+  "classification": [
+    {
+      "name": "North Halmahera",
+      "id": "nort2923",
+      "url": "https://glottolog.org/resource/languoid/id/nort2923"
+    },
+    {
+      "name": "Northern North Halmahera",
+      "id": "nort2924",
+      "url": "https://glottolog.org/resource/languoid/id/nort2924"
+    },
+    {
+      "name": "Mainland North Halmaheran",
+      "id": "main1282",
+      "url": "https://glottolog.org/resource/languoid/id/main1282"
+    }
+  ],
+  "iso639-3": "tby"
+}

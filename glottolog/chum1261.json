@@ -1,0 +1,137 @@
+{
+  "pk": 23233,
+  "hid": "ncu",
+  "father_pk": 21749,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Northern Chumburung [nort2769]':1,'Southern Chumburung [sout2780]':1,'Yeji [yeji1238]':1)'Chumburung [chum1261][ncu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_cum",
+        "label": "Chumburung"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Chumburung_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/chum1261",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35198",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "87993",
+        "long_grammar",
+        1990,
+        495,
+        "Hansford, Keir Lewis 1990"
+      ],
+      [
+        "23003",
+        "phonology_or_text",
+        1975,
+        29,
+        "Price, Norman 1975"
+      ],
+      [
+        "137732",
+        "phonology_or_text",
+        1974,
+        0,
+        "Ansab, S.L. 1974"
+      ],
+      [
+        "557261",
+        "wordlist_or_less",
+        1960,
+        10,
+        "Rytz, Otto 1960"
+      ],
+      [
+        "106819",
+        "wordlist_or_less",
+        1898,
+        4,
+        "Seidel, August 1898"
+      ]
+    ]
+  },
+  "id": "chum1261",
+  "name": "Chumburung",
+  "description": null,
+  "markup_description": null,
+  "latitude": 8.15211,
+  "longitude": -0.2755,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Kwa Volta-Congo",
+      "id": "kwav1236",
+      "url": "https://glottolog.org/resource/languoid/id/kwav1236"
+    },
+    {
+      "name": "Nyo",
+      "id": "nyoa1234",
+      "url": "https://glottolog.org/resource/languoid/id/nyoa1234"
+    },
+    {
+      "name": "Potou-Tano",
+      "id": "poto1254",
+      "url": "https://glottolog.org/resource/languoid/id/poto1254"
+    },
+    {
+      "name": "Tano",
+      "id": "tano1248",
+      "url": "https://glottolog.org/resource/languoid/id/tano1248"
+    },
+    {
+      "name": "Guang",
+      "id": "guan1278",
+      "url": "https://glottolog.org/resource/languoid/id/guan1278"
+    },
+    {
+      "name": "North Guang",
+      "id": "nort3204",
+      "url": "https://glottolog.org/resource/languoid/id/nort3204"
+    },
+    {
+      "name": "Oti North Guang",
+      "id": "otin1234",
+      "url": "https://glottolog.org/resource/languoid/id/otin1234"
+    },
+    {
+      "name": "River Oti North Guang",
+      "id": "rive1262",
+      "url": "https://glottolog.org/resource/languoid/id/rive1262"
+    },
+    {
+      "name": "Chumbuli",
+      "id": "chum1265",
+      "url": "https://glottolog.org/resource/languoid/id/chum1265"
+    }
+  ],
+  "iso639-3": "ncu"
+}

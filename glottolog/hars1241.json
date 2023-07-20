@@ -1,0 +1,84 @@
+{
+  "pk": 11082,
+  "hid": "hss",
+  "father_pk": 8183,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Harsusi [hars1241][hss]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4281",
+        "label": "Ḥarsusi"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/%E1%B8%A4arsusi_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_hrs",
+        "label": "Harsusi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33423",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "320420",
+        "grammar_sketch",
+        1937,
+        24,
+        "Bertram Thomas 1937"
+      ]
+    ]
+  },
+  "id": "hars1241",
+  "name": "Harsusi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 19.6511,
+  "longitude": 56.1562,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Semitic",
+      "id": "semi1276",
+      "url": "https://glottolog.org/resource/languoid/id/semi1276"
+    },
+    {
+      "name": "West Semitic",
+      "id": "west2786",
+      "url": "https://glottolog.org/resource/languoid/id/west2786"
+    },
+    {
+      "name": "Modern South Arabian",
+      "id": "mode1252",
+      "url": "https://glottolog.org/resource/languoid/id/mode1252"
+    },
+    {
+      "name": "Hobyot-Western MSA",
+      "id": "hoby1243",
+      "url": "https://glottolog.org/resource/languoid/id/hoby1243"
+    },
+    {
+      "name": "Western MSA",
+      "id": "west2859",
+      "url": "https://glottolog.org/resource/languoid/id/west2859"
+    }
+  ],
+  "iso639-3": "hss"
+}

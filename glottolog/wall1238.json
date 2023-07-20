@@ -1,0 +1,64 @@
+{
+  "pk": 3902,
+  "hid": "waa",
+  "father_pk": 2193,
+  "family_pk": 129,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Northeast Sahaptin [wall1238][waa]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12953960",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "52951",
+        "grammar_sketch",
+        1988,
+        30,
+        "Noel Rude 1988"
+      ],
+      [
+        "27878",
+        "wordlist_or_less",
+        1836,
+        4,
+        "Albert Gallatin 1836"
+      ]
+    ]
+  },
+  "id": "wall1238",
+  "name": "Northeast Sahaptin",
+  "description": null,
+  "markup_description": null,
+  "latitude": 45.7206,
+  "longitude": -118.424,
+  "classification": [
+    {
+      "name": "Sahaptian",
+      "id": "saha1239",
+      "url": "https://glottolog.org/resource/languoid/id/saha1239"
+    },
+    {
+      "name": "Sahaptin",
+      "id": "saha1240",
+      "url": "https://glottolog.org/resource/languoid/id/saha1240"
+    },
+    {
+      "name": "Northern Sahaptin",
+      "id": "nort1527",
+      "url": "https://glottolog.org/resource/languoid/id/nort1527"
+    }
+  ],
+  "iso639-3": "waa"
+}

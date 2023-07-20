@@ -1,0 +1,79 @@
+{
+  "pk": 3971,
+  "hid": "tzx",
+  "father_pk": 2255,
+  "family_pk": 143,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tabriak [tabr1243][tzx]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10630",
+        "label": "Karawari"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56872",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tabriak_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "586249",
+        "phonology_or_text",
+        2015,
+        59,
+        "Madeleine Booth 2015"
+      ],
+      [
+        "319702",
+        "phonology_or_text",
+        1998,
+        141,
+        "Borut Telban 1998"
+      ],
+      [
+        "318703",
+        "wordlist_or_less",
+        1963,
+        0,
+        "Eike Haberland 1963"
+      ]
+    ]
+  },
+  "id": "tabr1243",
+  "name": "Tabriak",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.49162,
+  "longitude": 143.593,
+  "classification": [
+    {
+      "name": "Lower Sepik-Ramu",
+      "id": "lowe1437",
+      "url": "https://glottolog.org/resource/languoid/id/lowe1437"
+    },
+    {
+      "name": "Lower Sepik",
+      "id": "lowe1423",
+      "url": "https://glottolog.org/resource/languoid/id/lowe1423"
+    },
+    {
+      "name": "Karawarian",
+      "id": "kara1498",
+      "url": "https://glottolog.org/resource/languoid/id/kara1498"
+    }
+  ],
+  "iso639-3": "tzx"
+}

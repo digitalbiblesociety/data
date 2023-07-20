@@ -1,0 +1,72 @@
+{
+  "pk": 516,
+  "hid": "teb",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Tetete [tete1252][teb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "teb",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "Tetete [teb] is unattested, but second hand reports testify it was intelligible with Siona [snn]\n(**hh:e:Cabodevilla:Ocultos**). See also: Siona-Tetete [snn]."
+    },
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2151",
+        "label": "Teteté"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7706087",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tetet%C3%A9_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "664303",
+        "wordlist_or_less",
+        2011,
+        24,
+        "Wasserstrom and Robert and Reider, Susan and and Lara, Rommel 2011"
+      ]
+    ]
+  },
+  "id": "tete1252",
+  "name": "Tetete",
+  "description": null,
+  "markup_description": null,
+  "latitude": -0.02668,
+  "longitude": -76.5761,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "teb"
+}

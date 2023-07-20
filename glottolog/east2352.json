@@ -1,0 +1,85 @@
+{
+  "pk": 10153,
+  "hid": "mgp",
+  "father_pk": 7298,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Eastern Magar [east2352][mgp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mag",
+        "label": "Magar"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12952758",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "74690",
+        "long_grammar",
+        2008,
+        321,
+        "Grunow-Hårsta, Karen A. 2008"
+      ],
+      [
+        "79580",
+        "grammar",
+        1972,
+        265,
+        "Subhadra Subba 1972"
+      ],
+      [
+        "97171",
+        "grammar_sketch",
+        1870,
+        51,
+        "John Beames 1870"
+      ]
+    ]
+  },
+  "id": "east2352",
+  "name": "Eastern Magar",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.4135166667,
+  "longitude": 87.06171,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Himalayish",
+      "id": "hima1249",
+      "url": "https://glottolog.org/resource/languoid/id/hima1249"
+    },
+    {
+      "name": "Mahakiranti",
+      "id": "maha1306",
+      "url": "https://glottolog.org/resource/languoid/id/maha1306"
+    },
+    {
+      "name": "Kham-Magar-Chepang",
+      "id": "kham1285",
+      "url": "https://glottolog.org/resource/languoid/id/kham1285"
+    },
+    {
+      "name": "Magar",
+      "id": "maga1261",
+      "url": "https://glottolog.org/resource/languoid/id/maga1261"
+    }
+  ],
+  "iso639-3": "mgp"
+}

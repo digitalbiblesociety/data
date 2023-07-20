@@ -1,0 +1,74 @@
+{
+  "pk": 2720,
+  "hid": "oro",
+  "father_pk": 1273,
+  "family_pk": 251,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Orokolo [orok1267][oro]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7103758",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Orokolo_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_orl",
+        "label": "Orokolo"
+      }
+    ],
+    "meds": [
+      [
+        "307505",
+        "grammar",
+        1972,
+        108,
+        "Herbert A. Brown 1972"
+      ],
+      [
+        "317674",
+        "wordlist_or_less",
+        1894,
+        4,
+        "F. E. Lawes 1894"
+      ],
+      [
+        "73529",
+        "wordlist_or_less",
+        1887,
+        200,
+        "James Chalmers 1887"
+      ]
+    ]
+  },
+  "id": "orok1267",
+  "name": "Orokolo",
+  "description": null,
+  "markup_description": null,
+  "latitude": -7.81309,
+  "longitude": 145.34,
+  "classification": [
+    {
+      "name": "Eleman",
+      "id": "nucl1580",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1580"
+    },
+    {
+      "name": "Western Eleman",
+      "id": "west2573",
+      "url": "https://glottolog.org/resource/languoid/id/west2573"
+    }
+  ],
+  "iso639-3": "oro"
+}

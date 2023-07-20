@@ -1,0 +1,75 @@
+{
+  "pk": 9432,
+  "hid": "ibg",
+  "father_pk": 6834,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('North Ibanag [nort2880]':1,'South Ibanag [sout2909]':1)'Ibanag [iban1267][ibg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ibn",
+        "label": "Ibanag"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ibanag_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q1775596",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "304999",
+        "long_grammar",
+        1690,
+        432,
+        "Fausto de las Cuevas, José María 1854 [1690]"
+      ]
+    ]
+  },
+  "id": "iban1267",
+  "name": "Ibanag",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.4201,
+  "longitude": 121.891,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Northern Luzon",
+      "id": "nort3238",
+      "url": "https://glottolog.org/resource/languoid/id/nort3238"
+    },
+    {
+      "name": "Cagayan Valley",
+      "id": "caga1241",
+      "url": "https://glottolog.org/resource/languoid/id/caga1241"
+    },
+    {
+      "name": "Ibanagic",
+      "id": "iban1268",
+      "url": "https://glottolog.org/resource/languoid/id/iban1268"
+    }
+  ],
+  "iso639-3": "ibg"
+}

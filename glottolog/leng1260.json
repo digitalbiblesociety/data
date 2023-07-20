@@ -1,0 +1,82 @@
+{
+  "pk": 9197,
+  "hid": "lgi",
+  "father_pk": 6704,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Binuang [binu1246]':1,'Long Layu’ [long1423]':1,'Long Mutan [long1425]':1,'Long Padi [long1424]':1)'Lengilu [leng1260][lgi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2285",
+        "label": "Lengilu"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6522465",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lengilu_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "472374",
+        "wordlist_or_less",
+        2009,
+        2,
+        "Bernard Sellato 2009"
+      ],
+      [
+        "185231",
+        "wordlist_or_less",
+        2005,
+        21,
+        "Clayre, Beatrice 2005"
+      ]
+    ]
+  },
+  "id": "leng1260",
+  "name": "Lengilu",
+  "description": null,
+  "markup_description": null,
+  "latitude": 3.69641,
+  "longitude": 115.91,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "North Borneo Malayo-Polynesian",
+      "id": "nort3253",
+      "url": "https://glottolog.org/resource/languoid/id/nort3253"
+    },
+    {
+      "name": "North Sarawakan",
+      "id": "nort3171",
+      "url": "https://glottolog.org/resource/languoid/id/nort3171"
+    },
+    {
+      "name": "Dayic",
+      "id": "kela1257",
+      "url": "https://glottolog.org/resource/languoid/id/kela1257"
+    }
+  ],
+  "iso639-3": "lgi"
+}

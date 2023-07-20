@@ -1,0 +1,132 @@
+{
+  "pk": 21050,
+  "hid": "mid",
+  "father_pk": 19031,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ahwaz [ahwa1239]':1,'Iraqi Neo-Mandaic [iraq1245]':1,'Shushtar [shus1252]':1)'Neo-Mandaic [nucl1706][mid]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4659",
+        "label": "Neo-Mandaic"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6991742",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Neo-Mandaic",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mma",
+        "label": "Mandaic (Modern)"
+      }
+    ],
+    "meds": [
+      [
+        "475985",
+        "long_grammar",
+        2009,
+        412,
+        "Charles Häberl 2009"
+      ],
+      [
+        "470123",
+        "long_grammar",
+        2006,
+        409,
+        "Charles Häberl 2006"
+      ],
+      [
+        "311702",
+        "grammar_sketch",
+        1989,
+        132,
+        "Macuch, Rudolf 1989"
+      ],
+      [
+        "588357",
+        "phonology_or_text",
+        1963,
+        502,
+        "Stevens, Ethel S. and Macuch, Rudolf 1963"
+      ],
+      [
+        "405215",
+        "phonology_or_text",
+        1904,
+        310,
+        "de Morgan, Jacques 1904"
+      ]
+    ]
+  },
+  "id": "nucl1706",
+  "name": "Neo-Mandaic",
+  "description": null,
+  "markup_description": null,
+  "latitude": 31.3443,
+  "longitude": 48.8128,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Semitic",
+      "id": "semi1276",
+      "url": "https://glottolog.org/resource/languoid/id/semi1276"
+    },
+    {
+      "name": "West Semitic",
+      "id": "west2786",
+      "url": "https://glottolog.org/resource/languoid/id/west2786"
+    },
+    {
+      "name": "Central Semitic",
+      "id": "cent2236",
+      "url": "https://glottolog.org/resource/languoid/id/cent2236"
+    },
+    {
+      "name": "Northwest Semitic",
+      "id": "nort3165",
+      "url": "https://glottolog.org/resource/languoid/id/nort3165"
+    },
+    {
+      "name": "Aramaic",
+      "id": "aram1259",
+      "url": "https://glottolog.org/resource/languoid/id/aram1259"
+    },
+    {
+      "name": "Imperial-Middle-Modern Aramaic",
+      "id": "impe1236",
+      "url": "https://glottolog.org/resource/languoid/id/impe1236"
+    },
+    {
+      "name": "Middle-Modern Aramaic",
+      "id": "midd1367",
+      "url": "https://glottolog.org/resource/languoid/id/midd1367"
+    },
+    {
+      "name": "Eastern Aramaic",
+      "id": "east2680",
+      "url": "https://glottolog.org/resource/languoid/id/east2680"
+    },
+    {
+      "name": "Macro-Mandaic",
+      "id": "mand1468",
+      "url": "https://glottolog.org/resource/languoid/id/mand1468"
+    }
+  ],
+  "iso639-3": "mid"
+}

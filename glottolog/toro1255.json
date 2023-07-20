@@ -1,0 +1,82 @@
+{
+  "pk": 9013,
+  "hid": "tno",
+  "father_pk": 6516,
+  "family_pk": 273,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Toromono [toro1255][tno]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2139",
+        "label": "Toromona"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q510544",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Toromono_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "114170",
+        "wordlist_or_less",
+        1929,
+        13,
+        "del Castillo, Marius 1929"
+      ],
+      [
+        "118417",
+        "wordlist_or_less",
+        1894,
+        1,
+        "Balzan, Luigi 1894"
+      ]
+    ]
+  },
+  "id": "toro1255",
+  "name": "Toromono",
+  "description": null,
+  "markup_description": null,
+  "latitude": -13.3028,
+  "longitude": -67.3931,
+  "classification": [
+    {
+      "name": "Pano-Tacanan",
+      "id": "pano1259",
+      "url": "https://glottolog.org/resource/languoid/id/pano1259"
+    },
+    {
+      "name": "Tacanan",
+      "id": "taca1255",
+      "url": "https://glottolog.org/resource/languoid/id/taca1255"
+    },
+    {
+      "name": "Takanik-Chamik",
+      "id": "taka1267",
+      "url": "https://glottolog.org/resource/languoid/id/taka1267"
+    },
+    {
+      "name": "Takanik",
+      "id": "taka1268",
+      "url": "https://glottolog.org/resource/languoid/id/taka1268"
+    },
+    {
+      "name": "Araona-Toromono",
+      "id": "arao1247",
+      "url": "https://glottolog.org/resource/languoid/id/arao1247"
+    }
+  ],
+  "iso639-3": "tno"
+}

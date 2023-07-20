@@ -1,0 +1,83 @@
+{
+  "pk": 12377,
+  "hid": "apf",
+  "father_pk": 9426,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Agta-Pahanan [agta1234][apf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7135432",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Paranan_Agta_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "319199",
+        "grammar_sketch",
+        1995,
+        127,
+        "Alviar-Calinawagan, Elizabeth 1995"
+      ],
+      [
+        "69069",
+        "wordlist_or_less",
+        1907,
+        2,
+        "G. A. Baer 1907"
+      ]
+    ]
+  },
+  "id": "agta1234",
+  "name": "Agta-Pahanan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.0538,
+  "longitude": 122.2802,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Northern Luzon",
+      "id": "nort3238",
+      "url": "https://glottolog.org/resource/languoid/id/nort3238"
+    },
+    {
+      "name": "Northeastern Luzon",
+      "id": "nort3187",
+      "url": "https://glottolog.org/resource/languoid/id/nort3187"
+    },
+    {
+      "name": "Nuclear Northeastern Luzon",
+      "id": "nucl1755",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1755"
+    },
+    {
+      "name": "Paranan-Pahanan",
+      "id": "para1320",
+      "url": "https://glottolog.org/resource/languoid/id/para1320"
+    }
+  ],
+  "iso639-3": "apf"
+}

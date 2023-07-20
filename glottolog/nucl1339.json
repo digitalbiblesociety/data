@@ -1,0 +1,70 @@
+{
+  "pk": 1143,
+  "hid": "teq",
+  "father_pk": 181,
+  "family_pk": 181,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Oroñe [oron1234]':1,'Umm Kurum [ummk1234]':1)'Temein [nucl1339][teq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5095",
+        "label": "Temein"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7698064",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Temein_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nucl1339",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tmn",
+        "label": "Temein"
+      }
+    ],
+    "meds": [
+      [
+        "40220",
+        "wordlist_or_less",
+        2006,
+        10,
+        "Blench, Roger M. 2006"
+      ],
+      [
+        "137294",
+        "wordlist_or_less",
+        1931,
+        1,
+        "MacDiarmid, P. A. and MacDiarmid, D. N. 1931"
+      ]
+    ]
+  },
+  "id": "nucl1339",
+  "name": "Temein",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.8275,
+  "longitude": 29.3898,
+  "classification": [
+    {
+      "name": "Temeinic",
+      "id": "teme1251",
+      "url": "https://glottolog.org/resource/languoid/id/teme1251"
+    }
+  ],
+  "iso639-3": "teq"
+}

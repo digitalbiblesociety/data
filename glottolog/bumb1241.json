@@ -1,0 +1,76 @@
+{
+  "pk": 3753,
+  "hid": "aon",
+  "father_pk": 2099,
+  "family_pk": 103,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bonahoi [bona1254]':1,'Timingir [timi1241]':1,'Urita [urit1239]':1,'Weril [weri1251]':1,'Werir [weri1252]':1)'Bumbita Arapesh [bumb1241][aon]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2046",
+        "label": "Bumbita"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bumbita_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/bumb1241",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3508044",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "128382",
+        "grammar_sketch",
+        1999,
+        40,
+        "Dobrin, Lise Miriam 1999"
+      ],
+      [
+        "138610",
+        "wordlist_or_less",
+        1968,
+        1,
+        "Donald C. Laycock 1968"
+      ]
+    ]
+  },
+  "id": "bumb1241",
+  "name": "Bumbita Arapesh",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.65508,
+  "longitude": 142.859,
+  "classification": [
+    {
+      "name": "Nuclear Torricelli",
+      "id": "nucl1708",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1708"
+    },
+    {
+      "name": "Kombio-Arapesh-Urat",
+      "id": "komb1276",
+      "url": "https://glottolog.org/resource/languoid/id/komb1276"
+    },
+    {
+      "name": "Arapesh",
+      "id": "arap1279",
+      "url": "https://glottolog.org/resource/languoid/id/arap1279"
+    }
+  ],
+  "iso639-3": "aon"
+}

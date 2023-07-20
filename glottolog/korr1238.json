@@ -1,0 +1,82 @@
+{
+  "pk": 10481,
+  "hid": "kfd",
+  "father_pk": 7598,
+  "family_pk": 404,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ande Koraga [ande1246]':1,'Onti Koraga [onti1237]':1,'Tappu Koraga [tapp1239]':1)'Korra Koraga [korr1238][kfd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4368",
+        "label": "Korra Koraga"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12952655",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/korr1238",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "8910",
+        "long_grammar",
+        1978,
+        402,
+        "Ramakrishna T. Shetty 1978"
+      ],
+      [
+        "25806",
+        "grammar_sketch",
+        1971,
+        14,
+        "Bhat, D. N. S. 1971"
+      ]
+    ]
+  },
+  "id": "korr1238",
+  "name": "Korra Koraga",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.9163,
+  "longitude": 75.2,
+  "classification": [
+    {
+      "name": "Dravidian",
+      "id": "drav1251",
+      "url": "https://glottolog.org/resource/languoid/id/drav1251"
+    },
+    {
+      "name": "South Dravidian",
+      "id": "sout3133",
+      "url": "https://glottolog.org/resource/languoid/id/sout3133"
+    },
+    {
+      "name": "South Dravidian I",
+      "id": "sout3138",
+      "url": "https://glottolog.org/resource/languoid/id/sout3138"
+    },
+    {
+      "name": "South-Western Dravidian",
+      "id": "tulu1261",
+      "url": "https://glottolog.org/resource/languoid/id/tulu1261"
+    },
+    {
+      "name": "Koraga",
+      "id": "kora1289",
+      "url": "https://glottolog.org/resource/languoid/id/kora1289"
+    }
+  ],
+  "iso639-3": "kfd"
+}

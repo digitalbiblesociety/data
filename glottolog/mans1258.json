@@ -1,0 +1,111 @@
+{
+  "pk": 4788,
+  "hid": "mns",
+  "father_pk": 3065,
+  "family_pk": 302,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ob Mansi [obma1234]':1,'Sosva Mansi [nort2677]':1,'Sygva Mansi [sygv1234]':1,'Upper Loz''va Mansi [uppe1461]':1)'Northern Mansi [mans1258][mns]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mns",
+        "label": "Mansi"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/8529",
+        "label": "Northern Mansi"
+      },
+      {
+        "url": "https://phoible.org/languages/mans1258",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q30304537",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "551521",
+        "long_grammar",
+        1972,
+        330,
+        "Giuliano Pirotti 1972"
+      ],
+      [
+        "547206",
+        "grammar",
+        1957,
+        274,
+        "Aleksej N. Balandin and Matryena P. Vaxruševa 1957"
+      ],
+      [
+        "548010",
+        "grammar_sketch",
+        1937,
+        30,
+        "V. N. Chernetsov 1937"
+      ],
+      [
+        "586521",
+        "phonology_or_text",
+        1936,
+        124,
+        "Chernetsov, V. N. and I. Ya. Chernetsova 1936"
+      ],
+      [
+        "549553",
+        "phonology_or_text",
+        1864,
+        364,
+        "Pál Hunfalvy and Antal Reguly 1864"
+      ],
+      [
+        "13948",
+        "phonology_or_text",
+        1787,
+        3,
+        "Lorenzo Hervas 1787"
+      ],
+      [
+        "43361",
+        "wordlist_or_less",
+        1730,
+        76,
+        "Philipp Johann von Strahlenberg 1730"
+      ]
+    ]
+  },
+  "id": "mans1258",
+  "name": "Northern Mansi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 64.4118,
+  "longitude": 61.344,
+  "classification": [
+    {
+      "name": "Uralic",
+      "id": "ural1272",
+      "url": "https://glottolog.org/resource/languoid/id/ural1272"
+    },
+    {
+      "name": "Mansic",
+      "id": "mans1269",
+      "url": "https://glottolog.org/resource/languoid/id/mans1269"
+    },
+    {
+      "name": "North-Central Mansi",
+      "id": "nort3271",
+      "url": "https://glottolog.org/resource/languoid/id/nort3271"
+    }
+  ],
+  "iso639-3": "mns"
+}

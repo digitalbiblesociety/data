@@ -1,0 +1,121 @@
+{
+  "pk": 16143,
+  "hid": "ths",
+  "father_pk": 13331,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Marpha [marp1238]':1,'Syang [syan1241]':1,'Tukche [tukc1238]':1)'Thakali [thak1245][ths]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5703",
+        "label": "Thakali"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7709348",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Thakali_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/thak1245",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_thk",
+        "label": "Thakali"
+      }
+    ],
+    "meds": [
+      [
+        "40628",
+        "long_grammar",
+        1996,
+        420,
+        "Stefan Georg 1996"
+      ],
+      [
+        "661744",
+        "grammar_sketch",
+        1995,
+        0,
+        "Georg, Stefan 1995"
+      ],
+      [
+        "135751",
+        "phonology_or_text",
+        1969,
+        48,
+        "Hari, Maria (Anna Maria) 1969"
+      ],
+      [
+        "78648",
+        "wordlist_or_less",
+        1909,
+        4,
+        "George A. Grierson 1909"
+      ],
+      [
+        "146631",
+        "wordlist_or_less",
+        1857,
+        2,
+        "Hodgson, Brian Houghton 1857"
+      ]
+    ]
+  },
+  "id": "thak1245",
+  "name": "Thakali",
+  "description": null,
+  "markup_description": null,
+  "latitude": 28.7014,
+  "longitude": 83.6466,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "Kaike-Ghale-Tamangic",
+      "id": "kaik1248",
+      "url": "https://glottolog.org/resource/languoid/id/kaik1248"
+    },
+    {
+      "name": "Ghale-Tamangic",
+      "id": "ghal1247",
+      "url": "https://glottolog.org/resource/languoid/id/ghal1247"
+    },
+    {
+      "name": "Tamangic",
+      "id": "tama1367",
+      "url": "https://glottolog.org/resource/languoid/id/tama1367"
+    },
+    {
+      "name": "Gurungic",
+      "id": "guru1260",
+      "url": "https://glottolog.org/resource/languoid/id/guru1260"
+    },
+    {
+      "name": "Thakali-Chantyal",
+      "id": "thak1244",
+      "url": "https://glottolog.org/resource/languoid/id/thak1244"
+    }
+  ],
+  "iso639-3": "ths"
+}

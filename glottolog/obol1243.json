@@ -1,0 +1,98 @@
+{
+  "pk": 12886,
+  "hid": "ann",
+  "father_pk": 9931,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ataba [atab1238]':1,'Ibot Obolo [ibot1241]':1,'Ngo [ngoo1241]':1,'Okoroete [okor1249]':1,'Unyeada [unye1238]':1)'Obolo [obol1243][ann]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_obo",
+        "label": "Obolo"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Obolo_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/obol1243",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36614",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "145177",
+        "long_grammar",
+        1999,
+        809,
+        "Rowland Oke, Mary 1999"
+      ],
+      [
+        "77287",
+        "grammar",
+        1984,
+        142,
+        "Faraclas, Nicolas 1984"
+      ],
+      [
+        "24131",
+        "wordlist_or_less",
+        1907,
+        49,
+        "Leonard, Arthur Glyn 1907"
+      ]
+    ]
+  },
+  "id": "obol1243",
+  "name": "Obolo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.62851,
+  "longitude": 7.81985,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Delta Cross",
+      "id": "delt1251",
+      "url": "https://glottolog.org/resource/languoid/id/delt1251"
+    },
+    {
+      "name": "Lower Cross",
+      "id": "obol1242",
+      "url": "https://glottolog.org/resource/languoid/id/obol1242"
+    },
+    {
+      "name": "Oboloic",
+      "id": "obol1244",
+      "url": "https://glottolog.org/resource/languoid/id/obol1244"
+    }
+  ],
+  "iso639-3": "ann"
+}

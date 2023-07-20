@@ -1,0 +1,108 @@
+{
+  "pk": 5048,
+  "hid": "grt",
+  "father_pk": 3210,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('A''beng [aben1248]':1,'A''chick [achi1255]':1,'A''we [awee1241]':1,'Abeng [aben1247]':1,'Achik [achi1247]':1,'Chisak [chis1241]':1,'Dacca [dacc1238]':1,'Ganching [ganc1238]':1,'Kamrup [kamr1239]':1,'Matchi [matc1241]':1)'Garo [garo1247][grt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 10,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5633",
+        "label": "Garo"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_gar",
+        "label": "Garo"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Garo_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/garo1247",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36137",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "134884",
+        "grammar",
+        2003,
+        239,
+        "Burling, Robbins 2003"
+      ],
+      [
+        "101925",
+        "grammar_sketch",
+        1961,
+        105,
+        "Burling, Robbins 1961"
+      ],
+      [
+        "92656",
+        "grammar_sketch",
+        1912,
+        93,
+        "Phillips, Elnathan Gooding 1912"
+      ],
+      [
+        "35819",
+        "grammar_sketch",
+        1874,
+        80,
+        "T. J. Keith 1874"
+      ],
+      [
+        "35573",
+        "wordlist_or_less",
+        1849,
+        10,
+        "William Robinson 1849"
+      ],
+      [
+        "115954",
+        "wordlist_or_less",
+        1837,
+        1,
+        "Brown, Nathan 1837"
+      ]
+    ]
+  },
+  "id": "garo1247",
+  "name": "Garo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 25.2954,
+  "longitude": 90.462,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Brahmaputran",
+      "id": "brah1260",
+      "url": "https://glottolog.org/resource/languoid/id/brah1260"
+    },
+    {
+      "name": "Bodo-Garo",
+      "id": "bodo1279",
+      "url": "https://glottolog.org/resource/languoid/id/bodo1279"
+    }
+  ],
+  "iso639-3": "grt"
+}

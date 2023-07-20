@@ -1,0 +1,65 @@
+{
+  "pk": 3222,
+  "hid": "xip",
+  "father_pk": 1670,
+  "family_pk": 335,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Unattested",
+  "newick": "'Xipináwa [xipi1238][xip]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "xip",
+      "name": "Xipináwa",
+      "change_request": "2015-011",
+      "effective": "2016-01-15",
+      "reason": "non-existent",
+      "change_to": [],
+      "remedy": "Retire",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q8044745",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Xipin%C3%A1wa_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "535680",
+        "wordlist_or_less",
+        2015,
+        0,
+        "ISO 639-3 Registration Authority 2015"
+      ]
+    ]
+  },
+  "id": "xipi1238",
+  "name": "Xipináwa",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.74999,
+  "longitude": -68.8333,
+  "classification": [
+    {
+      "name": "Unattested",
+      "id": "unat1236",
+      "url": "https://glottolog.org/resource/languoid/id/unat1236"
+    },
+    {
+      "name": "Pano-Tacanan (Unattested)",
+      "id": "pano1260",
+      "url": "https://glottolog.org/resource/languoid/id/pano1260"
+    }
+  ],
+  "iso639-3": "xip"
+}

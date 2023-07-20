@@ -1,0 +1,113 @@
+{
+  "pk": 11662,
+  "hid": "crg",
+  "father_pk": 8791,
+  "family_pk": 178,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Michif [mich1243][crg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://apics-online.info/contributions/75",
+        "label": "Michif"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/1755",
+        "label": "Michif"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mcf",
+        "label": "Michif"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Michif",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/mich1243",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q13315",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "111934",
+        "grammar",
+        2004,
+        222,
+        "Fleury, Norman and Lawrence Barkwell and Rita Flamand and Nicole Rosen and Peter Bakker and Robert Papen 2004"
+      ],
+      [
+        "44009",
+        "grammar_sketch",
+        1997,
+        69,
+        "Bakker, Peter and Robert A. Papen 1997"
+      ],
+      [
+        "551749",
+        "grammar_sketch",
+        1977,
+        20,
+        "Rhodes, Richard 1977"
+      ],
+      [
+        "547199",
+        "grammar_sketch",
+        1966,
+        0,
+        "Bakker, Peter and Robert A. Papen 1966"
+      ]
+    ]
+  },
+  "id": "mich1243",
+  "name": "Michif",
+  "description": null,
+  "markup_description": null,
+  "latitude": 49.1681,
+  "longitude": -99.9119,
+  "classification": [
+    {
+      "name": "Algic",
+      "id": "algi1248",
+      "url": "https://glottolog.org/resource/languoid/id/algi1248"
+    },
+    {
+      "name": "Algonquian-Blackfoot",
+      "id": "algo1256",
+      "url": "https://glottolog.org/resource/languoid/id/algo1256"
+    },
+    {
+      "name": "Algonquian",
+      "id": "algo1257",
+      "url": "https://glottolog.org/resource/languoid/id/algo1257"
+    },
+    {
+      "name": "Cree-Montagnais-Naskapi",
+      "id": "cree1271",
+      "url": "https://glottolog.org/resource/languoid/id/cree1271"
+    },
+    {
+      "name": "Cree",
+      "id": "cree1272",
+      "url": "https://glottolog.org/resource/languoid/id/cree1272"
+    },
+    {
+      "name": "Plains Creeic",
+      "id": "plai1264",
+      "url": "https://glottolog.org/resource/languoid/id/plai1264"
+    }
+  ],
+  "iso639-3": "crg"
+}

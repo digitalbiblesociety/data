@@ -1,0 +1,63 @@
+{
+  "pk": 664,
+  "hid": "stc",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Natügu {Retired} [natu1249][stc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "stc",
+      "name": "Santa Cruz",
+      "change_request": "2008-070",
+      "effective": "2009-01-16",
+      "reason": "split",
+      "change_to": [
+        "ntu",
+        "nlz"
+      ],
+      "remedy": "Split into Natügu [ntu] and Nalögo [nlz]",
+      "comment": "There are three related languages on the island of Santa Cruz and it is\nconfusing to refer to only one (which is actually two if this application is\naccepted) of them as \"Santa Cruz.\"\n\n* Speakers of both varieties have to learn the other one.\n\n* There is no common written literature; oral society with stories told in own\nvariety.\n\n* They consider themselves to speak different languages for census purposes.\n\n\nThe linguistics literature refers to all three languages on the island of Santa\nCruz as Santa Cruz languages, when speaking of the Reefs-Santa Cruz languages\n(RSC). But it also refers to Natügu and Nalögo as \"N. and S. Santa Cruz,\" and\nNanggu (Nagu) with its own name. Therefore, Santa Cruz is better reserved as the\ngenetic group containing all three of these languages."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q684979",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Santa_Cruz_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500925",
+        "wordlist_or_less",
+        2008,
+        0,
+        "ISO 639-3 Registration Authority 2008"
+      ]
+    ]
+  },
+  "id": "natu1249",
+  "name": "Natügu (Retired)",
+  "description": null,
+  "markup_description": null,
+  "latitude": -10.6771,
+  "longitude": 165.835,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "stc"
+}

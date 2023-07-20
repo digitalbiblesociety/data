@@ -1,0 +1,67 @@
+{
+  "pk": 2951,
+  "hid": "atk",
+  "father_pk": 1524,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Barotac Viejo Nagpana [baro1255]':1,'Malay {Ati} [mala1492]':1)'Ati [atii1237][atk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Ati_language_(Philippines)",
+        "label": null
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/3864",
+        "label": "Ati (Philippines)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3217458",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "134166",
+        "grammar_sketch",
+        1986,
+        36,
+        "Douglas F. Pennoyer 1986/1987"
+      ],
+      [
+        "551037",
+        "wordlist_or_less",
+        1902,
+        24,
+        "Tomás Navarrete 1902"
+      ]
+    ]
+  },
+  "id": "atii1237",
+  "name": "Ati",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.1539,
+  "longitude": 122.512,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    }
+  ],
+  "iso639-3": "atk"
+}

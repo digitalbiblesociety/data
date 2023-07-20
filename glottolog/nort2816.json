@@ -1,0 +1,69 @@
+{
+  "pk": 7082,
+  "hid": "diw",
+  "father_pk": 4853,
+  "family_pk": 316,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Alor {Nilotic} [alor1246]':1,'Ngok-Kordofan [ngok1246]':1,'Pan Aru [pana1299]':1,'Pawany [pawa1254]':1)'Northwestern Dinka [nort2816][diw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q36249",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "76437",
+        "phonology_or_text",
+        2004,
+        2,
+        "Duerksen, John L. 2004"
+      ],
+      [
+        "152418",
+        "wordlist_or_less",
+        1989,
+        2,
+        "Roettger, Larry and Roettger, Lisa 1989"
+      ]
+    ]
+  },
+  "id": "nort2816",
+  "name": "Northwestern Dinka",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.81484,
+  "longitude": 29.2998,
+  "classification": [
+    {
+      "name": "Nilotic",
+      "id": "nilo1247",
+      "url": "https://glottolog.org/resource/languoid/id/nilo1247"
+    },
+    {
+      "name": "Western Nilotic",
+      "id": "west2493",
+      "url": "https://glottolog.org/resource/languoid/id/west2493"
+    },
+    {
+      "name": "Dinka-Nuer",
+      "id": "dink1261",
+      "url": "https://glottolog.org/resource/languoid/id/dink1261"
+    },
+    {
+      "name": "Dinka",
+      "id": "dink1262",
+      "url": "https://glottolog.org/resource/languoid/id/dink1262"
+    }
+  ],
+  "iso639-3": "diw"
+}

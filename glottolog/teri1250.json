@@ -1,0 +1,109 @@
+{
+  "pk": 5395,
+  "hid": "tfr",
+  "father_pk": 3540,
+  "family_pk": 10,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Teribe [teri1250][tfr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5092",
+        "label": "Teribe"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_trb",
+        "label": "Teribe"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Teribe_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36533",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "88365",
+        "grammar",
+        2000,
+        204,
+        "Quesada, J. Diego 2000"
+      ],
+      [
+        "158929",
+        "grammar",
+        1977,
+        0,
+        "Woods, Frances M. and Longacre, Robert E. 1977"
+      ],
+      [
+        "137493",
+        "grammar",
+        1976,
+        0,
+        "Longacre, Robert E. and Woods, Frances 1976"
+      ],
+      [
+        "88011",
+        "grammar_sketch",
+        1892,
+        90,
+        "Henry Pittier and Carlos Gagini 1892"
+      ],
+      [
+        "64476",
+        "wordlist_or_less",
+        1882,
+        46,
+        "Thiel, Bernardo Augusto 1882"
+      ],
+      [
+        "94560",
+        "wordlist_or_less",
+        1875,
+        24,
+        "William M. Gabb 1875"
+      ]
+    ]
+  },
+  "id": "teri1250",
+  "name": "Teribe",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.067,
+  "longitude": -82.9631,
+  "classification": [
+    {
+      "name": "Chibchan",
+      "id": "chib1249",
+      "url": "https://glottolog.org/resource/languoid/id/chib1249"
+    },
+    {
+      "name": "Core Chibchan",
+      "id": "core1252",
+      "url": "https://glottolog.org/resource/languoid/id/core1252"
+    },
+    {
+      "name": "Isthmic Chibchan",
+      "id": "isth1243",
+      "url": "https://glottolog.org/resource/languoid/id/isth1243"
+    },
+    {
+      "name": "Western Isthmic Chibchan",
+      "id": "west2641",
+      "url": "https://glottolog.org/resource/languoid/id/west2641"
+    }
+  ],
+  "iso639-3": "tfr"
+}

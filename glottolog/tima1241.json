@@ -1,0 +1,66 @@
+{
+  "pk": 473,
+  "hid": "tms",
+  "father_pk": 30,
+  "family_pk": 30,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tima [tima1241][tms]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1439",
+        "label": "Tima"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36684",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tima_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tia",
+        "label": "Tima"
+      }
+    ],
+    "meds": [
+      [
+        "42620",
+        "long_grammar",
+        2009,
+        344,
+        "Alamin Mubarak, Suzan 2009"
+      ],
+      [
+        "38684",
+        "wordlist_or_less",
+        1916,
+        7,
+        "Meinhof, Carl 1916-1917"
+      ]
+    ]
+  },
+  "id": "tima1241",
+  "name": "Tima",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.7176,
+  "longitude": 29.1632,
+  "classification": [
+    {
+      "name": "Katla-Tima",
+      "id": "katl1246",
+      "url": "https://glottolog.org/resource/languoid/id/katl1246"
+    }
+  ],
+  "iso639-3": "tms"
+}

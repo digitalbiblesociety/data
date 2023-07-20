@@ -1,0 +1,104 @@
+{
+  "pk": 17953,
+  "hid": "pnz",
+  "father_pk": 15527,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Gonge [gong1240]':1,'Man [mann1247]':1,'Pana [pana1294]':1,'Pondo [pond1249]':1)'Pana {Central African Republic} [pana1293][pnz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4985",
+        "label": "Pana (Central African Republic)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36241",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Pana_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "439357",
+        "phonology_or_text",
+        2010,
+        21,
+        "Njoya, Ibibrahim 2010"
+      ],
+      [
+        "656671",
+        "wordlist_or_less",
+        1985,
+        13,
+        "Abbott, Stan 1985"
+      ],
+      [
+        "137298",
+        "wordlist_or_less",
+        1967,
+        0,
+        "d'Arenzano, Umberto 1967"
+      ]
+    ]
+  },
+  "id": "pana1293",
+  "name": "Pana (Central African Republic)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 8.71518,
+  "longitude": 13.6009,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "North Volta-Congo",
+      "id": "nort3149",
+      "url": "https://glottolog.org/resource/languoid/id/nort3149"
+    },
+    {
+      "name": "Cameroun-Ubangian",
+      "id": "came1255",
+      "url": "https://glottolog.org/resource/languoid/id/came1255"
+    },
+    {
+      "name": "Mbumic",
+      "id": "mbum1257",
+      "url": "https://glottolog.org/resource/languoid/id/mbum1257"
+    },
+    {
+      "name": "Central Mbum",
+      "id": "cent2020",
+      "url": "https://glottolog.org/resource/languoid/id/cent2020"
+    },
+    {
+      "name": "Karangic",
+      "id": "kara1477",
+      "url": "https://glottolog.org/resource/languoid/id/kara1477"
+    },
+    {
+      "name": "Kare-Pana",
+      "id": "kare1351",
+      "url": "https://glottolog.org/resource/languoid/id/kare1351"
+    }
+  ],
+  "iso639-3": "pnz"
+}

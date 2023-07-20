@@ -1,0 +1,137 @@
+{
+  "pk": 12609,
+  "hid": "krl",
+  "father_pk": 9600,
+  "family_pk": 302,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Northern Karelian [nort2673]':1,'Novgorod [novg1240]':1,('Tver [tver1240]':1,'Valdai [vald1234]':1)'Southern Karelian [sout2676]':1)'Karelian [kare1335][krl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2368",
+        "label": "Karelian"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_krl",
+        "label": "Karelian"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Karelian_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kare1335",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33557",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "666017",
+        "long_grammar",
+        2022,
+        453,
+        "Irina Novak and Martti Penttonen and Aleksi Ruuskanen and Lea Siilin 2022"
+      ],
+      [
+        "320020",
+        "grammar",
+        2002,
+        208,
+        "Zajkov, Pekka M. 2002"
+      ],
+      [
+        "103320",
+        "grammar",
+        1993,
+        14,
+        "Rjagoev, V. D. 1993"
+      ],
+      [
+        "575817",
+        "grammar_sketch",
+        1962,
+        226,
+        "Palmeos, Paula 1962"
+      ],
+      [
+        "546858",
+        "grammar_sketch",
+        1938,
+        156,
+        "Ahtia, Edvard V. 1938"
+      ],
+      [
+        "548971",
+        "grammar_sketch",
+        1880,
+        133,
+        "Genetz, Arvid 1880"
+      ],
+      [
+        "548969",
+        "phonology_or_text",
+        1877,
+        103,
+        "Genetz, Arvid 1877"
+      ],
+      [
+        "309459",
+        "wordlist_or_less",
+        1786,
+        20,
+        "Pallas, Peter Simon 1786, 1789"
+      ]
+    ]
+  },
+  "id": "kare1335",
+  "name": "Karelian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 65.1691,
+  "longitude": 30.8655,
+  "classification": [
+    {
+      "name": "Uralic",
+      "id": "ural1272",
+      "url": "https://glottolog.org/resource/languoid/id/ural1272"
+    },
+    {
+      "name": "Finnic",
+      "id": "finn1317",
+      "url": "https://glottolog.org/resource/languoid/id/finn1317"
+    },
+    {
+      "name": "Coastal Finnic",
+      "id": "coas1319",
+      "url": "https://glottolog.org/resource/languoid/id/coas1319"
+    },
+    {
+      "name": "Neva",
+      "id": "neva1234",
+      "url": "https://glottolog.org/resource/languoid/id/neva1234"
+    },
+    {
+      "name": "North Finnic",
+      "id": "nort3282",
+      "url": "https://glottolog.org/resource/languoid/id/nort3282"
+    },
+    {
+      "name": "Ladogan",
+      "id": "lado1234",
+      "url": "https://glottolog.org/resource/languoid/id/lado1234"
+    }
+  ],
+  "iso639-3": "krl"
+}

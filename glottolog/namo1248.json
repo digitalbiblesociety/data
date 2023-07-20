@@ -1,0 +1,80 @@
+{
+  "pk": 12436,
+  "hid": "bwb",
+  "father_pk": 9484,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Batiwai [bati1252]':1,'Nalea [nale1237]':1,'Tubai [tuba1276]':1)'Namosi-Naitasiri-Serua [namo1248][bwb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/11026",
+        "label": "Namosi"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Namosi-Naitasiri-Serua_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3130290",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "308194",
+        "wordlist_or_less",
+        1962,
+        45,
+        "Schütz, Albert J. 1962"
+      ]
+    ]
+  },
+  "id": "namo1248",
+  "name": "Namosi-Naitasiri-Serua",
+  "description": null,
+  "markup_description": null,
+  "latitude": -18.5308,
+  "longitude": 177.637,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Central Pacific linkage",
+      "id": "cent2060",
+      "url": "https://glottolog.org/resource/languoid/id/cent2060"
+    },
+    {
+      "name": "Western Fijian",
+      "id": "west2518",
+      "url": "https://glottolog.org/resource/languoid/id/west2518"
+    }
+  ],
+  "iso639-3": "bwb"
+}

@@ -1,0 +1,79 @@
+{
+  "pk": 4577,
+  "hid": "kyc",
+  "father_pk": 2934,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kyaka [kyak1244][kyc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kyk",
+        "label": "Kyaka"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kyaka_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12952690",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "91175",
+        "grammar_sketch",
+        2002,
+        359,
+        "Draper, Norm and Draper, Sheila 2002"
+      ],
+      [
+        "112072",
+        "wordlist_or_less",
+        1985,
+        1,
+        "John Davies and Bernard Comrie 1985"
+      ],
+      [
+        "128519",
+        "wordlist_or_less",
+        1962,
+        2,
+        "Arthur Capell 1962"
+      ]
+    ]
+  },
+  "id": "kyak1244",
+  "name": "Kyaka",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.52462,
+  "longitude": 144.119,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Enga-Kewa-Huli",
+      "id": "enga1254",
+      "url": "https://glottolog.org/resource/languoid/id/enga1254"
+    },
+    {
+      "name": "Engan",
+      "id": "enga1251",
+      "url": "https://glottolog.org/resource/languoid/id/enga1251"
+    }
+  ],
+  "iso639-3": "kyc"
+}

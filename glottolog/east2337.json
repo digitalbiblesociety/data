@@ -1,0 +1,101 @@
+{
+  "pk": 5282,
+  "hid": "yuy",
+  "father_pk": 3470,
+  "family_pk": 417,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'East Yugur [east2337][yuy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1208",
+        "label": "East Yugur"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q29902",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Eastern_Yugur_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/east2337",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_shy",
+        "label": "Shira Yughur"
+      }
+    ],
+    "meds": [
+      [
+        "642436",
+        "grammar",
+        2000,
+        0,
+        "Roos, Martina Erica 2000"
+      ],
+      [
+        "161809",
+        "grammar_sketch",
+        1981,
+        108,
+        "Junast, [Zhaonasitu] 1981"
+      ],
+      [
+        "8348",
+        "grammar_sketch",
+        1966,
+        41,
+        "È. R. Tenišev and V. X. Todaeva 1966"
+      ],
+      [
+        "572498",
+        "wordlist_or_less",
+        1951,
+        22,
+        "Hermanns, Matthias 1951"
+      ],
+      [
+        "574642",
+        "wordlist_or_less",
+        1911,
+        72,
+        "Mannerheim, C. G. E. 1911"
+      ]
+    ]
+  },
+  "id": "east2337",
+  "name": "East Yugur",
+  "description": null,
+  "markup_description": null,
+  "latitude": 38.83687,
+  "longitude": 99.61725,
+  "classification": [
+    {
+      "name": "Mongolic-Khitan",
+      "id": "mong1349",
+      "url": "https://glottolog.org/resource/languoid/id/mong1349"
+    },
+    {
+      "name": "Mongolic",
+      "id": "mong1329",
+      "url": "https://glottolog.org/resource/languoid/id/mong1329"
+    },
+    {
+      "name": "Southern Periphery Mongolic",
+      "id": "sout2705",
+      "url": "https://glottolog.org/resource/languoid/id/sout2705"
+    }
+  ],
+  "iso639-3": "yuy"
+}

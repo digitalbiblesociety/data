@@ -1,0 +1,116 @@
+{
+  "pk": 19643,
+  "hid": "snc",
+  "father_pk": 17603,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Alepa [alep1237]':1,'Babagarupu [baba1269]':1,'Balawaia [bala1307]':1,'Boku [boku1237]':1,'Buaga [buag1237]':1,'Ikega [ikeg1236]':1,'Ikolu [ikol1237]':1,'Kubuli [kubu1240]':1,'Kwaibida [kwai1244]':1,'Kwaibo [kwai1245]':1,'Omene [omen1237]':1,'Oruone [oruo1237]':1,'Saroa [saro1238]':1,'Taboro [tabo1240]':1,'Tubulamo [tubu1241]':1,'Vora [vora1237]':1,'Wiga [wiga1237]':1)'Sinaugoro [sina1266][snc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 17,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_sng",
+        "label": "Sinaugoro"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sinaugoro_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q4170719",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "100185",
+        "grammar",
+        1999,
+        124,
+        "Gerhard Tauberschmidt 1999"
+      ],
+      [
+        "61676",
+        "grammar_sketch",
+        1975,
+        120,
+        "John A. Kolia 1975"
+      ],
+      [
+        "89090",
+        "phonology_or_text",
+        1970,
+        3,
+        "Tom E. Dutton 1970"
+      ],
+      [
+        "309880",
+        "wordlist_or_less",
+        1892,
+        5,
+        "J. P. Thomson 1892"
+      ]
+    ]
+  },
+  "id": "sina1266",
+  "name": "Sinaugoro",
+  "description": null,
+  "markup_description": null,
+  "latitude": -9.79791,
+  "longitude": 147.861,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Western Oceanic linkage",
+      "id": "west2818",
+      "url": "https://glottolog.org/resource/languoid/id/west2818"
+    },
+    {
+      "name": "Papuan Tip linkage",
+      "id": "papu1253",
+      "url": "https://glottolog.org/resource/languoid/id/papu1253"
+    },
+    {
+      "name": "Peripheral Papuan Tip linkage",
+      "id": "peri1258",
+      "url": "https://glottolog.org/resource/languoid/id/peri1258"
+    },
+    {
+      "name": "Central Papuan Oceanic",
+      "id": "cent2070",
+      "url": "https://glottolog.org/resource/languoid/id/cent2070"
+    },
+    {
+      "name": "Sinagoro-Keapara",
+      "id": "sina1272",
+      "url": "https://glottolog.org/resource/languoid/id/sina1272"
+    }
+  ],
+  "iso639-3": "snc"
+}

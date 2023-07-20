@@ -1,0 +1,79 @@
+{
+  "pk": 4914,
+  "hid": "ldm",
+  "father_pk": 3142,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Tiapi [tiap1238]':1)'Landoma [land1256][ldm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/7716",
+        "label": "Landoma"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35568",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Landoma_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "76072",
+        "grammar",
+        1994,
+        4,
+        "Itkine, I.B. and Soumbatova, N.R. 1994"
+      ],
+      [
+        "22559",
+        "wordlist_or_less",
+        1961,
+        2,
+        "Wilson, W. A. A. 1961"
+      ],
+      [
+        "66179",
+        "wordlist_or_less",
+        1854,
+        1,
+        "Koelle, Sigismund W. 1854"
+      ]
+    ]
+  },
+  "id": "land1256",
+  "name": "Landoma",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.8753,
+  "longitude": -14.0895,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Mel",
+      "id": "mela1257",
+      "url": "https://glottolog.org/resource/languoid/id/mela1257"
+    },
+    {
+      "name": "Northern Mel",
+      "id": "temn1245",
+      "url": "https://glottolog.org/resource/languoid/id/temn1245"
+    }
+  ],
+  "iso639-3": "ldm"
+}

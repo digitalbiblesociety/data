@@ -1,0 +1,86 @@
+{
+  "pk": 5009,
+  "hid": "nma",
+  "father_pk": 3192,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Maram Khullen Circle [mara1380]':1,'Ngatan [ngat1245]':1,'T. Khullen [tkhu1238]':1,'Willong Circle [will1242]':1)'Maram Naga [mara1379][nma]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5667",
+        "label": "Maram Naga"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56378",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Maram_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "552210",
+        "long_grammar",
+        1984,
+        387,
+        "Singh, Pebam Ibopishak 1984"
+      ],
+      [
+        "588099",
+        "wordlist_or_less",
+        1975,
+        16,
+        "Kumar, Braj Bihari and Hari Prasāda Rāya and Kha Kāisoṅ Māikela Marām 1975"
+      ],
+      [
+        "85928",
+        "wordlist_or_less",
+        1967,
+        7,
+        "Marrison, Geoffrey E. 1967"
+      ],
+      [
+        "162861",
+        "wordlist_or_less",
+        1903,
+        4,
+        "George A. Grierson 1903"
+      ]
+    ]
+  },
+  "id": "mara1379",
+  "name": "Maram Naga",
+  "description": null,
+  "markup_description": null,
+  "latitude": 25.4378,
+  "longitude": 94.2205,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Zemeic",
+      "id": "zeme1241",
+      "url": "https://glottolog.org/resource/languoid/id/zeme1241"
+    }
+  ],
+  "iso639-3": "nma"
+}

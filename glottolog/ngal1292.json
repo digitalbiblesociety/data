@@ -1,0 +1,92 @@
+{
+  "pk": 1278,
+  "hid": "ngk",
+  "father_pk": 253,
+  "family_pk": 253,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ngalkbun [ngal1292][ngk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/n60",
+        "label": "Dalabon"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/1126",
+        "label": "Dalabon"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/n76",
+        "label": "Ngalkbon"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nkb",
+        "label": "Ngalkbun"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dalabon_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/ngal1292",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3913790",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "51959",
+        "grammar",
+        1977,
+        40,
+        "Sandefur, John R. and Jentian, David N. 1977"
+      ],
+      [
+        "4050",
+        "grammar_sketch",
+        1962,
+        24,
+        "Capell, Arthur 1962"
+      ],
+      [
+        "554499",
+        "wordlist_or_less",
+        1956,
+        4,
+        "Arthur Capell 1956"
+      ],
+      [
+        "5022",
+        "wordlist_or_less",
+        1953,
+        0,
+        "Elkin, A. P. 1953-56"
+      ]
+    ]
+  },
+  "id": "ngal1292",
+  "name": "Ngalkbun",
+  "description": null,
+  "markup_description": null,
+  "latitude": -13.9783,
+  "longitude": 133.936,
+  "classification": [
+    {
+      "name": "Gunwinyguan",
+      "id": "gunw1250",
+      "url": "https://glottolog.org/resource/languoid/id/gunw1250"
+    }
+  ],
+  "iso639-3": "ngk"
+}

@@ -1,0 +1,67 @@
+{
+  "pk": 2611,
+  "hid": "ilg",
+  "father_pk": 1200,
+  "family_pk": 207,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Garig [gari1254]':1,'Ilgar [ilga1238]':1)'Garig-Ilgar [gari1253][ilg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4299",
+        "label": "Ilgar"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5997810",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ilgar_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "128976",
+        "grammar_sketch",
+        2000,
+        129,
+        "Evans, Nicholas 2000"
+      ],
+      [
+        "100207",
+        "wordlist_or_less",
+        1846,
+        23,
+        "Giulio Soravia 1975 [1846-1847]"
+      ]
+    ]
+  },
+  "id": "gari1253",
+  "name": "Garig-Ilgar",
+  "description": null,
+  "markup_description": null,
+  "latitude": -11.412,
+  "longitude": 132.182,
+  "classification": [
+    {
+      "name": "Iwaidjan Proper",
+      "id": "iwai1246",
+      "url": "https://glottolog.org/resource/languoid/id/iwai1246"
+    },
+    {
+      "name": "Central Iwaidjic",
+      "id": "cent2228",
+      "url": "https://glottolog.org/resource/languoid/id/cent2228"
+    }
+  ],
+  "iso639-3": "ilg"
+}

@@ -1,0 +1,79 @@
+{
+  "pk": 3585,
+  "hid": "jaq",
+  "father_pk": 1916,
+  "family_pk": 27,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bapai [bapa1239]':1,'Nambiomon-Mabur [namb1294]':1,'Oba-Miwamon [obam1239]':1)'Yaqay [yaqa1246][jaq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q8049134",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yaqay_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_yqy",
+        "label": "Yaqay"
+      }
+    ],
+    "meds": [
+      [
+        "81498",
+        "grammar_sketch",
+        1954,
+        19,
+        "Drabbe, Peter 1954"
+      ],
+      [
+        "141795",
+        "grammar_sketch",
+        1950,
+        6,
+        "J. H. M. C. Boelaars 1950"
+      ],
+      [
+        "8827",
+        "wordlist_or_less",
+        1940,
+        7,
+        "Nevermann, Hans 1940"
+      ]
+    ]
+  },
+  "id": "yaqa1246",
+  "name": "Yaqay",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.66632,
+  "longitude": 139.249,
+  "classification": [
+    {
+      "name": "Anim",
+      "id": "anim1240",
+      "url": "https://glottolog.org/resource/languoid/id/anim1240"
+    },
+    {
+      "name": "Marind-Boazi-Yaqai",
+      "id": "mari1437",
+      "url": "https://glottolog.org/resource/languoid/id/mari1437"
+    },
+    {
+      "name": "Yaqayic",
+      "id": "yaqa1245",
+      "url": "https://glottolog.org/resource/languoid/id/yaqa1245"
+    }
+  ],
+  "iso639-3": "jaq"
+}

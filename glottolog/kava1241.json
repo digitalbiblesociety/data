@@ -1,0 +1,79 @@
+{
+  "pk": 4710,
+  "hid": "ckv",
+  "father_pk": 2985,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kareovan [kare1340]':1)'Kavalan [kava1241][ckv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4176",
+        "label": "Kavalan"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kavalan_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q716627",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "109375",
+        "grammar",
+        2000,
+        236,
+        "Chang, Yungli 2000"
+      ],
+      [
+        "306655",
+        "phonology_or_text",
+        1997,
+        0,
+        "Chang, Yung-li 1997"
+      ],
+      [
+        "306977",
+        "wordlist_or_less",
+        1875,
+        9,
+        "E. C. Taintor 1875"
+      ]
+    ]
+  },
+  "id": "kava1241",
+  "name": "Kavalan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 24.6947,
+  "longitude": 121.645,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "East Formosan",
+      "id": "east2493",
+      "url": "https://glottolog.org/resource/languoid/id/east2493"
+    },
+    {
+      "name": "Northern East Formosan",
+      "id": "nort2900",
+      "url": "https://glottolog.org/resource/languoid/id/nort2900"
+    }
+  ],
+  "iso639-3": "ckv"
+}

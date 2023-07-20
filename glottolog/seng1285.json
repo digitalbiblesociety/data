@@ -1,0 +1,72 @@
+{
+  "pk": 4379,
+  "hid": "snu",
+  "father_pk": 2651,
+  "family_pk": 225,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Senggi [seng1285][snu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2780",
+        "label": "Senggi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7929052",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Viid_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "135333",
+        "wordlist_or_less",
+        1956,
+        17,
+        "Galis, Klaas Wilhelm 1956"
+      ],
+      [
+        "17111",
+        "wordlist_or_less",
+        1955,
+        1,
+        "Galis, Klaas Wilhelm 1955"
+      ]
+    ]
+  },
+  "id": "seng1285",
+  "name": "Senggi",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.41983,
+  "longitude": 140.77,
+  "classification": [
+    {
+      "name": "Border",
+      "id": "bord1247",
+      "url": "https://glottolog.org/resource/languoid/id/bord1247"
+    },
+    {
+      "name": "Warisic",
+      "id": "wari1265",
+      "url": "https://glottolog.org/resource/languoid/id/wari1265"
+    },
+    {
+      "name": "Nuclear Warisic",
+      "id": "nucl1773",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1773"
+    }
+  ],
+  "iso639-3": "snu"
+}

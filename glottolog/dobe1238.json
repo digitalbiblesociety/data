@@ -1,0 +1,89 @@
+{
+  "pk": 9303,
+  "hid": "kvo",
+  "father_pk": 6771,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Northern Dobel [nort2862]':1,'Southeast Dobel [sout2888]':1,'Straits Dobel [stra1243]':1)'Dobel [dobe1238][kvo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q5286559",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dobel_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_dob",
+        "label": "Dobel"
+      }
+    ],
+    "meds": [
+      [
+        "41137",
+        "grammar_sketch",
+        2000,
+        50,
+        "Hughes, Jock 2000"
+      ],
+      [
+        "129718",
+        "grammar_sketch",
+        1990,
+        34,
+        "Hughes, J. and K. Hughes 1990"
+      ],
+      [
+        "115749",
+        "phonology_or_text",
+        1989,
+        34,
+        "Hughes, Jock and Hughes, Katy 1989"
+      ]
+    ]
+  },
+  "id": "dobe1238",
+  "name": "Dobel",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.32531,
+  "longitude": 134.638,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Aru",
+      "id": "aruu1241",
+      "url": "https://glottolog.org/resource/languoid/id/aruu1241"
+    },
+    {
+      "name": "Central Aru",
+      "id": "cent2309",
+      "url": "https://glottolog.org/resource/languoid/id/cent2309"
+    },
+    {
+      "name": "Dobel-Koba",
+      "id": "dobe1243",
+      "url": "https://glottolog.org/resource/languoid/id/dobe1243"
+    }
+  ],
+  "iso639-3": "kvo"
+}

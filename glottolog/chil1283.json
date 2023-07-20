@@ -1,0 +1,58 @@
+{
+  "pk": 497,
+  "hid": "cqu",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Chilean Quechua [chil1283][cqu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "cqu",
+      "name": "Chilean Quechua",
+      "change_request": "2015-024",
+      "effective": "2016-01-15",
+      "reason": "merge",
+      "change_to": [
+        "quh"
+      ],
+      "remedy": "Merge into [quh] South Bolivian Quechua",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q25559703",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "535643",
+        "wordlist_or_less",
+        2015,
+        0,
+        "ISO 639-3 Registration Authority 2015"
+      ]
+    ]
+  },
+  "id": "chil1283",
+  "name": "Chilean Quechua",
+  "description": null,
+  "markup_description": null,
+  "latitude": -23.7036,
+  "longitude": -67.7604,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "cqu"
+}

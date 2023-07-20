@@ -1,0 +1,119 @@
+{
+  "pk": 18903,
+  "hid": "vls",
+  "father_pk": 16616,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Frans Vlaams [fran1271]':1,'Westhoek [west2908]':1)'Frans-Westhoek Vlaams [fran1265]':1,('Continental West Flemish [cont1247]':1,'Northern Maritime West Flemish [nort3309]':1,'Western Maritime West Flemish [west2909]':1)'Westvlaams [west2365]':1)'Western Flemish [vlaa1240][vls]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/West_Flemish",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q100103",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "574707",
+        "long_grammar",
+        1992,
+        444,
+        "Jean-Louis Marteel 1992"
+      ],
+      [
+        "320085",
+        "grammar_sketch",
+        1891,
+        86,
+        "Carnel, Désiré 1891"
+      ],
+      [
+        "552749",
+        "grammar_sketch",
+        1885,
+        47,
+        "J. Vercouillie 1885"
+      ],
+      [
+        "320130",
+        "phonology_or_text",
+        1858,
+        53,
+        "de Coussemaker, E. 1858-1859"
+      ],
+      [
+        "320184",
+        "wordlist_or_less",
+        1857,
+        27,
+        "de Coussemaker, E. 1857"
+      ]
+    ]
+  },
+  "id": "vlaa1240",
+  "name": "Western Flemish",
+  "description": null,
+  "markup_description": null,
+  "latitude": 51.0754,
+  "longitude": 3.11345,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Germanic",
+      "id": "germ1287",
+      "url": "https://glottolog.org/resource/languoid/id/germ1287"
+    },
+    {
+      "name": "Northwest Germanic",
+      "id": "nort3152",
+      "url": "https://glottolog.org/resource/languoid/id/nort3152"
+    },
+    {
+      "name": "West Germanic",
+      "id": "west2793",
+      "url": "https://glottolog.org/resource/languoid/id/west2793"
+    },
+    {
+      "name": "Macro-Dutch",
+      "id": "macr1270",
+      "url": "https://glottolog.org/resource/languoid/id/macr1270"
+    },
+    {
+      "name": "Middle-Modern Dutch",
+      "id": "midd1347",
+      "url": "https://glottolog.org/resource/languoid/id/midd1347"
+    },
+    {
+      "name": "Modern Dutch",
+      "id": "mode1257",
+      "url": "https://glottolog.org/resource/languoid/id/mode1257"
+    },
+    {
+      "name": "Southwestern Dutch",
+      "id": "sout3292",
+      "url": "https://glottolog.org/resource/languoid/id/sout3292"
+    }
+  ],
+  "iso639-3": "vls"
+}

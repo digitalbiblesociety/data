@@ -1,0 +1,112 @@
+{
+  "pk": 13484,
+  "hid": "trp",
+  "father_pk": 10401,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Debbarma [debb1238]':1,'Jamatia [jama1260]':1,'Noatia [noat1238]':1,'Riang {Bru} [hala1254]':1)'Kok Borok [kokb1239][trp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kok",
+        "label": "Kokborok"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kokborok",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kokb1239",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35947",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "660246",
+        "long_grammar",
+        2014,
+        332,
+        "Samir Debbarma 2014"
+      ],
+      [
+        "91498",
+        "grammar",
+        1976,
+        0,
+        "Pushpa, K. 1976"
+      ],
+      [
+        "300224",
+        "grammar_sketch",
+        1900,
+        0,
+        "Thakur, Radha Mohan Dev Varman 1900"
+      ],
+      [
+        "29610",
+        "wordlist_or_less",
+        1869,
+        8,
+        "Lewin, Thomas Herbert 1869"
+      ],
+      [
+        "90875",
+        "wordlist_or_less",
+        1841,
+        3,
+        "Phayre, Arthur Purvis 1841"
+      ]
+    ]
+  },
+  "id": "kokb1239",
+  "name": "Kok Borok",
+  "description": null,
+  "markup_description": null,
+  "latitude": 23.1916,
+  "longitude": 91.4673,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Brahmaputran",
+      "id": "brah1260",
+      "url": "https://glottolog.org/resource/languoid/id/brah1260"
+    },
+    {
+      "name": "Bodo-Garo",
+      "id": "bodo1279",
+      "url": "https://glottolog.org/resource/languoid/id/bodo1279"
+    },
+    {
+      "name": "Boroic",
+      "id": "boro1284",
+      "url": "https://glottolog.org/resource/languoid/id/boro1284"
+    },
+    {
+      "name": "Dimasa-Kokborok",
+      "id": "dima1253",
+      "url": "https://glottolog.org/resource/languoid/id/dima1253"
+    },
+    {
+      "name": "Tipperic",
+      "id": "tipp1238",
+      "url": "https://glottolog.org/resource/languoid/id/tipp1238"
+    }
+  ],
+  "iso639-3": "trp"
+}

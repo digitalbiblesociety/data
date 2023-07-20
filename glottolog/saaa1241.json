@@ -1,0 +1,95 @@
+{
+  "pk": 15282,
+  "hid": "sax",
+  "father_pk": 12471,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Lolatavola [lola1247]':1,'Ninebulo [nine1237]':1,'Ponorwal [pono1239]':1)'Sa [saaa1241][sax]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3460352",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Saa_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "47453",
+        "grammar_sketch",
+        1976,
+        258,
+        "Elliott, George Robert 1976"
+      ],
+      [
+        "573899",
+        "wordlist_or_less",
+        1965,
+        30,
+        "Lane, R. B. 1965"
+      ],
+      [
+        "573898",
+        "wordlist_or_less",
+        1956,
+        42,
+        "Lane, R. B. 1956"
+      ]
+    ]
+  },
+  "id": "saaa1241",
+  "name": "Sa",
+  "description": null,
+  "markup_description": null,
+  "latitude": -15.9534,
+  "longitude": 168.228,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "North and Central Vanuatu",
+      "id": "nort3195",
+      "url": "https://glottolog.org/resource/languoid/id/nort3195"
+    },
+    {
+      "name": "Central Vanuatu",
+      "id": "cent2269",
+      "url": "https://glottolog.org/resource/languoid/id/cent2269"
+    },
+    {
+      "name": "South Pentecost",
+      "id": "sout3188",
+      "url": "https://glottolog.org/resource/languoid/id/sout3188"
+    }
+  ],
+  "iso639-3": "sax"
+}

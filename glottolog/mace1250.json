@@ -1,0 +1,110 @@
+{
+  "pk": 13999,
+  "hid": "mkd",
+  "father_pk": 10913,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Eastern Macedonian [east2820]':1,'Southeastern Macedonian [sout3278]':1,'Southwestern Macedonian [sout3277]':1)'Eastern and Southern Macedonian [sout2601]':1,(('Kratovo [krat1234]':1,'Kriva Palanka [kriv1234]':1,'Kumanovo [kuma1283]':1,'Ovce Pole [ovce1234]':1)'Eastern Northern Macedonian [east2819]':1,('Gora {Serbian-Macedonian} [gora1268]':1,'Skopska Crna Gora [skop1234]':1,'Tetovo [teto1234]':1)'Western Northern Macedonian [west2893]':1)'Northern Macedonian [nort2595]':1,('Central Western Macedonian [cent2341]':1,'Western and Northwestern Macedonian [west2894]':1)'Western Macedonian [west2336]':1)'Macedonian [mace1250][mkd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 17,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mcd",
+        "label": "Macedonian"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Macedonian_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/mace1250",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q9296",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "553432",
+        "long_grammar",
+        2011,
+        558,
+        "Christina E. Kramer and Liljana Mitkovska 2011"
+      ],
+      [
+        "588034",
+        "long_grammar",
+        1967,
+        547,
+        "Koneski, Blaže 1967"
+      ],
+      [
+        "113296",
+        "long_grammar",
+        1952,
+        301,
+        "Lunt, Horace 1952"
+      ],
+      [
+        "549908",
+        "grammar_sketch",
+        1946,
+        78,
+        "Kepeski, Krume 1946"
+      ]
+    ]
+  },
+  "id": "mace1250",
+  "name": "Macedonian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 41.5957,
+  "longitude": 21.7932,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Balto-Slavic",
+      "id": "balt1263",
+      "url": "https://glottolog.org/resource/languoid/id/balt1263"
+    },
+    {
+      "name": "Slavic",
+      "id": "slav1255",
+      "url": "https://glottolog.org/resource/languoid/id/slav1255"
+    },
+    {
+      "name": "South Slavic",
+      "id": "sout3147",
+      "url": "https://glottolog.org/resource/languoid/id/sout3147"
+    },
+    {
+      "name": "Eastern South Slavic",
+      "id": "east2269",
+      "url": "https://glottolog.org/resource/languoid/id/east2269"
+    },
+    {
+      "name": "Macedo-Bulgarian",
+      "id": "mace1252",
+      "url": "https://glottolog.org/resource/languoid/id/mace1252"
+    }
+  ],
+  "iso639-3": "mkd"
+}

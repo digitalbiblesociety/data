@@ -1,0 +1,53 @@
+{
+  "pk": 676,
+  "hid": "fri",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Western Frisian {Retired} [west2863][fri]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "fri",
+      "name": "Western Frisian",
+      "change_request": null,
+      "effective": "2007-02-01",
+      "reason": "change",
+      "change_to": [
+        "fry"
+      ],
+      "remedy": "Change to [fry] to align with ISO 639-2",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q27175",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/West_Frisian_language",
+        "label": null
+      }
+    ]
+  },
+  "id": "west2863",
+  "name": "Western Frisian (Retired)",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "fri"
+}

@@ -1,0 +1,104 @@
+{
+  "pk": 12169,
+  "hid": "bhk",
+  "father_pk": 9274,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Buhi [buhi1243][ubl]':1,'Daraga [dara1251][rbl]':1,'Libon [libo1242][lbl]':1,'Ligao [liga1237]':1,'Oas [oass1237][fbl]':1)'Inland-Buhi-Daraga Bikol [alba1269][bhk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "bhk",
+      "name": "Albay Bicolano",
+      "change_request": "2009-078",
+      "effective": "2010-01-18",
+      "reason": "split",
+      "change_to": [
+        "ubl",
+        "lbl",
+        "rbl",
+        "fbl"
+      ],
+      "remedy": "Split into Buhi'non Bikol [ubl]; Libon Bikol [lbl]; Miraya Bikol [rbl]; West Albay Bikol [fbl]",
+      "comment": "The currently-existing \"Bicolano, Albay\" does not correspond to any of the\naccepted Bikol subgroupings, the most widely-recognized of which is McFarland\n(1974) which was also adopted by Zorc (1977). Jason Lobel, the supporter of this\nrequest, has also done extensive research on the languages of the Bikol region,\nand his findings largely support those of McFarland (1974) and likewise do not\nsupport a \"Bicolano Albay\" language that would include Buhi'non, Miraya, and\nBikol Libon. Such a language is also not supported by the identities of the\npeople of Albay province themselves. Therefore, it is requested that the\n\"Bicolano Albay\" entry be split into four entries, \"Bikol West Albay\", \"Bikol\nMiraya\", \"Bikol, Libon\", and \"Bikol Buhi'non\". (Note also that calling any of\nthese languages \"Bicolano\" or \"Bikolano\" is a mistake because \"Bikolano\" is the\nname of the ethnic group while \"Bikol\" is the name of the languages.)"
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q4709467",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Albay_Bikol_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "25899",
+        "grammar_sketch",
+        2002,
+        160,
+        "Steven C. Fincke 2002"
+      ],
+      [
+        "318149",
+        "grammar_sketch",
+        1990,
+        149,
+        "Portugal, Dominga L. J. 1990"
+      ],
+      [
+        "123636",
+        "wordlist_or_less",
+        1972,
+        16,
+        "Yamada, Yukihiro 1972"
+      ]
+    ]
+  },
+  "id": "alba1269",
+  "name": "Inland-Buhi-Daraga Bikol",
+  "description": null,
+  "markup_description": null,
+  "latitude": 13.1989,
+  "longitude": 123.49,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Greater Central Philippine",
+      "id": "grea1284",
+      "url": "https://glottolog.org/resource/languoid/id/grea1284"
+    },
+    {
+      "name": "Central Philippine",
+      "id": "cent2246",
+      "url": "https://glottolog.org/resource/languoid/id/cent2246"
+    },
+    {
+      "name": "Bikol",
+      "id": "biko1240",
+      "url": "https://glottolog.org/resource/languoid/id/biko1240"
+    },
+    {
+      "name": "Inland Bikol",
+      "id": "inla1266",
+      "url": "https://glottolog.org/resource/languoid/id/inla1266"
+    }
+  ],
+  "iso639-3": "bhk"
+}

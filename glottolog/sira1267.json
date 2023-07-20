@@ -1,0 +1,99 @@
+{
+  "pk": 2983,
+  "hid": "fos",
+  "father_pk": 1531,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Lamai [lama1281]':1,'Makatao [maka1313]':1,'Pangsoia-Dolatok [pang1293]':1,'Siraya [nucl1578]':1,'Taivoan [taiv1237][tvx]':1)'Sirayaic [sira1267][fos]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Sirayaic_languages",
+        "label": null
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/9630",
+        "label": "Siraya"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_sry",
+        "label": "Siraya"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q55630686",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "17632",
+        "long_grammar",
+        2011,
+        429,
+        "Adelaar, Alexander 2011"
+      ],
+      [
+        "180896",
+        "grammar",
+        1997,
+        36,
+        "Adelaar, K. Alexander 1997"
+      ],
+      [
+        "122263",
+        "grammar_sketch",
+        1996,
+        36,
+        "Alexander K. Adelaar 1996"
+      ],
+      [
+        "307779",
+        "wordlist_or_less",
+        1991,
+        65,
+        "Tsuchida, Shigeru and Yukihiro Yamada 1991"
+      ],
+      [
+        "551222",
+        "wordlist_or_less",
+        1917,
+        63,
+        "Ogawa, S. 1917"
+      ],
+      [
+        "313320",
+        "wordlist_or_less",
+        1826,
+        15,
+        "von Klaproth, Julius H. 1826"
+      ]
+    ]
+  },
+  "id": "sira1267",
+  "name": "Sirayaic",
+  "description": null,
+  "markup_description": null,
+  "latitude": 22.9777,
+  "longitude": 120.315,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "East Formosan",
+      "id": "east2493",
+      "url": "https://glottolog.org/resource/languoid/id/east2493"
+    }
+  ],
+  "iso639-3": "fos"
+}

@@ -1,0 +1,89 @@
+{
+  "pk": 10259,
+  "hid": "aim",
+  "father_pk": 7361,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Khurai [khur1238]':1,'Sutpong [sutp1234]':1)'Aimol [aimo1244][aim]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3700",
+        "label": "Aimol"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q4697175",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Aimol_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "667769",
+        "grammar",
+        1995,
+        0,
+        "Shamungou Singh 1995"
+      ],
+      [
+        "118757",
+        "wordlist_or_less",
+        1904,
+        5,
+        "George A. Grierson 1904"
+      ],
+      [
+        "571552",
+        "wordlist_or_less",
+        1902,
+        11,
+        "W. H. Furness 1902"
+      ]
+    ]
+  },
+  "id": "aimo1244",
+  "name": "Aimol",
+  "description": null,
+  "markup_description": null,
+  "latitude": 24.6437,
+  "longitude": 94.3556,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Kuki-Chin",
+      "id": "kuki1246",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1246"
+    },
+    {
+      "name": "Northwestern Kuki-Chin",
+      "id": "oldk1252",
+      "url": "https://glottolog.org/resource/languoid/id/oldk1252"
+    },
+    {
+      "name": "Central Old Kuki",
+      "id": "cent2411",
+      "url": "https://glottolog.org/resource/languoid/id/cent2411"
+    }
+  ],
+  "iso639-3": "aim"
+}

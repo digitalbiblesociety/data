@@ -1,0 +1,76 @@
+{
+  "pk": 13194,
+  "hid": "nty",
+  "father_pk": 10128,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mantsi [mant1265][nty]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56878",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mantsi_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "34596",
+        "wordlist_or_less",
+        1905,
+        11,
+        "A. Bonifacy 1905"
+      ]
+    ]
+  },
+  "id": "mant1265",
+  "name": "Mantsi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 23.1829,
+  "longitude": 105.405,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Burmo-Qiangic",
+      "id": "burm1265",
+      "url": "https://glottolog.org/resource/languoid/id/burm1265"
+    },
+    {
+      "name": "Lolo-Burmese",
+      "id": "lolo1265",
+      "url": "https://glottolog.org/resource/languoid/id/lolo1265"
+    },
+    {
+      "name": "Mondzish",
+      "id": "mond1269",
+      "url": "https://glottolog.org/resource/languoid/id/mond1269"
+    },
+    {
+      "name": "Nuclear Mondzish",
+      "id": "mond1268",
+      "url": "https://glottolog.org/resource/languoid/id/mond1268"
+    },
+    {
+      "name": "Munji-Mantsi",
+      "id": "munj1248",
+      "url": "https://glottolog.org/resource/languoid/id/munj1248"
+    }
+  ],
+  "iso639-3": "nty"
+}

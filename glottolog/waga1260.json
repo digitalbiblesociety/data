@@ -1,0 +1,106 @@
+{
+  "pk": 6082,
+  "hid": "wga",
+  "father_pk": 4085,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Wagaya [waga1260][wga]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3355",
+        "label": "Wakaya"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/c16",
+        "label": "Wakaya"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Wagaya_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/waga1260",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7959487",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "155184",
+        "grammar",
+        1974,
+        173,
+        "Breen, Gavan and Simpson, Jane 1974, retyped 1985"
+      ],
+      [
+        "309626",
+        "wordlist_or_less",
+        1971,
+        1,
+        "Breen, J. Gavan 1971"
+      ],
+      [
+        "5024",
+        "wordlist_or_less",
+        1910,
+        2,
+        "Roth, Walter Edmund 1910"
+      ],
+      [
+        "1445",
+        "wordlist_or_less",
+        1899,
+        96,
+        "Spencer, W. Baldwin and Gillen, F. J. 1899"
+      ],
+      [
+        "105535",
+        "wordlist_or_less",
+        1897,
+        0,
+        "Roth, Walter Edmund 1897"
+      ]
+    ]
+  },
+  "id": "waga1260",
+  "name": "Wagaya",
+  "description": null,
+  "markup_description": null,
+  "latitude": -20.329,
+  "longitude": 137.623,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Ngarna",
+      "id": "ngar1290",
+      "url": "https://glottolog.org/resource/languoid/id/ngar1290"
+    },
+    {
+      "name": "Southern Ngarna",
+      "id": "sout2766",
+      "url": "https://glottolog.org/resource/languoid/id/sout2766"
+    },
+    {
+      "name": "Ngarru",
+      "id": "ngar1291",
+      "url": "https://glottolog.org/resource/languoid/id/ngar1291"
+    }
+  ],
+  "iso639-3": "wga"
+}

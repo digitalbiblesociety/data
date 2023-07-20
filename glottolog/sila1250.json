@@ -1,0 +1,110 @@
+{
+  "pk": 14727,
+  "hid": "mks",
+  "father_pk": 11773,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('San Simón Zahuatlán [sans1274]':1)'Silacayoapan Mixtec [sila1250][mks]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10527",
+        "label": "Central Baja Mixtec"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mxs",
+        "label": "Mixtec (Silacayoapan)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Silacayoapan_Mixtec",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7514027",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "107583",
+        "grammar",
+        1988,
+        145,
+        "Shields, Jäna K. 1988"
+      ],
+      [
+        "311658",
+        "grammar_sketch",
+        1978,
+        45,
+        "North, Joanne and Jäna Shields 1978"
+      ],
+      [
+        "300854",
+        "grammar_sketch",
+        1976,
+        43,
+        "Shields, Juliana 1976"
+      ],
+      [
+        "108849",
+        "phonology_or_text",
+        1959,
+        254,
+        "Dyk, Anne and Voigtlander, Katherine and Elson, Benjamin Franklin 1959"
+      ]
+    ]
+  },
+  "id": "sila1250",
+  "name": "Silacayoapan Mixtec",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.5541,
+  "longitude": -98.1163,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Amuzgo-Mixtecan",
+      "id": "amuz1253",
+      "url": "https://glottolog.org/resource/languoid/id/amuz1253"
+    },
+    {
+      "name": "Mixtecan",
+      "id": "mixt1422",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1422"
+    },
+    {
+      "name": "Mixtec-Cuicatec",
+      "id": "mixt1423",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1423"
+    },
+    {
+      "name": "Mixtec",
+      "id": "mixt1427",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1427"
+    },
+    {
+      "name": "Central Baja Mixtec",
+      "id": "cent2266",
+      "url": "https://glottolog.org/resource/languoid/id/cent2266"
+    }
+  ],
+  "iso639-3": "mks"
+}

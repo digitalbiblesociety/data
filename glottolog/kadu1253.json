@@ -1,0 +1,104 @@
+{
+  "pk": 18360,
+  "hid": "ktp",
+  "father_pk": 15942,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kaduo [kadu1253][ktp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4450",
+        "label": "Kaduo"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q769809",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kaduo_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "323075",
+        "long_grammar",
+        2011,
+        316,
+        "Min, Zhao and Zhu, Maoyun 2011"
+      ],
+      [
+        "660089",
+        "grammar_sketch",
+        2010,
+        27,
+        "Dai, Qingxia and Min, Zhao 2010"
+      ],
+      [
+        "155349",
+        "wordlist_or_less",
+        1989,
+        8,
+        "Hansson, Inga-lill 1989"
+      ]
+    ]
+  },
+  "id": "kadu1253",
+  "name": "Kaduo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 22.2996,
+  "longitude": 101.74,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Burmo-Qiangic",
+      "id": "burm1265",
+      "url": "https://glottolog.org/resource/languoid/id/burm1265"
+    },
+    {
+      "name": "Lolo-Burmese",
+      "id": "lolo1265",
+      "url": "https://glottolog.org/resource/languoid/id/lolo1265"
+    },
+    {
+      "name": "Loloish",
+      "id": "lolo1267",
+      "url": "https://glottolog.org/resource/languoid/id/lolo1267"
+    },
+    {
+      "name": "Hani-Jino",
+      "id": "hani1249",
+      "url": "https://glottolog.org/resource/languoid/id/hani1249"
+    },
+    {
+      "name": "Bisoid-Hanic",
+      "id": "biso1244",
+      "url": "https://glottolog.org/resource/languoid/id/biso1244"
+    },
+    {
+      "name": "Hanic",
+      "id": "hani1250",
+      "url": "https://glottolog.org/resource/languoid/id/hani1250"
+    },
+    {
+      "name": "Bi-Ka",
+      "id": "bika1252",
+      "url": "https://glottolog.org/resource/languoid/id/bika1252"
+    }
+  ],
+  "iso639-3": "ktp"
+}

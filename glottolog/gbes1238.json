@@ -1,0 +1,76 @@
+{
+  "pk": 12861,
+  "hid": "gbs",
+  "father_pk": 9905,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Gbesi [gbes1239]':1,'Gbokpa [gbok1238]':1)'Gbesi Gbe [gbes1238][gbs]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12952448",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/gbes1238",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "551777",
+        "wordlist_or_less",
+        1925,
+        2,
+        "Paul Rivet 1925"
+      ]
+    ]
+  },
+  "id": "gbes1238",
+  "name": "Gbesi Gbe",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.55911,
+  "longitude": 2.0269,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Kwa Volta-Congo",
+      "id": "kwav1236",
+      "url": "https://glottolog.org/resource/languoid/id/kwav1236"
+    },
+    {
+      "name": "Gbe",
+      "id": "gbee1241",
+      "url": "https://glottolog.org/resource/languoid/id/gbee1241"
+    },
+    {
+      "name": "Eastern Gbe",
+      "id": "east2711",
+      "url": "https://glottolog.org/resource/languoid/id/east2711"
+    },
+    {
+      "name": "Western Phla-Phera",
+      "id": "west2934",
+      "url": "https://glottolog.org/resource/languoid/id/west2934"
+    }
+  ],
+  "iso639-3": "gbs"
+}

@@ -1,0 +1,96 @@
+{
+  "pk": 2346,
+  "hid": "hop",
+  "father_pk": 1076,
+  "family_pk": 155,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('First Mesa [firs1235]':1,'Second Mesa [seco1242]':1,'Third Mesa [thir1234]':1)'Hopi [hopi1249][hop]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2374",
+        "label": "Hopi"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_hop",
+        "label": "Hopi"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Hopi_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/hopi1249",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56421",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "143431",
+        "long_grammar",
+        1998,
+        900,
+        "Hill, Kenneth C. 1998"
+      ],
+      [
+        "83965",
+        "long_grammar",
+        1978,
+        356,
+        "Leanne M. Jeanne 1978"
+      ],
+      [
+        "568817",
+        "grammar_sketch",
+        1937,
+        88,
+        "Beaglehole, E. 1937"
+      ],
+      [
+        "574383",
+        "grammar_sketch",
+        1929,
+        86,
+        "Lowie, R. H. 1929"
+      ],
+      [
+        "156492",
+        "wordlist_or_less",
+        1907,
+        4,
+        "Kroeber, Alfred L. 1907"
+      ]
+    ]
+  },
+  "id": "hopi1249",
+  "name": "Hopi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 35.7653,
+  "longitude": -110.535,
+  "classification": [
+    {
+      "name": "Uto-Aztecan",
+      "id": "utoa1244",
+      "url": "https://glottolog.org/resource/languoid/id/utoa1244"
+    },
+    {
+      "name": "Northern Uto-Aztecan",
+      "id": "nort2953",
+      "url": "https://glottolog.org/resource/languoid/id/nort2953"
+    }
+  ],
+  "iso639-3": "hop"
+}

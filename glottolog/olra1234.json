@@ -1,0 +1,118 @@
+{
+  "pk": 19791,
+  "hid": "olr",
+  "father_pk": 17711,
+  "family_pk": 289,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "'Olrat [olra1234][olr]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "olr",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 has a separate entry for Olrat [olr], but it is intelligible to Koro [krf] (**hh:hv:Francois:Ecology:NVanuatu**). See also: Koro (Vanuatu) [krf]."
+    },
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10767",
+        "label": "Olrat"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3351562",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Olrat_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "656510",
+        "wordlist_or_less",
+        2015,
+        0,
+        "na 2015"
+      ],
+      [
+        "500630",
+        "wordlist_or_less",
+        2008,
+        0,
+        "ISO 639-3 Registration Authority 2008"
+      ]
+    ]
+  },
+  "id": "olra1234",
+  "name": "Olrat",
+  "description": null,
+  "markup_description": null,
+  "latitude": -14.313,
+  "longitude": 167.433,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "North and Central Vanuatu",
+      "id": "nort3195",
+      "url": "https://glottolog.org/resource/languoid/id/nort3195"
+    },
+    {
+      "name": "Northern Vanuatu",
+      "id": "nort3205",
+      "url": "https://glottolog.org/resource/languoid/id/nort3205"
+    },
+    {
+      "name": "Torres-Banks linkage",
+      "id": "torr1262",
+      "url": "https://glottolog.org/resource/languoid/id/torr1262"
+    },
+    {
+      "name": "Koto-Olrat-Lakon",
+      "id": "koto1266",
+      "url": "https://glottolog.org/resource/languoid/id/koto1266"
+    },
+    {
+      "name": "Koro-Olrat",
+      "id": "koro1308",
+      "url": "https://glottolog.org/resource/languoid/id/koro1308"
+    }
+  ],
+  "iso639-3": "olr"
+}

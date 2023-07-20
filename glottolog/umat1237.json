@@ -1,0 +1,79 @@
+{
+  "pk": 3904,
+  "hid": "uma",
+  "father_pk": 2194,
+  "family_pk": 129,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Umatilla [umat1237][uma]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_smt",
+        "label": "Sahaptin (Umatilla)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Umatilla_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12953952",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "52951",
+        "grammar_sketch",
+        1988,
+        30,
+        "Noel Rude 1988"
+      ],
+      [
+        "72033",
+        "wordlist_or_less",
+        1965,
+        28,
+        "Rigsby, Bruce Joseph 1965"
+      ],
+      [
+        "576359",
+        "wordlist_or_less",
+        1939,
+        77,
+        "Ray, V. F. 1939"
+      ]
+    ]
+  },
+  "id": "umat1237",
+  "name": "Umatilla",
+  "description": null,
+  "markup_description": null,
+  "latitude": 45.6391,
+  "longitude": -118.552,
+  "classification": [
+    {
+      "name": "Sahaptian",
+      "id": "saha1239",
+      "url": "https://glottolog.org/resource/languoid/id/saha1239"
+    },
+    {
+      "name": "Sahaptin",
+      "id": "saha1240",
+      "url": "https://glottolog.org/resource/languoid/id/saha1240"
+    },
+    {
+      "name": "Southern Sahaptin",
+      "id": "sout1502",
+      "url": "https://glottolog.org/resource/languoid/id/sout1502"
+    }
+  ],
+  "iso639-3": "uma"
+}

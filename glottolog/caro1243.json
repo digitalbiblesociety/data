@@ -1,0 +1,66 @@
+{
+  "pk": 6291,
+  "hid": "crr",
+  "father_pk": 4236,
+  "family_pk": 178,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Carolina Algonquian [caro1243][crr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q5044773",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Carolina_Algonquian_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "129281",
+        "wordlist_or_less",
+        1590,
+        57,
+        "Hariot, Thomas and White, John and Lane, Ralph 1999 [1590]"
+      ]
+    ]
+  },
+  "id": "caro1243",
+  "name": "Carolina Algonquian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 35.979,
+  "longitude": -77.291,
+  "classification": [
+    {
+      "name": "Algic",
+      "id": "algi1248",
+      "url": "https://glottolog.org/resource/languoid/id/algi1248"
+    },
+    {
+      "name": "Algonquian-Blackfoot",
+      "id": "algo1256",
+      "url": "https://glottolog.org/resource/languoid/id/algo1256"
+    },
+    {
+      "name": "Algonquian",
+      "id": "algo1257",
+      "url": "https://glottolog.org/resource/languoid/id/algo1257"
+    },
+    {
+      "name": "Eastern Algonquian",
+      "id": "east2700",
+      "url": "https://glottolog.org/resource/languoid/id/east2700"
+    }
+  ],
+  "iso639-3": "crr"
+}

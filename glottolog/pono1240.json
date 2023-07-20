@@ -1,0 +1,85 @@
+{
+  "pk": 9265,
+  "hid": "pns",
+  "father_pk": 6750,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ponosakan [pono1240][pns]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7227956",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ponosakan_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "94154",
+        "phonology_or_text",
+        1991,
+        162,
+        "Danie, J. Akun and F. Rogi-Warouw and A.B.G. Rattu and G. Karim Bachmid 1991"
+      ],
+      [
+        "99617",
+        "wordlist_or_less",
+        1986,
+        18,
+        "Usup, Hunggu Tadjuddin 1986"
+      ],
+      [
+        "61578",
+        "wordlist_or_less",
+        1855,
+        2,
+        "Jansen, A.J.F. 1855"
+      ]
+    ]
+  },
+  "id": "pono1240",
+  "name": "Ponosakan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 0.91716,
+  "longitude": 124.712,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Greater Central Philippine",
+      "id": "grea1284",
+      "url": "https://glottolog.org/resource/languoid/id/grea1284"
+    },
+    {
+      "name": "Gorontalo-Mongondow",
+      "id": "goro1257",
+      "url": "https://glottolog.org/resource/languoid/id/goro1257"
+    },
+    {
+      "name": "Mongondowic",
+      "id": "mong1346",
+      "url": "https://glottolog.org/resource/languoid/id/mong1346"
+    }
+  ],
+  "iso639-3": "pns"
+}

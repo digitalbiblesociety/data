@@ -1,0 +1,116 @@
+{
+  "pk": 13340,
+  "hid": "prx",
+  "father_pk": 10271,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Purik [puri1263]':1,('Ldumra [nubr1242]':1,'Shamma [sham1264]':1)'Sham-Nubra [sham1283]':1)'Purik-Sham-Nubra [puri1258][prx]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1613",
+        "label": "Purik"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q567905",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Purgi_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/puri1258",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_prk",
+        "label": "Purki"
+      }
+    ],
+    "meds": [
+      [
+        "323437",
+        "long_grammar",
+        2013,
+        546,
+        "Zemp, Marius 2013"
+      ],
+      [
+        "667656",
+        "grammar",
+        2004,
+        0,
+        "Sharma, D. D. 2004"
+      ],
+      [
+        "104966",
+        "grammar_sketch",
+        1979,
+        175,
+        "K. Rangan 1979"
+      ],
+      [
+        "44562",
+        "grammar_sketch",
+        1920,
+        25,
+        "Bailey, Thomas Grahame 1920"
+      ],
+      [
+        "78648",
+        "wordlist_or_less",
+        1909,
+        4,
+        "George A. Grierson 1909"
+      ]
+    ]
+  },
+  "id": "puri1258",
+  "name": "Purik-Sham-Nubra",
+  "description": null,
+  "markup_description": null,
+  "latitude": 34.3386,
+  "longitude": 76.0127,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "Bodish",
+      "id": "bodi1257",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1257"
+    },
+    {
+      "name": "Early Old Tibetan",
+      "id": "oldm1245",
+      "url": "https://glottolog.org/resource/languoid/id/oldm1245"
+    },
+    {
+      "name": "Western Archaic Tibetan",
+      "id": "lada1242",
+      "url": "https://glottolog.org/resource/languoid/id/lada1242"
+    },
+    {
+      "name": "Shamskatic",
+      "id": "sham1282",
+      "url": "https://glottolog.org/resource/languoid/id/sham1282"
+    }
+  ],
+  "iso639-3": "prx"
+}

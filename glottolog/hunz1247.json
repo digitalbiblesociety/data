@@ -1,0 +1,97 @@
+{
+  "pk": 10660,
+  "hid": "huz",
+  "father_pk": 7764,
+  "family_pk": 426,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Hunzib [hunz1247][huz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2316",
+        "label": "Hunzib"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56564",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Hunzib_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/hunz1247",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_hzb",
+        "label": "Hunzib"
+      }
+    ],
+    "meds": [
+      [
+        "587732",
+        "long_grammar",
+        2012,
+        400,
+        "Isakov, Isak Abdulvaxidovicj and Xalilov, Madzhid Saripovich 2012"
+      ],
+      [
+        "547398",
+        "long_grammar",
+        1995,
+        394,
+        "Helma van den Berg 1995"
+      ],
+      [
+        "587182",
+        "phonology_or_text",
+        1975,
+        0,
+        "Magomed-Rasul Ėlovič Gamzatov 1975"
+      ]
+    ]
+  },
+  "id": "hunz1247",
+  "name": "Hunzib",
+  "description": null,
+  "markup_description": null,
+  "latitude": 42.0808,
+  "longitude": 46.1369,
+  "classification": [
+    {
+      "name": "Nakh-Daghestanian",
+      "id": "nakh1245",
+      "url": "https://glottolog.org/resource/languoid/id/nakh1245"
+    },
+    {
+      "name": "Daghestanian",
+      "id": "dagh1238",
+      "url": "https://glottolog.org/resource/languoid/id/dagh1238"
+    },
+    {
+      "name": "Avar-Andic-Tsezic",
+      "id": "avar1255",
+      "url": "https://glottolog.org/resource/languoid/id/avar1255"
+    },
+    {
+      "name": "Tsezic",
+      "id": "tsez1239",
+      "url": "https://glottolog.org/resource/languoid/id/tsez1239"
+    },
+    {
+      "name": "East Tsezic",
+      "id": "east2368",
+      "url": "https://glottolog.org/resource/languoid/id/east2368"
+    }
+  ],
+  "iso639-3": "huz"
+}

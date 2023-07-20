@@ -1,0 +1,111 @@
+{
+  "pk": 10064,
+  "hid": "quz",
+  "father_pk": 7231,
+  "family_pk": 321,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Caylloma Quechua [cayl1238]':1)'Cusco Quechua [cusc1236][quz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/8128",
+        "label": "Cuzco Quechua"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_qcu",
+        "label": "Quechua (Cuzco)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cuzco_Quechua_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/cusc1236",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35147",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "30198",
+        "long_grammar",
+        1884,
+        551,
+        "von Tschudi, J. J. 1884"
+      ],
+      [
+        "135920",
+        "long_grammar",
+        1872,
+        457,
+        "Fernández Nodal, José 1872"
+      ],
+      [
+        "313788",
+        "long_grammar",
+        1607,
+        330,
+        "González Holguín, Diego 1842 [1607]"
+      ],
+      [
+        "304753",
+        "phonology_or_text",
+        1586,
+        0,
+        "de Barzana, Alonso 1951 [1586]"
+      ],
+      [
+        "570392",
+        "wordlist_or_less",
+        1554,
+        0,
+        "Cieza de Leon, P. de. 1554"
+      ]
+    ]
+  },
+  "id": "cusc1236",
+  "name": "Cusco Quechua",
+  "description": null,
+  "markup_description": null,
+  "latitude": -14.0853,
+  "longitude": -71.7663,
+  "classification": [
+    {
+      "name": "Quechuan",
+      "id": "quec1387",
+      "url": "https://glottolog.org/resource/languoid/id/quec1387"
+    },
+    {
+      "name": "Quechua II",
+      "id": "quec1388",
+      "url": "https://glottolog.org/resource/languoid/id/quec1388"
+    },
+    {
+      "name": "Chinchay",
+      "id": "chin1494",
+      "url": "https://glottolog.org/resource/languoid/id/chin1494"
+    },
+    {
+      "name": "Quechua IIC",
+      "id": "quec1389",
+      "url": "https://glottolog.org/resource/languoid/id/quec1389"
+    },
+    {
+      "name": "Cuscan Quechua",
+      "id": "cusc1235",
+      "url": "https://glottolog.org/resource/languoid/id/cusc1235"
+    }
+  ],
+  "iso639-3": "quz"
+}

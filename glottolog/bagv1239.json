@@ -1,0 +1,93 @@
+{
+  "pk": 10652,
+  "hid": "kva",
+  "father_pk": 7746,
+  "family_pk": 426,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kvanada-Gimerso [kvan1243]':1,'Tlisi-Tlibisho [tlis1238]':1,'Tlondada-Xushtada [tlon1242]':1)'Bagvalal [bagv1239][kva]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1122",
+        "label": "Bagvalal"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56638",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bagvalal_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bgv",
+        "label": "Bagvalal"
+      }
+    ],
+    "meds": [
+      [
+        "470831",
+        "long_grammar",
+        2001,
+        929,
+        "Kibrik, A. E. 2001"
+      ],
+      [
+        "306508",
+        "grammar_sketch",
+        1967,
+        121,
+        "Togo E. Gudava 1967"
+      ],
+      [
+        "662208",
+        "wordlist_or_less",
+        1964,
+        0,
+        "Gudava, T. E. 1964"
+      ]
+    ]
+  },
+  "id": "bagv1239",
+  "name": "Bagvalal",
+  "description": null,
+  "markup_description": null,
+  "latitude": 42.3966,
+  "longitude": 46.1041,
+  "classification": [
+    {
+      "name": "Nakh-Daghestanian",
+      "id": "nakh1245",
+      "url": "https://glottolog.org/resource/languoid/id/nakh1245"
+    },
+    {
+      "name": "Daghestanian",
+      "id": "dagh1238",
+      "url": "https://glottolog.org/resource/languoid/id/dagh1238"
+    },
+    {
+      "name": "Avar-Andic-Tsezic",
+      "id": "avar1255",
+      "url": "https://glottolog.org/resource/languoid/id/avar1255"
+    },
+    {
+      "name": "Andic",
+      "id": "andi1254",
+      "url": "https://glottolog.org/resource/languoid/id/andi1254"
+    },
+    {
+      "name": "Bagvalal-Tindi",
+      "id": "bagv1240",
+      "url": "https://glottolog.org/resource/languoid/id/bagv1240"
+    }
+  ],
+  "iso639-3": "kva"
+}

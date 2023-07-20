@@ -1,0 +1,70 @@
+{
+  "pk": 2188,
+  "hid": "cst",
+  "father_pk": 1007,
+  "family_pk": 128,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Chocheño [east2548]':1,'Ramaytush [sanf1261]':1,'Tamyen [sant1427]':1)'San Francisco Bay Ohlone [nort2969][cst]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/7409",
+        "label": "San Francisco Bay Costanoan"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q25559666",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "313851",
+        "wordlist_or_less",
+        1888,
+        14,
+        "R. F. Heizer 1952 [1888]"
+      ],
+      [
+        "38887",
+        "wordlist_or_less",
+        1877,
+        1,
+        "J. W. Powell 1877"
+      ],
+      [
+        "664081",
+        "wordlist_or_less",
+        1000,
+        52,
+        "Kroeber, A. L. 1000"
+      ]
+    ]
+  },
+  "id": "nort2969",
+  "name": "San Francisco Bay Ohlone",
+  "description": null,
+  "markup_description": null,
+  "latitude": 37.436487,
+  "longitude": -121.827674,
+  "classification": [
+    {
+      "name": "Miwok-Costanoan",
+      "id": "miwo1274",
+      "url": "https://glottolog.org/resource/languoid/id/miwo1274"
+    },
+    {
+      "name": "Costanoan",
+      "id": "cost1250",
+      "url": "https://glottolog.org/resource/languoid/id/cost1250"
+    }
+  ],
+  "iso639-3": "cst"
+}

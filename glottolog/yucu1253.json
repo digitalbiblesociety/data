@@ -1,0 +1,106 @@
+{
+  "pk": 6250,
+  "hid": "ycn",
+  "father_pk": 4216,
+  "family_pk": 177,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Guaru [guar1294]':1,'Yukuna of Miritiparaná [yuku1245]':1)'Yucuna [yucu1253][ycn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1635",
+        "label": "Yucuna"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ycn",
+        "label": "Yucuna"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yucuna_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/yucu1253",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3438356",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "589458",
+        "long_grammar",
+        2020,
+        545,
+        "Lemus Serrano, Magdalena 2020"
+      ],
+      [
+        "85274",
+        "grammar",
+        1978,
+        52,
+        "Schackt, Jon and Schackt, Jon 1978"
+      ],
+      [
+        "72703",
+        "grammar",
+        1958,
+        52,
+        "Schauer, Stanley and Schauer, Junia G. 1958"
+      ],
+      [
+        "98758",
+        "wordlist_or_less",
+        1911,
+        10,
+        "Theodor Koch-Grünberg 1911"
+      ],
+      [
+        "79048",
+        "wordlist_or_less",
+        1867,
+        3,
+        "von Martius, Carl Friedrich Philip 1867"
+      ]
+    ]
+  },
+  "id": "yucu1253",
+  "name": "Yucuna",
+  "description": null,
+  "markup_description": null,
+  "latitude": -0.76075,
+  "longitude": -71.0033,
+  "classification": [
+    {
+      "name": "Arawakan",
+      "id": "araw1281",
+      "url": "https://glottolog.org/resource/languoid/id/araw1281"
+    },
+    {
+      "name": "Japura-Colombia",
+      "id": "japu1236",
+      "url": "https://glottolog.org/resource/languoid/id/japu1236"
+    },
+    {
+      "name": "Nuclear Japura-Colombia",
+      "id": "nucl1764",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1764"
+    },
+    {
+      "name": "Caqueta",
+      "id": "yucu1252",
+      "url": "https://glottolog.org/resource/languoid/id/yucu1252"
+    }
+  ],
+  "iso639-3": "ycn"
+}

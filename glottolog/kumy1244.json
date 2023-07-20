@@ -1,0 +1,86 @@
+{
+  "pk": 7838,
+  "hid": "kum",
+  "father_pk": 5422,
+  "family_pk": 14,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Buinaksk [buin1246]':1,'Khaikent [khai1248]':1,'Khasavyurt [khas1271]':1)'Kumyk [kumy1244][kum]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kuq",
+        "label": "Kumyk"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kumyk_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kumy1244",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36209",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "567974",
+        "long_grammar",
+        2014,
+        557,
+        "Abdullaeva, A. Z. and Gadžiaxmedov, N. È and Kadyradžiev, K. S. and Kerimov, I. A. and Ol'mesov, N. X. and Xangišiev, D. M. 2014"
+      ],
+      [
+        "11021",
+        "grammar",
+        1940,
+        203,
+        "Dmitriev, Nikolai K. 1940"
+      ]
+    ]
+  },
+  "id": "kumy1244",
+  "name": "Kumyk",
+  "description": null,
+  "markup_description": null,
+  "latitude": 43,
+  "longitude": 47,
+  "classification": [
+    {
+      "name": "Turkic",
+      "id": "turk1311",
+      "url": "https://glottolog.org/resource/languoid/id/turk1311"
+    },
+    {
+      "name": "Common Turkic",
+      "id": "comm1245",
+      "url": "https://glottolog.org/resource/languoid/id/comm1245"
+    },
+    {
+      "name": "Kipchak",
+      "id": "kipc1239",
+      "url": "https://glottolog.org/resource/languoid/id/kipc1239"
+    },
+    {
+      "name": "West Kipchak",
+      "id": "west1472",
+      "url": "https://glottolog.org/resource/languoid/id/west1472"
+    },
+    {
+      "name": "Kaukasus Kipchak",
+      "id": "kauk1241",
+      "url": "https://glottolog.org/resource/languoid/id/kauk1241"
+    }
+  ],
+  "iso639-3": "kum"
+}

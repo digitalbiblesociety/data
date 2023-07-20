@@ -1,0 +1,79 @@
+{
+  "pk": 3589,
+  "hid": "zik",
+  "father_pk": 1918,
+  "family_pk": 27,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bagwa [bagw1238]':1,'Dea [deaa1242]':1,'Nuclear Zimakani [nucl1623]':1)'Zimakani [zima1244][zik]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56740",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Zimakani_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_zim",
+        "label": "Zimakani"
+      }
+    ],
+    "meds": [
+      [
+        "25439",
+        "phonology_or_text",
+        1966,
+        0,
+        "Unevangelized Fields Mission 1966"
+      ],
+      [
+        "117301",
+        "phonology_or_text",
+        1956,
+        0,
+        "Unevangelized Fields Mission 1956"
+      ],
+      [
+        "129357",
+        "wordlist_or_less",
+        1918,
+        6,
+        "J. W. P. Murray and Sydney H. Ray 1918"
+      ]
+    ]
+  },
+  "id": "zima1244",
+  "name": "Zimakani",
+  "description": null,
+  "markup_description": null,
+  "latitude": -7.3701,
+  "longitude": 141.452,
+  "classification": [
+    {
+      "name": "Anim",
+      "id": "anim1240",
+      "url": "https://glottolog.org/resource/languoid/id/anim1240"
+    },
+    {
+      "name": "Marind-Boazi-Yaqai",
+      "id": "mari1437",
+      "url": "https://glottolog.org/resource/languoid/id/mari1437"
+    },
+    {
+      "name": "Boazi",
+      "id": "boaz1244",
+      "url": "https://glottolog.org/resource/languoid/id/boaz1244"
+    }
+  ],
+  "iso639-3": "zik"
+}

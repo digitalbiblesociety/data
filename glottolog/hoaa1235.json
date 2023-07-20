@@ -1,0 +1,80 @@
+{
+  "pk": 1194,
+  "hid": "huc",
+  "father_pk": 203,
+  "family_pk": 203,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('N!aqriaxe [naqr1234]':1,'Sasi [sasi1238]':1,'ǂHua [huaa1249]':1)'Amkoe [hoaa1235][huc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_huc",
+        "label": "=|Hoan"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/%C7%82%CA%BCAmkoe_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2053913",
+        "label": null
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/594",
+        "label": "ǂHoan"
+      }
+    ],
+    "meds": [
+      [
+        "658018",
+        "grammar",
+        2001,
+        246,
+        "Bell, Arthur and Washburn, Paul 2001"
+      ],
+      [
+        "307879",
+        "grammar_sketch",
+        1975,
+        0,
+        "Gruber, Jeffrey S. 1975"
+      ],
+      [
+        "131505",
+        "wordlist_or_less",
+        1973,
+        8,
+        "Traill, Anthony 1973"
+      ],
+      [
+        "38547",
+        "wordlist_or_less",
+        1971,
+        14,
+        "Westphal, E. O. J. 1971"
+      ]
+    ]
+  },
+  "id": "hoaa1235",
+  "name": "Amkoe",
+  "description": null,
+  "markup_description": null,
+  "latitude": -23.93447,
+  "longitude": 24.69828,
+  "classification": [
+    {
+      "name": "Kxa",
+      "id": "kxaa1236",
+      "url": "https://glottolog.org/resource/languoid/id/kxaa1236"
+    }
+  ],
+  "iso639-3": "huc"
+}

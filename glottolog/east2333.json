@@ -1,0 +1,93 @@
+{
+  "pk": 13671,
+  "hid": "mng",
+  "father_pk": 10599,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Chil [chil1278]':1,'Mnong Gar [mnon1261]':1,'Mnong Kwanh [mnon1260]':1,'Mnong Rolom [mnon1262]':1)'Eastern Mnong [east2333][mng]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12953747",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "95197",
+        "grammar_sketch",
+        1976,
+        44,
+        "Y Tang Hmok 1976"
+      ],
+      [
+        "70074",
+        "phonology_or_text",
+        1965,
+        5,
+        "Blood, Evangeline 1965"
+      ],
+      [
+        "29260",
+        "phonology_or_text",
+        1963,
+        15,
+        "Blood, Henry F. 1963"
+      ],
+      [
+        "163549",
+        "wordlist_or_less",
+        1952,
+        11,
+        "Georges Condominas 1952"
+      ]
+    ]
+  },
+  "id": "east2333",
+  "name": "Eastern Mnong",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.3939,
+  "longitude": 108.354,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Bahnaric",
+      "id": "bahn1264",
+      "url": "https://glottolog.org/resource/languoid/id/bahn1264"
+    },
+    {
+      "name": "West Bahnaric",
+      "id": "west2399",
+      "url": "https://glottolog.org/resource/languoid/id/west2399"
+    },
+    {
+      "name": "South Bahnaric",
+      "id": "sout2690",
+      "url": "https://glottolog.org/resource/languoid/id/sout2690"
+    },
+    {
+      "name": "Mnong-Stieng-Chrau",
+      "id": "mnon1258",
+      "url": "https://glottolog.org/resource/languoid/id/mnon1258"
+    },
+    {
+      "name": "Mnong",
+      "id": "mnon1259",
+      "url": "https://glottolog.org/resource/languoid/id/mnon1259"
+    }
+  ],
+  "iso639-3": "mng"
+}

@@ -1,0 +1,73 @@
+{
+  "pk": 1551,
+  "hid": "mps",
+  "father_pk": 300,
+  "family_pk": 300,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Erave River [erav1243]':1)'Dadibi [dadi1250][mps]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_dad",
+        "label": "Dadibi"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dadibi_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/dadi1250",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5208077",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "45576",
+        "grammar",
+        1976,
+        234,
+        "MacDonald, George E. 1976"
+      ],
+      [
+        "142440",
+        "grammar_sketch",
+        1967,
+        154,
+        "Roy Wagner 1967"
+      ],
+      [
+        "128519",
+        "wordlist_or_less",
+        1962,
+        2,
+        "Arthur Capell 1962"
+      ]
+    ]
+  },
+  "id": "dadi1250",
+  "name": "Dadibi",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.65765,
+  "longitude": 144.511,
+  "classification": [
+    {
+      "name": "Teberan",
+      "id": "tebe1251",
+      "url": "https://glottolog.org/resource/languoid/id/tebe1251"
+    }
+  ],
+  "iso639-3": "mps"
+}

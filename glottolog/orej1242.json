@@ -1,0 +1,101 @@
+{
+  "pk": 4406,
+  "hid": "ore",
+  "father_pk": 2669,
+  "family_pk": 242,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Northern Maihiki [nort3353]':1,'Southern Maihiki [sout3336]':1,'Western Maihiki [west2951]':1)'Maijiki [orej1242][ore]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1064",
+        "label": "Orejón"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ore",
+        "label": "Orejón"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Orej%C3%B3n_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/orej1242",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3355834",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "548726",
+        "grammar_sketch",
+        2015,
+        126,
+        "Farmer, Stephanie J. 2015"
+      ],
+      [
+        "99044",
+        "grammar_sketch",
+        1975,
+        32,
+        "Velie, Daniel 1975"
+      ],
+      [
+        "34227",
+        "wordlist_or_less",
+        1930,
+        6,
+        "Günter Tessmann 1930"
+      ],
+      [
+        "306904",
+        "wordlist_or_less",
+        1892,
+        73,
+        "Ordinaire, Olivier 1892"
+      ],
+      [
+        "81994",
+        "wordlist_or_less",
+        1848,
+        7,
+        "R. G. Latham 1848"
+      ]
+    ]
+  },
+  "id": "orej1242",
+  "name": "Maijiki",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.86315,
+  "longitude": -72.4926,
+  "classification": [
+    {
+      "name": "Tucanoan",
+      "id": "tuca1253",
+      "url": "https://glottolog.org/resource/languoid/id/tuca1253"
+    },
+    {
+      "name": "Western Tucanoan",
+      "id": "west2784",
+      "url": "https://glottolog.org/resource/languoid/id/west2784"
+    },
+    {
+      "name": "Napo Tucanoan",
+      "id": "napo1243",
+      "url": "https://glottolog.org/resource/languoid/id/napo1243"
+    }
+  ],
+  "iso639-3": "ore"
+}

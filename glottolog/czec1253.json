@@ -1,0 +1,70 @@
+{
+  "pk": 6376,
+  "hid": "cse",
+  "father_pk": 4331,
+  "family_pk": 206,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Sign Language",
+  "newick": "'Czech Sign Language [czec1253][cse]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/7352",
+        "label": "Czech Sign Language"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5201809",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Czech_Sign_Language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "475780",
+        "phonology_or_text",
+        1988,
+        0,
+        "Gabrielová, D. and J. Paur and J. Zeman 1988"
+      ]
+    ]
+  },
+  "id": "czec1253",
+  "name": "Czech Sign Language",
+  "description": null,
+  "markup_description": null,
+  "latitude": 50.012,
+  "longitude": 14.4774,
+  "classification": [
+    {
+      "name": "Sign Language",
+      "id": "sign1238",
+      "url": "https://glottolog.org/resource/languoid/id/sign1238"
+    },
+    {
+      "name": "Deaf Sign Language",
+      "id": "deaf1237",
+      "url": "https://glottolog.org/resource/languoid/id/deaf1237"
+    },
+    {
+      "name": "LSFic",
+      "id": "lsfi1234",
+      "url": "https://glottolog.org/resource/languoid/id/lsfi1234"
+    },
+    {
+      "name": "Central European Sign",
+      "id": "cent2306",
+      "url": "https://glottolog.org/resource/languoid/id/cent2306"
+    }
+  ],
+  "iso639-3": "cse"
+}

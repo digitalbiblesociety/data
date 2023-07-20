@@ -1,0 +1,95 @@
+{
+  "pk": 14560,
+  "hid": "naz",
+  "father_pk": 11516,
+  "family_pk": 155,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Coatepec Nahuatl [coat1240][naz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q5138605",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Coatepec_Nahuatl",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "306879",
+        "phonology_or_text",
+        1991,
+        112,
+        "Rosa Román Lagunas and Gerardo Sámano Díaz 1991"
+      ],
+      [
+        "306764",
+        "phonology_or_text",
+        1941,
+        12,
+        "McQuown, Norman A. 1941"
+      ],
+      [
+        "301479",
+        "wordlist_or_less",
+        1940,
+        46,
+        "Robert J. Weitlaner 1940"
+      ]
+    ]
+  },
+  "id": "coat1240",
+  "name": "Coatepec Nahuatl",
+  "description": null,
+  "markup_description": null,
+  "latitude": 18.32,
+  "longitude": -99.7114,
+  "classification": [
+    {
+      "name": "Uto-Aztecan",
+      "id": "utoa1244",
+      "url": "https://glottolog.org/resource/languoid/id/utoa1244"
+    },
+    {
+      "name": "Southern Uto-Aztecan",
+      "id": "sout3136",
+      "url": "https://glottolog.org/resource/languoid/id/sout3136"
+    },
+    {
+      "name": "Corachol-Aztecan",
+      "id": "cora1261",
+      "url": "https://glottolog.org/resource/languoid/id/cora1261"
+    },
+    {
+      "name": "Aztec",
+      "id": "azte1234",
+      "url": "https://glottolog.org/resource/languoid/id/azte1234"
+    },
+    {
+      "name": "Western Nahuatl",
+      "id": "west2809",
+      "url": "https://glottolog.org/resource/languoid/id/west2809"
+    },
+    {
+      "name": "Western Periphery-North Guerrero Nahuatl",
+      "id": "west2814",
+      "url": "https://glottolog.org/resource/languoid/id/west2814"
+    },
+    {
+      "name": "North Guerrero Nahuatl",
+      "id": "nort3202",
+      "url": "https://glottolog.org/resource/languoid/id/nort3202"
+    }
+  ],
+  "iso639-3": "naz"
+}

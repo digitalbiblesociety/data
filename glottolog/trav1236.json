@@ -1,0 +1,68 @@
+{
+  "pk": 3912,
+  "hid": "rmg",
+  "father_pk": 2216,
+  "family_pk": 135,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Speech Register",
+  "newick": "'Traveller Norwegian [trav1236][rmg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3177352",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Rodi_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "301228",
+        "grammar_sketch",
+        1944,
+        92,
+        "Iversen, Ragnvald 1944"
+      ],
+      [
+        "577689",
+        "wordlist_or_less",
+        1852,
+        197,
+        "Sundt, Eilert 1852"
+      ]
+    ]
+  },
+  "id": "trav1236",
+  "name": "Traveller Norwegian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 62.6217,
+  "longitude": 9.48913,
+  "classification": [
+    {
+      "name": "Speech Register",
+      "id": "spee1234",
+      "url": "https://glottolog.org/resource/languoid/id/spee1234"
+    },
+    {
+      "name": "Indo-European Speech Register",
+      "id": "indo1335",
+      "url": "https://glottolog.org/resource/languoid/id/indo1335"
+    },
+    {
+      "name": "Scandinavian Romani",
+      "id": "scan1239",
+      "url": "https://glottolog.org/resource/languoid/id/scan1239"
+    }
+  ],
+  "iso639-3": "rmg"
+}

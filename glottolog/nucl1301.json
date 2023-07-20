@@ -1,0 +1,121 @@
+{
+  "pk": 7819,
+  "hid": "tur",
+  "father_pk": 5411,
+  "family_pk": 14,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Dinler [dinl1238]':1,'Edirne [edir1241]':1,'Eskisehir [eski1263]':1,'Gaziantep [gazi1244]':1,'Urfa [urfa1238]':1,'Yürük [yuru1261]':1)'Anatolian Turkish [anat1259]':1,'Cypriot Turkish [cypr1251]':1,'Karamanli [kara1469]':1,'Ottoman Turkish [otto1234][ota]':1,'Syrian Turkmen Turkish [syri1244]':1)'Turkish [nucl1301][tur]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 11,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tur",
+        "label": "Turkish"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Turkish_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nucl1301",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q256",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "123676",
+        "long_grammar",
+        2006,
+        1248,
+        "Deny, Jean 2006"
+      ],
+      [
+        "68472",
+        "long_grammar",
+        2005,
+        620,
+        "Göksel, Aslı and Kerslake, Celia 2005"
+      ],
+      [
+        "161368",
+        "long_grammar",
+        1997,
+        606,
+        "Kornfilt, Jaklin 1997"
+      ],
+      [
+        "573611",
+        "long_grammar",
+        1956,
+        569,
+        "Kononov, Andrej Nikolaevic 1956"
+      ],
+      [
+        "319631",
+        "long_grammar",
+        1790,
+        507,
+        "Viguier, Pierre F. 1790"
+      ],
+      [
+        "588514",
+        "long_grammar",
+        1612,
+        328,
+        "Hieronymus Megiser 1612"
+      ],
+      [
+        "18058",
+        "wordlist_or_less",
+        1603,
+        0,
+        "Houtman, Frederik de 1603"
+      ]
+    ]
+  },
+  "id": "nucl1301",
+  "name": "Turkish",
+  "description": null,
+  "markup_description": null,
+  "latitude": 39.8667,
+  "longitude": 32.8667,
+  "classification": [
+    {
+      "name": "Turkic",
+      "id": "turk1311",
+      "url": "https://glottolog.org/resource/languoid/id/turk1311"
+    },
+    {
+      "name": "Common Turkic",
+      "id": "comm1245",
+      "url": "https://glottolog.org/resource/languoid/id/comm1245"
+    },
+    {
+      "name": "Oghuz",
+      "id": "oghu1243",
+      "url": "https://glottolog.org/resource/languoid/id/oghu1243"
+    },
+    {
+      "name": "Nuclear Oghuz",
+      "id": "nucl1769",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1769"
+    },
+    {
+      "name": "West Oghuz",
+      "id": "west2406",
+      "url": "https://glottolog.org/resource/languoid/id/west2406"
+    }
+  ],
+  "iso639-3": "tur"
+}

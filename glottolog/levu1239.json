@@ -1,0 +1,104 @@
+{
+  "pk": 12116,
+  "hid": "lvu",
+  "father_pk": 9236,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Kalikasa [kali1300]':1,'Lewuka [nucl1535]':1)'Central Lembata [cent2336]':1,'Lewokukun [lewo1247]':1)'Central Lembata-Lewokukun [levu1239][lvu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6535860",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Levuka_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "580095",
+        "grammar_sketch",
+        2019,
+        199,
+        "Fricke, Hanna L.A. 2019"
+      ],
+      [
+        "555246",
+        "phonology_or_text",
+        2017,
+        26,
+        "Hanna Fricke 2017"
+      ],
+      [
+        "553823",
+        "phonology_or_text",
+        2010,
+        16,
+        "Akoli, Marcelinus Yeri Fernandez 2010"
+      ],
+      [
+        "322523",
+        "wordlist_or_less",
+        2000,
+        47,
+        "Buha Aritonang and Astar, Hidayatul and Wati Kurniawati and Non Martis and Ferry Feirizal 2000"
+      ],
+      [
+        "127725",
+        "wordlist_or_less",
+        1978,
+        1,
+        "Gregorius Keraf 1978"
+      ]
+    ]
+  },
+  "id": "levu1239",
+  "name": "Central Lembata-Lewokukun",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.47094,
+  "longitude": 123.44,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Bima-Lembata",
+      "id": "bima1248",
+      "url": "https://glottolog.org/resource/languoid/id/bima1248"
+    },
+    {
+      "name": "Flores-Lembata",
+      "id": "flor1239",
+      "url": "https://glottolog.org/resource/languoid/id/flor1239"
+    },
+    {
+      "name": "Lamaholot Tengah",
+      "id": "lama1294",
+      "url": "https://glottolog.org/resource/languoid/id/lama1294"
+    },
+    {
+      "name": "Southeast Lembata",
+      "id": "levu1240",
+      "url": "https://glottolog.org/resource/languoid/id/levu1240"
+    }
+  ],
+  "iso639-3": "lvu"
+}

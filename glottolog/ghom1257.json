@@ -1,0 +1,89 @@
+{
+  "pk": 8205,
+  "hid": "gho",
+  "father_pk": 5757,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ghomara [ghom1257][gho]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/8469",
+        "label": "Ghomara"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35315",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ghomara_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "433034",
+        "long_grammar",
+        2015,
+        545,
+        "Mourigh, Khalid 2015"
+      ],
+      [
+        "93479",
+        "grammar",
+        2008,
+        249,
+        "J. el Hannouche 2008"
+      ],
+      [
+        "11497",
+        "phonology_or_text",
+        1929,
+        16,
+        "Colin, Georges S. 1929"
+      ]
+    ]
+  },
+  "id": "ghom1257",
+  "name": "Ghomara",
+  "description": null,
+  "markup_description": null,
+  "latitude": 34.7979,
+  "longitude": -4.6696,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Berber",
+      "id": "berb1260",
+      "url": "https://glottolog.org/resource/languoid/id/berb1260"
+    },
+    {
+      "name": "Kabyle-Atlas Berber",
+      "id": "kaby1244",
+      "url": "https://glottolog.org/resource/languoid/id/kaby1244"
+    },
+    {
+      "name": "Atlas Berber",
+      "id": "atla1275",
+      "url": "https://glottolog.org/resource/languoid/id/atla1275"
+    },
+    {
+      "name": "Northwestern Moroccan Berber",
+      "id": "nort3248",
+      "url": "https://glottolog.org/resource/languoid/id/nort3248"
+    }
+  ],
+  "iso639-3": "gho"
+}

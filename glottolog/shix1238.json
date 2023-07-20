@@ -1,0 +1,88 @@
+{
+  "pk": 7265,
+  "hid": "sxg",
+  "father_pk": 4936,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Shixing [shix1238][sxg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5431",
+        "label": "Shixing"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56337",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Shixing_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/shix1238",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "577686",
+        "long_grammar",
+        2014,
+        390,
+        "Sun, Hongkai 2014"
+      ],
+      [
+        "26965",
+        "grammar_sketch",
+        2009,
+        89,
+        "Katia Chirkova 2009"
+      ],
+      [
+        "309201",
+        "grammar_sketch",
+        1983,
+        8,
+        "Sun, Hongkai 1983"
+      ]
+    ]
+  },
+  "id": "shix1238",
+  "name": "Shixing",
+  "description": null,
+  "markup_description": null,
+  "latitude": 28.3895,
+  "longitude": 100.4,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Burmo-Qiangic",
+      "id": "burm1265",
+      "url": "https://glottolog.org/resource/languoid/id/burm1265"
+    },
+    {
+      "name": "Na-Qiangic",
+      "id": "naqi1236",
+      "url": "https://glottolog.org/resource/languoid/id/naqi1236"
+    },
+    {
+      "name": "Naic",
+      "id": "naic1235",
+      "url": "https://glottolog.org/resource/languoid/id/naic1235"
+    }
+  ],
+  "iso639-3": "sxg"
+}

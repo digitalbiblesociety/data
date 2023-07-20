@@ -1,0 +1,92 @@
+{
+  "pk": 15823,
+  "hid": "kvm",
+  "father_pk": 13009,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kendem [kend1252][kvm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/551",
+        "label": "Kendem"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35751",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kendem_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "14600",
+        "phonology_or_text",
+        2005,
+        18,
+        "Ojong, Magdaline Bakume Nkongho 2005"
+      ],
+      [
+        "103702",
+        "wordlist_or_less",
+        2004,
+        15,
+        "Krüger, Susanne and Anderson, Heidi R. 2004"
+      ]
+    ]
+  },
+  "id": "kend1252",
+  "name": "Kendem",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.77429,
+  "longitude": 9.63201,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Mamfe",
+      "id": "mamf1238",
+      "url": "https://glottolog.org/resource/languoid/id/mamf1238"
+    },
+    {
+      "name": "Kendem-Denya",
+      "id": "kend1255",
+      "url": "https://glottolog.org/resource/languoid/id/kend1255"
+    }
+  ],
+  "iso639-3": "kvm"
+}

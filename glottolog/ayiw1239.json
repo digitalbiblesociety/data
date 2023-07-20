@@ -1,0 +1,105 @@
+{
+  "pk": 12454,
+  "hid": "nfl",
+  "father_pk": 9492,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Äiwoo [ayiw1239][nfl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10349",
+        "label": "Äiwoo"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56742",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/%C3%84iwoo_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ayw",
+        "label": "Ayiwo"
+      }
+    ],
+    "meds": [
+      [
+        "94130",
+        "grammar_sketch",
+        1972,
+        8,
+        "Stephen A. Wurm 1972"
+      ],
+      [
+        "33700",
+        "wordlist_or_less",
+        1969,
+        3,
+        "Stephen A. Wurm 1969"
+      ],
+      [
+        "53206",
+        "wordlist_or_less",
+        1919,
+        1,
+        "Sidney H. Ray 1919/1920"
+      ],
+      [
+        "99266",
+        "wordlist_or_less",
+        1885,
+        6,
+        "Robert Codrington 1885"
+      ]
+    ]
+  },
+  "id": "ayiw1239",
+  "name": "Äiwoo",
+  "description": null,
+  "markup_description": null,
+  "latitude": -10.282595,
+  "longitude": 166.328715,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Temotu",
+      "id": "temo1244",
+      "url": "https://glottolog.org/resource/languoid/id/temo1244"
+    },
+    {
+      "name": "Reefs-Santa Cruz",
+      "id": "reef1242",
+      "url": "https://glottolog.org/resource/languoid/id/reef1242"
+    }
+  ],
+  "iso639-3": "nfl"
+}

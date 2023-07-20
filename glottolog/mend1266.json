@@ -1,0 +1,145 @@
+{
+  "pk": 14402,
+  "hid": "men",
+  "father_pk": 11314,
+  "family_pk": 121,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ko {Sierra Leone} [kooo1243]':1,'Kpa {Sierra Leone} [kpaa1243]':1,'Sewawa [sewa1250]':1,'Waanjama [waan1239]':1)'Mende {Sierra Leone} [mend1266][men]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mde",
+        "label": "Mende"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mende_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/mend1266",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q1478672",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "151266",
+        "long_grammar",
+        1967,
+        580,
+        "Spears, Richard Alan 1967"
+      ],
+      [
+        "145537",
+        "grammar",
+        1908,
+        286,
+        "Migeod, Frederick William Hugh 1908"
+      ],
+      [
+        "57074",
+        "grammar_sketch",
+        1882,
+        99,
+        "Schön, James F. 1882"
+      ],
+      [
+        "99554",
+        "wordlist_or_less",
+        1840,
+        4,
+        "Gibbs, Josiah W. 1840"
+      ],
+      [
+        "19485",
+        "wordlist_or_less",
+        1828,
+        4,
+        "Kilham, Hannah 1828"
+      ],
+      [
+        "132614",
+        "wordlist_or_less",
+        1686,
+        0,
+        "Dapper, Olfert 1686"
+      ],
+      [
+        "10516",
+        "wordlist_or_less",
+        1676,
+        0,
+        "Dapper, Olfert 1676"
+      ],
+      [
+        "114481",
+        "wordlist_or_less",
+        1670,
+        0,
+        "Dapper, Olfert 1670"
+      ],
+      [
+        "33938",
+        "wordlist_or_less",
+        1668,
+        0,
+        "Dapper, Olfert 1668"
+      ]
+    ]
+  },
+  "id": "mend1266",
+  "name": "Mende (Sierra Leone)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.90935,
+  "longitude": -10.9926,
+  "classification": [
+    {
+      "name": "Mande",
+      "id": "mand1469",
+      "url": "https://glottolog.org/resource/languoid/id/mand1469"
+    },
+    {
+      "name": "Western Mande",
+      "id": "west2780",
+      "url": "https://glottolog.org/resource/languoid/id/west2780"
+    },
+    {
+      "name": "Manding-Kpelle",
+      "id": "mand1431",
+      "url": "https://glottolog.org/resource/languoid/id/mand1431"
+    },
+    {
+      "name": "Southwest Mande",
+      "id": "sout2842",
+      "url": "https://glottolog.org/resource/languoid/id/sout2842"
+    },
+    {
+      "name": "Mende-Loma",
+      "id": "mend1263",
+      "url": "https://glottolog.org/resource/languoid/id/mend1263"
+    },
+    {
+      "name": "Mende-Bandi",
+      "id": "mend1264",
+      "url": "https://glottolog.org/resource/languoid/id/mend1264"
+    },
+    {
+      "name": "Mende-Loko",
+      "id": "mend1265",
+      "url": "https://glottolog.org/resource/languoid/id/mend1265"
+    }
+  ],
+  "iso639-3": "men"
+}

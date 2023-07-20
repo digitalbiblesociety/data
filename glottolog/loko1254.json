@@ -1,0 +1,83 @@
+{
+  "pk": 12653,
+  "hid": "lky",
+  "father_pk": 9746,
+  "family_pk": 316,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Lokoya [loko1254][lky]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56687",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lokoya_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "122368",
+        "grammar_sketch",
+        1944,
+        28,
+        "Westermann, Diedrich 1944"
+      ],
+      [
+        "22632",
+        "wordlist_or_less",
+        1932,
+        2,
+        "Driberg, Jack H. 1932"
+      ]
+    ]
+  },
+  "id": "loko1254",
+  "name": "Lokoya",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.64724,
+  "longitude": 32.26247,
+  "classification": [
+    {
+      "name": "Nilotic",
+      "id": "nilo1247",
+      "url": "https://glottolog.org/resource/languoid/id/nilo1247"
+    },
+    {
+      "name": "Eastern Nilotic",
+      "id": "east2418",
+      "url": "https://glottolog.org/resource/languoid/id/east2418"
+    },
+    {
+      "name": "Teso-Lotuxo-Maa",
+      "id": "teso1247",
+      "url": "https://glottolog.org/resource/languoid/id/teso1247"
+    },
+    {
+      "name": "Lotuxo-Maa",
+      "id": "lotu1248",
+      "url": "https://glottolog.org/resource/languoid/id/lotu1248"
+    },
+    {
+      "name": "Lotuxo",
+      "id": "lotu1249",
+      "url": "https://glottolog.org/resource/languoid/id/lotu1249"
+    },
+    {
+      "name": "Lotuko-Lokoya",
+      "id": "lotu1251",
+      "url": "https://glottolog.org/resource/languoid/id/lotu1251"
+    }
+  ],
+  "iso639-3": "lky"
+}

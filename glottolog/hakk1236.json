@@ -1,0 +1,88 @@
+{
+  "pk": 7400,
+  "hid": "hak",
+  "father_pk": 5039,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Hailu [hail1247]':1,'Huizhou [huiz1243]':1,'Meixian [yuet1238]':1,'Ning-Long [ning1269]':1,'Raoping [raop1234]':1,('Liudui-Pingtung [liud1234]':1,'Taoyuan-Miaoli [taoy1234]':1)'Sixian [sanh1239]':1,('Changting [chan1325]':1,'Liancheng [lian1259]':1,'Mingxi [ming1255]':1,'Ninghua [ning1278]':1,'Qingliu [qing1239]':1,'Shanghang [shan1292]':1,'Wuping [wupi1239]':1,'Yongding [yong1284]':1)'Tingzhou [ting1250]':1,'Tonggu [tong1314]':1,'Yuebei [yueb1238]':1,'Yuezhong [yuez1238]':1,'Yugui [yugu1248]':1)'Hakka Chinese [hakk1236][hak]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 21,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_hak",
+        "label": "Hakka"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Hakka_Chinese",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/hakk1236",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33375",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "22057",
+        "long_grammar",
+        1973,
+        612,
+        "Mantaro J. Hashimoto 1973"
+      ],
+      [
+        "576936",
+        "grammar_sketch",
+        1897,
+        115,
+        "Schaank, Simon H. 1897"
+      ],
+      [
+        "72757",
+        "wordlist_or_less",
+        1888,
+        11,
+        "Terrien de Lacouperie 1888"
+      ]
+    ]
+  },
+  "id": "hakk1236",
+  "name": "Hakka Chinese",
+  "description": null,
+  "markup_description": null,
+  "latitude": 25,
+  "longitude": 116,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Sinitic",
+      "id": "sini1245",
+      "url": "https://glottolog.org/resource/languoid/id/sini1245"
+    },
+    {
+      "name": "Classical-Middle-Modern Sinitic",
+      "id": "clas1255",
+      "url": "https://glottolog.org/resource/languoid/id/clas1255"
+    },
+    {
+      "name": "Middle-Modern Sinitic",
+      "id": "midd1354",
+      "url": "https://glottolog.org/resource/languoid/id/midd1354"
+    }
+  ],
+  "iso639-3": "hak"
+}

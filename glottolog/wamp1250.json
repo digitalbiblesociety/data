@@ -1,0 +1,88 @@
+{
+  "pk": 14647,
+  "hid": "qyp",
+  "father_pk": 11674,
+  "family_pk": 178,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Naugatuck [naug1234]':1,'Quiripi [quir1246]':1,'Unquachog [unqu1234]':1)'Wampano [wamp1250][qyp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3414714",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Quiripi_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "177319",
+        "phonology_or_text",
+        1997,
+        59,
+        "Blair A. Rudes 1997"
+      ],
+      [
+        "301023",
+        "phonology_or_text",
+        1658,
+        31,
+        "Pierson, Abraham 1658"
+      ]
+    ]
+  },
+  "id": "wamp1250",
+  "name": "Wampano",
+  "description": null,
+  "markup_description": null,
+  "latitude": 41.2021,
+  "longitude": -73.3798,
+  "classification": [
+    {
+      "name": "Algic",
+      "id": "algi1248",
+      "url": "https://glottolog.org/resource/languoid/id/algi1248"
+    },
+    {
+      "name": "Algonquian-Blackfoot",
+      "id": "algo1256",
+      "url": "https://glottolog.org/resource/languoid/id/algo1256"
+    },
+    {
+      "name": "Algonquian",
+      "id": "algo1257",
+      "url": "https://glottolog.org/resource/languoid/id/algo1257"
+    },
+    {
+      "name": "Eastern Algonquian",
+      "id": "east2700",
+      "url": "https://glottolog.org/resource/languoid/id/east2700"
+    },
+    {
+      "name": "Maritimes-Southern New England Algonquian",
+      "id": "mari1452",
+      "url": "https://glottolog.org/resource/languoid/id/mari1452"
+    },
+    {
+      "name": "Southern New England Algonquian",
+      "id": "sout3237",
+      "url": "https://glottolog.org/resource/languoid/id/sout3237"
+    },
+    {
+      "name": "Western Southern New England Algonquian",
+      "id": "west2999",
+      "url": "https://glottolog.org/resource/languoid/id/west2999"
+    }
+  ],
+  "iso639-3": "qyp"
+}

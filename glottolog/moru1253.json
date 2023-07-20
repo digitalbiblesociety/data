@@ -1,0 +1,71 @@
+{
+  "pk": 2243,
+  "hid": "mgd",
+  "father_pk": 1030,
+  "family_pk": 140,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('''Bali''ba [bali1276]':1,'Agi {Moru} [agii1244]':1,'Andri [andr1247]':1,'Kadiro [kadi1246]':1,'Lakama''di [laka1253]':1,'Miza [miza1238]':1,'Moruwa''di [moru1254]':1)'Moru [moru1253][mgd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mou",
+        "label": "Moru"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Moru_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/moru1253",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6915014",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "571259",
+        "grammar_sketch",
+        1883,
+        51,
+        "Felkin, W. 1883"
+      ],
+      [
+        "124341",
+        "wordlist_or_less",
+        1867,
+        5,
+        "Morlang, Franz 1867"
+      ]
+    ]
+  },
+  "id": "moru1253",
+  "name": "Moru",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.1232,
+  "longitude": 30.3287,
+  "classification": [
+    {
+      "name": "Central Sudanic",
+      "id": "cent2225",
+      "url": "https://glottolog.org/resource/languoid/id/cent2225"
+    },
+    {
+      "name": "Moru-Madi",
+      "id": "moru1252",
+      "url": "https://glottolog.org/resource/languoid/id/moru1252"
+    }
+  ],
+  "iso639-3": "mgd"
+}

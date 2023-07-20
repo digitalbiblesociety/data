@@ -1,0 +1,71 @@
+{
+  "pk": 2253,
+  "hid": "can",
+  "father_pk": 1035,
+  "family_pk": 143,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Chambri [cham1313][can]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10631",
+        "label": "Chambri"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5069707",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Chambri_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_chb",
+        "label": "Chambri"
+      }
+    ],
+    "meds": [
+      [
+        "61128",
+        "phonology_or_text",
+        1976,
+        36,
+        "Pagotto, Louise 1976"
+      ],
+      [
+        "318703",
+        "wordlist_or_less",
+        1963,
+        0,
+        "Eike Haberland 1963"
+      ]
+    ]
+  },
+  "id": "cham1313",
+  "name": "Chambri",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.27831,
+  "longitude": 143.097,
+  "classification": [
+    {
+      "name": "Lower Sepik-Ramu",
+      "id": "lowe1437",
+      "url": "https://glottolog.org/resource/languoid/id/lowe1437"
+    },
+    {
+      "name": "Lower Sepik",
+      "id": "lowe1423",
+      "url": "https://glottolog.org/resource/languoid/id/lowe1423"
+    }
+  ],
+  "iso639-3": "can"
+}

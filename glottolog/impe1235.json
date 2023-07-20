@@ -1,0 +1,86 @@
+{
+  "pk": 14153,
+  "hid": "arc",
+  "father_pk": 11080,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Imperial Aramaic {700-300 BCE} [impe1235][arc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [],
+    "meds": [
+      [
+        "577081",
+        "long_grammar",
+        1975,
+        553,
+        "Segert, Stanislav 1975"
+      ],
+      [
+        "568783",
+        "long_grammar",
+        1927,
+        387,
+        "Hans Bauer and Pontus Leander 1927"
+      ],
+      [
+        "150497",
+        "grammar",
+        1896,
+        248,
+        "Karl Marti 1896"
+      ]
+    ]
+  },
+  "id": "impe1235",
+  "name": "Imperial Aramaic (700-300 BCE)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 33.905,
+  "longitude": 42.185,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Semitic",
+      "id": "semi1276",
+      "url": "https://glottolog.org/resource/languoid/id/semi1276"
+    },
+    {
+      "name": "West Semitic",
+      "id": "west2786",
+      "url": "https://glottolog.org/resource/languoid/id/west2786"
+    },
+    {
+      "name": "Central Semitic",
+      "id": "cent2236",
+      "url": "https://glottolog.org/resource/languoid/id/cent2236"
+    },
+    {
+      "name": "Northwest Semitic",
+      "id": "nort3165",
+      "url": "https://glottolog.org/resource/languoid/id/nort3165"
+    },
+    {
+      "name": "Aramaic",
+      "id": "aram1259",
+      "url": "https://glottolog.org/resource/languoid/id/aram1259"
+    },
+    {
+      "name": "Imperial-Middle-Modern Aramaic",
+      "id": "impe1236",
+      "url": "https://glottolog.org/resource/languoid/id/impe1236"
+    }
+  ],
+  "iso639-3": "arc"
+}

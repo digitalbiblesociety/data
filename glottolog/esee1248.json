@@ -1,0 +1,115 @@
+{
+  "pk": 4479,
+  "hid": "ese",
+  "father_pk": 2871,
+  "family_pk": 273,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Baawaja [baaw1234]':1,'Sonene [sone1234]':1)'Ese Ejja [esee1248][ese]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ese",
+        "label": "Ese Ejja"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/1467",
+        "label": "Ese'jja"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ese_Ejja_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/esee1248",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2980381",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "313626",
+        "long_grammar",
+        2012,
+        752,
+        "Marine Vuillermet 2012"
+      ],
+      [
+        "58813",
+        "grammar",
+        1983,
+        107,
+        "Plaza M., Pedro and Larson, Mildred L. and Shoemaker, Nola and Shoemaker, Jack 1983"
+      ],
+      [
+        "79342",
+        "grammar_sketch",
+        1965,
+        126,
+        "Shoemaker, Jack and Shoemaker, Nola 1965"
+      ],
+      [
+        "111828",
+        "grammar_sketch",
+        1932,
+        19,
+        "Aza, José Pío 1932"
+      ],
+      [
+        "657513",
+        "wordlist_or_less",
+        1925,
+        100,
+        "Aza, José Pio 1925, 1926"
+      ],
+      [
+        "39838",
+        "wordlist_or_less",
+        1905,
+        10,
+        "Erland Nordenskiöld 1905"
+      ],
+      [
+        "118417",
+        "wordlist_or_less",
+        1894,
+        1,
+        "Balzan, Luigi 1894"
+      ]
+    ]
+  },
+  "id": "esee1248",
+  "name": "Ese Ejja",
+  "description": null,
+  "markup_description": null,
+  "latitude": -11.7268,
+  "longitude": -67.515,
+  "classification": [
+    {
+      "name": "Pano-Tacanan",
+      "id": "pano1259",
+      "url": "https://glottolog.org/resource/languoid/id/pano1259"
+    },
+    {
+      "name": "Tacanan",
+      "id": "taca1255",
+      "url": "https://glottolog.org/resource/languoid/id/taca1255"
+    },
+    {
+      "name": "Takanik-Chamik",
+      "id": "taka1267",
+      "url": "https://glottolog.org/resource/languoid/id/taka1267"
+    }
+  ],
+  "iso639-3": "ese"
+}

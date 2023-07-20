@@ -1,0 +1,58 @@
+{
+  "pk": 803,
+  "hid": "llo",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Khlor [khlo1239][llo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "llo",
+      "name": "Khlor",
+      "change_request": "2018-008",
+      "effective": "2019-01-25",
+      "reason": "duplicate",
+      "change_to": [
+        "ngt"
+      ],
+      "remedy": "Duplicate of [ngt] Kriang",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q27921409",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "92676",
+        "wordlist_or_less",
+        2003,
+        15,
+        "Joachim Schliesinger 2003"
+      ]
+    ]
+  },
+  "id": "khlo1239",
+  "name": "Khlor",
+  "description": null,
+  "markup_description": null,
+  "latitude": 15.6415,
+  "longitude": 106.606,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "llo"
+}

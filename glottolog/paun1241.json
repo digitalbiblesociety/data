@@ -1,0 +1,77 @@
+{
+  "pk": 6275,
+  "hid": "pnk",
+  "father_pk": 4228,
+  "family_pk": 177,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Paunaka [paun1241][pnk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2051",
+        "label": "Paunaka"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2064378",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Pauna_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "469271",
+        "grammar_sketch",
+        2014,
+        38,
+        "Swintha Danielsen and Lena Terhart 2014"
+      ],
+      [
+        "41260",
+        "wordlist_or_less",
+        1886,
+        9,
+        "Cardús, José 1886"
+      ]
+    ]
+  },
+  "id": "paun1241",
+  "name": "Paunaka",
+  "description": null,
+  "markup_description": null,
+  "latitude": -14.353747,
+  "longitude": -63.086994,
+  "classification": [
+    {
+      "name": "Arawakan",
+      "id": "araw1281",
+      "url": "https://glottolog.org/resource/languoid/id/araw1281"
+    },
+    {
+      "name": "Southern Maipuran",
+      "id": "sout3131",
+      "url": "https://glottolog.org/resource/languoid/id/sout3131"
+    },
+    {
+      "name": "Bolivian Arawakan",
+      "id": "boli1260",
+      "url": "https://glottolog.org/resource/languoid/id/boli1260"
+    },
+    {
+      "name": "Mojeno-Paunaca",
+      "id": "moxo1235",
+      "url": "https://glottolog.org/resource/languoid/id/moxo1235"
+    }
+  ],
+  "iso639-3": "pnk"
+}

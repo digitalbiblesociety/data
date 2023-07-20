@@ -1,0 +1,91 @@
+{
+  "pk": 12126,
+  "hid": "law",
+  "father_pk": 9243,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ampibabo [ampi1237]':1)'Lauje [lauj1238][law]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1332",
+        "label": "Lauje"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6498258",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lauje_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_lje",
+        "label": "Lauje"
+      }
+    ],
+    "meds": [
+      [
+        "67518",
+        "wordlist_or_less",
+        2001,
+        21,
+        "Nikolaus P. Himmelmann 2001"
+      ],
+      [
+        "63583",
+        "wordlist_or_less",
+        1979,
+        2,
+        "Donald F. Barr and Sharon G. Barr and C. Salombe 1979"
+      ]
+    ]
+  },
+  "id": "lauj1238",
+  "name": "Lauje",
+  "description": null,
+  "markup_description": null,
+  "latitude": 0.50708,
+  "longitude": 120.262,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Celebic",
+      "id": "cele1242",
+      "url": "https://glottolog.org/resource/languoid/id/cele1242"
+    },
+    {
+      "name": "Greater Eastern Celebic",
+      "id": "grea1299",
+      "url": "https://glottolog.org/resource/languoid/id/grea1299"
+    },
+    {
+      "name": "Tominic",
+      "id": "tomi1242",
+      "url": "https://glottolog.org/resource/languoid/id/tomi1242"
+    },
+    {
+      "name": "Northern Tomini",
+      "id": "nort2897",
+      "url": "https://glottolog.org/resource/languoid/id/nort2897"
+    }
+  ],
+  "iso639-3": "law"
+}

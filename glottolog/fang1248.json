@@ -1,0 +1,91 @@
+{
+  "pk": 13002,
+  "hid": "fak",
+  "father_pk": 9989,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Fang {Cameroon} [fang1248][fak]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/8849",
+        "label": "Fang"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5433811",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Fang_language_(Cameroon)",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/fang1248",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "575329",
+        "phonology_or_text",
+        2013,
+        171,
+        "Mvé, Jean Patrick 2013"
+      ],
+      [
+        "129514",
+        "wordlist_or_less",
+        2002,
+        2,
+        "Hamm, Cameron and Diller, Jason and Jordan-Diller, Kari 2002"
+      ]
+    ]
+  },
+  "id": "fang1248",
+  "name": "Fang (Cameroon)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.54384,
+  "longitude": 10.319,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Yemne-Kimbi",
+      "id": "yemn1234",
+      "url": "https://glottolog.org/resource/languoid/id/yemn1234"
+    }
+  ],
+  "iso639-3": "fak"
+}

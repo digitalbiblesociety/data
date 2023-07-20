@@ -1,0 +1,95 @@
+{
+  "pk": 7129,
+  "hid": "sef",
+  "father_pk": 4883,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Kafire [kafi1243]':1,'Kasara [kasa1250]':1,'Kufuru [kufu1238]':1,'Nafara [nafa1256]':1,'Tagara [taga1266]':1,'Tyebara [tyeb1238]':1)'Central Senari [cent2379]':1,('Kandere [kand1296]':1,'Nowulo [sout2796]':1,'Tagbari [tagb1256]':1)'Far West Senari [farw1240]':1,'Fodonon [foda1238]':1,('Kulere {Cote d''Ivoire} [kule1242]':1,'Messeni [takp1245]':1,'Papara [papa1264]':1,'Patara [pata1259]':1,'Pogara [poga1239]':1,'Tenere [tene1246]':1)'West Senari [west2961]':1)'Senari [ceba1235][sef]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 19,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q10975121",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cebaara_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/ceba1235",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_snd",
+        "label": "Senadi"
+      }
+    ],
+    "meds": [
+      [
+        "23699",
+        "long_grammar",
+        1973,
+        301,
+        "Laughren, Mary 1973"
+      ],
+      [
+        "138487",
+        "grammar_sketch",
+        1971,
+        120,
+        "Laughren, Mary 1971"
+      ],
+      [
+        "578265",
+        "grammar_sketch",
+        1935,
+        75,
+        "Vendeix, M. J. 1935"
+      ],
+      [
+        "130699",
+        "wordlist_or_less",
+        1908,
+        108,
+        "DelAfosse, M. 1908-09"
+      ]
+    ]
+  },
+  "id": "ceba1235",
+  "name": "Senari",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.50768,
+  "longitude": -6.15264,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "North Volta-Congo",
+      "id": "nort3149",
+      "url": "https://glottolog.org/resource/languoid/id/nort3149"
+    },
+    {
+      "name": "Senufo",
+      "id": "senu1239",
+      "url": "https://glottolog.org/resource/languoid/id/senu1239"
+    }
+  ],
+  "iso639-3": "sef"
+}

@@ -1,0 +1,110 @@
+{
+  "pk": 10097,
+  "hid": "qxs",
+  "father_pk": 7260,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Dajishan [daji1238]':1,('Taoping Qiang [taop1238]':1,'Tonghua Qiang [tong1330]':1)'Eastern Lixian Qiang [east2793]':1)'Downward-e Southern Qiang [down1240]':1,('Longxi Qiang [long1374]':1,'Mianchi Qiang [mian1253]':1)'Inward-ji Southern Qiang [inwa1234]':1)'Southern Qiang [sout2728][qxs]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 8,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5613",
+        "label": "Southern Qiang"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56563",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Southern_Qiang_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "557981",
+        "long_grammar",
+        2016,
+        700,
+        "Wuxi Zheng 2016"
+      ],
+      [
+        "325360",
+        "long_grammar",
+        2007,
+        375,
+        "Huang, Chenglong 2007"
+      ],
+      [
+        "50988",
+        "long_grammar",
+        2004,
+        361,
+        "Huang, Chenglong 2004"
+      ],
+      [
+        "90026",
+        "grammar",
+        1981,
+        110,
+        "Sun, Hongkai 1981"
+      ],
+      [
+        "55136",
+        "wordlist_or_less",
+        1944,
+        7,
+        "Wang, Jingru 1944"
+      ],
+      [
+        "72757",
+        "wordlist_or_less",
+        1888,
+        11,
+        "Terrien de Lacouperie 1888"
+      ]
+    ]
+  },
+  "id": "sout2728",
+  "name": "Southern Qiang",
+  "description": null,
+  "markup_description": null,
+  "latitude": 31.5392,
+  "longitude": 103.384,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Burmo-Qiangic",
+      "id": "burm1265",
+      "url": "https://glottolog.org/resource/languoid/id/burm1265"
+    },
+    {
+      "name": "Na-Qiangic",
+      "id": "naqi1236",
+      "url": "https://glottolog.org/resource/languoid/id/naqi1236"
+    },
+    {
+      "name": "Qiangic",
+      "id": "qian1263",
+      "url": "https://glottolog.org/resource/languoid/id/qian1263"
+    },
+    {
+      "name": "Qiang",
+      "id": "qian1264",
+      "url": "https://glottolog.org/resource/languoid/id/qian1264"
+    }
+  ],
+  "iso639-3": "qxs"
+}

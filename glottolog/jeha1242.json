@@ -1,0 +1,105 @@
+{
+  "pk": 13639,
+  "hid": "jhi",
+  "father_pk": 10577,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Batek The [bate1267]':1,'Nuclear Jehai [nucl1294]':1)'Jehai [jeha1242][jhi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1263",
+        "label": "Jahai"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3176748",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Jahai_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_jah",
+        "label": "Jahai"
+      }
+    ],
+    "meds": [
+      [
+        "300947",
+        "grammar",
+        2002,
+        279,
+        "Burenhult, Niclas 2002"
+      ],
+      [
+        "122647",
+        "grammar_sketch",
+        1928,
+        24,
+        "Paul Schebesta 1928"
+      ],
+      [
+        "50445",
+        "wordlist_or_less",
+        1926,
+        7,
+        "H. R. Savage 1926"
+      ],
+      [
+        "160516",
+        "wordlist_or_less",
+        1906,
+        7,
+        "W. W. Skeat and C. O. Blagden 1906"
+      ]
+    ]
+  },
+  "id": "jeha1242",
+  "name": "Jehai",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.63695,
+  "longitude": 101.541,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Aslian",
+      "id": "asli1243",
+      "url": "https://glottolog.org/resource/languoid/id/asli1243"
+    },
+    {
+      "name": "Central-Northern Aslian",
+      "id": "cent1987",
+      "url": "https://glottolog.org/resource/languoid/id/cent1987"
+    },
+    {
+      "name": "North Aslian",
+      "id": "nort2682",
+      "url": "https://glottolog.org/resource/languoid/id/nort2682"
+    },
+    {
+      "name": "Maniq-Menraq-Batek",
+      "id": "mani1290",
+      "url": "https://glottolog.org/resource/languoid/id/mani1290"
+    },
+    {
+      "name": "Menraq-Batek",
+      "id": "menr1235",
+      "url": "https://glottolog.org/resource/languoid/id/menr1235"
+    }
+  ],
+  "iso639-3": "jhi"
+}

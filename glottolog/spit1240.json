@@ -1,0 +1,108 @@
+{
+  "pk": 18470,
+  "hid": "spt",
+  "father_pk": 16168,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Spiti Bhoti [spit1240][spt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5693",
+        "label": "Spiti Bhoti"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_spi",
+        "label": "Spitian"
+      },
+      {
+        "url": "https://phoible.org/languages/spit1240",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q22080879",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "472415",
+        "grammar_sketch",
+        1992,
+        96,
+        "D. D. Sharma 1992"
+      ],
+      [
+        "108985",
+        "phonology_or_text",
+        1979,
+        28,
+        "Sharma, Suhnu R. 1979"
+      ],
+      [
+        "149687",
+        "wordlist_or_less",
+        1844,
+        14,
+        "Cunnigham, Joseph Davey 1844"
+      ]
+    ]
+  },
+  "id": "spit1240",
+  "name": "Spiti Bhoti",
+  "description": null,
+  "markup_description": null,
+  "latitude": 32.526,
+  "longitude": 77.833,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "Bodish",
+      "id": "bodi1257",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1257"
+    },
+    {
+      "name": "Early Old Tibetan",
+      "id": "oldm1245",
+      "url": "https://glottolog.org/resource/languoid/id/oldm1245"
+    },
+    {
+      "name": "Middle Old Tibetan",
+      "id": "tibe1276",
+      "url": "https://glottolog.org/resource/languoid/id/tibe1276"
+    },
+    {
+      "name": "Late Old Tibetan",
+      "id": "late1253",
+      "url": "https://glottolog.org/resource/languoid/id/late1253"
+    },
+    {
+      "name": "Lahauli-Spiti",
+      "id": "laha1255",
+      "url": "https://glottolog.org/resource/languoid/id/laha1255"
+    },
+    {
+      "name": "Spiti-Jad",
+      "id": "spit1239",
+      "url": "https://glottolog.org/resource/languoid/id/spit1239"
+    }
+  ],
+  "iso639-3": "spt"
+}

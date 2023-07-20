@@ -1,0 +1,82 @@
+{
+  "pk": 3665,
+  "hid": "tmz",
+  "father_pk": 1997,
+  "family_pk": 56,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tamanaku [tama1338][tmz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3441435",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tamanaku_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "669295",
+        "phonology_or_text",
+        2011,
+        39,
+        "Zamponi, Raoul 2011"
+      ],
+      [
+        "309322",
+        "phonology_or_text",
+        1799,
+        8,
+        "Hervás y Panduro, Lorenzo 1971 [1799]"
+      ],
+      [
+        "13948",
+        "phonology_or_text",
+        1787,
+        3,
+        "Lorenzo Hervas 1787"
+      ],
+      [
+        "146197",
+        "wordlist_or_less",
+        1780,
+        15,
+        "Gilij, Filippo Salvadore 1780, 1781, 1782, 1784"
+      ]
+    ]
+  },
+  "id": "tama1338",
+  "name": "Tamanaku",
+  "description": null,
+  "markup_description": null,
+  "latitude": 2.765,
+  "longitude": -65.883,
+  "classification": [
+    {
+      "name": "Cariban",
+      "id": "cari1283",
+      "url": "https://glottolog.org/resource/languoid/id/cari1283"
+    },
+    {
+      "name": "Venezuelan Cariban",
+      "id": "vene1261",
+      "url": "https://glottolog.org/resource/languoid/id/vene1261"
+    },
+    {
+      "name": "Mapoyo-Tamanaku",
+      "id": "mapo1244",
+      "url": "https://glottolog.org/resource/languoid/id/mapo1244"
+    }
+  ],
+  "iso639-3": "tmz"
+}

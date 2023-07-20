@@ -1,0 +1,84 @@
+{
+  "pk": 6461,
+  "hid": "cip",
+  "father_pk": 4417,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Chiapanec [chia1262][cip]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4169",
+        "label": "Chiapanec"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3364475",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Chiapanec_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "575827",
+        "long_grammar",
+        2012,
+        591,
+        "Aguilar Panagos, Mario 2012"
+      ],
+      [
+        "52444",
+        "grammar_sketch",
+        1887,
+        125,
+        "Adam, Lucien 1887"
+      ],
+      [
+        "103983",
+        "wordlist_or_less",
+        1875,
+        0,
+        "na 1875"
+      ]
+    ]
+  },
+  "id": "chia1262",
+  "name": "Chiapanec",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.6562,
+  "longitude": -91.9417,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Western Otomanguean",
+      "id": "west2783",
+      "url": "https://glottolog.org/resource/languoid/id/west2783"
+    },
+    {
+      "name": "Tlapanec-Manguean",
+      "id": "tlap1252",
+      "url": "https://glottolog.org/resource/languoid/id/tlap1252"
+    },
+    {
+      "name": "Manguean",
+      "id": "mang1426",
+      "url": "https://glottolog.org/resource/languoid/id/mang1426"
+    }
+  ],
+  "iso639-3": "cip"
+}

@@ -1,0 +1,98 @@
+{
+  "pk": 7731,
+  "hid": "scb",
+  "father_pk": 5353,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('May [mayy1239]':1,'Ruc [rucc1239]':1,'Sach [sach1240]':1,'Salang [sala1283]':1)'Chut [chut1247][scb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1215",
+        "label": "Sach"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2967709",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Chut_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "589368",
+        "long_grammar",
+        2001,
+        303,
+        "V. M. Solntsev and N. V. Solntseva and Irina V. Samarina 2001"
+      ],
+      [
+        "476837",
+        "grammar_sketch",
+        1993,
+        165,
+        "Loi, Nguyen Van 1993"
+      ],
+      [
+        "309415",
+        "phonology_or_text",
+        1987,
+        0,
+        "Tràn Trí Dõi 1987"
+      ],
+      [
+        "310081",
+        "wordlist_or_less",
+        1907,
+        7,
+        "Chéon, A. 1907"
+      ],
+      [
+        "105854",
+        "wordlist_or_less",
+        1905,
+        5,
+        "M. L. Cadière 1905"
+      ]
+    ]
+  },
+  "id": "chut1247",
+  "name": "Chut",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.6819,
+  "longitude": 105.773,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Vietic",
+      "id": "viet1250",
+      "url": "https://glottolog.org/resource/languoid/id/viet1250"
+    },
+    {
+      "name": "Chutic",
+      "id": "chut1252",
+      "url": "https://glottolog.org/resource/languoid/id/chut1252"
+    },
+    {
+      "name": "East Chutic",
+      "id": "chut1246",
+      "url": "https://glottolog.org/resource/languoid/id/chut1246"
+    }
+  ],
+  "iso639-3": "scb"
+}

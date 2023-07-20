@@ -1,0 +1,64 @@
+{
+  "pk": 564,
+  "hid": "gmo",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Gamo-Gofa-Dawro [gamo1244][gmo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "gmo",
+      "name": "Gamo-Gofa-Dawro",
+      "change_request": "2008-080",
+      "effective": "2009-01-16",
+      "reason": "split",
+      "change_to": [
+        "gmv",
+        "gof",
+        "dwr"
+      ],
+      "remedy": "Split into three languages: Gamo [gmv], Gofa [gof], and Dawro [dwr]",
+      "comment": "Seven years ago, Dawro was already considered to be separate from Gamo and Gofa.\nAt that time, plans were made to begin a language development project in the\nDawro language. In 2001, according to the Education Bureau of the Southern\nNations, Nationalities and Peoples Regional State (SNNPR), both the Gamo-Gofa\nZone and the Dawro Zone were developing their own education materials.\nCurrently, Gamo and Gofa are also considered to be linguistically separate, each\nhaving their own language development project as of 2004.\n\nAll of the Central Ometo speech varieties are quite similar, but there are some\ndefinite divisions along ethnic lines. For example, Wolaytta is a Central Ometo\nspeech variety closely related to Gamo, Gofa and Dawro. However, these three\nhave such a strong separate identity that they are not able to have a common\nbody of literature with Wolaytta (this was established even before Dawro was\nsplit from the other two). The grouping of Gamo, Gofa and Dawro is now no longer\npossible due to political and identity reasons, and at least according to\nlexicostatistics there is no more cause for them to be grouped with each other\nthan there is for them to be grouped with Wolaytta. In one study, the lexical\nsimilarity between these three was less than or equal to their similarity with\nWolaytta (Girard 2002). See also the lexicostatistical data quoted in the\nEthnologue (Gordon 2005)."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Gamo-Gofa-Dawro_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56323",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500262",
+        "wordlist_or_less",
+        2008,
+        0,
+        "ISO 639-3 Registration Authority 2008"
+      ]
+    ]
+  },
+  "id": "gamo1244",
+  "name": "Gamo-Gofa-Dawro",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.57645,
+  "longitude": 37.1381,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "gmo"
+}

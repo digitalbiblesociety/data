@@ -1,0 +1,69 @@
+{
+  "pk": 1243,
+  "hid": "mnx",
+  "father_pk": 234,
+  "family_pk": 234,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Sougb [mani1235][mnx]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_sgb",
+        "label": "Sougb"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sougb_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3507964",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "34679",
+        "grammar_sketch",
+        2002,
+        96,
+        "Ger P. Reesink 2002"
+      ],
+      [
+        "86937",
+        "phonology_or_text",
+        2000,
+        25,
+        "Ger P. Reesink 2000"
+      ],
+      [
+        "322372",
+        "wordlist_or_less",
+        1904,
+        12,
+        "L.A. van Oosterzee 1904"
+      ]
+    ]
+  },
+  "id": "mani1235",
+  "name": "Sougb",
+  "description": null,
+  "markup_description": null,
+  "latitude": -1.49611,
+  "longitude": 133.95,
+  "classification": [
+    {
+      "name": "East Bird's Head",
+      "id": "east1459",
+      "url": "https://glottolog.org/resource/languoid/id/east1459"
+    }
+  ],
+  "iso639-3": "mnx"
+}

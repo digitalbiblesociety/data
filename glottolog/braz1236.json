@@ -1,0 +1,86 @@
+{
+  "pk": 4323,
+  "hid": "bzs",
+  "father_pk": 2525,
+  "family_pk": 206,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Sign Language",
+  "newick": "'Brazilian Sign Language [braz1236][bzs]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3436689",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Brazilian_Sign_Language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_lsb",
+        "label": "Língua de Sinais Brasileira"
+      }
+    ],
+    "meds": [
+      [
+        "555166",
+        "grammar_sketch",
+        2010,
+        273,
+        "Ferreira, Lucinda 2010"
+      ],
+      [
+        "571251",
+        "grammar_sketch",
+        1997,
+        27,
+        "Felipe, Tanya A. 1997"
+      ],
+      [
+        "470385",
+        "grammar_sketch",
+        1983,
+        0,
+        "Hoemann, H. W. 1983"
+      ],
+      [
+        "471804",
+        "phonology_or_text",
+        1969,
+        0,
+        "Eugênio Oates 1969"
+      ]
+    ]
+  },
+  "id": "braz1236",
+  "name": "Brazilian Sign Language",
+  "description": null,
+  "markup_description": null,
+  "latitude": -15.5,
+  "longitude": -48,
+  "classification": [
+    {
+      "name": "Sign Language",
+      "id": "sign1238",
+      "url": "https://glottolog.org/resource/languoid/id/sign1238"
+    },
+    {
+      "name": "Deaf Sign Language",
+      "id": "deaf1237",
+      "url": "https://glottolog.org/resource/languoid/id/deaf1237"
+    },
+    {
+      "name": "LSFic",
+      "id": "lsfi1234",
+      "url": "https://glottolog.org/resource/languoid/id/lsfi1234"
+    }
+  ],
+  "iso639-3": "bzs"
+}

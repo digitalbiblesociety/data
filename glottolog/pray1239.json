@@ -1,0 +1,62 @@
+{
+  "pk": 737,
+  "hid": "pry",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Pray 3 [pray1239][pry]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "pry",
+      "name": "Pray 3",
+      "change_request": "2015-045",
+      "effective": "2016-01-15",
+      "reason": "duplicate",
+      "change_to": [
+        "prt"
+      ],
+      "remedy": "duplicate of [prt] Prai",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3401474",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Phray_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "535670",
+        "wordlist_or_less",
+        2015,
+        0,
+        "ISO 639-3 Registration Authority 2015"
+      ]
+    ]
+  },
+  "id": "pray1239",
+  "name": "Pray 3",
+  "description": null,
+  "markup_description": null,
+  "latitude": 19.4306,
+  "longitude": 101.021,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "pry"
+}

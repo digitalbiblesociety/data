@@ -1,0 +1,122 @@
+{
+  "pk": 18344,
+  "hid": "inb",
+  "father_pk": 15891,
+  "family_pk": 321,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Aponte Inga [apon1238]':1,'Santiago Inga [sant1431]':1)'Aponte-Santiago Inga [apon1239]':1,('Guayuyaco [guay1256]':1,'San Andrés Inga [sana1282]':1,'Yunguillo-Condagua [yung1255]':1)'San Andrés-Lowland Inga [jung1240][inj]':1)'Colombian Inga [inga1252][inb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_iga",
+        "label": "Inga"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Inga_Kichwa",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/inga1252",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35491",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "7820",
+        "grammar",
+        1981,
+        214,
+        "Levinsohn, Stephen H. and Galeano L., Luis G. 1981"
+      ],
+      [
+        "145025",
+        "grammar",
+        1976,
+        168,
+        "Stephen H. Levinsohn 1976"
+      ],
+      [
+        "94768",
+        "grammar",
+        1934,
+        8,
+        "Tulcán, Ildefonso 1934"
+      ],
+      [
+        "28208",
+        "wordlist_or_less",
+        1905,
+        19,
+        "Joaquin Rocha 1905"
+      ],
+      [
+        "47515",
+        "wordlist_or_less",
+        1891,
+        2,
+        "Adolf Ernst 1891"
+      ]
+    ]
+  },
+  "id": "inga1252",
+  "name": "Colombian Inga",
+  "description": null,
+  "markup_description": null,
+  "latitude": 1.00313,
+  "longitude": -76.8606,
+  "classification": [
+    {
+      "name": "Quechuan",
+      "id": "quec1387",
+      "url": "https://glottolog.org/resource/languoid/id/quec1387"
+    },
+    {
+      "name": "Quechua II",
+      "id": "quec1388",
+      "url": "https://glottolog.org/resource/languoid/id/quec1388"
+    },
+    {
+      "name": "Chinchay",
+      "id": "chin1494",
+      "url": "https://glottolog.org/resource/languoid/id/chin1494"
+    },
+    {
+      "name": "Quechua IIC",
+      "id": "quec1389",
+      "url": "https://glottolog.org/resource/languoid/id/quec1389"
+    },
+    {
+      "name": "Colombia-Ecuador Quechua",
+      "id": "colo1257",
+      "url": "https://glottolog.org/resource/languoid/id/colo1257"
+    },
+    {
+      "name": "Ecuadorian Quechua B",
+      "id": "ecua1249",
+      "url": "https://glottolog.org/resource/languoid/id/ecua1249"
+    },
+    {
+      "name": "Imbabura-Colombia-Oriente Quechua",
+      "id": "imba1241",
+      "url": "https://glottolog.org/resource/languoid/id/imba1241"
+    },
+    {
+      "name": "Colombia-Oriente Quechua",
+      "id": "colo1258",
+      "url": "https://glottolog.org/resource/languoid/id/colo1258"
+    }
+  ],
+  "iso639-3": "inb"
+}

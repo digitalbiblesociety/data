@@ -1,0 +1,94 @@
+{
+  "pk": 11679,
+  "hid": "otw",
+  "father_pk": 8809,
+  "family_pk": 178,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ottawa [otta1242][otw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4938",
+        "label": "Ottawa"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q133678",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ottawa_dialect",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "61454",
+        "grammar_sketch",
+        1956,
+        141,
+        "Bloomfield, Leonard 1956"
+      ],
+      [
+        "95975",
+        "grammar_sketch",
+        1887,
+        128,
+        "Andrew J. Blackbird 1887"
+      ],
+      [
+        "575154",
+        "wordlist_or_less",
+        1871,
+        21,
+        "Morgan, L. H. 1871"
+      ]
+    ]
+  },
+  "id": "otta1242",
+  "name": "Ottawa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 44.5988,
+  "longitude": -83.226,
+  "classification": [
+    {
+      "name": "Algic",
+      "id": "algi1248",
+      "url": "https://glottolog.org/resource/languoid/id/algi1248"
+    },
+    {
+      "name": "Algonquian-Blackfoot",
+      "id": "algo1256",
+      "url": "https://glottolog.org/resource/languoid/id/algo1256"
+    },
+    {
+      "name": "Algonquian",
+      "id": "algo1257",
+      "url": "https://glottolog.org/resource/languoid/id/algo1257"
+    },
+    {
+      "name": "Eastern Great Lakes Algonquian",
+      "id": "east2765",
+      "url": "https://glottolog.org/resource/languoid/id/east2765"
+    },
+    {
+      "name": "Ojibwa-Potawatomi",
+      "id": "ojib1240",
+      "url": "https://glottolog.org/resource/languoid/id/ojib1240"
+    },
+    {
+      "name": "Ojibwa",
+      "id": "ojib1241",
+      "url": "https://glottolog.org/resource/languoid/id/ojib1241"
+    }
+  ],
+  "iso639-3": "otw"
+}

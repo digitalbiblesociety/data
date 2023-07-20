@@ -1,0 +1,78 @@
+{
+  "pk": 3424,
+  "hid": "klb",
+  "father_pk": 1834,
+  "family_pk": 403,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kiliwa [kili1268][klb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2293",
+        "label": "Kiliwa"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3182593",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kiliwa_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_klw",
+        "label": "Kiliwa"
+      }
+    ],
+    "meds": [
+      [
+        "77641",
+        "grammar",
+        1971,
+        279,
+        "Mauricio J. Mixco 1971"
+      ],
+      [
+        "414042",
+        "wordlist_or_less",
+        1964,
+        5,
+        "Carlos Robles Uribe 1964"
+      ],
+      [
+        "477058",
+        "wordlist_or_less",
+        1939,
+        113,
+        "Meigs, III, Peveril 1939"
+      ]
+    ]
+  },
+  "id": "kili1268",
+  "name": "Kiliwa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 30.5471,
+  "longitude": -115.123,
+  "classification": [
+    {
+      "name": "Cochimi-Yuman",
+      "id": "coch1271",
+      "url": "https://glottolog.org/resource/languoid/id/coch1271"
+    },
+    {
+      "name": "Yuman",
+      "id": "yuma1250",
+      "url": "https://glottolog.org/resource/languoid/id/yuma1250"
+    }
+  ],
+  "iso639-3": "klb"
+}

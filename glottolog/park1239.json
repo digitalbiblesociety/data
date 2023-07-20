@@ -1,0 +1,117 @@
+{
+  "pk": 14351,
+  "hid": "pbi",
+  "father_pk": 11269,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Parkwa [park1239][pbi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_pod",
+        "label": "Podoko"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Parkwa_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/park1239",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3515096",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "39417",
+        "grammar_sketch",
+        1989,
+        89,
+        "Jarvis, Elizabeth 1989"
+      ],
+      [
+        "18592",
+        "grammar_sketch",
+        1981,
+        30,
+        "Swackhamer, Jeanette and Jarvis, Elizabeth 1981"
+      ],
+      [
+        "45253",
+        "grammar_sketch",
+        1972,
+        8,
+        "Waard, J. de 1972"
+      ],
+      [
+        "104625",
+        "wordlist_or_less",
+        1950,
+        5,
+        "Mouchet, Jean 1950"
+      ],
+      [
+        "102268",
+        "wordlist_or_less",
+        1937,
+        2,
+        "Lukas, Johannes 1937"
+      ]
+    ]
+  },
+  "id": "park1239",
+  "name": "Parkwa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.0206,
+  "longitude": 14.0964,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "Biu-Mandara",
+      "id": "bium1280",
+      "url": "https://glottolog.org/resource/languoid/id/bium1280"
+    },
+    {
+      "name": "North Biu-Mandara",
+      "id": "nort3156",
+      "url": "https://glottolog.org/resource/languoid/id/nort3156"
+    },
+    {
+      "name": "Margi-Mandara-Mofu",
+      "id": "marg1267",
+      "url": "https://glottolog.org/resource/languoid/id/marg1267"
+    },
+    {
+      "name": "Mandaraic",
+      "id": "mand1472",
+      "url": "https://glottolog.org/resource/languoid/id/mand1472"
+    },
+    {
+      "name": "Podoko",
+      "id": "podo1243",
+      "url": "https://glottolog.org/resource/languoid/id/podo1243"
+    }
+  ],
+  "iso639-3": "pbi"
+}

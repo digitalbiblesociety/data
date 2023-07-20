@@ -1,0 +1,58 @@
+{
+  "pk": 526,
+  "hid": "rae",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Ranau {Retired} [rana1249][rae]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "rae",
+      "name": "Ranau",
+      "change_request": "2007-142",
+      "effective": "2008-01-14",
+      "reason": "merge",
+      "change_to": [
+        "ljp"
+      ],
+      "remedy": "Merge into Lampung Api [ljp]",
+      "comment": "There are various lects belonging to the closely-related Lampung(ic) language\nfamily scattered throughout the Sumatran provinces of Lampung and South Sumatra.\nThe term \"Lampung\" applies to the whole family (or the province); however the\nlanguage family (formerly consisting of 9 Ethnologue entries) is best conceived\nas consisting of three closely-related languages: Lampung Api, Lampung Nyo and\nKomering (see Hanawalt et al. forthcoming for more details). This proposal gives\ndetails regarding the proposed language \"Lampung Api\". \"Api\" is a modifier of\n\"Lampung\" and refers to this language's distinctive term for 'what?' (as does\n\"Nyo\").\n\nWalker (1975) was a lexicostatistical comparison of various Lampungic lects. In\nthe conclusion he delineated a number of dialects, including \"Krui\", \"Pubian\",\n\"Southern Pesisir\", \"Ranau\" (subsumed under Krui), and \"Sungkai\" (subsumed under\nPubian). He nowhere stated that these were distinct languages. Hanawalt\n(forthcoming) and Anderbeck (forthcoming) validate the earlier lexicostatistic\ndivision of Lampungic and demonstrate how the various subgroups of Lampung Api\n(recognized by Walker 1975 as \"Lampung Pesisir\") cohere lexically,\nphonologically and in terms of intelligibility and should not be considered\ndistinct languages."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12953052",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500597",
+        "wordlist_or_less",
+        2007,
+        0,
+        "ISO 639-3 Registration Authority 2007"
+      ]
+    ]
+  },
+  "id": "rana1249",
+  "name": "Ranau (Retired)",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "rae"
+}

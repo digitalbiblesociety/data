@@ -1,0 +1,127 @@
+{
+  "pk": 18779,
+  "hid": "ttt",
+  "father_pk": 16527,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Balakhani [bala1297]':1,'Surakhani [sura1244]':1)'Absheron [absh1238]':1,'Mədrəsə [arme1260]':1,('Derbent Muslim Tat [derb1247]':1,'Kilvar Muslim Tat [qyzy1242]':1,'Qonaqkənd [qona1238]':1,'Quba Muslim Tat [quba1239]':1,'Zərnava [zrna1234]':1,'Ərüsküş-Dağ Quşçu [arus1241]':1)'Northern Muslim Tat [nort2643]':1,'Xızı [xzzz1234]':1,('Babadağ [baba1275]':1,'Lahıc [lahy1238]':1,'Peripheral Şirvan Muslim Tat [malh1241]':1,'Trans-Niyaldağ [tran1300]':1)'Şirvan Muslim Tat [sirv1235]':1)'Muslim Tat [musl1236][ttt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 17,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3041",
+        "label": "Muslim Tat"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tmu",
+        "label": "Tat (Muslim)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tat_language_(Caucasus)",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56489",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "668099",
+        "long_grammar",
+        2020,
+        400,
+        "Suleymanov, Murad 2020"
+      ],
+      [
+        "574611",
+        "long_grammar",
+        2017,
+        367,
+        "Nayiba Mammadova 2017"
+      ],
+      [
+        "30229",
+        "grammar",
+        1963,
+        213,
+        "Aleksandr L. Grjunberg 1963"
+      ],
+      [
+        "306618",
+        "grammar_sketch",
+        1907,
+        66,
+        "Vsevolod Fedorovič Miller 1907"
+      ],
+      [
+        "568947",
+        "phonology_or_text",
+        1894,
+        8,
+        "Berezin, Ilya N. 1894"
+      ]
+    ]
+  },
+  "id": "musl1236",
+  "name": "Muslim Tat",
+  "description": null,
+  "markup_description": null,
+  "latitude": 41.425062,
+  "longitude": 46.645589,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Iranian",
+      "id": "iran1269",
+      "url": "https://glottolog.org/resource/languoid/id/iran1269"
+    },
+    {
+      "name": "Southwestern Iranian",
+      "id": "sout3157",
+      "url": "https://glottolog.org/resource/languoid/id/sout3157"
+    },
+    {
+      "name": "Middle-Modern Persian",
+      "id": "midd1352",
+      "url": "https://glottolog.org/resource/languoid/id/midd1352"
+    },
+    {
+      "name": "Modern Southwestern Iranian",
+      "id": "mode1259",
+      "url": "https://glottolog.org/resource/languoid/id/mode1259"
+    },
+    {
+      "name": "Farsic-Caucasian Tat",
+      "id": "fars1254",
+      "url": "https://glottolog.org/resource/languoid/id/fars1254"
+    },
+    {
+      "name": "Caucasian Tat",
+      "id": "cauc1242",
+      "url": "https://glottolog.org/resource/languoid/id/cauc1242"
+    }
+  ],
+  "iso639-3": "ttt"
+}

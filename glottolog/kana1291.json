@@ -1,0 +1,87 @@
+{
+  "pk": 1358,
+  "hid": "knm",
+  "father_pk": 271,
+  "family_pk": 271,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kanamarí do Juruá-Japurá-Xeruã-Itaquaí-Jutaí [cuti1242]':1,'Katukína do Biá-Ipixuna [katu1276]':1,'Tshom-Djapa [tsho1239]':1)'Katukína-Kanamarí [kana1291][knm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1458",
+        "label": "Dyapá"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3438373",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kanamar%C3%AD_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_cnm",
+        "label": "Canamarí"
+      }
+    ],
+    "meds": [
+      [
+        "9415",
+        "long_grammar",
+        2011,
+        448,
+        "dos Anjos, Zoraide 2011"
+      ],
+      [
+        "92398",
+        "grammar",
+        1985,
+        0,
+        "Groth, Christa 1985"
+      ],
+      [
+        "9856",
+        "phonology_or_text",
+        1973,
+        11,
+        "Wiebe, B. 1973"
+      ],
+      [
+        "34092",
+        "wordlist_or_less",
+        1955,
+        21,
+        "Carvalho, José Cândido de Melo 1955"
+      ],
+      [
+        "79048",
+        "wordlist_or_less",
+        1867,
+        3,
+        "von Martius, Carl Friedrich Philip 1867"
+      ]
+    ]
+  },
+  "id": "kana1291",
+  "name": "Katukína-Kanamarí",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.45399,
+  "longitude": -68.7678,
+  "classification": [
+    {
+      "name": "Katukinan",
+      "id": "katu1274",
+      "url": "https://glottolog.org/resource/languoid/id/katu1274"
+    }
+  ],
+  "iso639-3": "knm"
+}

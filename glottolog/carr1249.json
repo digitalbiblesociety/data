@@ -1,0 +1,94 @@
+{
+  "pk": 11704,
+  "hid": "crx",
+  "father_pk": 8894,
+  "family_pk": 238,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Nak''azdli [naka1267]':1,'Tl''azt''en [tlaz1236]':1,'Yekooche [yeko1241]':1)'Central Carrier [carr1249][crx]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_crq",
+        "label": "Carrier"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Carrier_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q20614",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "74255",
+        "long_grammar",
+        1932,
+        460,
+        "Morice, Adrien Gabriel 1932"
+      ],
+      [
+        "575162",
+        "grammar_sketch",
+        1893,
+        56,
+        "Morice, A. G. 1893"
+      ],
+      [
+        "167153",
+        "wordlist_or_less",
+        1851,
+        0,
+        "Turner, William W 1851"
+      ]
+    ]
+  },
+  "id": "carr1249",
+  "name": "Central Carrier",
+  "description": null,
+  "markup_description": null,
+  "latitude": 54.3768,
+  "longitude": -124.328,
+  "classification": [
+    {
+      "name": "Athabaskan-Eyak-Tlingit",
+      "id": "atha1245",
+      "url": "https://glottolog.org/resource/languoid/id/atha1245"
+    },
+    {
+      "name": "Athabaskan-Eyak",
+      "id": "atha1246",
+      "url": "https://glottolog.org/resource/languoid/id/atha1246"
+    },
+    {
+      "name": "Athabaskan",
+      "id": "atha1247",
+      "url": "https://glottolog.org/resource/languoid/id/atha1247"
+    },
+    {
+      "name": "Central British Columbia Athabaskan",
+      "id": "cent2370",
+      "url": "https://glottolog.org/resource/languoid/id/cent2370"
+    },
+    {
+      "name": "Carrieric",
+      "id": "carr1250",
+      "url": "https://glottolog.org/resource/languoid/id/carr1250"
+    },
+    {
+      "name": "Dakelh",
+      "id": "carr1248",
+      "url": "https://glottolog.org/resource/languoid/id/carr1248"
+    }
+  ],
+  "iso639-3": "crx"
+}

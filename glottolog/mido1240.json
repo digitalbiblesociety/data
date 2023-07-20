@@ -1,0 +1,88 @@
+{
+  "pk": 2872,
+  "hid": "mei",
+  "father_pk": 1364,
+  "family_pk": 274,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kaageddi [kaag1238]':1,'Shelkota [shel1243]':1,'Urrti [urrt1238]':1)'Midob [mido1240][mei]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q36007",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Midob_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mid",
+        "label": "Midob"
+      }
+    ],
+    "meds": [
+      [
+        "162636",
+        "grammar",
+        1993,
+        169,
+        "Werner, Roland 1993"
+      ],
+      [
+        "131411",
+        "grammar_sketch",
+        1983,
+        17,
+        "Thelwall, Robin 1983"
+      ],
+      [
+        "8032",
+        "wordlist_or_less",
+        1928,
+        17,
+        "Zyhlarz, Ernst 1928"
+      ],
+      [
+        "113192",
+        "wordlist_or_less",
+        1918,
+        10,
+        "MacMichael, H. A. 1918"
+      ],
+      [
+        "36206",
+        "wordlist_or_less",
+        1912,
+        4,
+        "Diedrich Westermann 1912-1913"
+      ]
+    ]
+  },
+  "id": "mido1240",
+  "name": "Midob",
+  "description": null,
+  "markup_description": null,
+  "latitude": 14.789,
+  "longitude": 27.2236,
+  "classification": [
+    {
+      "name": "Nubian",
+      "id": "nubi1251",
+      "url": "https://glottolog.org/resource/languoid/id/nubi1251"
+    },
+    {
+      "name": "West-Central Nubian",
+      "id": "west2781",
+      "url": "https://glottolog.org/resource/languoid/id/west2781"
+    }
+  ],
+  "iso639-3": "mei"
+}

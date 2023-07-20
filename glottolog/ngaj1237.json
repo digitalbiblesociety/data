@@ -1,0 +1,100 @@
+{
+  "pk": 9542,
+  "hid": "nij",
+  "father_pk": 6898,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ba''amang [baam1237]':1,'Mantangai [mant1270]':1,'Pulopetak [pulo1241]':1)'Ngaju [ngaj1237][nij]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_olm",
+        "label": "Oloh Mangtangai"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_plp",
+        "label": "Pulopetak"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ngaju_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2992872",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "310154",
+        "grammar_sketch",
+        1986,
+        160,
+        "Ngabut, C. Yus and Elbar, Lambertus and Mihing, Teras 1986"
+      ],
+      [
+        "325105",
+        "grammar_sketch",
+        1984,
+        123,
+        "Abdul Djebar Hapip 1984"
+      ],
+      [
+        "32334",
+        "grammar_sketch",
+        1852,
+        48,
+        "von der Gabelentz, Hans C. 1852"
+      ],
+      [
+        "326401",
+        "wordlist_or_less",
+        1850,
+        14,
+        "van Kessel, O. 1850"
+      ]
+    ]
+  },
+  "id": "ngaj1237",
+  "name": "Ngaju",
+  "description": null,
+  "markup_description": null,
+  "latitude": -1.58463,
+  "longitude": 112.794,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Basap-Greater Barito",
+      "id": "basa1291",
+      "url": "https://glottolog.org/resource/languoid/id/basa1291"
+    },
+    {
+      "name": "Greater Barito linkage",
+      "id": "grea1283",
+      "url": "https://glottolog.org/resource/languoid/id/grea1283"
+    },
+    {
+      "name": "South West Greater Barito",
+      "id": "sout2921",
+      "url": "https://glottolog.org/resource/languoid/id/sout2921"
+    }
+  ],
+  "iso639-3": "nij"
+}

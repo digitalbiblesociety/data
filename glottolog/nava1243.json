@@ -1,0 +1,116 @@
+{
+  "pk": 11699,
+  "hid": "nav",
+  "father_pk": 8892,
+  "family_pk": 238,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Navajo [nava1243][nav]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6085",
+        "label": "Diné Bizaad (Navajo)"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nav",
+        "label": "Navajo"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Navajo_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nava1243",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q13310",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "45851",
+        "long_grammar",
+        1987,
+        1084,
+        "Young, Robert W. 1987"
+      ],
+      [
+        "128045",
+        "long_grammar",
+        1941,
+        904,
+        "Haile, Berard 1941, 1947"
+      ],
+      [
+        "54885",
+        "long_grammar",
+        1926,
+        338,
+        "Berard Haile 1926"
+      ],
+      [
+        "572873",
+        "phonology_or_text",
+        1910,
+        0,
+        "Franciscan Fathers. I-4. 1910"
+      ],
+      [
+        "167172",
+        "wordlist_or_less",
+        1860,
+        0,
+        "Buschmann, H. C. Chr 1860"
+      ]
+    ]
+  },
+  "id": "nava1243",
+  "name": "Navajo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 36.33,
+  "longitude": -109.38,
+  "classification": [
+    {
+      "name": "Athabaskan-Eyak-Tlingit",
+      "id": "atha1245",
+      "url": "https://glottolog.org/resource/languoid/id/atha1245"
+    },
+    {
+      "name": "Athabaskan-Eyak",
+      "id": "atha1246",
+      "url": "https://glottolog.org/resource/languoid/id/atha1246"
+    },
+    {
+      "name": "Athabaskan",
+      "id": "atha1247",
+      "url": "https://glottolog.org/resource/languoid/id/atha1247"
+    },
+    {
+      "name": "Apachean",
+      "id": "apac1239",
+      "url": "https://glottolog.org/resource/languoid/id/apac1239"
+    },
+    {
+      "name": "Southwestern Apachean",
+      "id": "sout3151",
+      "url": "https://glottolog.org/resource/languoid/id/sout3151"
+    },
+    {
+      "name": "Western Southwestern Apachean",
+      "id": "west2810",
+      "url": "https://glottolog.org/resource/languoid/id/west2810"
+    }
+  ],
+  "iso639-3": "nav"
+}

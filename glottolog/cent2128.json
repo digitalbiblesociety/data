@@ -1,0 +1,112 @@
+{
+  "pk": 4183,
+  "hid": "ess",
+  "father_pk": 2400,
+  "family_pk": 172,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Central Siberian Yupik [cent2128][ess]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1683",
+        "label": "Central Siberian Yupik"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_yus",
+        "label": "Yupik (Siberian)"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ysl",
+        "label": "Yupik (St. Lawrence Island)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Central_Siberian_Yupik_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/cent2128",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q27993",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "135133",
+        "long_grammar",
+        1988,
+        741,
+        "De Reuse, Willem Joseph 1988"
+      ],
+      [
+        "13271",
+        "grammar",
+        1976,
+        62,
+        "na 1976"
+      ],
+      [
+        "100668",
+        "grammar_sketch",
+        1934,
+        24,
+        "V. G. Bogoraz 1934"
+      ],
+      [
+        "167215",
+        "wordlist_or_less",
+        1902,
+        0,
+        "Cantwell, John C 1902"
+      ],
+      [
+        "300281",
+        "wordlist_or_less",
+        1900,
+        375,
+        "Edward William Nelson 1900"
+      ],
+      [
+        "165000",
+        "wordlist_or_less",
+        1850,
+        0,
+        "na 1850"
+      ]
+    ]
+  },
+  "id": "cent2128",
+  "name": "Central Siberian Yupik",
+  "description": null,
+  "markup_description": null,
+  "latitude": 63.4308,
+  "longitude": -170.272,
+  "classification": [
+    {
+      "name": "Eskimo-Aleut",
+      "id": "eski1264",
+      "url": "https://glottolog.org/resource/languoid/id/eski1264"
+    },
+    {
+      "name": "Eskimo",
+      "id": "eski1265",
+      "url": "https://glottolog.org/resource/languoid/id/eski1265"
+    },
+    {
+      "name": "Yupik",
+      "id": "yupi1267",
+      "url": "https://glottolog.org/resource/languoid/id/yupi1267"
+    }
+  ],
+  "iso639-3": "ess"
+}

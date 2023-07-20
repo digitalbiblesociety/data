@@ -1,0 +1,95 @@
+{
+  "pk": 1372,
+  "hid": "niv",
+  "father_pk": 277,
+  "family_pk": 277,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Amur-West Sakhalin Nivkh [amur1242]':1,'North Sakhalin Nivkh [nort2750]':1)'Amur Nivkh [gily1242][niv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/8556",
+        "label": "Amur Nivkh"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_niv",
+        "label": "Nivkh"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nvs",
+        "label": "Nivkh (South Sakhalin)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nivkh_languages",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/gily1242",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36464",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "95326",
+        "long_grammar",
+        1962,
+        532,
+        "Panfilov, Vladimir Zinov'evic 1962, 1965"
+      ],
+      [
+        "24377",
+        "grammar_sketch",
+        1900,
+        49,
+        "Shternberg, Lev 1900"
+      ],
+      [
+        "572060",
+        "grammar_sketch",
+        1892,
+        38,
+        "Wilhelm Grube 1892"
+      ],
+      [
+        "577076",
+        "wordlist_or_less",
+        1882,
+        67,
+        "Seeland, N. 1882"
+      ],
+      [
+        "577015",
+        "wordlist_or_less",
+        1881,
+        0,
+        "Schrenck, L. von 1881"
+      ]
+    ]
+  },
+  "id": "gily1242",
+  "name": "Amur Nivkh",
+  "description": null,
+  "markup_description": null,
+  "latitude": 52.59,
+  "longitude": 140.681,
+  "classification": [
+    {
+      "name": "Nivkh",
+      "id": "nivk1234",
+      "url": "https://glottolog.org/resource/languoid/id/nivk1234"
+    }
+  ],
+  "iso639-3": "niv"
+}

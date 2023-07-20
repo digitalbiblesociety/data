@@ -1,0 +1,94 @@
+{
+  "pk": 5186,
+  "hid": "lzz",
+  "father_pk": 3359,
+  "family_pk": 378,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Chxala [chxa1238]':1,'Xopa [xopa1238]':1)'Eastern Laz [sena1260]':1,'Vice-Arxava [vice1240]':1,('Atina-Pazar [atin1240]':1,'Samurzakan-Zugdidi [samu1241]':1)'Western Laz [west2932]':1)'Laz [lazz1240][lzz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2246",
+        "label": "Laz"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_laz",
+        "label": "Laz"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Laz_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/lazz1240",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q1160372",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "89893",
+        "long_grammar",
+        2009,
+        462,
+        "René Lacroix 2009"
+      ],
+      [
+        "307751",
+        "long_grammar",
+        2003,
+        438,
+        "Kojima, Gôichi and Ismail Avcı Bucakliši 2003"
+      ],
+      [
+        "94642",
+        "grammar",
+        1963,
+        133,
+        "Anderson, Ralph Dewitt 1963"
+      ],
+      [
+        "476977",
+        "grammar_sketch",
+        1910,
+        90,
+        "N. Marr 1910"
+      ]
+    ]
+  },
+  "id": "lazz1240",
+  "name": "Laz",
+  "description": null,
+  "markup_description": null,
+  "latitude": 41.5004,
+  "longitude": 41.9096,
+  "classification": [
+    {
+      "name": "Kartvelian",
+      "id": "kart1248",
+      "url": "https://glottolog.org/resource/languoid/id/kart1248"
+    },
+    {
+      "name": "Georgian-Zan",
+      "id": "geor1252",
+      "url": "https://glottolog.org/resource/languoid/id/geor1252"
+    },
+    {
+      "name": "Zan",
+      "id": "zann1245",
+      "url": "https://glottolog.org/resource/languoid/id/zann1245"
+    }
+  ],
+  "iso639-3": "lzz"
+}

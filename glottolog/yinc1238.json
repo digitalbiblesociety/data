@@ -1,0 +1,74 @@
+{
+  "pk": 10623,
+  "hid": "yin",
+  "father_pk": 7725,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Yinchia [yinc1238][yin]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12953981",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "138781",
+        "grammar_sketch",
+        2010,
+        197,
+        "Hla Myat Thway 2010"
+      ],
+      [
+        "60700",
+        "grammar_sketch",
+        2008,
+        197,
+        "Hla Myat Thway 2008"
+      ]
+    ]
+  },
+  "id": "yinc1238",
+  "name": "Yinchia",
+  "description": null,
+  "markup_description": null,
+  "latitude": 20.0833,
+  "longitude": 97.9166,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Khasi-Palaung",
+      "id": "khas1273",
+      "url": "https://glottolog.org/resource/languoid/id/khas1273"
+    },
+    {
+      "name": "Palaungic",
+      "id": "pala1352",
+      "url": "https://glottolog.org/resource/languoid/id/pala1352"
+    },
+    {
+      "name": "West Palaungic",
+      "id": "west2791",
+      "url": "https://glottolog.org/resource/languoid/id/west2791"
+    },
+    {
+      "name": "Riang",
+      "id": "rian1260",
+      "url": "https://glottolog.org/resource/languoid/id/rian1260"
+    }
+  ],
+  "iso639-3": "yin"
+}

@@ -1,0 +1,101 @@
+{
+  "pk": 5116,
+  "hid": "bcj",
+  "father_pk": 3303,
+  "family_pk": 354,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Jawi [jawi1238]':1,'Nuclear Bardi [nucl1338]':1)'Bardi [bard1255][bcj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3892",
+        "label": "Bardi"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_brd",
+        "label": "Bardi"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bardi_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/bard1255",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3913852",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "302317",
+        "long_grammar",
+        2012,
+        868,
+        "Claire Bowern 2012"
+      ],
+      [
+        "131114",
+        "long_grammar",
+        2004,
+        410,
+        "Claire Bowern 2004"
+      ],
+      [
+        "54719",
+        "grammar",
+        1975,
+        226,
+        "Christopher D. Metcalfe 1975"
+      ],
+      [
+        "6235",
+        "grammar",
+        1915,
+        28,
+        "Bird, W. H. 1915"
+      ],
+      [
+        "136175",
+        "wordlist_or_less",
+        1910,
+        3,
+        "W. H. Bird 1910"
+      ]
+    ]
+  },
+  "id": "bard1255",
+  "name": "Bardi",
+  "description": null,
+  "markup_description": null,
+  "latitude": -16.6274,
+  "longitude": 122.906,
+  "classification": [
+    {
+      "name": "Nyulnyulan",
+      "id": "nyul1248",
+      "url": "https://glottolog.org/resource/languoid/id/nyul1248"
+    },
+    {
+      "name": "Western Nyulnyulan",
+      "id": "west2872",
+      "url": "https://glottolog.org/resource/languoid/id/west2872"
+    },
+    {
+      "name": "Bardic",
+      "id": "bard1254",
+      "url": "https://glottolog.org/resource/languoid/id/bard1254"
+    }
+  ],
+  "iso639-3": "bcj"
+}

@@ -1,0 +1,91 @@
+{
+  "pk": 3608,
+  "hid": "gyd",
+  "father_pk": 1930,
+  "family_pk": 31,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kayardild [kaya1319][gyd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1132",
+        "label": "Kayardild"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/g35",
+        "label": "Kayardild"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kayardild_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kaya1319",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kay",
+        "label": "Kayardild"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3913770",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "302547",
+        "long_grammar",
+        1995,
+        861,
+        "Nicholas D. Evans 1995"
+      ],
+      [
+        "47594",
+        "long_grammar",
+        1985,
+        600,
+        "Nicholas Evans 1985"
+      ],
+      [
+        "577946",
+        "wordlist_or_less",
+        1962,
+        40,
+        "Tindale, N. B. 1962"
+      ]
+    ]
+  },
+  "id": "kaya1319",
+  "name": "Kayardild",
+  "description": null,
+  "markup_description": null,
+  "latitude": -17.0695,
+  "longitude": 139.489,
+  "classification": [
+    {
+      "name": "Tangkic",
+      "id": "tang1340",
+      "url": "https://glottolog.org/resource/languoid/id/tang1340"
+    },
+    {
+      "name": "Southern Tangkic",
+      "id": "sout2758",
+      "url": "https://glottolog.org/resource/languoid/id/sout2758"
+    },
+    {
+      "name": "Kayardild-Yangkaal",
+      "id": "kaya1318",
+      "url": "https://glottolog.org/resource/languoid/id/kaya1318"
+    }
+  ],
+  "iso639-3": "gyd"
+}

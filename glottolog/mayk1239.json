@@ -1,0 +1,98 @@
+{
+  "pk": 5968,
+  "hid": "mnt",
+  "father_pk": 3992,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Mayi-Kulan [mayi1236][xyk]':1,'Mayi-Thakurti [mayi1234][xyt]':1,'Mayi-Yapi [mayi1235][xyj]':1,'Wunumara [wunu1234][wnn]':1)'Maykulan [mayk1239][mnt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "mnt",
+      "name": "Maykulan",
+      "change_request": "2012-007",
+      "effective": "2013-01-23",
+      "reason": "split",
+      "change_to": [
+        "xyk",
+        "xyt",
+        "xyj",
+        "wnn"
+      ],
+      "remedy": "Split into Mayi-Kulan [xyk], Mayi-Thakurti [xyt], Mayi-Yapi [xyj], and Wunumara [wnn]",
+      "comment": "It is our proposal that the entry currently listed as \"Maykulan\" (mnt) in\nEthnologue 16 has a series of \"alternate names\" which actually represent a\ncollection of languages under a Mayi group (currently Mayabic). These\nlanguages--Mayi-Kulan, Mayi-Thakurti, Mayi-Yapi, and Wunumara--will join the\nlevel of the existing Mayaguduna (xmy) and Ngawun (nxn).\n\nThere are multiple publications discussing the above-mentioned varieties as\nlanguages.\n\nPollock (2011) and Hinton & Hale (2004) clearly denote the Mayi-Yapi people as a\nseparate people from their neighbors. Hinton & Hale illustrate this with a map\nof the region, a dotted line labeled \"ethnographic boundary\" dividing the\nMayi-Yapi from the Mayi-Kutuna (2004: 21). Pollock lists various river\ncatchments and local peoples, for example the Flinders River Catchment has\nlisted under Indigenous peoples groups: Mayi-Yapi, Mayi- Kulan, Mayi-Thakurti,\nwhile other catchments have not all of these listed.\n\nBlair (2001) cites several examples from the languages, for example\n\"jerry-jerry, the annual herb Ammannia multiflora of Queensland, is from\nMayi-Yapi and Mayi-Kulan, spoken around the Cloncurry Riverand the Norman River,\nnorth Queensland\" (141-2).\n\nAlpher (1991) in section 8.2 \"Languages cited for etymological information\" uses\nMayi- Kulan and Mayi-Yapi languages as references.\n\nATSIDA has a database of language groups and peoples, listing the Mayi-Kulan,\nMayi- Thakurti, Mayi-Yapi, and Wunumara peoples as separate entries. AusAnthrop\nalso has separate entires for the peoples, under the names Maijabi, Mayi-Kulan,\nMayi-Thakurti Wanamara.\n\nI cannot neglect to mention perhaps the best publication concerning these\nlanguages, Breen's \"The Mayi Languages of the Queensland Gulf Country\" which\nprovides, among other evidence, a 656 \"concept list\" with translations in all\nthe Mayi languages illustrating the similarities and differences (e.g. 5). The\nbook also provides an overview of cultural differences between the different\npeoples and notes several phonological differences between the languages (e.g.\n29)."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/g25",
+        "label": "Mayi-Kulan"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_myy",
+        "label": "Mayi-Yapi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3915696",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "64840",
+        "grammar_sketch",
+        1981,
+        14,
+        "Gavan Breen 1981"
+      ],
+      [
+        "120726",
+        "wordlist_or_less",
+        1886,
+        10,
+        "Palmer, Edward 1886"
+      ],
+      [
+        "6773",
+        "wordlist_or_less",
+        1883,
+        11,
+        "Palmer, Edward 1883"
+      ]
+    ]
+  },
+  "id": "mayk1239",
+  "name": "Maykulan",
+  "description": null,
+  "markup_description": null,
+  "latitude": -20.4352,
+  "longitude": 140.481,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Paman",
+      "id": "pama1251",
+      "url": "https://glottolog.org/resource/languoid/id/pama1251"
+    },
+    {
+      "name": "Mayabic",
+      "id": "maya1279",
+      "url": "https://glottolog.org/resource/languoid/id/maya1279"
+    },
+    {
+      "name": "Nuclear Mayabic",
+      "id": "nucl1332",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1332"
+    }
+  ],
+  "iso639-3": "mnt"
+}

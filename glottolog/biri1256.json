@@ -1,0 +1,115 @@
+{
+  "pk": 8490,
+  "hid": "bzr",
+  "father_pk": 6028,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Biri [biri1256][bzr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6657",
+        "label": "Biri"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/e56",
+        "label": "Biri"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Biri_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/biri1256",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bii",
+        "label": "Biri"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q4087011",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "668316",
+        "grammar",
+        1996,
+        0,
+        "Thieberger, Nicholas 1996"
+      ],
+      [
+        "476203",
+        "phonology_or_text",
+        1983,
+        8,
+        "Holmer, Nils M. 1983"
+      ],
+      [
+        "95427",
+        "wordlist_or_less",
+        1887,
+        10,
+        "Muirhead, James and Lowe, Charles 1887"
+      ],
+      [
+        "126825",
+        "wordlist_or_less",
+        1886,
+        10,
+        "Scott, J. Hall 1886"
+      ],
+      [
+        "5556",
+        "wordlist_or_less",
+        1874,
+        8,
+        "MacKenzie, Andrew 1874"
+      ]
+    ]
+  },
+  "id": "biri1256",
+  "name": "Biri",
+  "description": null,
+  "markup_description": null,
+  "latitude": -20.1494,
+  "longitude": 146.67,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Greater Maric",
+      "id": "grea1282",
+      "url": "https://glottolog.org/resource/languoid/id/grea1282"
+    },
+    {
+      "name": "Guwa-Maric",
+      "id": "guwa1245",
+      "url": "https://glottolog.org/resource/languoid/id/guwa1245"
+    },
+    {
+      "name": "Maric",
+      "id": "mari1445",
+      "url": "https://glottolog.org/resource/languoid/id/mari1445"
+    },
+    {
+      "name": "Eastern Maric",
+      "id": "east2716",
+      "url": "https://glottolog.org/resource/languoid/id/east2716"
+    }
+  ],
+  "iso639-3": "bzr"
+}

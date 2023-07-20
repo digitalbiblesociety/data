@@ -1,0 +1,127 @@
+{
+  "pk": 9198,
+  "hid": "lnd",
+  "father_pk": 6704,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Abai [abai1239]':1,'Adang {Lundayeh} [adan1250]':1,'Balait [bala1312]':1,'Kolur [kolu1246]':1,'Lepu Potong {Lundayeh} [lepu1239]':1,'Lun Bawang [lunb1237]':1,'Lun Dayah [lund1273]':1,'Lun Daye [lund1272]':1,'Pa Kembaloh [pake1237]':1,'Padas [pada1261]':1,'Trusan [trus1237]':1)'Lundayeh [lund1271][lnd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 11,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "lnd",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 has two entries Lun Bawang [lnd] including the alternate name ``Lundaya Putuk'' and Putoh [put] with the remark that it ``may be the same as Lun Bawang [lnd]''. Both the name Putuk and the area marked on the map for Putuk, falls under the same language that the entry Lun Bawang [lnd] represents. Though this language has a lot of dialectal variation, the division indicated by the two Ethnologue entries is not justified from a linguistic or ethnic perspective\n(**hh:e:Kaskija:Punan**:10-11, **hh:e:Crain:Lun-Dayeh**:17-35,\n**hh:hv:Hudson:Sarawak**, **hh:hvs:Omar:Malay-Malaysia**:587-588, **hh:hv:Sellato:Kenyah-Putuk**). See also: Putoh [put]."
+    },
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q13479839",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lun_Bawang_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_lud",
+        "label": "Lun Dayeh"
+      }
+    ],
+    "meds": [
+      [
+        "588657",
+        "long_grammar",
+        2021,
+        313,
+        "Christian J. Mortensen 2021"
+      ],
+      [
+        "319417",
+        "grammar_sketch",
+        1971,
+        138,
+        "Padan, James Noah 1971"
+      ],
+      [
+        "69046",
+        "phonology_or_text",
+        1965,
+        101,
+        "Labo Pur, Samuel 1965"
+      ],
+      [
+        "97612",
+        "phonology_or_text",
+        1959,
+        7,
+        "Shirley P. Lees 1959"
+      ],
+      [
+        "471621",
+        "wordlist_or_less",
+        1912,
+        18,
+        "J. C. Moulton 1912"
+      ],
+      [
+        "307580",
+        "wordlist_or_less",
+        1896,
+        16,
+        "Roth, Henry Ling 1896"
+      ]
+    ]
+  },
+  "id": "lund1271",
+  "name": "Lundayeh",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.25064,
+  "longitude": 115.5,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "North Borneo Malayo-Polynesian",
+      "id": "nort3253",
+      "url": "https://glottolog.org/resource/languoid/id/nort3253"
+    },
+    {
+      "name": "North Sarawakan",
+      "id": "nort3171",
+      "url": "https://glottolog.org/resource/languoid/id/nort3171"
+    },
+    {
+      "name": "Dayic",
+      "id": "kela1257",
+      "url": "https://glottolog.org/resource/languoid/id/kela1257"
+    }
+  ],
+  "iso639-3": "lnd"
+}

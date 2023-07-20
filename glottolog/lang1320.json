@@ -1,0 +1,108 @@
+{
+  "pk": 18202,
+  "hid": "lag",
+  "father_pk": 15792,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Haubi [haub1238]':1,'Kolo [kolo1265]':1,'Kondoa [kond1298]':1,'Mondo [mond1263]':1)'Langi [lang1320][lag]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_lgi",
+        "label": "Langi"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Rangi_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/lang1320",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q584983",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "56029",
+        "long_grammar",
+        2001,
+        409,
+        "Dunham, Margaret 2001"
+      ],
+      [
+        "472359",
+        "grammar_sketch",
+        1898,
+        103,
+        "Seidel, August 1898"
+      ],
+      [
+        "162700",
+        "wordlist_or_less",
+        1885,
+        0,
+        "Last, Joseph Thomas 1885"
+      ]
+    ]
+  },
+  "id": "lang1320",
+  "name": "Langi",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.71413,
+  "longitude": 35.9517,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Narrow Bantu",
+      "id": "narr1281",
+      "url": "https://glottolog.org/resource/languoid/id/narr1281"
+    },
+    {
+      "name": "East Bantu",
+      "id": "east2731",
+      "url": "https://glottolog.org/resource/languoid/id/east2731"
+    },
+    {
+      "name": "Mbugwe-Langi",
+      "id": "mbug1243",
+      "url": "https://glottolog.org/resource/languoid/id/mbug1243"
+    }
+  ],
+  "iso639-3": "lag"
+}

@@ -1,0 +1,84 @@
+{
+  "pk": 6408,
+  "hid": "peq",
+  "father_pk": 4359,
+  "family_pk": 214,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Southern Pomo [sout2984][peq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1533",
+        "label": "Southern Pomo"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3396023",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Southern_Pomo_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "318628",
+        "long_grammar",
+        2013,
+        698,
+        "Neil Alexander Walker 2013"
+      ],
+      [
+        "577597",
+        "grammar_sketch",
+        1943,
+        12,
+        "Stewart, Omer C. 1943"
+      ],
+      [
+        "157804",
+        "wordlist_or_less",
+        1908,
+        16,
+        "Barrett, Samuel A. 1908"
+      ]
+    ]
+  },
+  "id": "sout2984",
+  "name": "Southern Pomo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 38.7643,
+  "longitude": -122.545,
+  "classification": [
+    {
+      "name": "Pomoan",
+      "id": "pomo1273",
+      "url": "https://glottolog.org/resource/languoid/id/pomo1273"
+    },
+    {
+      "name": "Russian River and Eastern",
+      "id": "russ1265",
+      "url": "https://glottolog.org/resource/languoid/id/russ1265"
+    },
+    {
+      "name": "Russian River",
+      "id": "russ1266",
+      "url": "https://glottolog.org/resource/languoid/id/russ1266"
+    },
+    {
+      "name": "Southern Pomoan-Kashaya",
+      "id": "sout2983",
+      "url": "https://glottolog.org/resource/languoid/id/sout2983"
+    }
+  ],
+  "iso639-3": "peq"
+}

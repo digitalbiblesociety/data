@@ -1,0 +1,64 @@
+{
+  "pk": 500,
+  "hid": "tgr",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Tareng [tare1239][tgr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "tgr",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 has an entry Tareng [tgr] as a separate Katuic language of Laos, noting that it must be different from Talieng\n[tdf], located to the northwest, because Talieng [tdf] is Bahnaric. The Tareng [tgr] entry presumably derives from\n(**hh:h:WurmHattori:Pacific**:35) where it is indeed listed as Katuic. But there is only one (geographically discontinuous)\nlanguage in Laos matching the geographic and other data in the two Tareng [tgr] and Talieng [tdf] entries\n(**hh:v:L-Thongkum:13-Mon-Khmer**:104-105,\n**hh:he:Schliesinger:Austro-Asiatic:Laos**:47-49) and this language is Bahnaric (**hh:v:L-Thongkum:13-Mon-Khmer**:104-105,\ncf.~**hh:hv:Sidwell:Austroasiatic:2015**:185), not Katuic. Presumably the existence of two entries rather than one comes from the Katuic/Bahnaric confusion. The Stieng [stg] entry of Vietnam may also represent the same language, though there is insufficient data available to me to validate one claim or the other\n(**hh:hv:Sidwell:Austroasiatic**:83,\n**hh:he:Schliesinger:Austro-Asiatic:Laos**:47-49). See also: Talieng [tdf], Trieng [stg]."
+    },
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q16306631",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "92676",
+        "wordlist_or_less",
+        2003,
+        15,
+        "Joachim Schliesinger 2003"
+      ]
+    ]
+  },
+  "id": "tare1239",
+  "name": "Tareng",
+  "description": null,
+  "markup_description": null,
+  "latitude": 15.4928,
+  "longitude": 107.296,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "tgr"
+}

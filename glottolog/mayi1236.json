@@ -1,0 +1,95 @@
+{
+  "pk": 8438,
+  "hid": "xyk",
+  "father_pk": 5968,
+  "family_pk": 153,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "'Mayi-Kulan [mayi1236][xyk]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "xyk",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 has a separate entry for Mayi-Kulan [xyk] splitting the more inclusive, but linguistically justified entry Maykulan [mnt] (**hh:hvs:Breen:Mayi**). See also: Maykulan [mnt]."
+    },
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6698",
+        "label": "Mayi-Kulan"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q47004719",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mayi-Kulan_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/mayi1236",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500496",
+        "wordlist_or_less",
+        2012,
+        0,
+        "ISO 639-3 Registration Authority 2012"
+      ]
+    ]
+  },
+  "id": "mayi1236",
+  "name": "Mayi-Kulan",
+  "description": null,
+  "markup_description": null,
+  "latitude": -18.56,
+  "longitude": 141.46,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Paman",
+      "id": "pama1251",
+      "url": "https://glottolog.org/resource/languoid/id/pama1251"
+    },
+    {
+      "name": "Mayabic",
+      "id": "maya1279",
+      "url": "https://glottolog.org/resource/languoid/id/maya1279"
+    },
+    {
+      "name": "Nuclear Mayabic",
+      "id": "nucl1332",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1332"
+    },
+    {
+      "name": "Maykulan",
+      "id": "mayk1239",
+      "url": "https://glottolog.org/resource/languoid/id/mayk1239"
+    }
+  ],
+  "iso639-3": "xyk"
+}

@@ -1,0 +1,83 @@
+{
+  "pk": 3882,
+  "hid": "tpg",
+  "father_pk": 2179,
+  "family_pk": 125,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Arumaka [arum1243]':1,'Iramang [iram1238]':1,'Kula Watena [kula1282]':1,'Kulatela [kula1281]':1,'Larena [lare1250]':1,'Nuclear Kula [nucl1584]':1,'Sumang [suma1268]':1,'Watena [wate1238]':1)'Kula {Indonesia} [kula1280][tpg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 8,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/8330",
+        "label": "Kula"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tgp",
+        "label": "Tanglapui"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kula_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6442714",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "553701",
+        "grammar_sketch",
+        2016,
+        139,
+        "Williams, Nicholas Jay 2016"
+      ],
+      [
+        "124293",
+        "phonology_or_text",
+        1997,
+        18,
+        "Donohue, Mark 1997"
+      ],
+      [
+        "161717",
+        "wordlist_or_less",
+        1975,
+        1,
+        "W. A. L. Stokhof 1975"
+      ]
+    ]
+  },
+  "id": "kula1280",
+  "name": "Kula (Indonesia)",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.2384,
+  "longitude": 125.004,
+  "classification": [
+    {
+      "name": "Timor-Alor-Pantar",
+      "id": "timo1261",
+      "url": "https://glottolog.org/resource/languoid/id/timo1261"
+    },
+    {
+      "name": "Alor-Pantar",
+      "id": "alor1249",
+      "url": "https://glottolog.org/resource/languoid/id/alor1249"
+    },
+    {
+      "name": "East Alor",
+      "id": "kola1286",
+      "url": "https://glottolog.org/resource/languoid/id/kola1286"
+    }
+  ],
+  "iso639-3": "tpg"
+}

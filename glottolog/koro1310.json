@@ -1,0 +1,74 @@
+{
+  "pk": 9448,
+  "hid": "bpr",
+  "father_pk": 6839,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Koronadal Blaan [koro1310][bpr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q16115430",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "578709",
+        "grammar_sketch",
+        1951,
+        0,
+        "Wood, G. 1951"
+      ],
+      [
+        "570044",
+        "wordlist_or_less",
+        1913,
+        156,
+        "Cole, F. C. 1913"
+      ]
+    ]
+  },
+  "id": "koro1310",
+  "name": "Koronadal Blaan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.20529,
+  "longitude": 125.007,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Bilic",
+      "id": "bili1253",
+      "url": "https://glottolog.org/resource/languoid/id/bili1253"
+    },
+    {
+      "name": "Tboli-Blaan",
+      "id": "tbol1241",
+      "url": "https://glottolog.org/resource/languoid/id/tbol1241"
+    },
+    {
+      "name": "Blaan",
+      "id": "blaa1241",
+      "url": "https://glottolog.org/resource/languoid/id/blaa1241"
+    }
+  ],
+  "iso639-3": "bpr"
+}

@@ -1,0 +1,100 @@
+{
+  "pk": 17090,
+  "hid": "ojb",
+  "father_pk": 14649,
+  "family_pk": 178,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Albany River Ojibwa [alba1270]':1,'Berens River Ojibwa [bere1251]':1,'Lac Seul Ojibwa [lacs1238]':1,'Lake of the Woods Ojibwa [lake1257]':1,'Rainy River Ojibwa [rain1239]':1)'Northwestern Ojibwa [nort2961][ojb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Northwestern_Ojibwa",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7060356",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "21348",
+        "long_grammar",
+        2001,
+        1137,
+        "Valentine, J. Randolph 2001"
+      ],
+      [
+        "114809",
+        "long_grammar",
+        1878,
+        433,
+        "Baraga, Frederic 1878"
+      ],
+      [
+        "117147",
+        "long_grammar",
+        1874,
+        412,
+        "Edward F. Wilson 1874"
+      ]
+    ]
+  },
+  "id": "nort2961",
+  "name": "Northwestern Ojibwa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 51.6192,
+  "longitude": -87.7862,
+  "classification": [
+    {
+      "name": "Algic",
+      "id": "algi1248",
+      "url": "https://glottolog.org/resource/languoid/id/algi1248"
+    },
+    {
+      "name": "Algonquian-Blackfoot",
+      "id": "algo1256",
+      "url": "https://glottolog.org/resource/languoid/id/algo1256"
+    },
+    {
+      "name": "Algonquian",
+      "id": "algo1257",
+      "url": "https://glottolog.org/resource/languoid/id/algo1257"
+    },
+    {
+      "name": "Eastern Great Lakes Algonquian",
+      "id": "east2765",
+      "url": "https://glottolog.org/resource/languoid/id/east2765"
+    },
+    {
+      "name": "Ojibwa-Potawatomi",
+      "id": "ojib1240",
+      "url": "https://glottolog.org/resource/languoid/id/ojib1240"
+    },
+    {
+      "name": "Ojibwa",
+      "id": "ojib1241",
+      "url": "https://glottolog.org/resource/languoid/id/ojib1241"
+    },
+    {
+      "name": "Nuclear Ojibwe",
+      "id": "nucl1723",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1723"
+    },
+    {
+      "name": "Northwestern-Saulteaux Ojibwa",
+      "id": "nort3181",
+      "url": "https://glottolog.org/resource/languoid/id/nort3181"
+    }
+  ],
+  "iso639-3": "ojb"
+}

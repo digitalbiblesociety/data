@@ -1,0 +1,97 @@
+{
+  "pk": 8548,
+  "hid": "nnv",
+  "father_pk": 6077,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Nugunu {Australia} [nugu1241][nnv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6670",
+        "label": "Nukunu"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/l4",
+        "label": "Nukunu"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nukunu_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nugu1241",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q10604066",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "91194",
+        "phonology_or_text",
+        1992,
+        51,
+        "Hercus, Luise Anna 1992"
+      ],
+      [
+        "6111",
+        "wordlist_or_less",
+        1917,
+        7,
+        "Black, John McConnell 1917"
+      ],
+      [
+        "44955",
+        "wordlist_or_less",
+        1886,
+        4,
+        "Valentine, J. C. 1886"
+      ]
+    ]
+  },
+  "id": "nugu1241",
+  "name": "Nugunu (Australia)",
+  "description": null,
+  "markup_description": null,
+  "latitude": -31.9899,
+  "longitude": 133.908,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Arandic-Thura-Yura",
+      "id": "aran1266",
+      "url": "https://glottolog.org/resource/languoid/id/aran1266"
+    },
+    {
+      "name": "Thura-Yura",
+      "id": "thur1253",
+      "url": "https://glottolog.org/resource/languoid/id/thur1253"
+    },
+    {
+      "name": "Core Thura Yura",
+      "id": "core1260",
+      "url": "https://glottolog.org/resource/languoid/id/core1260"
+    },
+    {
+      "name": "Unclassified Core Thura-Yura",
+      "id": "unun9967",
+      "url": "https://glottolog.org/resource/languoid/id/unun9967"
+    }
+  ],
+  "iso639-3": "nnv"
+}

@@ -1,0 +1,95 @@
+{
+  "pk": 5738,
+  "hid": "tir",
+  "father_pk": 3792,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Northern Tigrinya [nort3336]':1,'Southern Tigrinya [sout3326]':1)'Tigrinya [tigr1271][tir]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tig",
+        "label": "Tigrinya"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tigrinya_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/tigr1271",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q34124",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "133140",
+        "long_grammar",
+        1941,
+        397,
+        "Leslau, Wolf 1941"
+      ],
+      [
+        "146358",
+        "long_grammar",
+        1928,
+        306,
+        "da Leonessa, Mauro 1928"
+      ],
+      [
+        "304972",
+        "grammar",
+        1871,
+        5,
+        "Praetorius, [Georg] [Fr.] Franz 1871-1872"
+      ],
+      [
+        "132490",
+        "wordlist_or_less",
+        1812,
+        0,
+        "Adelung, Johann Christoph 1812/17"
+      ]
+    ]
+  },
+  "id": "tigr1271",
+  "name": "Tigrinya",
+  "description": null,
+  "markup_description": null,
+  "latitude": 15.3359,
+  "longitude": 38.9266,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Semitic",
+      "id": "semi1276",
+      "url": "https://glottolog.org/resource/languoid/id/semi1276"
+    },
+    {
+      "name": "West Semitic",
+      "id": "west2786",
+      "url": "https://glottolog.org/resource/languoid/id/west2786"
+    },
+    {
+      "name": "Ethiosemitic",
+      "id": "ethi1244",
+      "url": "https://glottolog.org/resource/languoid/id/ethi1244"
+    }
+  ],
+  "iso639-3": "tir"
+}

@@ -1,0 +1,83 @@
+{
+  "pk": 5084,
+  "hid": "zay",
+  "father_pk": 3273,
+  "family_pk": 342,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Zayse [zays1236]':1,'Zergulla [zerg1235]':1)'Zayse-Zergulla [zays1235][zay]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5808",
+        "label": "Zaysé-Zergulla"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q673895",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Zayse-Zergulla_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_zay",
+        "label": "Zayse"
+      }
+    ],
+    "meds": [
+      [
+        "578792",
+        "long_grammar",
+        2017,
+        368,
+        "Yeshimebet, Bogale Endale 2017"
+      ],
+      [
+        "88598",
+        "grammar",
+        1989,
+        0,
+        "Teshome, Yimer 1989"
+      ],
+      [
+        "306763",
+        "grammar_sketch",
+        1938,
+        77,
+        "Enrico Cerulli 1938"
+      ]
+    ]
+  },
+  "id": "zays1235",
+  "name": "Zayse-Zergulla",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.83747,
+  "longitude": 37.3409,
+  "classification": [
+    {
+      "name": "Ta-Ne-Omotic",
+      "id": "gong1255",
+      "url": "https://glottolog.org/resource/languoid/id/gong1255"
+    },
+    {
+      "name": "Ometo",
+      "id": "omet1238",
+      "url": "https://glottolog.org/resource/languoid/id/omet1238"
+    },
+    {
+      "name": "East Ometo",
+      "id": "east2423",
+      "url": "https://glottolog.org/resource/languoid/id/east2423"
+    }
+  ],
+  "iso639-3": "zay"
+}

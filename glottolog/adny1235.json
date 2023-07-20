@@ -1,0 +1,101 @@
+{
+  "pk": 8550,
+  "hid": "adt",
+  "father_pk": 6078,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Adnyamathanha [adny1235][adt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3593",
+        "label": "Adnyamathanha"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/l10",
+        "label": "Adnyamathanha"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Adnyamathanha_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/adny1235",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_adn",
+        "label": "Adynyamathanha"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2225391",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "5818",
+        "grammar_sketch",
+        1974,
+        296,
+        "Schebeck, Bernhard 1974"
+      ],
+      [
+        "13262",
+        "grammar_sketch",
+        1973,
+        7,
+        "Hercus, Luise and White, Isobel M. 1973"
+      ],
+      [
+        "153463",
+        "wordlist_or_less",
+        1886,
+        4,
+        "Phillipson, N. E. 1886"
+      ]
+    ]
+  },
+  "id": "adny1235",
+  "name": "Adnyamathanha",
+  "description": null,
+  "markup_description": null,
+  "latitude": -30.1451,
+  "longitude": 138.671,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Arandic-Thura-Yura",
+      "id": "aran1266",
+      "url": "https://glottolog.org/resource/languoid/id/aran1266"
+    },
+    {
+      "name": "Thura-Yura",
+      "id": "thur1253",
+      "url": "https://glottolog.org/resource/languoid/id/thur1253"
+    },
+    {
+      "name": "Core Thura Yura",
+      "id": "core1260",
+      "url": "https://glottolog.org/resource/languoid/id/core1260"
+    },
+    {
+      "name": "Northern Thura-Yura",
+      "id": "nort2752",
+      "url": "https://glottolog.org/resource/languoid/id/nort2752"
+    }
+  ],
+  "iso639-3": "adt"
+}

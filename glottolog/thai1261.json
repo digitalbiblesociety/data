@@ -1,0 +1,132 @@
+{
+  "pk": 22184,
+  "hid": "tha",
+  "father_pk": 20511,
+  "family_pk": 356,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Khorat Thai [khor1272]':1)'Thai [thai1261][tha]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tha",
+        "label": "Thai"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Thai_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/thai1261",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q9217",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "88336",
+        "long_grammar",
+        1957,
+        632,
+        "Campbell, Stuart and Shaweevongse, Chaun 1957"
+      ],
+      [
+        "588965",
+        "grammar",
+        1850,
+        245,
+        "Pallegoix, Jean Baptiste 1850"
+      ],
+      [
+        "136803",
+        "grammar_sketch",
+        1842,
+        163,
+        "Jones, Taylor 1842"
+      ],
+      [
+        "588313",
+        "grammar_sketch",
+        1828,
+        108,
+        "Low, James 1828"
+      ],
+      [
+        "587612",
+        "phonology_or_text",
+        1672,
+        0,
+        "Phra Horathibodi 1971 [1672]"
+      ]
+    ]
+  },
+  "id": "thai1261",
+  "name": "Thai",
+  "description": null,
+  "markup_description": null,
+  "latitude": 14.192,
+  "longitude": 100.671,
+  "classification": [
+    {
+      "name": "Tai-Kadai",
+      "id": "taik1256",
+      "url": "https://glottolog.org/resource/languoid/id/taik1256"
+    },
+    {
+      "name": "Kam-Tai",
+      "id": "kamt1241",
+      "url": "https://glottolog.org/resource/languoid/id/kamt1241"
+    },
+    {
+      "name": "Daic-Beic",
+      "id": "daic1238",
+      "url": "https://glottolog.org/resource/languoid/id/daic1238"
+    },
+    {
+      "name": "Daic",
+      "id": "daic1237",
+      "url": "https://glottolog.org/resource/languoid/id/daic1237"
+    },
+    {
+      "name": "Central-Southwestern Tai",
+      "id": "cent2251",
+      "url": "https://glottolog.org/resource/languoid/id/cent2251"
+    },
+    {
+      "name": "Wenma-Southwestern Tai",
+      "id": "wenm1239",
+      "url": "https://glottolog.org/resource/languoid/id/wenm1239"
+    },
+    {
+      "name": "Sapa-Southwestern Tai",
+      "id": "sapa1255",
+      "url": "https://glottolog.org/resource/languoid/id/sapa1255"
+    },
+    {
+      "name": "Southwestern Tai",
+      "id": "sout3184",
+      "url": "https://glottolog.org/resource/languoid/id/sout3184"
+    },
+    {
+      "name": "Southwestern Thai PH",
+      "id": "sput1235",
+      "url": "https://glottolog.org/resource/languoid/id/sput1235"
+    },
+    {
+      "name": "Lao-Thai",
+      "id": "laot1235",
+      "url": "https://glottolog.org/resource/languoid/id/laot1235"
+    }
+  ],
+  "iso639-3": "tha"
+}

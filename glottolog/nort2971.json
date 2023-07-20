@@ -1,0 +1,88 @@
+{
+  "pk": 3215,
+  "hid": "enl",
+  "father_pk": 1668,
+  "family_pk": 334,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Enlhet Norte [nort2971][enl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4490",
+        "label": "Enlhet Norte"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Enlhet_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q15462671",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "668594",
+        "grammar",
+        2017,
+        0,
+        "Van Gysel, Jens L. 2017"
+      ],
+      [
+        "312925",
+        "phonology_or_text",
+        1997,
+        933,
+        "Unruh, Ernesto and Hannes Kalisch 1997"
+      ],
+      [
+        "574073",
+        "phonology_or_text",
+        1996,
+        0,
+        "Lepp, Dietrich 1996"
+      ],
+      [
+        "573238",
+        "phonology_or_text",
+        1994,
+        0,
+        "Kalisch, Hannes 1994"
+      ],
+      [
+        "23742",
+        "wordlist_or_less",
+        1898,
+        2,
+        "Peña, Enrique 1898"
+      ]
+    ]
+  },
+  "id": "nort2971",
+  "name": "Enlhet Norte",
+  "description": null,
+  "markup_description": null,
+  "latitude": -22.54,
+  "longitude": -58.98,
+  "classification": [
+    {
+      "name": "Lengua-Mascoy",
+      "id": "leng1261",
+      "url": "https://glottolog.org/resource/languoid/id/leng1261"
+    },
+    {
+      "name": "Lengua",
+      "id": "leng1262",
+      "url": "https://glottolog.org/resource/languoid/id/leng1262"
+    }
+  ],
+  "iso639-3": "enl"
+}

@@ -1,0 +1,96 @@
+{
+  "pk": 10172,
+  "hid": "brd",
+  "father_pk": 7304,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Baraamu [bara1357][brd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1591",
+        "label": "Baram"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56804",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Baram_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "321220",
+        "grammar",
+        2011,
+        299,
+        "Kansakar, Tej R. and Yogendra P. Yadava and Krishna Prasad Chalise and Balaram Prasain and Dubi Nanda Dhakal and Krishna Paudel 2011"
+      ],
+      [
+        "303538",
+        "grammar_sketch",
+        1995,
+        0,
+        "Loeffen, 'Amo' Adriaan Isodorus Franciscus 1995"
+      ],
+      [
+        "78648",
+        "wordlist_or_less",
+        1909,
+        4,
+        "George A. Grierson 1909"
+      ],
+      [
+        "146631",
+        "wordlist_or_less",
+        1857,
+        2,
+        "Hodgson, Brian Houghton 1857"
+      ]
+    ]
+  },
+  "id": "bara1357",
+  "name": "Baraamu",
+  "description": null,
+  "markup_description": null,
+  "latitude": 28.3768,
+  "longitude": 85.0584,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Himalayish",
+      "id": "hima1249",
+      "url": "https://glottolog.org/resource/languoid/id/hima1249"
+    },
+    {
+      "name": "Mahakiranti",
+      "id": "maha1306",
+      "url": "https://glottolog.org/resource/languoid/id/maha1306"
+    },
+    {
+      "name": "Newaric",
+      "id": "newa1245",
+      "url": "https://glottolog.org/resource/languoid/id/newa1245"
+    },
+    {
+      "name": "Thangmi-Baram",
+      "id": "than1258",
+      "url": "https://glottolog.org/resource/languoid/id/than1258"
+    }
+  ],
+  "iso639-3": "brd"
+}

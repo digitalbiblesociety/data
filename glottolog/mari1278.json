@@ -1,0 +1,51 @@
+{
+  "pk": 1561,
+  "hid": "chm",
+  "father_pk": 302,
+  "family_pk": 302,
+  "level": "family",
+  "bookkeeping": false,
+  "category": "Family",
+  "newick": "(('Grassland Mari [gras1239]':1)'Eastern Mari [east2328][mhr]-l-':1,('Kozymodemyan [kozy1238]':1,'Yaran [yara1249]':1)'Western Mari [west2392][mrj]-l-':1)'Mari [mari1278][chm]':1",
+  "child_family_count": 0,
+  "child_language_count": 2,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Mari_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q973685",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "552092",
+        "phonology_or_text",
+        1956,
+        0,
+        "Serebrennikov 1956"
+      ]
+    ]
+  },
+  "id": "mari1278",
+  "name": "Mari",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Uralic",
+      "id": "ural1272",
+      "url": "https://glottolog.org/resource/languoid/id/ural1272"
+    }
+  ],
+  "iso639-3": "chm"
+}

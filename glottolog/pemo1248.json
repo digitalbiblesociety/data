@@ -1,0 +1,127 @@
+{
+  "pk": 5560,
+  "hid": "aoc",
+  "father_pk": 3660,
+  "family_pk": 56,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Camaracoto [cama1252]':1,('Arecuna [arec1238]':1,'Taurepan [taur1239]':1)'Taurepang-Arekuna [taul1252]':1)'Pemon [pemo1248][aoc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1710",
+        "label": "Pemón"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q10729616",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Pemon_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/pemo1248",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_pem",
+        "label": "Pemon"
+      }
+    ],
+    "meds": [
+      [
+        "145594",
+        "long_grammar",
+        1948,
+        308,
+        "Cesareo de Armellada 1948"
+      ],
+      [
+        "106005",
+        "grammar",
+        1944,
+        0,
+        "de Armellada, Cesareo 1944"
+      ],
+      [
+        "110078",
+        "grammar",
+        1943,
+        0,
+        "Anselmo, L. 1943-44"
+      ],
+      [
+        "65115",
+        "grammar_sketch",
+        1928,
+        114,
+        "Theodor Koch-Grünberg 1928"
+      ],
+      [
+        "55825",
+        "wordlist_or_less",
+        1924,
+        50,
+        "Farabee, William Curtis 1924"
+      ],
+      [
+        "79048",
+        "wordlist_or_less",
+        1867,
+        3,
+        "von Martius, Carl Friedrich Philip 1867"
+      ],
+      [
+        "16438",
+        "wordlist_or_less",
+        1849,
+        1,
+        "Robert H. Schomburgk 1849"
+      ],
+      [
+        "313075",
+        "wordlist_or_less",
+        1848,
+        1,
+        "Robert H. Schomburgk 1848"
+      ]
+    ]
+  },
+  "id": "pemo1248",
+  "name": "Pemon",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.97031,
+  "longitude": -61.4033,
+  "classification": [
+    {
+      "name": "Cariban",
+      "id": "cari1283",
+      "url": "https://glottolog.org/resource/languoid/id/cari1283"
+    },
+    {
+      "name": "Venezuelan Cariban",
+      "id": "vene1261",
+      "url": "https://glottolog.org/resource/languoid/id/vene1261"
+    },
+    {
+      "name": "Pemong-Panare",
+      "id": "pemo1246",
+      "url": "https://glottolog.org/resource/languoid/id/pemo1246"
+    },
+    {
+      "name": "Pemongan",
+      "id": "pemo1247",
+      "url": "https://glottolog.org/resource/languoid/id/pemo1247"
+    }
+  ],
+  "iso639-3": "aoc"
+}

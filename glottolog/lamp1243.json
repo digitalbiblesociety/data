@@ -1,0 +1,80 @@
+{
+  "pk": 6884,
+  "hid": "ljp",
+  "father_pk": 4672,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Krui [krui1237][krq]':1,'Pubian [pubi1237][pun]':1,'Southern Pesisir Lampung [sout3392]':1)'Lampung Api [lamp1243][ljp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_lmp",
+        "label": "Lampung"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q49215",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "322064",
+        "grammar_sketch",
+        1988,
+        236,
+        "M. Hilman Hadi Kusuma 1988"
+      ],
+      [
+        "304241",
+        "grammar_sketch",
+        1973,
+        184,
+        "Walker, Dale F. 1973"
+      ],
+      [
+        "52135",
+        "phonology_or_text",
+        1891,
+        118,
+        "Helfrich, Oscar Louis 1891"
+      ]
+    ]
+  },
+  "id": "lamp1243",
+  "name": "Lampung Api",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.73463,
+  "longitude": 105.037,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Lampungic",
+      "id": "lamp1241",
+      "url": "https://glottolog.org/resource/languoid/id/lamp1241"
+    },
+    {
+      "name": "Pesisir",
+      "id": "pesi1234",
+      "url": "https://glottolog.org/resource/languoid/id/pesi1234"
+    }
+  ],
+  "iso639-3": "ljp"
+}

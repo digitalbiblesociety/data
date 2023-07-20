@@ -1,0 +1,91 @@
+{
+  "pk": 12460,
+  "hid": "lgu",
+  "father_pk": 9494,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Longgu [long1395][lgu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2056",
+        "label": "Longgu"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3259105",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Longgu_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_lgu",
+        "label": "Longgu"
+      }
+    ],
+    "meds": [
+      [
+        "71462",
+        "long_grammar",
+        1992,
+        360,
+        "Hill, Deborah 1992"
+      ],
+      [
+        "77100",
+        "grammar_sketch",
+        1934,
+        21,
+        "W. G. Ivens 1934"
+      ]
+    ]
+  },
+  "id": "long1395",
+  "name": "Longgu",
+  "description": null,
+  "markup_description": null,
+  "latitude": -9.75258,
+  "longitude": 160.663,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Southeast Solomonic",
+      "id": "sout2853",
+      "url": "https://glottolog.org/resource/languoid/id/sout2853"
+    },
+    {
+      "name": "Longgu-Malaita-Makira",
+      "id": "mala1485",
+      "url": "https://glottolog.org/resource/languoid/id/mala1485"
+    }
+  ],
+  "iso639-3": "lgu"
+}

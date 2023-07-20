@@ -1,0 +1,106 @@
+{
+  "pk": 5426,
+  "hid": "kir",
+  "father_pk": 3557,
+  "family_pk": 14,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Northern Kirghiz [nort2693]':1,'Southern Kirghiz [sout2702]':1)'Kirghiz [kirg1245][kir]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kgz",
+        "label": "Kirghiz"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kfy",
+        "label": "Kirghiz (Fu-Yu)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kyrgyz_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kirg1245",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q9255",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "317757",
+        "long_grammar",
+        1981,
+        1220,
+        "Guy Imart 1981"
+      ],
+      [
+        "306796",
+        "grammar",
+        1963,
+        165,
+        "Batmanov, I. A. 1963"
+      ],
+      [
+        "302748",
+        "grammar",
+        1939,
+        145,
+        "Batmanov, Igor A. 1939-1940"
+      ],
+      [
+        "550215",
+        "grammar_sketch",
+        1900,
+        156,
+        "I. Laptevym 1900"
+      ],
+      [
+        "309459",
+        "wordlist_or_less",
+        1786,
+        20,
+        "Pallas, Peter Simon 1786, 1789"
+      ]
+    ]
+  },
+  "id": "kirg1245",
+  "name": "Kirghiz",
+  "description": null,
+  "markup_description": null,
+  "latitude": 42,
+  "longitude": 74,
+  "classification": [
+    {
+      "name": "Turkic",
+      "id": "turk1311",
+      "url": "https://glottolog.org/resource/languoid/id/turk1311"
+    },
+    {
+      "name": "Common Turkic",
+      "id": "comm1245",
+      "url": "https://glottolog.org/resource/languoid/id/comm1245"
+    },
+    {
+      "name": "Kipchak",
+      "id": "kipc1239",
+      "url": "https://glottolog.org/resource/languoid/id/kipc1239"
+    },
+    {
+      "name": "East Kipchak",
+      "id": "east2791",
+      "url": "https://glottolog.org/resource/languoid/id/east2791"
+    }
+  ],
+  "iso639-3": "kir"
+}

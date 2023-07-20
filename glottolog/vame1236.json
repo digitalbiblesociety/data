@@ -1,0 +1,84 @@
+{
+  "pk": 5801,
+  "hid": "mlr",
+  "father_pk": 3840,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dume {Vame} [dume1239]':1,'Hurzo [hurz1243]':1,'Mberem [mber1261]':1,'Ndreme [ndre1239]':1,'Pelasla [gwen1242]':1)'Vame [vame1236][mlr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3515088",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Vame_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/vame1236",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "82497",
+        "phonology_or_text",
+        2006,
+        66,
+        "Kinnaird, William J. 2006"
+      ],
+      [
+        "32077",
+        "phonology_or_text",
+        1978,
+        23,
+        "Rossing, Mervin Olaf 1978"
+      ],
+      [
+        "321472",
+        "wordlist_or_less",
+        1947,
+        14,
+        "Jean Mouchet 1947"
+      ]
+    ]
+  },
+  "id": "vame1236",
+  "name": "Vame",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.9481,
+  "longitude": 14.2131,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "Biu-Mandara",
+      "id": "bium1280",
+      "url": "https://glottolog.org/resource/languoid/id/bium1280"
+    },
+    {
+      "name": "Hurza",
+      "id": "hurz1242",
+      "url": "https://glottolog.org/resource/languoid/id/hurz1242"
+    }
+  ],
+  "iso639-3": "mlr"
+}

@@ -1,0 +1,101 @@
+{
+  "pk": 12897,
+  "hid": "bbs",
+  "father_pk": 9935,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Iyongiyong [bakp1238][bbs]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1082",
+        "label": "Bakpinka"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3515061",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bakpinka_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "656699",
+        "wordlist_or_less",
+        2022,
+        8,
+        "Decker, Ken and Benard Abraham 2022"
+      ],
+      [
+        "320644",
+        "wordlist_or_less",
+        2014,
+        2,
+        "Roger Blench 2014"
+      ],
+      [
+        "71740",
+        "wordlist_or_less",
+        1978,
+        8,
+        "Dimmendaal, Gerrit J. 1978"
+      ],
+      [
+        "663439",
+        "wordlist_or_less",
+        1919,
+        0,
+        "Johnston, Harry Hamilton 1919/22"
+      ]
+    ]
+  },
+  "id": "bakp1238",
+  "name": "Iyongiyong",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.26756,
+  "longitude": 8.26321,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Delta Cross",
+      "id": "delt1251",
+      "url": "https://glottolog.org/resource/languoid/id/delt1251"
+    },
+    {
+      "name": "Upper Cross",
+      "id": "uppe1418",
+      "url": "https://glottolog.org/resource/languoid/id/uppe1418"
+    },
+    {
+      "name": "Agoi-Doko-Iyoniyong",
+      "id": "agoi1245",
+      "url": "https://glottolog.org/resource/languoid/id/agoi1245"
+    }
+  ],
+  "iso639-3": "bbs"
+}

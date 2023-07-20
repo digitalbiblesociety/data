@@ -1,0 +1,104 @@
+{
+  "pk": 5372,
+  "hid": "inh",
+  "father_pk": 3512,
+  "family_pk": 426,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ingush [ingu1240][inh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ing",
+        "label": "Ingush"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ingush_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/ingu1240",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33509",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "305982",
+        "long_grammar",
+        2011,
+        824,
+        "Johanna Nichols 2011"
+      ],
+      [
+        "17492",
+        "long_grammar",
+        2001,
+        473,
+        "N. F. Yakovlev 2001"
+      ],
+      [
+        "17608",
+        "grammar",
+        1963,
+        158,
+        "Zaurbek K. Mal'sagov 1963"
+      ],
+      [
+        "585767",
+        "grammar_sketch",
+        1962,
+        85,
+        "Aliroev, I. Yu. 1962"
+      ],
+      [
+        "39332",
+        "phonology_or_text",
+        1935,
+        73,
+        "Jabagi, M. 1935"
+      ],
+      [
+        "54846",
+        "wordlist_or_less",
+        1862,
+        1,
+        "Latham, Robert Gordon 1862"
+      ]
+    ]
+  },
+  "id": "ingu1240",
+  "name": "Ingush",
+  "description": null,
+  "markup_description": null,
+  "latitude": 43.11,
+  "longitude": 45.03,
+  "classification": [
+    {
+      "name": "Nakh-Daghestanian",
+      "id": "nakh1245",
+      "url": "https://glottolog.org/resource/languoid/id/nakh1245"
+    },
+    {
+      "name": "Nakh",
+      "id": "nakh1246",
+      "url": "https://glottolog.org/resource/languoid/id/nakh1246"
+    },
+    {
+      "name": "Chechen-Ingush",
+      "id": "chec1244",
+      "url": "https://glottolog.org/resource/languoid/id/chec1244"
+    }
+  ],
+  "iso639-3": "inh"
+}

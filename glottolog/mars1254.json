@@ -1,0 +1,113 @@
+{
+  "pk": 15303,
+  "hid": "mah",
+  "father_pk": 12478,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ratak [rata1243]':1,'Rälik [rali1241]':1)'Marshallese [mars1254][mah]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_msh",
+        "label": "Marshallese"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Marshallese_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36280",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "37881",
+        "long_grammar",
+        1969,
+        438,
+        "Byron W. Bender 1969"
+      ],
+      [
+        "74034",
+        "grammar",
+        1955,
+        246,
+        "Erdland, August 1955"
+      ],
+      [
+        "158204",
+        "grammar_sketch",
+        1906,
+        133,
+        "August Erland 1906"
+      ],
+      [
+        "320183",
+        "grammar_sketch",
+        1880,
+        51,
+        "Franz Hernsheim 1880"
+      ],
+      [
+        "118015",
+        "wordlist_or_less",
+        1876,
+        27,
+        "Murray, A. W. 1876"
+      ]
+    ]
+  },
+  "id": "mars1254",
+  "name": "Marshallese",
+  "description": null,
+  "markup_description": null,
+  "latitude": 8.72,
+  "longitude": 167.73,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Micronesian",
+      "id": "micr1243",
+      "url": "https://glottolog.org/resource/languoid/id/micr1243"
+    },
+    {
+      "name": "Central Micronesian",
+      "id": "cent2276",
+      "url": "https://glottolog.org/resource/languoid/id/cent2276"
+    },
+    {
+      "name": "Western Micronesian",
+      "id": "west2844",
+      "url": "https://glottolog.org/resource/languoid/id/west2844"
+    }
+  ],
+  "iso639-3": "mah"
+}

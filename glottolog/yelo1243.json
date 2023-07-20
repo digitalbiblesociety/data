@@ -1,0 +1,65 @@
+{
+  "pk": 3745,
+  "hid": "ylg",
+  "father_pk": 2073,
+  "family_pk": 92,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Yalaku [yelo1243][ylg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10615",
+        "label": "Yelogu"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q8052024",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yelogu_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "71063",
+        "grammar_sketch",
+        1962,
+        18,
+        "Donald C. Laycock 1962"
+      ]
+    ]
+  },
+  "id": "yelo1243",
+  "name": "Yalaku",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.09907,
+  "longitude": 142.808,
+  "classification": [
+    {
+      "name": "Ndu",
+      "id": "nduu1242",
+      "url": "https://glottolog.org/resource/languoid/id/nduu1242"
+    },
+    {
+      "name": "Nuclear Ndu",
+      "id": "nucl1642",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1642"
+    },
+    {
+      "name": "Manambu-Yalaku",
+      "id": "mana1303",
+      "url": "https://glottolog.org/resource/languoid/id/mana1303"
+    }
+  ],
+  "iso639-3": "ylg"
+}

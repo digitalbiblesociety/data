@@ -1,0 +1,66 @@
+{
+  "pk": 800,
+  "hid": "dkl",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Kolum So Dogon [kolu1247][dkl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "dkl",
+      "name": "Kolum So Dogon",
+      "change_request": "2010-018",
+      "effective": "2011-05-18",
+      "reason": "split",
+      "change_to": [
+        "aqd",
+        "dmb"
+      ],
+      "remedy": "split into Ampari Dogon [aqd] and Mombo Dogon [dmb]",
+      "comment": "In my 2004 Dogon survey report I wrote: \"According to the elders of the Mombo\nspeaking village Bandiougou, Ampari-kora speakers could understand them, but not\nvice-versa. One explanation might be inherent intelligibility, since\nCalame-Griaule listed both Mombo and Ampari-kora (she called it Ãmbaŋge) as\nsubvarieties of Edyeŋge dõ. However, since the Ampari-kora speakers that the\nelders spoke about came yearly to Bandiougou to observe a rite, this might also\nbe learned comprehension.\"\n\nIn 2009 I analysed the following Dogon wordlists in Wordsurv 6.0.2: Miambo de\nMakou, Mombo de Bandiougou, Mombo Kɔlu Sɔ, Mombo de Kori-Kori, Mombo Pignari,\nNyambaleeŋge de Ficko, Mombo (Blench's Ambaleenge) de Kema, and Ampari de\nPahandaga, Ampari de Pa, Ampari de Danga, Ampari de Baboye. Raw scores between\nMombo varieties range from 71-88%. Raw scores between Ampari varieties range\nfrom 70- 88%. Raw scores between Mombo and Ampari varieties range from 40-53%.\nTotal number of items compared range from 64 to 180.\n\n\"...Mombo and Ampari are separate non-intercomprehensible varieties, which,\nhowever, are genetically much closer to each other than to any other Dogon\nlanguage.\" (correspondence with Prokhorov 12-19-2009)"
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q11006344",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "47983",
+        "wordlist_or_less",
+        2005,
+        0,
+        "Blench, Roger and Douyon, Denis 2005"
+      ],
+      [
+        "102196",
+        "wordlist_or_less",
+        2004,
+        19,
+        "Durieux, J. A. and Durieux-Boon E. I. K. and Hochstetler, J. Lee 2004"
+      ]
+    ]
+  },
+  "id": "kolu1247",
+  "name": "Kolum So Dogon",
+  "description": null,
+  "markup_description": null,
+  "latitude": 14.3617,
+  "longitude": -3.8795,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "dkl"
+}

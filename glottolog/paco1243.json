@@ -1,0 +1,99 @@
+{
+  "pk": 3484,
+  "hid": "pac",
+  "father_pk": 1859,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Pahi {Austroasiatic} [pahi1245]':1)'Pacoh [paco1243][pac]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3441136",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Pacoh_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/paco1243",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_pac",
+        "label": "Pacoh"
+      }
+    ],
+    "meds": [
+      [
+        "155586",
+        "long_grammar",
+        2000,
+        497,
+        "Mark J. Alves 2000"
+      ],
+      [
+        "103295",
+        "grammar_sketch",
+        1980,
+        173,
+        "Watson, Richard Leon 1980"
+      ],
+      [
+        "97823",
+        "grammar_sketch",
+        1977,
+        44,
+        "Watson, Richard 1977"
+      ],
+      [
+        "64881",
+        "grammar_sketch",
+        1966,
+        24,
+        "Watson, Richard L. 1966"
+      ],
+      [
+        "115480",
+        "phonology_or_text",
+        1964,
+        14,
+        "Watson, Richard 1964"
+      ],
+      [
+        "141437",
+        "wordlist_or_less",
+        1963,
+        32,
+        "na 1963"
+      ]
+    ]
+  },
+  "id": "paco1243",
+  "name": "Pacoh",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.3353,
+  "longitude": 107.094,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Katuic",
+      "id": "katu1271",
+      "url": "https://glottolog.org/resource/languoid/id/katu1271"
+    }
+  ],
+  "iso639-3": "pac"
+}

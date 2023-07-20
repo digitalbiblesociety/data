@@ -1,0 +1,83 @@
+{
+  "pk": 12884,
+  "hid": "kxb",
+  "father_pk": 9915,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Krobu [krob1245][kxb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q35586",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Krobu_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "51699",
+        "grammar_sketch",
+        1983,
+        39,
+        "Mensah, Emmanuel N.A. 1983"
+      ],
+      [
+        "55307",
+        "wordlist_or_less",
+        1971,
+        10,
+        "Dumestre, Gérard 1971"
+      ]
+    ]
+  },
+  "id": "krob1245",
+  "name": "Krobu",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.86161,
+  "longitude": -4.47739,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Kwa Volta-Congo",
+      "id": "kwav1236",
+      "url": "https://glottolog.org/resource/languoid/id/kwav1236"
+    },
+    {
+      "name": "Nyo",
+      "id": "nyoa1234",
+      "url": "https://glottolog.org/resource/languoid/id/nyoa1234"
+    },
+    {
+      "name": "Potou-Tano",
+      "id": "poto1254",
+      "url": "https://glottolog.org/resource/languoid/id/poto1254"
+    },
+    {
+      "name": "Tano",
+      "id": "tano1248",
+      "url": "https://glottolog.org/resource/languoid/id/tano1248"
+    }
+  ],
+  "iso639-3": "kxb"
+}

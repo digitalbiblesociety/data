@@ -1,0 +1,115 @@
+{
+  "pk": 17525,
+  "hid": "niu",
+  "father_pk": 15211,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Niuean [niue1239][niu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4862",
+        "label": "Niue"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_niu",
+        "label": "Niuean"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Niuean_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33790",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "581055",
+        "long_grammar",
+        2020,
+        384,
+        "Massam, Diane 2020"
+      ],
+      [
+        "312394",
+        "long_grammar",
+        1979,
+        369,
+        "Seiter, William J. 1979"
+      ],
+      [
+        "150070",
+        "grammar_sketch",
+        1907,
+        92,
+        "Edward Tregear and S. Percy Smith 1907"
+      ],
+      [
+        "313623",
+        "wordlist_or_less",
+        1884,
+        19,
+        "George Turner 1884"
+      ]
+    ]
+  },
+  "id": "niue1239",
+  "name": "Niuean",
+  "description": null,
+  "markup_description": null,
+  "latitude": -19.06,
+  "longitude": -169.86,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Central Pacific linkage",
+      "id": "cent2060",
+      "url": "https://glottolog.org/resource/languoid/id/cent2060"
+    },
+    {
+      "name": "Tokalau Fijian",
+      "id": "east2445",
+      "url": "https://glottolog.org/resource/languoid/id/east2445"
+    },
+    {
+      "name": "Polynesian",
+      "id": "poly1242",
+      "url": "https://glottolog.org/resource/languoid/id/poly1242"
+    },
+    {
+      "name": "Tongic",
+      "id": "tong1324",
+      "url": "https://glottolog.org/resource/languoid/id/tong1324"
+    }
+  ],
+  "iso639-3": "niu"
+}

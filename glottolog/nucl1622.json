@@ -1,0 +1,100 @@
+{
+  "pk": 3586,
+  "hid": "mrz",
+  "father_pk": 1917,
+  "family_pk": 27,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Marind [cent2332]':1,('Gawir [gawi1240]':1,'Southeast Marind [sout2944]':1,'Tugeri [tuge1242]':1)'Coastal Marind [hali1245]':1)'Marind [nucl1622][mrz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6763970",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Marind_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mrd",
+        "label": "Marind"
+      }
+    ],
+    "meds": [
+      [
+        "588922",
+        "long_grammar",
+        2021,
+        608,
+        "Bruno Olsson 2021"
+      ],
+      [
+        "556887",
+        "long_grammar",
+        2017,
+        594,
+        "Bruno Olsson 2017"
+      ],
+      [
+        "57430",
+        "grammar",
+        1955,
+        189,
+        "Drabbe, Peter 1955"
+      ],
+      [
+        "106689",
+        "grammar",
+        1926,
+        168,
+        "Geurtjens, Hendrik 1926"
+      ],
+      [
+        "114310",
+        "grammar_sketch",
+        1906,
+        35,
+        "J. Seijne Kok 1906"
+      ],
+      [
+        "92826",
+        "wordlist_or_less",
+        1904,
+        18,
+        "J. D. E. Schmeltz 1904"
+      ]
+    ]
+  },
+  "id": "nucl1622",
+  "name": "Marind",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.15651,
+  "longitude": 140.009,
+  "classification": [
+    {
+      "name": "Anim",
+      "id": "anim1240",
+      "url": "https://glottolog.org/resource/languoid/id/anim1240"
+    },
+    {
+      "name": "Marind-Boazi-Yaqai",
+      "id": "mari1437",
+      "url": "https://glottolog.org/resource/languoid/id/mari1437"
+    },
+    {
+      "name": "Marindic",
+      "id": "nucl1621",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1621"
+    }
+  ],
+  "iso639-3": "mrz"
+}

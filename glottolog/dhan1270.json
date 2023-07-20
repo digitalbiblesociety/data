@@ -1,0 +1,106 @@
+{
+  "pk": 6062,
+  "hid": "dhg",
+  "father_pk": 4070,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dhangu-Djangu [dhan1271]':1,'Gaalpu [gaal1238]':1,'Golumala [golu1238]':1,'Ngaymil [ngay1242]':1,'Rirratjingu [rirr1238]':1,'Wangurri [wang1293]':1)'Dhangu [dhan1270][dhg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5725",
+        "label": "Dhangu-Djangu"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_glp",
+        "label": "Gaalpu"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dhangu-Djangu_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/dhan1270",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5268960",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "65823",
+        "grammar",
+        1992,
+        298,
+        "MacLellan, Marilyn 1992"
+      ],
+      [
+        "153978",
+        "phonology_or_text",
+        1978,
+        65,
+        "Wood, Raymond K. 1978"
+      ],
+      [
+        "554499",
+        "wordlist_or_less",
+        1956,
+        4,
+        "Arthur Capell 1956"
+      ],
+      [
+        "5022",
+        "wordlist_or_less",
+        1953,
+        0,
+        "Elkin, A. P. 1953-56"
+      ],
+      [
+        "2057",
+        "wordlist_or_less",
+        1951,
+        0,
+        "Berndt, Ronald M. 1951"
+      ]
+    ]
+  },
+  "id": "dhan1270",
+  "name": "Dhangu",
+  "description": null,
+  "markup_description": null,
+  "latitude": -11.9493,
+  "longitude": 135.752,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Yuulngu",
+      "id": "yuul1239",
+      "url": "https://glottolog.org/resource/languoid/id/yuul1239"
+    },
+    {
+      "name": "Southern Yolngu",
+      "id": "sout3142",
+      "url": "https://glottolog.org/resource/languoid/id/sout3142"
+    },
+    {
+      "name": "Southern-Eastern Yolngu",
+      "id": "sout3149",
+      "url": "https://glottolog.org/resource/languoid/id/sout3149"
+    }
+  ],
+  "iso639-3": "dhg"
+}

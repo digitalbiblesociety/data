@@ -1,0 +1,78 @@
+{
+  "pk": 10522,
+  "hid": "bxu",
+  "father_pk": 7627,
+  "family_pk": 417,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bargu [barg1251]':1)'China Buriat [chin1476][bxu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/8557",
+        "label": "New Bargut"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q20527417",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "133651",
+        "grammar_sketch",
+        1955,
+        75,
+        "Poppe, Nicholas 1955"
+      ],
+      [
+        "302637",
+        "phonology_or_text",
+        1932,
+        72,
+        "N. Poppe 1932"
+      ]
+    ]
+  },
+  "id": "chin1476",
+  "name": "China Buriat",
+  "description": null,
+  "markup_description": null,
+  "latitude": 48.7593,
+  "longitude": 117.786,
+  "classification": [
+    {
+      "name": "Mongolic-Khitan",
+      "id": "mong1349",
+      "url": "https://glottolog.org/resource/languoid/id/mong1349"
+    },
+    {
+      "name": "Mongolic",
+      "id": "mong1329",
+      "url": "https://glottolog.org/resource/languoid/id/mong1329"
+    },
+    {
+      "name": "Eastern Mongolic",
+      "id": "oira1260",
+      "url": "https://glottolog.org/resource/languoid/id/oira1260"
+    },
+    {
+      "name": "Khalkha-Buriat",
+      "id": "khal1273",
+      "url": "https://glottolog.org/resource/languoid/id/khal1273"
+    },
+    {
+      "name": "Buriat",
+      "id": "buri1258",
+      "url": "https://glottolog.org/resource/languoid/id/buri1258"
+    }
+  ],
+  "iso639-3": "bxu"
+}

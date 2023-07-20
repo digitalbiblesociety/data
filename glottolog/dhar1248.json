@@ -1,0 +1,82 @@
+{
+  "pk": 2310,
+  "hid": "xgm",
+  "father_pk": 1065,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Dharumbal [dhar1248][xgm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6350",
+        "label": "Dharumbal"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_dhb",
+        "label": "Dharumbal"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Darumbal_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/dhar1248",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q16954400",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "1914",
+        "grammar_sketch",
+        2002,
+        117,
+        "Angela Terrill 2002"
+      ],
+      [
+        "476203",
+        "phonology_or_text",
+        1983,
+        8,
+        "Holmer, Nils M. 1983"
+      ],
+      [
+        "153098",
+        "wordlist_or_less",
+        1887,
+        4,
+        "Archer, Thomas 1887"
+      ]
+    ]
+  },
+  "id": "dhar1248",
+  "name": "Dharumbal",
+  "description": null,
+  "markup_description": null,
+  "latitude": -23.307,
+  "longitude": 150.593,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Rockhampton-Gladstone",
+      "id": "rock1234",
+      "url": "https://glottolog.org/resource/languoid/id/rock1234"
+    }
+  ],
+  "iso639-3": "xgm"
+}

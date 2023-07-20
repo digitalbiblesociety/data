@@ -1,0 +1,106 @@
+{
+  "pk": 15507,
+  "hid": "lob",
+  "father_pk": 12776,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Gongon Lobi [gong1254]':1)'Lobi [lobi1245][lob]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q35807",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lobi_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_lob",
+        "label": "Lobi"
+      }
+    ],
+    "meds": [
+      [
+        "72904",
+        "long_grammar",
+        1982,
+        480,
+        "Becuwe, Jacques 1982"
+      ],
+      [
+        "158734",
+        "grammar",
+        1966,
+        162,
+        "Lamothe, Charles P. B. 1966"
+      ],
+      [
+        "314417",
+        "grammar_sketch",
+        1958,
+        62,
+        "Labouret, Henri 1958"
+      ],
+      [
+        "8689",
+        "wordlist_or_less",
+        1904,
+        5,
+        "Delafosse, Maurice 1904"
+      ]
+    ]
+  },
+  "id": "lobi1245",
+  "name": "Lobi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.96122,
+  "longitude": -3.336,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "North Volta-Congo",
+      "id": "nort3149",
+      "url": "https://glottolog.org/resource/languoid/id/nort3149"
+    },
+    {
+      "name": "Gur",
+      "id": "gura1261",
+      "url": "https://glottolog.org/resource/languoid/id/gura1261"
+    },
+    {
+      "name": "Central Gur",
+      "id": "cent2243",
+      "url": "https://glottolog.org/resource/languoid/id/cent2243"
+    },
+    {
+      "name": "Southern Central Gur",
+      "id": "sout3164",
+      "url": "https://glottolog.org/resource/languoid/id/sout3164"
+    },
+    {
+      "name": "Lobiri-Jaane",
+      "id": "lobi1246",
+      "url": "https://glottolog.org/resource/languoid/id/lobi1246"
+    }
+  ],
+  "iso639-3": "lob"
+}

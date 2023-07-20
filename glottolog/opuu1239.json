@@ -1,0 +1,90 @@
+{
+  "pk": 3598,
+  "hid": "lgn",
+  "father_pk": 1926,
+  "family_pk": 29,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bikol Opo [biko1241]':1,('Bilugu Opo [bilu1247]':1,'Modin [modi1234]':1)'Bilugu-Modin [bilu1246]':1,('Kigile-Kusgilo [kusg1238]':1,'Pame Opo [pame1262]':1)'Pame-Kigile [pame1261]':1,'Pilakoy [pila1247]':1)'Opo [opuu1239][lgn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 8,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2681",
+        "label": "Opuuo"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3354339",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Opuo_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/opuu1239",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "574915",
+        "grammar",
+        2017,
+        250,
+        "Mellese, Gelaneh Alemu 2017"
+      ],
+      [
+        "116853",
+        "grammar_sketch",
+        2010,
+        202,
+        "Lemi Kebebw 2010"
+      ],
+      [
+        "548150",
+        "wordlist_or_less",
+        1940,
+        12,
+        "Corfield, F. D. 1940"
+      ],
+      [
+        "107970",
+        "wordlist_or_less",
+        1938,
+        6,
+        "Corfield, F. D. 1938"
+      ]
+    ]
+  },
+  "id": "opuu1239",
+  "name": "Opo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 8.47526,
+  "longitude": 33.853,
+  "classification": [
+    {
+      "name": "Koman",
+      "id": "koma1264",
+      "url": "https://glottolog.org/resource/languoid/id/koma1264"
+    },
+    {
+      "name": "Central Koman",
+      "id": "opuu1238",
+      "url": "https://glottolog.org/resource/languoid/id/opuu1238"
+    },
+    {
+      "name": "Dana-Opo",
+      "id": "dana1255",
+      "url": "https://glottolog.org/resource/languoid/id/dana1255"
+    }
+  ],
+  "iso639-3": "lgn"
+}

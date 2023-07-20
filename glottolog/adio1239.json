@@ -1,0 +1,93 @@
+{
+  "pk": 9911,
+  "hid": "adj",
+  "father_pk": 7159,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Adioukrou [adio1239][adj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_adi",
+        "label": "Adioukrou"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Adjukru_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/adio1239",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q34738",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "100221",
+        "long_grammar",
+        1978,
+        475,
+        "Hérault, Georges 1978"
+      ],
+      [
+        "71598",
+        "phonology_or_text",
+        1971,
+        0,
+        "Werle, Johannes-Martin 1971"
+      ],
+      [
+        "8689",
+        "wordlist_or_less",
+        1904,
+        5,
+        "Delafosse, Maurice 1904"
+      ]
+    ]
+  },
+  "id": "adio1239",
+  "name": "Adioukrou",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.38228,
+  "longitude": -4.52522,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Kwa Volta-Congo",
+      "id": "kwav1236",
+      "url": "https://glottolog.org/resource/languoid/id/kwav1236"
+    },
+    {
+      "name": "Nyo",
+      "id": "nyoa1234",
+      "url": "https://glottolog.org/resource/languoid/id/nyoa1234"
+    },
+    {
+      "name": "Agneby",
+      "id": "agne1238",
+      "url": "https://glottolog.org/resource/languoid/id/agne1238"
+    }
+  ],
+  "iso639-3": "adj"
+}

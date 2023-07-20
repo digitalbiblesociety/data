@@ -1,0 +1,79 @@
+{
+  "pk": 4809,
+  "hid": "cjn",
+  "father_pk": 3076,
+  "family_pk": 304,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Chenapian [chen1259][cjn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4174",
+        "label": "Chenapian"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5091044",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Chenapian_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "30504",
+        "wordlist_or_less",
+        1975,
+        1,
+        "Donald C. Laycock and John A. Z'Graggen 1975"
+      ],
+      [
+        "108516",
+        "wordlist_or_less",
+        1973,
+        1,
+        "Laycock, Donald C. 1973"
+      ],
+      [
+        "139472",
+        "wordlist_or_less",
+        1928,
+        3,
+        "Behrmann, W. 1928"
+      ]
+    ]
+  },
+  "id": "chen1259",
+  "name": "Chenapian",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.25154,
+  "longitude": 142.317,
+  "classification": [
+    {
+      "name": "Sepik",
+      "id": "sepi1257",
+      "url": "https://glottolog.org/resource/languoid/id/sepi1257"
+    },
+    {
+      "name": "Iwam-Wogamus",
+      "id": "iwam1259",
+      "url": "https://glottolog.org/resource/languoid/id/iwam1259"
+    },
+    {
+      "name": "Wogamusin-Chenapian",
+      "id": "woga1248",
+      "url": "https://glottolog.org/resource/languoid/id/woga1248"
+    }
+  ],
+  "iso639-3": "cjn"
+}

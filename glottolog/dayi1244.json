@@ -1,0 +1,73 @@
+{
+  "pk": 6063,
+  "hid": "dax",
+  "father_pk": 4070,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dhalwangu [dhal1246]':1,'Djarrwark [djar1245]':1)'Dayi [dayi1244][dax]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4065",
+        "label": "Dhay'yi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q10467281",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "80122",
+        "phonology_or_text",
+        1978,
+        11,
+        "Heath, Jeffrey 1978"
+      ],
+      [
+        "74195",
+        "wordlist_or_less",
+        1827,
+        198,
+        "Phillip P. King 1827"
+      ]
+    ]
+  },
+  "id": "dayi1244",
+  "name": "Dayi",
+  "description": null,
+  "markup_description": null,
+  "latitude": -13.1806,
+  "longitude": 136.22,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Yuulngu",
+      "id": "yuul1239",
+      "url": "https://glottolog.org/resource/languoid/id/yuul1239"
+    },
+    {
+      "name": "Southern Yolngu",
+      "id": "sout3142",
+      "url": "https://glottolog.org/resource/languoid/id/sout3142"
+    },
+    {
+      "name": "Southern-Eastern Yolngu",
+      "id": "sout3149",
+      "url": "https://glottolog.org/resource/languoid/id/sout3149"
+    }
+  ],
+  "iso639-3": "dax"
+}

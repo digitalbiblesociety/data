@@ -1,0 +1,74 @@
+{
+  "pk": 3294,
+  "hid": "liu",
+  "father_pk": 1734,
+  "family_pk": 351,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Liguri [ligu1250]':1,'Saburi [sabu1254]':1,'Tallau [tall1245]':1)'Logorik [logo1261][liu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4508",
+        "label": "Logorik"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6667811",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Logorik_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "118880",
+        "wordlist_or_less",
+        2006,
+        16,
+        "Alamin Mubarak, Suzan 2006"
+      ],
+      [
+        "42772",
+        "wordlist_or_less",
+        1962,
+        7,
+        "Stevenson, Roland C. 1962"
+      ],
+      [
+        "63360",
+        "wordlist_or_less",
+        1917,
+        2,
+        "Meinhof, Carl 1917-1918"
+      ]
+    ]
+  },
+  "id": "logo1261",
+  "name": "Logorik",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.1739,
+  "longitude": 29.8053,
+  "classification": [
+    {
+      "name": "Dajuic",
+      "id": "daju1249",
+      "url": "https://glottolog.org/resource/languoid/id/daju1249"
+    },
+    {
+      "name": "Eastern Dajuic",
+      "id": "east2428",
+      "url": "https://glottolog.org/resource/languoid/id/east2428"
+    }
+  ],
+  "iso639-3": "liu"
+}

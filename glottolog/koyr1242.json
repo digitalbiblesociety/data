@@ -1,0 +1,78 @@
+{
+  "pk": 1971,
+  "hid": "ses",
+  "father_pk": 876,
+  "family_pk": 48,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Koyraboro Senni Songhai [koyr1242][ses]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q35655",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Koyraboro_Senni",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/koyr1242",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kse",
+        "label": "Koyraboro Senni"
+      }
+    ],
+    "meds": [
+      [
+        "97408",
+        "long_grammar",
+        1999,
+        416,
+        "Heath, Jeffrey 1999"
+      ],
+      [
+        "35402",
+        "grammar",
+        1956,
+        209,
+        "Prost, André 1956"
+      ],
+      [
+        "158507",
+        "grammar_sketch",
+        1856,
+        29,
+        "Raffenel, Anne-Jean-Baptiste 1856"
+      ]
+    ]
+  },
+  "id": "koyr1242",
+  "name": "Koyraboro Senni Songhai",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.9634,
+  "longitude": -0.55187,
+  "classification": [
+    {
+      "name": "Songhay",
+      "id": "song1307",
+      "url": "https://glottolog.org/resource/languoid/id/song1307"
+    },
+    {
+      "name": "Eastern Songhay",
+      "id": "east2431",
+      "url": "https://glottolog.org/resource/languoid/id/east2431"
+    }
+  ],
+  "iso639-3": "ses"
+}

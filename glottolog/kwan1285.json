@@ -1,0 +1,78 @@
+{
+  "pk": 8255,
+  "hid": "kvi",
+  "father_pk": 5789,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Aloa [aloa1239]':1,'Gaya {East Chadic} [gaya1250]':1,'Kawalké [kawa1287]':1,'Mindéra [mind1262]':1,'Mobou [mobo1238]':1,'Ngam {Chad} [ngam1281]':1,'Nuclear Kwang [nucl1675]':1,'Tchagin [tcha1244]':1)'Kwang [kwan1285][kvi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 8,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3440398",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kwang_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "302561",
+        "phonology_or_text",
+        1984,
+        77,
+        "Lenssen, Tilman 1984"
+      ],
+      [
+        "102268",
+        "wordlist_or_less",
+        1937,
+        2,
+        "Lukas, Johannes 1937"
+      ]
+    ]
+  },
+  "id": "kwan1285",
+  "name": "Kwang",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.1181,
+  "longitude": 16.5129,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "East Chadic",
+      "id": "east2632",
+      "url": "https://glottolog.org/resource/languoid/id/east2632"
+    },
+    {
+      "name": "East Chadic A",
+      "id": "east2640",
+      "url": "https://glottolog.org/resource/languoid/id/east2640"
+    },
+    {
+      "name": "East Chadic A.3",
+      "id": "east2641",
+      "url": "https://glottolog.org/resource/languoid/id/east2641"
+    }
+  ],
+  "iso639-3": "kvi"
+}

@@ -1,0 +1,66 @@
+{
+  "pk": 5566,
+  "hid": "ciy",
+  "father_pk": 3663,
+  "family_pk": 56,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Chaima [chai1253][ciy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4172",
+        "label": "Chaima"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12628867",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "87426",
+        "grammar_sketch",
+        1680,
+        54,
+        "de Tauste, Francisco 1680"
+      ]
+    ]
+  },
+  "id": "chai1253",
+  "name": "Chaima",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.21256,
+  "longitude": -63.1034,
+  "classification": [
+    {
+      "name": "Cariban",
+      "id": "cari1283",
+      "url": "https://glottolog.org/resource/languoid/id/cari1283"
+    },
+    {
+      "name": "Venezuelan Cariban",
+      "id": "vene1261",
+      "url": "https://glottolog.org/resource/languoid/id/vene1261"
+    },
+    {
+      "name": "Mapoyo-Tamanaku",
+      "id": "mapo1244",
+      "url": "https://glottolog.org/resource/languoid/id/mapo1244"
+    },
+    {
+      "name": "Cumana",
+      "id": "coas1302",
+      "url": "https://glottolog.org/resource/languoid/id/coas1302"
+    }
+  ],
+  "iso639-3": "ciy"
+}

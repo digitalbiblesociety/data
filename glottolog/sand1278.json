@@ -1,0 +1,70 @@
+{
+  "pk": 1962,
+  "hid": "hve",
+  "father_pk": 872,
+  "family_pk": 45,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'San Dionisio del Mar Huave [sand1278][hve]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4292",
+        "label": "Huave"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12953568",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "551893",
+        "long_grammar",
+        2017,
+        501,
+        "Mikko Salminen 2017"
+      ],
+      [
+        "84468",
+        "grammar_sketch",
+        1969,
+        16,
+        "E. F. Stairs, and B. F. Hollenbach 1969"
+      ],
+      [
+        "319532",
+        "wordlist_or_less",
+        1916,
+        6,
+        "Paul Radin 1916"
+      ]
+    ]
+  },
+  "id": "sand1278",
+  "name": "San Dionisio del Mar Huave",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.3514,
+  "longitude": -94.7001,
+  "classification": [
+    {
+      "name": "Huavean",
+      "id": "huav1256",
+      "url": "https://glottolog.org/resource/languoid/id/huav1256"
+    },
+    {
+      "name": "San Dionisio-San Mateo Huave",
+      "id": "sand1283",
+      "url": "https://glottolog.org/resource/languoid/id/sand1283"
+    }
+  ],
+  "iso639-3": "hve"
+}

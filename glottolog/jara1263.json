@@ -1,0 +1,136 @@
+{
+  "pk": 21819,
+  "hid": "jar",
+  "father_pk": 20096,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bankal [bank1257][jjr]':1,'Bobar [boba1246]':1,'Gingwak [ging1241][jgk]':1,'Kanam [kana1285]':1,'Ligri [ligr1238]':1)'Jarawa {Nigeria} [jara1263][jar]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "jar",
+      "name": "Jarawa (Nigeria)",
+      "change_request": "2011-172",
+      "effective": "2012-02-03",
+      "reason": "split",
+      "change_to": [
+        "jgk",
+        "jjr"
+      ],
+      "remedy": "split into Gwak [jgk] and Bankal [jjr]",
+      "comment": "Intelligibility and lexical similarity between Bankal and Gwak are marginal.\n\nSpeakers of Gwak, Bankal, Duguri, Mbat, and Kantana all consider themselves to\nbe one Jarawa people, descended from the same ancestors and speaking a common\nJar language. There is no significant body of existing Jar literature."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Jarawa_language_(Nigeria)",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35423",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "149343",
+        "wordlist_or_less",
+        1981,
+        6,
+        "Kraft, Charles H. 1981"
+      ],
+      [
+        "37975",
+        "wordlist_or_less",
+        1921,
+        3,
+        "Johnston, Harry Hamilton 1921"
+      ],
+      [
+        "161489",
+        "wordlist_or_less",
+        1919,
+        2,
+        "Johnston, Harry H. 1919, 1922"
+      ],
+      [
+        "109280",
+        "wordlist_or_less",
+        1907,
+        2,
+        "Gowers, W.F. 1907"
+      ],
+      [
+        "66179",
+        "wordlist_or_less",
+        1854,
+        1,
+        "Koelle, Sigismund W. 1854"
+      ]
+    ]
+  },
+  "id": "jara1263",
+  "name": "Jarawa (Nigeria)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.8,
+  "longitude": 9.61,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Narrow Bantu",
+      "id": "narr1281",
+      "url": "https://glottolog.org/resource/languoid/id/narr1281"
+    },
+    {
+      "name": "Mbam-Bubi-Jarawan",
+      "id": "mbam1254",
+      "url": "https://glottolog.org/resource/languoid/id/mbam1254"
+    },
+    {
+      "name": "Jarawan",
+      "id": "jara1262",
+      "url": "https://glottolog.org/resource/languoid/id/jara1262"
+    },
+    {
+      "name": "Nigerian Jarawan",
+      "id": "nige1254",
+      "url": "https://glottolog.org/resource/languoid/id/nige1254"
+    },
+    {
+      "name": "Jarawaic",
+      "id": "jara1275",
+      "url": "https://glottolog.org/resource/languoid/id/jara1275"
+    }
+  ],
+  "iso639-3": "jar"
+}

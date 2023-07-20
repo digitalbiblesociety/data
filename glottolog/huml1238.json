@@ -1,0 +1,93 @@
+{
+  "pk": 18489,
+  "hid": "hut",
+  "father_pk": 16174,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Humla [huml1238][hut]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q17588918",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/huml1238",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "81810",
+        "phonology_or_text",
+        2001,
+        91,
+        "Wilde, Christopher Pekka 2001"
+      ],
+      [
+        "551699",
+        "wordlist_or_less",
+        1980,
+        23,
+        "Rauber, Hanna 1980"
+      ]
+    ]
+  },
+  "id": "huml1238",
+  "name": "Humla",
+  "description": null,
+  "markup_description": null,
+  "latitude": 30.1451,
+  "longitude": 81.5659,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "Bodish",
+      "id": "bodi1257",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1257"
+    },
+    {
+      "name": "Early Old Tibetan",
+      "id": "oldm1245",
+      "url": "https://glottolog.org/resource/languoid/id/oldm1245"
+    },
+    {
+      "name": "Middle Old Tibetan",
+      "id": "tibe1276",
+      "url": "https://glottolog.org/resource/languoid/id/tibe1276"
+    },
+    {
+      "name": "Late Old Tibetan",
+      "id": "late1253",
+      "url": "https://glottolog.org/resource/languoid/id/late1253"
+    },
+    {
+      "name": "Central Tibetan",
+      "id": "cent2346",
+      "url": "https://glottolog.org/resource/languoid/id/cent2346"
+    },
+    {
+      "name": "South-Western Tibetic",
+      "id": "sout3216",
+      "url": "https://glottolog.org/resource/languoid/id/sout3216"
+    }
+  ],
+  "iso639-3": "hut"
+}

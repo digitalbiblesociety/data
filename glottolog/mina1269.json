@@ -1,0 +1,107 @@
+{
+  "pk": 21440,
+  "hid": "mvn",
+  "father_pk": 19613,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Minaveha [mina1269][mvn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mnv",
+        "label": "Minaveha"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Minaveha_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6863278",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "59369",
+        "phonology_or_text",
+        1995,
+        216,
+        "Nenegemo, Tau and Lovell, Larry 1995"
+      ],
+      [
+        "98107",
+        "wordlist_or_less",
+        1988,
+        2,
+        "Malcolm Ross 1988"
+      ]
+    ]
+  },
+  "id": "mina1269",
+  "name": "Minaveha",
+  "description": null,
+  "markup_description": null,
+  "latitude": -9.59922,
+  "longitude": 150.501,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Western Oceanic linkage",
+      "id": "west2818",
+      "url": "https://glottolog.org/resource/languoid/id/west2818"
+    },
+    {
+      "name": "Papuan Tip linkage",
+      "id": "papu1253",
+      "url": "https://glottolog.org/resource/languoid/id/papu1253"
+    },
+    {
+      "name": "Nuclear Papuan Tip linkage",
+      "id": "nucl1744",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1744"
+    },
+    {
+      "name": "North Papuan Mainland-D'Entrecasteaux linkage",
+      "id": "nort2848",
+      "url": "https://glottolog.org/resource/languoid/id/nort2848"
+    },
+    {
+      "name": "Are-Taupota linkage",
+      "id": "aret1241",
+      "url": "https://glottolog.org/resource/languoid/id/aret1241"
+    },
+    {
+      "name": "Taupota linkage",
+      "id": "taup1241",
+      "url": "https://glottolog.org/resource/languoid/id/taup1241"
+    }
+  ],
+  "iso639-3": "mvn"
+}

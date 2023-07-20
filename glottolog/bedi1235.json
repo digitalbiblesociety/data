@@ -1,0 +1,96 @@
+{
+  "pk": 9777,
+  "hid": "tnr",
+  "father_pk": 7106,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Banapas [bana1309]':1,'Biwol [biwo1234]':1,'Nyolo [nyol1239]':1)'Bedik [bedi1235][tnr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1384",
+        "label": "Ménik"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35096",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bedik_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "16629",
+        "grammar_sketch",
+        1968,
+        31,
+        "Ferry, Marie-Paule 1968"
+      ],
+      [
+        "95546",
+        "grammar_sketch",
+        1966,
+        21,
+        "Gomila, J.M. and Ferry, Marie-Paule 1966"
+      ],
+      [
+        "135917",
+        "wordlist_or_less",
+        1965,
+        0,
+        "Dupré, Georges 1965"
+      ],
+      [
+        "42177",
+        "wordlist_or_less",
+        1909,
+        0,
+        "Neveux, [Dr] 1909"
+      ]
+    ]
+  },
+  "id": "bedi1235",
+  "name": "Bedik",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.7531,
+  "longitude": -12.4796,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "North-Central Atlantic",
+      "id": "nort3146",
+      "url": "https://glottolog.org/resource/languoid/id/nort3146"
+    },
+    {
+      "name": "Tenda",
+      "id": "tend1239",
+      "url": "https://glottolog.org/resource/languoid/id/tend1239"
+    },
+    {
+      "name": "Bassari-Bedik-Bapen",
+      "id": "bass1263",
+      "url": "https://glottolog.org/resource/languoid/id/bass1263"
+    },
+    {
+      "name": "Bedik-Bapen",
+      "id": "bedi1237",
+      "url": "https://glottolog.org/resource/languoid/id/bedi1237"
+    }
+  ],
+  "iso639-3": "tnr"
+}

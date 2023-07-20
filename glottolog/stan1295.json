@@ -1,0 +1,185 @@
+{
+  "pk": 22697,
+  "hid": "deu",
+  "father_pk": 20930,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Berlin German [berl1235]':1,'Hannover German [hann1239]':1,'Mansfeld German [mans1257]':1)'German [stan1295][deu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ger",
+        "label": "German"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_gbl",
+        "label": "German (Berlin)"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_gha",
+        "label": "German (Hannover)"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_gma",
+        "label": "German (Mansfeldisch)"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_gth",
+        "label": "German (Thuringian)"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_gti",
+        "label": "German (Timisoara)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/German_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/stan1295",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q188",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "320516",
+        "long_grammar",
+        1997,
+        2598,
+        "Zifonun, Gisela and Hoffmann, Ludger and Strecker, Bruno and Joachim Ballweg 1997"
+      ],
+      [
+        "81021",
+        "long_grammar",
+        1986,
+        896,
+        "Schuhmacher, Helmut 1986"
+      ],
+      [
+        "16036",
+        "long_grammar",
+        1969,
+        729,
+        "Lederer, Herbert 1969"
+      ],
+      [
+        "38811",
+        "long_grammar",
+        1964,
+        635,
+        "Curme, George 1964"
+      ],
+      [
+        "56062",
+        "grammar",
+        1961,
+        124,
+        "Stern, Guy and Bleiler, Everett F. 1961"
+      ],
+      [
+        "12857",
+        "grammar",
+        1923,
+        0,
+        "Behaghel, Otto 1923"
+      ],
+      [
+        "76603",
+        "grammar",
+        1922,
+        0,
+        "Curme, George O. 1922"
+      ],
+      [
+        "585744",
+        "grammar_sketch",
+        1573,
+        126,
+        "Laurentius Albertus 1573"
+      ],
+      [
+        "319384",
+        "grammar_sketch",
+        1535,
+        89,
+        "Ickelsamer, Valentin 1535"
+      ]
+    ]
+  },
+  "id": "stan1295",
+  "name": "German",
+  "description": null,
+  "markup_description": null,
+  "latitude": 48.649,
+  "longitude": 12.4676,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Germanic",
+      "id": "germ1287",
+      "url": "https://glottolog.org/resource/languoid/id/germ1287"
+    },
+    {
+      "name": "Northwest Germanic",
+      "id": "nort3152",
+      "url": "https://glottolog.org/resource/languoid/id/nort3152"
+    },
+    {
+      "name": "West Germanic",
+      "id": "west2793",
+      "url": "https://glottolog.org/resource/languoid/id/west2793"
+    },
+    {
+      "name": "High German",
+      "id": "high1289",
+      "url": "https://glottolog.org/resource/languoid/id/high1289"
+    },
+    {
+      "name": "Upper German",
+      "id": "high1286",
+      "url": "https://glottolog.org/resource/languoid/id/high1286"
+    },
+    {
+      "name": "Middle-Modern High German",
+      "id": "midd1349",
+      "url": "https://glottolog.org/resource/languoid/id/midd1349"
+    },
+    {
+      "name": "Modern High German",
+      "id": "mode1258",
+      "url": "https://glottolog.org/resource/languoid/id/mode1258"
+    },
+    {
+      "name": "Upper Franconian",
+      "id": "uppe1464",
+      "url": "https://glottolog.org/resource/languoid/id/uppe1464"
+    },
+    {
+      "name": "Global German",
+      "id": "glob1243",
+      "url": "https://glottolog.org/resource/languoid/id/glob1243"
+    }
+  ],
+  "iso639-3": "deu"
+}

@@ -1,0 +1,118 @@
+{
+  "pk": 17617,
+  "hid": "lcm",
+  "father_pk": 15243,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tungag [tung1290][lcm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tnk",
+        "label": "Tungak"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tungag_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3542085",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "475654",
+        "grammar_sketch",
+        2015,
+        120,
+        "Karin E. Fast 2015"
+      ],
+      [
+        "13621",
+        "grammar_sketch",
+        1990,
+        72,
+        "Fast, Lesley 1990"
+      ],
+      [
+        "319953",
+        "grammar_sketch",
+        1988,
+        46,
+        "Stamm, Josef 1988"
+      ],
+      [
+        "57662",
+        "wordlist_or_less",
+        1891,
+        4,
+        "Zöller, Hugo 1891"
+      ],
+      [
+        "129889",
+        "wordlist_or_less",
+        1876,
+        3,
+        "H. Strauch 1876"
+      ]
+    ]
+  },
+  "id": "tung1290",
+  "name": "Tungag",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.52188,
+  "longitude": 150.198,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Western Oceanic linkage",
+      "id": "west2818",
+      "url": "https://glottolog.org/resource/languoid/id/west2818"
+    },
+    {
+      "name": "Meso Melanesian linkage",
+      "id": "meso1253",
+      "url": "https://glottolog.org/resource/languoid/id/meso1253"
+    },
+    {
+      "name": "New Ireland-Northwest Solomonic linkage",
+      "id": "newi1242",
+      "url": "https://glottolog.org/resource/languoid/id/newi1242"
+    },
+    {
+      "name": "Tungak-Nalik",
+      "id": "tung1294",
+      "url": "https://glottolog.org/resource/languoid/id/tung1294"
+    }
+  ],
+  "iso639-3": "lcm"
+}

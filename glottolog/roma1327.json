@@ -1,0 +1,125 @@
+{
+  "pk": 20980,
+  "hid": "ron",
+  "father_pk": 18930,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Banat Romanian [bana1280]':1,'Bayash-Rudar [baya1255]':1,'Crishana [cris1238]':1,'Maramuresh [mara1372]':1,'Moldavian [mold1248][mol]':1,'Muntenian [munt1238]':1,'Oltenia-Lesser Wallachia [olte1239]':1,'Timok Vlach [timo1262]':1,'Transylvanian Romanian [tran1277]':1)'Romanian [roma1327][ron]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 9,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_rom",
+        "label": "Romanian"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Romanian_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/roma1327",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7913",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "323037",
+        "long_grammar",
+        1989,
+        452,
+        "Ilutiu, Vincent 1989"
+      ],
+      [
+        "51776",
+        "long_grammar",
+        1970,
+        434,
+        "Martin Murrell and Virgiliu Ştefănescu-Drăgăneşti 1970"
+      ],
+      [
+        "469488",
+        "long_grammar",
+        1967,
+        310,
+        "Dyrul, A. and I. Etsko and F. Kotel'nik 1967"
+      ],
+      [
+        "587198",
+        "grammar_sketch",
+        1904,
+        126,
+        "Theodor Gartner 1904"
+      ]
+    ]
+  },
+  "id": "roma1327",
+  "name": "Romanian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 46.3913,
+  "longitude": 24.2256,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Italic",
+      "id": "ital1284",
+      "url": "https://glottolog.org/resource/languoid/id/ital1284"
+    },
+    {
+      "name": "Latino-Faliscan",
+      "id": "lati1262",
+      "url": "https://glottolog.org/resource/languoid/id/lati1262"
+    },
+    {
+      "name": "Latinic",
+      "id": "lati1263",
+      "url": "https://glottolog.org/resource/languoid/id/lati1263"
+    },
+    {
+      "name": "Imperial Latin",
+      "id": "impe1234",
+      "url": "https://glottolog.org/resource/languoid/id/impe1234"
+    },
+    {
+      "name": "Romance",
+      "id": "roma1334",
+      "url": "https://glottolog.org/resource/languoid/id/roma1334"
+    },
+    {
+      "name": "Eastern Romance",
+      "id": "east2714",
+      "url": "https://glottolog.org/resource/languoid/id/east2714"
+    },
+    {
+      "name": "Northern Romanian",
+      "id": "nort3361",
+      "url": "https://glottolog.org/resource/languoid/id/nort3361"
+    },
+    {
+      "name": "Eastern Romanian",
+      "id": "east2865",
+      "url": "https://glottolog.org/resource/languoid/id/east2865"
+    }
+  ],
+  "iso639-3": "ron"
+}

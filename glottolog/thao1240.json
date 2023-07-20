@@ -1,0 +1,85 @@
+{
+  "pk": 2971,
+  "hid": "ssf",
+  "father_pk": 1525,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Brawbaw [braw1237]':1,'Sao {Formosan} [saof1235]':1,'Shtafari [shta1237]':1)'Thao [thao1240][ssf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2452",
+        "label": "Thao"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q676492",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Thao_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_thw",
+        "label": "Thao"
+      }
+    ],
+    "meds": [
+      [
+        "587805",
+        "grammar",
+        2018,
+        280,
+        "Jian, Shilang 2018"
+      ],
+      [
+        "59693",
+        "grammar",
+        2000,
+        209,
+        "Huang, Lillian M. 2000"
+      ],
+      [
+        "319975",
+        "grammar_sketch",
+        1956,
+        29,
+        "Li, Fang-kwei and Chi-lu Chen and Mei-chün Tang 1956"
+      ],
+      [
+        "29621",
+        "wordlist_or_less",
+        1910,
+        1,
+        "W. Müller 1910"
+      ]
+    ]
+  },
+  "id": "thao1240",
+  "name": "Thao",
+  "description": null,
+  "markup_description": null,
+  "latitude": 23.8333,
+  "longitude": 120.93,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Western Plains Austronesian",
+      "id": "west2572",
+      "url": "https://glottolog.org/resource/languoid/id/west2572"
+    }
+  ],
+  "iso639-3": "ssf"
+}

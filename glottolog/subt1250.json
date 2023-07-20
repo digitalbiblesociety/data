@@ -1,0 +1,80 @@
+{
+  "pk": 6459,
+  "hid": "sut",
+  "father_pk": 4416,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Subtiaba [subt1250][sut]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3915405",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Subtiaba_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "92776",
+        "grammar_sketch",
+        1925,
+        71,
+        "Edward Sapir 1925"
+      ],
+      [
+        "86095",
+        "grammar_sketch",
+        1915,
+        34,
+        "Lehmann, Walter 1915"
+      ],
+      [
+        "309994",
+        "wordlist_or_less",
+        1874,
+        12,
+        "C. Hermann Berendt 1874"
+      ]
+    ]
+  },
+  "id": "subt1250",
+  "name": "Subtiaba",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.4667,
+  "longitude": -86.9166,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Western Otomanguean",
+      "id": "west2783",
+      "url": "https://glottolog.org/resource/languoid/id/west2783"
+    },
+    {
+      "name": "Tlapanec-Manguean",
+      "id": "tlap1252",
+      "url": "https://glottolog.org/resource/languoid/id/tlap1252"
+    },
+    {
+      "name": "Subtiaba-Tlapanec",
+      "id": "subt1249",
+      "url": "https://glottolog.org/resource/languoid/id/subt1249"
+    }
+  ],
+  "iso639-3": "sut"
+}

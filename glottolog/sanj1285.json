@@ -1,0 +1,104 @@
+{
+  "pk": 17160,
+  "hid": "poe",
+  "father_pk": 14740,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'San Juan Atzingo Popoloca [sanj1285][poe]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5287",
+        "label": "Popoloca"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_psj",
+        "label": "Popoloca (San Juan Atzingo)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12953819",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "48626",
+        "grammar_sketch",
+        1995,
+        228,
+        "Krumholz, Jeanne Austin and Dolson, Marjorie Kalstrom and Hernández Ayuso, Miguel 1995"
+      ],
+      [
+        "143317",
+        "grammar_sketch",
+        1974,
+        34,
+        "Austin, Jeanne and Velma B. Pickett 1974"
+      ],
+      [
+        "122271",
+        "phonology_or_text",
+        1968,
+        15,
+        "Kalstrom, Marjorie R. and Pike, Eunice V. 1968"
+      ]
+    ]
+  },
+  "id": "sanj1285",
+  "name": "San Juan Atzingo Popoloca",
+  "description": null,
+  "markup_description": null,
+  "latitude": 18.22245,
+  "longitude": -97.37923,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Popoloca-Zapotecan",
+      "id": "popo1292",
+      "url": "https://glottolog.org/resource/languoid/id/popo1292"
+    },
+    {
+      "name": "Popolocan-Mazatecan",
+      "id": "popo1293",
+      "url": "https://glottolog.org/resource/languoid/id/popo1293"
+    },
+    {
+      "name": "Ixcatec-Chocho-Popolocan",
+      "id": "ixca1247",
+      "url": "https://glottolog.org/resource/languoid/id/ixca1247"
+    },
+    {
+      "name": "Chocho-Popolocan",
+      "id": "choc1278",
+      "url": "https://glottolog.org/resource/languoid/id/choc1278"
+    },
+    {
+      "name": "Popolocan",
+      "id": "popo1294",
+      "url": "https://glottolog.org/resource/languoid/id/popo1294"
+    },
+    {
+      "name": "Southwestern Popolocan",
+      "id": "sout3385",
+      "url": "https://glottolog.org/resource/languoid/id/sout3385"
+    }
+  ],
+  "iso639-3": "poe"
+}

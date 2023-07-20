@@ -1,0 +1,70 @@
+{
+  "pk": 2499,
+  "hid": "zib",
+  "father_pk": 1197,
+  "family_pk": 206,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Sign Language",
+  "newick": "('Manicaland Zimbabwe Sign [mani1306]':1,'Mashonaland Zimbabwe Sign [mash1272]':1,'Masvingo School Sign [masv1236]':1,'Matebeleland Zimbabwe Sign [mate1262]':1,'Midlands Zimbabwe Sign [midl1242]':1,'Zimbabwe Community Sign [zimb1248]':1,'Zimbabwe School Sign [zimb1235]':1)'Zimbabwe Sign Language [zimb1247][zib]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q8072097",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Zimbabwean_sign_languages",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "319023",
+        "phonology_or_text",
+        2011,
+        308,
+        "Mhlanga, Sindile Kevin 2011"
+      ],
+      [
+        "16720",
+        "wordlist_or_less",
+        1999,
+        177,
+        "Chimedza, Robert 1999"
+      ],
+      [
+        "8996",
+        "wordlist_or_less",
+        1995,
+        2,
+        "Chimedza, Robert 1995"
+      ]
+    ]
+  },
+  "id": "zimb1247",
+  "name": "Zimbabwe Sign Language",
+  "description": null,
+  "markup_description": null,
+  "latitude": -17.9128,
+  "longitude": 31.0216,
+  "classification": [
+    {
+      "name": "Sign Language",
+      "id": "sign1238",
+      "url": "https://glottolog.org/resource/languoid/id/sign1238"
+    },
+    {
+      "name": "Deaf Sign Language",
+      "id": "deaf1237",
+      "url": "https://glottolog.org/resource/languoid/id/deaf1237"
+    }
+  ],
+  "iso639-3": "zib"
+}

@@ -1,0 +1,127 @@
+{
+  "pk": 19628,
+  "hid": "sbe",
+  "father_pk": 17595,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Logeya [loge1237]':1,'Nuclear Saliba [nucl1502]':1)'Saliba [sali1295][sbe]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2606",
+        "label": "Saliba"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_slb",
+        "label": "Saliba (in Papua New Guinea)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Saliba_language_(Papua_New_Guinea)",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3469737",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "105454",
+        "long_grammar",
+        1999,
+        364,
+        "Margetts, Anna 1999"
+      ],
+      [
+        "108567",
+        "grammar_sketch",
+        1994,
+        48,
+        "Ulrike Mosel 1994"
+      ],
+      [
+        "309880",
+        "wordlist_or_less",
+        1892,
+        5,
+        "J. P. Thomson 1892"
+      ],
+      [
+        "57662",
+        "wordlist_or_less",
+        1891,
+        4,
+        "Zöller, Hugo 1891"
+      ],
+      [
+        "142544",
+        "wordlist_or_less",
+        1890,
+        4,
+        "MacGregor, William 1890"
+      ]
+    ]
+  },
+  "id": "sali1295",
+  "name": "Saliba",
+  "description": null,
+  "markup_description": null,
+  "latitude": -10.6148,
+  "longitude": 150.727,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Western Oceanic linkage",
+      "id": "west2818",
+      "url": "https://glottolog.org/resource/languoid/id/west2818"
+    },
+    {
+      "name": "Papuan Tip linkage",
+      "id": "papu1253",
+      "url": "https://glottolog.org/resource/languoid/id/papu1253"
+    },
+    {
+      "name": "Nuclear Papuan Tip linkage",
+      "id": "nucl1744",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1744"
+    },
+    {
+      "name": "Suauic",
+      "id": "suau1243",
+      "url": "https://glottolog.org/resource/languoid/id/suau1243"
+    },
+    {
+      "name": "Suau chain",
+      "id": "suau1244",
+      "url": "https://glottolog.org/resource/languoid/id/suau1244"
+    }
+  ],
+  "iso639-3": "sbe"
+}

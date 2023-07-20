@@ -1,0 +1,79 @@
+{
+  "pk": 4712,
+  "hid": "xnb",
+  "father_pk": 2992,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kanakanavu [kana1286][xnb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3236",
+        "label": "Kanakanavu"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kanakanavu_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q172244",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "578617",
+        "grammar",
+        2018,
+        298,
+        "Ilka Wild 2018"
+      ],
+      [
+        "135126",
+        "grammar_sketch",
+        1975,
+        41,
+        "Tsuchida, Shigeru 1975"
+      ],
+      [
+        "29621",
+        "wordlist_or_less",
+        1910,
+        1,
+        "W. Müller 1910"
+      ]
+    ]
+  },
+  "id": "kana1286",
+  "name": "Kanakanavu",
+  "description": null,
+  "markup_description": null,
+  "latitude": 23.3235,
+  "longitude": 120.887,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Tsouic",
+      "id": "tsou1250",
+      "url": "https://glottolog.org/resource/languoid/id/tsou1250"
+    },
+    {
+      "name": "Kanakanavu-Saaroa",
+      "id": "kana1292",
+      "url": "https://glottolog.org/resource/languoid/id/kana1292"
+    }
+  ],
+  "iso639-3": "xnb"
+}

@@ -1,0 +1,96 @@
+{
+  "pk": 10241,
+  "hid": "kmm",
+  "father_pk": 7359,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kolhreng [kolh1240]':1)'Kom {India} [komi1270][kmm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4416",
+        "label": "Kom"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12952647",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kom_language_(India)",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "546865",
+        "grammar",
+        2007,
+        291,
+        "Aimol, Chongom Damrengthang 2007"
+      ],
+      [
+        "60620",
+        "grammar_sketch",
+        1997,
+        21,
+        "Shultz, George 1997"
+      ],
+      [
+        "20196",
+        "phonology_or_text",
+        1975,
+        0,
+        "Braja Bihārī Kumāra and Christyan, Teba Karong and Kilong, Mangpu 1975"
+      ],
+      [
+        "118757",
+        "wordlist_or_less",
+        1904,
+        5,
+        "George A. Grierson 1904"
+      ]
+    ]
+  },
+  "id": "komi1270",
+  "name": "Kom (India)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 24.8688,
+  "longitude": 94.534,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Kuki-Chin",
+      "id": "kuki1246",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1246"
+    },
+    {
+      "name": "Northwestern Kuki-Chin",
+      "id": "oldk1252",
+      "url": "https://glottolog.org/resource/languoid/id/oldk1252"
+    },
+    {
+      "name": "Kolhrengic",
+      "id": "kolh1241",
+      "url": "https://glottolog.org/resource/languoid/id/kolh1241"
+    }
+  ],
+  "iso639-3": "kmm"
+}

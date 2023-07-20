@@ -1,0 +1,85 @@
+{
+  "pk": 7589,
+  "hid": "gdb",
+  "father_pk": 5257,
+  "family_pk": 404,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Pottangi Ollar Gadaba [pott1240][gdb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4198",
+        "label": "Pottangi Ollar Gadaba"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33906",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ollari_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/pott1240",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_gdk",
+        "label": "Gadaba (Kondekor)"
+      }
+    ],
+    "meds": [
+      [
+        "657722",
+        "grammar",
+        2019,
+        235,
+        "Mendem Bapuji 2019"
+      ],
+      [
+        "25297",
+        "grammar_sketch",
+        1957,
+        88,
+        "Sudhibhushan Bhattacharya 1957"
+      ]
+    ]
+  },
+  "id": "pott1240",
+  "name": "Pottangi Ollar Gadaba",
+  "description": null,
+  "markup_description": null,
+  "latitude": 18.5968,
+  "longitude": 82.7586,
+  "classification": [
+    {
+      "name": "Dravidian",
+      "id": "drav1251",
+      "url": "https://glottolog.org/resource/languoid/id/drav1251"
+    },
+    {
+      "name": "Central Dravidian",
+      "id": "cent2227",
+      "url": "https://glottolog.org/resource/languoid/id/cent2227"
+    },
+    {
+      "name": "Parji-Ollari-Gadaba",
+      "id": "parj1243",
+      "url": "https://glottolog.org/resource/languoid/id/parj1243"
+    },
+    {
+      "name": "Ollari-Gadaba",
+      "id": "olla1234",
+      "url": "https://glottolog.org/resource/languoid/id/olla1234"
+    }
+  ],
+  "iso639-3": "gdb"
+}

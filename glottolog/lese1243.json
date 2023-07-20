@@ -1,0 +1,102 @@
+{
+  "pk": 5892,
+  "hid": "les",
+  "father_pk": 3933,
+  "family_pk": 140,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Arumbi [arum1242]':1,'Fare [fare1242]':1,'Lese Karo [lese1244]':1,'Ndese [ndes1238]':1,'Vukutu [vuku1238]':1)'Lese [lese1243][les]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q11033939",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lese_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/lese1243",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_les",
+        "label": "Lese"
+      }
+    ],
+    "meds": [
+      [
+        "120353",
+        "grammar",
+        1965,
+        179,
+        "Vorbichler, Anton 1965"
+      ],
+      [
+        "145444",
+        "grammar_sketch",
+        1956,
+        19,
+        "Harries, Lyndon 1956"
+      ],
+      [
+        "102870",
+        "phonology_or_text",
+        1877,
+        0,
+        "Beltrame, D. Giovanni 1877"
+      ],
+      [
+        "56173",
+        "wordlist_or_less",
+        1876,
+        37,
+        "[1876a] 1876"
+      ],
+      [
+        "10869",
+        "wordlist_or_less",
+        1875,
+        0,
+        "Miani, Giovanni 1875"
+      ]
+    ]
+  },
+  "id": "lese1243",
+  "name": "Lese",
+  "description": null,
+  "markup_description": null,
+  "latitude": 1.3,
+  "longitude": 29.3,
+  "classification": [
+    {
+      "name": "Central Sudanic",
+      "id": "cent2225",
+      "url": "https://glottolog.org/resource/languoid/id/cent2225"
+    },
+    {
+      "name": "Membi-Mangbutu-Efe",
+      "id": "memb1239",
+      "url": "https://glottolog.org/resource/languoid/id/memb1239"
+    },
+    {
+      "name": "Mangbutu-Efe",
+      "id": "mang1425",
+      "url": "https://glottolog.org/resource/languoid/id/mang1425"
+    },
+    {
+      "name": "Leseic",
+      "id": "lese1245",
+      "url": "https://glottolog.org/resource/languoid/id/lese1245"
+    }
+  ],
+  "iso639-3": "les"
+}

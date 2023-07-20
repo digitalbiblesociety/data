@@ -1,0 +1,101 @@
+{
+  "pk": 3918,
+  "hid": "gww",
+  "father_pk": 2230,
+  "family_pk": 139,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kwini [kwin1241][gww]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3786",
+        "label": "Gunin"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/k36",
+        "label": "Gunin"
+      },
+      {
+        "url": "https://phoible.org/languages/kwin1241",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_gnn",
+        "label": "Gunin"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q10551249",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "5187",
+        "grammar_sketch",
+        1993,
+        61,
+        "William McGregor 1993"
+      ],
+      [
+        "1762",
+        "phonology_or_text",
+        1972,
+        35,
+        "Capell, Arthur 1972"
+      ],
+      [
+        "316703",
+        "wordlist_or_less",
+        1970,
+        19,
+        "{Summer Institute of Linguistics} 1970"
+      ],
+      [
+        "4167",
+        "wordlist_or_less",
+        1940,
+        1,
+        "Arthur Capell 1940, 1940"
+      ],
+      [
+        "64",
+        "wordlist_or_less",
+        1939,
+        2,
+        "Capell, Arthur 1939"
+      ]
+    ]
+  },
+  "id": "kwin1241",
+  "name": "Kwini",
+  "description": null,
+  "markup_description": null,
+  "latitude": -14.2515,
+  "longitude": 126.562,
+  "classification": [
+    {
+      "name": "Worrorran",
+      "id": "worr1236",
+      "url": "https://glottolog.org/resource/languoid/id/worr1236"
+    },
+    {
+      "name": "Northern Worrorran",
+      "id": "nort2751",
+      "url": "https://glottolog.org/resource/languoid/id/nort2751"
+    },
+    {
+      "name": "Forrest River",
+      "id": "forr1234",
+      "url": "https://glottolog.org/resource/languoid/id/forr1234"
+    }
+  ],
+  "iso639-3": "gww"
+}

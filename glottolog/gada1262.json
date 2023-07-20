@@ -1,0 +1,89 @@
+{
+  "pk": 8252,
+  "hid": "gdk",
+  "father_pk": 5788,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Gadang [gada1262][gdk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2309",
+        "label": "Gadang"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56256",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Gadang_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "56597",
+        "wordlist_or_less",
+        1977,
+        4,
+        "Jungraithmayr, Herrmann 1977"
+      ],
+      [
+        "99066",
+        "wordlist_or_less",
+        1973,
+        6,
+        "Caprile, Jean-Pierre and Jungraithmayr, Herrmann 1973"
+      ],
+      [
+        "92907",
+        "wordlist_or_less",
+        1969,
+        3,
+        "Claude Arditi 1969"
+      ]
+    ]
+  },
+  "id": "gada1262",
+  "name": "Gadang",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.425,
+  "longitude": 16.997,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "East Chadic",
+      "id": "east2632",
+      "url": "https://glottolog.org/resource/languoid/id/east2632"
+    },
+    {
+      "name": "East Chadic A",
+      "id": "east2640",
+      "url": "https://glottolog.org/resource/languoid/id/east2640"
+    },
+    {
+      "name": "East Chadic A.1",
+      "id": "east2775",
+      "url": "https://glottolog.org/resource/languoid/id/east2775"
+    }
+  ],
+  "iso639-3": "gdk"
+}

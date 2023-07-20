@@ -1,0 +1,81 @@
+{
+  "pk": 15768,
+  "hid": "amb",
+  "father_pk": 12989,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ambo [ambo1249][amb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3450142",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ambo_language_(Nigeria)",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "306294",
+        "wordlist_or_less",
+        2013,
+        0,
+        "Lewis, Paul M. and Gary F. Simons and Charles D. Fennig 2013"
+      ]
+    ]
+  },
+  "id": "ambo1249",
+  "name": "Ambo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.07637,
+  "longitude": 10.7798,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Tivoid",
+      "id": "tivo1239",
+      "url": "https://glottolog.org/resource/languoid/id/tivo1239"
+    },
+    {
+      "name": "North Tivoid",
+      "id": "nort3192",
+      "url": "https://glottolog.org/resource/languoid/id/nort3192"
+    }
+  ],
+  "iso639-3": "amb"
+}

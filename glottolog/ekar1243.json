@@ -1,0 +1,97 @@
+{
+  "pk": 4542,
+  "hid": "ekg",
+  "father_pk": 2924,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Mapiya-Kegata [mapi1251]':1,'Mee [meee1238]':1,'Simori [simo1241]':1,'Yabi [yabi1243]':1)'Ekari [ekar1243][ekg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q5350305",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ekari_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/ekar1243",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_eka",
+        "label": "Ekari"
+      }
+    ],
+    "meds": [
+      [
+        "133349",
+        "grammar",
+        1959,
+        144,
+        "J. Steltenpool and Petrus van der Stap 1959"
+      ],
+      [
+        "94208",
+        "grammar",
+        1952,
+        111,
+        "Drabbe, Peter 1952"
+      ],
+      [
+        "91959",
+        "grammar_sketch",
+        1949,
+        11,
+        "Petrus Drabbe 1949"
+      ],
+      [
+        "556168",
+        "wordlist_or_less",
+        1930,
+        20,
+        "B. J. Kuik 1930"
+      ],
+      [
+        "557565",
+        "wordlist_or_less",
+        1911,
+        2,
+        "J. Th. Stroeve 1911"
+      ]
+    ]
+  },
+  "id": "ekar1243",
+  "name": "Ekari",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.88974,
+  "longitude": 136.018,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Paniai Lakes",
+      "id": "pani1259",
+      "url": "https://glottolog.org/resource/languoid/id/pani1259"
+    },
+    {
+      "name": "Mee-Wodani",
+      "id": "meew1234",
+      "url": "https://glottolog.org/resource/languoid/id/meew1234"
+    }
+  ],
+  "iso639-3": "ekg"
+}

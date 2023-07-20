@@ -1,0 +1,110 @@
+{
+  "pk": 2431,
+  "hid": "bla",
+  "father_pk": 1137,
+  "family_pk": 178,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Blood [bloo1239]':1,'Piegan [pieg1239]':1)'Siksika [siks1238][bla]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bla",
+        "label": "Blackfoot"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/1677",
+        "label": "Niitsipowahsin"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Blackfoot_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/siks1238",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33060",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "130380",
+        "long_grammar",
+        1969,
+        337,
+        "Allan R. Taylor 1969"
+      ],
+      [
+        "159718",
+        "grammar",
+        1938,
+        235,
+        "Uhlenbeck, C. C. 1938"
+      ],
+      [
+        "306427",
+        "grammar_sketch",
+        1899,
+        111,
+        "Tims, J. W. 1899"
+      ],
+      [
+        "113201",
+        "grammar_sketch",
+        1895,
+        38,
+        "J. Maclean 1895-1896"
+      ],
+      [
+        "14992",
+        "wordlist_or_less",
+        1862,
+        13,
+        "F. V. Hayden 1862"
+      ],
+      [
+        "47996",
+        "wordlist_or_less",
+        1852,
+        8,
+        "Henry R. Schoolcraft 1852"
+      ],
+      [
+        "121220",
+        "wordlist_or_less",
+        1849,
+        3,
+        "T. Howse 1849"
+      ]
+    ]
+  },
+  "id": "siks1238",
+  "name": "Siksika",
+  "description": null,
+  "markup_description": null,
+  "latitude": 49.0669,
+  "longitude": -113.109,
+  "classification": [
+    {
+      "name": "Algic",
+      "id": "algi1248",
+      "url": "https://glottolog.org/resource/languoid/id/algi1248"
+    },
+    {
+      "name": "Algonquian-Blackfoot",
+      "id": "algo1256",
+      "url": "https://glottolog.org/resource/languoid/id/algo1256"
+    }
+  ],
+  "iso639-3": "bla"
+}

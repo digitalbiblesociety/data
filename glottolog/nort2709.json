@@ -1,0 +1,86 @@
+{
+  "pk": 13328,
+  "hid": "ghh",
+  "father_pk": 10266,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Jagat [jaga1246]':1,'Khorla [khor1243]':1,'Nyak [nyak1258]':1,'Philim [phil1244]':1,'Uiya [uiya1236]':1)'Northern Ghale [nort2709][ghh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q22662104",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "80890",
+        "grammar_sketch",
+        1999,
+        0,
+        "Smith, Holly 1999"
+      ],
+      [
+        "315560",
+        "phonology_or_text",
+        1994,
+        282,
+        "Larry L. Seaward 1994"
+      ],
+      [
+        "72828",
+        "wordlist_or_less",
+        1982,
+        8,
+        "Nishi, Yoshio 1982"
+      ]
+    ]
+  },
+  "id": "nort2709",
+  "name": "Northern Ghale",
+  "description": null,
+  "markup_description": null,
+  "latitude": 28.2332,
+  "longitude": 84.929,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "Kaike-Ghale-Tamangic",
+      "id": "kaik1248",
+      "url": "https://glottolog.org/resource/languoid/id/kaik1248"
+    },
+    {
+      "name": "Ghale-Tamangic",
+      "id": "ghal1247",
+      "url": "https://glottolog.org/resource/languoid/id/ghal1247"
+    },
+    {
+      "name": "Ghale",
+      "id": "ghal1246",
+      "url": "https://glottolog.org/resource/languoid/id/ghal1246"
+    },
+    {
+      "name": "Nuclear Ghale",
+      "id": "nucl1818",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1818"
+    }
+  ],
+  "iso639-3": "ghh"
+}

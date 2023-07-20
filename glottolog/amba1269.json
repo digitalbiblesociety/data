@@ -1,0 +1,81 @@
+{
+  "pk": 2656,
+  "hid": "aew",
+  "father_pk": 1242,
+  "family_pk": 230,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Northern Ambakich [nort2931]':1,'Southern Ambakich [sout2951]':1)'Ambakich [amba1269][aew]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10639",
+        "label": "Ambakich"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56642",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ambakich_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "657772",
+        "phonology_or_text",
+        2021,
+        29,
+        "Barlow, Russell 2021"
+      ],
+      [
+        "116588",
+        "wordlist_or_less",
+        2008,
+        44,
+        "Margaret Potter and Philip Lambrecht and Laura Alemán and Correna Janzen 2008"
+      ],
+      [
+        "663327",
+        "wordlist_or_less",
+        2001,
+        2,
+        "Correna Janzen 2001"
+      ],
+      [
+        "37308",
+        "wordlist_or_less",
+        1969,
+        2,
+        "John A. Z'graggen 1969"
+      ]
+    ]
+  },
+  "id": "amba1269",
+  "name": "Ambakich",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.23181,
+  "longitude": 144.285,
+  "classification": [
+    {
+      "name": "Keram",
+      "id": "kera1258",
+      "url": "https://glottolog.org/resource/languoid/id/kera1258"
+    },
+    {
+      "name": "East Keram",
+      "id": "east2864",
+      "url": "https://glottolog.org/resource/languoid/id/east2864"
+    }
+  ],
+  "iso639-3": "aew"
+}

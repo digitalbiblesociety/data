@@ -1,0 +1,70 @@
+{
+  "pk": 3378,
+  "hid": "mti",
+  "father_pk": 1803,
+  "family_pk": 384,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Gairen [gair1238]':1,'Gwareta [gwar1241]':1,'Maiwa [maiw1252]':1,'Manigara [mani1298]':1,'Oren [oren1238]':1)'Maiwa {Papua New Guinea} [maiw1251][mti]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Maiwa_language_(Papuan)",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6737223",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "155429",
+        "phonology_or_text",
+        2002,
+        34,
+        "Nakamura, Takashi and Nakamura, Yaeko 2002"
+      ],
+      [
+        "104346",
+        "wordlist_or_less",
+        1914,
+        3,
+        "Anonymous, {} 1914"
+      ],
+      [
+        "309606",
+        "wordlist_or_less",
+        1911,
+        1,
+        "W. M. Strong 1911"
+      ]
+    ]
+  },
+  "id": "maiw1251",
+  "name": "Maiwa (Papua New Guinea)",
+  "description": null,
+  "markup_description": null,
+  "latitude": -9.69836,
+  "longitude": 149.274,
+  "classification": [
+    {
+      "name": "Dagan",
+      "id": "daga1274",
+      "url": "https://glottolog.org/resource/languoid/id/daga1274"
+    },
+    {
+      "name": "Central Dagan",
+      "id": "cent2401",
+      "url": "https://glottolog.org/resource/languoid/id/cent2401"
+    }
+  ],
+  "iso639-3": "mti"
+}

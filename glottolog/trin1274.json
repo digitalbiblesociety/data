@@ -1,0 +1,96 @@
+{
+  "pk": 8782,
+  "hid": "trn",
+  "father_pk": 6274,
+  "family_pk": 177,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Javeriano [javi1240]':1,'Loreto [lore1245]':1,'Trinitario [trin1278]':1)'Trinitario-Javeriano-Loretano [trin1274][trn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2909",
+        "label": "Trinitario"
+      },
+      {
+        "url": "https://phoible.org/languages/trin1274",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3539279",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "656742",
+        "grammar",
+        1880,
+        0,
+        "Adam, Lucien and Leclerc, C. 1880"
+      ],
+      [
+        "63226",
+        "grammar_sketch",
+        1701,
+        620,
+        "Pedro Marban 1701"
+      ],
+      [
+        "88344",
+        "wordlist_or_less",
+        1696,
+        10,
+        "Eguiluz, Diego de 1884 [1696]"
+      ],
+      [
+        "61934",
+        "wordlist_or_less",
+        1676,
+        102,
+        "Castillo, Joseph de 1906 [1676]"
+      ]
+    ]
+  },
+  "id": "trin1274",
+  "name": "Trinitario-Javeriano-Loretano",
+  "description": null,
+  "markup_description": null,
+  "latitude": -15.3331,
+  "longitude": -65.4096,
+  "classification": [
+    {
+      "name": "Arawakan",
+      "id": "araw1281",
+      "url": "https://glottolog.org/resource/languoid/id/araw1281"
+    },
+    {
+      "name": "Southern Maipuran",
+      "id": "sout3131",
+      "url": "https://glottolog.org/resource/languoid/id/sout3131"
+    },
+    {
+      "name": "Bolivian Arawakan",
+      "id": "boli1260",
+      "url": "https://glottolog.org/resource/languoid/id/boli1260"
+    },
+    {
+      "name": "Mojeno-Paunaca",
+      "id": "moxo1235",
+      "url": "https://glottolog.org/resource/languoid/id/moxo1235"
+    },
+    {
+      "name": "Mojeño",
+      "id": "moxo1234",
+      "url": "https://glottolog.org/resource/languoid/id/moxo1234"
+    }
+  ],
+  "iso639-3": "trn"
+}

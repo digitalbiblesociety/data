@@ -1,0 +1,107 @@
+{
+  "pk": 9192,
+  "hid": "dbj",
+  "father_pk": 6702,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Begak [bega1240]':1,'Nuclear Ida''an [nucl1564]':1,'Subpan [subp1237]':1)'Ida''an [idaa1241][dbj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3041552",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ida%27an_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/idaa1241",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_beg",
+        "label": "Begak-Ida'an"
+      }
+    ],
+    "meds": [
+      [
+        "82814",
+        "long_grammar",
+        2005,
+        539,
+        "Nelleke Goudswaard 2005"
+      ],
+      [
+        "156779",
+        "grammar_sketch",
+        1989,
+        70,
+        "Moody, David C. and Moody, Marsha Ann 1989"
+      ],
+      [
+        "162875",
+        "grammar_sketch",
+        1988,
+        19,
+        "Moody, David C. 1988"
+      ],
+      [
+        "307580",
+        "wordlist_or_less",
+        1896,
+        16,
+        "Roth, Henry Ling 1896"
+      ],
+      [
+        "552444",
+        "wordlist_or_less",
+        1880,
+        11,
+        "Swettenham, F. A. 1880"
+      ]
+    ]
+  },
+  "id": "idaa1241",
+  "name": "Ida'an",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.29059,
+  "longitude": 118.515,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "North Borneo Malayo-Polynesian",
+      "id": "nort3253",
+      "url": "https://glottolog.org/resource/languoid/id/nort3253"
+    },
+    {
+      "name": "Sabahan",
+      "id": "saba1285",
+      "url": "https://glottolog.org/resource/languoid/id/saba1285"
+    },
+    {
+      "name": "Northeast Sabahan",
+      "id": "nort3172",
+      "url": "https://glottolog.org/resource/languoid/id/nort3172"
+    }
+  ],
+  "iso639-3": "dbj"
+}

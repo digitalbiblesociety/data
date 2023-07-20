@@ -1,0 +1,72 @@
+{
+  "pk": 722,
+  "hid": "kex",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Kukna [kukn1238][kex]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "kex",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "Kukna [kex] is listed in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 as a separate language but the Kukna speak a language intelligible to that in the Dhodia [dho] entry (**hh:s:Ahirwal:Varli**:22). See also: Dhodia-Kukna [dho]."
+    },
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kkz",
+        "label": "Kokni"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Canarese_Konkani",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5031131",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "306294",
+        "wordlist_or_less",
+        2013,
+        0,
+        "Lewis, Paul M. and Gary F. Simons and Charles D. Fennig 2013"
+      ]
+    ]
+  },
+  "id": "kukn1238",
+  "name": "Kukna",
+  "description": null,
+  "markup_description": null,
+  "latitude": 20.5657,
+  "longitude": 73.5713,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "kex"
+}

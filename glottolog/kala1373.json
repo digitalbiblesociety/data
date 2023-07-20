@@ -1,0 +1,120 @@
+{
+  "pk": 18772,
+  "hid": "gwc",
+  "father_pk": 16523,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dashwa [dash1238]':1,'Kalam {Pakistan} [kala1374]':1,'Lamuti [lamu1252]':1,'Rajkoti [rajk1238]':1,'Thal [thal1242]':1,'Ushu [ushu1238]':1)'Gawri [kala1373][gwc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1593",
+        "label": "Kalami"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q1675961",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kalami_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kal",
+        "label": "Kalami"
+      }
+    ],
+    "meds": [
+      [
+        "162320",
+        "grammar",
+        1999,
+        214,
+        "Baart, Joan L. G. 1999"
+      ],
+      [
+        "38272",
+        "grammar_sketch",
+        1996,
+        203,
+        "Lothers, Michael David 1996"
+      ],
+      [
+        "82410",
+        "grammar_sketch",
+        1940,
+        52,
+        "Georg Morgenstierne 1940"
+      ],
+      [
+        "318199",
+        "phonology_or_text",
+        1880,
+        10,
+        "John Biddulph 1880"
+      ]
+    ]
+  },
+  "id": "kala1373",
+  "name": "Gawri",
+  "description": null,
+  "markup_description": null,
+  "latitude": 35.5303,
+  "longitude": 72.5738,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Indo-Aryan",
+      "id": "indo1321",
+      "url": "https://glottolog.org/resource/languoid/id/indo1321"
+    },
+    {
+      "name": "Middle-Modern Indo-Aryan",
+      "id": "midd1375",
+      "url": "https://glottolog.org/resource/languoid/id/midd1375"
+    },
+    {
+      "name": "Eastern Dardic",
+      "id": "dard1244",
+      "url": "https://glottolog.org/resource/languoid/id/dard1244"
+    },
+    {
+      "name": "Nuclear Eastern Dardic",
+      "id": "nucl1819",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1819"
+    },
+    {
+      "name": "Kohistani",
+      "id": "kohi1251",
+      "url": "https://glottolog.org/resource/languoid/id/kohi1251"
+    },
+    {
+      "name": "Dir-Swat Kohistani",
+      "id": "dirs1236",
+      "url": "https://glottolog.org/resource/languoid/id/dirs1236"
+    }
+  ],
+  "iso639-3": "gwc"
+}

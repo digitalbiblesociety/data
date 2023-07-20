@@ -1,0 +1,87 @@
+{
+  "pk": 4813,
+  "hid": "amp",
+  "father_pk": 3078,
+  "family_pk": 304,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Karawari [kara1494]':1,'Kuvenmas [kuve1239]':1)'Alamblak [alam1246][amp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10616",
+        "label": "Alamblak"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ala",
+        "label": "Alamblak"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Alamblak_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/alam1246",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56688",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "143513",
+        "long_grammar",
+        1979,
+        572,
+        "Bruce, Jr., Leslie P. 1979"
+      ],
+      [
+        "82501",
+        "wordlist_or_less",
+        1968,
+        1,
+        "Wayne Dye and Patricia Townsend and W. Townsend 1968"
+      ],
+      [
+        "318703",
+        "wordlist_or_less",
+        1963,
+        0,
+        "Eike Haberland 1963"
+      ]
+    ]
+  },
+  "id": "alam1246",
+  "name": "Alamblak",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.66307,
+  "longitude": 143.316,
+  "classification": [
+    {
+      "name": "Sepik",
+      "id": "sepi1257",
+      "url": "https://glottolog.org/resource/languoid/id/sepi1257"
+    },
+    {
+      "name": "Sepik Hill",
+      "id": "sepi1258",
+      "url": "https://glottolog.org/resource/languoid/id/sepi1258"
+    },
+    {
+      "name": "Eastern Sepik Hill",
+      "id": "east2496",
+      "url": "https://glottolog.org/resource/languoid/id/east2496"
+    }
+  ],
+  "iso639-3": "amp"
+}

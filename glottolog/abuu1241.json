@@ -1,0 +1,79 @@
+{
+  "pk": 3959,
+  "hid": "ado",
+  "father_pk": 2247,
+  "family_pk": 143,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Auwa [auwa1242]':1,'Nuclear Abu [nucl1640]':1,'Sabu {Papua New Guinea} [sabu1256]':1)'Abu [abuu1241][ado]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10638",
+        "label": "Abu"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56659",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Adjora_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "590199",
+        "wordlist_or_less",
+        1974,
+        17,
+        "John A. Z'graggen 1974"
+      ],
+      [
+        "306728",
+        "wordlist_or_less",
+        1972,
+        15,
+        "John A. Z'graggen 1972"
+      ],
+      [
+        "37308",
+        "wordlist_or_less",
+        1969,
+        2,
+        "John A. Z'graggen 1969"
+      ]
+    ]
+  },
+  "id": "abuu1241",
+  "name": "Abu",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.24027,
+  "longitude": 144.474,
+  "classification": [
+    {
+      "name": "Lower Sepik-Ramu",
+      "id": "lowe1437",
+      "url": "https://glottolog.org/resource/languoid/id/lowe1437"
+    },
+    {
+      "name": "Ramu",
+      "id": "ramu1234",
+      "url": "https://glottolog.org/resource/languoid/id/ramu1234"
+    },
+    {
+      "name": "Agoan",
+      "id": "agoa1234",
+      "url": "https://glottolog.org/resource/languoid/id/agoa1234"
+    }
+  ],
+  "iso639-3": "ado"
+}

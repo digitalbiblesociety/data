@@ -1,0 +1,71 @@
+{
+  "pk": 10605,
+  "hid": "hld",
+  "father_pk": 7706,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Halang Doan [hala1253][hld]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3914632",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Duan_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "444990",
+        "wordlist_or_less",
+        1912,
+        84,
+        "Henri Maitre 1912"
+      ]
+    ]
+  },
+  "id": "hala1253",
+  "name": "Halang Doan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 14.9704,
+  "longitude": 107.86,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Bahnaric",
+      "id": "bahn1264",
+      "url": "https://glottolog.org/resource/languoid/id/bahn1264"
+    },
+    {
+      "name": "North Bahnaric",
+      "id": "nort3150",
+      "url": "https://glottolog.org/resource/languoid/id/nort3150"
+    },
+    {
+      "name": "Kayong-Jeh-Halang",
+      "id": "jehh1244",
+      "url": "https://glottolog.org/resource/languoid/id/jehh1244"
+    },
+    {
+      "name": "Unclassified Kayong-Jeh-Halang",
+      "id": "unun9941",
+      "url": "https://glottolog.org/resource/languoid/id/unun9941"
+    }
+  ],
+  "iso639-3": "hld"
+}

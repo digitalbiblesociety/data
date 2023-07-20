@@ -1,0 +1,68 @@
+{
+  "pk": 4970,
+  "hid": "pdu",
+  "father_pk": 3175,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kayan Lahwi [kaya1315][pdu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7123283",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Padaung_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "553496",
+        "long_grammar",
+        2010,
+        530,
+        "Manson, Kenneth Neil 2010"
+      ],
+      [
+        "81358",
+        "phonology_or_text",
+        2007,
+        30,
+        "Ken Manson 2007"
+      ]
+    ]
+  },
+  "id": "kaya1315",
+  "name": "Kayan Lahwi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 19.5183,
+  "longitude": 97.4138,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Karenic",
+      "id": "kare1337",
+      "url": "https://glottolog.org/resource/languoid/id/kare1337"
+    },
+    {
+      "name": "Northern Karen",
+      "id": "nort2703",
+      "url": "https://glottolog.org/resource/languoid/id/nort2703"
+    }
+  ],
+  "iso639-3": "pdu"
+}

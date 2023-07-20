@@ -1,0 +1,101 @@
+{
+  "pk": 13217,
+  "hid": "kkt",
+  "father_pk": 10160,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Behere [behe1240]':1,'Sungdel [sung1268]':1)'Koi [koii1238][kkt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5648",
+        "label": "Koi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6426194",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Koi_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "589157",
+        "long_grammar",
+        2015,
+        474,
+        "Tara Mani Rai 2015"
+      ],
+      [
+        "41722",
+        "grammar_sketch",
+        2009,
+        33,
+        "Lahaussois, Aimée 2009"
+      ],
+      [
+        "314456",
+        "grammar_sketch",
+        2006,
+        0,
+        "Bhim Regmi 2006"
+      ],
+      [
+        "550186",
+        "grammar_sketch",
+        1966,
+        0,
+        "Lahaussois, Aimée 1966"
+      ]
+    ]
+  },
+  "id": "koii1238",
+  "name": "Koi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.1941,
+  "longitude": 86.8531,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Himalayish",
+      "id": "hima1249",
+      "url": "https://glottolog.org/resource/languoid/id/hima1249"
+    },
+    {
+      "name": "Mahakiranti",
+      "id": "maha1306",
+      "url": "https://glottolog.org/resource/languoid/id/maha1306"
+    },
+    {
+      "name": "Kiranti",
+      "id": "kira1253",
+      "url": "https://glottolog.org/resource/languoid/id/kira1253"
+    },
+    {
+      "name": "Western Kiranti",
+      "id": "west2424",
+      "url": "https://glottolog.org/resource/languoid/id/west2424"
+    },
+    {
+      "name": "Upper Dudhkosi",
+      "id": "uppe1413",
+      "url": "https://glottolog.org/resource/languoid/id/uppe1413"
+    }
+  ],
+  "iso639-3": "kkt"
+}

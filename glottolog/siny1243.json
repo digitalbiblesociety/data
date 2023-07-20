@@ -1,0 +1,77 @@
+{
+  "pk": 2233,
+  "hid": "sys",
+  "father_pk": 1027,
+  "family_pk": 140,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Sinyar [siny1243][sys]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56840",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sinyar_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "569377",
+        "phonology_or_text",
+        2019,
+        38,
+        "Boyeldieu, Pascal 2019"
+      ],
+      [
+        "547650",
+        "phonology_or_text",
+        2015,
+        16,
+        "Pascal Boyeldieu 2015"
+      ],
+      [
+        "314443",
+        "phonology_or_text",
+        2013,
+        10,
+        "Pascal Boyeldieu 2013"
+      ],
+      [
+        "72587",
+        "wordlist_or_less",
+        1925,
+        2,
+        "Grossard, Le Lieutenant-Colonel 1925"
+      ]
+    ]
+  },
+  "id": "siny1243",
+  "name": "Sinyar",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.1895,
+  "longitude": 22.5278,
+  "classification": [
+    {
+      "name": "Central Sudanic",
+      "id": "cent2225",
+      "url": "https://glottolog.org/resource/languoid/id/cent2225"
+    },
+    {
+      "name": "Sara-Bongo-Bagirmi",
+      "id": "sara1341",
+      "url": "https://glottolog.org/resource/languoid/id/sara1341"
+    }
+  ],
+  "iso639-3": "sys"
+}

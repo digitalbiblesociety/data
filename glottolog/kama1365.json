@@ -1,0 +1,97 @@
+{
+  "pk": 8341,
+  "hid": "woi",
+  "father_pk": 5845,
+  "family_pk": 125,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kamana-Kamang [kama1366]':1,'Lembur [lemb1265]':1,'Nuclear Kamang [nucl1583]':1,'Sibo [sibo1242]':1,'Tiayai [tiay1238]':1,'Watang [wata1250]':1)'Kamang [kama1365][woi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/9489",
+        "label": "Kamang"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q8029096",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Woisika_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kama1365",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_woi",
+        "label": "Woisika"
+      }
+    ],
+    "meds": [
+      [
+        "476025",
+        "grammar_sketch",
+        2015,
+        108,
+        "Han, Tan Jian 2015"
+      ],
+      [
+        "50480",
+        "grammar_sketch",
+        1980,
+        83,
+        "Stokhof, W. A. L. 1980"
+      ],
+      [
+        "161717",
+        "wordlist_or_less",
+        1975,
+        1,
+        "W. A. L. Stokhof 1975"
+      ]
+    ]
+  },
+  "id": "kama1365",
+  "name": "Kamang",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.26897,
+  "longitude": 124.792,
+  "classification": [
+    {
+      "name": "Timor-Alor-Pantar",
+      "id": "timo1261",
+      "url": "https://glottolog.org/resource/languoid/id/timo1261"
+    },
+    {
+      "name": "Alor-Pantar",
+      "id": "alor1249",
+      "url": "https://glottolog.org/resource/languoid/id/alor1249"
+    },
+    {
+      "name": "Nuclear Alor-Pantar",
+      "id": "nucl1821",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1821"
+    },
+    {
+      "name": "Central Alor",
+      "id": "alor1250",
+      "url": "https://glottolog.org/resource/languoid/id/alor1250"
+    },
+    {
+      "name": "Abuic",
+      "id": "abui1242",
+      "url": "https://glottolog.org/resource/languoid/id/abui1242"
+    }
+  ],
+  "iso639-3": "woi"
+}

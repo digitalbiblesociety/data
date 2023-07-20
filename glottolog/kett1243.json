@@ -1,0 +1,82 @@
+{
+  "pk": 2620,
+  "hid": "ket",
+  "father_pk": 1215,
+  "family_pk": 217,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Ket [cent2358]':1,'Northern Ket [nort3323]':1,'Southern Ket [sout3307]':1)'Ket [kett1243][ket]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2430",
+        "label": "Ket"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ket",
+        "label": "Ket"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ket_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kett1243",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33485",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "80766",
+        "long_grammar",
+        1968,
+        631,
+        "Dul'zon, Andrej Petrovic 1968"
+      ],
+      [
+        "126554",
+        "grammar_sketch",
+        1955,
+        135,
+        "Donner, Kai and Joki, Aulis J. 1955"
+      ],
+      [
+        "300608",
+        "grammar_sketch",
+        1858,
+        48,
+        "Anton Schiefner 1858"
+      ]
+    ]
+  },
+  "id": "kett1243",
+  "name": "Ket",
+  "description": null,
+  "markup_description": null,
+  "latitude": 63.7551,
+  "longitude": 87.5466,
+  "classification": [
+    {
+      "name": "Yeniseian",
+      "id": "yeni1252",
+      "url": "https://glottolog.org/resource/languoid/id/yeni1252"
+    },
+    {
+      "name": "Northern Yeniseian",
+      "id": "nort2746",
+      "url": "https://glottolog.org/resource/languoid/id/nort2746"
+    }
+  ],
+  "iso639-3": "ket"
+}

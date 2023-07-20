@@ -1,0 +1,83 @@
+{
+  "pk": 11758,
+  "hid": "ott",
+  "father_pk": 8956,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Temoaya Otomi [temo1245][ott]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7698191",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Temoaya_Otomi",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "39661",
+        "grammar_sketch",
+        1989,
+        157,
+        "Yolanda Lastra 1989"
+      ],
+      [
+        "100769",
+        "phonology_or_text",
+        1949,
+        10,
+        "Andrews, Henrietta 1949"
+      ]
+    ]
+  },
+  "id": "temo1245",
+  "name": "Temoaya Otomi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 19.6001,
+  "longitude": -99.6541,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Western Otomanguean",
+      "id": "west2783",
+      "url": "https://glottolog.org/resource/languoid/id/west2783"
+    },
+    {
+      "name": "Otopame-Chinantecan",
+      "id": "otop1241",
+      "url": "https://glottolog.org/resource/languoid/id/otop1241"
+    },
+    {
+      "name": "Otopamean",
+      "id": "otop1242",
+      "url": "https://glottolog.org/resource/languoid/id/otop1242"
+    },
+    {
+      "name": "Otomian",
+      "id": "otom1297",
+      "url": "https://glottolog.org/resource/languoid/id/otom1297"
+    },
+    {
+      "name": "Southwestern Otomi",
+      "id": "sout3168",
+      "url": "https://glottolog.org/resource/languoid/id/sout3168"
+    }
+  ],
+  "iso639-3": "ott"
+}

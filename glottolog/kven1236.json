@@ -1,0 +1,80 @@
+{
+  "pk": 12612,
+  "hid": "fkv",
+  "father_pk": 9601,
+  "family_pk": 302,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kven Finnish [kven1236][fkv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4147",
+        "label": "Kven Finnish"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kven_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q165795",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "300184",
+        "grammar_sketch",
+        1999,
+        26,
+        "Anna-Riitta Lindgren 1999"
+      ]
+    ]
+  },
+  "id": "kven1236",
+  "name": "Kven Finnish",
+  "description": null,
+  "markup_description": null,
+  "latitude": 69.3772,
+  "longitude": 29.5434,
+  "classification": [
+    {
+      "name": "Uralic",
+      "id": "ural1272",
+      "url": "https://glottolog.org/resource/languoid/id/ural1272"
+    },
+    {
+      "name": "Finnic",
+      "id": "finn1317",
+      "url": "https://glottolog.org/resource/languoid/id/finn1317"
+    },
+    {
+      "name": "Coastal Finnic",
+      "id": "coas1319",
+      "url": "https://glottolog.org/resource/languoid/id/coas1319"
+    },
+    {
+      "name": "Neva",
+      "id": "neva1234",
+      "url": "https://glottolog.org/resource/languoid/id/neva1234"
+    },
+    {
+      "name": "North Finnic",
+      "id": "nort3282",
+      "url": "https://glottolog.org/resource/languoid/id/nort3282"
+    },
+    {
+      "name": "Nuclear Finnish",
+      "id": "nucl1717",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1717"
+    }
+  ],
+  "iso639-3": "fkv"
+}

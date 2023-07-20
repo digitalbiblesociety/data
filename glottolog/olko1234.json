@@ -1,0 +1,67 @@
+{
+  "pk": 489,
+  "hid": "olk",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Olkol [olko1234][olk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "olk",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 has a separate entry for Olkol [olk], also known as Olgolo or Olkola, but this close enough to be the same language as that in the Kunjen [kjn] entry (**hh:ld:Dixon:Olgolo**). See also: Kunjen [kjn]."
+    },
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6794",
+        "label": "Olkol"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56809601",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500900",
+        "wordlist_or_less",
+        2012,
+        0,
+        "ISO 639-3 Registration Authority 2012"
+      ]
+    ]
+  },
+  "id": "olko1234",
+  "name": "Olkol",
+  "description": null,
+  "markup_description": null,
+  "latitude": -15.2,
+  "longitude": 142.4,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "olk"
+}

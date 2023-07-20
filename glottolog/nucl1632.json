@@ -1,0 +1,104 @@
+{
+  "pk": 5150,
+  "hid": "set",
+  "father_pk": 3335,
+  "family_pk": 364,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Sentani [cent2123]':1,'East Sentani [east2518]':1,'West Sentani [west2602]':1)'Sentani [nucl1632][set]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3441672",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sentani_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nucl1632",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_snt",
+        "label": "Sentani"
+      }
+    ],
+    "meds": [
+      [
+        "588465",
+        "grammar_sketch",
+        2021,
+        105,
+        "Clemens J. Mayer 2021"
+      ],
+      [
+        "104605",
+        "grammar_sketch",
+        1965,
+        95,
+        "Cowan, H. K. J. 1965"
+      ],
+      [
+        "103225",
+        "grammar_sketch",
+        1950,
+        44,
+        "H. K. J. Cowan 1950, 1950, 1951, 1951"
+      ],
+      [
+        "87817",
+        "wordlist_or_less",
+        1922,
+        30,
+        "Wirz, Paul 1922"
+      ],
+      [
+        "80044",
+        "wordlist_or_less",
+        1906,
+        4,
+        "P. E. Moolenburgh 1906"
+      ],
+      [
+        "64326",
+        "wordlist_or_less",
+        1902,
+        4,
+        "Bink, G. L. 1902"
+      ]
+    ]
+  },
+  "id": "nucl1632",
+  "name": "Sentani",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.6013,
+  "longitude": 140.512,
+  "classification": [
+    {
+      "name": "Sentanic",
+      "id": "sent1261",
+      "url": "https://glottolog.org/resource/languoid/id/sent1261"
+    },
+    {
+      "name": "Nuclear Sentanic",
+      "id": "nucl1631",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1631"
+    },
+    {
+      "name": "Sentani-Nafri",
+      "id": "sent1262",
+      "url": "https://glottolog.org/resource/languoid/id/sent1262"
+    }
+  ],
+  "iso639-3": "set"
+}

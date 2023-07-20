@@ -1,0 +1,74 @@
+{
+  "pk": 2184,
+  "hid": "enr",
+  "father_pk": 1005,
+  "family_pk": 126,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Emumu [emum1240][enr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10700",
+        "label": "Emumu"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5370369",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Emem_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "14200",
+        "wordlist_or_less",
+        2006,
+        16,
+        "Lee, Myung Young 2006"
+      ],
+      [
+        "42038",
+        "wordlist_or_less",
+        1994,
+        4,
+        "Smits, Leo and Voorhoeve, C. L. 1994"
+      ],
+      [
+        "156670",
+        "wordlist_or_less",
+        1956,
+        4,
+        "Galis, Klaas Wilhelm 1956"
+      ]
+    ]
+  },
+  "id": "emum1240",
+  "name": "Emumu",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.74242,
+  "longitude": 140.903,
+  "classification": [
+    {
+      "name": "Pauwasi",
+      "id": "pauw1244",
+      "url": "https://glottolog.org/resource/languoid/id/pauw1244"
+    },
+    {
+      "name": "Eastern Pauwasi",
+      "id": "east2530",
+      "url": "https://glottolog.org/resource/languoid/id/east2530"
+    }
+  ],
+  "iso639-3": "enr"
+}

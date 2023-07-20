@@ -1,0 +1,82 @@
+{
+  "pk": 3419,
+  "hid": "nyp",
+  "father_pk": 1830,
+  "family_pk": 398,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Nyang''i [nyan1313][nyp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5805",
+        "label": "Nyang'i"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7070894",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nyang%27i_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nyan1313",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nyg",
+        "label": "Nyangi"
+      }
+    ],
+    "meds": [
+      [
+        "547344",
+        "grammar",
+        2017,
+        238,
+        "Beer, Samuel James 2017"
+      ],
+      [
+        "17490",
+        "grammar_sketch",
+        1975,
+        19,
+        "Heine, Bernd 1975"
+      ],
+      [
+        "22632",
+        "wordlist_or_less",
+        1932,
+        2,
+        "Driberg, Jack H. 1932"
+      ]
+    ]
+  },
+  "id": "nyan1313",
+  "name": "Nyang'i",
+  "description": null,
+  "markup_description": null,
+  "latitude": 3.4997,
+  "longitude": 33.73651,
+  "classification": [
+    {
+      "name": "Kuliak",
+      "id": "kuli1252",
+      "url": "https://glottolog.org/resource/languoid/id/kuli1252"
+    },
+    {
+      "name": "Ngangea-So",
+      "id": "ngan1305",
+      "url": "https://glottolog.org/resource/languoid/id/ngan1305"
+    }
+  ],
+  "iso639-3": "nyp"
+}

@@ -1,0 +1,73 @@
+{
+  "pk": 1668,
+  "hid": null,
+  "father_pk": 334,
+  "family_pk": 334,
+  "level": "family",
+  "bookkeeping": false,
+  "category": "Family",
+  "newick": "('Enlhet Norte [nort2971][enl]-l-':1,'Enxet Sur [sout2989][enx]-l-':1)'Lengua [leng1262]':1",
+  "child_family_count": 0,
+  "child_language_count": 2,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "leg",
+      "name": "Lengua",
+      "change_request": "2013-014",
+      "effective": "2014-02-03",
+      "reason": "split",
+      "change_to": [
+        "enl",
+        "enx"
+      ],
+      "remedy": "Split into Enlhet [enl] and Enxet [enx]",
+      "comment": "The Enxet were first contacted in 1989 by Anglican missionaries from\nConcepción; the Enlhet in 1927 by Mennonite immigrants from Puerto Casado\n(today Puerto La Victoria). Both of these groups, of European origin, referred\nto the indigenous of the interior of the Chaco as 'Lengua', even before having\nmet them. This coincidence of names has led to the two ethnic groups being\nconsidered as a single one. In view of the linguistic differences between them,\nit has been proposed that two dialects, Lengua Sur [Southern Lengua] and Lengua\nNorte [Northern Lengua] should be distinguished. This proposal, which is not\nbased on linguistic criteria, has been put forward even in the most recent\nattempts at classification (Campbell & Grondona), without comparative research\nbeing carried out in the field (see the extensive bibliography in Fabre\n(2005/2012)). However, on the basis of their linguistic research into the six\nlanguages of the Enlhet-Enenlhet family, Unruh & Kalisch (2003) have proposed\nthat they should be seen as two different languages, since the Enlhet and Enxet\nlanguages are not mutually intelligible, and clearly distinct ethnolinguistic\nidentities exist. An indicator of this is the fact that there is a considerable\nnumber of people who are bilingual Enlhet-Enxet.\n\nAt the same time, it is not possible to understand one of the languages as a\ndialect of the other; that is, the existing code does not represent a 'major\nlanguage'. From the perspective of the whole family, the Enlhet and Enxet\nlanguages are of equal standing in relation to each other and to the other\nlanguages of the family."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3121068",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lengua_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_lng",
+        "label": "Lengua"
+      }
+    ],
+    "meds": [
+      [
+        "159175",
+        "wordlist_or_less",
+        1946,
+        99,
+        "Metraux, A. 1946"
+      ],
+      [
+        "572059",
+        "wordlist_or_less",
+        1911,
+        0,
+        "Grubb, W. B. 1911"
+      ]
+    ]
+  },
+  "id": "leng1262",
+  "name": "Lengua",
+  "description": null,
+  "markup_description": null,
+  "latitude": -22.6559,
+  "longitude": -58.9053,
+  "classification": [
+    {
+      "name": "Lengua-Mascoy",
+      "id": "leng1261",
+      "url": "https://glottolog.org/resource/languoid/id/leng1261"
+    }
+  ]
+}

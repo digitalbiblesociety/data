@@ -1,0 +1,81 @@
+{
+  "pk": 2649,
+  "hid": "aos",
+  "father_pk": 1232,
+  "family_pk": 225,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Taikat [taik1255][aos]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2783",
+        "label": "Taikat"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7676018",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Taikat_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "546940",
+        "phonology_or_text",
+        2002,
+        0,
+        "Simin Althur 2002"
+      ],
+      [
+        "139265",
+        "wordlist_or_less",
+        1983,
+        8,
+        "W. A. L. Stokhof 1983"
+      ],
+      [
+        "141825",
+        "wordlist_or_less",
+        1971,
+        2,
+        "C. L. Voorhoeve 1971"
+      ],
+      [
+        "557565",
+        "wordlist_or_less",
+        1911,
+        2,
+        "J. Th. Stroeve 1911"
+      ]
+    ]
+  },
+  "id": "taik1255",
+  "name": "Taikat",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.9408,
+  "longitude": 140.7495,
+  "classification": [
+    {
+      "name": "Border",
+      "id": "bord1247",
+      "url": "https://glottolog.org/resource/languoid/id/bord1247"
+    },
+    {
+      "name": "Taikat-Awyi",
+      "id": "taik1254",
+      "url": "https://glottolog.org/resource/languoid/id/taik1254"
+    }
+  ],
+  "iso639-3": "aos"
+}

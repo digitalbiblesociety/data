@@ -1,0 +1,82 @@
+{
+  "pk": 3139,
+  "hid": "ega",
+  "father_pk": 1599,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ega [egaa1242][ega]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/341",
+        "label": "Ega"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3914927",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ega_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/egaa1242",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ega",
+        "label": "Ega"
+      }
+    ],
+    "meds": [
+      [
+        "658503",
+        "grammar",
+        1983,
+        43,
+        "Bole-Richard, Rémy 1983"
+      ],
+      [
+        "658502",
+        "grammar",
+        1982,
+        0,
+        "Bole-Richard, Rémy 1982"
+      ],
+      [
+        "9573",
+        "wordlist_or_less",
+        1971,
+        1,
+        "Frick, E. and Bolli, M. 1971"
+      ]
+    ]
+  },
+  "id": "egaa1242",
+  "name": "Ega",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.56081,
+  "longitude": -5.41732,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    }
+  ],
+  "iso639-3": "ega"
+}

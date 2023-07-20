@@ -1,0 +1,108 @@
+{
+  "pk": 8455,
+  "hid": "ump",
+  "father_pk": 5983,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Umpila [umpi1239][ump]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2575",
+        "label": "Umpila"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/y45",
+        "label": "Umpila"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Umpila_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/umpi1239",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ump",
+        "label": "Umpila"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12953954",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "304834",
+        "grammar_sketch",
+        1988,
+        80,
+        "Thompson, David A. 1988"
+      ],
+      [
+        "1317",
+        "phonology_or_text",
+        1978,
+        0,
+        "Scheffler, H. W. 1978"
+      ],
+      [
+        "312250",
+        "phonology_or_text",
+        1976,
+        7,
+        "O'Grady, Geoffrey N. 1976"
+      ],
+      [
+        "303831",
+        "wordlist_or_less",
+        1933,
+        10,
+        "Hale, Herbert M. and Tindale, Norman B. 1933, 1934"
+      ]
+    ]
+  },
+  "id": "umpi1239",
+  "name": "Umpila",
+  "description": null,
+  "markup_description": null,
+  "latitude": -13.1528,
+  "longitude": 143.467,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Paman",
+      "id": "pama1251",
+      "url": "https://glottolog.org/resource/languoid/id/pama1251"
+    },
+    {
+      "name": "Compromise Middle Pama",
+      "id": "comp1236",
+      "url": "https://glottolog.org/resource/languoid/id/comp1236"
+    },
+    {
+      "name": "Northeastern Pama",
+      "id": "nort3256",
+      "url": "https://glottolog.org/resource/languoid/id/nort3256"
+    },
+    {
+      "name": "Umpilaic",
+      "id": "nort2759",
+      "url": "https://glottolog.org/resource/languoid/id/nort2759"
+    }
+  ],
+  "iso639-3": "ump"
+}

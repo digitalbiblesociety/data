@@ -1,0 +1,110 @@
+{
+  "pk": 8116,
+  "hid": "nwb",
+  "father_pk": 5677,
+  "family_pk": 83,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Nuclear Nyabwa [nucl1419]':1,'Nyedebwa [nyed1238]':1)'Nyabwa [nyab1255][nwb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q33664",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nyabwa_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nyab1255",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "568204",
+        "long_grammar",
+        2017,
+        398,
+        "Allou, Serge Yannick 2017"
+      ],
+      [
+        "132902",
+        "grammar_sketch",
+        1995,
+        23,
+        "Bentinck, Julie 1995"
+      ],
+      [
+        "57575",
+        "grammar_sketch",
+        1983,
+        14,
+        "Marchese, Lynell 1983"
+      ],
+      [
+        "38568",
+        "phonology_or_text",
+        1978,
+        102,
+        "Bentinck, Julie 1978"
+      ],
+      [
+        "135377",
+        "phonology_or_text",
+        1975,
+        10,
+        "Julie Bentick 1975"
+      ],
+      [
+        "9573",
+        "wordlist_or_less",
+        1971,
+        1,
+        "Frick, E. and Bolli, M. 1971"
+      ]
+    ]
+  },
+  "id": "nyab1255",
+  "name": "Nyabwa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.87615,
+  "longitude": -6.84428,
+  "classification": [
+    {
+      "name": "Kru",
+      "id": "krua1234",
+      "url": "https://glottolog.org/resource/languoid/id/krua1234"
+    },
+    {
+      "name": "Greater Western Kru",
+      "id": "grea1300",
+      "url": "https://glottolog.org/resource/languoid/id/grea1300"
+    },
+    {
+      "name": "Western Kru",
+      "id": "west2485",
+      "url": "https://glottolog.org/resource/languoid/id/west2485"
+    },
+    {
+      "name": "Wee-Bassa-Klao",
+      "id": "weeb1234",
+      "url": "https://glottolog.org/resource/languoid/id/weeb1234"
+    },
+    {
+      "name": "Wee",
+      "id": "weea1234",
+      "url": "https://glottolog.org/resource/languoid/id/weea1234"
+    }
+  ],
+  "iso639-3": "nwb"
+}

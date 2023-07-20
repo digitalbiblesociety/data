@@ -1,0 +1,97 @@
+{
+  "pk": 4166,
+  "hid": "jbj",
+  "father_pk": 2391,
+  "family_pk": 169,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Arandai [domb1240]':1,'Kecap [keca1234]':1,'Tomu [tomu1234]':1)'Dombano [aran1237][jbj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Dombano_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/aran1237",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ard",
+        "label": "Arandai"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q4784070",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "111697",
+        "grammar_sketch",
+        1985,
+        38,
+        "Voorhoeve, C.L. 1985"
+      ],
+      [
+        "50701",
+        "wordlist_or_less",
+        1978,
+        6,
+        "Walker, Roland 1978"
+      ],
+      [
+        "126692",
+        "wordlist_or_less",
+        1975,
+        1,
+        "C. L. Voorhoeve 1975"
+      ],
+      [
+        "17111",
+        "wordlist_or_less",
+        1955,
+        1,
+        "Galis, Klaas Wilhelm 1955"
+      ],
+      [
+        "44957",
+        "wordlist_or_less",
+        1939,
+        3,
+        "No Author Stated 1939/1940"
+      ]
+    ]
+  },
+  "id": "aran1237",
+  "name": "Dombano",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.08016,
+  "longitude": 132.983,
+  "classification": [
+    {
+      "name": "South Bird's Head Family",
+      "id": "sout1516",
+      "url": "https://glottolog.org/resource/languoid/id/sout1516"
+    },
+    {
+      "name": "East South Bird's Head",
+      "id": "east1439",
+      "url": "https://glottolog.org/resource/languoid/id/east1439"
+    },
+    {
+      "name": "Kemberanic",
+      "id": "kemb1251",
+      "url": "https://glottolog.org/resource/languoid/id/kemb1251"
+    }
+  ],
+  "iso639-3": "jbj"
+}

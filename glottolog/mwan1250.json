@@ -1,0 +1,82 @@
+{
+  "pk": 8316,
+  "hid": "moa",
+  "father_pk": 5827,
+  "family_pk": 121,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mwan [mwan1250][moa]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Mwan_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/mwan1250",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3320111",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "112693",
+        "grammar",
+        1995,
+        168,
+        "Fleming, Carolina B. 1995"
+      ],
+      [
+        "121543",
+        "grammar_sketch",
+        1953,
+        21,
+        "Prost, André 1953"
+      ]
+    ]
+  },
+  "id": "mwan1250",
+  "name": "Mwan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.87533,
+  "longitude": -5.94577,
+  "classification": [
+    {
+      "name": "Mande",
+      "id": "mand1469",
+      "url": "https://glottolog.org/resource/languoid/id/mand1469"
+    },
+    {
+      "name": "Eastern Mande",
+      "id": "east2697",
+      "url": "https://glottolog.org/resource/languoid/id/east2697"
+    },
+    {
+      "name": "Southeastern Mande",
+      "id": "sout3140",
+      "url": "https://glottolog.org/resource/languoid/id/sout3140"
+    },
+    {
+      "name": "Nwa-Ben",
+      "id": "nwab1239",
+      "url": "https://glottolog.org/resource/languoid/id/nwab1239"
+    },
+    {
+      "name": "Wan-Mwan",
+      "id": "wanm1243",
+      "url": "https://glottolog.org/resource/languoid/id/wanm1243"
+    }
+  ],
+  "iso639-3": "moa"
+}

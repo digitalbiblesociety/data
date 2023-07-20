@@ -1,0 +1,74 @@
+{
+  "pk": 2114,
+  "hid": "bvn",
+  "father_pk": 961,
+  "family_pk": 103,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kasmin [kasm1239]':1,'Masan [masa1310]':1)'Buna [buna1277][bvn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10570",
+        "label": "Buna"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3450516",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Buna_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "318703",
+        "wordlist_or_less",
+        1963,
+        0,
+        "Eike Haberland 1963"
+      ],
+      [
+        "162230",
+        "wordlist_or_less",
+        1926,
+        4,
+        "Kirschbaum, Franz 1926"
+      ],
+      [
+        "79417",
+        "wordlist_or_less",
+        1921,
+        1,
+        "Franz Kirschbaum 1921-1922"
+      ]
+    ]
+  },
+  "id": "buna1277",
+  "name": "Buna",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.95553,
+  "longitude": 144.119,
+  "classification": [
+    {
+      "name": "Nuclear Torricelli",
+      "id": "nucl1708",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1708"
+    },
+    {
+      "name": "Marienberg",
+      "id": "mari1433",
+      "url": "https://glottolog.org/resource/languoid/id/mari1433"
+    }
+  ],
+  "iso639-3": "bvn"
+}

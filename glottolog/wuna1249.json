@@ -1,0 +1,71 @@
+{
+  "pk": 2232,
+  "hid": "wub",
+  "father_pk": 1026,
+  "family_pk": 139,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Unambal [unam1243]':1,'Yiiji [yiij1234]':1)'Wunambal [wuna1249][wub]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3315",
+        "label": "Wunambal"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3913805",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Wunambal_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/wuna1249",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "1941",
+        "grammar",
+        2000,
+        233,
+        "Thérèse L. Carr 2000"
+      ],
+      [
+        "527730",
+        "grammar_sketch",
+        1932,
+        57,
+        "Love, James Robert Beattie 1932"
+      ]
+    ]
+  },
+  "id": "wuna1249",
+  "name": "Wunambal",
+  "description": null,
+  "markup_description": null,
+  "latitude": -14.8347,
+  "longitude": 125.72,
+  "classification": [
+    {
+      "name": "Worrorran",
+      "id": "worr1236",
+      "url": "https://glottolog.org/resource/languoid/id/worr1236"
+    },
+    {
+      "name": "Northern Worrorran",
+      "id": "nort2751",
+      "url": "https://glottolog.org/resource/languoid/id/nort2751"
+    }
+  ],
+  "iso639-3": "wub"
+}

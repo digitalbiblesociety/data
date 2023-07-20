@@ -1,0 +1,114 @@
+{
+  "pk": 9070,
+  "hid": "gah",
+  "father_pk": 6568,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Alekano [alek1238][gah]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4184",
+        "label": "Alekano"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_gah",
+        "label": "Gahuku"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Alekano_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3441595",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "67012",
+        "grammar_sketch",
+        2000,
+        112,
+        "Deibler, Ellis W. 2000"
+      ],
+      [
+        "96060",
+        "grammar_sketch",
+        1976,
+        64,
+        "Deibler, Ellis W. 1976"
+      ],
+      [
+        "84134",
+        "grammar_sketch",
+        1972,
+        12,
+        "Longacre, Robert E. 1972"
+      ],
+      [
+        "101091",
+        "phonology_or_text",
+        1971,
+        10,
+        "Deibler, Ellis W. 1971"
+      ],
+      [
+        "72887",
+        "phonology_or_text",
+        1962,
+        6,
+        "Young, Rosemary 1962"
+      ],
+      [
+        "15483",
+        "wordlist_or_less",
+        1948,
+        1,
+        "Arthur Capell 1948-1949"
+      ]
+    ]
+  },
+  "id": "alek1238",
+  "name": "Alekano",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.03901,
+  "longitude": 145.387,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Kainantu-Goroka",
+      "id": "kain1273",
+      "url": "https://glottolog.org/resource/languoid/id/kain1273"
+    },
+    {
+      "name": "Goroka",
+      "id": "goro1272",
+      "url": "https://glottolog.org/resource/languoid/id/goro1272"
+    },
+    {
+      "name": "Nuclear Goroka",
+      "id": "nucl1760",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1760"
+    },
+    {
+      "name": "Gahuku",
+      "id": "gahu1246",
+      "url": "https://glottolog.org/resource/languoid/id/gahu1246"
+    }
+  ],
+  "iso639-3": "gah"
+}

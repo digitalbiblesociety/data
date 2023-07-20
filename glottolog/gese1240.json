@@ -1,0 +1,90 @@
+{
+  "pk": 12416,
+  "hid": "ges",
+  "father_pk": 9469,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Goram Laut [gora1263]':1,'Kelimuri [keli1251]':1,'Mina Mina Gorong [mina1270]':1)'Geser-Gorom [gese1240][ges]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q5553579",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Geser_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "324532",
+        "grammar_sketch",
+        1986,
+        82,
+        "Kakerissa, O. and J. Pentury and Z.J. Latupapua and J.TH.F. Pattiselanno and J.J. Tanamal 1986"
+      ],
+      [
+        "7931",
+        "wordlist_or_less",
+        1901,
+        24,
+        "Le Cocq d'Armandville, C. J. F. 1901"
+      ],
+      [
+        "92353",
+        "wordlist_or_less",
+        1857,
+        24,
+        "Salomon Müller 1857"
+      ]
+    ]
+  },
+  "id": "gese1240",
+  "name": "Geser-Gorom",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.8016,
+  "longitude": 130.701,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Greater Seram Laut",
+      "id": "grea1302",
+      "url": "https://glottolog.org/resource/languoid/id/grea1302"
+    },
+    {
+      "name": "Banda-Geser",
+      "id": "band1354",
+      "url": "https://glottolog.org/resource/languoid/id/band1354"
+    },
+    {
+      "name": "Seran Laut",
+      "id": "gese1239",
+      "url": "https://glottolog.org/resource/languoid/id/gese1239"
+    },
+    {
+      "name": "Geser-Gorom-Bati",
+      "id": "gese1241",
+      "url": "https://glottolog.org/resource/languoid/id/gese1241"
+    }
+  ],
+  "iso639-3": "ges"
+}

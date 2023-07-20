@@ -1,0 +1,74 @@
+{
+  "pk": 2340,
+  "hid": "tbu",
+  "father_pk": 1075,
+  "family_pk": 155,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tubar [tuba1279][tbu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56730",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tubar_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tub",
+        "label": "Tubar"
+      }
+    ],
+    "meds": [
+      [
+        "145415",
+        "grammar_sketch",
+        1978,
+        66,
+        "Lionnet, Andres 1978"
+      ],
+      [
+        "26219",
+        "phonology_or_text",
+        1870,
+        6,
+        "Marietti, Petro 1870"
+      ],
+      [
+        "13948",
+        "phonology_or_text",
+        1787,
+        3,
+        "Lorenzo Hervas 1787"
+      ]
+    ]
+  },
+  "id": "tuba1279",
+  "name": "Tubar",
+  "description": null,
+  "markup_description": null,
+  "latitude": 30,
+  "longitude": -111,
+  "classification": [
+    {
+      "name": "Uto-Aztecan",
+      "id": "utoa1244",
+      "url": "https://glottolog.org/resource/languoid/id/utoa1244"
+    },
+    {
+      "name": "Southern Uto-Aztecan",
+      "id": "sout3136",
+      "url": "https://glottolog.org/resource/languoid/id/sout3136"
+    }
+  ],
+  "iso639-3": "tbu"
+}

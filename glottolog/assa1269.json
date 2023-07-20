@@ -1,0 +1,69 @@
+{
+  "pk": 5278,
+  "hid": "sjg",
+  "father_pk": 3467,
+  "family_pk": 416,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Erenga [eren1239]':1,'Girga {Assangori} [girg1241]':1,'Murasi [mura1270]':1,'Sebunkik [sebu1242]':1,'Sungor [sung1270]':1,'Walad Dulla [wala1265]':1)'Assangori [assa1269][sjg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5191",
+        "label": "Assangori"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3502255",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sungor_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_sug",
+        "label": "Sungor"
+      }
+    ],
+    "meds": [
+      [
+        "75568",
+        "grammar_sketch",
+        1938,
+        76,
+        "Lukas, Johannes 1938"
+      ]
+    ]
+  },
+  "id": "assa1269",
+  "name": "Assangori",
+  "description": null,
+  "markup_description": null,
+  "latitude": 13.9592,
+  "longitude": 22.6393,
+  "classification": [
+    {
+      "name": "Tamaic",
+      "id": "tama1329",
+      "url": "https://glottolog.org/resource/languoid/id/tama1329"
+    },
+    {
+      "name": "Tama-Sungor-Miisiirii",
+      "id": "tama1330",
+      "url": "https://glottolog.org/resource/languoid/id/tama1330"
+    },
+    {
+      "name": "Tama-Sungor",
+      "id": "tama1368",
+      "url": "https://glottolog.org/resource/languoid/id/tama1368"
+    }
+  ],
+  "iso639-3": "sjg"
+}

@@ -1,0 +1,106 @@
+{
+  "pk": 16415,
+  "hid": "wbm",
+  "father_pk": 13712,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('En {China} [ennn1242]':1,'Kentung Wa [kent1254]':1,'La [laaa1238]':1,'Son [sonn1238]':1,'Wa Lon [walo1238]':1,'Wu [wuuu1240]':1)'Zhenkang Wa [nucl1290][wbm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3362",
+        "label": "Wa"
+      },
+      {
+        "url": "https://phoible.org/languages/nucl1290",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12644869",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "302673",
+        "grammar_sketch",
+        1994,
+        423,
+        "Wang, Jingliu 1994"
+      ],
+      [
+        "126191",
+        "grammar_sketch",
+        1984,
+        94,
+        "Zhou, Zhizhi and Yan, Qixiang and Li, Xiuqing 1984"
+      ],
+      [
+        "320746",
+        "phonology_or_text",
+        1981,
+        0,
+        "Yan, Qixiang 1981"
+      ],
+      [
+        "53171",
+        "wordlist_or_less",
+        1980,
+        12,
+        "Qiu, Efeng and Li, Daoyong and Nie, Xizhen 1980"
+      ]
+    ]
+  },
+  "id": "nucl1290",
+  "name": "Zhenkang Wa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 23.1024,
+  "longitude": 99.108,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Khasi-Palaung",
+      "id": "khas1273",
+      "url": "https://glottolog.org/resource/languoid/id/khas1273"
+    },
+    {
+      "name": "Palaungic",
+      "id": "pala1352",
+      "url": "https://glottolog.org/resource/languoid/id/pala1352"
+    },
+    {
+      "name": "East Palaungic",
+      "id": "east2331",
+      "url": "https://glottolog.org/resource/languoid/id/east2331"
+    },
+    {
+      "name": "Waic",
+      "id": "waic1245",
+      "url": "https://glottolog.org/resource/languoid/id/waic1245"
+    },
+    {
+      "name": "Wa-Lawa",
+      "id": "wala1271",
+      "url": "https://glottolog.org/resource/languoid/id/wala1271"
+    },
+    {
+      "name": "Nuclear Waic",
+      "id": "waaa1245",
+      "url": "https://glottolog.org/resource/languoid/id/waaa1245"
+    }
+  ],
+  "iso639-3": "wbm"
+}

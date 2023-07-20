@@ -1,0 +1,86 @@
+{
+  "pk": 5249,
+  "hid": "tty",
+  "father_pk": 3417,
+  "family_pk": 396,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Sikaritai [sika1263][tty]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7513600",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sikaritai_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_skr",
+        "label": "Sikaritai"
+      }
+    ],
+    "meds": [
+      [
+        "156336",
+        "phonology_or_text",
+        1986,
+        27,
+        "Martin, David L. 1986"
+      ],
+      [
+        "12307",
+        "wordlist_or_less",
+        1952,
+        13,
+        "W. K. H. Feuilleteau de Bruyn 1952"
+      ],
+      [
+        "95108",
+        "wordlist_or_less",
+        1913,
+        1,
+        "Anonymous (Max Moszkowski) 1913"
+      ],
+      [
+        "581214",
+        "wordlist_or_less",
+        1911,
+        4,
+        "Max Moszkowski 1911, 1912, 1912"
+      ]
+    ]
+  },
+  "id": "sika1263",
+  "name": "Sikaritai",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.80285,
+  "longitude": 138.287,
+  "classification": [
+    {
+      "name": "Lakes Plain",
+      "id": "lake1255",
+      "url": "https://glottolog.org/resource/languoid/id/lake1255"
+    },
+    {
+      "name": "Tariku",
+      "id": "tari1255",
+      "url": "https://glottolog.org/resource/languoid/id/tari1255"
+    },
+    {
+      "name": "East Tariku",
+      "id": "east2502",
+      "url": "https://glottolog.org/resource/languoid/id/east2502"
+    }
+  ],
+  "iso639-3": "tty"
+}

@@ -1,0 +1,83 @@
+{
+  "pk": 4380,
+  "hid": "jet",
+  "father_pk": 2651,
+  "family_pk": 225,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Manem [mane1266][jet]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10666",
+        "label": "Manem"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6748412",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Manem_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mem",
+        "label": "Manem"
+      }
+    ],
+    "meds": [
+      [
+        "139265",
+        "wordlist_or_less",
+        1983,
+        8,
+        "W. A. L. Stokhof 1983"
+      ],
+      [
+        "141825",
+        "wordlist_or_less",
+        1971,
+        2,
+        "C. L. Voorhoeve 1971"
+      ],
+      [
+        "17111",
+        "wordlist_or_less",
+        1955,
+        1,
+        "Galis, Klaas Wilhelm 1955"
+      ]
+    ]
+  },
+  "id": "mane1266",
+  "name": "Manem",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.99145,
+  "longitude": 141.02,
+  "classification": [
+    {
+      "name": "Border",
+      "id": "bord1247",
+      "url": "https://glottolog.org/resource/languoid/id/bord1247"
+    },
+    {
+      "name": "Warisic",
+      "id": "wari1265",
+      "url": "https://glottolog.org/resource/languoid/id/wari1265"
+    },
+    {
+      "name": "Nuclear Warisic",
+      "id": "nucl1773",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1773"
+    }
+  ],
+  "iso639-3": "jet"
+}

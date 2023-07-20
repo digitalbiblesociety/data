@@ -1,0 +1,121 @@
+{
+  "pk": 10837,
+  "hid": "hlu",
+  "father_pk": 7955,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Hieroglyphic Luwian [hier1240][hlu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "hlu",
+      "comment_type": "missing",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "A number of ancient Indo-European languages of Anatolia are not listed in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26. One of them is Hieroglyphic Luwian (**hh:g:Payne:Hieroglyphic-Luwian**)."
+    },
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3507479",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Hieroglyphic_Luwian",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "43705",
+        "grammar",
+        2004,
+        226,
+        "Payne, Annick 2004"
+      ],
+      [
+        "127257",
+        "grammar",
+        2003,
+        149,
+        "Plöchl, Reinhold 2003"
+      ],
+      [
+        "309592",
+        "grammar_sketch",
+        1990,
+        496,
+        "Marazzi, M. 1990"
+      ],
+      [
+        "475529",
+        "grammar_sketch",
+        1969,
+        122,
+        "I. M. Dunaevskaya 1969"
+      ],
+      [
+        "118001",
+        "grammar_sketch",
+        1952,
+        100,
+        "Rosenkranz, Bernhard 1952"
+      ]
+    ]
+  },
+  "id": "hier1240",
+  "name": "Hieroglyphic Luwian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 40.019722,
+  "longitude": 34.615278,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Anatolian",
+      "id": "anat1257",
+      "url": "https://glottolog.org/resource/languoid/id/anat1257"
+    },
+    {
+      "name": "Luvo-Lydian",
+      "id": "luvo1234",
+      "url": "https://glottolog.org/resource/languoid/id/luvo1234"
+    },
+    {
+      "name": "Luvo-Palaic",
+      "id": "luvo1235",
+      "url": "https://glottolog.org/resource/languoid/id/luvo1235"
+    },
+    {
+      "name": "Luvic",
+      "id": "luvi1234",
+      "url": "https://glottolog.org/resource/languoid/id/luvi1234"
+    },
+    {
+      "name": "Luvian",
+      "id": "luvi1235",
+      "url": "https://glottolog.org/resource/languoid/id/luvi1235"
+    }
+  ],
+  "iso639-3": "hlu"
+}

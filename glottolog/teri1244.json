@@ -1,0 +1,90 @@
+{
+  "pk": 12625,
+  "hid": "tec",
+  "father_pk": 9668,
+  "family_pk": 316,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Terik [teri1244][tec]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3518379",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Terik_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "323057",
+        "phonology_or_text",
+        2009,
+        606,
+        "Seroney, Kibny'aanko 2009"
+      ],
+      [
+        "156015",
+        "phonology_or_text",
+        1982,
+        10,
+        "Rottland, Franz 1982"
+      ],
+      [
+        "54812",
+        "wordlist_or_less",
+        1979,
+        5,
+        "van Otterloo, Roger 1979"
+      ]
+    ]
+  },
+  "id": "teri1244",
+  "name": "Terik",
+  "description": null,
+  "markup_description": null,
+  "latitude": 0.6,
+  "longitude": 35,
+  "classification": [
+    {
+      "name": "Nilotic",
+      "id": "nilo1247",
+      "url": "https://glottolog.org/resource/languoid/id/nilo1247"
+    },
+    {
+      "name": "Southern Nilotic",
+      "id": "sout2830",
+      "url": "https://glottolog.org/resource/languoid/id/sout2830"
+    },
+    {
+      "name": "Kalenjin",
+      "id": "kale1246",
+      "url": "https://glottolog.org/resource/languoid/id/kale1246"
+    },
+    {
+      "name": "Central Kalenjin",
+      "id": "cent2293",
+      "url": "https://glottolog.org/resource/languoid/id/cent2293"
+    },
+    {
+      "name": "Plateau Central Kalenjin",
+      "id": "plat1260",
+      "url": "https://glottolog.org/resource/languoid/id/plat1260"
+    },
+    {
+      "name": "Western Plateau Central Kalenjin",
+      "id": "west3004",
+      "url": "https://glottolog.org/resource/languoid/id/west3004"
+    }
+  ],
+  "iso639-3": "tec"
+}

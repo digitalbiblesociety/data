@@ -1,0 +1,79 @@
+{
+  "pk": 12958,
+  "hid": null,
+  "father_pk": 9963,
+  "family_pk": 320,
+  "level": "family",
+  "bookkeeping": false,
+  "category": "Family",
+  "newick": "('Tiyaa [yaaa1242][tyy]-l-':1,(('Dukli [dukl1234]':1,'Gambar Bijim [gamb1262]':1,'Kaduk [lege1240]':1)'Bijim [biji1246][jbm]-l-':1,'Kadung [vagh1248][dkg]-l-':1)'Vaghat [vagh1250]':1)'Kwangic [vagh1247]':1",
+  "child_family_count": 1,
+  "child_language_count": 3,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "bij",
+      "name": "Vaghat-Ya-Bijim-Legeri",
+      "change_request": "2020-035",
+      "effective": "2021-01-15",
+      "reason": "split",
+      "change_to": [
+        "tyy",
+        "jbm",
+        "dkg"
+      ],
+      "remedy": "Split into Tiyaa [tyy], Bijim [jbm] and Kadung [dkg].",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q35598",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kwanka_language",
+        "label": null
+      }
+    ]
+  },
+  "id": "vagh1247",
+  "name": "Kwangic",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.64648,
+  "longitude": 9.56547,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Benue-Congo Plateau",
+      "id": "benu1248",
+      "url": "https://glottolog.org/resource/languoid/id/benu1248"
+    },
+    {
+      "name": "Tarokoid",
+      "id": "taro1265",
+      "url": "https://glottolog.org/resource/languoid/id/taro1265"
+    },
+    {
+      "name": "Bijimic-Sur-Shall",
+      "id": "biji1252",
+      "url": "https://glottolog.org/resource/languoid/id/biji1252"
+    }
+  ]
+}

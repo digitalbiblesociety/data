@@ -1,0 +1,97 @@
+{
+  "pk": 3594,
+  "hid": "hei",
+  "father_pk": 1922,
+  "family_pk": 28,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Bella Bella [bell1263]':1,'Klemtu [klem1234]':1)'Heiltsuk [heil1247]':1,'Ooweekeeno [oowe1239]':1)'Heiltsuk-Oowekyala [heil1246][hei]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2377",
+        "label": "Háiɫzaqvḷa (Heiltsuk)"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_hei",
+        "label": "Heiltsuk"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Heiltsuk-Oowekyala_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5699507",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "25063",
+        "grammar_sketch",
+        1981,
+        389,
+        "Rath, John C. 1981"
+      ],
+      [
+        "300626",
+        "phonology_or_text",
+        1974,
+        39,
+        "Rath, John C. 1974"
+      ],
+      [
+        "313881",
+        "wordlist_or_less",
+        1891,
+        6,
+        "E. B. Tylor and W. Bloxam and Daniel Wilson and G. M. Dawson and H. Lefroy and R. G. Haliburton 1891"
+      ],
+      [
+        "570297",
+        "wordlist_or_less",
+        1877,
+        5,
+        "Gibbs, George and William H. Dall 1877"
+      ],
+      [
+        "27878",
+        "wordlist_or_less",
+        1836,
+        4,
+        "Albert Gallatin 1836"
+      ]
+    ]
+  },
+  "id": "heil1246",
+  "name": "Heiltsuk-Oowekyala",
+  "description": null,
+  "markup_description": null,
+  "latitude": 51.7045,
+  "longitude": -127.221,
+  "classification": [
+    {
+      "name": "Wakashan",
+      "id": "waka1280",
+      "url": "https://glottolog.org/resource/languoid/id/waka1280"
+    },
+    {
+      "name": "Northern Wakashan",
+      "id": "nort2964",
+      "url": "https://glottolog.org/resource/languoid/id/nort2964"
+    },
+    {
+      "name": "Kwakiutlan",
+      "id": "kwak1268",
+      "url": "https://glottolog.org/resource/languoid/id/kwak1268"
+    }
+  ],
+  "iso639-3": "hei"
+}

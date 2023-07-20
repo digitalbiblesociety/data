@@ -1,0 +1,86 @@
+{
+  "pk": 8495,
+  "hid": "kgl",
+  "father_pk": 6029,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kunggari [kung1258][kgl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4379",
+        "label": "Gunggari"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/d37",
+        "label": "Gunggari"
+      },
+      {
+        "url": "https://phoible.org/languages/kung1258",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q10550184",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "476203",
+        "phonology_or_text",
+        1983,
+        8,
+        "Holmer, Nils M. 1983"
+      ],
+      [
+        "56242",
+        "wordlist_or_less",
+        1887,
+        5,
+        "Looker, W. H. and Conn, William R. and Playfair, L. M. and Hollingworth, Joseph 1887"
+      ]
+    ]
+  },
+  "id": "kung1258",
+  "name": "Kunggari",
+  "description": null,
+  "markup_description": null,
+  "latitude": -24.2182,
+  "longitude": 143.222,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Greater Maric",
+      "id": "grea1282",
+      "url": "https://glottolog.org/resource/languoid/id/grea1282"
+    },
+    {
+      "name": "Guwa-Maric",
+      "id": "guwa1245",
+      "url": "https://glottolog.org/resource/languoid/id/guwa1245"
+    },
+    {
+      "name": "Maric",
+      "id": "mari1445",
+      "url": "https://glottolog.org/resource/languoid/id/mari1445"
+    },
+    {
+      "name": "Southern Maric",
+      "id": "sout2765",
+      "url": "https://glottolog.org/resource/languoid/id/sout2765"
+    }
+  ],
+  "iso639-3": "kgl"
+}

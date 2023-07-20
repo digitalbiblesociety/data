@@ -1,0 +1,97 @@
+{
+  "pk": 7828,
+  "hid": "tyv",
+  "father_pk": 5417,
+  "family_pk": 14,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Tuvin [cent1993]':1,'Northeastern Tuvin [nort2687]':1,'Southern Tuvin [sout2695]':1,'Western Tuvin [west2401]':1)'Tuvinian [tuvi1240][tyv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/7309",
+        "label": "Tuva"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tuv",
+        "label": "Tuvan"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tuvan_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/tuvi1240",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q34119",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "139435",
+        "long_grammar",
+        1961,
+        470,
+        "Isxakov, Fazyl G. and Pal'mbax, Aleksandr A. 1961"
+      ],
+      [
+        "152586",
+        "grammar",
+        1957,
+        122,
+        "Ischakov, F. G. and Dmitriev, Nikolaj K. 1957"
+      ],
+      [
+        "106210",
+        "grammar_sketch",
+        1903,
+        1580,
+        "Katanov, Nikolaj Fedorovic 1903"
+      ]
+    ]
+  },
+  "id": "tuvi1240",
+  "name": "Tuvinian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 51.7,
+  "longitude": 94.36667,
+  "classification": [
+    {
+      "name": "Turkic",
+      "id": "turk1311",
+      "url": "https://glottolog.org/resource/languoid/id/turk1311"
+    },
+    {
+      "name": "Common Turkic",
+      "id": "comm1245",
+      "url": "https://glottolog.org/resource/languoid/id/comm1245"
+    },
+    {
+      "name": "Central Siberian Turkic",
+      "id": "cent2326",
+      "url": "https://glottolog.org/resource/languoid/id/cent2326"
+    },
+    {
+      "name": "South Siberian Turkic",
+      "id": "sout2693",
+      "url": "https://glottolog.org/resource/languoid/id/sout2693"
+    },
+    {
+      "name": "Sayan",
+      "id": "saya1244",
+      "url": "https://glottolog.org/resource/languoid/id/saya1244"
+    }
+  ],
+  "iso639-3": "tyv"
+}

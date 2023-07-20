@@ -1,0 +1,75 @@
+{
+  "pk": 10560,
+  "hid": "mlf",
+  "father_pk": 7654,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mal [mall1246][mlf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3281057",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mal_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/mall1246",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "105672",
+        "phonology_or_text",
+        1965,
+        69,
+        "Filbeck, David 1965"
+      ]
+    ]
+  },
+  "id": "mall1246",
+  "name": "Mal",
+  "description": null,
+  "markup_description": null,
+  "latitude": 19.273,
+  "longitude": 101.204,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Khmuic",
+      "id": "khmu1236",
+      "url": "https://glottolog.org/resource/languoid/id/khmu1236"
+    },
+    {
+      "name": "Phay-Pram",
+      "id": "phay1242",
+      "url": "https://glottolog.org/resource/languoid/id/phay1242"
+    },
+    {
+      "name": "Tinic",
+      "id": "tini1248",
+      "url": "https://glottolog.org/resource/languoid/id/tini1248"
+    },
+    {
+      "name": "Tin",
+      "id": "tinn1239",
+      "url": "https://glottolog.org/resource/languoid/id/tinn1239"
+    }
+  ],
+  "iso639-3": "mlf"
+}

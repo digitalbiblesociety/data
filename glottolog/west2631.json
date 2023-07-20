@@ -1,0 +1,61 @@
+{
+  "pk": 1543,
+  "hid": "pua",
+  "father_pk": 296,
+  "family_pk": 296,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Cheran-Tanaco-Paracho [cher1274]':1,'Eleven Pueblos [elev1234]':1,'Pamatácuaro [pama1256]':1,'San José-Ocumicho [sanj1290]':1,'San Lorenzo [sanl1251]':1,'Tarecuato [tare1240]':1)'Western Highland Purepecha [west2631][pua]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q16114351",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "119061",
+        "long_grammar",
+        1991,
+        604,
+        "Paul de Wolf 1991"
+      ],
+      [
+        "138808",
+        "grammar_sketch",
+        1984,
+        27,
+        "Paul Friedrich 1984"
+      ],
+      [
+        "102406",
+        "phonology_or_text",
+        1971,
+        324,
+        "Paul Friedrich 1971"
+      ]
+    ]
+  },
+  "id": "west2631",
+  "name": "Western Highland Purepecha",
+  "description": null,
+  "markup_description": null,
+  "latitude": 19.5392,
+  "longitude": -102.154,
+  "classification": [
+    {
+      "name": "Tarascan",
+      "id": "tara1323",
+      "url": "https://glottolog.org/resource/languoid/id/tara1323"
+    }
+  ],
+  "iso639-3": "pua"
+}

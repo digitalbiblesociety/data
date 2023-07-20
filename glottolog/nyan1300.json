@@ -1,0 +1,68 @@
+{
+  "pk": 3609,
+  "hid": "nny",
+  "father_pk": 1930,
+  "family_pk": 31,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Yangkaal [nyan1300][nny]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4887",
+        "label": "Yangkaal"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q10604331",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "309474",
+        "phonology_or_text",
+        2010,
+        6,
+        "Evans, Nicholas 2010 [i.e. 2011]"
+      ],
+      [
+        "469584",
+        "phonology_or_text",
+        1995,
+        6,
+        "Nicholas D. Evans 1995"
+      ]
+    ]
+  },
+  "id": "nyan1300",
+  "name": "Yangkaal",
+  "description": null,
+  "markup_description": null,
+  "latitude": -16.74,
+  "longitude": 138.023,
+  "classification": [
+    {
+      "name": "Tangkic",
+      "id": "tang1340",
+      "url": "https://glottolog.org/resource/languoid/id/tang1340"
+    },
+    {
+      "name": "Southern Tangkic",
+      "id": "sout2758",
+      "url": "https://glottolog.org/resource/languoid/id/sout2758"
+    },
+    {
+      "name": "Kayardild-Yangkaal",
+      "id": "kaya1318",
+      "url": "https://glottolog.org/resource/languoid/id/kaya1318"
+    }
+  ],
+  "iso639-3": "nny"
+}

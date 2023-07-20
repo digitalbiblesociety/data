@@ -1,0 +1,93 @@
+{
+  "pk": 8685,
+  "hid": "nas",
+  "father_pk": 6193,
+  "family_pk": 170,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kongara [kong1294]':1,'Nuclear Naasioi [nucl1636]':1,'Orami [oram1238]':1,'Pakia-Sideronsi [paki1245]':1)'Naasioi [naas1242][nas]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nas",
+        "label": "Nasioi"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Naasioi_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/naas1242",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56772",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "9880",
+        "grammar",
+        1966,
+        294,
+        "Conrad Hurd and Phyllis Hurd 1966"
+      ],
+      [
+        "22202",
+        "grammar_sketch",
+        1912,
+        24,
+        "P. J. Rausch 1912"
+      ],
+      [
+        "41576",
+        "wordlist_or_less",
+        1903,
+        24,
+        "Carl Ribbe 1903"
+      ]
+    ]
+  },
+  "id": "naas1242",
+  "name": "Naasioi",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.46022,
+  "longitude": 155.632,
+  "classification": [
+    {
+      "name": "South Bougainville",
+      "id": "sout2948",
+      "url": "https://glottolog.org/resource/languoid/id/sout2948"
+    },
+    {
+      "name": "Nasioiic",
+      "id": "nasi1247",
+      "url": "https://glottolog.org/resource/languoid/id/nasi1247"
+    },
+    {
+      "name": "Nasioi",
+      "id": "nasi1248",
+      "url": "https://glottolog.org/resource/languoid/id/nasi1248"
+    },
+    {
+      "name": "South-Central Nasioi",
+      "id": "sout3363",
+      "url": "https://glottolog.org/resource/languoid/id/sout3363"
+    },
+    {
+      "name": "Central Nasioi",
+      "id": "cent2394",
+      "url": "https://glottolog.org/resource/languoid/id/cent2394"
+    }
+  ],
+  "iso639-3": "nas"
+}

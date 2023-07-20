@@ -1,0 +1,78 @@
+{
+  "pk": 9471,
+  "hid": "bnf",
+  "father_pk": 6857,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Masiwang [masi1266][bnf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6783305",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Masiwang_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "143037",
+        "grammar_sketch",
+        1928,
+        6,
+        "Odo D. Tauern 1928, 1929, 1930, 1931"
+      ],
+      [
+        "7931",
+        "wordlist_or_less",
+        1901,
+        24,
+        "Le Cocq d'Armandville, C. J. F. 1901"
+      ]
+    ]
+  },
+  "id": "masi1266",
+  "name": "Masiwang",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.29547,
+  "longitude": 130.601,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Greater Seram Laut",
+      "id": "grea1302",
+      "url": "https://glottolog.org/resource/languoid/id/grea1302"
+    },
+    {
+      "name": "East Seram",
+      "id": "east2741",
+      "url": "https://glottolog.org/resource/languoid/id/east2741"
+    },
+    {
+      "name": "East Rivers Seram",
+      "id": "east2748",
+      "url": "https://glottolog.org/resource/languoid/id/east2748"
+    }
+  ],
+  "iso639-3": "bnf"
+}

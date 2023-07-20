@@ -1,0 +1,98 @@
+{
+  "pk": 11483,
+  "hid": "aer",
+  "father_pk": 8544,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Akarre [akar1244]':1,'Ikngerripenhe [ikng1238]':1,'Mparntwe Arrernte [mpar1238]':1,'Northern Arrernte [nort3403]':1)'Eastern Arrernte [east2379][aer]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_amp",
+        "label": "Arrernte (Mparntwe)"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/5248",
+        "label": "Eastern and Central Arrernte"
+      },
+      {
+        "url": "https://phoible.org/languages/east2379",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q10728232",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "136387",
+        "long_grammar",
+        1989,
+        665,
+        "David P. Wilkins 1989"
+      ],
+      [
+        "2689",
+        "wordlist_or_less",
+        1896,
+        34,
+        "Stirling, Edward Charles 1896"
+      ],
+      [
+        "2870",
+        "wordlist_or_less",
+        1891,
+        13,
+        "Willshire, William Henry 1891"
+      ]
+    ]
+  },
+  "id": "east2379",
+  "name": "Eastern Arrernte",
+  "description": null,
+  "markup_description": null,
+  "latitude": -23.3583,
+  "longitude": 135.046,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Arandic-Thura-Yura",
+      "id": "aran1266",
+      "url": "https://glottolog.org/resource/languoid/id/aran1266"
+    },
+    {
+      "name": "Arandic",
+      "id": "aran1267",
+      "url": "https://glottolog.org/resource/languoid/id/aran1267"
+    },
+    {
+      "name": "South Arandic",
+      "id": "sout3384",
+      "url": "https://glottolog.org/resource/languoid/id/sout3384"
+    },
+    {
+      "name": "Upper Arrernte",
+      "id": "aran1263",
+      "url": "https://glottolog.org/resource/languoid/id/aran1263"
+    },
+    {
+      "name": "Central-Eastern Arrernte",
+      "id": "cent2403",
+      "url": "https://glottolog.org/resource/languoid/id/cent2403"
+    }
+  ],
+  "iso639-3": "aer"
+}

@@ -1,0 +1,114 @@
+{
+  "pk": 21063,
+  "hid": "orc",
+  "father_pk": 19053,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Munyo [muny1242]':1,'Nuclear Orma [nucl1702]':1,'Orma {Kenya} [waat1239]':1)'Orma [orma1241][orc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q2919128",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Orma_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/orma1241",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "78655",
+        "grammar_sketch",
+        1987,
+        49,
+        "Stroomer, Harry J. 1987"
+      ],
+      [
+        "84980",
+        "grammar_sketch",
+        1980,
+        31,
+        "Heine, Bernd 1980"
+      ],
+      [
+        "124354",
+        "phonology_or_text",
+        1975,
+        11,
+        "Zaborski, Andrzej 1975"
+      ]
+    ]
+  },
+  "id": "orma1241",
+  "name": "Orma",
+  "description": null,
+  "markup_description": null,
+  "latitude": -1.79489,
+  "longitude": 39.60749,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Cushitic",
+      "id": "cush1243",
+      "url": "https://glottolog.org/resource/languoid/id/cush1243"
+    },
+    {
+      "name": "East Cushitic",
+      "id": "east2699",
+      "url": "https://glottolog.org/resource/languoid/id/east2699"
+    },
+    {
+      "name": "Lowland East Cushitic",
+      "id": "lowl1267",
+      "url": "https://glottolog.org/resource/languoid/id/lowl1267"
+    },
+    {
+      "name": "Southern Lowland East Cushitic",
+      "id": "sout3055",
+      "url": "https://glottolog.org/resource/languoid/id/sout3055"
+    },
+    {
+      "name": "Mainstream Lowland East Cushitic",
+      "id": "main1283",
+      "url": "https://glottolog.org/resource/languoid/id/main1283"
+    },
+    {
+      "name": "Oromoid",
+      "id": "nucl1701",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1701"
+    },
+    {
+      "name": "Nuclear Oromo",
+      "id": "nucl1736",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1736"
+    },
+    {
+      "name": "Central-Eastern Oromo",
+      "id": "cent2302",
+      "url": "https://glottolog.org/resource/languoid/id/cent2302"
+    },
+    {
+      "name": "Central Oromo",
+      "id": "cent2303",
+      "url": "https://glottolog.org/resource/languoid/id/cent2303"
+    }
+  ],
+  "iso639-3": "orc"
+}

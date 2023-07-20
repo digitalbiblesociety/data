@@ -1,0 +1,88 @@
+{
+  "pk": 8959,
+  "hid": "pbs",
+  "father_pk": 6467,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Central Pame [cent2145][pbs]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3361763",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "571738",
+        "phonology_or_text",
+        2015,
+        30,
+        "Gibson, Lorna F. 2015"
+      ],
+      [
+        "14463",
+        "phonology_or_text",
+        1979,
+        14,
+        "Gibson, Lorna F. and Bartholomew, Doris A. 1979"
+      ],
+      [
+        "63394",
+        "phonology_or_text",
+        1956,
+        24,
+        "Gibson, Lorna F. 1956"
+      ],
+      [
+        "61490",
+        "wordlist_or_less",
+        1954,
+        6,
+        "Gibson, Lorna F. 1954"
+      ]
+    ]
+  },
+  "id": "cent2145",
+  "name": "Central Pame",
+  "description": null,
+  "markup_description": null,
+  "latitude": 21.3762,
+  "longitude": -99.2898,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Western Otomanguean",
+      "id": "west2783",
+      "url": "https://glottolog.org/resource/languoid/id/west2783"
+    },
+    {
+      "name": "Otopame-Chinantecan",
+      "id": "otop1241",
+      "url": "https://glottolog.org/resource/languoid/id/otop1241"
+    },
+    {
+      "name": "Otopamean",
+      "id": "otop1242",
+      "url": "https://glottolog.org/resource/languoid/id/otop1242"
+    },
+    {
+      "name": "Pamean",
+      "id": "pame1260",
+      "url": "https://glottolog.org/resource/languoid/id/pame1260"
+    }
+  ],
+  "iso639-3": "pbs"
+}

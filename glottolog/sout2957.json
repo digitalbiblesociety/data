@@ -1,0 +1,90 @@
+{
+  "pk": 11716,
+  "hid": "tce",
+  "father_pk": 8908,
+  "family_pk": 238,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Southern Tutchone [sout2957][tce]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1470",
+        "label": "Dän kʼè (Southern Tutchone)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q31091048",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "568201",
+        "grammar_sketch",
+        1994,
+        294,
+        "Lorraine Allen 1994"
+      ],
+      [
+        "92852",
+        "phonology_or_text",
+        1981,
+        4,
+        "Krauss, Michael E. and Golla, Victor 1981"
+      ],
+      [
+        "79203",
+        "wordlist_or_less",
+        1963,
+        5,
+        "Harry Hoijer 1963"
+      ]
+    ]
+  },
+  "id": "sout2957",
+  "name": "Southern Tutchone",
+  "description": null,
+  "markup_description": null,
+  "latitude": 60.7823,
+  "longitude": -136.573,
+  "classification": [
+    {
+      "name": "Athabaskan-Eyak-Tlingit",
+      "id": "atha1245",
+      "url": "https://glottolog.org/resource/languoid/id/atha1245"
+    },
+    {
+      "name": "Athabaskan-Eyak",
+      "id": "atha1246",
+      "url": "https://glottolog.org/resource/languoid/id/atha1246"
+    },
+    {
+      "name": "Athabaskan",
+      "id": "atha1247",
+      "url": "https://glottolog.org/resource/languoid/id/atha1247"
+    },
+    {
+      "name": "Central Alaska-Yukon Athabaskan",
+      "id": "cent2371",
+      "url": "https://glottolog.org/resource/languoid/id/cent2371"
+    },
+    {
+      "name": "Tanana-Tutchone",
+      "id": "tana1299",
+      "url": "https://glottolog.org/resource/languoid/id/tana1299"
+    },
+    {
+      "name": "Tutchone",
+      "id": "tutc1236",
+      "url": "https://glottolog.org/resource/languoid/id/tutc1236"
+    }
+  ],
+  "iso639-3": "tce"
+}

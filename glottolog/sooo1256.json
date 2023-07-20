@@ -1,0 +1,82 @@
+{
+  "pk": 3420,
+  "hid": "teu",
+  "father_pk": 1830,
+  "family_pk": 398,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Soo [sooo1256][teu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5081",
+        "label": "Soo"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3437607",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Soo_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/sooo1256",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_so",
+        "label": "So"
+      }
+    ],
+    "meds": [
+      [
+        "158245",
+        "grammar",
+        1993,
+        227,
+        "Carlin, Eithne 1993"
+      ],
+      [
+        "17490",
+        "grammar_sketch",
+        1975,
+        19,
+        "Heine, Bernd 1975"
+      ],
+      [
+        "38955",
+        "wordlist_or_less",
+        1953,
+        5,
+        "Gulliver, Pamela and Gulliver, Philip Hugh 1953"
+      ]
+    ]
+  },
+  "id": "sooo1256",
+  "name": "Soo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 2.58367,
+  "longitude": 34.7595,
+  "classification": [
+    {
+      "name": "Kuliak",
+      "id": "kuli1252",
+      "url": "https://glottolog.org/resource/languoid/id/kuli1252"
+    },
+    {
+      "name": "Ngangea-So",
+      "id": "ngan1305",
+      "url": "https://glottolog.org/resource/languoid/id/ngan1305"
+    }
+  ],
+  "iso639-3": "teu"
+}

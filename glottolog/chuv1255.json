@@ -1,0 +1,106 @@
+{
+  "pk": 1896,
+  "hid": "chv",
+  "father_pk": 447,
+  "family_pk": 14,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Anatri [anat1247]':1,'Viryal [viry1239]':1)'Chuvash [chuv1255][chv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_chv",
+        "label": "Chuvash"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Chuvash_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/chuv1255",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33348",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "137242",
+        "long_grammar",
+        1996,
+        459,
+        "Fedotov, Michail R. 1996"
+      ],
+      [
+        "319200",
+        "grammar",
+        1966,
+        295,
+        "Andreev, Ivan A. 1966"
+      ],
+      [
+        "52886",
+        "grammar",
+        1961,
+        274,
+        "John R. Krueger 1961"
+      ],
+      [
+        "318614",
+        "grammar",
+        1930,
+        196,
+        "Egorov, V. G. 1930"
+      ],
+      [
+        "547748",
+        "grammar_sketch",
+        1862,
+        205,
+        "Budenz, József 1862, 1862, 1863"
+      ],
+      [
+        "552782",
+        "grammar_sketch",
+        1836,
+        125,
+        "V. P. Višnevskij 1836"
+      ],
+      [
+        "552744",
+        "grammar_sketch",
+        1769,
+        70,
+        "Veniamin, Vasilij Grigor'evič 1769"
+      ]
+    ]
+  },
+  "id": "chuv1255",
+  "name": "Chuvash",
+  "description": null,
+  "markup_description": null,
+  "latitude": 55.48701,
+  "longitude": 47.16298,
+  "classification": [
+    {
+      "name": "Turkic",
+      "id": "turk1311",
+      "url": "https://glottolog.org/resource/languoid/id/turk1311"
+    },
+    {
+      "name": "Bolgar",
+      "id": "bolg1249",
+      "url": "https://glottolog.org/resource/languoid/id/bolg1249"
+    }
+  ],
+  "iso639-3": "chv"
+}

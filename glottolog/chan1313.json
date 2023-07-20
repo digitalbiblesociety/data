@@ -1,0 +1,91 @@
+{
+  "pk": 7409,
+  "hid": "nbc",
+  "father_pk": 5042,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Chang Naga [chan1313][nbc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q5071694",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Chang_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_chg",
+        "label": "Chang"
+      }
+    ],
+    "meds": [
+      [
+        "26985",
+        "grammar_sketch",
+        1987,
+        127,
+        "J. H. Hutton 1987"
+      ],
+      [
+        "314230",
+        "grammar_sketch",
+        1956,
+        101,
+        "Chang, Imlong 1956"
+      ],
+      [
+        "98903",
+        "grammar_sketch",
+        1929,
+        101,
+        "J. H. Hutton 1929"
+      ],
+      [
+        "162861",
+        "wordlist_or_less",
+        1903,
+        4,
+        "George A. Grierson 1903"
+      ]
+    ]
+  },
+  "id": "chan1313",
+  "name": "Chang Naga",
+  "description": null,
+  "markup_description": null,
+  "latitude": 26.4336,
+  "longitude": 94.9536,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Brahmaputran",
+      "id": "brah1260",
+      "url": "https://glottolog.org/resource/languoid/id/brah1260"
+    },
+    {
+      "name": "Konyak",
+      "id": "kony1246",
+      "url": "https://glottolog.org/resource/languoid/id/kony1246"
+    },
+    {
+      "name": "Konyak I",
+      "id": "kony1247",
+      "url": "https://glottolog.org/resource/languoid/id/kony1247"
+    }
+  ],
+  "iso639-3": "nbc"
+}

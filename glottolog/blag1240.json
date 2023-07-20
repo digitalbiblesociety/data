@@ -1,0 +1,94 @@
+{
+  "pk": 11354,
+  "hid": "beu",
+  "father_pk": 8346,
+  "family_pk": 125,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('East-Northeast Pura [lima1248]':1,'Melangvala-Bakalang [baka1276]':1,'North-Northwest Pura [pura1258]':1,'Southern Pura [apur1252]':1)'Coastal Blagar [coas1327]':1,('Northern Hinterland Blagar [nort3371]':1,'Southern Hinterland Blagar [sout3349]':1)'Hinterland Blagar [hint1235]':1)'Blagar [blag1240][beu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 8,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/9469",
+        "label": "Blagar"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Blagar_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q4923846",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "107928",
+        "grammar_sketch",
+        1989,
+        152,
+        "Wakidi, {} and Tarno, {} and Yosep Hayon and A. M. Mandaru 1989"
+      ],
+      [
+        "581931",
+        "phonology_or_text",
+        1977,
+        11,
+        "Hein Steinhauer 1977"
+      ],
+      [
+        "161717",
+        "wordlist_or_less",
+        1975,
+        1,
+        "W. A. L. Stokhof 1975"
+      ]
+    ]
+  },
+  "id": "blag1240",
+  "name": "Blagar",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.31787,
+  "longitude": 124.251,
+  "classification": [
+    {
+      "name": "Timor-Alor-Pantar",
+      "id": "timo1261",
+      "url": "https://glottolog.org/resource/languoid/id/timo1261"
+    },
+    {
+      "name": "Alor-Pantar",
+      "id": "alor1249",
+      "url": "https://glottolog.org/resource/languoid/id/alor1249"
+    },
+    {
+      "name": "Nuclear Alor-Pantar",
+      "id": "nucl1821",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1821"
+    },
+    {
+      "name": "West Alor-Straits-Pantar",
+      "id": "west2994",
+      "url": "https://glottolog.org/resource/languoid/id/west2994"
+    },
+    {
+      "name": "Kaera-Straits",
+      "id": "kaer1235",
+      "url": "https://glottolog.org/resource/languoid/id/kaer1235"
+    },
+    {
+      "name": "Blagaric",
+      "id": "blag1241",
+      "url": "https://glottolog.org/resource/languoid/id/blag1241"
+    }
+  ],
+  "iso639-3": "beu"
+}

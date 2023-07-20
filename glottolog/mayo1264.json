@@ -1,0 +1,76 @@
+{
+  "pk": 4100,
+  "hid": "mfy",
+  "father_pk": 2339,
+  "family_pk": 155,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mayo [mayo1264][mfy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4644",
+        "label": "Mayo"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_myo",
+        "label": "Mayo"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mayo_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56729",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "305129",
+        "long_grammar",
+        1997,
+        641,
+        "de Wolf, Paul P. 1997"
+      ],
+      [
+        "19780",
+        "grammar_sketch",
+        1737,
+        327,
+        "Eustaquio Buelna 1890 [1737]"
+      ]
+    ]
+  },
+  "id": "mayo1264",
+  "name": "Mayo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 26.4522,
+  "longitude": -108.981,
+  "classification": [
+    {
+      "name": "Uto-Aztecan",
+      "id": "utoa1244",
+      "url": "https://glottolog.org/resource/languoid/id/utoa1244"
+    },
+    {
+      "name": "Southern Uto-Aztecan",
+      "id": "sout3136",
+      "url": "https://glottolog.org/resource/languoid/id/sout3136"
+    },
+    {
+      "name": "Cahitan",
+      "id": "cahi1243",
+      "url": "https://glottolog.org/resource/languoid/id/cahi1243"
+    }
+  ],
+  "iso639-3": "mfy"
+}

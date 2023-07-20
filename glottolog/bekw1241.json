@@ -1,0 +1,94 @@
+{
+  "pk": 13008,
+  "hid": "bkv",
+  "father_pk": 9991,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Bekwarra [bekw1241][bkv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q34954",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bekwarra_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/bekw1241",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "83403",
+        "long_grammar",
+        1967,
+        326,
+        "Stanford, Ronald 1967"
+      ],
+      [
+        "161489",
+        "wordlist_or_less",
+        1919,
+        2,
+        "Johnston, Harry H. 1919, 1922"
+      ],
+      [
+        "150176",
+        "wordlist_or_less",
+        1914,
+        2,
+        "Thomas, Northcote Whitridge 1914"
+      ]
+    ]
+  },
+  "id": "bekw1241",
+  "name": "Bekwarra",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.73737,
+  "longitude": 8.86489,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Bendic",
+      "id": "bend1256",
+      "url": "https://glottolog.org/resource/languoid/id/bend1256"
+    }
+  ],
+  "iso639-3": "bkv"
+}

@@ -1,0 +1,103 @@
+{
+  "pk": 16173,
+  "hid": "bqh",
+  "father_pk": 13349,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Northern Baima [nort2706]':1,'Southern Baima [sout2713]':1,'Western Baima [west2412]':1)'Baima [baim1244][bqh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5614",
+        "label": "Baima"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q674990",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Baima_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/baim1244",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "318963",
+        "long_grammar",
+        2007,
+        385,
+        "Sun, Hongkai and Qi, Kajia (Katia Chirkova) and Liu, Guangkun 2007"
+      ],
+      [
+        "575520",
+        "grammar_sketch",
+        1990,
+        189,
+        "Nishida, Tatsuo and Sun, Hongkai 1990"
+      ],
+      [
+        "309201",
+        "grammar_sketch",
+        1983,
+        8,
+        "Sun, Hongkai 1983"
+      ]
+    ]
+  },
+  "id": "baim1244",
+  "name": "Baima",
+  "description": null,
+  "markup_description": null,
+  "latitude": 33.1001,
+  "longitude": 103.952,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "Bodish",
+      "id": "bodi1257",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1257"
+    },
+    {
+      "name": "Early Old Tibetan",
+      "id": "oldm1245",
+      "url": "https://glottolog.org/resource/languoid/id/oldm1245"
+    },
+    {
+      "name": "Middle Old Tibetan",
+      "id": "tibe1276",
+      "url": "https://glottolog.org/resource/languoid/id/tibe1276"
+    },
+    {
+      "name": "Late Old Tibetan",
+      "id": "late1253",
+      "url": "https://glottolog.org/resource/languoid/id/late1253"
+    },
+    {
+      "name": "Eastern Tibetic",
+      "id": "east2771",
+      "url": "https://glottolog.org/resource/languoid/id/east2771"
+    }
+  ],
+  "iso639-3": "bqh"
+}

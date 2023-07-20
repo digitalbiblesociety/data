@@ -1,0 +1,58 @@
+{
+  "pk": 862,
+  "hid": "aex",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Amerax [amer1256][aex]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "aex",
+      "name": "Amerax",
+      "change_request": "2007-177",
+      "effective": "2008-01-14",
+      "reason": "merge",
+      "change_to": [
+        "eng"
+      ],
+      "remedy": "Merge into English [eng]",
+      "comment": "There may be evidence that some distinct variety of English is in use by\n\"Neo-muslims in prisons\" (Gordon, 2005:298) but insufficient evidence to treat\nit as a separate language. It is presumably some variety of English with\npossible influences from Arabic. It may not in fact be \"fully intelligible\" with\nstandard English but probably doesn't merit being separately identified as a\nlanguage under ISO 639-3."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3915657",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500643",
+        "wordlist_or_less",
+        2007,
+        0,
+        "ISO 639-3 Registration Authority 2007"
+      ]
+    ]
+  },
+  "id": "amer1256",
+  "name": "Amerax",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "aex"
+}

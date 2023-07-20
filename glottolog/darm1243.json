@@ -1,0 +1,112 @@
+{
+  "pk": 18510,
+  "hid": "drd",
+  "father_pk": 16186,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Darma [darm1243][drd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4104",
+        "label": "Darma"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5224058",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Darmiya_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/darm1243",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_drm",
+        "label": "Darma"
+      }
+    ],
+    "meds": [
+      [
+        "132955",
+        "long_grammar",
+        2007,
+        629,
+        "Willis, Christina M. 2007"
+      ],
+      [
+        "182652",
+        "grammar_sketch",
+        1989,
+        79,
+        "D. D. Sharma 1989"
+      ],
+      [
+        "78648",
+        "wordlist_or_less",
+        1909,
+        4,
+        "George A. Grierson 1909"
+      ]
+    ]
+  },
+  "id": "darm1243",
+  "name": "Darma",
+  "description": null,
+  "markup_description": null,
+  "latitude": 29.8629,
+  "longitude": 80.5439,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "West Himalayish",
+      "id": "tibe1275",
+      "url": "https://glottolog.org/resource/languoid/id/tibe1275"
+    },
+    {
+      "name": "Eastern West Himalayish",
+      "id": "east2777",
+      "url": "https://glottolog.org/resource/languoid/id/east2777"
+    },
+    {
+      "name": "Pithauragarh",
+      "id": "pith1234",
+      "url": "https://glottolog.org/resource/languoid/id/pith1234"
+    },
+    {
+      "name": "Darma-Byangsi-Chaudangsi",
+      "id": "darm1241",
+      "url": "https://glottolog.org/resource/languoid/id/darm1241"
+    },
+    {
+      "name": "Darma-Byangsi",
+      "id": "darm1242",
+      "url": "https://glottolog.org/resource/languoid/id/darm1242"
+    },
+    {
+      "name": "Zhangzhungic",
+      "id": "zhan1241",
+      "url": "https://glottolog.org/resource/languoid/id/zhan1241"
+    }
+  ],
+  "iso639-3": "drd"
+}

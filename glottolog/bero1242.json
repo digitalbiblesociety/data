@@ -1,0 +1,93 @@
+{
+  "pk": 9956,
+  "hid": "bom",
+  "father_pk": 7173,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Nincut [ninc1234]':1,('Bachit-Gashish [bach1243]':1,'Cen {Berom} [cenn1239]':1,'Du-Foron [duro1238]':1,'Fan-Ropp-Rim-Riyom-Heikpang [fanf1238]':1,'Gyel-Kuru-Vwang [gyel1241]':1,'Rahoss-Tahoss [hoss1238]':1)'Nuclear Berom [nucl1809]':1)'Berom [bero1242][bom]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 8,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bir",
+        "label": "Birom"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Berom_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/bero1242",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35013",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "125830",
+        "long_grammar",
+        1970,
+        520,
+        "Bouquiaux, Luc 1970"
+      ],
+      [
+        "148294",
+        "long_grammar",
+        1963,
+        308,
+        "Bouquiaux, Luc 1963"
+      ],
+      [
+        "109280",
+        "wordlist_or_less",
+        1907,
+        2,
+        "Gowers, W.F. 1907"
+      ]
+    ]
+  },
+  "id": "bero1242",
+  "name": "Berom",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.67037,
+  "longitude": 8.81221,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Benue-Congo Plateau",
+      "id": "benu1248",
+      "url": "https://glottolog.org/resource/languoid/id/benu1248"
+    },
+    {
+      "name": "Beromic",
+      "id": "iten1244",
+      "url": "https://glottolog.org/resource/languoid/id/iten1244"
+    }
+  ],
+  "iso639-3": "bom"
+}

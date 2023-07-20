@@ -1,0 +1,157 @@
+{
+  "pk": 25014,
+  "hid": "egl",
+  "father_pk": 24151,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bologna Emiliano [bolo1260]':1,'Central Emiliano [cent1959]':1,'Eastern Emiliano [east2275]':1,'Lunigiano [luni1238]':1,'Vogherese-Pavese [vogh1238]':1,'Western Emiliano [west2342]':1)'Emiliano [emil1241][egl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Emilian_dialects",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_itb",
+        "label": "Italian (Bologna)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q1057898",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "555214",
+        "grammar_sketch",
+        2009,
+        264,
+        "Foresti, Fabio 2009"
+      ],
+      [
+        "17965",
+        "grammar_sketch",
+        1977,
+        166,
+        "Bellucci, Patrizia Maffei 1977"
+      ],
+      [
+        "547420",
+        "grammar_sketch",
+        1905,
+        86,
+        "Giulio Bertoni 1905"
+      ],
+      [
+        "319341",
+        "phonology_or_text",
+        1828,
+        704,
+        "Ilario Peschieri 1828"
+      ],
+      [
+        "319784",
+        "phonology_or_text",
+        1820,
+        313,
+        "Claudio Ferrari 1820"
+      ],
+      [
+        "318986",
+        "wordlist_or_less",
+        1805,
+        279,
+        "Francesco Nannini 1805"
+      ],
+      [
+        "113070",
+        "wordlist_or_less",
+        1787,
+        4,
+        "Lorenzo Hervas 1787"
+      ]
+    ]
+  },
+  "id": "emil1241",
+  "name": "Emiliano",
+  "description": null,
+  "markup_description": null,
+  "latitude": 44.3536,
+  "longitude": 11.5794,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Italic",
+      "id": "ital1284",
+      "url": "https://glottolog.org/resource/languoid/id/ital1284"
+    },
+    {
+      "name": "Latino-Faliscan",
+      "id": "lati1262",
+      "url": "https://glottolog.org/resource/languoid/id/lati1262"
+    },
+    {
+      "name": "Latinic",
+      "id": "lati1263",
+      "url": "https://glottolog.org/resource/languoid/id/lati1263"
+    },
+    {
+      "name": "Imperial Latin",
+      "id": "impe1234",
+      "url": "https://glottolog.org/resource/languoid/id/impe1234"
+    },
+    {
+      "name": "Romance",
+      "id": "roma1334",
+      "url": "https://glottolog.org/resource/languoid/id/roma1334"
+    },
+    {
+      "name": "Italo-Western Romance",
+      "id": "ital1285",
+      "url": "https://glottolog.org/resource/languoid/id/ital1285"
+    },
+    {
+      "name": "Western Romance",
+      "id": "west2813",
+      "url": "https://glottolog.org/resource/languoid/id/west2813"
+    },
+    {
+      "name": "Shifted Western Romance",
+      "id": "shif1234",
+      "url": "https://glottolog.org/resource/languoid/id/shif1234"
+    },
+    {
+      "name": "Northwestern Shifted Romance",
+      "id": "nort3208",
+      "url": "https://glottolog.org/resource/languoid/id/nort3208"
+    },
+    {
+      "name": "Gallo-Italian",
+      "id": "gall1279",
+      "url": "https://glottolog.org/resource/languoid/id/gall1279"
+    },
+    {
+      "name": "Emiliano-Romagnolo",
+      "id": "emil1243",
+      "url": "https://glottolog.org/resource/languoid/id/emil1243"
+    }
+  ],
+  "iso639-3": "egl"
+}

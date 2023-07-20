@@ -1,0 +1,94 @@
+{
+  "pk": 12571,
+  "hid": "kje",
+  "father_pk": 9554,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kisar [kisa1266][kje]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ksr",
+        "label": "Kisar"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kisar_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3197441",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "99122",
+        "grammar_sketch",
+        1991,
+        153,
+        "Christensen, John and Christensen, Sylvia and Cindy Blood 1991"
+      ],
+      [
+        "137430",
+        "wordlist_or_less",
+        1886,
+        65,
+        "Rinnooy, N. 1886"
+      ],
+      [
+        "11282",
+        "wordlist_or_less",
+        1841,
+        10,
+        "G. W. Earl 1841"
+      ]
+    ]
+  },
+  "id": "kisa1266",
+  "name": "Kisar",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.05122,
+  "longitude": 127.18,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Timor-Babar",
+      "id": "timo1265",
+      "url": "https://glottolog.org/resource/languoid/id/timo1265"
+    },
+    {
+      "name": "Southwest Maluku",
+      "id": "sout3382",
+      "url": "https://glottolog.org/resource/languoid/id/sout3382"
+    },
+    {
+      "name": "Luangic-Kisaric",
+      "id": "luan1261",
+      "url": "https://glottolog.org/resource/languoid/id/luan1261"
+    },
+    {
+      "name": "Kisaric",
+      "id": "kisa1265",
+      "url": "https://glottolog.org/resource/languoid/id/kisa1265"
+    }
+  ],
+  "iso639-3": "kje"
+}

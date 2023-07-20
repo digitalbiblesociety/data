@@ -1,0 +1,84 @@
+{
+  "pk": 7439,
+  "hid": "oyd",
+  "father_pk": 5080,
+  "family_pk": 342,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Oyda [oyda1235][oyd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1420",
+        "label": "Oyda"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7116251",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Oyda_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "153570",
+        "grammar_sketch",
+        2003,
+        129,
+        "Dilnesaw, Abraham 2003"
+      ],
+      [
+        "84737",
+        "wordlist_or_less",
+        2002,
+        2,
+        "Girard, Tim 2002"
+      ],
+      [
+        "571291",
+        "wordlist_or_less",
+        1997,
+        0,
+        "Dereje Feyissa 1997"
+      ]
+    ]
+  },
+  "id": "oyda1235",
+  "name": "Oyda",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.13322,
+  "longitude": 36.8541,
+  "classification": [
+    {
+      "name": "Ta-Ne-Omotic",
+      "id": "gong1255",
+      "url": "https://glottolog.org/resource/languoid/id/gong1255"
+    },
+    {
+      "name": "Ometo",
+      "id": "omet1238",
+      "url": "https://glottolog.org/resource/languoid/id/omet1238"
+    },
+    {
+      "name": "North-West Ometo",
+      "id": "nort3161",
+      "url": "https://glottolog.org/resource/languoid/id/nort3161"
+    },
+    {
+      "name": "Central Ometo",
+      "id": "cent2046",
+      "url": "https://glottolog.org/resource/languoid/id/cent2046"
+    }
+  ],
+  "iso639-3": "oyd"
+}

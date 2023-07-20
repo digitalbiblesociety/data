@@ -1,0 +1,77 @@
+{
+  "pk": 7105,
+  "hid": "bgm",
+  "father_pk": 4868,
+  "family_pk": 320,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "'Baga Mboteni [baga1276][bgm]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "bgm",
+      "name": "Baga Mboteni",
+      "change_request": "2015-065",
+      "effective": "2016-01-15",
+      "reason": "duplicate",
+      "change_to": [
+        "bcg"
+      ],
+      "remedy": "Duplicate of [bcg] Baga Pokur",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3904",
+        "label": "Baga Mboteni"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q34875",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "535605",
+        "wordlist_or_less",
+        2015,
+        0,
+        "ISO 639-3 Registration Authority 2015"
+      ]
+    ]
+  },
+  "id": "baga1276",
+  "name": "Baga Mboteni",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.27246,
+  "longitude": -12.07358,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "North-Central Atlantic",
+      "id": "nort3146",
+      "url": "https://glottolog.org/resource/languoid/id/nort3146"
+    },
+    {
+      "name": "Naluic",
+      "id": "nalu1241",
+      "url": "https://glottolog.org/resource/languoid/id/nalu1241"
+    },
+    {
+      "name": "Pukur",
+      "id": "baga1275",
+      "url": "https://glottolog.org/resource/languoid/id/baga1275"
+    }
+  ],
+  "iso639-3": "bgm"
+}

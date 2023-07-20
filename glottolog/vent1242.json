@@ -1,0 +1,75 @@
+{
+  "pk": 4121,
+  "hid": "veo",
+  "father_pk": 2350,
+  "family_pk": 160,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ventureño [vent1242][veo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56712",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Venture%C3%B1o_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "314597",
+        "long_grammar",
+        2012,
+        326,
+        "Timothy Paul Henry 2012"
+      ],
+      [
+        "309122",
+        "grammar",
+        1973,
+        257,
+        "Applegate, Richard 1973"
+      ],
+      [
+        "309265",
+        "wordlist_or_less",
+        1967,
+        79,
+        "na 1967"
+      ]
+    ]
+  },
+  "id": "vent1242",
+  "name": "Ventureño",
+  "description": null,
+  "markup_description": null,
+  "latitude": 34.1761,
+  "longitude": -119.035,
+  "classification": [
+    {
+      "name": "Chumashan",
+      "id": "chum1262",
+      "url": "https://glottolog.org/resource/languoid/id/chum1262"
+    },
+    {
+      "name": "Southern Chumashan",
+      "id": "sout3132",
+      "url": "https://glottolog.org/resource/languoid/id/sout3132"
+    },
+    {
+      "name": "Central Chumashan",
+      "id": "cent2139",
+      "url": "https://glottolog.org/resource/languoid/id/cent2139"
+    }
+  ],
+  "iso639-3": "veo"
+}

@@ -1,0 +1,128 @@
+{
+  "pk": 21992,
+  "hid": "dav",
+  "father_pk": 20224,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bura [bura1272]':1,'Chawia [chaw1244]':1,'Mbale [mbal1256]':1,'Mbololo [mbol1248]':1,'Mwanda [mwan1248]':1,'Werugha [weru1238]':1)'Taita [tait1250][dav]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q2387274",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Taita_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_dbd",
+        "label": "Dabida"
+      }
+    ],
+    "meds": [
+      [
+        "112795",
+        "grammar",
+        2000,
+        189,
+        "Rjabova, Irina S. 2000"
+      ],
+      [
+        "124945",
+        "grammar_sketch",
+        1901,
+        28,
+        "Hollis, Alfred Claud 1901"
+      ],
+      [
+        "132791",
+        "wordlist_or_less",
+        1885,
+        111,
+        "Shaw, Archibald Downes 1885"
+      ],
+      [
+        "58726",
+        "wordlist_or_less",
+        1873,
+        0,
+        "New, Charles 1873"
+      ],
+      [
+        "110925",
+        "wordlist_or_less",
+        1870,
+        7,
+        "Wakefield, Thomas 1870"
+      ]
+    ]
+  },
+  "id": "tait1250",
+  "name": "Taita",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.79347,
+  "longitude": 38.57254,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Narrow Bantu",
+      "id": "narr1281",
+      "url": "https://glottolog.org/resource/languoid/id/narr1281"
+    },
+    {
+      "name": "East Bantu",
+      "id": "east2731",
+      "url": "https://glottolog.org/resource/languoid/id/east2731"
+    },
+    {
+      "name": "Northeast Savanna Bantu",
+      "id": "nort3203",
+      "url": "https://glottolog.org/resource/languoid/id/nort3203"
+    },
+    {
+      "name": "Kilimanjaro-Taita",
+      "id": "kili1269",
+      "url": "https://glottolog.org/resource/languoid/id/kili1269"
+    },
+    {
+      "name": "Taita-Sagalla",
+      "id": "tait1249",
+      "url": "https://glottolog.org/resource/languoid/id/tait1249"
+    }
+  ],
+  "iso639-3": "dav"
+}

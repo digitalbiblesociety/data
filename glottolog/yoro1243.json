@@ -1,0 +1,80 @@
+{
+  "pk": 6225,
+  "hid": "yox",
+  "father_pk": 4193,
+  "family_pk": 176,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Yoron [yoro1243][yox]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Yoron_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2424943",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "663799",
+        "grammar_sketch",
+        2016,
+        142,
+        "Kibe, Nobuko 2016"
+      ],
+      [
+        "35072",
+        "phonology_or_text",
+        2005,
+        0,
+        "Kiku, Chiyo and Takahashi, Toshizō 2005"
+      ],
+      [
+        "320181",
+        "phonology_or_text",
+        1977,
+        13,
+        "Machi Hiromitsu 1977"
+      ]
+    ]
+  },
+  "id": "yoro1243",
+  "name": "Yoron",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.0407,
+  "longitude": 128.428,
+  "classification": [
+    {
+      "name": "Japonic",
+      "id": "japo1237",
+      "url": "https://glottolog.org/resource/languoid/id/japo1237"
+    },
+    {
+      "name": "Ryukyuan",
+      "id": "ryuk1243",
+      "url": "https://glottolog.org/resource/languoid/id/ryuk1243"
+    },
+    {
+      "name": "Northern Ryukyuan",
+      "id": "nort3255",
+      "url": "https://glottolog.org/resource/languoid/id/nort3255"
+    },
+    {
+      "name": "Amami",
+      "id": "amam1245",
+      "url": "https://glottolog.org/resource/languoid/id/amam1245"
+    }
+  ],
+  "iso639-3": "yox"
+}

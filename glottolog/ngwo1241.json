@@ -1,0 +1,107 @@
+{
+  "pk": 18262,
+  "hid": "ngn",
+  "father_pk": 15813,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bako [bako1252]':1,'Banya [bany1245]':1,'Basa {Ngwo} [basa1285]':1,'Ikweri [ikwe1241]':1,'Konda {Ngwo} [kond1300]':1,'Nuclear Ngwo [nucl1414]':1,'Okorobi [okor1250]':1,'Zang [zang1251]':1)'Ngwo [ngwo1241][ngn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 8,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q36051",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ngwo_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "320456",
+        "grammar_sketch",
+        2005,
+        0,
+        "Njwe, Eyovi Ntongieh 2005"
+      ],
+      [
+        "585635",
+        "phonology_or_text",
+        1999,
+        74,
+        "Abianji, Emmanuel Mbe 1999"
+      ],
+      [
+        "585634",
+        "phonology_or_text",
+        1996,
+        0,
+        "Abianji, Emmanuel Mbe 1996"
+      ],
+      [
+        "320028",
+        "phonology_or_text",
+        1964,
+        0,
+        "Atogho, David T. 1964"
+      ]
+    ]
+  },
+  "id": "ngwo1241",
+  "name": "Ngwo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.17739,
+  "longitude": 9.84369,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Wide Grassfields",
+      "id": "wide1239",
+      "url": "https://glottolog.org/resource/languoid/id/wide1239"
+    },
+    {
+      "name": "Narrow Grassfields",
+      "id": "narr1282",
+      "url": "https://glottolog.org/resource/languoid/id/narr1282"
+    },
+    {
+      "name": "Momo",
+      "id": "momo1242",
+      "url": "https://glottolog.org/resource/languoid/id/momo1242"
+    }
+  ],
+  "iso639-3": "ngn"
+}

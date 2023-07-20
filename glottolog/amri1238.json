@@ -1,0 +1,61 @@
+{
+  "pk": 5025,
+  "hid": "ajz",
+  "father_pk": 3197,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Amri Karbi [amri1238][ajz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3508092",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Amri_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "101833",
+        "grammar",
+        1978,
+        236,
+        "Karl-Heinz Grüßner 1978"
+      ]
+    ]
+  },
+  "id": "amri1238",
+  "name": "Amri Karbi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 26.024,
+  "longitude": 91.482,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Karbic",
+      "id": "karb1240",
+      "url": "https://glottolog.org/resource/languoid/id/karb1240"
+    }
+  ],
+  "iso639-3": "ajz"
+}

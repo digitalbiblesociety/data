@@ -1,0 +1,87 @@
+{
+  "pk": 13179,
+  "hid": "ysd",
+  "father_pk": 10119,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Samatao [sama1295][ysd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/7253",
+        "label": "Samatao"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7408902",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Samu_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "669327",
+        "wordlist_or_less",
+        2017,
+        37,
+        "Zhang, Tingxian 2017"
+      ],
+      [
+        "111224",
+        "wordlist_or_less",
+        1984,
+        24,
+        "Yunnan Institute of Nationalities 1984"
+      ]
+    ]
+  },
+  "id": "sama1295",
+  "name": "Samatao",
+  "description": null,
+  "markup_description": null,
+  "latitude": 25.012,
+  "longitude": 102.2,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Burmo-Qiangic",
+      "id": "burm1265",
+      "url": "https://glottolog.org/resource/languoid/id/burm1265"
+    },
+    {
+      "name": "Lolo-Burmese",
+      "id": "lolo1265",
+      "url": "https://glottolog.org/resource/languoid/id/lolo1265"
+    },
+    {
+      "name": "Loloish",
+      "id": "lolo1267",
+      "url": "https://glottolog.org/resource/languoid/id/lolo1267"
+    },
+    {
+      "name": "Ni-Li-Kazhouish",
+      "id": "nili1235",
+      "url": "https://glottolog.org/resource/languoid/id/nili1235"
+    },
+    {
+      "name": "Kazhouish",
+      "id": "kazh1234",
+      "url": "https://glottolog.org/resource/languoid/id/kazh1234"
+    }
+  ],
+  "iso639-3": "ysd"
+}

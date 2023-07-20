@@ -1,0 +1,86 @@
+{
+  "pk": 8338,
+  "hid": "orw",
+  "father_pk": 5841,
+  "family_pk": 122,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Oro Win [orow1243][orw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1741",
+        "label": "Orowari"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3450423",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Oro_Win_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/orow1243",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "59051",
+        "grammar_sketch",
+        1999,
+        62,
+        "Popky, Donna 1999"
+      ],
+      [
+        "9691",
+        "wordlist_or_less",
+        1989,
+        0,
+        "Conklin, Beth Ann 1989"
+      ]
+    ]
+  },
+  "id": "orow1243",
+  "name": "Oro Win",
+  "description": null,
+  "markup_description": null,
+  "latitude": -10.737,
+  "longitude": -64.0299,
+  "classification": [
+    {
+      "name": "Chapacuran",
+      "id": "chap1271",
+      "url": "https://glottolog.org/resource/languoid/id/chap1271"
+    },
+    {
+      "name": "Moreic-Waric",
+      "id": "more1263",
+      "url": "https://glottolog.org/resource/languoid/id/more1263"
+    },
+    {
+      "name": "Waric",
+      "id": "wari1269",
+      "url": "https://glottolog.org/resource/languoid/id/wari1269"
+    },
+    {
+      "name": "Wanham-Wari-Oro Win",
+      "id": "wanh1234",
+      "url": "https://glottolog.org/resource/languoid/id/wanh1234"
+    },
+    {
+      "name": "Wari-Oro Win",
+      "id": "wari1267",
+      "url": "https://glottolog.org/resource/languoid/id/wari1267"
+    }
+  ],
+  "iso639-3": "orw"
+}

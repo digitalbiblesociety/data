@@ -1,0 +1,103 @@
+{
+  "pk": 2869,
+  "hid": "cav",
+  "father_pk": 1363,
+  "family_pk": 273,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Cavineña [cavi1250][cav]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2175",
+        "label": "Cavineña"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_cav",
+        "label": "Cavineña"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cavine%C3%B1a_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/cavi1250",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q524102",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "25658",
+        "long_grammar",
+        2008,
+        924,
+        "Antoine Guillaume 2008"
+      ],
+      [
+        "121730",
+        "long_grammar",
+        2004,
+        866,
+        "Antoine Guillaume 2004"
+      ],
+      [
+        "23383",
+        "grammar",
+        1989,
+        0,
+        "Camp, Elizabeth L. and Camp, Elizabeth L. 1989"
+      ],
+      [
+        "140879",
+        "grammar_sketch",
+        1906,
+        60,
+        "Lafone Quevedo, Samuel A. 1906"
+      ],
+      [
+        "123263",
+        "wordlist_or_less",
+        1887,
+        16,
+        "Armentia, Nicolás 1887"
+      ],
+      [
+        "104642",
+        "wordlist_or_less",
+        1794,
+        16,
+        "Palau, Mercedes and Blanca Saiz 1989 [1794]"
+      ]
+    ]
+  },
+  "id": "cavi1250",
+  "name": "Cavineña",
+  "description": null,
+  "markup_description": null,
+  "latitude": -13.3544,
+  "longitude": -66.6277,
+  "classification": [
+    {
+      "name": "Pano-Tacanan",
+      "id": "pano1259",
+      "url": "https://glottolog.org/resource/languoid/id/pano1259"
+    },
+    {
+      "name": "Tacanan",
+      "id": "taca1255",
+      "url": "https://glottolog.org/resource/languoid/id/taca1255"
+    }
+  ],
+  "iso639-3": "cav"
+}

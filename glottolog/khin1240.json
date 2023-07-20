@@ -1,0 +1,71 @@
+{
+  "pk": 3511,
+  "hid": "kjj",
+  "father_pk": 1873,
+  "family_pk": 426,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Khinalug [khin1240][kjj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2436",
+        "label": "Khinalugh"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35278",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Khinalug_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_khi",
+        "label": "Khinalug"
+      }
+    ],
+    "meds": [
+      [
+        "111520",
+        "long_grammar",
+        1972,
+        386,
+        "Aleksandr E. Kibrik and S. V. Kodzasov and I. P. Olovyannikova 1972"
+      ],
+      [
+        "129106",
+        "grammar",
+        1959,
+        222,
+        "Dešeriev, Yunus D. 1959"
+      ]
+    ]
+  },
+  "id": "khin1240",
+  "name": "Khinalug",
+  "description": null,
+  "markup_description": null,
+  "latitude": 41.1801,
+  "longitude": 48.0571,
+  "classification": [
+    {
+      "name": "Nakh-Daghestanian",
+      "id": "nakh1245",
+      "url": "https://glottolog.org/resource/languoid/id/nakh1245"
+    },
+    {
+      "name": "Daghestanian",
+      "id": "dagh1238",
+      "url": "https://glottolog.org/resource/languoid/id/dagh1238"
+    }
+  ],
+  "iso639-3": "kjj"
+}

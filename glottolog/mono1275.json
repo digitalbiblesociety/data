@@ -1,0 +1,88 @@
+{
+  "pk": 6123,
+  "hid": "mnr",
+  "father_pk": 4110,
+  "family_pk": 155,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mono {USA} [mono1275][mnr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4692",
+        "label": "Mono (United States)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33591",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mono_language_(California)",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mno",
+        "label": "Mono (in United States)"
+      }
+    ],
+    "meds": [
+      [
+        "150618",
+        "long_grammar",
+        1958,
+        389,
+        "Lamb, Sydney MacDonald 1958"
+      ],
+      [
+        "571746",
+        "wordlist_or_less",
+        1922,
+        18,
+        "Gifford, E. W. 1922"
+      ],
+      [
+        "574388",
+        "wordlist_or_less",
+        1909,
+        46,
+        "Lowie, R. H. 1909"
+      ]
+    ]
+  },
+  "id": "mono1275",
+  "name": "Mono (USA)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 37.1935,
+  "longitude": -119.347,
+  "classification": [
+    {
+      "name": "Uto-Aztecan",
+      "id": "utoa1244",
+      "url": "https://glottolog.org/resource/languoid/id/utoa1244"
+    },
+    {
+      "name": "Northern Uto-Aztecan",
+      "id": "nort2953",
+      "url": "https://glottolog.org/resource/languoid/id/nort2953"
+    },
+    {
+      "name": "Numic",
+      "id": "numi1242",
+      "url": "https://glottolog.org/resource/languoid/id/numi1242"
+    },
+    {
+      "name": "Western Numic",
+      "id": "west2621",
+      "url": "https://glottolog.org/resource/languoid/id/west2621"
+    }
+  ],
+  "iso639-3": "mnr"
+}

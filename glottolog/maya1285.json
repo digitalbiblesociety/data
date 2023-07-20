@@ -1,0 +1,86 @@
+{
+  "pk": 4931,
+  "hid": "yan",
+  "father_pk": 3155,
+  "family_pk": 323,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Panamahka [pana1304]':1,'Twahka-Bawihka [nica1250]':1)'Mayangna [maya1285][yan]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_sum",
+        "label": "Mayangna"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/6199",
+        "label": "Sumo"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3302929",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "69987",
+        "grammar",
+        1997,
+        200,
+        "Norwood, Susan 1997"
+      ],
+      [
+        "134699",
+        "grammar",
+        1962,
+        12,
+        "Kiene, Guillermo 1962"
+      ],
+      [
+        "99162",
+        "grammar_sketch",
+        1929,
+        20,
+        "Eduard Conzemius 1929"
+      ],
+      [
+        "155498",
+        "grammar_sketch",
+        1894,
+        6,
+        "Wickham, Henry Alexander 1894"
+      ]
+    ]
+  },
+  "id": "maya1285",
+  "name": "Mayangna",
+  "description": null,
+  "markup_description": null,
+  "latitude": 14.1259,
+  "longitude": -84.3439,
+  "classification": [
+    {
+      "name": "Misumalpan",
+      "id": "misu1242",
+      "url": "https://glottolog.org/resource/languoid/id/misu1242"
+    },
+    {
+      "name": "Sumalpan",
+      "id": "suma1272",
+      "url": "https://glottolog.org/resource/languoid/id/suma1272"
+    },
+    {
+      "name": "Sumuic",
+      "id": "sumu1234",
+      "url": "https://glottolog.org/resource/languoid/id/sumu1234"
+    }
+  ],
+  "iso639-3": "yan"
+}

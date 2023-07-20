@@ -1,0 +1,103 @@
+{
+  "pk": 10111,
+  "hid": "lkc",
+  "father_pk": 7271,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kucong [kuco1235][lkc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4510",
+        "label": "Kucong"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6441572",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kucong_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "322039",
+        "long_grammar",
+        2011,
+        367,
+        "Junzhi Chang and Qingxia Dai 2011"
+      ],
+      [
+        "569828",
+        "grammar_sketch",
+        2009,
+        22,
+        "Qingxia Dai and Junzhi Chang 2009"
+      ],
+      [
+        "574145",
+        "phonology_or_text",
+        2003,
+        13,
+        "Lǐ, Jié and Zhāng, Wěi 2003"
+      ],
+      [
+        "56991",
+        "wordlist_or_less",
+        2002,
+        1,
+        "David Bradley 2002"
+      ],
+      [
+        "549318",
+        "wordlist_or_less",
+        2000,
+        16,
+        "Hattaway, Paul 2000"
+      ]
+    ]
+  },
+  "id": "kuco1235",
+  "name": "Kucong",
+  "description": null,
+  "markup_description": null,
+  "latitude": 22.26,
+  "longitude": 101.25,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Burmo-Qiangic",
+      "id": "burm1265",
+      "url": "https://glottolog.org/resource/languoid/id/burm1265"
+    },
+    {
+      "name": "Lolo-Burmese",
+      "id": "lolo1265",
+      "url": "https://glottolog.org/resource/languoid/id/lolo1265"
+    },
+    {
+      "name": "Loloish",
+      "id": "lolo1267",
+      "url": "https://glottolog.org/resource/languoid/id/lolo1267"
+    },
+    {
+      "name": "Lahoid",
+      "id": "laho1234",
+      "url": "https://glottolog.org/resource/languoid/id/laho1234"
+    }
+  ],
+  "iso639-3": "lkc"
+}

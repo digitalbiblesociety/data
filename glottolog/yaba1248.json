@@ -1,0 +1,91 @@
+{
+  "pk": 5564,
+  "hid": "yar",
+  "father_pk": 3662,
+  "family_pk": 56,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Curasicana [cura1242]':1,'Wokiare [woki1237]':1)'Yabarana [yaba1248][yar]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1649",
+        "label": "Yawarana"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3571238",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/yaba1248",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "160343",
+        "wordlist_or_less",
+        1959,
+        22,
+        "Méndez Arocha, A. 1959"
+      ],
+      [
+        "42329",
+        "wordlist_or_less",
+        1928,
+        13,
+        "Theodor Koch-Grünberg 1928"
+      ],
+      [
+        "96374",
+        "wordlist_or_less",
+        1923,
+        0,
+        "Koch-Grünberg, Theodor 1923-24"
+      ],
+      [
+        "99954",
+        "wordlist_or_less",
+        1907,
+        0,
+        "Tavera-Acosta 1907"
+      ]
+    ]
+  },
+  "id": "yaba1248",
+  "name": "Yabarana",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.32692,
+  "longitude": -66.276,
+  "classification": [
+    {
+      "name": "Cariban",
+      "id": "cari1283",
+      "url": "https://glottolog.org/resource/languoid/id/cari1283"
+    },
+    {
+      "name": "Venezuelan Cariban",
+      "id": "vene1261",
+      "url": "https://glottolog.org/resource/languoid/id/vene1261"
+    },
+    {
+      "name": "Mapoyo-Tamanaku",
+      "id": "mapo1244",
+      "url": "https://glottolog.org/resource/languoid/id/mapo1244"
+    },
+    {
+      "name": "Mapoyo-Yawarana",
+      "id": "mapo1245",
+      "url": "https://glottolog.org/resource/languoid/id/mapo1245"
+    }
+  ],
+  "iso639-3": "yar"
+}

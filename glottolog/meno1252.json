@@ -1,0 +1,90 @@
+{
+  "pk": 4237,
+  "hid": "mez",
+  "father_pk": 2432,
+  "family_pk": 178,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Menominee [meno1252][mez]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1926",
+        "label": "Menominee"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_men",
+        "label": "Menomini"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Menominee_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q13363",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "574489",
+        "long_grammar",
+        1981,
+        644,
+        "Irene Mack and Wallace Pyawasit and Margaret Richmond and Merceline Sanapaw and Ken Miner 1981"
+      ],
+      [
+        "153404",
+        "long_grammar",
+        1962,
+        526,
+        "Leonard Bloomfield 1962"
+      ],
+      [
+        "555274",
+        "long_grammar",
+        1955,
+        456,
+        "Gachet, Antoine-Marie 1955"
+      ],
+      [
+        "27878",
+        "wordlist_or_less",
+        1836,
+        4,
+        "Albert Gallatin 1836"
+      ]
+    ]
+  },
+  "id": "meno1252",
+  "name": "Menominee",
+  "description": null,
+  "markup_description": null,
+  "latitude": 44.9794,
+  "longitude": -88.6395,
+  "classification": [
+    {
+      "name": "Algic",
+      "id": "algi1248",
+      "url": "https://glottolog.org/resource/languoid/id/algi1248"
+    },
+    {
+      "name": "Algonquian-Blackfoot",
+      "id": "algo1256",
+      "url": "https://glottolog.org/resource/languoid/id/algo1256"
+    },
+    {
+      "name": "Algonquian",
+      "id": "algo1257",
+      "url": "https://glottolog.org/resource/languoid/id/algo1257"
+    }
+  ],
+  "iso639-3": "mez"
+}

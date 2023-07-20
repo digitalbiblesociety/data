@@ -1,0 +1,78 @@
+{
+  "pk": 8304,
+  "hid": "vem",
+  "father_pk": 5808,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Vemgo [vemg1241]':1,'Visik [visi1243]':1)'Vemgo-Mabas [vemg1240][vem]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56268",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Vemgo-Mabas_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "323881",
+        "wordlist_or_less",
+        2004,
+        8,
+        "Hamm, Cameron D. 2004"
+      ],
+      [
+        "104832",
+        "wordlist_or_less",
+        1931,
+        5,
+        "Meek, Charles K. 1931"
+      ]
+    ]
+  },
+  "id": "vemg1240",
+  "name": "Vemgo-Mabas",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.8301,
+  "longitude": 13.6633,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "Biu-Mandara",
+      "id": "bium1280",
+      "url": "https://glottolog.org/resource/languoid/id/bium1280"
+    },
+    {
+      "name": "North Biu-Mandara",
+      "id": "nort3156",
+      "url": "https://glottolog.org/resource/languoid/id/nort3156"
+    },
+    {
+      "name": "Lamang-Hdi",
+      "id": "lama1287",
+      "url": "https://glottolog.org/resource/languoid/id/lama1287"
+    }
+  ],
+  "iso639-3": "vem"
+}

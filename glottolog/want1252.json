@@ -1,0 +1,90 @@
+{
+  "pk": 9124,
+  "hid": "wnc",
+  "father_pk": 6614,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bam [bamm1240]':1,'Central Wantoat [cent2111]':1,'Wapu [wapu1240]':1,'Yagawak [yaga1259]':1)'Wantoat [want1252][wnc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3332",
+        "label": "Wantoat"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_wnt",
+        "label": "Wantoat"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Wantoat_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/want1252",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7968184",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "116213",
+        "grammar_sketch",
+        1964,
+        78,
+        "Donald R. Davis 1964"
+      ],
+      [
+        "301481",
+        "phonology_or_text",
+        1958,
+        0,
+        "Davis, Donald R., compiler 2008 [1958-1974]"
+      ]
+    ]
+  },
+  "id": "want1252",
+  "name": "Wantoat",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.15216,
+  "longitude": 146.513,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Finisterre-Huon",
+      "id": "fini1244",
+      "url": "https://glottolog.org/resource/languoid/id/fini1244"
+    },
+    {
+      "name": "Finisterre-Saruwaged",
+      "id": "fini1245",
+      "url": "https://glottolog.org/resource/languoid/id/fini1245"
+    },
+    {
+      "name": "Wantoatic",
+      "id": "want1251",
+      "url": "https://glottolog.org/resource/languoid/id/want1251"
+    },
+    {
+      "name": "Wantoat-Awara",
+      "id": "want1253",
+      "url": "https://glottolog.org/resource/languoid/id/want1253"
+    }
+  ],
+  "iso639-3": "wnc"
+}

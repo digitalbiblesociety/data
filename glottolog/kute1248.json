@@ -1,0 +1,102 @@
+{
+  "pk": 7199,
+  "hid": "kub",
+  "father_pk": 4904,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Fikyu [fiky1238]':1,'Jenuwa [jenu1240]':1,'Kentin [kent1257]':1,'Kunabe [kuna1266]':1,'Lissam [liss1238]':1)'Kutep [kute1248][kub]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10441",
+        "label": "Kuteb"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kuteb_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kute1248",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35645",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "74449",
+        "long_grammar",
+        1990,
+        344,
+        "Koops, Robert 1990"
+      ],
+      [
+        "130394",
+        "wordlist_or_less",
+        1980,
+        7,
+        "Shimizu, Kiyoshi 1980"
+      ],
+      [
+        "161489",
+        "wordlist_or_less",
+        1919,
+        2,
+        "Johnston, Harry H. 1919, 1922"
+      ],
+      [
+        "54846",
+        "wordlist_or_less",
+        1862,
+        1,
+        "Latham, Robert Gordon 1862"
+      ],
+      [
+        "66179",
+        "wordlist_or_less",
+        1854,
+        1,
+        "Koelle, Sigismund W. 1854"
+      ]
+    ]
+  },
+  "id": "kute1248",
+  "name": "Kutep",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.07479,
+  "longitude": 10.0916,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Jukunoid",
+      "id": "juku1257",
+      "url": "https://glottolog.org/resource/languoid/id/juku1257"
+    }
+  ],
+  "iso639-3": "kub"
+}

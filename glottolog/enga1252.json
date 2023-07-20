@@ -1,0 +1,100 @@
+{
+  "pk": 4575,
+  "hid": "enq",
+  "father_pk": 2934,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kaina [kain1269]':1,'Kandepe [kand1304]':1,'Kapona [kapo1249]':1,'Laiagam [laia1242]':1,'Lapalama 1 [lapa1247]':1,'Lapalama 2 [lapa1248]':1,'Layapo [laya1255]':1,'Mae [maee1242]':1,'Maramuni [mara1406]':1,'Sari [sari1248]':1,'Sau [sauu1244]':1,'Tayato [taya1255]':1,'Yandapo [yand1259]':1)'Enga [enga1252][enq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 13,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ena",
+        "label": "Enga"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Enga_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q1143040",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "45324",
+        "grammar_sketch",
+        1975,
+        123,
+        "Lang, Adrianne 1975"
+      ],
+      [
+        "572594",
+        "grammar_sketch",
+        1963,
+        54,
+        "Hintze, Otto Charles 1963"
+      ],
+      [
+        "572595",
+        "grammar_sketch",
+        1962,
+        42,
+        "Hintze, Otto Charles 1962"
+      ],
+      [
+        "571887",
+        "grammar_sketch",
+        1953,
+        16,
+        "Goodenough, W. H. 1953"
+      ],
+      [
+        "24954",
+        "wordlist_or_less",
+        1951,
+        31,
+        "John Crotty 1951"
+      ],
+      [
+        "15483",
+        "wordlist_or_less",
+        1948,
+        1,
+        "Arthur Capell 1948-1949"
+      ]
+    ]
+  },
+  "id": "enga1252",
+  "name": "Enga",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.45619,
+  "longitude": 143.685,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Enga-Kewa-Huli",
+      "id": "enga1254",
+      "url": "https://glottolog.org/resource/languoid/id/enga1254"
+    },
+    {
+      "name": "Engan",
+      "id": "enga1251",
+      "url": "https://glottolog.org/resource/languoid/id/enga1251"
+    }
+  ],
+  "iso639-3": "enq"
+}

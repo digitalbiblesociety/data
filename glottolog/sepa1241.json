@@ -1,0 +1,105 @@
+{
+  "pk": 23026,
+  "hid": "spe",
+  "father_pk": 21432,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Sepa {Papua New Guinea} [sepa1241][spe]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2651",
+        "label": "Sepa (Papua New Guinea)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7451725",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sepa_language_(Papua_New_Guinea)",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "151181",
+        "phonology_or_text",
+        1932,
+        14,
+        "Josef Schebesta 1932"
+      ]
+    ]
+  },
+  "id": "sepa1241",
+  "name": "Sepa (Papua New Guinea)",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.27,
+  "longitude": 144.965,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Western Oceanic linkage",
+      "id": "west2818",
+      "url": "https://glottolog.org/resource/languoid/id/west2818"
+    },
+    {
+      "name": "North New Guinea linkage",
+      "id": "nort3206",
+      "url": "https://glottolog.org/resource/languoid/id/nort3206"
+    },
+    {
+      "name": "Schouten linkage",
+      "id": "scho1242",
+      "url": "https://glottolog.org/resource/languoid/id/scho1242"
+    },
+    {
+      "name": "Kairiru-Manam",
+      "id": "kair1261",
+      "url": "https://glottolog.org/resource/languoid/id/kair1261"
+    },
+    {
+      "name": "Manamic linkage",
+      "id": "mana1294",
+      "url": "https://glottolog.org/resource/languoid/id/mana1294"
+    },
+    {
+      "name": "Bam-Manam",
+      "id": "bamm1241",
+      "url": "https://glottolog.org/resource/languoid/id/bamm1241"
+    },
+    {
+      "name": "Manam-Sepa",
+      "id": "mana1301",
+      "url": "https://glottolog.org/resource/languoid/id/mana1301"
+    }
+  ],
+  "iso639-3": "spe"
+}

@@ -1,0 +1,105 @@
+{
+  "pk": 10909,
+  "hid": "slk",
+  "father_pk": 8003,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Slovak [slov1269][slk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_svk",
+        "label": "Slovak"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Slovak_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/slov1269",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q9058",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "462119",
+        "long_grammar",
+        2009,
+        357,
+        "Etienne Boisserie and Diana Jamborová and Vlasta Křečková 2009"
+      ],
+      [
+        "318412",
+        "grammar",
+        1997,
+        294,
+        "James Naughton 1997"
+      ],
+      [
+        "596376",
+        "grammar",
+        1972,
+        267,
+        "Bartoš, Jozef and Gagnaire, Joseph 1972"
+      ],
+      [
+        "28898",
+        "wordlist_or_less",
+        1950,
+        0,
+        "Letz, B. 1950"
+      ]
+    ]
+  },
+  "id": "slov1269",
+  "name": "Slovak",
+  "description": null,
+  "markup_description": null,
+  "latitude": 48.545705,
+  "longitude": 18.78479,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Balto-Slavic",
+      "id": "balt1263",
+      "url": "https://glottolog.org/resource/languoid/id/balt1263"
+    },
+    {
+      "name": "Slavic",
+      "id": "slav1255",
+      "url": "https://glottolog.org/resource/languoid/id/slav1255"
+    },
+    {
+      "name": "West Slavic",
+      "id": "west2792",
+      "url": "https://glottolog.org/resource/languoid/id/west2792"
+    },
+    {
+      "name": "Czech-Slovak",
+      "id": "czec1260",
+      "url": "https://glottolog.org/resource/languoid/id/czec1260"
+    }
+  ],
+  "iso639-3": "slk"
+}

@@ -1,0 +1,74 @@
+{
+  "pk": 13556,
+  "hid": null,
+  "father_pk": 10485,
+  "family_pk": 404,
+  "level": "family",
+  "bookkeeping": false,
+  "category": "Family",
+  "newick": "(('Nirmal [nirm1237]':1,'Rajura [raju1237]':1)'Adilabad Gondi [utno1237][wsg]-l-':1,(('Bhamragarh [bham1239]':1,'Etapally Gondi [etap1239]':1,'Sironcha [siro1248]':1)'Aheri Gondi [aher1237][esg]-l-':1,'Far Western Muria [farw1235][fmu]-l-':1)'Eastern Gondi [east2880]':1)'Southern Gondi [sout2711]':1",
+  "child_family_count": 1,
+  "child_language_count": 3,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "ggo",
+      "name": "Southern Gondi",
+      "change_request": "2015-062",
+      "effective": "2016-01-15",
+      "reason": "split",
+      "change_to": [
+        "esg",
+        "wsg"
+      ],
+      "remedy": "split into [esg] Aheri Gondi and [wsg] Adilabad Gondi",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12952462",
+        "label": null
+      }
+    ]
+  },
+  "id": "sout2711",
+  "name": "Southern Gondi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 20.10446,
+  "longitude": 80.27811,
+  "classification": [
+    {
+      "name": "Dravidian",
+      "id": "drav1251",
+      "url": "https://glottolog.org/resource/languoid/id/drav1251"
+    },
+    {
+      "name": "South Dravidian",
+      "id": "sout3133",
+      "url": "https://glottolog.org/resource/languoid/id/sout3133"
+    },
+    {
+      "name": "South Dravidian II",
+      "id": "sout3139",
+      "url": "https://glottolog.org/resource/languoid/id/sout3139"
+    },
+    {
+      "name": "Gondi",
+      "id": "gond1265",
+      "url": "https://glottolog.org/resource/languoid/id/gond1265"
+    },
+    {
+      "name": "Northwest Gondi",
+      "id": "nort3258",
+      "url": "https://glottolog.org/resource/languoid/id/nort3258"
+    },
+    {
+      "name": "Southwest Gondi",
+      "id": "sout3367",
+      "url": "https://glottolog.org/resource/languoid/id/sout3367"
+    }
+  ]
+}

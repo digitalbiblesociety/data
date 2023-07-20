@@ -1,0 +1,85 @@
+{
+  "pk": 8513,
+  "hid": "dze",
+  "father_pk": 6046,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Djiwarli [djiw1241][dze]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4088",
+        "label": "Jiwarli"
+      },
+      {
+        "url": "https://phoible.org/languages/djiw1241",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "668316",
+        "grammar",
+        1996,
+        0,
+        "Thieberger, Nicholas 1996"
+      ],
+      [
+        "4655",
+        "phonology_or_text",
+        1992,
+        133,
+        "Austin, Peter K. 1992"
+      ],
+      [
+        "755",
+        "wordlist_or_less",
+        1981,
+        3,
+        "Austin, Peter K. 1981"
+      ]
+    ]
+  },
+  "id": "djiw1241",
+  "name": "Djiwarli",
+  "description": null,
+  "markup_description": null,
+  "latitude": -24.10724,
+  "longitude": 116.98858,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "South-West Pama-Nyungan",
+      "id": "sout3134",
+      "url": "https://glottolog.org/resource/languoid/id/sout3134"
+    },
+    {
+      "name": "Pilbara",
+      "id": "pilb1234",
+      "url": "https://glottolog.org/resource/languoid/id/pilb1234"
+    },
+    {
+      "name": "Mantharta",
+      "id": "mant1266",
+      "url": "https://glottolog.org/resource/languoid/id/mant1266"
+    },
+    {
+      "name": "Djiwarli-Thiin",
+      "id": "djiw1240",
+      "url": "https://glottolog.org/resource/languoid/id/djiw1240"
+    }
+  ],
+  "iso639-3": "dze"
+}

@@ -1,0 +1,99 @@
+{
+  "pk": 14722,
+  "hid": "mil",
+  "father_pk": 11769,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('San Mateo Tepantepec [sanm1297]':1,'Santa María Peñoles [sant1445]':1,'Santiago Tlazoyaltepec [sant1446]':1)'Peñoles Mixtec [peno1244][mil]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10529",
+        "label": "Eastern Alta Mixtec"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mxp",
+        "label": "Mixtec (Peñoles)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q42411307",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "25731",
+        "grammar_sketch",
+        1977,
+        153,
+        "Daly, John P. and Daly, Margaret H. 1977"
+      ],
+      [
+        "87824",
+        "grammar_sketch",
+        1973,
+        101,
+        "Daly, John P. 1973"
+      ],
+      [
+        "94322",
+        "wordlist_or_less",
+        1966,
+        158,
+        "Daly, John P. 1966"
+      ]
+    ]
+  },
+  "id": "peno1244",
+  "name": "Peñoles Mixtec",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.0671,
+  "longitude": -97.0101,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Amuzgo-Mixtecan",
+      "id": "amuz1253",
+      "url": "https://glottolog.org/resource/languoid/id/amuz1253"
+    },
+    {
+      "name": "Mixtecan",
+      "id": "mixt1422",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1422"
+    },
+    {
+      "name": "Mixtec-Cuicatec",
+      "id": "mixt1423",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1423"
+    },
+    {
+      "name": "Mixtec",
+      "id": "mixt1427",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1427"
+    },
+    {
+      "name": "Eastern Alta Mixtec",
+      "id": "east2735",
+      "url": "https://glottolog.org/resource/languoid/id/east2735"
+    }
+  ],
+  "iso639-3": "mil"
+}

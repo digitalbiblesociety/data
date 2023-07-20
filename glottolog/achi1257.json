@@ -1,0 +1,100 @@
+{
+  "pk": 9319,
+  "hid": "ace",
+  "father_pk": 6783,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Banda Aceh [band1356]':1,'Baruh [baru1270]':1,'Bueng [buen1246]':1,'Daja {Indonesia} [daja1241]':1,'Pase [pase1241]':1,'Pidie [pidi1241]':1,'Tunong [tuno1237]':1)'Acehnese [achi1257][ace]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ace",
+        "label": "Acehnese"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Acehnese_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/achi1257",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q27683",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "110585",
+        "long_grammar",
+        1987,
+        477,
+        "Asyik, Abdul Gani 1987"
+      ],
+      [
+        "79104",
+        "grammar",
+        1985,
+        292,
+        "Mark Durie 1985"
+      ],
+      [
+        "91314",
+        "grammar",
+        1889,
+        178,
+        "K. F. H. van Langen 1889"
+      ],
+      [
+        "16787",
+        "wordlist_or_less",
+        1879,
+        14,
+        "J. Dias 1879"
+      ]
+    ]
+  },
+  "id": "achi1257",
+  "name": "Acehnese",
+  "description": null,
+  "markup_description": null,
+  "latitude": 3.90757,
+  "longitude": 96.6032,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Malayo-Sumbawan",
+      "id": "mala1536",
+      "url": "https://glottolog.org/resource/languoid/id/mala1536"
+    },
+    {
+      "name": "North and East Malayo-Sumbawan",
+      "id": "nort3170",
+      "url": "https://glottolog.org/resource/languoid/id/nort3170"
+    },
+    {
+      "name": "Aceh-Chamic",
+      "id": "cham1327",
+      "url": "https://glottolog.org/resource/languoid/id/cham1327"
+    }
+  ],
+  "iso639-3": "ace"
+}

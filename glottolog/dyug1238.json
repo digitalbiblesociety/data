@@ -1,0 +1,69 @@
+{
+  "pk": 5109,
+  "hid": "dyd",
+  "father_pk": 3300,
+  "family_pk": 354,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Dyugun [dyug1238][dyd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/k2",
+        "label": "Jugun"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Djugun_dialect",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/dyug1238",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3913785",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "553745",
+        "wordlist_or_less",
+        1986,
+        14,
+        "Komei Hosokawa 1986"
+      ]
+    ]
+  },
+  "id": "dyug1238",
+  "name": "Dyugun",
+  "description": null,
+  "markup_description": null,
+  "latitude": -17.906,
+  "longitude": 122.408,
+  "classification": [
+    {
+      "name": "Nyulnyulan",
+      "id": "nyul1248",
+      "url": "https://glottolog.org/resource/languoid/id/nyul1248"
+    },
+    {
+      "name": "Eastern Nyulnyulan",
+      "id": "east2381",
+      "url": "https://glottolog.org/resource/languoid/id/east2381"
+    },
+    {
+      "name": "Yawuric",
+      "id": "yawu1243",
+      "url": "https://glottolog.org/resource/languoid/id/yawu1243"
+    }
+  ],
+  "iso639-3": "dyd"
+}

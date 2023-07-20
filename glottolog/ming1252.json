@@ -1,0 +1,80 @@
+{
+  "pk": 5187,
+  "hid": "xmf",
+  "father_pk": 3359,
+  "family_pk": 378,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Samurzakano-Zugdidi [samu1244]':1,'Senaki [sena1272]':1)'Mingrelian [ming1252][xmf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10906",
+        "label": "Mingrelian"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mgl",
+        "label": "Mingrelian"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mingrelian_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/ming1252",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q13359",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "87744",
+        "grammar",
+        1914,
+        201,
+        "Kipšidze, Ioseb 1914"
+      ],
+      [
+        "14645",
+        "wordlist_or_less",
+        1823,
+        6,
+        "von Klaproth, Julius H. 1823"
+      ]
+    ]
+  },
+  "id": "ming1252",
+  "name": "Mingrelian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 42.5129,
+  "longitude": 41.8719,
+  "classification": [
+    {
+      "name": "Kartvelian",
+      "id": "kart1248",
+      "url": "https://glottolog.org/resource/languoid/id/kart1248"
+    },
+    {
+      "name": "Georgian-Zan",
+      "id": "geor1252",
+      "url": "https://glottolog.org/resource/languoid/id/geor1252"
+    },
+    {
+      "name": "Zan",
+      "id": "zann1245",
+      "url": "https://glottolog.org/resource/languoid/id/zann1245"
+    }
+  ],
+  "iso639-3": "xmf"
+}

@@ -1,0 +1,76 @@
+{
+  "pk": 13494,
+  "hid": "doc",
+  "father_pk": 10427,
+  "family_pk": 356,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Northern Dong [nort2735][doc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://phoible.org/languages/nort2735",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q17195499",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "312496",
+        "grammar_sketch",
+        1980,
+        59,
+        "Liang, Min 1980"
+      ]
+    ]
+  },
+  "id": "nort2735",
+  "name": "Northern Dong",
+  "description": null,
+  "markup_description": null,
+  "latitude": 26.9944,
+  "longitude": 109.204,
+  "classification": [
+    {
+      "name": "Tai-Kadai",
+      "id": "taik1256",
+      "url": "https://glottolog.org/resource/languoid/id/taik1256"
+    },
+    {
+      "name": "Kam-Tai",
+      "id": "kamt1241",
+      "url": "https://glottolog.org/resource/languoid/id/kamt1241"
+    },
+    {
+      "name": "Kam-Sui",
+      "id": "kams1241",
+      "url": "https://glottolog.org/resource/languoid/id/kams1241"
+    },
+    {
+      "name": "Mulam-Kam",
+      "id": "mula1252",
+      "url": "https://glottolog.org/resource/languoid/id/mula1252"
+    },
+    {
+      "name": "Kamic",
+      "id": "kami1255",
+      "url": "https://glottolog.org/resource/languoid/id/kami1255"
+    },
+    {
+      "name": "Northern Kam",
+      "id": "nort2734",
+      "url": "https://glottolog.org/resource/languoid/id/nort2734"
+    }
+  ],
+  "iso639-3": "doc"
+}

@@ -1,0 +1,86 @@
+{
+  "pk": 4440,
+  "hid": "kib",
+  "father_pk": 2738,
+  "family_pk": 254,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ngemere [ngem1256]':1,'Nginyukwur [ngin1245]':1,'Ngirere [ngir1247]':1,'Ngunduna [ngun1273]':1,'Nguqwurang [nguq1238]':1)'Koalib-Rere [koal1240][kib]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Koalib_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/koal1240",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35859",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "160138",
+        "grammar_sketch",
+        1956,
+        5,
+        "Stevenson, Roland C. 1956/1957"
+      ],
+      [
+        "160135",
+        "grammar_sketch",
+        1952,
+        0,
+        "Stevenson, Roland C. 1952"
+      ],
+      [
+        "158119",
+        "wordlist_or_less",
+        1927,
+        5,
+        "MacDiarmid, D. N. 1927"
+      ],
+      [
+        "26432",
+        "wordlist_or_less",
+        1916,
+        1,
+        "Meinhof, Carl 1916-1917"
+      ]
+    ]
+  },
+  "id": "koal1240",
+  "name": "Koalib-Rere",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.69648,
+  "longitude": 30.47166,
+  "classification": [
+    {
+      "name": "Heibanic",
+      "id": "heib1242",
+      "url": "https://glottolog.org/resource/languoid/id/heib1242"
+    },
+    {
+      "name": "West-Central Heibanic",
+      "id": "west2502",
+      "url": "https://glottolog.org/resource/languoid/id/west2502"
+    },
+    {
+      "name": "Central Heibanic",
+      "id": "cent2049",
+      "url": "https://glottolog.org/resource/languoid/id/cent2049"
+    }
+  ],
+  "iso639-3": "kib"
+}

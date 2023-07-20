@@ -1,0 +1,81 @@
+{
+  "pk": 18901,
+  "hid": null,
+  "father_pk": 16615,
+  "family_pk": 72,
+  "level": "family",
+  "bookkeeping": false,
+  "category": "Family",
+  "newick": "(('Colonia Tovar German [colo1254][gct]-l-':1,'Swabian [swab1242][swg]-l-':1)'North Alemannic [nort3310]':1,((('Bernese [bern1242]':1,'Fribourg German [frib1234]':1,'Graubenden-Grisons [grau1238]':1,'Liechtensteinisch [liec1234]':1,'Lower Wallis [wall1256]':1,'Luzern German [luce1238]':1,'Obwald [obwa1238]':1,'St. Gallen [stga1238]':1,'Vorarlbergisch [vora1238]':1,'Zürich German [zuri1239]':1)'High Alemannic [high1290]':1,('Alsatian [alsa1241]':1,'Basel German [base1241]':1,'Lake Constance Alemannic [lake1259]':1,'Schwarzwald Low Alemannic [schw1234]':1,'Upper-Rhine Alemannic [uppe1467]':1)'Low Alemannic [lowa1241]':1)'Central Alemannic [swis1247][gsw]-l-':1,'Walser [wals1238][wae]-l-':1)'South Alemannic [sout3294]':1)'Alemannic [alem1243]':1",
+  "child_family_count": 2,
+  "child_language_count": 4,
+  "child_dialect_count": 17,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q131339",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Alemannic_German",
+        "label": null
+      }
+    ]
+  },
+  "id": "alem1243",
+  "name": "Alemannic",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Germanic",
+      "id": "germ1287",
+      "url": "https://glottolog.org/resource/languoid/id/germ1287"
+    },
+    {
+      "name": "Northwest Germanic",
+      "id": "nort3152",
+      "url": "https://glottolog.org/resource/languoid/id/nort3152"
+    },
+    {
+      "name": "West Germanic",
+      "id": "west2793",
+      "url": "https://glottolog.org/resource/languoid/id/west2793"
+    },
+    {
+      "name": "High German",
+      "id": "high1289",
+      "url": "https://glottolog.org/resource/languoid/id/high1289"
+    },
+    {
+      "name": "Upper German",
+      "id": "high1286",
+      "url": "https://glottolog.org/resource/languoid/id/high1286"
+    },
+    {
+      "name": "Middle-Modern High German",
+      "id": "midd1349",
+      "url": "https://glottolog.org/resource/languoid/id/midd1349"
+    },
+    {
+      "name": "Modern High German",
+      "id": "mode1258",
+      "url": "https://glottolog.org/resource/languoid/id/mode1258"
+    }
+  ]
+}

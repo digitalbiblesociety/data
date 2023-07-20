@@ -1,0 +1,92 @@
+{
+  "pk": 15992,
+  "hid": "nbt",
+  "father_pk": 13197,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bangni [bang1338]':1)'Na [naaa1245][nbt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4772",
+        "label": "Na"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12952895",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Na_dialect",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "23637",
+        "grammar_sketch",
+        1994,
+        106,
+        "Pertin, Kabuk 1994"
+      ],
+      [
+        "304745",
+        "wordlist_or_less",
+        1992,
+        7,
+        "Pertin, Kabuk 1992"
+      ]
+    ]
+  },
+  "id": "naaa1245",
+  "name": "Na",
+  "description": null,
+  "markup_description": null,
+  "latitude": 28.431524,
+  "longitude": 93.248908,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Macro-Tani",
+      "id": "macr1268",
+      "url": "https://glottolog.org/resource/languoid/id/macr1268"
+    },
+    {
+      "name": "Tani",
+      "id": "tani1259",
+      "url": "https://glottolog.org/resource/languoid/id/tani1259"
+    },
+    {
+      "name": "Pre-Western Tani",
+      "id": "prew1234",
+      "url": "https://glottolog.org/resource/languoid/id/prew1234"
+    },
+    {
+      "name": "Western Tani",
+      "id": "west2797",
+      "url": "https://glottolog.org/resource/languoid/id/west2797"
+    },
+    {
+      "name": "Subansiri",
+      "id": "suba1255",
+      "url": "https://glottolog.org/resource/languoid/id/suba1255"
+    },
+    {
+      "name": "Bangni-Tagin",
+      "id": "bang1372",
+      "url": "https://glottolog.org/resource/languoid/id/bang1372"
+    }
+  ],
+  "iso639-3": "nbt"
+}

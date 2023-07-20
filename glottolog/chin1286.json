@@ -1,0 +1,95 @@
+{
+  "pk": 2351,
+  "hid": "chh",
+  "father_pk": 1089,
+  "family_pk": 161,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Klatsop [klat1237]':1,'Shoalwater [shoa1234]':1)'Clatsop-Shoalwater Chinook [chin1286][chh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6693380",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lower_Chinook",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ckl",
+        "label": "Chinook (Lower)"
+      }
+    ],
+    "meds": [
+      [
+        "576357",
+        "grammar_sketch",
+        1938,
+        137,
+        "Ray, V.F. 1938"
+      ],
+      [
+        "124323",
+        "grammar_sketch",
+        1911,
+        120,
+        "Franz Boas 1911"
+      ],
+      [
+        "123801",
+        "grammar_sketch",
+        1893,
+        40,
+        "Franz Boas 1893"
+      ],
+      [
+        "83135",
+        "phonology_or_text",
+        1862,
+        12,
+        "na 1862"
+      ],
+      [
+        "92536",
+        "wordlist_or_less",
+        1849,
+        352,
+        "Alexander Ross 1849"
+      ],
+      [
+        "322983",
+        "wordlist_or_less",
+        1820,
+        2,
+        "Gabriel Franchere 1820"
+      ]
+    ]
+  },
+  "id": "chin1286",
+  "name": "Clatsop-Shoalwater Chinook",
+  "description": null,
+  "markup_description": null,
+  "latitude": 45.1729,
+  "longitude": -119.166,
+  "classification": [
+    {
+      "name": "Chinookan",
+      "id": "chin1490",
+      "url": "https://glottolog.org/resource/languoid/id/chin1490"
+    },
+    {
+      "name": "Lower Chinookan",
+      "id": "lowe1438",
+      "url": "https://glottolog.org/resource/languoid/id/lowe1438"
+    }
+  ],
+  "iso639-3": "chh"
+}

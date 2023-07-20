@@ -1,0 +1,58 @@
+{
+  "pk": 581,
+  "hid": "ttx",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Tutong 1 [tuto1242][ttx]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "ttx",
+      "name": "Tutong 1",
+      "change_request": "2007-206",
+      "effective": "2008-01-14",
+      "reason": "merge",
+      "change_to": [
+        "bsb"
+      ],
+      "remedy": "Merge into Bisaya, Brunei [bsb]",
+      "comment": "Bisaya in Brunei and Sarawak is the same cross-border language.\n\nWe are also proposing to retire the designations Tutong 1 and Tutong 2, as\nresearchers have used these terms with conflicting designations. The language in\nthe Dusunic group (formerly Tutong 1) should be called Brunei Bisaya, which\nincludes as dialects Sarawak Bisaya and Tutong 1/Southern Bisaya."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12644012",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500737",
+        "wordlist_or_less",
+        2007,
+        0,
+        "ISO 639-3 Registration Authority 2007"
+      ]
+    ]
+  },
+  "id": "tuto1242",
+  "name": "Tutong 1",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "ttx"
+}

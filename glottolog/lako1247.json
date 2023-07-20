@@ -1,0 +1,104 @@
+{
+  "pk": 8821,
+  "hid": "lkt",
+  "father_pk": 6319,
+  "family_pk": 201,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Brulé [brul1239]':1)'Lakota [lako1247][lkt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_lkt",
+        "label": "Lakhota"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/2052",
+        "label": "Lakota"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lakota_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/lako1247",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33537",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "586170",
+        "long_grammar",
+        2018,
+        642,
+        "Jan F. Ullrich and Black Bear, Jr., Ben 2018"
+      ],
+      [
+        "15342",
+        "long_grammar",
+        1939,
+        374,
+        "Eugene Buechel 1939"
+      ],
+      [
+        "28286",
+        "grammar_sketch",
+        1933,
+        25,
+        "Franz Boas and Ella Deloria 1933"
+      ],
+      [
+        "144328",
+        "phonology_or_text",
+        1890,
+        225,
+        "Riggs, Stephen Return 1890"
+      ]
+    ]
+  },
+  "id": "lako1247",
+  "name": "Lakota",
+  "description": null,
+  "markup_description": null,
+  "latitude": 46.3699,
+  "longitude": -103.95,
+  "classification": [
+    {
+      "name": "Siouan",
+      "id": "siou1252",
+      "url": "https://glottolog.org/resource/languoid/id/siou1252"
+    },
+    {
+      "name": "Core Siouan",
+      "id": "core1249",
+      "url": "https://glottolog.org/resource/languoid/id/core1249"
+    },
+    {
+      "name": "Mississippi Valley",
+      "id": "miss1254",
+      "url": "https://glottolog.org/resource/languoid/id/miss1254"
+    },
+    {
+      "name": "Dakotan",
+      "id": "dako1257",
+      "url": "https://glottolog.org/resource/languoid/id/dako1257"
+    },
+    {
+      "name": "Sioux",
+      "id": "siou1253",
+      "url": "https://glottolog.org/resource/languoid/id/siou1253"
+    }
+  ],
+  "iso639-3": "lkt"
+}

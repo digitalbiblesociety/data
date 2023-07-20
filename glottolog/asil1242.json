@@ -1,0 +1,85 @@
+{
+  "pk": 9454,
+  "hid": "asl",
+  "father_pk": 6846,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Negeri Lima [nege1241]':1,'Nuclear Asilulu [nucl1531]':1,'Ureng [uren1238]':1)'Asilulu [asil1242][asl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12473347",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Asilulu_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "475179",
+        "phonology_or_text",
+        2003,
+        251,
+        "Collins, James T. 2003"
+      ],
+      [
+        "35123",
+        "wordlist_or_less",
+        1877,
+        14,
+        "G. W. W. C. van Hoëvell 1877"
+      ],
+      [
+        "82031",
+        "wordlist_or_less",
+        1868,
+        9,
+        "Ludeking, E. W. A. 1868"
+      ]
+    ]
+  },
+  "id": "asil1242",
+  "name": "Asilulu",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.67302,
+  "longitude": 127.952,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Nunusaku",
+      "id": "nunu1252",
+      "url": "https://glottolog.org/resource/languoid/id/nunu1252"
+    },
+    {
+      "name": "Piru Bay",
+      "id": "piru1243",
+      "url": "https://glottolog.org/resource/languoid/id/piru1243"
+    },
+    {
+      "name": "West Piru Bay",
+      "id": "west2843",
+      "url": "https://glottolog.org/resource/languoid/id/west2843"
+    }
+  ],
+  "iso639-3": "asl"
+}

@@ -1,0 +1,106 @@
+{
+  "pk": 14335,
+  "hid": "mpi",
+  "father_pk": 11263,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bodo {Mpade} [bodo1278]':1,'Digam [diga1245]':1,'Makari [maka1322]':1,'Nuclear Mpade [nucl1690]':1,'Shoe [shoe1243]':1,'Woulki [woul1238]':1)'Mpade [mpad1242][mpi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3280670",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mpade_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/mpad1242",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "312127",
+        "long_grammar",
+        2012,
+        631,
+        "Allison, Sean David 2012"
+      ],
+      [
+        "588366",
+        "grammar_sketch",
+        2005,
+        286,
+        "Mahamat, A. 2005"
+      ],
+      [
+        "585662",
+        "phonology_or_text",
+        2000,
+        0,
+        "Adam, Mahamat 2000"
+      ],
+      [
+        "19688",
+        "wordlist_or_less",
+        1912,
+        6,
+        "Benton, Philip A. 1912"
+      ]
+    ]
+  },
+  "id": "mpad1242",
+  "name": "Mpade",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.561391,
+  "longitude": 14.446893,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "Biu-Mandara",
+      "id": "bium1280",
+      "url": "https://glottolog.org/resource/languoid/id/bium1280"
+    },
+    {
+      "name": "North Biu-Mandara",
+      "id": "nort3156",
+      "url": "https://glottolog.org/resource/languoid/id/nort3156"
+    },
+    {
+      "name": "Kotoko-Buduma",
+      "id": "koto1267",
+      "url": "https://glottolog.org/resource/languoid/id/koto1267"
+    },
+    {
+      "name": "Kotoko Septentrional",
+      "id": "koto1265",
+      "url": "https://glottolog.org/resource/languoid/id/koto1265"
+    },
+    {
+      "name": "Kotoko Septentrional 2",
+      "id": "koto1269",
+      "url": "https://glottolog.org/resource/languoid/id/koto1269"
+    }
+  ],
+  "iso639-3": "mpi"
+}

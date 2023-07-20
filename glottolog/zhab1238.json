@@ -1,0 +1,84 @@
+{
+  "pk": 7261,
+  "hid": "zhb",
+  "father_pk": 4935,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Zhaba [zhab1238][zhb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5610",
+        "label": "Zhaba"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56334",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Zhaba_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "320958",
+        "grammar",
+        2007,
+        6,
+        "Gong, Qunhu 2007"
+      ],
+      [
+        "577190",
+        "grammar_sketch",
+        2006,
+        151,
+        "Shirai, Satoko 2006"
+      ],
+      [
+        "309201",
+        "grammar_sketch",
+        1983,
+        8,
+        "Sun, Hongkai 1983"
+      ]
+    ]
+  },
+  "id": "zhab1238",
+  "name": "Zhaba",
+  "description": null,
+  "markup_description": null,
+  "latitude": 30.7416,
+  "longitude": 100.983,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Burmo-Qiangic",
+      "id": "burm1265",
+      "url": "https://glottolog.org/resource/languoid/id/burm1265"
+    },
+    {
+      "name": "Na-Qiangic",
+      "id": "naqi1236",
+      "url": "https://glottolog.org/resource/languoid/id/naqi1236"
+    },
+    {
+      "name": "Qiangic",
+      "id": "qian1263",
+      "url": "https://glottolog.org/resource/languoid/id/qian1263"
+    }
+  ],
+  "iso639-3": "zhb"
+}

@@ -1,0 +1,92 @@
+{
+  "pk": 2716,
+  "hid": "tqo",
+  "father_pk": 1272,
+  "family_pk": 251,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kaipi [kaip1241]':1,'Nuclear Toaripi [nucl1581]':1,'Sepoe [sepo1239]':1)'Toaripi [toar1246][tqo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_toa",
+        "label": "Toaripi"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Toaripi_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/toar1246",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7811403",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "307505",
+        "grammar",
+        1972,
+        108,
+        "Herbert A. Brown 1972"
+      ],
+      [
+        "14099",
+        "grammar_sketch",
+        1907,
+        14,
+        "Sidney H. Ray 1907"
+      ],
+      [
+        "309880",
+        "wordlist_or_less",
+        1892,
+        5,
+        "J. P. Thomson 1892"
+      ],
+      [
+        "57662",
+        "wordlist_or_less",
+        1891,
+        4,
+        "Zöller, Hugo 1891"
+      ],
+      [
+        "52221",
+        "wordlist_or_less",
+        1890,
+        1,
+        "Lawes, W. G. 1890"
+      ]
+    ]
+  },
+  "id": "toar1246",
+  "name": "Toaripi",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.07231,
+  "longitude": 146.206,
+  "classification": [
+    {
+      "name": "Eleman",
+      "id": "nucl1580",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1580"
+    },
+    {
+      "name": "Eastern Eleman",
+      "id": "east2494",
+      "url": "https://glottolog.org/resource/languoid/id/east2494"
+    }
+  ],
+  "iso639-3": "tqo"
+}

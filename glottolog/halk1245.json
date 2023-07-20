@@ -1,0 +1,102 @@
+{
+  "pk": 4141,
+  "hid": "hur",
+  "father_pk": 2382,
+  "family_pk": 166,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Katzie [katz1234]':1,'Kwantlen [kwan1290]':1,'Kwikwetlem [kwik1234]':1,'Musqueam [musq1240]':1,'Qayqayt [qayq1234]':1,'Tsawwassen [tsaw1234]':1,'Tsleil-Waututh [tsle1234]':1)'Downriver Halkomelem [down1241]':1,('Cowichan [cowi1241]':1,'Halalt [hala1255]':1,'Lake Cowichan [lake1261]':1,'Lamalchi [lama1301]':1,'Lyackson [lyac1234]':1,'Nanaimo [nana1260]':1,'Nanoose [nano1241]':1,'Penelakut [pene1238]':1,'Stz''uminus [stzu1234]':1)'Island Halkomelem [isla1280]':1,('Chehalis [cheh1245]':1,'Chiliwack [chil1281]':1,'Pilaltxw [pila1248]':1,'Sumas [suma1276]':1,'Tait [tait1251]':1)'Upriver Halkomelem [upri1241]':1)'Halkomelem [halk1245][hur]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 24,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_hli",
+        "label": "Halkomelem (Island)"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_hlu",
+        "label": "Halkomelem (Upriver)"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/2379",
+        "label": "Hulʻqʻumiʻnumʻ (Halkomelem)"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_msq",
+        "label": "Musqueam"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Halkomelem",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/halk1245",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35388",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "59936",
+        "long_grammar",
+        1977,
+        722,
+        "Galloway, Brent Douglas 1977"
+      ],
+      [
+        "321554",
+        "grammar_sketch",
+        1903,
+        48,
+        "Charles Hill-Tout 1903"
+      ],
+      [
+        "322779",
+        "wordlist_or_less",
+        1866,
+        15,
+        "Wilson, Charles W. 1866"
+      ],
+      [
+        "162143",
+        "wordlist_or_less",
+        1841,
+        2,
+        "John Scouler 1841"
+      ]
+    ]
+  },
+  "id": "halk1245",
+  "name": "Halkomelem",
+  "description": null,
+  "markup_description": null,
+  "latitude": 49.250402,
+  "longitude": -122.443668,
+  "classification": [
+    {
+      "name": "Salishan",
+      "id": "sali1255",
+      "url": "https://glottolog.org/resource/languoid/id/sali1255"
+    },
+    {
+      "name": "Coast Salish",
+      "id": "coas1325",
+      "url": "https://glottolog.org/resource/languoid/id/coas1325"
+    },
+    {
+      "name": "Central Salish",
+      "id": "cent2129",
+      "url": "https://glottolog.org/resource/languoid/id/cent2129"
+    }
+  ],
+  "iso639-3": "hur"
+}

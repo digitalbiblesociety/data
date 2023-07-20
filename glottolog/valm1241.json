@@ -1,0 +1,90 @@
+{
+  "pk": 3763,
+  "hid": "van",
+  "father_pk": 2107,
+  "family_pk": 103,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Walman [valm1241][van]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10550",
+        "label": "Walman"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Walman_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_wal",
+        "label": "Walman"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7912479",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "137576",
+        "grammar_sketch",
+        1901,
+        32,
+        "P. N. Spölgen 1901"
+      ],
+      [
+        "133416",
+        "grammar_sketch",
+        1900,
+        18,
+        "Wilhelm Schmidt and Friedrich Vormann 1900"
+      ],
+      [
+        "156514",
+        "wordlist_or_less",
+        1899,
+        9,
+        "Wilhelm Schmidt 1899"
+      ],
+      [
+        "161223",
+        "wordlist_or_less",
+        1898,
+        6,
+        "Christian Schleiermacher 1898-1899"
+      ]
+    ]
+  },
+  "id": "valm1241",
+  "name": "Walman",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.24963,
+  "longitude": 142.499,
+  "classification": [
+    {
+      "name": "Nuclear Torricelli",
+      "id": "nucl1708",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1708"
+    },
+    {
+      "name": "Wapei-Palei",
+      "id": "wape1249",
+      "url": "https://glottolog.org/resource/languoid/id/wape1249"
+    },
+    {
+      "name": "West Palai",
+      "id": "west2788",
+      "url": "https://glottolog.org/resource/languoid/id/west2788"
+    }
+  ],
+  "iso639-3": "van"
+}

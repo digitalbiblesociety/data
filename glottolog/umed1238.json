@@ -1,0 +1,80 @@
+{
+  "pk": 6411,
+  "hid": "upi",
+  "father_pk": 4377,
+  "family_pk": 225,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Punda [pund1238]':1,'Umeda [umed1239]':1)'Umeda-Punda [umed1238][upi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7881465",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Umeda_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "305732",
+        "wordlist_or_less",
+        1985,
+        1,
+        "Walter Seiler 1985"
+      ],
+      [
+        "80539",
+        "wordlist_or_less",
+        1975,
+        366,
+        "Gell, Alfred 1975"
+      ],
+      [
+        "11467",
+        "wordlist_or_less",
+        1956,
+        1,
+        "Andreoli, Emile 1956"
+      ]
+    ]
+  },
+  "id": "umed1238",
+  "name": "Umeda-Punda",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.34565,
+  "longitude": 141.157,
+  "classification": [
+    {
+      "name": "Border",
+      "id": "bord1247",
+      "url": "https://glottolog.org/resource/languoid/id/bord1247"
+    },
+    {
+      "name": "Warisic",
+      "id": "wari1265",
+      "url": "https://glottolog.org/resource/languoid/id/wari1265"
+    },
+    {
+      "name": "Nuclear Warisic",
+      "id": "nucl1773",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1773"
+    },
+    {
+      "name": "Waina-Punda",
+      "id": "wain1248",
+      "url": "https://glottolog.org/resource/languoid/id/wain1248"
+    }
+  ],
+  "iso639-3": "upi"
+}

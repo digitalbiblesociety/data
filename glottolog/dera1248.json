@@ -1,0 +1,103 @@
+{
+  "pk": 14214,
+  "hid": "kna",
+  "father_pk": 11140,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Gasi [gasi1239]':1,'Shani [shan1290]':1,'Shellen [shel1247]':1)'Dera {Nigeria} [dera1248][kna]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56811",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kanakuru_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/dera1248",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_knk",
+        "label": "Kanakuru"
+      }
+    ],
+    "meds": [
+      [
+        "81988",
+        "grammar",
+        1974,
+        149,
+        "Newman, Paul 1974"
+      ],
+      [
+        "46999",
+        "grammar",
+        1971,
+        0,
+        "Newman, Paul 1971"
+      ],
+      [
+        "37690",
+        "wordlist_or_less",
+        1931,
+        5,
+        "Meek, Charles K. 1931"
+      ]
+    ]
+  },
+  "id": "dera1248",
+  "name": "Dera (Nigeria)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.072,
+  "longitude": 12.0256,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "West Chadic",
+      "id": "west2785",
+      "url": "https://glottolog.org/resource/languoid/id/west2785"
+    },
+    {
+      "name": "West Chadic A",
+      "id": "west2714",
+      "url": "https://glottolog.org/resource/languoid/id/west2714"
+    },
+    {
+      "name": "West Chadic A.2-3",
+      "id": "west2799",
+      "url": "https://glottolog.org/resource/languoid/id/west2799"
+    },
+    {
+      "name": "West Chadic A.2",
+      "id": "west2715",
+      "url": "https://glottolog.org/resource/languoid/id/west2715"
+    },
+    {
+      "name": "Tangalic",
+      "id": "tang1366",
+      "url": "https://glottolog.org/resource/languoid/id/tang1366"
+    }
+  ],
+  "iso639-3": "kna"
+}

@@ -1,0 +1,74 @@
+{
+  "pk": 2618,
+  "hid": "zko",
+  "father_pk": 1214,
+  "family_pk": 217,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kott-Assan [kott1239][zko]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q34163",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kott_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ktt",
+        "label": "Kott"
+      }
+    ],
+    "meds": [
+      [
+        "315391",
+        "long_grammar",
+        1990,
+        411,
+        "G. K. Verner 1990"
+      ],
+      [
+        "300608",
+        "grammar_sketch",
+        1858,
+        48,
+        "Anton Schiefner 1858"
+      ],
+      [
+        "309459",
+        "wordlist_or_less",
+        1786,
+        20,
+        "Pallas, Peter Simon 1786, 1789"
+      ]
+    ]
+  },
+  "id": "kott1239",
+  "name": "Kott-Assan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 55,
+  "longitude": 94,
+  "classification": [
+    {
+      "name": "Yeniseian",
+      "id": "yeni1252",
+      "url": "https://glottolog.org/resource/languoid/id/yeni1252"
+    },
+    {
+      "name": "Southern Yeniseian",
+      "id": "sout2751",
+      "url": "https://glottolog.org/resource/languoid/id/sout2751"
+    }
+  ],
+  "iso639-3": "zko"
+}

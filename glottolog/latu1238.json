@@ -1,0 +1,73 @@
+{
+  "pk": 7433,
+  "hid": "ltn",
+  "father_pk": 5064,
+  "family_pk": 339,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Latundê [latu1238][ltn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q63259736",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/latu1238",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "71258",
+        "grammar",
+        2002,
+        206,
+        "Telles de Araujo Pereira Lima, Stella 2002"
+      ],
+      [
+        "50473",
+        "wordlist_or_less",
+        2001,
+        7,
+        "Telles de Araujo Pereira Lima, Stella 2001"
+      ]
+    ]
+  },
+  "id": "latu1238",
+  "name": "Latundê",
+  "description": null,
+  "markup_description": null,
+  "latitude": -12.608792,
+  "longitude": -60.422423,
+  "classification": [
+    {
+      "name": "Nambiquaran",
+      "id": "namb1299",
+      "url": "https://glottolog.org/resource/languoid/id/namb1299"
+    },
+    {
+      "name": "Nambikwara Complex",
+      "id": "namb1300",
+      "url": "https://glottolog.org/resource/languoid/id/namb1300"
+    },
+    {
+      "name": "Northern Nambiquaran",
+      "id": "nort3153",
+      "url": "https://glottolog.org/resource/languoid/id/nort3153"
+    },
+    {
+      "name": "Roosevelt",
+      "id": "roos1235",
+      "url": "https://glottolog.org/resource/languoid/id/roos1235"
+    }
+  ],
+  "iso639-3": "ltn"
+}

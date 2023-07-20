@@ -1,0 +1,90 @@
+{
+  "pk": 6060,
+  "hid": "gll",
+  "father_pk": 4065,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kalali [kala1414]':1,'Mingbari [ming1253]':1,'Pitjara [bidj1245]':1)'Bulloo River [kala1380][gll]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "gll",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "Garlali [gll] of the Wilson river was close enough to the varieties of Ngura [nbx] to be intelligible to it\n(**hh:hv:Breen:Karnic**, **hh:g:McDonaldWurm:Wangkumara**). See also: Wilson River (Grey Range) [nbx]."
+    },
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4773",
+        "label": "Garlali"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kalali_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kala1380",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5523396",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "79764",
+        "wordlist_or_less",
+        1886,
+        8,
+        "Myles, Frederic W. 1886"
+      ]
+    ]
+  },
+  "id": "kala1380",
+  "name": "Bulloo River",
+  "description": null,
+  "markup_description": null,
+  "latitude": -28.136,
+  "longitude": 143.929,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Karnic",
+      "id": "karn1253",
+      "url": "https://glottolog.org/resource/languoid/id/karn1253"
+    },
+    {
+      "name": "Badjiri-Eastern Karnic",
+      "id": "badj1246",
+      "url": "https://glottolog.org/resource/languoid/id/badj1246"
+    },
+    {
+      "name": "Eastern Karnic",
+      "id": "east2872",
+      "url": "https://glottolog.org/resource/languoid/id/east2872"
+    }
+  ],
+  "iso639-3": "gll"
+}

@@ -1,0 +1,126 @@
+{
+  "pk": 25065,
+  "hid": "aij",
+  "father_pk": 24168,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "((('Rustaqa [rust1238]':1,'Rwanduz [rwan1245]':1)'Northeastern Lishanid Noshan [nort3097]':1,('Koy Sanjaq [koys1241]':1,'Qaladze [qala1238]':1)'Southeastern Lishanid Noshan [sout3076]':1)'Eastern cluster Lishanid Noshan [east2682]':1,'Ranye [rany1242]':1,'Shaqlawa [shaq1238]':1,('Arbel [arbe1239]':1,'Dobe [dobe1242]':1)'Western cluster Lishanid Noshan [west2766]':1)'Lishanid Noshan [lish1245][aij]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 12,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3697",
+        "label": "Inter-Zab Jewish Neo-Aramaic"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Inter-Zab_Jewish_Neo-Aramaic",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_naj",
+        "label": "Neo-Aramaic (Arbel Jewish)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3436467",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "96417",
+        "long_grammar",
+        1999,
+        606,
+        "Geoffrey Khan 1999"
+      ],
+      [
+        "115305",
+        "grammar",
+        1968,
+        19,
+        "Arsanis, G. V. 1968"
+      ]
+    ]
+  },
+  "id": "lish1245",
+  "name": "Lishanid Noshan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 36.213298,
+  "longitude": 44.065281,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Semitic",
+      "id": "semi1276",
+      "url": "https://glottolog.org/resource/languoid/id/semi1276"
+    },
+    {
+      "name": "West Semitic",
+      "id": "west2786",
+      "url": "https://glottolog.org/resource/languoid/id/west2786"
+    },
+    {
+      "name": "Central Semitic",
+      "id": "cent2236",
+      "url": "https://glottolog.org/resource/languoid/id/cent2236"
+    },
+    {
+      "name": "Northwest Semitic",
+      "id": "nort3165",
+      "url": "https://glottolog.org/resource/languoid/id/nort3165"
+    },
+    {
+      "name": "Aramaic",
+      "id": "aram1259",
+      "url": "https://glottolog.org/resource/languoid/id/aram1259"
+    },
+    {
+      "name": "Imperial-Middle-Modern Aramaic",
+      "id": "impe1236",
+      "url": "https://glottolog.org/resource/languoid/id/impe1236"
+    },
+    {
+      "name": "Middle-Modern Aramaic",
+      "id": "midd1367",
+      "url": "https://glottolog.org/resource/languoid/id/midd1367"
+    },
+    {
+      "name": "Eastern Aramaic",
+      "id": "east2680",
+      "url": "https://glottolog.org/resource/languoid/id/east2680"
+    },
+    {
+      "name": "Central Eastern Aramaic",
+      "id": "cent2217",
+      "url": "https://glottolog.org/resource/languoid/id/cent2217"
+    },
+    {
+      "name": "North-Eastern Neo-Aramaic",
+      "id": "nort3241",
+      "url": "https://glottolog.org/resource/languoid/id/nort3241"
+    },
+    {
+      "name": "Trans-Zab",
+      "id": "tran1290",
+      "url": "https://glottolog.org/resource/languoid/id/tran1290"
+    },
+    {
+      "name": "Western Trans-Zab",
+      "id": "sout3213",
+      "url": "https://glottolog.org/resource/languoid/id/sout3213"
+    }
+  ],
+  "iso639-3": "aij"
+}

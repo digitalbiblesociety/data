@@ -1,0 +1,80 @@
+{
+  "pk": 7315,
+  "hid": "kvq",
+  "father_pk": 4977,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Geba Karen [geba1237][kvq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12952581",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Geba_Karen_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "78578",
+        "grammar",
+        2008,
+        280,
+        "Naw Hsar Shee 2008"
+      ],
+      [
+        "580631",
+        "wordlist_or_less",
+        1993,
+        11,
+        "William G. Kauffman 1993"
+      ],
+      [
+        "94361",
+        "wordlist_or_less",
+        1920,
+        0,
+        "George A. Grierson 1920-1929"
+      ]
+    ]
+  },
+  "id": "geba1237",
+  "name": "Geba Karen",
+  "description": null,
+  "markup_description": null,
+  "latitude": 19.4991,
+  "longitude": 96.9492,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Karenic",
+      "id": "kare1337",
+      "url": "https://glottolog.org/resource/languoid/id/kare1337"
+    },
+    {
+      "name": "Central Karen",
+      "id": "cent1999",
+      "url": "https://glottolog.org/resource/languoid/id/cent1999"
+    },
+    {
+      "name": "Geba-Bwe",
+      "id": "geba1236",
+      "url": "https://glottolog.org/resource/languoid/id/geba1236"
+    }
+  ],
+  "iso639-3": "kvq"
+}

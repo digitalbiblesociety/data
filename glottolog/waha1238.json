@@ -1,0 +1,87 @@
+{
+  "pk": 12052,
+  "hid": "whk",
+  "father_pk": 9202,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Uma Timai [umat1247]':1)'Eastern Lowland Kenyah [waha1238][whk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3351",
+        "label": "Wahau Kenya"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7959737",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Wahau_Kenyah_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "61498",
+        "phonology_or_text",
+        2006,
+        179,
+        "Soriente, Antonia 2006"
+      ],
+      [
+        "320625",
+        "wordlist_or_less",
+        2003,
+        12,
+        "Antonia Soriente 2003"
+      ]
+    ]
+  },
+  "id": "waha1238",
+  "name": "Eastern Lowland Kenyah",
+  "description": null,
+  "markup_description": null,
+  "latitude": 1.56635,
+  "longitude": 116.655,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "North Borneo Malayo-Polynesian",
+      "id": "nort3253",
+      "url": "https://glottolog.org/resource/languoid/id/nort3253"
+    },
+    {
+      "name": "North Sarawakan",
+      "id": "nort3171",
+      "url": "https://glottolog.org/resource/languoid/id/nort3171"
+    },
+    {
+      "name": "Kenyahic",
+      "id": "keny1280",
+      "url": "https://glottolog.org/resource/languoid/id/keny1280"
+    },
+    {
+      "name": "Lowland Kenyah",
+      "id": "lowl1270",
+      "url": "https://glottolog.org/resource/languoid/id/lowl1270"
+    }
+  ],
+  "iso639-3": "whk"
+}

@@ -1,0 +1,79 @@
+{
+  "pk": 5364,
+  "hid": "dar",
+  "father_pk": 3508,
+  "family_pk": 426,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Megeb [mege1234]':1,('Cudaxar [cuda1238]':1,'Gapshin-Butrin [gaps1234]':1,'Kadarskij [kada1294]':1,('Dejbuk [dejb1238]':1,'Xarbuk [xarb1238]':1)'Muirin [muir1238]':1,(('Akusha [akus1238]':1,'Uraxa [urax1238]':1)'Aqusha-Uraxi [aqus1234]':1,'Mugin [mugi1235]':1,'Murego-Gubden [mure1236]':1,'Upper Mulebki [uppe1462]':1)'Nuclear North Dargwa [nucl1774]':1)'North Dargwa [nort3280]':1)'North-Central Dargwa [darg1241][dar]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 15,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_drg",
+        "label": "Dargwa"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dargwa_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q32332",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "39570",
+        "long_grammar",
+        1993,
+        656,
+        "Abdullaev, Zapir Gasanbekovič 1993"
+      ],
+      [
+        "121702",
+        "long_grammar",
+        1971,
+        480,
+        "Z. G. Abdullaev 1971"
+      ],
+      [
+        "305511",
+        "grammar",
+        1892,
+        259,
+        "Uslar, Petr K. 1892"
+      ]
+    ]
+  },
+  "id": "darg1241",
+  "name": "North-Central Dargwa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 42.4257,
+  "longitude": 47.4388,
+  "classification": [
+    {
+      "name": "Nakh-Daghestanian",
+      "id": "nakh1245",
+      "url": "https://glottolog.org/resource/languoid/id/nakh1245"
+    },
+    {
+      "name": "Daghestanian",
+      "id": "dagh1238",
+      "url": "https://glottolog.org/resource/languoid/id/dagh1238"
+    },
+    {
+      "name": "Dargwic",
+      "id": "darg1242",
+      "url": "https://glottolog.org/resource/languoid/id/darg1242"
+    }
+  ],
+  "iso639-3": "dar"
+}

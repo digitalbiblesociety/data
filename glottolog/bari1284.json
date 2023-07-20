@@ -1,0 +1,102 @@
+{
+  "pk": 7084,
+  "hid": "bfa",
+  "father_pk": 4855,
+  "family_pk": 316,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ligo [ligo1238]':1,'Nile Bari [nile1238]':1,'Nyangbara [nyan1314]':1,'Nyepu [nyep1239]':1,'Pöjulu [poju1239]':1)'Bari [bari1284][bfa]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bar",
+        "label": "Bari"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kuk",
+        "label": "Kukú"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bari_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35042",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "50293",
+        "long_grammar",
+        1987,
+        517,
+        "Yokwe, Eluzai Moga 1987"
+      ],
+      [
+        "146442",
+        "long_grammar",
+        1933,
+        479,
+        "Spagnolo, Lorenzo M. 1933"
+      ],
+      [
+        "25867",
+        "grammar",
+        1864,
+        180,
+        "Müller, Friedrich 1864"
+      ],
+      [
+        "149681",
+        "grammar_sketch",
+        1862,
+        10,
+        "Kaufmann, A. 1862"
+      ],
+      [
+        "142212",
+        "grammar_sketch",
+        1840,
+        0,
+        "Überbacher, Anton 1840s?"
+      ]
+    ]
+  },
+  "id": "bari1284",
+  "name": "Bari",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.19522,
+  "longitude": 31.0723,
+  "classification": [
+    {
+      "name": "Nilotic",
+      "id": "nilo1247",
+      "url": "https://glottolog.org/resource/languoid/id/nilo1247"
+    },
+    {
+      "name": "Eastern Nilotic",
+      "id": "east2418",
+      "url": "https://glottolog.org/resource/languoid/id/east2418"
+    },
+    {
+      "name": "Barian",
+      "id": "bari1283",
+      "url": "https://glottolog.org/resource/languoid/id/bari1283"
+    },
+    {
+      "name": "Nuclear Barian",
+      "id": "nucl1796",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1796"
+    }
+  ],
+  "iso639-3": "bfa"
+}

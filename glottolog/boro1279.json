@@ -1,0 +1,88 @@
+{
+  "pk": 14840,
+  "hid": "ksr",
+  "father_pk": 11956,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kosorong [koso1245]':1,'Yangeborong [yang1299]':1)'Borong [boro1279][ksr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Borong_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q4946263",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "304356",
+        "grammar_sketch",
+        2000,
+        24,
+        "Olkkonen, Kaija and Soini Olkkonen 2000"
+      ],
+      [
+        "47416",
+        "wordlist_or_less",
+        1967,
+        2,
+        "Kenneth A. McElhanon 1967"
+      ]
+    ]
+  },
+  "id": "boro1279",
+  "name": "Borong",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.56688,
+  "longitude": 147.511,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Finisterre-Huon",
+      "id": "fini1244",
+      "url": "https://glottolog.org/resource/languoid/id/fini1244"
+    },
+    {
+      "name": "Huon",
+      "id": "huon1246",
+      "url": "https://glottolog.org/resource/languoid/id/huon1246"
+    },
+    {
+      "name": "Western Huon",
+      "id": "west2795",
+      "url": "https://glottolog.org/resource/languoid/id/west2795"
+    },
+    {
+      "name": "Rawlinson",
+      "id": "rawl1234",
+      "url": "https://glottolog.org/resource/languoid/id/rawl1234"
+    },
+    {
+      "name": "Pindiu",
+      "id": "pind1245",
+      "url": "https://glottolog.org/resource/languoid/id/pind1245"
+    },
+    {
+      "name": "Kosorong-Burum-Mindik",
+      "id": "koso1246",
+      "url": "https://glottolog.org/resource/languoid/id/koso1246"
+    }
+  ],
+  "iso639-3": "ksr"
+}

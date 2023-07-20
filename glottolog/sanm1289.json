@@ -1,0 +1,93 @@
+{
+  "pk": 10058,
+  "hid": "qvs",
+  "father_pk": 7229,
+  "family_pk": 321,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'San Martín Quechua [sanm1289][qvs]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/8123",
+        "label": "San Martín Quechua"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lamas_Quechua",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/sanm1289",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35880",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "7451",
+        "long_grammar",
+        1977,
+        374,
+        "Angela Margaret Howkins 1977"
+      ],
+      [
+        "61806",
+        "grammar",
+        1973,
+        228,
+        "Urioste, George L. 1973"
+      ],
+      [
+        "115702",
+        "grammar_sketch",
+        1903,
+        60,
+        "Manuel Navarro 1903"
+      ]
+    ]
+  },
+  "id": "sanm1289",
+  "name": "San Martín Quechua",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.9582,
+  "longitude": -76.6608,
+  "classification": [
+    {
+      "name": "Quechuan",
+      "id": "quec1387",
+      "url": "https://glottolog.org/resource/languoid/id/quec1387"
+    },
+    {
+      "name": "Quechua II",
+      "id": "quec1388",
+      "url": "https://glottolog.org/resource/languoid/id/quec1388"
+    },
+    {
+      "name": "Chinchay",
+      "id": "chin1494",
+      "url": "https://glottolog.org/resource/languoid/id/chin1494"
+    },
+    {
+      "name": "Quechua IIB",
+      "id": "quec1384",
+      "url": "https://glottolog.org/resource/languoid/id/quec1384"
+    },
+    {
+      "name": "San Martin-Amazonas Quechua",
+      "id": "sanm1306",
+      "url": "https://glottolog.org/resource/languoid/id/sanm1306"
+    }
+  ],
+  "iso639-3": "qvs"
+}

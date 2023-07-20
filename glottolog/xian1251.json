@@ -1,0 +1,94 @@
+{
+  "pk": 7394,
+  "hid": "hsn",
+  "father_pk": 5039,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Changsha [chan1326]':1,'Yi-Yuan [yiyu1234]':1,'Yueyang [yuey1234]':1)'Changyi [chan1316]':1,('Baojing [baoj1239]':1,'Chenxi [chen1269]':1,'Guzhang [guzh1234]':1,'Huayuan [huay1242]':1,'Jishu [jish1242]':1,'Luxi [luxi1239]':1,'Xupu [xupu1234]':1,'Yuanling [yuan1243]':1)'Chen-Xu [chen1268]':1,'Hengzhou [heng1239]':1,('Loudi [loud1234]':1,'Shuangfeng [shua1258]':1,'Xiangtan [xian1254]':1)'Loushao [luos1238]':1,('Dong-Qi [dong1298]':1,'Jiangyong [jian1243]':1,'Quan-Zi [quan1243]':1)'Yong-Quan [yong1285]':1)'Xiang Chinese [xian1251][hsn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 22,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Xiang_Chinese",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q13220",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "553730",
+        "grammar",
+        2002,
+        287,
+        "Zhang, Xiaoqin 2002"
+      ],
+      [
+        "300541",
+        "grammar",
+        1999,
+        6,
+        "Bao, Houxing and Ruoyun Shen and Zhenhua Cui and Yunji Wu 1999"
+      ],
+      [
+        "568645",
+        "grammar_sketch",
+        1998,
+        6,
+        "Houxing Bao 1998"
+      ],
+      [
+        "549535",
+        "grammar_sketch",
+        1993,
+        0,
+        "Huáng, Xuězhēn 1993"
+      ],
+      [
+        "589823",
+        "phonology_or_text",
+        1987,
+        327,
+        "Nobuhisa Tsuji 1987"
+      ]
+    ]
+  },
+  "id": "xian1251",
+  "name": "Xiang Chinese",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.66847,
+  "longitude": 111.47112,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Sinitic",
+      "id": "sini1245",
+      "url": "https://glottolog.org/resource/languoid/id/sini1245"
+    },
+    {
+      "name": "Classical-Middle-Modern Sinitic",
+      "id": "clas1255",
+      "url": "https://glottolog.org/resource/languoid/id/clas1255"
+    },
+    {
+      "name": "Middle-Modern Sinitic",
+      "id": "midd1354",
+      "url": "https://glottolog.org/resource/languoid/id/midd1354"
+    }
+  ],
+  "iso639-3": "hsn"
+}

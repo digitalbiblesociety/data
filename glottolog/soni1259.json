@@ -1,0 +1,121 @@
+{
+  "pk": 8336,
+  "hid": "snk",
+  "father_pk": 5838,
+  "family_pk": 121,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Azer [azer1256]':1,'Gadyaga [gady1242]':1,'Kinbakka [kinb1238]':1,'Xenqenna [xenq1238]':1)'Soninke [soni1259][snk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_snn",
+        "label": "Soninke"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Soninke_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/soni1259",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36660",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "70959",
+        "long_grammar",
+        1984,
+        1024,
+        "Diagana, Ousmane Moussa 1984"
+      ],
+      [
+        "70962",
+        "long_grammar",
+        1980,
+        668,
+        "Diagana, Ousmane Moussa 1980"
+      ],
+      [
+        "75392",
+        "grammar",
+        1939,
+        129,
+        "Monteil, Charles 1939"
+      ],
+      [
+        "96301",
+        "grammar_sketch",
+        1887,
+        50,
+        "Faidherbe, Louis L.C. [Le Général] 1887"
+      ],
+      [
+        "39591",
+        "grammar_sketch",
+        1885,
+        0,
+        "Barth, J. 1885"
+      ],
+      [
+        "135096",
+        "grammar_sketch",
+        1864,
+        0,
+        "Faidherbe, Louis L.C. [Le Général] 1864"
+      ],
+      [
+        "19114",
+        "wordlist_or_less",
+        1690,
+        9,
+        "d'Avezac, G. 1845 [1690]"
+      ]
+    ]
+  },
+  "id": "soni1259",
+  "name": "Soninke",
+  "description": null,
+  "markup_description": null,
+  "latitude": 13.1273,
+  "longitude": -11.7178,
+  "classification": [
+    {
+      "name": "Mande",
+      "id": "mand1469",
+      "url": "https://glottolog.org/resource/languoid/id/mand1469"
+    },
+    {
+      "name": "Western Mande",
+      "id": "west2780",
+      "url": "https://glottolog.org/resource/languoid/id/west2780"
+    },
+    {
+      "name": "Northwestern Mande",
+      "id": "samo1308",
+      "url": "https://glottolog.org/resource/languoid/id/samo1308"
+    },
+    {
+      "name": "Soninke-Bozo",
+      "id": "soni1257",
+      "url": "https://glottolog.org/resource/languoid/id/soni1257"
+    },
+    {
+      "name": "Soninkean",
+      "id": "soni1258",
+      "url": "https://glottolog.org/resource/languoid/id/soni1258"
+    }
+  ],
+  "iso639-3": "snk"
+}

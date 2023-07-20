@@ -1,0 +1,89 @@
+{
+  "pk": 8399,
+  "hid": "igm",
+  "father_pk": 5936,
+  "family_pk": 143,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kanggape [kang1291][igm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10654",
+        "label": "Kanggape"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6362743",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kanggape_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "590199",
+        "wordlist_or_less",
+        1974,
+        17,
+        "John A. Z'graggen 1974"
+      ],
+      [
+        "306728",
+        "wordlist_or_less",
+        1972,
+        15,
+        "John A. Z'graggen 1972"
+      ],
+      [
+        "40621",
+        "wordlist_or_less",
+        1951,
+        2,
+        "Arthur Capell 1951-1952"
+      ]
+    ]
+  },
+  "id": "kang1291",
+  "name": "Kanggape",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.4153,
+  "longitude": 144.816,
+  "classification": [
+    {
+      "name": "Lower Sepik-Ramu",
+      "id": "lowe1437",
+      "url": "https://glottolog.org/resource/languoid/id/lowe1437"
+    },
+    {
+      "name": "Ramu",
+      "id": "ramu1234",
+      "url": "https://glottolog.org/resource/languoid/id/ramu1234"
+    },
+    {
+      "name": "Goam",
+      "id": "goam1234",
+      "url": "https://glottolog.org/resource/languoid/id/goam1234"
+    },
+    {
+      "name": "Ataitan",
+      "id": "tang1354",
+      "url": "https://glottolog.org/resource/languoid/id/tang1354"
+    },
+    {
+      "name": "Tangu-Igom",
+      "id": "tang1375",
+      "url": "https://glottolog.org/resource/languoid/id/tang1375"
+    }
+  ],
+  "iso639-3": "igm"
+}

@@ -1,0 +1,95 @@
+{
+  "pk": 6406,
+  "hid": "poo",
+  "father_pk": 4358,
+  "family_pk": 214,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Hopland [hopl1239]':1,'Point Arena [poin1246]':1,'Ukiah [ukia1238]':1)'Central Pomo [cent2138][poo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1532",
+        "label": "Central Pomo"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3396020",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Central_Pomo_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_pmc",
+        "label": "Pomo (Central)"
+      }
+    ],
+    "meds": [
+      [
+        "177428",
+        "phonology_or_text",
+        1993,
+        21,
+        "Marianne Mithun 1993"
+      ],
+      [
+        "38697",
+        "phonology_or_text",
+        1988,
+        21,
+        "Mithun, Marianne 1988"
+      ],
+      [
+        "157804",
+        "wordlist_or_less",
+        1908,
+        16,
+        "Barrett, Samuel A. 1908"
+      ],
+      [
+        "161830",
+        "wordlist_or_less",
+        1853,
+        2,
+        "George Gibbs 1853"
+      ]
+    ]
+  },
+  "id": "cent2138",
+  "name": "Central Pomo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 38.90547,
+  "longitude": -123.66393,
+  "classification": [
+    {
+      "name": "Pomoan",
+      "id": "pomo1273",
+      "url": "https://glottolog.org/resource/languoid/id/pomo1273"
+    },
+    {
+      "name": "Russian River and Eastern",
+      "id": "russ1265",
+      "url": "https://glottolog.org/resource/languoid/id/russ1265"
+    },
+    {
+      "name": "Russian River",
+      "id": "russ1266",
+      "url": "https://glottolog.org/resource/languoid/id/russ1266"
+    },
+    {
+      "name": "Northern-Central Pomoan",
+      "id": "nort2965",
+      "url": "https://glottolog.org/resource/languoid/id/nort2965"
+    }
+  ],
+  "iso639-3": "poo"
+}

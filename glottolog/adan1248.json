@@ -1,0 +1,83 @@
+{
+  "pk": 12855,
+  "hid": "adq",
+  "father_pk": 9903,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Adangbe [adan1248][adq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q34730",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Agotime_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "70182",
+        "phonology_or_text",
+        1967,
+        78,
+        "R. G. S. Sprigge 1967"
+      ],
+      [
+        "66179",
+        "wordlist_or_less",
+        1854,
+        1,
+        "Koelle, Sigismund W. 1854"
+      ]
+    ]
+  },
+  "id": "adan1248",
+  "name": "Adangbe",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.50546,
+  "longitude": 0.727155,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Kwa Volta-Congo",
+      "id": "kwav1236",
+      "url": "https://glottolog.org/resource/languoid/id/kwav1236"
+    },
+    {
+      "name": "Gbe",
+      "id": "gbee1241",
+      "url": "https://glottolog.org/resource/languoid/id/gbee1241"
+    },
+    {
+      "name": "Western Gbe",
+      "id": "west2802",
+      "url": "https://glottolog.org/resource/languoid/id/west2802"
+    },
+    {
+      "name": "Eweic",
+      "id": "ewei1234",
+      "url": "https://glottolog.org/resource/languoid/id/ewei1234"
+    }
+  ],
+  "iso639-3": "adq"
+}

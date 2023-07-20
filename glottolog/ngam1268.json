@@ -1,0 +1,124 @@
+{
+  "pk": 14456,
+  "hid": "sba",
+  "father_pk": 11387,
+  "family_pk": 140,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bemar [bema1240]':1,'Benoye [beno1238]':1,'Kere [kere1284]':1,'Lara [lara1259]':1,'Murum [muru1268]':1)'Ngambay [ngam1268][sba]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ngm",
+        "label": "Ngambay"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ngambay_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/ngam1268",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2372207",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "108964",
+        "long_grammar",
+        1971,
+        506,
+        "Thayer, Linda Jean and Thayer, James Edward 1971"
+      ],
+      [
+        "119942",
+        "grammar",
+        1963,
+        223,
+        "Vandame, Charles 1963"
+      ],
+      [
+        "99252",
+        "grammar",
+        1961,
+        111,
+        "Vandame, Charles 1961"
+      ],
+      [
+        "107153",
+        "grammar",
+        1960,
+        0,
+        "Veary, Victor 1960"
+      ],
+      [
+        "109367",
+        "grammar",
+        1953,
+        0,
+        "Duperray, Bernard 1953"
+      ],
+      [
+        "159456",
+        "wordlist_or_less",
+        1851,
+        23,
+        "Petermann, A. 1851"
+      ]
+    ]
+  },
+  "id": "ngam1268",
+  "name": "Ngambay",
+  "description": null,
+  "markup_description": null,
+  "latitude": 8.57051,
+  "longitude": 15.414,
+  "classification": [
+    {
+      "name": "Central Sudanic",
+      "id": "cent2225",
+      "url": "https://glottolog.org/resource/languoid/id/cent2225"
+    },
+    {
+      "name": "Sara-Bongo-Bagirmi",
+      "id": "sara1341",
+      "url": "https://glottolog.org/resource/languoid/id/sara1341"
+    },
+    {
+      "name": "SBB Occidental",
+      "id": "sbbo1237",
+      "url": "https://glottolog.org/resource/languoid/id/sbbo1237"
+    },
+    {
+      "name": "Nuclear SBB Occidental",
+      "id": "nucl1719",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1719"
+    },
+    {
+      "name": "Saraic",
+      "id": "sara1349",
+      "url": "https://glottolog.org/resource/languoid/id/sara1349"
+    },
+    {
+      "name": "Sara Central",
+      "id": "cent2044",
+      "url": "https://glottolog.org/resource/languoid/id/cent2044"
+    },
+    {
+      "name": "Sara Central Logone",
+      "id": "sara1345",
+      "url": "https://glottolog.org/resource/languoid/id/sara1345"
+    }
+  ],
+  "iso639-3": "sba"
+}

@@ -1,0 +1,76 @@
+{
+  "pk": 6582,
+  "hid": "imo",
+  "father_pk": 4532,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Awa [awaa1246]':1)'Imbongu [imbo1238][imo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12632895",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "302729",
+        "grammar_sketch",
+        1987,
+        48,
+        "Stefaniw, Roman 1987"
+      ],
+      [
+        "71344",
+        "phonology_or_text",
+        1964,
+        48,
+        "Pence, Alan R. 1964"
+      ],
+      [
+        "15483",
+        "wordlist_or_less",
+        1948,
+        1,
+        "Arthur Capell 1948-1949"
+      ]
+    ]
+  },
+  "id": "imbo1238",
+  "name": "Imbongu",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.13629,
+  "longitude": 144.026,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Chimbu-Wahgi",
+      "id": "cent2120",
+      "url": "https://glottolog.org/resource/languoid/id/cent2120"
+    },
+    {
+      "name": "Hagen",
+      "id": "hage1248",
+      "url": "https://glottolog.org/resource/languoid/id/hage1248"
+    },
+    {
+      "name": "Aua-Gawil",
+      "id": "auag1234",
+      "url": "https://glottolog.org/resource/languoid/id/auag1234"
+    }
+  ],
+  "iso639-3": "imo"
+}

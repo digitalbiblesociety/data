@@ -1,0 +1,96 @@
+{
+  "pk": 9557,
+  "hid": "row",
+  "father_pk": 6909,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dela [dela1252]':1,'Oenale [oena1237]':1)'Dela-Oenale [dela1251][row]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/8450",
+        "label": "Dela-Oenale"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5253046",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dela-Oenale_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "647089",
+        "long_grammar",
+        2021,
+        549,
+        "Thersia Magdalena Tamelan 2021"
+      ],
+      [
+        "647091",
+        "phonology_or_text",
+        2008,
+        51,
+        "Thersia Magdalena Tamelan 2008"
+      ],
+      [
+        "68931",
+        "phonology_or_text",
+        1913,
+        6,
+        "J. C. G. Jonker 1913"
+      ],
+      [
+        "574615",
+        "wordlist_or_less",
+        1889,
+        3,
+        "D.P. Manafe 1889"
+      ]
+    ]
+  },
+  "id": "dela1251",
+  "name": "Dela-Oenale",
+  "description": null,
+  "markup_description": null,
+  "latitude": -10.8469,
+  "longitude": 122.852,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Timor-Babar",
+      "id": "timo1265",
+      "url": "https://glottolog.org/resource/languoid/id/timo1265"
+    },
+    {
+      "name": "Rote-Meto",
+      "id": "rote1234",
+      "url": "https://glottolog.org/resource/languoid/id/rote1234"
+    },
+    {
+      "name": "West Rote",
+      "id": "west2955",
+      "url": "https://glottolog.org/resource/languoid/id/west2955"
+    }
+  ],
+  "iso639-3": "row"
+}

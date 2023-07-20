@@ -1,0 +1,85 @@
+{
+  "pk": 3720,
+  "hid": "xve",
+  "father_pk": 2045,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Venetic [vene1257][xve]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "xve",
+      "comment_type": "missing",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "A number of ancient European and Ancient Near Eastern languages are not listed in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26. One of them is Venetic (**hh:sv:Lejeune:Venete**, **hh:s:Wallace:Venetic**)."
+    },
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q36871",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Venetic_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "85533",
+        "grammar_sketch",
+        1974,
+        171,
+        "Michel Lejeune 1974"
+      ],
+      [
+        "136874",
+        "grammar_sketch",
+        1949,
+        64,
+        "Beeler, Madison Scott 1949"
+      ]
+    ]
+  },
+  "id": "vene1257",
+  "name": "Venetic",
+  "description": null,
+  "markup_description": null,
+  "latitude": 45.601,
+  "longitude": 12.059,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Italic",
+      "id": "ital1284",
+      "url": "https://glottolog.org/resource/languoid/id/ital1284"
+    }
+  ],
+  "iso639-3": "xve"
+}

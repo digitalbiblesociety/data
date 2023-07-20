@@ -1,0 +1,77 @@
+{
+  "pk": 7280,
+  "hid": "ykt",
+  "father_pk": 4943,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Thou-Kathu [kath1251][ykt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5193",
+        "label": "Kathu"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6377155",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Thou-Kathu_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "478595",
+        "grammar_sketch",
+        2004,
+        28,
+        "Wu, Zili 2004"
+      ],
+      [
+        "131684",
+        "grammar_sketch",
+        1994,
+        11,
+        "Wu, Zili 1994"
+      ]
+    ]
+  },
+  "id": "kath1251",
+  "name": "Thou-Kathu",
+  "description": null,
+  "markup_description": null,
+  "latitude": 24.2,
+  "longitude": 105.1,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Burmo-Qiangic",
+      "id": "burm1265",
+      "url": "https://glottolog.org/resource/languoid/id/burm1265"
+    },
+    {
+      "name": "Lolo-Burmese",
+      "id": "lolo1265",
+      "url": "https://glottolog.org/resource/languoid/id/lolo1265"
+    },
+    {
+      "name": "Mondzish",
+      "id": "mond1269",
+      "url": "https://glottolog.org/resource/languoid/id/mond1269"
+    }
+  ],
+  "iso639-3": "ykt"
+}

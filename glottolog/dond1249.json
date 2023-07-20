@@ -1,0 +1,87 @@
+{
+  "pk": 12127,
+  "hid": "dok",
+  "father_pk": 9243,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Dondo [dond1249][dok]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1485",
+        "label": "Dondo"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5295571",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dondo_language_(Austronesian)",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "153709",
+        "grammar_sketch",
+        1984,
+        121,
+        "Garantjang, Ahmad and Dahlan Kadjia and Hasan Basri and Nuhung, {} 1984"
+      ],
+      [
+        "63583",
+        "wordlist_or_less",
+        1979,
+        2,
+        "Donald F. Barr and Sharon G. Barr and C. Salombe 1979"
+      ]
+    ]
+  },
+  "id": "dond1249",
+  "name": "Dondo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 0.80348,
+  "longitude": 120.707,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Celebic",
+      "id": "cele1242",
+      "url": "https://glottolog.org/resource/languoid/id/cele1242"
+    },
+    {
+      "name": "Greater Eastern Celebic",
+      "id": "grea1299",
+      "url": "https://glottolog.org/resource/languoid/id/grea1299"
+    },
+    {
+      "name": "Tominic",
+      "id": "tomi1242",
+      "url": "https://glottolog.org/resource/languoid/id/tomi1242"
+    },
+    {
+      "name": "Northern Tomini",
+      "id": "nort2897",
+      "url": "https://glottolog.org/resource/languoid/id/nort2897"
+    }
+  ],
+  "iso639-3": "dok"
+}

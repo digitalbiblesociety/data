@@ -1,0 +1,96 @@
+{
+  "pk": 9459,
+  "hid": "nxl",
+  "father_pk": 6849,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'South Nuaulu [sout2895][nxl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nua",
+        "label": "Nuaulu"
+      },
+      {
+        "url": "https://phoible.org/languages/sout2895",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q18544857",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "103490",
+        "grammar",
+        1990,
+        197,
+        "Rosemary Ann Bolton 1990"
+      ],
+      [
+        "129224",
+        "phonology_or_text",
+        1989,
+        31,
+        "Bolton, Rosemary A. 1989"
+      ],
+      [
+        "148049",
+        "wordlist_or_less",
+        1981,
+        18,
+        "Stokhof, W. A. L. 1981"
+      ],
+      [
+        "586950",
+        "wordlist_or_less",
+        1977,
+        23,
+        "Ellen, R. F. 1977"
+      ]
+    ]
+  },
+  "id": "sout2895",
+  "name": "South Nuaulu",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.23411,
+  "longitude": 129.148,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Nunusaku",
+      "id": "nunu1252",
+      "url": "https://glottolog.org/resource/languoid/id/nunu1252"
+    },
+    {
+      "name": "Patakai-Manusela",
+      "id": "pata1263",
+      "url": "https://glottolog.org/resource/languoid/id/pata1263"
+    },
+    {
+      "name": "Patakai",
+      "id": "nuau1240",
+      "url": "https://glottolog.org/resource/languoid/id/nuau1240"
+    }
+  ],
+  "iso639-3": "nxl"
+}

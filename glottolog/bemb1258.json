@@ -1,0 +1,63 @@
+{
+  "pk": 855,
+  "hid": "bmy",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Bemba {Democratic Republic of Congo} [bemb1258][bmy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "bmy",
+      "name": "Bemba (Democratic Republic of Congo)",
+      "change_request": "2014-031",
+      "effective": "2015-01-12",
+      "reason": "non-existent",
+      "change_to": [],
+      "remedy": "Retire",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q13123488",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "101082",
+        "grammar_sketch",
+        1963,
+        0,
+        "Sharman, J.C. 1963"
+      ],
+      [
+        "63395",
+        "phonology_or_text",
+        1960,
+        239,
+        "Hoch, E. 1960"
+      ]
+    ]
+  },
+  "id": "bemb1258",
+  "name": "Bemba (Democratic Republic of Congo)",
+  "description": null,
+  "markup_description": null,
+  "latitude": -10,
+  "longitude": 28.08,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "bmy"
+}

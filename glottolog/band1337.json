@@ -1,0 +1,70 @@
+{
+  "pk": 625,
+  "hid": "bjd",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Bandjigali [band1337][bjd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "bjd",
+      "name": "Bandjigali",
+      "change_request": "2011-145",
+      "effective": "2012-02-03",
+      "reason": "merge",
+      "change_to": [
+        "drl"
+      ],
+      "remedy": "Merged into [drl] Darling and renamed Paakantyi",
+      "comment": "In addition to this change in primary name, there is also evidence that\nPaakantyi should be merged with Bandjigali (bjd), which Ethnologue classifies as\na separate language (Bowern 2011b; AUSTLANG 2011).\n\nWafer and Lisserrague state that \"Hercus has demonstrated in detail (1980, 1982,\n1989, 1993, 1994) that the various distinct but closely related language\nvarieties in this group... are dialects of a single language. She divides the\n\"Darling River (Paakantyi) Language Group\" into the 'northern dialects' and the\n'southern dialects'\" (2008: 264).\n\nBandjigali (bjd) is considered by Bowern (2011b), AUSTLANG, and Wafer and\nLisserague (2008: 263, 276) to be one of many dialects of Paakanti and it should\nbe merged with Paakantyi. Wafer and Lisserague follow Hercus 1993 in how she\ngroups the dialects:\n\nPaakantyi: language\n\n1. Northern Paakantyi (Northern Darling River): Dialect Group (2008: 263)\n    - Paaruntyi: Dialect (2008: 268)\n    - Kurnu: Dialect (2008: 269)\n    - Nhaawuparlku: Dialect (2008: 270)\n    - Milpulo: Dialect (2008: 271)\n\n2. Southern Paakantyi (Southern Darling River): Dialect Group (2008: 263)\n    - Wilyaali: Dialect (2008: 272)\n    - Thangkaali: Dialect (2008: 273)\n    - Pulaali: Dialect (2008: 274)\n    - Wanyuparlku: Dialect (2008: 275)\n    - Pantyikali: (Ethnologue's Bandjigali, bjd) Dialect (2008: 276)\n    - Marrawarra: Dialect (2008: 277)\n    - Southern Paakantyi (Proper): Dialect (2008: 278)\n    - Parrintyi: Dialect (2008: 279)\n\nPaakantyi is still considered to be the sole member of a subgroup variously\ncalled Paakantyi by Bowern (2010a) and AUSTLANG (2011) and Darling River Group\nby Lissarrague and Wafer (2008: 263). This subgroup is part of the Pama-Nyungan\nfamily."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/d17",
+        "label": "Pantyikali"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Pantyikali_dialect",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/band1337",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q10425920",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "180",
+        "phonology_or_text",
+        1993,
+        49,
+        "Hercus, Luise Anna 1993"
+      ]
+    ]
+  },
+  "id": "band1337",
+  "name": "Bandjigali",
+  "description": null,
+  "markup_description": null,
+  "latitude": -30.0771,
+  "longitude": 143.282,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "bjd"
+}

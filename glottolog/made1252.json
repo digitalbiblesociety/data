@@ -1,0 +1,94 @@
+{
+  "pk": 12799,
+  "hid": "msj",
+  "father_pk": 9866,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ma {Democratic Republic of Congo} [made1252][msj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6720909",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ma_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ma",
+        "label": "Ma"
+      }
+    ],
+    "meds": [
+      [
+        "45145",
+        "grammar_sketch",
+        1986,
+        35,
+        "Pasch, Helma 1986"
+      ],
+      [
+        "73735",
+        "wordlist_or_less",
+        1912,
+        31,
+        "Dupont, M. 1912"
+      ],
+      [
+        "159784",
+        "wordlist_or_less",
+        1888,
+        9,
+        "Junker, W. 1888/1889"
+      ]
+    ]
+  },
+  "id": "made1252",
+  "name": "Ma (Democratic Republic of Congo)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 3.69351,
+  "longitude": 26.9939,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "North Volta-Congo",
+      "id": "nort3149",
+      "url": "https://glottolog.org/resource/languoid/id/nort3149"
+    },
+    {
+      "name": "Cameroun-Ubangian",
+      "id": "came1255",
+      "url": "https://glottolog.org/resource/languoid/id/came1255"
+    },
+    {
+      "name": "Ubangi",
+      "id": "uban1244",
+      "url": "https://glottolog.org/resource/languoid/id/uban1244"
+    },
+    {
+      "name": "Mbaic",
+      "id": "mbai1246",
+      "url": "https://glottolog.org/resource/languoid/id/mbai1246"
+    }
+  ],
+  "iso639-3": "msj"
+}

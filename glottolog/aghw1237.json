@@ -1,0 +1,100 @@
+{
+  "pk": 13784,
+  "hid": "xag",
+  "father_pk": 10678,
+  "family_pk": 426,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Aghwan [aghw1237][xag]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "xag",
+      "comment_type": "missing",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "Aghwan or Caucasian Albanian, an extinct but amply attested Lezgic language, is missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 (**hh:st:Gippertetal:Caucasian-Albanian**, **hh:ld:Greppin:Caucasian-Albanians**)."
+    },
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q34931",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Caucasian_Albanian_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "317706",
+        "grammar_sketch",
+        2008,
+        280,
+        "Gippert, Jost and Wolfgang Schulze and Zaza Aleksidze and Jean-Pierre Mahe 2008"
+      ],
+      [
+        "73002",
+        "wordlist_or_less",
+        1982,
+        20,
+        "Greppin, John A. C. 1982"
+      ]
+    ]
+  },
+  "id": "aghw1237",
+  "name": "Aghwan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 40.374444,
+  "longitude": 47.126667,
+  "classification": [
+    {
+      "name": "Nakh-Daghestanian",
+      "id": "nakh1245",
+      "url": "https://glottolog.org/resource/languoid/id/nakh1245"
+    },
+    {
+      "name": "Daghestanian",
+      "id": "dagh1238",
+      "url": "https://glottolog.org/resource/languoid/id/dagh1238"
+    },
+    {
+      "name": "Lezgic",
+      "id": "lezg1248",
+      "url": "https://glottolog.org/resource/languoid/id/lezg1248"
+    },
+    {
+      "name": "Samur",
+      "id": "nucl1321",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1321"
+    },
+    {
+      "name": "Eastern Samur",
+      "id": "east2790",
+      "url": "https://glottolog.org/resource/languoid/id/east2790"
+    },
+    {
+      "name": "Udi-Aghwan",
+      "id": "udia1235",
+      "url": "https://glottolog.org/resource/languoid/id/udia1235"
+    }
+  ],
+  "iso639-3": "xag"
+}

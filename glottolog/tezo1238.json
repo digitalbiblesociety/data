@@ -1,0 +1,104 @@
+{
+  "pk": 11770,
+  "hid": "mxb",
+  "father_pk": 8965,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Tezoatlán [tezo1239]':1,'Yucu Ñuti [yucu1251]':1)'Tezoatlán Mixtec [tezo1238][mxb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10536",
+        "label": "Tezoatlan Mixtec"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3317286",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "22566",
+        "long_grammar",
+        2007,
+        309,
+        "Ferguson de Williams, Judith 2007"
+      ],
+      [
+        "147019",
+        "grammar",
+        2006,
+        0,
+        "Williams, Judith 2006"
+      ],
+      [
+        "109846",
+        "phonology_or_text",
+        2003,
+        0,
+        "Williams, Judith and Torres Benavides, Liborio and Ojeda M., Gerardo 2003"
+      ],
+      [
+        "305325",
+        "phonology_or_text",
+        1991,
+        128,
+        "Williams, John L. 1991"
+      ],
+      [
+        "76972",
+        "wordlist_or_less",
+        1983,
+        5,
+        "Josserand, Judy Kathryn 1983"
+      ]
+    ]
+  },
+  "id": "tezo1238",
+  "name": "Tezoatlán Mixtec",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.6155,
+  "longitude": -97.9002,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Amuzgo-Mixtecan",
+      "id": "amuz1253",
+      "url": "https://glottolog.org/resource/languoid/id/amuz1253"
+    },
+    {
+      "name": "Mixtecan",
+      "id": "mixt1422",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1422"
+    },
+    {
+      "name": "Mixtec-Cuicatec",
+      "id": "mixt1423",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1423"
+    },
+    {
+      "name": "Mixtec",
+      "id": "mixt1427",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1427"
+    }
+  ],
+  "iso639-3": "mxb"
+}

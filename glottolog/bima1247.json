@@ -1,0 +1,83 @@
+{
+  "pk": 4596,
+  "hid": "bhp",
+  "father_pk": 2940,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Donggo [dong1302]':1,'Kolo {Indonesia} [kolo1266]':1,'Mbojo [mboj1237]':1,'Nuclear Bima [nucl1518]':1,'Toloweri [tolo1256]':1)'Bima [bima1247][bhp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10888",
+        "label": "Bima"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2796873",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bima_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bim",
+        "label": "Bima"
+      }
+    ],
+    "meds": [
+      [
+        "139157",
+        "long_grammar",
+        1896,
+        502,
+        "Jonker, Johann Christoph Gerhard 1896"
+      ],
+      [
+        "309500",
+        "wordlist_or_less",
+        1841,
+        42,
+        "Roorda van Eysinga, P. P. 1841"
+      ],
+      [
+        "158330",
+        "wordlist_or_less",
+        1834,
+        2,
+        "William Marsden 1834"
+      ]
+    ]
+  },
+  "id": "bima1247",
+  "name": "Bima",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.57376,
+  "longitude": 118.445,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Bima-Lembata",
+      "id": "bima1248",
+      "url": "https://glottolog.org/resource/languoid/id/bima1248"
+    }
+  ],
+  "iso639-3": "bhp"
+}

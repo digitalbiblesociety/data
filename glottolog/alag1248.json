@@ -1,0 +1,107 @@
+{
+  "pk": 8227,
+  "hid": "wbj",
+  "father_pk": 5774,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Alagwa [alag1248][wbj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5988",
+        "label": "Alagwa"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56621",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Alagwa_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_agw",
+        "label": "Alagwa"
+      }
+    ],
+    "meds": [
+      [
+        "550916",
+        "long_grammar",
+        2016,
+        369,
+        "Mous, Maarten 2016"
+      ],
+      [
+        "545178",
+        "grammar",
+        2001,
+        0,
+        "na 2001"
+      ],
+      [
+        "24007",
+        "grammar_sketch",
+        1992,
+        0,
+        "Mous, Maarten 1992"
+      ],
+      [
+        "124354",
+        "phonology_or_text",
+        1975,
+        11,
+        "Zaborski, Andrzej 1975"
+      ],
+      [
+        "59138",
+        "wordlist_or_less",
+        1900,
+        2,
+        "Kannenberg, Carl [Hauptmann] 1900"
+      ]
+    ]
+  },
+  "id": "alag1248",
+  "name": "Alagwa",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.64148,
+  "longitude": 35.7231,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Cushitic",
+      "id": "cush1243",
+      "url": "https://glottolog.org/resource/languoid/id/cush1243"
+    },
+    {
+      "name": "South Cushitic",
+      "id": "sout3054",
+      "url": "https://glottolog.org/resource/languoid/id/sout3054"
+    },
+    {
+      "name": "West Rift South Cushitic",
+      "id": "west2720",
+      "url": "https://glottolog.org/resource/languoid/id/west2720"
+    },
+    {
+      "name": "Northern West Rift South Cushitic",
+      "id": "nort3164",
+      "url": "https://glottolog.org/resource/languoid/id/nort3164"
+    }
+  ],
+  "iso639-3": "wbj"
+}

@@ -1,0 +1,105 @@
+{
+  "pk": 1104,
+  "hid": "blc",
+  "father_pk": 166,
+  "family_pk": 166,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kimsquit [kims1241]':1,'Nuxalk [nuxa1234]':1,'Tallio [tall1255]':1)'Bella Coola [bell1243][blc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bco",
+        "label": "Bella Coola"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/1676",
+        "label": "Nuxalk"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nuxalk_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/bell1243",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q977808",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "21799",
+        "grammar",
+        1997,
+        191,
+        "Philip W. Davis and Ross Saunders 1997"
+      ],
+      [
+        "155202",
+        "grammar",
+        1984,
+        189,
+        "Hank F. Nater 1984"
+      ],
+      [
+        "124698",
+        "grammar",
+        1978,
+        29,
+        "Davis, Philip W. and Saunders, Ross 1978"
+      ],
+      [
+        "125617",
+        "phonology_or_text",
+        1947,
+        6,
+        "Newman, S. 1947"
+      ],
+      [
+        "313881",
+        "wordlist_or_less",
+        1891,
+        6,
+        "E. B. Tylor and W. Bloxam and Daniel Wilson and G. M. Dawson and H. Lefroy and R. G. Haliburton 1891"
+      ],
+      [
+        "27878",
+        "wordlist_or_less",
+        1836,
+        4,
+        "Albert Gallatin 1836"
+      ],
+      [
+        "321033",
+        "wordlist_or_less",
+        1801,
+        0,
+        "Alexander MaxKenzie 1801"
+      ]
+    ]
+  },
+  "id": "bell1243",
+  "name": "Bella Coola",
+  "description": null,
+  "markup_description": null,
+  "latitude": 52.3448,
+  "longitude": -126.689,
+  "classification": [
+    {
+      "name": "Salishan",
+      "id": "sali1255",
+      "url": "https://glottolog.org/resource/languoid/id/sali1255"
+    }
+  ],
+  "iso639-3": "blc"
+}

@@ -1,0 +1,97 @@
+{
+  "pk": 3644,
+  "hid": "arr",
+  "father_pk": 1979,
+  "family_pk": 51,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Karo [karo1306]':1)'Karo {Brazil} [karo1305][arr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1368",
+        "label": "Karo (Brazil)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35539",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ramarama_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kaa",
+        "label": "Karó (Arára)"
+      }
+    ],
+    "meds": [
+      [
+        "125332",
+        "long_grammar",
+        1999,
+        320,
+        "Gabas, Jr., Nilson 1999"
+      ],
+      [
+        "82124",
+        "phonology_or_text",
+        1989,
+        91,
+        "Gabas, Jr., Nilson 1989"
+      ],
+      [
+        "148033",
+        "wordlist_or_less",
+        1959,
+        23,
+        "Hugo, Vitor 1959"
+      ],
+      [
+        "131050",
+        "wordlist_or_less",
+        1945,
+        23,
+        "Horta Barbosa, Nicolau Bueno 1945"
+      ],
+      [
+        "67885",
+        "wordlist_or_less",
+        1925,
+        3,
+        "Curt Nimuendajú 1925"
+      ]
+    ]
+  },
+  "id": "karo1305",
+  "name": "Karo (Brazil)",
+  "description": null,
+  "markup_description": null,
+  "latitude": -10.3342,
+  "longitude": -61.5691,
+  "classification": [
+    {
+      "name": "Tupian",
+      "id": "tupi1275",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1275"
+    },
+    {
+      "name": "Purubora-Ramarama",
+      "id": "puru1268",
+      "url": "https://glottolog.org/resource/languoid/id/puru1268"
+    },
+    {
+      "name": "Ramarama",
+      "id": "rama1257",
+      "url": "https://glottolog.org/resource/languoid/id/rama1257"
+    }
+  ],
+  "iso639-3": "arr"
+}

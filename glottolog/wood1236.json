@@ -1,0 +1,78 @@
+{
+  "pk": 8792,
+  "hid": "cwd",
+  "father_pk": 6287,
+  "family_pk": 178,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Woods Cree [wood1236][cwd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56305",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Woods_Cree",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "84898",
+        "long_grammar",
+        1992,
+        446,
+        "Starks, Donna Joy 1992"
+      ],
+      [
+        "81170",
+        "long_grammar",
+        1844,
+        343,
+        "J. Howse 1844"
+      ]
+    ]
+  },
+  "id": "wood1236",
+  "name": "Woods Cree",
+  "description": null,
+  "markup_description": null,
+  "latitude": 57,
+  "longitude": -99,
+  "classification": [
+    {
+      "name": "Algic",
+      "id": "algi1248",
+      "url": "https://glottolog.org/resource/languoid/id/algi1248"
+    },
+    {
+      "name": "Algonquian-Blackfoot",
+      "id": "algo1256",
+      "url": "https://glottolog.org/resource/languoid/id/algo1256"
+    },
+    {
+      "name": "Algonquian",
+      "id": "algo1257",
+      "url": "https://glottolog.org/resource/languoid/id/algo1257"
+    },
+    {
+      "name": "Cree-Montagnais-Naskapi",
+      "id": "cree1271",
+      "url": "https://glottolog.org/resource/languoid/id/cree1271"
+    },
+    {
+      "name": "Cree",
+      "id": "cree1272",
+      "url": "https://glottolog.org/resource/languoid/id/cree1272"
+    }
+  ],
+  "iso639-3": "cwd"
+}

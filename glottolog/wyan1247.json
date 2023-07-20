@@ -1,0 +1,103 @@
+{
+  "pk": 3323,
+  "hid": "wya",
+  "father_pk": 1746,
+  "family_pk": 357,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Petun [petu1235]':1,'Wyandot [nucl1648]':1)'Petun-Wyandot [petu1234][wyn]':1,('Cord Huron [cord1234]':1,'Lorette Huron [huro1249]':1,'Northern Bear Huron [nort3303]':1,'Rock Huron [rock1235]':1,'Southern Bear Huron [sout3287]':1)'Wendat [wend1234][wdt]':1)'Huron-Wyandot [wyan1247][wya]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 9,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "wya",
+      "name": "Wyandot",
+      "change_request": "2021-041",
+      "effective": "2022-01-20",
+      "reason": "split",
+      "change_to": [
+        "wyn",
+        "wdt"
+      ],
+      "remedy": "Split into Wyandot [wyn] and Wendat [wdt]",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_wya",
+        "label": "Wyandot"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3567223",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "664787",
+        "long_grammar",
+        2018,
+        374,
+        "Megan Elizabeth Lukaniec 2018"
+      ],
+      [
+        "50664",
+        "grammar",
+        2001,
+        262,
+        "Kopris, Craig Alexander 2001"
+      ],
+      [
+        "67646",
+        "grammar",
+        1980,
+        222,
+        "P. L. Lagarde 1980"
+      ],
+      [
+        "569859",
+        "phonology_or_text",
+        1640,
+        268,
+        "Chaumonot, Pierre Joseph Marie 1640"
+      ],
+      [
+        "96778",
+        "phonology_or_text",
+        1632,
+        158,
+        "Gabriel Sagard 1632"
+      ],
+      [
+        "573998",
+        "phonology_or_text",
+        1630,
+        40,
+        "Ledesme, R. P. 1630"
+      ]
+    ]
+  },
+  "id": "wyan1247",
+  "name": "Huron-Wyandot",
+  "description": null,
+  "markup_description": null,
+  "latitude": 44.33,
+  "longitude": -77.5,
+  "classification": [
+    {
+      "name": "Iroquoian",
+      "id": "iroq1247",
+      "url": "https://glottolog.org/resource/languoid/id/iroq1247"
+    },
+    {
+      "name": "Northern Iroquoian",
+      "id": "nort2947",
+      "url": "https://glottolog.org/resource/languoid/id/nort2947"
+    }
+  ],
+  "iso639-3": "wya"
+}

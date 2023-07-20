@@ -1,0 +1,111 @@
+{
+  "pk": 8929,
+  "hid": "gvc",
+  "father_pk": 6450,
+  "family_pk": 242,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kotiria [guan1269][gvc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_gno",
+        "label": "Guanano"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/1955",
+        "label": "Wanano"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Wanano_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/guan1269",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3566001",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "314598",
+        "long_grammar",
+        2013,
+        536,
+        "Kristine Stenzel 2013"
+      ],
+      [
+        "114148",
+        "long_grammar",
+        2004,
+        452,
+        "Kristine Stenzel 2004"
+      ],
+      [
+        "46173",
+        "grammar",
+        1976,
+        151,
+        "Waltz, Nathan E. 1976"
+      ],
+      [
+        "106201",
+        "grammar_sketch",
+        1967,
+        56,
+        "Giacone, Antônio 1967"
+      ],
+      [
+        "310990",
+        "wordlist_or_less",
+        1909,
+        8,
+        "Stradelli, Ermanno 1909"
+      ]
+    ]
+  },
+  "id": "guan1269",
+  "name": "Kotiria",
+  "description": null,
+  "markup_description": null,
+  "latitude": 1.07554,
+  "longitude": -69.5705,
+  "classification": [
+    {
+      "name": "Tucanoan",
+      "id": "tuca1253",
+      "url": "https://glottolog.org/resource/languoid/id/tuca1253"
+    },
+    {
+      "name": "Eastern Tucanoan",
+      "id": "east2698",
+      "url": "https://glottolog.org/resource/languoid/id/east2698"
+    },
+    {
+      "name": "Eastern Eastern Tucanoan",
+      "id": "east2702",
+      "url": "https://glottolog.org/resource/languoid/id/east2702"
+    },
+    {
+      "name": "Eastern Eastern Tucanoan II",
+      "id": "east2708",
+      "url": "https://glottolog.org/resource/languoid/id/east2708"
+    },
+    {
+      "name": "Kotiria-Piratapuyo",
+      "id": "wana1272",
+      "url": "https://glottolog.org/resource/languoid/id/wana1272"
+    }
+  ],
+  "iso639-3": "gvc"
+}

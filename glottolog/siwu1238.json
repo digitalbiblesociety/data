@@ -1,0 +1,101 @@
+{
+  "pk": 12849,
+  "hid": "akp",
+  "father_pk": 9897,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Akpafu [akpa1243]':1,'Lolobi [lolo1260]':1)'Siwu [siwu1238][akp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q36470",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Siwu_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/siwu1238",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "320563",
+        "grammar",
+        1973,
+        210,
+        "Ford, Kevin and Iddah, Robert K. 1973"
+      ],
+      [
+        "103718",
+        "grammar_sketch",
+        1922,
+        8,
+        "Westermann, Diedrich 1922"
+      ],
+      [
+        "79179",
+        "phonology_or_text",
+        1899,
+        4,
+        "Seidel, August 1899"
+      ],
+      [
+        "106819",
+        "wordlist_or_less",
+        1898,
+        4,
+        "Seidel, August 1898"
+      ]
+    ]
+  },
+  "id": "siwu1238",
+  "name": "Siwu",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.23811,
+  "longitude": 0.44362,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Kwa Volta-Congo",
+      "id": "kwav1236",
+      "url": "https://glottolog.org/resource/languoid/id/kwav1236"
+    },
+    {
+      "name": "Na-Togo",
+      "id": "nato1234",
+      "url": "https://glottolog.org/resource/languoid/id/nato1234"
+    },
+    {
+      "name": "Lelemic",
+      "id": "lele1262",
+      "url": "https://glottolog.org/resource/languoid/id/lele1262"
+    },
+    {
+      "name": "Lelemi-Akpafu",
+      "id": "lele1263",
+      "url": "https://glottolog.org/resource/languoid/id/lele1263"
+    }
+  ],
+  "iso639-3": "akp"
+}

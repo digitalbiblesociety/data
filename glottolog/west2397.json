@@ -1,0 +1,93 @@
+{
+  "pk": 10558,
+  "hid": "brv",
+  "father_pk": 7650,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Western Bru [west2397][brv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3972",
+        "label": "Western Bru"
+      },
+      {
+        "url": "https://phoible.org/languages/west2397",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_brw",
+        "label": "Bru (Western)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q13018531",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "314457",
+        "grammar_sketch",
+        1981,
+        217,
+        "Pattiya Jimreivat 1981"
+      ],
+      [
+        "323676",
+        "phonology_or_text",
+        1980,
+        627,
+        "L. Thongkum, Theraphan and Puengpa, See 1980"
+      ],
+      [
+        "152972",
+        "wordlist_or_less",
+        1979,
+        73,
+        "Thongkum, Therapan L. 1979"
+      ]
+    ]
+  },
+  "id": "west2397",
+  "name": "Western Bru",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.4906,
+  "longitude": 104.754,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Katuic",
+      "id": "katu1271",
+      "url": "https://glottolog.org/resource/languoid/id/katu1271"
+    },
+    {
+      "name": "West Katuic",
+      "id": "west1492",
+      "url": "https://glottolog.org/resource/languoid/id/west1492"
+    },
+    {
+      "name": "Brou-So",
+      "id": "brou1236",
+      "url": "https://glottolog.org/resource/languoid/id/brou1236"
+    },
+    {
+      "name": "Western Bru-So",
+      "id": "west2870",
+      "url": "https://glottolog.org/resource/languoid/id/west2870"
+    }
+  ],
+  "iso639-3": "brv"
+}

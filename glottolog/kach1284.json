@@ -1,0 +1,86 @@
+{
+  "pk": 5085,
+  "hid": "kcx",
+  "father_pk": 3273,
+  "family_pk": 342,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ganjule [ganj1241]':1,'Ganta [gant1243]':1,'Kachama [kach1285]':1)'Kachama-Ganjule-Haro [kach1284][kcx]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4358",
+        "label": "Gats'amé"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12634070",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kachama-Ganjule_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "577298",
+        "long_grammar",
+        2017,
+        336,
+        "Sintayehu, Semu Workineh 2017"
+      ],
+      [
+        "38471",
+        "long_grammar",
+        2004,
+        329,
+        "Woldemariam, Hirut 2004"
+      ],
+      [
+        "96846",
+        "grammar",
+        2003,
+        0,
+        "Hirut, Wolde-Mariam 2003"
+      ],
+      [
+        "116451",
+        "grammar_sketch",
+        1936,
+        59,
+        "Conti Rossini, Carlo 1936"
+      ]
+    ]
+  },
+  "id": "kach1284",
+  "name": "Kachama-Ganjule-Haro",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.3971,
+  "longitude": 37.9291,
+  "classification": [
+    {
+      "name": "Ta-Ne-Omotic",
+      "id": "gong1255",
+      "url": "https://glottolog.org/resource/languoid/id/gong1255"
+    },
+    {
+      "name": "Ometo",
+      "id": "omet1238",
+      "url": "https://glottolog.org/resource/languoid/id/omet1238"
+    },
+    {
+      "name": "East Ometo",
+      "id": "east2423",
+      "url": "https://glottolog.org/resource/languoid/id/east2423"
+    }
+  ],
+  "iso639-3": "kcx"
+}

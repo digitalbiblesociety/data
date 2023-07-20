@@ -1,0 +1,97 @@
+{
+  "pk": 5188,
+  "hid": "kat",
+  "father_pk": 3360,
+  "family_pk": 378,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "((('Lower Kartlian [lowe1458]':1,'Upper Kartlian [uppe1479]':1)'Kartlian [imer1247]':1,'Meskhur-Javakhuri [mesk1241]':1)'Central Georgian [cent2387]':1,('Fereydan [fere1244]':1,'Ingilo [ingi1240]':1,'Kaxetian [kaxe1238]':1,'Tianetian [tian1239]':1)'Eastern Georgian [east2870]':1,('Moxev [moxe1238]':1,'Mtiuletian-Gudamaqrian [mtiu1238]':1,'Pshav [psha1238]':1,'Tush [tush1241]':1,'Xevsur [xevs1238]':1)'Northeast Georgian [nort3382]':1,((('Lower Imeretian [lowe1457]':1,'Upper Imeretian [uppe1478]':1)'Imeretian [imer1248]':1,'Judeo-Georgian [jude1258][jge]':1)'Imeretian-Judeo-Georgian [imer1250]':1,'Racha-Lechxum [rach1238]':1)'Northwest Georgian [nort3381]':1,('Adzhar [adzh1238]':1,'Gurian [guri1246]':1,'Imerxev [imer1249]':1)'Southwest Georgian [sout3358]':1)'Georgian [nucl1302][kat]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 27,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_geo",
+        "label": "Georgian"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Georgian_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nucl1302",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q8108",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "39350",
+        "long_grammar",
+        1995,
+        726,
+        "George B. Hewitt 1995"
+      ],
+      [
+        "68983",
+        "long_grammar",
+        1958,
+        692,
+        "Tschenkéli, Kita 1958"
+      ],
+      [
+        "477753",
+        "grammar",
+        1940,
+        278,
+        "Rudenko, B. T. 1940"
+      ],
+      [
+        "83975",
+        "grammar_sketch",
+        1905,
+        182,
+        "Dirr, Adolf 1905"
+      ],
+      [
+        "588361",
+        "grammar_sketch",
+        1670,
+        155,
+        "Francesco Maria Maggio 1670"
+      ]
+    ]
+  },
+  "id": "nucl1302",
+  "name": "Georgian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 41.850397,
+  "longitude": 43.78613,
+  "classification": [
+    {
+      "name": "Kartvelian",
+      "id": "kart1248",
+      "url": "https://glottolog.org/resource/languoid/id/kart1248"
+    },
+    {
+      "name": "Georgian-Zan",
+      "id": "geor1252",
+      "url": "https://glottolog.org/resource/languoid/id/geor1252"
+    },
+    {
+      "name": "Georgic",
+      "id": "geor1253",
+      "url": "https://glottolog.org/resource/languoid/id/geor1253"
+    }
+  ],
+  "iso639-3": "kat"
+}

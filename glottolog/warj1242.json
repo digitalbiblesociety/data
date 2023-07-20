@@ -1,0 +1,75 @@
+{
+  "pk": 5349,
+  "hid": "aml",
+  "father_pk": 3502,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Nuclear War-Jaintia [nucl1292]':1,'War-Khasi [wark1246]':1)'War-Jaintia [warj1242][aml]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56321",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/War_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "82842",
+        "grammar",
+        1975,
+        243,
+        "Alfons Weidert 1975"
+      ],
+      [
+        "478045",
+        "grammar_sketch",
+        1967,
+        63,
+        "Spencer, L. E. 1967"
+      ],
+      [
+        "143512",
+        "wordlist_or_less",
+        1904,
+        8,
+        "George A. Grierson 1904"
+      ]
+    ]
+  },
+  "id": "warj1242",
+  "name": "War-Jaintia",
+  "description": null,
+  "markup_description": null,
+  "latitude": 25.1154,
+  "longitude": 91.6266,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Khasi-Palaung",
+      "id": "khas1273",
+      "url": "https://glottolog.org/resource/languoid/id/khas1273"
+    },
+    {
+      "name": "Khasian",
+      "id": "khas1268",
+      "url": "https://glottolog.org/resource/languoid/id/khas1268"
+    }
+  ],
+  "iso639-3": "aml"
+}

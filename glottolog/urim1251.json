@@ -1,0 +1,72 @@
+{
+  "pk": 3776,
+  "hid": "urx",
+  "father_pk": 2115,
+  "family_pk": 103,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Urimo [urim1251][urx]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10575",
+        "label": "Urimo"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7900611",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Urimo_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "91400",
+        "wordlist_or_less",
+        1980,
+        1,
+        "Sanders, Arden G. and Sanders, Joy 1980"
+      ],
+      [
+        "108516",
+        "wordlist_or_less",
+        1973,
+        1,
+        "Laycock, Donald C. 1973"
+      ]
+    ]
+  },
+  "id": "urim1251",
+  "name": "Urimo",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.86066,
+  "longitude": 143.701,
+  "classification": [
+    {
+      "name": "Nuclear Torricelli",
+      "id": "nucl1708",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1708"
+    },
+    {
+      "name": "Marienberg",
+      "id": "mari1433",
+      "url": "https://glottolog.org/resource/languoid/id/mari1433"
+    },
+    {
+      "name": "Elepi-Kamasau-Marienberg",
+      "id": "elep1241",
+      "url": "https://glottolog.org/resource/languoid/id/elep1241"
+    }
+  ],
+  "iso639-3": "urx"
+}

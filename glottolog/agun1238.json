@@ -1,0 +1,87 @@
+{
+  "pk": 12856,
+  "hid": "aug",
+  "father_pk": 9903,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Aguna [agun1238][aug]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3806",
+        "label": "Aguna"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q34733",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Aguna_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "77141",
+        "wordlist_or_less",
+        2006,
+        9,
+        "Kluge, Angela 2006"
+      ],
+      [
+        "59810",
+        "wordlist_or_less",
+        1983,
+        0,
+        "Commission Nationale de Linguistique du Bénin (C.N.L.B) 1983"
+      ]
+    ]
+  },
+  "id": "agun1238",
+  "name": "Aguna",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.49256,
+  "longitude": 1.74452,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Kwa Volta-Congo",
+      "id": "kwav1236",
+      "url": "https://glottolog.org/resource/languoid/id/kwav1236"
+    },
+    {
+      "name": "Gbe",
+      "id": "gbee1241",
+      "url": "https://glottolog.org/resource/languoid/id/gbee1241"
+    },
+    {
+      "name": "Western Gbe",
+      "id": "west2802",
+      "url": "https://glottolog.org/resource/languoid/id/west2802"
+    },
+    {
+      "name": "Eweic",
+      "id": "ewei1234",
+      "url": "https://glottolog.org/resource/languoid/id/ewei1234"
+    }
+  ],
+  "iso639-3": "aug"
+}

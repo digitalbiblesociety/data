@@ -1,0 +1,71 @@
+{
+  "pk": 9366,
+  "hid": "bnu",
+  "father_pk": 6799,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Bentong [bent1237][bnu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q4890644",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bentong_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "75221",
+        "wordlist_or_less",
+        1987,
+        17,
+        "Grimes, Charles E. and Grimes, Barbara D. 1987"
+      ]
+    ]
+  },
+  "id": "bent1237",
+  "name": "Bentong",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.76004,
+  "longitude": 119.806,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "South Sulawesi",
+      "id": "sout2923",
+      "url": "https://glottolog.org/resource/languoid/id/sout2923"
+    },
+    {
+      "name": "Makassaric",
+      "id": "maka1310",
+      "url": "https://glottolog.org/resource/languoid/id/maka1310"
+    },
+    {
+      "name": "Nuclear Makassaric",
+      "id": "nucl1727",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1727"
+    }
+  ],
+  "iso639-3": "bnu"
+}

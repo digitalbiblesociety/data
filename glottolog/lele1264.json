@@ -1,0 +1,98 @@
+{
+  "pk": 12848,
+  "hid": "lef",
+  "father_pk": 9897,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Lelemi [lele1264][lef]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_llm",
+        "label": "Lelemi"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lelemi_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/lele1264",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35585",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "134489",
+        "long_grammar",
+        1973,
+        492,
+        "Edward Jay Allan 1973"
+      ],
+      [
+        "552057",
+        "grammar",
+        1966,
+        0,
+        "Schwarz, Anne 1966"
+      ],
+      [
+        "31430",
+        "grammar_sketch",
+        1910,
+        19,
+        "Westermann, Diedrich 1910"
+      ]
+    ]
+  },
+  "id": "lele1264",
+  "name": "Lelemi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.34549,
+  "longitude": 0.50746,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Kwa Volta-Congo",
+      "id": "kwav1236",
+      "url": "https://glottolog.org/resource/languoid/id/kwav1236"
+    },
+    {
+      "name": "Na-Togo",
+      "id": "nato1234",
+      "url": "https://glottolog.org/resource/languoid/id/nato1234"
+    },
+    {
+      "name": "Lelemic",
+      "id": "lele1262",
+      "url": "https://glottolog.org/resource/languoid/id/lele1262"
+    },
+    {
+      "name": "Lelemi-Akpafu",
+      "id": "lele1263",
+      "url": "https://glottolog.org/resource/languoid/id/lele1263"
+    }
+  ],
+  "iso639-3": "lef"
+}

@@ -1,0 +1,104 @@
+{
+  "pk": 5032,
+  "hid": "tsj",
+  "father_pk": 3200,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bjokapakha [bjok1234]':1,'Dirang Tshangla [dira1243]':1,'Dungsam [dung1256]':1,'Mongar-Trashigang [mong1350]':1,'Yabrang [yabr1234]':1)'Tshangla [tsha1245][tsj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q36840",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tshangla_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/tsha1245",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tgl",
+        "label": "Tshangla"
+      }
+    ],
+    "meds": [
+      [
+        "56250",
+        "long_grammar",
+        1999,
+        751,
+        "Andvik, Erik E. 1999"
+      ],
+      [
+        "142144",
+        "grammar",
+        1986,
+        214,
+        "Zhang, Jichuan 1986"
+      ],
+      [
+        "126344",
+        "grammar_sketch",
+        1968,
+        173,
+        "Das Gupta, Kamalesh 2007 [1968]"
+      ],
+      [
+        "303141",
+        "grammar_sketch",
+        1953,
+        145,
+        "L. N. Chaktavarty 1953"
+      ],
+      [
+        "442439",
+        "wordlist_or_less",
+        1897,
+        91,
+        "Stack, Edward 1897"
+      ],
+      [
+        "35573",
+        "wordlist_or_less",
+        1849,
+        10,
+        "William Robinson 1849"
+      ]
+    ]
+  },
+  "id": "tsha1245",
+  "name": "Tshangla",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.3694,
+  "longitude": 91.7741,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "Tshanglic",
+      "id": "tsha1247",
+      "url": "https://glottolog.org/resource/languoid/id/tsha1247"
+    }
+  ],
+  "iso639-3": "tsj"
+}

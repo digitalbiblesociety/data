@@ -1,0 +1,82 @@
+{
+  "pk": 663,
+  "hid": "nlr",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Ngarla on the Ashburton river south of the Hamersley range [ngar1286][nlr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "nlr",
+      "name": "Ngarla",
+      "change_request": "2012-075",
+      "effective": "2013-01-23",
+      "reason": "split",
+      "change_to": [
+        "nrk",
+        "ywg"
+      ],
+      "remedy": "Split into Ngarla [nrk] and Yinhawangka [ywg]",
+      "comment": "Dr. Bowern judges the two languages Yinhawangka and Ngarla to be different. They\nare associated with different locations, as provided on the New Code Request\nform.\n\nWe believe that Dr. Bowern's research and expertise on languages of Australia,\nas well as the support of the sources listed below are sufficient to define this\nas a distinct language."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/w40",
+        "label": "Ngarla"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/4877",
+        "label": "Ngarla"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ngarla_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/ngar1286",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3915860",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "178185",
+        "wordlist_or_less",
+        1997,
+        2,
+        "Fitzgerald, Susan 1997"
+      ],
+      [
+        "3026",
+        "wordlist_or_less",
+        1897,
+        2,
+        "Ray, Sidney H. 1897"
+      ]
+    ]
+  },
+  "id": "ngar1286",
+  "name": "Ngarla on the Ashburton river south of the Hamersley range",
+  "description": null,
+  "markup_description": null,
+  "latitude": -20.37356,
+  "longitude": 118.82594,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "nlr"
+}

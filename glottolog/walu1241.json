@@ -1,0 +1,104 @@
+{
+  "pk": 18491,
+  "hid": "ola",
+  "father_pk": 16174,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Walungge [walu1241][ola]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4918",
+        "label": "Walungge"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q22674847",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/walu1241",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "318815",
+        "phonology_or_text",
+        2007,
+        24,
+        "Nancy J. Caplow 2007"
+      ],
+      [
+        "128691",
+        "wordlist_or_less",
+        2001,
+        35,
+        "George van Driem 2001"
+      ],
+      [
+        "40609",
+        "wordlist_or_less",
+        1975,
+        56,
+        "Christoph von Fürer-Haimendorf 1975"
+      ]
+    ]
+  },
+  "id": "walu1241",
+  "name": "Walungge",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.695,
+  "longitude": 87.2374,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "Bodish",
+      "id": "bodi1257",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1257"
+    },
+    {
+      "name": "Early Old Tibetan",
+      "id": "oldm1245",
+      "url": "https://glottolog.org/resource/languoid/id/oldm1245"
+    },
+    {
+      "name": "Middle Old Tibetan",
+      "id": "tibe1276",
+      "url": "https://glottolog.org/resource/languoid/id/tibe1276"
+    },
+    {
+      "name": "Late Old Tibetan",
+      "id": "late1253",
+      "url": "https://glottolog.org/resource/languoid/id/late1253"
+    },
+    {
+      "name": "Central Tibetan",
+      "id": "cent2346",
+      "url": "https://glottolog.org/resource/languoid/id/cent2346"
+    },
+    {
+      "name": "South-Western Tibetic",
+      "id": "sout3216",
+      "url": "https://glottolog.org/resource/languoid/id/sout3216"
+    }
+  ],
+  "iso639-3": "ola"
+}

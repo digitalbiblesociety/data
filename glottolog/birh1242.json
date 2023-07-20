@@ -1,0 +1,89 @@
+{
+  "pk": 10606,
+  "hid": "biy",
+  "father_pk": 7711,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Birhor [birh1242][biy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1602",
+        "label": "Birhor"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3450469",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Birhor_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "573191",
+        "grammar_sketch",
+        1955,
+        7,
+        "Sen, B. K., and J. Sen 1955"
+      ],
+      [
+        "83917",
+        "wordlist_or_less",
+        1925,
+        307,
+        "Roy, Sarat Chandra 1925"
+      ],
+      [
+        "304344",
+        "wordlist_or_less",
+        1906,
+        3,
+        "George A. Grierson 1906"
+      ]
+    ]
+  },
+  "id": "birh1242",
+  "name": "Birhor",
+  "description": null,
+  "markup_description": null,
+  "latitude": 23.585,
+  "longitude": 85.5611,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Mundaic",
+      "id": "mund1335",
+      "url": "https://glottolog.org/resource/languoid/id/mund1335"
+    },
+    {
+      "name": "North Munda",
+      "id": "nort3151",
+      "url": "https://glottolog.org/resource/languoid/id/nort3151"
+    },
+    {
+      "name": "Kherwarian",
+      "id": "kher1245",
+      "url": "https://glottolog.org/resource/languoid/id/kher1245"
+    },
+    {
+      "name": "Mundaric",
+      "id": "mund1336",
+      "url": "https://glottolog.org/resource/languoid/id/mund1336"
+    }
+  ],
+  "iso639-3": "biy"
+}

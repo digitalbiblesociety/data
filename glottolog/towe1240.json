@@ -1,0 +1,74 @@
+{
+  "pk": 2186,
+  "hid": "ttn",
+  "father_pk": 1006,
+  "family_pk": 126,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Towei [towe1240][ttn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3494",
+        "label": "Towei"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7829606",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Towei_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "53456",
+        "wordlist_or_less",
+        2004,
+        11,
+        "Theresia Wambaliau 2004"
+      ],
+      [
+        "42038",
+        "wordlist_or_less",
+        1994,
+        4,
+        "Smits, Leo and Voorhoeve, C. L. 1994"
+      ],
+      [
+        "156670",
+        "wordlist_or_less",
+        1956,
+        4,
+        "Galis, Klaas Wilhelm 1956"
+      ]
+    ]
+  },
+  "id": "towe1240",
+  "name": "Towei",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.87428,
+  "longitude": 140.803,
+  "classification": [
+    {
+      "name": "Pauwasi",
+      "id": "pauw1244",
+      "url": "https://glottolog.org/resource/languoid/id/pauw1244"
+    },
+    {
+      "name": "Western Pauwasi",
+      "id": "west2611",
+      "url": "https://glottolog.org/resource/languoid/id/west2611"
+    }
+  ],
+  "iso639-3": "ttn"
+}

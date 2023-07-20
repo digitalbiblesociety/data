@@ -1,0 +1,93 @@
+{
+  "pk": 8258,
+  "hid": "bva",
+  "father_pk": 5791,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Giliya [guil1240]':1,'Jalkiya [jalk1246]':1)'Central Barain [cent2362]':1,'Komiya [komi1275]':1)'Barain [bare1279][bva]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4565",
+        "label": "Barain"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Barein_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/bare1279",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56285",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "306873",
+        "long_grammar",
+        2012,
+        311,
+        "Joseph Lovestrand 2012"
+      ],
+      [
+        "7670",
+        "grammar_sketch",
+        1949,
+        3,
+        "de Rendinger, R. 1949"
+      ],
+      [
+        "102268",
+        "wordlist_or_less",
+        1937,
+        2,
+        "Lukas, Johannes 1937"
+      ]
+    ]
+  },
+  "id": "bare1279",
+  "name": "Barain",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.970124,
+  "longitude": 17.911727,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "East Chadic",
+      "id": "east2632",
+      "url": "https://glottolog.org/resource/languoid/id/east2632"
+    },
+    {
+      "name": "East Chadic B",
+      "id": "east2633",
+      "url": "https://glottolog.org/resource/languoid/id/east2633"
+    },
+    {
+      "name": "Barainic",
+      "id": "bara1406",
+      "url": "https://glottolog.org/resource/languoid/id/bara1406"
+    }
+  ],
+  "iso639-3": "bva"
+}

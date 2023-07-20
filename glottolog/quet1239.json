@@ -1,0 +1,68 @@
+{
+  "pk": 531,
+  "hid": "pxm",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Quetzaltepec Mixe [quet1239][pxm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "pxm",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "Quetzaltepec Mixe [pxm] is given its own entry, but no positive evidence exists that this is not intelligible with other Midland Mixe varieties. While some distinctiveness as to this variety may be expected, it is arbitrary to pick this town over others in the area with the same expectation. In this sense the entry is spurious\n(p.c.~Søren Wichmann 2011)."
+    },
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4630",
+        "label": "Lowland Mixe"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56199161",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "315757",
+        "phonology_or_text",
+        2011,
+        40,
+        "Carmen Jany 2011"
+      ]
+    ]
+  },
+  "id": "quet1239",
+  "name": "Quetzaltepec Mixe",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.92147,
+  "longitude": -95.67269,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "pxm"
+}

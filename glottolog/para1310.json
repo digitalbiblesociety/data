@@ -1,0 +1,93 @@
+{
+  "pk": 3655,
+  "hid": "aap",
+  "father_pk": 1993,
+  "family_pk": 56,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Pará Arára [para1310][aap]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56807",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Par%C3%A1_Ar%C3%A1ra_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/para1310",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "553861",
+        "grammar",
+        2017,
+        223,
+        "Alves, Ana Carolina Ferreira 2017"
+      ],
+      [
+        "104854",
+        "grammar_sketch",
+        2010,
+        138,
+        "de Souza, Shirley Dias Cardoso 2010"
+      ],
+      [
+        "74046",
+        "grammar_sketch",
+        1993,
+        82,
+        "de Souza, Shirley Dias Cardoso 1993"
+      ],
+      [
+        "94033",
+        "grammar_sketch",
+        1914,
+        7,
+        "Nimuendajú, Kurt 1914"
+      ],
+      [
+        "30921",
+        "wordlist_or_less",
+        1897,
+        58,
+        "Coudreau, Henri 1897"
+      ]
+    ]
+  },
+  "id": "para1310",
+  "name": "Pará Arára",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.71263,
+  "longitude": -53.0657,
+  "classification": [
+    {
+      "name": "Cariban",
+      "id": "cari1283",
+      "url": "https://glottolog.org/resource/languoid/id/cari1283"
+    },
+    {
+      "name": "Pekodian",
+      "id": "peko1235",
+      "url": "https://glottolog.org/resource/languoid/id/peko1235"
+    },
+    {
+      "name": "Xinguan",
+      "id": "xing1247",
+      "url": "https://glottolog.org/resource/languoid/id/xing1247"
+    }
+  ],
+  "iso639-3": "aap"
+}

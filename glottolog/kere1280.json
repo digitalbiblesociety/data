@@ -1,0 +1,74 @@
+{
+  "pk": 7435,
+  "hid": "krk",
+  "father_pk": 5078,
+  "family_pk": 340,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Khatyrka [khat1250]':1,'Mainypilgino [main1271]':1,'Majngapilgino [majn1234]':1,'Xatyrka {southern Kerek} [xaty1241]':1)'Kerek [kere1280][krk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2429",
+        "label": "Kerek"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q332792",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kerek_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_krq",
+        "label": "Kerek"
+      }
+    ],
+    "meds": [
+      [
+        "140583",
+        "grammar_sketch",
+        1968,
+        24,
+        "Skorik, Pavel Ya. 1968"
+      ]
+    ]
+  },
+  "id": "kere1280",
+  "name": "Kerek",
+  "description": null,
+  "markup_description": null,
+  "latitude": 62.1777,
+  "longitude": 175.07,
+  "classification": [
+    {
+      "name": "Chukotko-Kamchatkan",
+      "id": "chuk1271",
+      "url": "https://glottolog.org/resource/languoid/id/chuk1271"
+    },
+    {
+      "name": "Chukotian",
+      "id": "chuk1272",
+      "url": "https://glottolog.org/resource/languoid/id/chuk1272"
+    },
+    {
+      "name": "Koryakic",
+      "id": "kory1247",
+      "url": "https://glottolog.org/resource/languoid/id/kory1247"
+    },
+    {
+      "name": "J-Koryakic",
+      "id": "jkor1234",
+      "url": "https://glottolog.org/resource/languoid/id/jkor1234"
+    }
+  ],
+  "iso639-3": "krk"
+}

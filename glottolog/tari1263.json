@@ -1,0 +1,152 @@
+{
+  "pk": 5749,
+  "hid": "rif",
+  "father_pk": 3803,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Eastern Middle Atlas Berber [east2803]':1,(('Beni Iznassen [beni1249]':1,('Arzeu [arze1238]':1,'Beni Oulichek [beni1251]':1,'Beni Touzine [beni1250]':1,'Guelaya [guel1234]':1,'Temsamane [tems1234]':1)'Central Rif [cent2333]':1,'Kebdana [kebd1234]':1,('Beni Bou Yhi [beni1252]':1,'Igzennaian [igze1238]':1,'Metalsa [meta1239]':1)'Southern Rif [sout3264]':1)'Eastern Rif [east2804]':1,('Boqqoya [boqq1234]':1,'Urrighel [urri1238]':1)'Western Rif [west2882]':1)'Riffian [riff1234]':1)'Tarifiyt-Beni-Iznasen-Eastern Middle Atlas Berber [tari1263][rif]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 18,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bse",
+        "label": "Berber (Ayt Seghrouchen Middle Atlas)"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_brf",
+        "label": "Berber (Rif)"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tls",
+        "label": "Talysh (Southern)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tarifit",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/tari1263",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q34174",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "311541",
+        "long_grammar",
+        1920,
+        514,
+        "Destaing, Edmond 1920"
+      ],
+      [
+        "50642",
+        "long_grammar",
+        1905,
+        478,
+        "Sarrionandia, Pedro 1905"
+      ],
+      [
+        "78477",
+        "grammar",
+        1845,
+        31,
+        "Newman, Francis William 1845"
+      ],
+      [
+        "46111",
+        "grammar",
+        1835,
+        0,
+        "Newman, Francis William 1835/36"
+      ],
+      [
+        "114392",
+        "grammar_sketch",
+        1834,
+        16,
+        "Hodgson, William Brown 1834"
+      ],
+      [
+        "40342",
+        "phonology_or_text",
+        1815,
+        0,
+        "Mirievot, Fyodor Ivanovich Jankovich de 1815"
+      ],
+      [
+        "15623",
+        "wordlist_or_less",
+        1811,
+        0,
+        "Jackson, James Grey 1811"
+      ],
+      [
+        "37411",
+        "wordlist_or_less",
+        1809,
+        0,
+        "Jackson, James Grey 1809"
+      ],
+      [
+        "48420",
+        "wordlist_or_less",
+        1800,
+        0,
+        "Chaix, Paul Georges Gabriel 1800"
+      ],
+      [
+        "112608",
+        "wordlist_or_less",
+        1781,
+        0,
+        "Høst, Georg Hjersing 1781"
+      ],
+      [
+        "76698",
+        "wordlist_or_less",
+        1779,
+        0,
+        "Høst, Georg Hjersing 1779"
+      ]
+    ]
+  },
+  "id": "tari1263",
+  "name": "Tarifiyt-Beni-Iznasen-Eastern Middle Atlas Berber",
+  "description": null,
+  "markup_description": null,
+  "latitude": 34.916974,
+  "longitude": -3.430616,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Berber",
+      "id": "berb1260",
+      "url": "https://glottolog.org/resource/languoid/id/berb1260"
+    },
+    {
+      "name": "Greater Zenatic",
+      "id": "grea1296",
+      "url": "https://glottolog.org/resource/languoid/id/grea1296"
+    },
+    {
+      "name": "Zenatic",
+      "id": "zena1250",
+      "url": "https://glottolog.org/resource/languoid/id/zena1250"
+    }
+  ],
+  "iso639-3": "rif"
+}

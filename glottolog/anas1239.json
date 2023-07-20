@@ -1,0 +1,64 @@
+{
+  "pk": 616,
+  "hid": "bpo",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Anasi [anas1239][bpo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "bpo",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "Anasi [bpo] is listed in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 as a separate language on the left-hand side of the Lower Mamberamo, but the most detailed survey of this area (**hh:h:Jones:ECenderawasih**:3, cf.~**hh:h:Detiger:Waroppen**) finds Nisa [njs] be spoken at Anasi. The Anasi entry was, in the first place, based on the incomplete information -- just the name and location -- in **hh:hw:Galis:NNG**. See also: Nisa-Anasi [njs]."
+    },
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q11207813",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "38805",
+        "wordlist_or_less",
+        1991,
+        7,
+        "Peter J. Silzer and Heljä Heikkinen-Clouse 1991"
+      ]
+    ]
+  },
+  "id": "anas1239",
+  "name": "Anasi",
+  "description": null,
+  "markup_description": null,
+  "latitude": -1.73908,
+  "longitude": 137.716,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "bpo"
+}

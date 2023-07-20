@@ -1,0 +1,89 @@
+{
+  "pk": 8220,
+  "hid": "xan",
+  "father_pk": 5768,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Khamir [kham1301]':1,('Kailina [kayl1240]':1,'Semen Agaw [semy1238]':1)'Transitional Eastern Agaw [tran1295]':1)'Xamtanga [xamt1239][xan]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56527",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Xamtanga_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/xamt1239",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "552527",
+        "long_grammar",
+        2015,
+        387,
+        "Teshome, Belay 2015"
+      ],
+      [
+        "143708",
+        "grammar",
+        1884,
+        126,
+        "Reinisch, Leo 1884"
+      ],
+      [
+        "547727",
+        "wordlist_or_less",
+        1790,
+        253,
+        "Bruce, James [of Kinnaird] 1790"
+      ]
+    ]
+  },
+  "id": "xamt1239",
+  "name": "Xamtanga",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.4479,
+  "longitude": 38.8352,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Cushitic",
+      "id": "cush1243",
+      "url": "https://glottolog.org/resource/languoid/id/cush1243"
+    },
+    {
+      "name": "Agaw",
+      "id": "cent2193",
+      "url": "https://glottolog.org/resource/languoid/id/cent2193"
+    },
+    {
+      "name": "Northern-Eastern-Western Agaw",
+      "id": "nort3158",
+      "url": "https://glottolog.org/resource/languoid/id/nort3158"
+    },
+    {
+      "name": "Northeastern Agaw",
+      "id": "nort3163",
+      "url": "https://glottolog.org/resource/languoid/id/nort3163"
+    }
+  ],
+  "iso639-3": "xan"
+}

@@ -1,0 +1,83 @@
+{
+  "pk": 12375,
+  "hid": "ilk",
+  "father_pk": 9413,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Abaka [abak1243]':1,'Egongot [egon1237]':1,'Ibalao [ibal1242]':1,'Italon [ital1283]':1,'Iyongut [iyon1237]':1)'Ilongot [ilon1239][ilk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Bugkalot_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3148787",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "305474",
+        "grammar_sketch",
+        1967,
+        20,
+        "David R. Zorc 1967"
+      ],
+      [
+        "112982",
+        "wordlist_or_less",
+        1937,
+        5,
+        "Vanoverbergh, Morice 1937"
+      ]
+    ]
+  },
+  "id": "ilon1239",
+  "name": "Ilongot",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.3785,
+  "longitude": 121.547,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Northern Luzon",
+      "id": "nort3238",
+      "url": "https://glottolog.org/resource/languoid/id/nort3238"
+    },
+    {
+      "name": "Meso-Cordilleran",
+      "id": "meso1254",
+      "url": "https://glottolog.org/resource/languoid/id/meso1254"
+    },
+    {
+      "name": "South-Central Cordilleran",
+      "id": "sout3211",
+      "url": "https://glottolog.org/resource/languoid/id/sout3211"
+    },
+    {
+      "name": "Southern Cordilleran",
+      "id": "sout2907",
+      "url": "https://glottolog.org/resource/languoid/id/sout2907"
+    }
+  ],
+  "iso639-3": "ilk"
+}

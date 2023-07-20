@@ -1,0 +1,70 @@
+{
+  "pk": 435,
+  "hid": "mqs",
+  "father_pk": 5,
+  "family_pk": 5,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'West Makian [west2600][mqs]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10725",
+        "label": "Moi (Maluku, Indonesia)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3033575",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/West_Makian_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/west2600",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_wma",
+        "label": "West Makian"
+      }
+    ],
+    "meds": [
+      [
+        "13944",
+        "grammar_sketch",
+        1982,
+        74,
+        "C. L. Voorhoeve 1982"
+      ],
+      [
+        "13863",
+        "wordlist_or_less",
+        1976,
+        12,
+        "F. S. Watuseke 1976"
+      ]
+    ]
+  },
+  "id": "west2600",
+  "name": "West Makian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 0.45332,
+  "longitude": 127.63,
+  "classification": [
+    {
+      "name": "North Halmahera",
+      "id": "nort2923",
+      "url": "https://glottolog.org/resource/languoid/id/nort2923"
+    }
+  ],
+  "iso639-3": "mqs"
+}

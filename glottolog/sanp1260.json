@@ -1,0 +1,90 @@
+{
+  "pk": 6468,
+  "hid": "azg",
+  "father_pk": 4420,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'San Pedro Amuzgos Amuzgo [sanp1260][azg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q60611109",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "153536",
+        "grammar_sketch",
+        2000,
+        259,
+        "Stewart, Cloyd and Ruth Stewart 2000"
+      ],
+      [
+        "472639",
+        "phonology_or_text",
+        1999,
+        285,
+        "Tapia García, L. Fermín 1999"
+      ],
+      [
+        "306106",
+        "phonology_or_text",
+        1985,
+        156,
+        "Cuevas Suárez, Susana G. 1985"
+      ],
+      [
+        "302276",
+        "phonology_or_text",
+        1977,
+        134,
+        "Cuevas Suárez, Susana G. 1977"
+      ],
+      [
+        "303942",
+        "wordlist_or_less",
+        1912,
+        4,
+        "William H. Mechling 1912"
+      ]
+    ]
+  },
+  "id": "sanp1260",
+  "name": "San Pedro Amuzgos Amuzgo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.5198,
+  "longitude": -98.0464,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Amuzgo-Mixtecan",
+      "id": "amuz1253",
+      "url": "https://glottolog.org/resource/languoid/id/amuz1253"
+    },
+    {
+      "name": "Amuzgoan",
+      "id": "amuz1254",
+      "url": "https://glottolog.org/resource/languoid/id/amuz1254"
+    }
+  ],
+  "iso639-3": "azg"
+}

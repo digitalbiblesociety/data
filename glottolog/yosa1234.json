@@ -1,0 +1,58 @@
+{
+  "pk": 857,
+  "hid": "yos",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Yos [yosa1234][yos]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "yos",
+      "name": "Yos",
+      "change_request": "2012-035",
+      "effective": "2013-01-23",
+      "reason": "merge",
+      "change_to": [
+        "zom"
+      ],
+      "remedy": "Merge into Zo [zom].",
+      "comment": "Yos is the English plural form of the name 'Yo', which is just another\npronunciation of 'Zo'. Yos/Yo is not a separate group or a separate language. It\nis the same as 'Zo'. No references to the 'Yos' exist apart from an obscure\nalleged reference in the 1983 Census of Myanmar. Yos [yos] should be retired\nfrom use, since it is equivalent to Zo [zom]."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12953340",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500328",
+        "wordlist_or_less",
+        2012,
+        0,
+        "ISO 639-3 Registration Authority 2012"
+      ]
+    ]
+  },
+  "id": "yosa1234",
+  "name": "Yos",
+  "description": null,
+  "markup_description": null,
+  "latitude": 25.4364,
+  "longitude": 95.7566,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "yos"
+}

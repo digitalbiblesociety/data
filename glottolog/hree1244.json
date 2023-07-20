@@ -1,0 +1,96 @@
+{
+  "pk": 10600,
+  "hid": "hre",
+  "father_pk": 7701,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Creq [creq1239]':1,'Nuclear Hre [nucl1300]':1,'Rabah [raba1247]':1)'Hre [hree1244][hre]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3915794",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Hr%C3%AA_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_hre",
+        "label": "Hre"
+      }
+    ],
+    "meds": [
+      [
+        "308618",
+        "grammar_sketch",
+        1974,
+        40,
+        "Nghĩa, Dinh and Trebilco, Joyce and Trebilco, Oliver 1974"
+      ],
+      [
+        "67684",
+        "phonology_or_text",
+        1973,
+        6,
+        "Phillips, Richard L. 1973"
+      ],
+      [
+        "305968",
+        "wordlist_or_less",
+        1971,
+        0,
+        "Trebilco, Oliver, compiler 2009 [1971-03]"
+      ],
+      [
+        "477140",
+        "wordlist_or_less",
+        1970,
+        16,
+        "Robert L. Mole 1970"
+      ]
+    ]
+  },
+  "id": "hree1244",
+  "name": "Hre",
+  "description": null,
+  "markup_description": null,
+  "latitude": 14.6308,
+  "longitude": 108.694,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Bahnaric",
+      "id": "bahn1264",
+      "url": "https://glottolog.org/resource/languoid/id/bahn1264"
+    },
+    {
+      "name": "North Bahnaric",
+      "id": "nort3150",
+      "url": "https://glottolog.org/resource/languoid/id/nort3150"
+    },
+    {
+      "name": "Hre-Sedang-Todrah-Monam",
+      "id": "hres1236",
+      "url": "https://glottolog.org/resource/languoid/id/hres1236"
+    },
+    {
+      "name": "Hre-Sedang",
+      "id": "hres1237",
+      "url": "https://glottolog.org/resource/languoid/id/hres1237"
+    }
+  ],
+  "iso639-3": "hre"
+}

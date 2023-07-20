@@ -1,0 +1,81 @@
+{
+  "pk": 5563,
+  "hid": "mcg",
+  "father_pk": 3662,
+  "family_pk": 56,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mapoyo [mapo1246][mcg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3012",
+        "label": "Mapoyo"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56946",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/mapo1246",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mpy",
+        "label": "Mapoyo"
+      }
+    ],
+    "meds": [
+      [
+        "475912",
+        "phonology_or_text",
+        1997,
+        89,
+        "Tania Granadillo 1997"
+      ],
+      [
+        "126893",
+        "phonology_or_text",
+        1781,
+        0,
+        "Gilij, Felipe Salvador 1987 [1781-1784]"
+      ]
+    ]
+  },
+  "id": "mapo1246",
+  "name": "Mapoyo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.96952,
+  "longitude": -67.2581,
+  "classification": [
+    {
+      "name": "Cariban",
+      "id": "cari1283",
+      "url": "https://glottolog.org/resource/languoid/id/cari1283"
+    },
+    {
+      "name": "Venezuelan Cariban",
+      "id": "vene1261",
+      "url": "https://glottolog.org/resource/languoid/id/vene1261"
+    },
+    {
+      "name": "Mapoyo-Tamanaku",
+      "id": "mapo1244",
+      "url": "https://glottolog.org/resource/languoid/id/mapo1244"
+    },
+    {
+      "name": "Mapoyo-Yawarana",
+      "id": "mapo1245",
+      "url": "https://glottolog.org/resource/languoid/id/mapo1245"
+    }
+  ],
+  "iso639-3": "mcg"
+}

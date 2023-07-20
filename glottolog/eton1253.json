@@ -1,0 +1,116 @@
+{
+  "pk": 20108,
+  "hid": "eto",
+  "father_pk": 18177,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Iton Ekwe [iton1252]':1,'Iton Ngke [iton1251]':1,'Mengisa [meng1263][mct]':1)'Eton-Mengisa [eton1253][eto]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q35317",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Eton_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/eton1253",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "82194",
+        "long_grammar",
+        1984,
+        502,
+        "Geslin-Houdet, Françoise 1984"
+      ],
+      [
+        "587233",
+        "phonology_or_text",
+        1979,
+        883,
+        "Geslin-Houdet, Françoise 1979"
+      ],
+      [
+        "94731",
+        "wordlist_or_less",
+        1975,
+        16,
+        "Laburthe-Tolra, Philippe 1975"
+      ],
+      [
+        "58782",
+        "wordlist_or_less",
+        1972,
+        5,
+        "Franqueville, André 1972"
+      ]
+    ]
+  },
+  "id": "eton1253",
+  "name": "Eton-Mengisa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.21045,
+  "longitude": 11.3935,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Narrow Bantu",
+      "id": "narr1281",
+      "url": "https://glottolog.org/resource/languoid/id/narr1281"
+    },
+    {
+      "name": "Bantu A-B10-B20-B30",
+      "id": "bant1295",
+      "url": "https://glottolog.org/resource/languoid/id/bant1295"
+    },
+    {
+      "name": "Basaa-Yaunde (A40-70)",
+      "id": "basa1292",
+      "url": "https://glottolog.org/resource/languoid/id/basa1292"
+    },
+    {
+      "name": "Yaunde-Fang (A.70)",
+      "id": "yaun1239",
+      "url": "https://glottolog.org/resource/languoid/id/yaun1239"
+    }
+  ],
+  "iso639-3": "eto"
+}

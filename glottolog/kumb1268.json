@@ -1,0 +1,103 @@
+{
+  "pk": 6002,
+  "hid": "kgs",
+  "father_pk": 4019,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kumbainggar [kumb1268][kgs]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4382",
+        "label": "Gumbaynggir"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/e7",
+        "label": "Gumbaynggirr"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kumbainggar_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kumb1268",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_gum",
+        "label": "Gumbaynggir"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3915412",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "123509",
+        "long_grammar",
+        2008,
+        412,
+        "Morelli, Steve 2008"
+      ],
+      [
+        "40725",
+        "grammar",
+        1948,
+        149,
+        "W. E. Smythe 1948, 1949, 1949, 1950"
+      ],
+      [
+        "98106",
+        "grammar_sketch",
+        1903,
+        9,
+        "Mathews, R. H. 1903"
+      ],
+      [
+        "477676",
+        "wordlist_or_less",
+        1875,
+        8,
+        "Ridley, William 1875"
+      ]
+    ]
+  },
+  "id": "kumb1268",
+  "name": "Kumbainggar",
+  "description": null,
+  "markup_description": null,
+  "latitude": -29.8189,
+  "longitude": 152.913,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Southeastern Pama-Nyungan",
+      "id": "sout3135",
+      "url": "https://glottolog.org/resource/languoid/id/sout3135"
+    },
+    {
+      "name": "North Coast Pama-Nyungan",
+      "id": "nort3154",
+      "url": "https://glottolog.org/resource/languoid/id/nort3154"
+    },
+    {
+      "name": "Gumbaynggiric",
+      "id": "gumb1242",
+      "url": "https://glottolog.org/resource/languoid/id/gumb1242"
+    }
+  ],
+  "iso639-3": "kgs"
+}

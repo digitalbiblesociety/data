@@ -1,0 +1,69 @@
+{
+  "pk": 1170,
+  "hid": "mgu",
+  "father_pk": 193,
+  "family_pk": 193,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Asiaoro [asia1264]':1,'Baibara [baib1249]':1,'Borebo [bore1246]':1,'Darava [dara1252]':1,'Derebai [dere1243]':1,'Domara [doma1262]':1,'Geagea [geag1239]':1,'Ilai [ilai1239]':1,'Island [isla1273]':1)'Mailu [mail1248][mgu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 9,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3278246",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mailu_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mgi",
+        "label": "Magi"
+      }
+    ],
+    "meds": [
+      [
+        "94137",
+        "grammar_sketch",
+        1975,
+        68,
+        "N. P. Thomson 1975"
+      ],
+      [
+        "87678",
+        "grammar_sketch",
+        1912,
+        40,
+        "W. J. V. Saville 1912"
+      ],
+      [
+        "323371",
+        "wordlist_or_less",
+        1892,
+        7,
+        "Anonymous, {} 1892"
+      ]
+    ]
+  },
+  "id": "mail1248",
+  "name": "Mailu",
+  "description": null,
+  "markup_description": null,
+  "latitude": -10.3657,
+  "longitude": 149.521,
+  "classification": [
+    {
+      "name": "Mailuan",
+      "id": "mail1249",
+      "url": "https://glottolog.org/resource/languoid/id/mail1249"
+    }
+  ],
+  "iso639-3": "mgu"
+}

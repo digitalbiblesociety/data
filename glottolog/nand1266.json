@@ -1,0 +1,112 @@
+{
+  "pk": 12627,
+  "hid": "niq",
+  "father_pk": 9668,
+  "family_pk": 316,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Nandi [nand1266][niq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6956591",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Naandi_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nand1266",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nan",
+        "label": "Nandi"
+      }
+    ],
+    "meds": [
+      [
+        "115426",
+        "grammar",
+        1989,
+        172,
+        "Creider, Chet A. and Creider, Jane Tapsubei 1989"
+      ],
+      [
+        "56307",
+        "grammar",
+        1985,
+        0,
+        "Creider, Chet A. 1985"
+      ],
+      [
+        "32234",
+        "grammar_sketch",
+        1909,
+        222,
+        "Hollis, A. C. 1909"
+      ],
+      [
+        "41931",
+        "wordlist_or_less",
+        1902,
+        7,
+        "Hobley, C. W. 1902"
+      ],
+      [
+        "23780",
+        "wordlist_or_less",
+        1899,
+        4,
+        "MacDonald, J. R. L. 1899"
+      ]
+    ]
+  },
+  "id": "nand1266",
+  "name": "Nandi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 0.793737,
+  "longitude": 35.408478,
+  "classification": [
+    {
+      "name": "Nilotic",
+      "id": "nilo1247",
+      "url": "https://glottolog.org/resource/languoid/id/nilo1247"
+    },
+    {
+      "name": "Southern Nilotic",
+      "id": "sout2830",
+      "url": "https://glottolog.org/resource/languoid/id/sout2830"
+    },
+    {
+      "name": "Kalenjin",
+      "id": "kale1246",
+      "url": "https://glottolog.org/resource/languoid/id/kale1246"
+    },
+    {
+      "name": "Central Kalenjin",
+      "id": "cent2293",
+      "url": "https://glottolog.org/resource/languoid/id/cent2293"
+    },
+    {
+      "name": "Plateau Central Kalenjin",
+      "id": "plat1260",
+      "url": "https://glottolog.org/resource/languoid/id/plat1260"
+    },
+    {
+      "name": "Western Plateau Central Kalenjin",
+      "id": "west3004",
+      "url": "https://glottolog.org/resource/languoid/id/west3004"
+    }
+  ],
+  "iso639-3": "niq"
+}

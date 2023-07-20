@@ -1,0 +1,113 @@
+{
+  "pk": 6109,
+  "hid": "hch",
+  "father_pk": 4101,
+  "family_pk": 155,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Coyultita [coyu1239]':1,'San Andrés Cohamiata [sana1280]':1,'San Sebastián-Santa Catarina [sans1273]':1)'Huichol [huic1243][hch]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6569",
+        "label": "Huichol"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_hui",
+        "label": "Huichol"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Huichol_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/huic1243",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35575",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "569068",
+        "long_grammar",
+        2017,
+        403,
+        "Stefanie Ramos Bierge 2017"
+      ],
+      [
+        "67693",
+        "grammar",
+        2006,
+        265,
+        "Iturrioz, José Luis and Gómez López, Paula 2006"
+      ],
+      [
+        "140321",
+        "grammar",
+        1999,
+        204,
+        "Paula Gómez 1999"
+      ],
+      [
+        "42233",
+        "grammar",
+        1960,
+        185,
+        "Grimes, Joseph E. 1960"
+      ],
+      [
+        "34957",
+        "grammar_sketch",
+        1911,
+        32,
+        "Léon Diguet 1911"
+      ],
+      [
+        "574414",
+        "wordlist_or_less",
+        1898,
+        11,
+        "Lumholtz, C. 1898"
+      ]
+    ]
+  },
+  "id": "huic1243",
+  "name": "Huichol",
+  "description": null,
+  "markup_description": null,
+  "latitude": 21.954,
+  "longitude": -104.062,
+  "classification": [
+    {
+      "name": "Uto-Aztecan",
+      "id": "utoa1244",
+      "url": "https://glottolog.org/resource/languoid/id/utoa1244"
+    },
+    {
+      "name": "Southern Uto-Aztecan",
+      "id": "sout3136",
+      "url": "https://glottolog.org/resource/languoid/id/sout3136"
+    },
+    {
+      "name": "Corachol-Aztecan",
+      "id": "cora1261",
+      "url": "https://glottolog.org/resource/languoid/id/cora1261"
+    },
+    {
+      "name": "Corachol",
+      "id": "cora1259",
+      "url": "https://glottolog.org/resource/languoid/id/cora1259"
+    }
+  ],
+  "iso639-3": "hch"
+}

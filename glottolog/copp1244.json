@@ -1,0 +1,76 @@
+{
+  "pk": 6211,
+  "hid": null,
+  "father_pk": 4185,
+  "family_pk": 172,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "'Inuinnaqtun [copp1244]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kgt",
+        "label": "Kangiryuarmiut"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Inuinnaqtun",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q28070",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "573068",
+        "wordlist_or_less",
+        1928,
+        0,
+        "Jenness, D. 1928"
+      ],
+      [
+        "577556",
+        "wordlist_or_less",
+        1914,
+        395,
+        "Stefansson, V. 1914"
+      ]
+    ]
+  },
+  "id": "copp1244",
+  "name": "Inuinnaqtun",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Eskimo-Aleut",
+      "id": "eski1264",
+      "url": "https://glottolog.org/resource/languoid/id/eski1264"
+    },
+    {
+      "name": "Eskimo",
+      "id": "eski1265",
+      "url": "https://glottolog.org/resource/languoid/id/eski1265"
+    },
+    {
+      "name": "Inuit",
+      "id": "inui1246",
+      "url": "https://glottolog.org/resource/languoid/id/inui1246"
+    },
+    {
+      "name": "Western Canadian Inuktitut",
+      "id": "west2618",
+      "url": "https://glottolog.org/resource/languoid/id/west2618"
+    }
+  ]
+}

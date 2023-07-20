@@ -1,0 +1,105 @@
+{
+  "pk": 5110,
+  "hid": "ywr",
+  "father_pk": 3300,
+  "family_pk": 354,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Eastern Inland Yawuru [east2382]':1,'Northern Yawuru [nort2762]':1,'Southern Coastal Yawuru [sout2773]':1)'Yawuru [yawu1244][ywr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3160",
+        "label": "Yawuru"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/k1",
+        "label": "Yawuru"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yawuru_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/yawu1244",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ywr",
+        "label": "Yawuru"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q8050479",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "14981",
+        "long_grammar",
+        1991,
+        563,
+        "Komei Hosokawa 1991"
+      ],
+      [
+        "6852",
+        "grammar_sketch",
+        1953,
+        3,
+        "Capell, Arthur 1953"
+      ],
+      [
+        "3842",
+        "grammar_sketch",
+        1952,
+        2,
+        "Capell, Arthur 1952"
+      ],
+      [
+        "3450",
+        "wordlist_or_less",
+        1944,
+        3,
+        "Worms, Ernest A. 1944"
+      ],
+      [
+        "304666",
+        "wordlist_or_less",
+        1938,
+        3,
+        "Nekes, Hermann 1938"
+      ]
+    ]
+  },
+  "id": "yawu1244",
+  "name": "Yawuru",
+  "description": null,
+  "markup_description": null,
+  "latitude": -18.004,
+  "longitude": 122.693,
+  "classification": [
+    {
+      "name": "Nyulnyulan",
+      "id": "nyul1248",
+      "url": "https://glottolog.org/resource/languoid/id/nyul1248"
+    },
+    {
+      "name": "Eastern Nyulnyulan",
+      "id": "east2381",
+      "url": "https://glottolog.org/resource/languoid/id/east2381"
+    },
+    {
+      "name": "Yawuric",
+      "id": "yawu1243",
+      "url": "https://glottolog.org/resource/languoid/id/yawu1243"
+    }
+  ],
+  "iso639-3": "ywr"
+}

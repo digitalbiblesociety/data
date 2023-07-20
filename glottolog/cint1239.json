@@ -1,0 +1,77 @@
+{
+  "pk": 5554,
+  "hid": "cin",
+  "father_pk": 3649,
+  "family_pk": 51,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Cinta Larga [cint1239][cin]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5128",
+        "label": "Cinta Larga"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5121095",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cinta_Larga_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "131548",
+        "grammar_sketch",
+        1988,
+        20,
+        "Sandberg, Clive D. 1988"
+      ],
+      [
+        "56522",
+        "wordlist_or_less",
+        1966,
+        2,
+        "Holanda Pereira, Adalberto 1966"
+      ]
+    ]
+  },
+  "id": "cint1239",
+  "name": "Cinta Larga",
+  "description": null,
+  "markup_description": null,
+  "latitude": -10.5879,
+  "longitude": -60.8312,
+  "classification": [
+    {
+      "name": "Tupian",
+      "id": "tupi1275",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1275"
+    },
+    {
+      "name": "Monde",
+      "id": "mond1266",
+      "url": "https://glottolog.org/resource/languoid/id/mond1266"
+    },
+    {
+      "name": "Gavianic",
+      "id": "gavi1250",
+      "url": "https://glottolog.org/resource/languoid/id/gavi1250"
+    },
+    {
+      "name": "Nuclear Gavianic",
+      "id": "gavi1248",
+      "url": "https://glottolog.org/resource/languoid/id/gavi1248"
+    }
+  ],
+  "iso639-3": "cin"
+}

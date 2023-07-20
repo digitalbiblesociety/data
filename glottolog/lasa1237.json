@@ -1,0 +1,110 @@
+{
+  "pk": 21217,
+  "hid": "llm",
+  "father_pk": 19348,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Lasalimu [lasa1237][llm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6492774",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lasalimu_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "576859",
+        "phonology_or_text",
+        2012,
+        58,
+        "Yohanis Sanjoko 2012"
+      ],
+      [
+        "183030",
+        "wordlist_or_less",
+        2003,
+        5,
+        "Rene van den Berg 2003"
+      ],
+      [
+        "94914",
+        "wordlist_or_less",
+        1991,
+        2,
+        "Rene van den Berg 1991"
+      ]
+    ]
+  },
+  "id": "lasa1237",
+  "name": "Lasalimu",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.23602,
+  "longitude": 123.129,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Celebic",
+      "id": "cele1242",
+      "url": "https://glottolog.org/resource/languoid/id/cele1242"
+    },
+    {
+      "name": "Greater Eastern Celebic",
+      "id": "grea1299",
+      "url": "https://glottolog.org/resource/languoid/id/grea1299"
+    },
+    {
+      "name": "Eastern Celebic",
+      "id": "east2488",
+      "url": "https://glottolog.org/resource/languoid/id/east2488"
+    },
+    {
+      "name": "Southeastern Celebic",
+      "id": "sout2928",
+      "url": "https://glottolog.org/resource/languoid/id/sout2928"
+    },
+    {
+      "name": "Muna-Buton",
+      "id": "muna1246",
+      "url": "https://glottolog.org/resource/languoid/id/muna1246"
+    },
+    {
+      "name": "Nuclear Muna-Buton",
+      "id": "nucl1573",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1573"
+    },
+    {
+      "name": "Butonic",
+      "id": "buto1237",
+      "url": "https://glottolog.org/resource/languoid/id/buto1237"
+    },
+    {
+      "name": "East Buton",
+      "id": "east2751",
+      "url": "https://glottolog.org/resource/languoid/id/east2751"
+    }
+  ],
+  "iso639-3": "llm"
+}

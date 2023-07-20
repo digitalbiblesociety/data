@@ -1,0 +1,91 @@
+{
+  "pk": 1810,
+  "hid": "mus",
+  "father_pk": 388,
+  "family_pk": 388,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Nuclear Creek [nucl1645]':1,'Seminole [semi1265]':1)'Creek [cree1270][mus]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_crk",
+        "label": "Creek"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/2007",
+        "label": "Muskogee"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_smn",
+        "label": "Seminole"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Muscogee_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q523014",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "99428",
+        "long_grammar",
+        2011,
+        489,
+        "Martin, Jack B. 2011"
+      ],
+      [
+        "153056",
+        "long_grammar",
+        1988,
+        421,
+        "Hardy, Donald Edward 1988"
+      ],
+      [
+        "36310",
+        "grammar",
+        1977,
+        163,
+        "Nathan, Michele 1977"
+      ],
+      [
+        "45549",
+        "grammar",
+        1860,
+        138,
+        "Buckner, Henri Frieland and Herrod, Goliah 1860"
+      ],
+      [
+        "40212",
+        "wordlist_or_less",
+        1854,
+        6,
+        "Henry R. Schoolcraft 1854"
+      ]
+    ]
+  },
+  "id": "cree1270",
+  "name": "Creek",
+  "description": null,
+  "markup_description": null,
+  "latitude": 31,
+  "longitude": -87.5,
+  "classification": [
+    {
+      "name": "Muskogean",
+      "id": "musk1252",
+      "url": "https://glottolog.org/resource/languoid/id/musk1252"
+    }
+  ],
+  "iso639-3": "mus"
+}

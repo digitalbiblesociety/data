@@ -1,0 +1,93 @@
+{
+  "pk": 8080,
+  "hid": "poh",
+  "father_pk": 5659,
+  "family_pk": 76,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Poqomchi'' [poqo1254][poh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_pkm",
+        "label": "Pokomchí"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/6197",
+        "label": "Poqomchi'"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Poqomchi%CA%BC_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36414",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "424101",
+        "grammar",
+        1979,
+        266,
+        "Brown, Linda Kay 1979"
+      ],
+      [
+        "116010",
+        "grammar",
+        1977,
+        42,
+        "Mayers, Marvin K. 1977"
+      ],
+      [
+        "303927",
+        "grammar_sketch",
+        1888,
+        212,
+        "Stoll, Otto 1888"
+      ]
+    ]
+  },
+  "id": "poqo1254",
+  "name": "Poqomchi'",
+  "description": null,
+  "markup_description": null,
+  "latitude": 15.3586,
+  "longitude": -90.5813,
+  "classification": [
+    {
+      "name": "Mayan",
+      "id": "maya1287",
+      "url": "https://glottolog.org/resource/languoid/id/maya1287"
+    },
+    {
+      "name": "Core Mayan",
+      "id": "core1254",
+      "url": "https://glottolog.org/resource/languoid/id/core1254"
+    },
+    {
+      "name": "Quichean-Mamean",
+      "id": "quic1274",
+      "url": "https://glottolog.org/resource/languoid/id/quic1274"
+    },
+    {
+      "name": "Greater Quichean",
+      "id": "grea1276",
+      "url": "https://glottolog.org/resource/languoid/id/grea1276"
+    },
+    {
+      "name": "Poqom",
+      "id": "poco1241",
+      "url": "https://glottolog.org/resource/languoid/id/poco1241"
+    }
+  ],
+  "iso639-3": "poh"
+}

@@ -1,0 +1,110 @@
+{
+  "pk": 14794,
+  "hid": "mpt",
+  "father_pk": 11847,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Mianmin [mian1257]':1,'Upper August River [uppe1429]':1,'Usage [usag1245]':1)'Mian [mian1256][mpt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10681",
+        "label": "Mian"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mpt",
+        "label": "Mian"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mian_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12952846",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "136881",
+        "long_grammar",
+        2011,
+        629,
+        "Fedden, Sebastian Olcher 2011"
+      ],
+      [
+        "35228",
+        "long_grammar",
+        2007,
+        499,
+        "Fedden, Sebastian Olcher 2007"
+      ],
+      [
+        "99230",
+        "grammar",
+        1974,
+        108,
+        "Smith, Jean and Weston, Pamela 1974"
+      ],
+      [
+        "151383",
+        "wordlist_or_less",
+        1964,
+        4,
+        "Alan Healey 1964"
+      ]
+    ]
+  },
+  "id": "mian1256",
+  "name": "Mian",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.70881,
+  "longitude": 141.523,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Asmat-Awyu-Ok",
+      "id": "cent2116",
+      "url": "https://glottolog.org/resource/languoid/id/cent2116"
+    },
+    {
+      "name": "Awyu-Ok",
+      "id": "awyu1265",
+      "url": "https://glottolog.org/resource/languoid/id/awyu1265"
+    },
+    {
+      "name": "Ok-Oksapmin",
+      "id": "okok1235",
+      "url": "https://glottolog.org/resource/languoid/id/okok1235"
+    },
+    {
+      "name": "Ok",
+      "id": "okkk1242",
+      "url": "https://glottolog.org/resource/languoid/id/okkk1242"
+    },
+    {
+      "name": "Mountain Ok",
+      "id": "moun1253",
+      "url": "https://glottolog.org/resource/languoid/id/moun1253"
+    },
+    {
+      "name": "Mianic",
+      "id": "mian1255",
+      "url": "https://glottolog.org/resource/languoid/id/mian1255"
+    }
+  ],
+  "iso639-3": "mpt"
+}

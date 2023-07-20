@@ -1,0 +1,101 @@
+{
+  "pk": 11465,
+  "hid": "ywg",
+  "father_pk": 8504,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Yinhawangka [yinh1234][ywg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6808",
+        "label": "Yinhawangka"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q8053734",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yinhawangka_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "3600",
+        "phonology_or_text",
+        2008,
+        59,
+        "Jones, Barbara 2008"
+      ],
+      [
+        "181620",
+        "wordlist_or_less",
+        2001,
+        15,
+        "Dench, Alan 2001"
+      ],
+      [
+        "2372",
+        "wordlist_or_less",
+        1979,
+        7,
+        "Brown, Malcolm 1979"
+      ],
+      [
+        "62559",
+        "wordlist_or_less",
+        1967,
+        2,
+        "Carl Georg von Brandenstein 1967"
+      ]
+    ]
+  },
+  "id": "yinh1234",
+  "name": "Yinhawangka",
+  "description": null,
+  "markup_description": null,
+  "latitude": -22.9178,
+  "longitude": 117.5628,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "South-West Pama-Nyungan",
+      "id": "sout3134",
+      "url": "https://glottolog.org/resource/languoid/id/sout3134"
+    },
+    {
+      "name": "Pilbara",
+      "id": "pilb1234",
+      "url": "https://glottolog.org/resource/languoid/id/pilb1234"
+    },
+    {
+      "name": "Ngayarda",
+      "id": "ngay1241",
+      "url": "https://glottolog.org/resource/languoid/id/ngay1241"
+    },
+    {
+      "name": "Central Ngayarda",
+      "id": "cent2248",
+      "url": "https://glottolog.org/resource/languoid/id/cent2248"
+    },
+    {
+      "name": "Panytyima-Yinhawangka",
+      "id": "pany1247",
+      "url": "https://glottolog.org/resource/languoid/id/pany1247"
+    }
+  ],
+  "iso639-3": "ywg"
+}

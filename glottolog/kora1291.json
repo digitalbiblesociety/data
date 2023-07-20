@@ -1,0 +1,79 @@
+{
+  "pk": 3631,
+  "hid": "kcy",
+  "father_pk": 1966,
+  "family_pk": 48,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Korandje [kora1291][kcy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3803",
+        "label": "Kwarandzyey"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33427",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Korandje_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "136662",
+        "grammar_sketch",
+        2010,
+        87,
+        "Souag, Mostafa Lameen 2010"
+      ],
+      [
+        "144649",
+        "grammar_sketch",
+        1996,
+        36,
+        "Tilmatine, Mohamed 1996"
+      ],
+      [
+        "29582",
+        "grammar_sketch",
+        1908,
+        33,
+        "Cancel, Lt. 1908"
+      ]
+    ]
+  },
+  "id": "kora1291",
+  "name": "Korandje",
+  "description": null,
+  "markup_description": null,
+  "latitude": 29.4957,
+  "longitude": -2.48113,
+  "classification": [
+    {
+      "name": "Songhay",
+      "id": "song1307",
+      "url": "https://glottolog.org/resource/languoid/id/song1307"
+    },
+    {
+      "name": "Northwest Songhay",
+      "id": "nort2822",
+      "url": "https://glottolog.org/resource/languoid/id/nort2822"
+    },
+    {
+      "name": "Northern Songhay",
+      "id": "nort2823",
+      "url": "https://glottolog.org/resource/languoid/id/nort2823"
+    }
+  ],
+  "iso639-3": "kcy"
+}

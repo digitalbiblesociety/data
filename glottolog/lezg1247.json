@@ -1,0 +1,103 @@
+{
+  "pk": 16430,
+  "hid": "lez",
+  "father_pk": 13782,
+  "family_pk": 426,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Akhty [akht1238]':1,'Anykh [anyx1238]':1,'Garkin [gark1239]':1,'Gjunej [gjun1238]':1,'Kiuri [kiur1238]':1,'Kubachi {Lezgian} [kuba1249]':1,'Quba {Lezgian} [quba1246]':1,'Stal [stal1238]':1)'Lezgian [lezg1247][lez]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 8,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_lez",
+        "label": "Lezgian"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lezgian_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/lezg1247",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q31746",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "91629",
+        "long_grammar",
+        1993,
+        587,
+        "Martin Haspelmath 1993"
+      ],
+      [
+        "310673",
+        "long_grammar",
+        1896,
+        324,
+        "Uslar, Petr K. 1896"
+      ],
+      [
+        "309459",
+        "wordlist_or_less",
+        1786,
+        20,
+        "Pallas, Peter Simon 1786, 1789"
+      ]
+    ]
+  },
+  "id": "lezg1247",
+  "name": "Lezgian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 41.5157,
+  "longitude": 47.8951,
+  "classification": [
+    {
+      "name": "Nakh-Daghestanian",
+      "id": "nakh1245",
+      "url": "https://glottolog.org/resource/languoid/id/nakh1245"
+    },
+    {
+      "name": "Daghestanian",
+      "id": "dagh1238",
+      "url": "https://glottolog.org/resource/languoid/id/dagh1238"
+    },
+    {
+      "name": "Lezgic",
+      "id": "lezg1248",
+      "url": "https://glottolog.org/resource/languoid/id/lezg1248"
+    },
+    {
+      "name": "Samur",
+      "id": "nucl1321",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1321"
+    },
+    {
+      "name": "Eastern Samur",
+      "id": "east2790",
+      "url": "https://glottolog.org/resource/languoid/id/east2790"
+    },
+    {
+      "name": "Tabasaran-Aghul-Lezgi",
+      "id": "east2367",
+      "url": "https://glottolog.org/resource/languoid/id/east2367"
+    },
+    {
+      "name": "Aghul-Lezgi",
+      "id": "aghu1259",
+      "url": "https://glottolog.org/resource/languoid/id/aghu1259"
+    }
+  ],
+  "iso639-3": "lez"
+}

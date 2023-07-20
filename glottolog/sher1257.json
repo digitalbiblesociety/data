@@ -1,0 +1,81 @@
+{
+  "pk": 7288,
+  "hid": "sdp",
+  "father_pk": 4951,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Rupa [rupa1234]':1,'Shergaon [sher1261]':1)'Sherdukpen [sher1257][sdp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5689",
+        "label": "Sherdukpen"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7494785",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sherdukpen_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_shd",
+        "label": "Sherdukpen"
+      }
+    ],
+    "meds": [
+      [
+        "146907",
+        "grammar",
+        1988,
+        0,
+        "Dondrup, Rinchin 1988"
+      ],
+      [
+        "314402",
+        "wordlist_or_less",
+        1954,
+        140,
+        "North East Frontier Agency 1954"
+      ]
+    ]
+  },
+  "id": "sher1257",
+  "name": "Sherdukpen",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.0035,
+  "longitude": 92.5799,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kho-Bwa",
+      "id": "khob1235",
+      "url": "https://glottolog.org/resource/languoid/id/khob1235"
+    },
+    {
+      "name": "Western Kho-Bwa",
+      "id": "meyi1234",
+      "url": "https://glottolog.org/resource/languoid/id/meyi1234"
+    },
+    {
+      "name": "Sartang-Sherdukpen",
+      "id": "sher1256",
+      "url": "https://glottolog.org/resource/languoid/id/sher1256"
+    }
+  ],
+  "iso639-3": "sdp"
+}

@@ -1,0 +1,108 @@
+{
+  "pk": 17988,
+  "hid": "mdm",
+  "father_pk": 15550,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Madimadoko [madi1259]':1,'Madipia [madi1258]':1)'Mayogo [mayo1261][mdm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6797580",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mayogo_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/mayo1261",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_myg",
+        "label": "Mayogo"
+      }
+    ],
+    "meds": [
+      [
+        "43978",
+        "grammar_sketch",
+        2001,
+        230,
+        "Sawka, Kenneth Stanley 2001"
+      ],
+      [
+        "35484",
+        "grammar_sketch",
+        1942,
+        24,
+        "Tercafs, Johanna 1942-1943"
+      ],
+      [
+        "29388",
+        "wordlist_or_less",
+        1924,
+        2,
+        "Czekanowski, Jan 1924"
+      ]
+    ]
+  },
+  "id": "mayo1261",
+  "name": "Mayogo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 2.79827,
+  "longitude": 27.8282,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "North Volta-Congo",
+      "id": "nort3149",
+      "url": "https://glottolog.org/resource/languoid/id/nort3149"
+    },
+    {
+      "name": "Cameroun-Ubangian",
+      "id": "came1255",
+      "url": "https://glottolog.org/resource/languoid/id/came1255"
+    },
+    {
+      "name": "Ubangi",
+      "id": "uban1244",
+      "url": "https://glottolog.org/resource/languoid/id/uban1244"
+    },
+    {
+      "name": "Mundu-Baka",
+      "id": "ngba1292",
+      "url": "https://glottolog.org/resource/languoid/id/ngba1292"
+    },
+    {
+      "name": "Eastern Mundu-Baka",
+      "id": "east2391",
+      "url": "https://glottolog.org/resource/languoid/id/east2391"
+    },
+    {
+      "name": "Mayogo-Bangba",
+      "id": "mayo1260",
+      "url": "https://glottolog.org/resource/languoid/id/mayo1260"
+    }
+  ],
+  "iso639-3": "mdm"
+}

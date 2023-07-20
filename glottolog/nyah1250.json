@@ -1,0 +1,82 @@
+{
+  "pk": 3481,
+  "hid": "cbn",
+  "father_pk": 1858,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Nyahkur [nyah1250][cbn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1235",
+        "label": "Nyahkur"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q116849",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nyah_Kur_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nyah1250",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nkt",
+        "label": "Nyah Kur (Tha Pong)"
+      }
+    ],
+    "meds": [
+      [
+        "313730",
+        "long_grammar",
+        1979,
+        338,
+        "Payau Memanas 1979"
+      ],
+      [
+        "311813",
+        "wordlist_or_less",
+        1921,
+        17,
+        "Petchabūnburi, Phra 1921"
+      ],
+      [
+        "310319",
+        "wordlist_or_less",
+        1918,
+        6,
+        "Seidenfaden, Erik 1918"
+      ]
+    ]
+  },
+  "id": "nyah1250",
+  "name": "Nyahkur",
+  "description": null,
+  "markup_description": null,
+  "latitude": 15.8909,
+  "longitude": 101.515,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Monic",
+      "id": "moni1258",
+      "url": "https://glottolog.org/resource/languoid/id/moni1258"
+    }
+  ],
+  "iso639-3": "cbn"
+}

@@ -1,0 +1,86 @@
+{
+  "pk": 7899,
+  "hid": "loh",
+  "father_pk": 5449,
+  "family_pk": 18,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Narim [nari1240][loh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4524",
+        "label": "Narim"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56353",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Laarim_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nari1240",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "549430",
+        "grammar_sketch",
+        2013,
+        142,
+        "Clement Lopeyok Joseph and Michael Vorgol Lochule and Joseph Celestine Lolar and Lolar John Hillary and Davĩd Nyangamoi Nayoro 2013"
+      ],
+      [
+        "68561",
+        "grammar_sketch",
+        1927,
+        2,
+        "Driberg, Jack H. 1927"
+      ]
+    ]
+  },
+  "id": "nari1240",
+  "name": "Narim",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.80331,
+  "longitude": 33.3312,
+  "classification": [
+    {
+      "name": "Surmic",
+      "id": "surm1244",
+      "url": "https://glottolog.org/resource/languoid/id/surm1244"
+    },
+    {
+      "name": "South Surmic",
+      "id": "sout2836",
+      "url": "https://glottolog.org/resource/languoid/id/sout2836"
+    },
+    {
+      "name": "Southwest Surmic",
+      "id": "sout2838",
+      "url": "https://glottolog.org/resource/languoid/id/sout2838"
+    },
+    {
+      "name": "Didinga-Murle",
+      "id": "didi1256",
+      "url": "https://glottolog.org/resource/languoid/id/didi1256"
+    },
+    {
+      "name": "Didinga-Longarim",
+      "id": "didi1257",
+      "url": "https://glottolog.org/resource/languoid/id/didi1257"
+    }
+  ],
+  "iso639-3": "loh"
+}

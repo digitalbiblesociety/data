@@ -1,0 +1,103 @@
+{
+  "pk": 7806,
+  "hid": "kvn",
+  "father_pk": 5399,
+  "family_pk": 10,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Border Kuna [bord1248][kvn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kun",
+        "label": "Kuna"
+      },
+      {
+        "url": "https://phoible.org/languages/bord1248",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q31777873",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "314101",
+        "long_grammar",
+        2011,
+        331,
+        "Forster, D. Keith 2011"
+      ],
+      [
+        "122986",
+        "grammar",
+        1987,
+        225,
+        "Llerena-Villalobos, Rito 1987"
+      ],
+      [
+        "578393",
+        "grammar",
+        1934,
+        220,
+        "Wafer, L. 1934"
+      ],
+      [
+        "573702",
+        "wordlist_or_less",
+        1926,
+        133,
+        "Krieger, H. W. 1926"
+      ],
+      [
+        "576220",
+        "wordlist_or_less",
+        1868,
+        42,
+        "De Puydt, L. 1868"
+      ]
+    ]
+  },
+  "id": "bord1248",
+  "name": "Border Kuna",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.92993,
+  "longitude": -77.1664,
+  "classification": [
+    {
+      "name": "Chibchan",
+      "id": "chib1249",
+      "url": "https://glottolog.org/resource/languoid/id/chib1249"
+    },
+    {
+      "name": "Core Chibchan",
+      "id": "core1252",
+      "url": "https://glottolog.org/resource/languoid/id/core1252"
+    },
+    {
+      "name": "Isthmic Chibchan",
+      "id": "isth1243",
+      "url": "https://glottolog.org/resource/languoid/id/isth1243"
+    },
+    {
+      "name": "Eastern Isthmic Chibchan",
+      "id": "east2569",
+      "url": "https://glottolog.org/resource/languoid/id/east2569"
+    },
+    {
+      "name": "Kuna",
+      "id": "kuna1280",
+      "url": "https://glottolog.org/resource/languoid/id/kuna1280"
+    }
+  ],
+  "iso639-3": "kvn"
+}

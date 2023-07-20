@@ -1,0 +1,73 @@
+{
+  "pk": 1542,
+  "hid": "tsz",
+  "father_pk": 296,
+  "family_pk": 296,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Comachuén-Turicuaro [coma1247]':1,'Cuanajó [cuan1234]':1,'Eastern Lake Patzcuaro [east2899]':1,'Lake Patzcuaro Islands and Western Shore [lake1262]':1,'Northern Lake Patzcuaro [nort3409]':1,'Zapacu [zapa1254]':1,'Zipiajo [zipi1234]':1)'Purepecha [pure1242][tsz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_pur",
+        "label": "Purépecha"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Pur%C3%A9pecha_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/pure1242",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36803",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "60074",
+        "long_grammar",
+        1998,
+        809,
+        "Chamoreau, Claudine 1998"
+      ],
+      [
+        "314425",
+        "long_grammar",
+        1574,
+        450,
+        "de Lagunas, Juan Baptista 1574"
+      ],
+      [
+        "134112",
+        "long_grammar",
+        1558,
+        374,
+        "M. Gilberti 1898 [1558]"
+      ]
+    ]
+  },
+  "id": "pure1242",
+  "name": "Purepecha",
+  "description": null,
+  "markup_description": null,
+  "latitude": 19.2467,
+  "longitude": -101.631,
+  "classification": [
+    {
+      "name": "Tarascan",
+      "id": "tara1323",
+      "url": "https://glottolog.org/resource/languoid/id/tara1323"
+    }
+  ],
+  "iso639-3": "tsz"
+}

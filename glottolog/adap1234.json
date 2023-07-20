@@ -1,0 +1,58 @@
+{
+  "pk": 522,
+  "hid": "adp",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Adap [adap1234][adp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "adp",
+      "name": "Adap",
+      "change_request": "2014-049",
+      "effective": "2015-01-12",
+      "reason": "merge",
+      "change_to": [
+        "dzo"
+      ],
+      "remedy": "Merged into [dzo] Dzongkha",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3512402",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500978",
+        "wordlist_or_less",
+        2014,
+        0,
+        "ISO 639-3 Registration Authority 2014"
+      ]
+    ]
+  },
+  "id": "adap1234",
+  "name": "Adap",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.141,
+  "longitude": 90.3369,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "adp"
+}

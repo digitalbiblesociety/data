@@ -1,0 +1,83 @@
+{
+  "pk": 4656,
+  "hid": "tiy",
+  "father_pk": 2961,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tiruray [tiru1241][tiy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7809425",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tiruray_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/tiru1241",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_try",
+        "label": "Tiruray"
+      }
+    ],
+    "meds": [
+      [
+        "28204",
+        "grammar_sketch",
+        1973,
+        164,
+        "Pilongo, Filomena E. 1973"
+      ],
+      [
+        "318147",
+        "grammar_sketch",
+        1892,
+        72,
+        "Guillermo Bennásar 1892"
+      ],
+      [
+        "85606",
+        "wordlist_or_less",
+        1873,
+        2,
+        "Meijer, Adolf Bernhard 1873"
+      ]
+    ]
+  },
+  "id": "tiru1241",
+  "name": "Tiruray",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.77321,
+  "longitude": 124.127,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Bilic",
+      "id": "bili1253",
+      "url": "https://glottolog.org/resource/languoid/id/bili1253"
+    }
+  ],
+  "iso639-3": "tiy"
+}

@@ -1,0 +1,79 @@
+{
+  "pk": 5118,
+  "hid": "laq",
+  "father_pk": 3305,
+  "family_pk": 356,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Pubiao-Qabiao [qabi1235][laq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1436",
+        "label": "Laqua"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3436700",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Qabiao_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "476775",
+        "grammar",
+        2007,
+        215,
+        "Liang, Min and Zhang, Junru and Li, Yunbing 2007"
+      ],
+      [
+        "68629",
+        "grammar_sketch",
+        1992,
+        186,
+        "Hoáng Văn Ma and Vũ Ba Húng 1992"
+      ],
+      [
+        "319145",
+        "wordlist_or_less",
+        1906,
+        22,
+        "Lunet de La Jonquière, Étienne-Edmond 1906"
+      ]
+    ]
+  },
+  "id": "qabi1235",
+  "name": "Pubiao-Qabiao",
+  "description": null,
+  "markup_description": null,
+  "latitude": 23.2384,
+  "longitude": 104.812,
+  "classification": [
+    {
+      "name": "Tai-Kadai",
+      "id": "taik1256",
+      "url": "https://glottolog.org/resource/languoid/id/taik1256"
+    },
+    {
+      "name": "Kadaic",
+      "id": "kada1291",
+      "url": "https://glottolog.org/resource/languoid/id/kada1291"
+    },
+    {
+      "name": "Eastern Kra",
+      "id": "east2365",
+      "url": "https://glottolog.org/resource/languoid/id/east2365"
+    }
+  ],
+  "iso639-3": "laq"
+}

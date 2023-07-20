@@ -1,0 +1,69 @@
+{
+  "pk": 3748,
+  "hid": "wos",
+  "father_pk": 2074,
+  "family_pk": 92,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Hanga Hundi [hang1263][wos]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_hhu",
+        "label": "Hanga Hundi"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kwasengen_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/hang1263",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6450232",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "97333",
+        "grammar",
+        1993,
+        204,
+        "Wendel, Thomas Dewayne 1993"
+      ]
+    ]
+  },
+  "id": "hang1263",
+  "name": "Hanga Hundi",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.90364,
+  "longitude": 142.849,
+  "classification": [
+    {
+      "name": "Ndu",
+      "id": "nduu1242",
+      "url": "https://glottolog.org/resource/languoid/id/nduu1242"
+    },
+    {
+      "name": "Nuclear Ndu",
+      "id": "nucl1642",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1642"
+    },
+    {
+      "name": "Ambulas-Hanga-Hundi",
+      "id": "ambu1246",
+      "url": "https://glottolog.org/resource/languoid/id/ambu1246"
+    }
+  ],
+  "iso639-3": "wos"
+}

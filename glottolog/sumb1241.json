@@ -1,0 +1,104 @@
+{
+  "pk": 12265,
+  "hid": "smw",
+  "father_pk": 9329,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Sumbawa [sumb1241][smw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3182585",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sumbawa_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "308030",
+        "long_grammar",
+        2006,
+        343,
+        "Shiohara, Asako 2006"
+      ],
+      [
+        "304598",
+        "grammar_sketch",
+        1986,
+        224,
+        "Sumarsono, and Nadera, Made and Basuki, Sunaryono 1986"
+      ],
+      [
+        "20185",
+        "grammar_sketch",
+        1891,
+        49,
+        "de Roo van Alderwerelt, J. 1891"
+      ],
+      [
+        "132268",
+        "wordlist_or_less",
+        1872,
+        80,
+        "S. Roos 1872"
+      ],
+      [
+        "311317",
+        "wordlist_or_less",
+        1850,
+        25,
+        "H. Zollinger 1850"
+      ]
+    ]
+  },
+  "id": "sumb1241",
+  "name": "Sumbawa",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.71919,
+  "longitude": 117.472,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Malayo-Sumbawan",
+      "id": "mala1536",
+      "url": "https://glottolog.org/resource/languoid/id/mala1536"
+    },
+    {
+      "name": "North and East Malayo-Sumbawan",
+      "id": "nort3170",
+      "url": "https://glottolog.org/resource/languoid/id/nort3170"
+    },
+    {
+      "name": "Bali-Sasak-Sumbawa",
+      "id": "bali1277",
+      "url": "https://glottolog.org/resource/languoid/id/bali1277"
+    },
+    {
+      "name": "Sasak-Sumbawa",
+      "id": "sasa1248",
+      "url": "https://glottolog.org/resource/languoid/id/sasa1248"
+    }
+  ],
+  "iso639-3": "smw"
+}

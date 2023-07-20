@@ -1,0 +1,85 @@
+{
+  "pk": 10231,
+  "hid": "czt",
+  "father_pk": 7355,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Zotung Chin [zotu1235][czt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Zotung_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q8074599",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "552161",
+        "phonology_or_text",
+        2015,
+        298,
+        "Shintani, Tadahiko L. A. 2015"
+      ],
+      [
+        "29610",
+        "wordlist_or_less",
+        1869,
+        8,
+        "Lewin, Thomas Herbert 1869"
+      ],
+      [
+        "90875",
+        "wordlist_or_less",
+        1841,
+        3,
+        "Phayre, Arthur Purvis 1841"
+      ]
+    ]
+  },
+  "id": "zotu1235",
+  "name": "Zotung Chin",
+  "description": null,
+  "markup_description": null,
+  "latitude": 22.5298,
+  "longitude": 93.29,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Kuki-Chin",
+      "id": "kuki1246",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1246"
+    },
+    {
+      "name": "Central Kuki-Chin",
+      "id": "cent2330",
+      "url": "https://glottolog.org/resource/languoid/id/cent2330"
+    },
+    {
+      "name": "Maraic",
+      "id": "mara1381",
+      "url": "https://glottolog.org/resource/languoid/id/mara1381"
+    }
+  ],
+  "iso639-3": "czt"
+}

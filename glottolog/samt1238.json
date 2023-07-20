@@ -1,0 +1,79 @@
+{
+  "pk": 13714,
+  "hid": "stu",
+  "father_pk": 10632,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Samtao [samt1238][stu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q13018576",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "95666",
+        "phonology_or_text",
+        1989,
+        16,
+        "Paulsen, Debbie Lynn 1989"
+      ],
+      [
+        "570565",
+        "wordlist_or_less",
+        1979,
+        4,
+        "Diffloth, Gérard 1979"
+      ]
+    ]
+  },
+  "id": "samt1238",
+  "name": "Samtao",
+  "description": null,
+  "markup_description": null,
+  "latitude": 22.0185,
+  "longitude": 99.2576,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Khasi-Palaung",
+      "id": "khas1273",
+      "url": "https://glottolog.org/resource/languoid/id/khas1273"
+    },
+    {
+      "name": "Palaungic",
+      "id": "pala1352",
+      "url": "https://glottolog.org/resource/languoid/id/pala1352"
+    },
+    {
+      "name": "East Palaungic",
+      "id": "east2331",
+      "url": "https://glottolog.org/resource/languoid/id/east2331"
+    },
+    {
+      "name": "Waic",
+      "id": "waic1245",
+      "url": "https://glottolog.org/resource/languoid/id/waic1245"
+    },
+    {
+      "name": "Bulangic",
+      "id": "bula1260",
+      "url": "https://glottolog.org/resource/languoid/id/bula1260"
+    }
+  ],
+  "iso639-3": "stu"
+}

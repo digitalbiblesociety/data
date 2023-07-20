@@ -1,0 +1,78 @@
+{
+  "pk": 9361,
+  "hid": "cml",
+  "father_pk": 6797,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Buku [buku1250]':1,'Nuclear Campalagian [nucl1566]':1)'Campalagian [camp1262][cml]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q5027893",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Campalagian_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "308911",
+        "grammar_sketch",
+        1987,
+        99,
+        "Abdul Muthalib and Adnan Usmar 1987"
+      ],
+      [
+        "321333",
+        "phonology_or_text",
+        1973,
+        24,
+        "Abdul Muthalib and Adnan Usmar 1973"
+      ]
+    ]
+  },
+  "id": "camp1262",
+  "name": "Campalagian",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.016667,
+  "longitude": 119.623611,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "South Sulawesi",
+      "id": "sout2923",
+      "url": "https://glottolog.org/resource/languoid/id/sout2923"
+    },
+    {
+      "name": "Tamanic-Bugis",
+      "id": "bugi1243",
+      "url": "https://glottolog.org/resource/languoid/id/bugi1243"
+    },
+    {
+      "name": "Bugis",
+      "id": "bugi1245",
+      "url": "https://glottolog.org/resource/languoid/id/bugi1245"
+    }
+  ],
+  "iso639-3": "cml"
+}

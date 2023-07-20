@@ -1,0 +1,127 @@
+{
+  "pk": 18721,
+  "hid": "rmt",
+  "father_pk": 16490,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Dom of Beirut [beir1242]':1,'Dom of Syria [bara1354]':1,'Karachi [kara1460]':1,'Kurbat of Western Iran [kurb1242]':1,'Marashi [mara1375]':1)'Northern Domari [nort3360]':1,('Jerusalem Domari [nabl1238]':1,'Jordanian Domari [nawa1257]':1)'Southern Domari [sout3344]':1)'Domari [doma1258][rmt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 9,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q35394",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Domari_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/doma1258",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_dom",
+        "label": "Domari"
+      }
+    ],
+    "meds": [
+      [
+        "319803",
+        "long_grammar",
+        2012,
+        480,
+        "Yaron Matras 2012"
+      ],
+      [
+        "95045",
+        "grammar_sketch",
+        1914,
+        108,
+        "Macalister, R.A. Stewart 1914"
+      ],
+      [
+        "413269",
+        "grammar_sketch",
+        1909,
+        71,
+        "Macalister, R.A. Stewart 1909-1910, 1911-1912, 1911-1912, 1912-1913"
+      ],
+      [
+        "71705",
+        "wordlist_or_less",
+        1860,
+        128,
+        "Alexandre G. Paspati and C. Hamlin 1860-1863"
+      ],
+      [
+        "444916",
+        "wordlist_or_less",
+        1856,
+        14,
+        "Newbold, F. R. S. 1856"
+      ]
+    ]
+  },
+  "id": "doma1258",
+  "name": "Domari",
+  "description": null,
+  "markup_description": null,
+  "latitude": 32,
+  "longitude": 35,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Indo-Aryan",
+      "id": "indo1321",
+      "url": "https://glottolog.org/resource/languoid/id/indo1321"
+    },
+    {
+      "name": "Middle-Modern Indo-Aryan",
+      "id": "midd1375",
+      "url": "https://glottolog.org/resource/languoid/id/midd1375"
+    },
+    {
+      "name": "Continental Indo-Aryan",
+      "id": "cont1248",
+      "url": "https://glottolog.org/resource/languoid/id/cont1248"
+    },
+    {
+      "name": "Midlands Indo-Aryan",
+      "id": "midl1245",
+      "url": "https://glottolog.org/resource/languoid/id/midl1245"
+    },
+    {
+      "name": "Shaurasenic",
+      "id": "shau1239",
+      "url": "https://glottolog.org/resource/languoid/id/shau1239"
+    },
+    {
+      "name": "Indo-Aryan Central zone",
+      "id": "indo1322",
+      "url": "https://glottolog.org/resource/languoid/id/indo1322"
+    }
+  ],
+  "iso639-3": "rmt"
+}

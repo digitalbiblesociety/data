@@ -1,0 +1,100 @@
+{
+  "pk": 20966,
+  "hid": "ovd",
+  "father_pk": 18912,
+  "family_pk": 72,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "('Blyberg [blyb1234]':1,'Evetsberg [evet1234]':1,'Åsen [asen1244]':1)'Elfdalian [elfd1234][ovd]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q254950",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Elfdalian",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/elfd1234",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "535619",
+        "wordlist_or_less",
+        2015,
+        0,
+        "ISO 639-3 Registration Authority 2015"
+      ]
+    ]
+  },
+  "id": "elfd1234",
+  "name": "Elfdalian",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Germanic",
+      "id": "germ1287",
+      "url": "https://glottolog.org/resource/languoid/id/germ1287"
+    },
+    {
+      "name": "Northwest Germanic",
+      "id": "nort3152",
+      "url": "https://glottolog.org/resource/languoid/id/nort3152"
+    },
+    {
+      "name": "North Germanic",
+      "id": "nort3160",
+      "url": "https://glottolog.org/resource/languoid/id/nort3160"
+    },
+    {
+      "name": "North Scandinavian",
+      "id": "nort3266",
+      "url": "https://glottolog.org/resource/languoid/id/nort3266"
+    },
+    {
+      "name": "East-Central Swedic",
+      "id": "east2780",
+      "url": "https://glottolog.org/resource/languoid/id/east2780"
+    },
+    {
+      "name": "Dalecarlian",
+      "id": "dale1238",
+      "url": "https://glottolog.org/resource/languoid/id/dale1238"
+    },
+    {
+      "name": "Österdalarna",
+      "id": "oste1242",
+      "url": "https://glottolog.org/resource/languoid/id/oste1242"
+    },
+    {
+      "name": "Ovansiljan",
+      "id": "ovan1234",
+      "url": "https://glottolog.org/resource/languoid/id/ovan1234"
+    }
+  ],
+  "iso639-3": "ovd"
+}

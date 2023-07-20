@@ -1,0 +1,111 @@
+{
+  "pk": 18490,
+  "hid": "lhm",
+  "father_pk": 16174,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Lhomi [lhom1239][lhm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5642",
+        "label": "Lhomi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q14240916",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_lho",
+        "label": "Lhomi"
+      }
+    ],
+    "meds": [
+      [
+        "406932",
+        "long_grammar",
+        2014,
+        399,
+        "Vesalainen, Olavi 2014"
+      ],
+      [
+        "79029",
+        "grammar_sketch",
+        1980,
+        107,
+        "Vesalainen, Olavi and Merja Vesalainen 1980"
+      ],
+      [
+        "78125",
+        "phonology_or_text",
+        1976,
+        72,
+        "Vesalainen, Olavi and Vesalainen, Marja 1976"
+      ],
+      [
+        "40609",
+        "wordlist_or_less",
+        1975,
+        56,
+        "Christoph von Fürer-Haimendorf 1975"
+      ]
+    ]
+  },
+  "id": "lhom1239",
+  "name": "Lhomi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.5948,
+  "longitude": 87.7161,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "Bodish",
+      "id": "bodi1257",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1257"
+    },
+    {
+      "name": "Early Old Tibetan",
+      "id": "oldm1245",
+      "url": "https://glottolog.org/resource/languoid/id/oldm1245"
+    },
+    {
+      "name": "Middle Old Tibetan",
+      "id": "tibe1276",
+      "url": "https://glottolog.org/resource/languoid/id/tibe1276"
+    },
+    {
+      "name": "Late Old Tibetan",
+      "id": "late1253",
+      "url": "https://glottolog.org/resource/languoid/id/late1253"
+    },
+    {
+      "name": "Central Tibetan",
+      "id": "cent2346",
+      "url": "https://glottolog.org/resource/languoid/id/cent2346"
+    },
+    {
+      "name": "South-Western Tibetic",
+      "id": "sout3216",
+      "url": "https://glottolog.org/resource/languoid/id/sout3216"
+    }
+  ],
+  "iso639-3": "lhm"
+}

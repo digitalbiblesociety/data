@@ -1,0 +1,90 @@
+{
+  "pk": 808,
+  "hid": "kav",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Katukína [nucl1668][kav]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "kav",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 lists two languages Kanamari [knm] and Katukina\n[kav] as per the below.\n\n| name | Kanamarí |\n| Population | 1,330 (Moore 2006). 100 Tsohom-Djapa speakers (Crevels 2007) |\n|  | Ethnic population: 2,750 (2006 FUNASA). |\n| Location | Amazonas, upper regions of Jurua, Jutai, Itaquai rivers. |\n| Language Use | Vigorous. |\n| Language Status | 6a (Vigorous). |\n| Language Maps | Western Central Brazil |\n| ISO 639-3 | knm |\n| Dialects | Tshom-Djapa (Txunhuã Dyapá, Txunhuã-Djapá), Tsohon-Djapa. |\n| Country | Brazil |\n| Classification | Maipurean, Southern, Southern Outlier, Piro |\n| Alternate Names | Canamarí, Kanamaré |\n\n\n| name | Katukína |\n| Population | No known L1 speakers. Ethnic population: 590 (2008 FUNASA). |\n| Other Comments | Different from Panoan Katukína [knt] in Amazonas and Acre. |\n| Location | Acre. |\n| Language Status | 9 (Dormant). |\n| ISO 639-3 | kav |\n| Dialects | Cutiadapa (Kutia-Dyapa). |\n| Country | Brazil |\n| Classification | Katukinan |\n| Alternate Names | Catuquina, Katukina do Jutaí, Katukina do Rio Biá, Pidá-Djapá |\n\n\nThe language matching the name, location, population and dialect information of the Kanamari [knm] entry, is well-known from the linguistic (e.g.,\n**hh:s:QueixalosdosAnjos:Katukina-Kanamari**, **hh:typ:Queixalos:Katukina**, **hh:s:Groth:Canamari**, **hh:phon:deMagalhaes:Kanamari**, **hh:hsoc:AnonbyHolbrook:Javari**, **hh:ew:Carvalho:Javari-Itacoai-Jurua**)\nand ethnographic (e.g., **hh:he:Melatti:Javari**, **hh:he:Verneau:Amazon**)\nliterature. But this language is not, as the E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 classification has it, a Maipurean Arawakan language closest to Piro (Yine)\n[yib]. The idea that it is closely related to Piro ultimately stems from a name confusion with the Canamaré vocabulary in\n**hh:hw:Martius:Brasiliens**. This Canamaré vocabulary is indeed so close to Piro as to count as Piro, but it is not the same language the Kanamari indicated by the data in the Kanamari [knm] entry, as shown already by **hh:vw:Rivet:Katukina**. Turning now to the Katukina\n[kav]-entry, its location, classification, alternative names and dialect names (but not speaker number) corresponds to the Katukina known in the literature (e.g.,\n**hh:phon:dosAnjos:Katukina**). However, this Katukina [kav]\nlanguage is mutually intelligible with Kanamari [knm]\n(**hh:g:dosAnjos:Katukina-Kanamari**:8-16) and the two should count uncontroversially as one entry.  Older vocabularies are also similar enough to count as the same language\n(**hh:w:Loukotka:Inedits**, **hh:vw:Rivet:Katukina**) so there is no reason to posit a separate entry for a Katukina that existed in the past. Thus,\none of the Kanamari [knm] and Katukina [kav] entries is spurious. The confusion in this case may have been licensed by the existence of yet more distinct languages surfacing under the name Katukina, i.e., the Panoan Katukina (**hh:hwsoc:deAguiar:Katukina**) and the problematic Catuquinarú vocabulary (**hh:vw:Rivet:Katukina**). See also: Katukína-Kanamarí [knm]."
+    },
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4005",
+        "label": "Katukina"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3450636",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Katuk%C3%ADna_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nucl1668",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "657200",
+        "phonology_or_text",
+        2005,
+        0,
+        "dos Anjos, Zoraide 2005"
+      ],
+      [
+        "20802",
+        "wordlist_or_less",
+        1993,
+        12,
+        "Suelí Aguiar, Maria 1993"
+      ],
+      [
+        "83984",
+        "wordlist_or_less",
+        1987,
+        0,
+        "Resende, V.G. and S.M. Schmidt 1987"
+      ]
+    ]
+  },
+  "id": "nucl1668",
+  "name": "Katukína",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.19121,
+  "longitude": -70.3822,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "kav"
+}

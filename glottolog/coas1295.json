@@ -1,0 +1,71 @@
+{
+  "pk": 9368,
+  "hid": "kjc",
+  "father_pk": 6801,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bantaeng [bant1292]':1,'Konjo Pesisir [konj1249]':1,'Tana Toa [tana1286]':1)'Coastal Konjo [coas1295][kjc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3198689",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kjo",
+        "label": "Konjo"
+      }
+    ],
+    "meds": [
+      [
+        "314330",
+        "phonology_or_text",
+        1971,
+        59,
+        "Pelenkahu, R. A. and Djirong Basang and Abdul Muthalib Saeha and Nurdin Yatim 1971"
+      ]
+    ]
+  },
+  "id": "coas1295",
+  "name": "Coastal Konjo",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.41532,
+  "longitude": 120.304,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "South Sulawesi",
+      "id": "sout2923",
+      "url": "https://glottolog.org/resource/languoid/id/sout2923"
+    },
+    {
+      "name": "Makassaric",
+      "id": "maka1310",
+      "url": "https://glottolog.org/resource/languoid/id/maka1310"
+    },
+    {
+      "name": "Konjo",
+      "id": "konj1250",
+      "url": "https://glottolog.org/resource/languoid/id/konj1250"
+    }
+  ],
+  "iso639-3": "kjc"
+}

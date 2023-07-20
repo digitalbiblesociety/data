@@ -1,0 +1,109 @@
+{
+  "pk": 11749,
+  "hid": "des",
+  "father_pk": 8941,
+  "family_pk": 242,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Desano [desa1247][des]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1455",
+        "label": "Desano"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_des",
+        "label": "Desano"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Desano_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/desa1247",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q962392",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "303723",
+        "long_grammar",
+        2012,
+        322,
+        "Silva, Wilson de Lima 2012"
+      ],
+      [
+        "47040",
+        "grammar",
+        1999,
+        192,
+        "Marion Miller 1999"
+      ],
+      [
+        "92020",
+        "grammar_sketch",
+        1966,
+        0,
+        "Miller, James and Marion M. Swift de Miller 1966"
+      ],
+      [
+        "310990",
+        "wordlist_or_less",
+        1909,
+        8,
+        "Stradelli, Ermanno 1909"
+      ]
+    ]
+  },
+  "id": "desa1247",
+  "name": "Desano",
+  "description": null,
+  "markup_description": null,
+  "latitude": 0.58157,
+  "longitude": -69.4955,
+  "classification": [
+    {
+      "name": "Tucanoan",
+      "id": "tuca1253",
+      "url": "https://glottolog.org/resource/languoid/id/tuca1253"
+    },
+    {
+      "name": "Eastern Tucanoan",
+      "id": "east2698",
+      "url": "https://glottolog.org/resource/languoid/id/east2698"
+    },
+    {
+      "name": "Western Eastern Tucanoan",
+      "id": "west2789",
+      "url": "https://glottolog.org/resource/languoid/id/west2789"
+    },
+    {
+      "name": "Cubeo-Desano",
+      "id": "cube1243",
+      "url": "https://glottolog.org/resource/languoid/id/cube1243"
+    },
+    {
+      "name": "Yupua-Siriano-Desano",
+      "id": "yupu1234",
+      "url": "https://glottolog.org/resource/languoid/id/yupu1234"
+    },
+    {
+      "name": "Siriano-Desano",
+      "id": "siri1280",
+      "url": "https://glottolog.org/resource/languoid/id/siri1280"
+    }
+  ],
+  "iso639-3": "des"
+}

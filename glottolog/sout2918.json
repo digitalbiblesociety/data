@@ -1,0 +1,106 @@
+{
+  "pk": 15342,
+  "hid": "ssb",
+  "father_pk": 12535,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bajau Banaran [baja1263]':1,'Bajau Darat [baja1261]':1,'Bajau Laut [baja1260]':1,'Bajau Semporna [baja1262]':1,'Balimbing [bali1281]':1,'Bongao [bong1288]':1,'Laminusa [lami1238]':1,'Languyan [lang1326]':1,'Obian [obia1237]':1,'Sama {Malaysia-Philippines} [sama1303]':1,'Sapa-Sapa [sapa1252]':1,'Sibutu'' [sibu1255]':1,'Sikubung [siku1243]':1,'Simunul [simu1237]':1,'Sitangkai [sita1237]':1,'Tandubas [tand1255]':1,'Ubian [ubia1237]':1)'Southern Sama [sout2918][ssb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 17,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3470594",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/sout2918",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bjs",
+        "label": "Sama (Southern)"
+      }
+    ],
+    "meds": [
+      [
+        "78179",
+        "grammar",
+        1996,
+        277,
+        "Akamine, Jun 1996"
+      ],
+      [
+        "137951",
+        "grammar_sketch",
+        1977,
+        27,
+        "Allison, E. Joseph 1977"
+      ],
+      [
+        "551951",
+        "grammar_sketch",
+        1968,
+        20,
+        "Sather, Clifford A. 1968"
+      ],
+      [
+        "85606",
+        "wordlist_or_less",
+        1873,
+        2,
+        "Meijer, Adolf Bernhard 1873"
+      ]
+    ]
+  },
+  "id": "sout2918",
+  "name": "Southern Sama",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.755836,
+  "longitude": 119.483887,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Basap-Greater Barito",
+      "id": "basa1291",
+      "url": "https://glottolog.org/resource/languoid/id/basa1291"
+    },
+    {
+      "name": "Greater Barito linkage",
+      "id": "grea1283",
+      "url": "https://glottolog.org/resource/languoid/id/grea1283"
+    },
+    {
+      "name": "Sama-Bajaw",
+      "id": "sama1302",
+      "url": "https://glottolog.org/resource/languoid/id/sama1302"
+    },
+    {
+      "name": "Sulu-Borneo",
+      "id": "sulu1242",
+      "url": "https://glottolog.org/resource/languoid/id/sulu1242"
+    },
+    {
+      "name": "Inner Sulu Sama",
+      "id": "inne1244",
+      "url": "https://glottolog.org/resource/languoid/id/inne1244"
+    }
+  ],
+  "iso639-3": "ssb"
+}

@@ -1,0 +1,111 @@
+{
+  "pk": 11009,
+  "hid": "lat",
+  "father_pk": 8051,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Late Latin [late1252]':1,'Medieval Latin [medi1250]':1,'Vulgar Latin [vulg1234]':1)'Latin [lati1261][lat]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Latin",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q397",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "555281",
+        "long_grammar",
+        2004,
+        581,
+        "Galdi, Giovanbattista 2004"
+      ],
+      [
+        "576170",
+        "long_grammar",
+        1966,
+        483,
+        "Prentice, K. E. and B. C. Taylor 1966, 1968, 1968"
+      ],
+      [
+        "84845",
+        "grammar",
+        1908,
+        290,
+        "C. E. Bennett 1908"
+      ],
+      [
+        "661832",
+        "grammar",
+        1903,
+        0,
+        "Gildersleeve, Basil L. and Lodge, Gonzalez 1903"
+      ],
+      [
+        "160195",
+        "grammar_sketch",
+        1880,
+        336,
+        "Julius Zupitza 1880 [995]"
+      ],
+      [
+        "320373",
+        "grammar_sketch",
+        1549,
+        0,
+        "Lily, William 1549"
+      ]
+    ]
+  },
+  "id": "lati1261",
+  "name": "Latin",
+  "description": null,
+  "markup_description": null,
+  "latitude": 41.9026,
+  "longitude": 12.4502,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Italic",
+      "id": "ital1284",
+      "url": "https://glottolog.org/resource/languoid/id/ital1284"
+    },
+    {
+      "name": "Latino-Faliscan",
+      "id": "lati1262",
+      "url": "https://glottolog.org/resource/languoid/id/lati1262"
+    },
+    {
+      "name": "Latinic",
+      "id": "lati1263",
+      "url": "https://glottolog.org/resource/languoid/id/lati1263"
+    },
+    {
+      "name": "Imperial Latin",
+      "id": "impe1234",
+      "url": "https://glottolog.org/resource/languoid/id/impe1234"
+    }
+  ],
+  "iso639-3": "lat"
+}

@@ -1,0 +1,113 @@
+{
+  "pk": 14344,
+  "hid": "gnd",
+  "father_pk": 11266,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Gemzek [gemz1238]':1,'Mineo [mine1239]':1,'Zulgo [zulg1243]':1)'Zulgo-Gemzek [zulg1242][gnd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Zulgo-Gemzek_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/zulg1242",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56800",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "80634",
+        "grammar_sketch",
+        1981,
+        38,
+        "Wiesemann, Ursula and Hedinger, Sylvia and Haller, Beat 1981"
+      ],
+      [
+        "98268",
+        "phonology_or_text",
+        1980,
+        92,
+        "Haller, Beat 1980"
+      ],
+      [
+        "32077",
+        "phonology_or_text",
+        1978,
+        23,
+        "Rossing, Mervin Olaf 1978"
+      ],
+      [
+        "435081",
+        "wordlist_or_less",
+        1973,
+        52,
+        "Boutrais, Jean 1973"
+      ],
+      [
+        "324359",
+        "wordlist_or_less",
+        1949,
+        16,
+        "Jean Mouchet 1949"
+      ]
+    ]
+  },
+  "id": "zulg1242",
+  "name": "Zulgo-Gemzek",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.827,
+  "longitude": 14.0578,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "Biu-Mandara",
+      "id": "bium1280",
+      "url": "https://glottolog.org/resource/languoid/id/bium1280"
+    },
+    {
+      "name": "North Biu-Mandara",
+      "id": "nort3156",
+      "url": "https://glottolog.org/resource/languoid/id/nort3156"
+    },
+    {
+      "name": "Margi-Mandara-Mofu",
+      "id": "marg1267",
+      "url": "https://glottolog.org/resource/languoid/id/marg1267"
+    },
+    {
+      "name": "Mofuic",
+      "id": "mofu1249",
+      "url": "https://glottolog.org/resource/languoid/id/mofu1249"
+    },
+    {
+      "name": "Meri",
+      "id": "meri1245",
+      "url": "https://glottolog.org/resource/languoid/id/meri1245"
+    }
+  ],
+  "iso639-3": "gnd"
+}

@@ -1,0 +1,75 @@
+{
+  "pk": 4752,
+  "hid": "bfh",
+  "father_pk": 3029,
+  "family_pk": 299,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Mblafe [mbla1238]':1,'Ránmo [ranm1238]':1)'Mblafe-Ránmo [blaf1238][bfh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12628007",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Blafe_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "588199",
+        "phonology_or_text",
+        2016,
+        237,
+        "Lee, Jenny Soyeon 2016"
+      ],
+      [
+        "72902",
+        "wordlist_or_less",
+        1939,
+        9,
+        "Nevermann, Hans 1939"
+      ],
+      [
+        "161128",
+        "wordlist_or_less",
+        1936,
+        8,
+        "Williams, Francis Edgar 1936"
+      ]
+    ]
+  },
+  "id": "blaf1238",
+  "name": "Mblafe-Ránmo",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.56161,
+  "longitude": 141.226,
+  "classification": [
+    {
+      "name": "Yam",
+      "id": "more1255",
+      "url": "https://glottolog.org/resource/languoid/id/more1255"
+    },
+    {
+      "name": "Morehead-Maro",
+      "id": "more1256",
+      "url": "https://glottolog.org/resource/languoid/id/more1256"
+    },
+    {
+      "name": "Tonda",
+      "id": "tond1250",
+      "url": "https://glottolog.org/resource/languoid/id/tond1250"
+    }
+  ],
+  "iso639-3": "bfh"
+}

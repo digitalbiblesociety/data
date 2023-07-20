@@ -1,0 +1,120 @@
+{
+  "pk": 18885,
+  "hid": "sco",
+  "father_pk": 16607,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "((('Bungee [bung1271]':1,'Orkney Scots [orkn1236]':1)'Orcadian Scots [orca1234]':1,'Shetland Scots [shet1241]':1)'Insular Scots [insu1251]':1,('Eastern Mid Scots [east2836]':1,'Southern Mid Scots [sout3303]':1,'Ulster [ulst1239]':1,'Western Mid Scots [west2923]':1)'Mid Scots [mids1245]':1,('Mid Northern Scots [midn1242]':1,'North Northern Scots [nort3321]':1,'South Northern Scots [sout3304]':1)'Northern Scots [nort2617]':1,('East Dumfries Scots [east2837]':1,'Mid Dumfries Scots [midd1361]':1,'Roxburgh Scots [roxb1234]':1,'Selkirk Scots [selk1254]':1)'Southern Scots [sout2620]':1)'Scots [scot1243][sco]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 19,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10894",
+        "label": "Scots"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Scots_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/scot1243",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q14549",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "319073",
+        "long_grammar",
+        1921,
+        522,
+        "William Grant and James Main Dixon 1921"
+      ],
+      [
+        "575293",
+        "grammar",
+        1873,
+        270,
+        "Murray, J. 1873"
+      ],
+      [
+        "571994",
+        "phonology_or_text",
+        1866,
+        232,
+        "Walter Gregor 1866"
+      ],
+      [
+        "571679",
+        "wordlist_or_less",
+        1792,
+        39,
+        "Geddes, Alexander 1792"
+      ]
+    ]
+  },
+  "id": "scot1243",
+  "name": "Scots",
+  "description": null,
+  "markup_description": null,
+  "latitude": 55.886945,
+  "longitude": -3.710133,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Germanic",
+      "id": "germ1287",
+      "url": "https://glottolog.org/resource/languoid/id/germ1287"
+    },
+    {
+      "name": "Northwest Germanic",
+      "id": "nort3152",
+      "url": "https://glottolog.org/resource/languoid/id/nort3152"
+    },
+    {
+      "name": "West Germanic",
+      "id": "west2793",
+      "url": "https://glottolog.org/resource/languoid/id/west2793"
+    },
+    {
+      "name": "North Sea Germanic",
+      "id": "nort3175",
+      "url": "https://glottolog.org/resource/languoid/id/nort3175"
+    },
+    {
+      "name": "Anglo-Frisian",
+      "id": "angl1264",
+      "url": "https://glottolog.org/resource/languoid/id/angl1264"
+    },
+    {
+      "name": "Anglic",
+      "id": "angl1265",
+      "url": "https://glottolog.org/resource/languoid/id/angl1265"
+    },
+    {
+      "name": "Later Anglic",
+      "id": "late1254",
+      "url": "https://glottolog.org/resource/languoid/id/late1254"
+    }
+  ],
+  "iso639-3": "sco"
+}

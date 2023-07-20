@@ -1,0 +1,73 @@
+{
+  "pk": 757,
+  "hid": "nad",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Nijadali [nija1242][nad]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "nad",
+      "name": "Nijadali",
+      "change_request": "2015-028",
+      "effective": "2016-01-15",
+      "reason": "duplicate",
+      "change_to": [
+        "xny"
+      ],
+      "remedy": "Duplicate of [xny] Nyiyaparli",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4748",
+        "label": "Palyku"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/a50",
+        "label": "Nyiyaparli"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q10600723",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "668316",
+        "grammar",
+        1996,
+        0,
+        "Thieberger, Nicholas 1996"
+      ],
+      [
+        "305370",
+        "wordlist_or_less",
+        1970,
+        2,
+        "Brandenstein, Carl Georg von 1970"
+      ]
+    ]
+  },
+  "id": "nija1242",
+  "name": "Nijadali",
+  "description": null,
+  "markup_description": null,
+  "latitude": -22.85576,
+  "longitude": 120.83057,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "nad"
+}

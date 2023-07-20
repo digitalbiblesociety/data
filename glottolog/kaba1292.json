@@ -1,0 +1,101 @@
+{
+  "pk": 11205,
+  "hid": "kvf",
+  "father_pk": 8257,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Gablai [gabl1238]':1)'Kabalai [kaba1292][kvf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/804",
+        "label": "Kabalai"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3440427",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kabalai_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "161027",
+        "wordlist_or_less",
+        2002,
+        16,
+        "Hamm, Cameron 2002"
+      ],
+      [
+        "102268",
+        "wordlist_or_less",
+        1937,
+        2,
+        "Lukas, Johannes 1937"
+      ],
+      [
+        "17699",
+        "wordlist_or_less",
+        1907,
+        2,
+        "Gaudefroy-Demombynes, Maurice 1907"
+      ],
+      [
+        "29527",
+        "wordlist_or_less",
+        1905,
+        4,
+        "Bruel, Georges 1905"
+      ]
+    ]
+  },
+  "id": "kaba1292",
+  "name": "Kabalai",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.38373,
+  "longitude": 16.2821,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "East Chadic",
+      "id": "east2632",
+      "url": "https://glottolog.org/resource/languoid/id/east2632"
+    },
+    {
+      "name": "East Chadic A",
+      "id": "east2640",
+      "url": "https://glottolog.org/resource/languoid/id/east2640"
+    },
+    {
+      "name": "East Chadic A.2",
+      "id": "east2645",
+      "url": "https://glottolog.org/resource/languoid/id/east2645"
+    },
+    {
+      "name": "East Chadic A.2 2",
+      "id": "east2722",
+      "url": "https://glottolog.org/resource/languoid/id/east2722"
+    }
+  ],
+  "iso639-3": "kvf"
+}

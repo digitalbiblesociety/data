@@ -1,0 +1,85 @@
+{
+  "pk": 10229,
+  "hid": "cmr",
+  "father_pk": 7354,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mro Chin [mroc1235][cmr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Mro-Khimi_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q16306748",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "76895",
+        "grammar_sketch",
+        1943,
+        49,
+        "Robert Shafer 1943"
+      ],
+      [
+        "300852",
+        "wordlist_or_less",
+        1934,
+        6,
+        "Myaing, U Ba 1934"
+      ],
+      [
+        "43796",
+        "wordlist_or_less",
+        1933,
+        3,
+        "Ohn Pe, U. 1933"
+      ]
+    ]
+  },
+  "id": "mroc1235",
+  "name": "Mro Chin",
+  "description": null,
+  "markup_description": null,
+  "latitude": 19.71,
+  "longitude": 93.995,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Kuki-Chin",
+      "id": "kuki1246",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1246"
+    },
+    {
+      "name": "Peripheral Kuki-Chin",
+      "id": "peri1260",
+      "url": "https://glottolog.org/resource/languoid/id/peri1260"
+    },
+    {
+      "name": "Khomic",
+      "id": "khom1240",
+      "url": "https://glottolog.org/resource/languoid/id/khom1240"
+    }
+  ],
+  "iso639-3": "cmr"
+}

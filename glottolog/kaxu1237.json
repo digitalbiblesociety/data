@@ -1,0 +1,95 @@
+{
+  "pk": 2009,
+  "hid": "kbb",
+  "father_pk": 901,
+  "family_pk": 56,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Cunuana [cunu1237]':1,'De''cuana [decu1237]':1,'Ihuruana [ihur1237]':1,'Pawiyana [pawi1238]':1)'Kaxuiâna [kaxu1237][kbb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3099",
+        "label": "Katxúyana"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12953626",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kaxu1237",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "44413",
+        "phonology_or_text",
+        1997,
+        15,
+        "Gildea, Spike 1997"
+      ],
+      [
+        "112493",
+        "phonology_or_text",
+        1980,
+        101,
+        "Paula, Ruth Wallace de Garcia 1980"
+      ],
+      [
+        "40909",
+        "phonology_or_text",
+        1970,
+        20,
+        "Ruth Wallace de Garcia 1970"
+      ],
+      [
+        "471985",
+        "wordlist_or_less",
+        1961,
+        10,
+        "Gottfried Polykrates 1961"
+      ],
+      [
+        "127053",
+        "wordlist_or_less",
+        1936,
+        9,
+        "Pompeu Sobrinho, Thomas 1936"
+      ],
+      [
+        "150211",
+        "wordlist_or_less",
+        1932,
+        4,
+        "Hurley, Jorge 1932"
+      ]
+    ]
+  },
+  "id": "kaxu1237",
+  "name": "Kaxuiâna",
+  "description": null,
+  "markup_description": null,
+  "latitude": 2.17138,
+  "longitude": -55.9101,
+  "classification": [
+    {
+      "name": "Cariban",
+      "id": "cari1283",
+      "url": "https://glottolog.org/resource/languoid/id/cari1283"
+    },
+    {
+      "name": "Parukotoan",
+      "id": "paru1239",
+      "url": "https://glottolog.org/resource/languoid/id/paru1239"
+    }
+  ],
+  "iso639-3": "kbb"
+}

@@ -1,0 +1,114 @@
+{
+  "pk": 5429,
+  "hid": "nog",
+  "father_pk": 3558,
+  "family_pk": 14,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Alabugat Tatar [alab1256]':1,'Black Nogai [blac1266]':1,'Central Nogai [cent1996]':1,'Karagash [kara1509]':1,'White Nogai [whit1262]':1,'Yurt Tatar [yurt1234]':1)'Nogai [noga1249][nog]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2897",
+        "label": "Noghay"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nog",
+        "label": "Noghay"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nok",
+        "label": "Noghay (Karagash)"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tlb",
+        "label": "Tatar-Noghay (Alabugat)"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_yta",
+        "label": "Yurt Tatar"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nogai_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33871",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "26539",
+        "long_grammar",
+        1973,
+        324,
+        "Baskakov, Nikolaj A. 1973"
+      ],
+      [
+        "145898",
+        "grammar",
+        1966,
+        21,
+        "Baskakov, N. A. 1966"
+      ],
+      [
+        "94658",
+        "grammar_sketch",
+        1963,
+        281,
+        "Baskakov, Nikolaj A. 1963"
+      ],
+      [
+        "308212",
+        "grammar_sketch",
+        1940,
+        270,
+        "Baskakov, Nikolaj A. 1940"
+      ],
+      [
+        "309459",
+        "wordlist_or_less",
+        1786,
+        20,
+        "Pallas, Peter Simon 1786, 1789"
+      ]
+    ]
+  },
+  "id": "noga1249",
+  "name": "Nogai",
+  "description": null,
+  "markup_description": null,
+  "latitude": 44.89776,
+  "longitude": 43.1656,
+  "classification": [
+    {
+      "name": "Turkic",
+      "id": "turk1311",
+      "url": "https://glottolog.org/resource/languoid/id/turk1311"
+    },
+    {
+      "name": "Common Turkic",
+      "id": "comm1245",
+      "url": "https://glottolog.org/resource/languoid/id/comm1245"
+    },
+    {
+      "name": "Kipchak",
+      "id": "kipc1239",
+      "url": "https://glottolog.org/resource/languoid/id/kipc1239"
+    },
+    {
+      "name": "South Kipchak",
+      "id": "sout2701",
+      "url": "https://glottolog.org/resource/languoid/id/sout2701"
+    }
+  ],
+  "iso639-3": "nog"
+}

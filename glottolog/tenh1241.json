@@ -1,0 +1,101 @@
+{
+  "pk": 10803,
+  "hid": "pah",
+  "father_pk": 7933,
+  "family_pk": 51,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Diahói [diah1239]':1,'Parintintín [pari1258]':1,'Tenharim [nucl1663]':1)'Tenharim-Parintintin-Diahoi [tenh1241][pah]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2155",
+        "label": "Tenharín"
+      },
+      {
+        "url": "https://phoible.org/languages/tenh1241",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q10266010",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "66468",
+        "grammar_sketch",
+        1981,
+        163,
+        "Betts, LaVera 1981"
+      ],
+      [
+        "59040",
+        "grammar_sketch",
+        1968,
+        84,
+        "Helen Pease 1968"
+      ],
+      [
+        "163763",
+        "wordlist_or_less",
+        1924,
+        39,
+        "Curt Nimuendajú 1924"
+      ],
+      [
+        "58549",
+        "wordlist_or_less",
+        1923,
+        8,
+        "José Garcia de Freitas 1923"
+      ]
+    ]
+  },
+  "id": "tenh1241",
+  "name": "Tenharim-Parintintin-Diahoi",
+  "description": null,
+  "markup_description": null,
+  "latitude": -7.92626,
+  "longitude": -61.936,
+  "classification": [
+    {
+      "name": "Tupian",
+      "id": "tupi1275",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1275"
+    },
+    {
+      "name": "Maweti-Guarani",
+      "id": "mawe1252",
+      "url": "https://glottolog.org/resource/languoid/id/mawe1252"
+    },
+    {
+      "name": "Aweti-Guarani",
+      "id": "awet1245",
+      "url": "https://glottolog.org/resource/languoid/id/awet1245"
+    },
+    {
+      "name": "Tupi-Guarani",
+      "id": "tupi1276",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1276"
+    },
+    {
+      "name": "Tupi-Guarani Subgroup VI",
+      "id": "tupi1280",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1280"
+    },
+    {
+      "name": "Kawahiwa Setentrionais",
+      "id": "kawa1292",
+      "url": "https://glottolog.org/resource/languoid/id/kawa1292"
+    }
+  ],
+  "iso639-3": "pah"
+}

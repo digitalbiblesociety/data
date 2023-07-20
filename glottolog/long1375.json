@@ -1,0 +1,76 @@
+{
+  "pk": 13269,
+  "hid": "lpn",
+  "father_pk": 10207,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Long Phuri Naga [long1375][lpn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6673049",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Long_Phuri_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "133158",
+        "wordlist_or_less",
+        2005,
+        10,
+        "Saul, Jamie D. 2005"
+      ]
+    ]
+  },
+  "id": "long1375",
+  "name": "Long Phuri Naga",
+  "description": null,
+  "markup_description": null,
+  "latitude": 25.5578,
+  "longitude": 94.9838,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Angami-Ao",
+      "id": "anga1312",
+      "url": "https://glottolog.org/resource/languoid/id/anga1312"
+    },
+    {
+      "name": "Central Naga",
+      "id": "aoic1235",
+      "url": "https://glottolog.org/resource/languoid/id/aoic1235"
+    },
+    {
+      "name": "Yimchingric",
+      "id": "yimc1239",
+      "url": "https://glottolog.org/resource/languoid/id/yimc1239"
+    },
+    {
+      "name": "Makuric",
+      "id": "maku1272",
+      "url": "https://glottolog.org/resource/languoid/id/maku1272"
+    }
+  ],
+  "iso639-3": "lpn"
+}

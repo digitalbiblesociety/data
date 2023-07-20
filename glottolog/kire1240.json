@@ -1,0 +1,95 @@
+{
+  "pk": 5941,
+  "hid": "geb",
+  "father_pk": 3965,
+  "family_pk": 143,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kire [kire1240][geb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10652",
+        "label": "Kire"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kie",
+        "label": "Kire"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kire_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q11129733",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "122302",
+        "grammar_sketch",
+        1972,
+        23,
+        "John M. Stanhope 1972"
+      ],
+      [
+        "37308",
+        "wordlist_or_less",
+        1969,
+        2,
+        "John A. Z'graggen 1969"
+      ],
+      [
+        "310827",
+        "wordlist_or_less",
+        1962,
+        32,
+        "Höltker, Georg 1962"
+      ],
+      [
+        "148526",
+        "wordlist_or_less",
+        1961,
+        18,
+        "Höltker, Georg 1961"
+      ]
+    ]
+  },
+  "id": "kire1240",
+  "name": "Kire",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.25927,
+  "longitude": 144.711,
+  "classification": [
+    {
+      "name": "Lower Sepik-Ramu",
+      "id": "lowe1437",
+      "url": "https://glottolog.org/resource/languoid/id/lowe1437"
+    },
+    {
+      "name": "Ramu",
+      "id": "ramu1234",
+      "url": "https://glottolog.org/resource/languoid/id/ramu1234"
+    },
+    {
+      "name": "Lower Ramu",
+      "id": "lowe1439",
+      "url": "https://glottolog.org/resource/languoid/id/lowe1439"
+    },
+    {
+      "name": "Ruboni",
+      "id": "kire1239",
+      "url": "https://glottolog.org/resource/languoid/id/kire1239"
+    }
+  ],
+  "iso639-3": "geb"
+}

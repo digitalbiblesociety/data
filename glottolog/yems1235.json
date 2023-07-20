@@ -1,0 +1,91 @@
+{
+  "pk": 1719,
+  "hid": "jnj",
+  "father_pk": 342,
+  "family_pk": 342,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Fuga of Jimma [fuga1235]':1,'Toba {Ethiopia} [toba1264]':1)'Yemsa [yems1235][jnj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2702",
+        "label": "Yem"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36873",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yem_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/yems1235",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_yms",
+        "label": "Yemsa"
+      }
+    ],
+    "meds": [
+      [
+        "104851",
+        "long_grammar",
+        1993,
+        490,
+        "Lamberti, Marcello 1993"
+      ],
+      [
+        "587899",
+        "grammar_sketch",
+        1987,
+        0,
+        "Kassie, Shifere 1987"
+      ],
+      [
+        "122833",
+        "grammar_sketch",
+        1986,
+        0,
+        "Girma, Mammo 1986"
+      ],
+      [
+        "28464",
+        "grammar_sketch",
+        1984,
+        0,
+        "Fisseha, Hailu 1984"
+      ],
+      [
+        "585627",
+        "wordlist_or_less",
+        1845,
+        13,
+        "d'Abbadie, Antoine 1845"
+      ]
+    ]
+  },
+  "id": "yems1235",
+  "name": "Yemsa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.79821,
+  "longitude": 37.4412,
+  "classification": [
+    {
+      "name": "Ta-Ne-Omotic",
+      "id": "gong1255",
+      "url": "https://glottolog.org/resource/languoid/id/gong1255"
+    }
+  ],
+  "iso639-3": "jnj"
+}

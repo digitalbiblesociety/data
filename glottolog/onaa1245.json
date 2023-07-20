@@ -1,0 +1,89 @@
+{
+  "pk": 2827,
+  "hid": "ona",
+  "father_pk": 1337,
+  "family_pk": 263,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Koyuká [koyu1239]':1,('Selknam del Centro [selk1256]':1,'Selknam del Norte [selk1257]':1,'Selknam del Sur [selk1255]':1)'Nuclear Selk''nam [nucl1800]':1)'Selk''nam [onaa1245][ona]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2742",
+        "label": "Ona"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2721227",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ona_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/onaa1245",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_sel",
+        "label": "Selknam"
+      }
+    ],
+    "meds": [
+      [
+        "17652",
+        "grammar",
+        1973,
+        124,
+        "Elena L. Najlis 1973"
+      ],
+      [
+        "7916",
+        "grammar_sketch",
+        1915,
+        238,
+        "Beauvoir, José M. 1915"
+      ],
+      [
+        "112908",
+        "phonology_or_text",
+        1901,
+        0,
+        "Beauvoir, José María 1901"
+      ],
+      [
+        "112741",
+        "wordlist_or_less",
+        1887,
+        39,
+        "Lista, Ramón 1887"
+      ]
+    ]
+  },
+  "id": "onaa1245",
+  "name": "Selk'nam",
+  "description": null,
+  "markup_description": null,
+  "latitude": -54,
+  "longitude": -68.5,
+  "classification": [
+    {
+      "name": "Chonan",
+      "id": "chon1288",
+      "url": "https://glottolog.org/resource/languoid/id/chon1288"
+    },
+    {
+      "name": "Insular Chonan",
+      "id": "insu1253",
+      "url": "https://glottolog.org/resource/languoid/id/insu1253"
+    }
+  ],
+  "iso639-3": "ona"
+}

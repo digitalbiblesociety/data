@@ -1,0 +1,92 @@
+{
+  "pk": 1980,
+  "hid": "mav",
+  "father_pk": 884,
+  "family_pk": 51,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Sateré-Mawé [sate1243][mav]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1851",
+        "label": "Mawé"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Maw%C3%A9_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/sate1243",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6794475",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "11987",
+        "long_grammar",
+        2010,
+        329,
+        "da Silva, Raynice Geraldine Pereira 2010"
+      ],
+      [
+        "18004",
+        "long_grammar",
+        1999,
+        305,
+        "Franceschini, Dulce C. 1999"
+      ],
+      [
+        "122311",
+        "grammar",
+        1993,
+        0,
+        "Franceschini, Dulce 1993"
+      ],
+      [
+        "656629",
+        "grammar_sketch",
+        1929,
+        10,
+        "na 1929"
+      ],
+      [
+        "88589",
+        "wordlist_or_less",
+        1901,
+        5,
+        "Friedrich Katzer 1901"
+      ]
+    ]
+  },
+  "id": "sate1243",
+  "name": "Sateré-Mawé",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.63897,
+  "longitude": -56.8749,
+  "classification": [
+    {
+      "name": "Tupian",
+      "id": "tupi1275",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1275"
+    },
+    {
+      "name": "Maweti-Guarani",
+      "id": "mawe1252",
+      "url": "https://glottolog.org/resource/languoid/id/mawe1252"
+    }
+  ],
+  "iso639-3": "mav"
+}

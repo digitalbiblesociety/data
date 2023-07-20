@@ -1,0 +1,82 @@
+{
+  "pk": 2993,
+  "hid": "tsu",
+  "father_pk": 1533,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Duhtu [duht1237]':1,'Iimutsu [iimu1237]':1,'Luhtu [luht1237]':1,'Tapangu [tapa1257]':1,'Tfuea [tfue1237]':1)'Tsou [tsou1248][tsu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3497",
+        "label": "Tsou"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q716681",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tsou_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/tsou1248",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tso",
+        "label": "Tsou"
+      }
+    ],
+    "meds": [
+      [
+        "159639",
+        "long_grammar",
+        1994,
+        638,
+        "Szakos, József 1994"
+      ],
+      [
+        "45674",
+        "long_grammar",
+        1964,
+        324,
+        "Tung, T'ung-ho and S. H. Wang and T. Kuan and Tsai-fa Cheng and Margaret M. Yan 1964"
+      ],
+      [
+        "29621",
+        "wordlist_or_less",
+        1910,
+        1,
+        "W. Müller 1910"
+      ]
+    ]
+  },
+  "id": "tsou1248",
+  "name": "Tsou",
+  "description": null,
+  "markup_description": null,
+  "latitude": 23.216,
+  "longitude": 120.787,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Tsouic",
+      "id": "tsou1250",
+      "url": "https://glottolog.org/resource/languoid/id/tsou1250"
+    }
+  ],
+  "iso639-3": "tsu"
+}

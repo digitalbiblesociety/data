@@ -1,0 +1,126 @@
+{
+  "pk": 11095,
+  "hid": "har",
+  "father_pk": 8189,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Harari [hara1271][har]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_hrr",
+        "label": "Harari"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Harari_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/hara1271",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33626",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "550815",
+        "long_grammar",
+        2013,
+        625,
+        "Mitiku Cherinet, Beniam 2013"
+      ],
+      [
+        "62079",
+        "long_grammar",
+        1936,
+        476,
+        "Cerulli, Enrico 1936"
+      ],
+      [
+        "70304",
+        "grammar_sketch",
+        1931,
+        115,
+        "Cohen, Marcel 1931"
+      ],
+      [
+        "665528",
+        "grammar_sketch",
+        1901,
+        75,
+        "Mondon-Vidailhet, François Marie Casimir 1901, 1902"
+      ],
+      [
+        "313120",
+        "grammar_sketch",
+        1856,
+        73,
+        "Burton, Richard Francis [Capt.] 1856"
+      ],
+      [
+        "67389",
+        "wordlist_or_less",
+        1846,
+        2,
+        "Beke, Charles T. 1846"
+      ],
+      [
+        "51462",
+        "wordlist_or_less",
+        1817,
+        4,
+        "Vater, Johann Severin 1817"
+      ]
+    ]
+  },
+  "id": "hara1271",
+  "name": "Harari",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.30485,
+  "longitude": 42.1332,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Semitic",
+      "id": "semi1276",
+      "url": "https://glottolog.org/resource/languoid/id/semi1276"
+    },
+    {
+      "name": "West Semitic",
+      "id": "west2786",
+      "url": "https://glottolog.org/resource/languoid/id/west2786"
+    },
+    {
+      "name": "Ethiosemitic",
+      "id": "ethi1244",
+      "url": "https://glottolog.org/resource/languoid/id/ethi1244"
+    },
+    {
+      "name": "South Ethiopic",
+      "id": "sout3078",
+      "url": "https://glottolog.org/resource/languoid/id/sout3078"
+    },
+    {
+      "name": "Harari-East Gurage",
+      "id": "hara1270",
+      "url": "https://glottolog.org/resource/languoid/id/hara1270"
+    }
+  ],
+  "iso639-3": "har"
+}

@@ -1,0 +1,83 @@
+{
+  "pk": 13327,
+  "hid": "ghe",
+  "father_pk": 10266,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Barpak [barp1238]':1,'Kyaura [kyau1238]':1,'Laprak [lapr1238]':1)'Southern Ghale [sout2715][ghe]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5634",
+        "label": "Southern Ghale"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12952453",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "18824",
+        "grammar_sketch",
+        2008,
+        18,
+        "Krishna Paudel 2008"
+      ],
+      [
+        "72828",
+        "wordlist_or_less",
+        1982,
+        8,
+        "Nishi, Yoshio 1982"
+      ]
+    ]
+  },
+  "id": "sout2715",
+  "name": "Southern Ghale",
+  "description": null,
+  "markup_description": null,
+  "latitude": 28.106,
+  "longitude": 84.8511,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "Kaike-Ghale-Tamangic",
+      "id": "kaik1248",
+      "url": "https://glottolog.org/resource/languoid/id/kaik1248"
+    },
+    {
+      "name": "Ghale-Tamangic",
+      "id": "ghal1247",
+      "url": "https://glottolog.org/resource/languoid/id/ghal1247"
+    },
+    {
+      "name": "Ghale",
+      "id": "ghal1246",
+      "url": "https://glottolog.org/resource/languoid/id/ghal1246"
+    },
+    {
+      "name": "Nuclear Ghale",
+      "id": "nucl1818",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1818"
+    }
+  ],
+  "iso639-3": "ghe"
+}

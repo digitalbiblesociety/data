@@ -1,0 +1,78 @@
+{
+  "pk": 8569,
+  "hid": "cok",
+  "father_pk": 6108,
+  "family_pk": 155,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dolores Cora [dolo1238]':1,'Nuclear Santa Teresa Cora [nucl1652]':1,'Rosarito Cora [rosa1238]':1,'San Blasito Cora [sanb1240]':1,'San Juan Corapan Cora [sanj1277]':1)'Santa Teresa Cora [sant1424][cok]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6202",
+        "label": "Cora"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12641754",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "575855",
+        "phonology_or_text",
+        2018,
+        0,
+        "William H. Parker 2018"
+      ],
+      [
+        "93244",
+        "wordlist_or_less",
+        2001,
+        7,
+        "Casad, Eugene H. 2001"
+      ]
+    ]
+  },
+  "id": "sant1424",
+  "name": "Santa Teresa Cora",
+  "description": null,
+  "markup_description": null,
+  "latitude": 22.7102,
+  "longitude": -104.7,
+  "classification": [
+    {
+      "name": "Uto-Aztecan",
+      "id": "utoa1244",
+      "url": "https://glottolog.org/resource/languoid/id/utoa1244"
+    },
+    {
+      "name": "Southern Uto-Aztecan",
+      "id": "sout3136",
+      "url": "https://glottolog.org/resource/languoid/id/sout3136"
+    },
+    {
+      "name": "Corachol-Aztecan",
+      "id": "cora1261",
+      "url": "https://glottolog.org/resource/languoid/id/cora1261"
+    },
+    {
+      "name": "Corachol",
+      "id": "cora1259",
+      "url": "https://glottolog.org/resource/languoid/id/cora1259"
+    },
+    {
+      "name": "Coran",
+      "id": "cora1260",
+      "url": "https://glottolog.org/resource/languoid/id/cora1260"
+    }
+  ],
+  "iso639-3": "cok"
+}

@@ -1,0 +1,113 @@
+{
+  "pk": 15112,
+  "hid": "ind",
+  "father_pk": 12239,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Acrolectal Colloquial Jakarta Indonesian [acro1241]':1,'Bahasa Indonesia [stin1234]':1,'Riau Indonesian [riau1236]':1)'Standard Indonesian [indo1316][ind]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Indonesian_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/indo1316",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q9240",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "50439",
+        "long_grammar",
+        1972,
+        463,
+        "Alieva, Natalija F. and Arakin, Vladimir D. and Ogloblin, Aleksandr K. 1972"
+      ],
+      [
+        "16052",
+        "long_grammar",
+        1966,
+        302,
+        "Dardjowidjojo, Soenjono 1966"
+      ],
+      [
+        "60674",
+        "grammar_sketch",
+        1906,
+        321,
+        "Mayer, Leendert Theodorus 1906"
+      ],
+      [
+        "578541",
+        "grammar_sketch",
+        1823,
+        156,
+        "George Henrik Werndly 1823"
+      ],
+      [
+        "578540",
+        "grammar_sketch",
+        1736,
+        0,
+        "George Henrik Werndly 1736"
+      ]
+    ]
+  },
+  "id": "indo1316",
+  "name": "Standard Indonesian",
+  "description": null,
+  "markup_description": null,
+  "latitude": -7.33458,
+  "longitude": 109.716,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Malayo-Sumbawan",
+      "id": "mala1536",
+      "url": "https://glottolog.org/resource/languoid/id/mala1536"
+    },
+    {
+      "name": "North and East Malayo-Sumbawan",
+      "id": "nort3170",
+      "url": "https://glottolog.org/resource/languoid/id/nort3170"
+    },
+    {
+      "name": "Malayic",
+      "id": "mala1538",
+      "url": "https://glottolog.org/resource/languoid/id/mala1538"
+    },
+    {
+      "name": "Nuclear Malayic",
+      "id": "nucl1806",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1806"
+    },
+    {
+      "name": "Standard Malay-Indonesian",
+      "id": "stan1327",
+      "url": "https://glottolog.org/resource/languoid/id/stan1327"
+    }
+  ],
+  "iso639-3": "ind"
+}

@@ -1,0 +1,108 @@
+{
+  "pk": 12112,
+  "hid": "slp",
+  "father_pk": 9230,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "((('Baipito [baip1234]':1,('Lewolema [lewo1251]':1,'Waibalun [waib1246]':1)'Lewolema-Waibalun [lewo1250]':1)'East Lamaholot [east2807]':1,(('Bama Lamaholot [bama1253]':1,'Lewolaga [lewo1249]':1)'Lewolaga-Bama [lewo1248]':1,'Tanjung Bunga [tanj1250]':1)'West Lamaholot [west2542]':1)'Ile Mandiri [nucl1534]':1,'Ritaebang [west2543]':1)'Lamaholot [lama1277][slp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 12,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6480777",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lamaholot_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_lmh",
+        "label": "Lamaholot"
+      }
+    ],
+    "meds": [
+      [
+        "550122",
+        "long_grammar",
+        2016,
+        378,
+        "Kroon, Yosep Bisara 2016"
+      ],
+      [
+        "32420",
+        "grammar",
+        2007,
+        188,
+        "Kunio Nishiyama and Herman Kelen 2007"
+      ],
+      [
+        "314309",
+        "grammar_sketch",
+        1977,
+        185,
+        "Inyo Yos Fernandez 1977"
+      ],
+      [
+        "9085",
+        "grammar_sketch",
+        1937,
+        124,
+        "P. P. Arndt 1937"
+      ],
+      [
+        "72454",
+        "wordlist_or_less",
+        1846,
+        27,
+        "Heijmering, Geerlof 1846"
+      ]
+    ]
+  },
+  "id": "lama1277",
+  "name": "Lamaholot",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.36439,
+  "longitude": 122.803,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Bima-Lembata",
+      "id": "bima1248",
+      "url": "https://glottolog.org/resource/languoid/id/bima1248"
+    },
+    {
+      "name": "Flores-Lembata",
+      "id": "flor1239",
+      "url": "https://glottolog.org/resource/languoid/id/flor1239"
+    },
+    {
+      "name": "Lamaholot Barat",
+      "id": "lama1293",
+      "url": "https://glottolog.org/resource/languoid/id/lama1293"
+    },
+    {
+      "name": "Flores Lamaholot",
+      "id": "flor1242",
+      "url": "https://glottolog.org/resource/languoid/id/flor1242"
+    }
+  ],
+  "iso639-3": "slp"
+}

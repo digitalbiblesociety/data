@@ -1,0 +1,55 @@
+{
+  "pk": 623,
+  "hid": "ctc",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Chetco [chet1237][ctc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "ctc",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 has two entries Chetco [ctc] and Tolowa [tol]\nfollowing earlier listings. Thanks to the work of\n**hh:s:Bommelyn:Tolowa** we now know that the two are indistinguishable as languages, making one of the entries spurious. See also: Tolowa-Chetco [tol]."
+    },
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12628946",
+        "label": null
+      }
+    ]
+  },
+  "id": "chet1237",
+  "name": "Chetco",
+  "description": null,
+  "markup_description": null,
+  "latitude": 42.6864,
+  "longitude": -124.376,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "ctc"
+}

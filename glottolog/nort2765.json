@@ -1,0 +1,87 @@
+{
+  "pk": 7217,
+  "hid": "kqs",
+  "father_pk": 4917,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kama [kama1356]':1,'Liaro [liar1238]':1,'Teng [teng1263]':1,'Tung [tung1284]':1)'Northern Kissi [nort2765][kqs]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q19921576",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nort2765",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "78585",
+        "phonology_or_text",
+        1964,
+        86,
+        "Paulme, Denise 1964"
+      ],
+      [
+        "61972",
+        "phonology_or_text",
+        1950,
+        7,
+        "Samarin, William John 1950"
+      ],
+      [
+        "66179",
+        "wordlist_or_less",
+        1854,
+        1,
+        "Koelle, Sigismund W. 1854"
+      ],
+      [
+        "110180",
+        "wordlist_or_less",
+        1840,
+        1,
+        "Gibbs, Josiah W. 1840"
+      ]
+    ]
+  },
+  "id": "nort2765",
+  "name": "Northern Kissi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 8.7283,
+  "longitude": -10.4063,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Mel",
+      "id": "mela1257",
+      "url": "https://glottolog.org/resource/languoid/id/mela1257"
+    },
+    {
+      "name": "Southern Mel",
+      "id": "bull1245",
+      "url": "https://glottolog.org/resource/languoid/id/bull1245"
+    },
+    {
+      "name": "Kissi",
+      "id": "kiss1245",
+      "url": "https://glottolog.org/resource/languoid/id/kiss1245"
+    }
+  ],
+  "iso639-3": "kqs"
+}

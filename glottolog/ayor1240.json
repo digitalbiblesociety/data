@@ -1,0 +1,82 @@
+{
+  "pk": 3291,
+  "hid": "ayo",
+  "father_pk": 1733,
+  "family_pk": 350,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Tsiracua [tsir1238]':1)'Ayoreo [ayor1240][ayo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/685",
+        "label": "Ayoreo"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56634",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ayoreo_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/ayor1240",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ayr",
+        "label": "Ayoreo"
+      }
+    ],
+    "meds": [
+      [
+        "91082",
+        "grammar_sketch",
+        1963,
+        146,
+        "Branka J. Susnik 1963"
+      ],
+      [
+        "10106",
+        "wordlist_or_less",
+        1961,
+        12,
+        "Lussagnet, Suzanne 1961, 1962"
+      ],
+      [
+        "135832",
+        "wordlist_or_less",
+        1931,
+        7,
+        "Loukotka, Čestmír 1931"
+      ]
+    ]
+  },
+  "id": "ayor1240",
+  "name": "Ayoreo",
+  "description": null,
+  "markup_description": null,
+  "latitude": -19.220055,
+  "longitude": -60.217495,
+  "classification": [
+    {
+      "name": "Zamucoan",
+      "id": "zamu1243",
+      "url": "https://glottolog.org/resource/languoid/id/zamu1243"
+    },
+    {
+      "name": "Zamuco-Ayoreo",
+      "id": "zamu1244",
+      "url": "https://glottolog.org/resource/languoid/id/zamu1244"
+    }
+  ],
+  "iso639-3": "ayo"
+}

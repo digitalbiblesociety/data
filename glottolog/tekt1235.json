@@ -1,0 +1,93 @@
+{
+  "pk": 8074,
+  "hid": "ttc",
+  "father_pk": 5655,
+  "family_pk": 76,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tektiteko [tekt1235][ttc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3496",
+        "label": "Teco"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tec",
+        "label": "Tectiteco"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tektitek_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36686",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "82503",
+        "grammar_sketch",
+        1987,
+        182,
+        "Stevenson, Paul S. 1987"
+      ],
+      [
+        "159595",
+        "wordlist_or_less",
+        1969,
+        21,
+        "Terrence Kaufman 1969"
+      ],
+      [
+        "49545",
+        "wordlist_or_less",
+        1962,
+        12,
+        "Wendell, Margaret M. 1962"
+      ]
+    ]
+  },
+  "id": "tekt1235",
+  "name": "Tektiteko",
+  "description": null,
+  "markup_description": null,
+  "latitude": 15.4599,
+  "longitude": -92.1136,
+  "classification": [
+    {
+      "name": "Mayan",
+      "id": "maya1287",
+      "url": "https://glottolog.org/resource/languoid/id/maya1287"
+    },
+    {
+      "name": "Core Mayan",
+      "id": "core1254",
+      "url": "https://glottolog.org/resource/languoid/id/core1254"
+    },
+    {
+      "name": "Quichean-Mamean",
+      "id": "quic1274",
+      "url": "https://glottolog.org/resource/languoid/id/quic1274"
+    },
+    {
+      "name": "Greater Mamean",
+      "id": "grea1277",
+      "url": "https://glottolog.org/resource/languoid/id/grea1277"
+    },
+    {
+      "name": "Mamean",
+      "id": "mame1240",
+      "url": "https://glottolog.org/resource/languoid/id/mame1240"
+    }
+  ],
+  "iso639-3": "ttc"
+}

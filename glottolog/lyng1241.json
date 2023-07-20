@@ -1,0 +1,78 @@
+{
+  "pk": 10617,
+  "hid": "lyg",
+  "father_pk": 7719,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'India Lyngam [lyng1241][lyg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12635902",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lyngngam_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "468438",
+        "phonology_or_text",
+        2013,
+        0,
+        "Baker, Keren 2013"
+      ],
+      [
+        "143512",
+        "wordlist_or_less",
+        1904,
+        8,
+        "George A. Grierson 1904"
+      ]
+    ]
+  },
+  "id": "lyng1241",
+  "name": "India Lyngam",
+  "description": null,
+  "markup_description": null,
+  "latitude": 25.35,
+  "longitude": 91.05,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Khasi-Palaung",
+      "id": "khas1273",
+      "url": "https://glottolog.org/resource/languoid/id/khas1273"
+    },
+    {
+      "name": "Khasian",
+      "id": "khas1268",
+      "url": "https://glottolog.org/resource/languoid/id/khas1268"
+    },
+    {
+      "name": "Khasi-Pnar-Lyngngam",
+      "id": "khas1274",
+      "url": "https://glottolog.org/resource/languoid/id/khas1274"
+    },
+    {
+      "name": "Lyngngamic",
+      "id": "lyng1240",
+      "url": "https://glottolog.org/resource/languoid/id/lyng1240"
+    }
+  ],
+  "iso639-3": "lyg"
+}

@@ -1,0 +1,72 @@
+{
+  "pk": 4384,
+  "hid": "lnm",
+  "father_pk": 2654,
+  "family_pk": 230,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Pondi [lang1328][lnm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10517",
+        "label": "Langam"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6485678",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Langam_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "579208",
+        "grammar",
+        2020,
+        214,
+        "Russell Barlow 2020"
+      ],
+      [
+        "108516",
+        "wordlist_or_less",
+        1973,
+        1,
+        "Laycock, Donald C. 1973"
+      ]
+    ]
+  },
+  "id": "lang1328",
+  "name": "Pondi",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.32557,
+  "longitude": 143.925,
+  "classification": [
+    {
+      "name": "Keram",
+      "id": "kera1258",
+      "url": "https://glottolog.org/resource/languoid/id/kera1258"
+    },
+    {
+      "name": "Ulmapo",
+      "id": "mong1343",
+      "url": "https://glottolog.org/resource/languoid/id/mong1343"
+    },
+    {
+      "name": "Mwakai-Pondi",
+      "id": "mwak1234",
+      "url": "https://glottolog.org/resource/languoid/id/mwak1234"
+    }
+  ],
+  "iso639-3": "lnm"
+}

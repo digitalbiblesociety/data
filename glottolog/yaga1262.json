@@ -1,0 +1,85 @@
+{
+  "pk": 4030,
+  "hid": "yxg",
+  "father_pk": 2294,
+  "family_pk": 153,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "'Yagara [yaga1262][yxg]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "yxg",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 separates Jandai [jan] and Yagara [yxg] but they are close enough from a linguistic point of view to count as one language (**hh:ew:ColliverWoolston:Stradbroke**, **hh:hvw:Jefferies:Guwar**). See also: Yagara-Jandai [NOCODE_Yagara]."
+    },
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6804",
+        "label": "Yagara"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q16979305",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Turrbal_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/yaga1262",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500146",
+        "wordlist_or_less",
+        2011,
+        0,
+        "ISO 639-3 Registration Authority 2011"
+      ]
+    ]
+  },
+  "id": "yaga1262",
+  "name": "Yagara",
+  "description": null,
+  "markup_description": null,
+  "latitude": -27.87648,
+  "longitude": 152.46028,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "East Queensland Border Pama Nyungan",
+      "id": "east2770",
+      "url": "https://glottolog.org/resource/languoid/id/east2770"
+    },
+    {
+      "name": "Yagara-Jandai",
+      "id": "yaga1256",
+      "url": "https://glottolog.org/resource/languoid/id/yaga1256"
+    }
+  ],
+  "iso639-3": "yxg"
+}

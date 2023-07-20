@@ -1,0 +1,111 @@
+{
+  "pk": 9393,
+  "hid": "btx",
+  "father_pk": 6812,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Singkil [sing1240]':1)'Batak Karo [bata1293][btx]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bkr",
+        "label": "Batak (Karo)"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/10889",
+        "label": "Batak Karo"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Batak_Karo_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/bata1293",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33012",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "145747",
+        "long_grammar",
+        1996,
+        361,
+        "Geoff Woollams 1996"
+      ],
+      [
+        "309060",
+        "grammar_sketch",
+        1979,
+        230,
+        "Tarigan, Henry Guntur and Tarigan, Djago 1979"
+      ],
+      [
+        "44824",
+        "grammar_sketch",
+        1922,
+        146,
+        "J. H. Neumann 1922"
+      ],
+      [
+        "142914",
+        "grammar_sketch",
+        1904,
+        53,
+        "M. Joustra 1904, 1906"
+      ],
+      [
+        "134439",
+        "wordlist_or_less",
+        1901,
+        0,
+        "Joustra, M. 1901"
+      ]
+    ]
+  },
+  "id": "bata1293",
+  "name": "Batak Karo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 2.12787,
+  "longitude": 98.2517,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Northwest Sumatra-Barrier Islands",
+      "id": "nort2829",
+      "url": "https://glottolog.org/resource/languoid/id/nort2829"
+    },
+    {
+      "name": "Batakic",
+      "id": "toba1265",
+      "url": "https://glottolog.org/resource/languoid/id/toba1265"
+    },
+    {
+      "name": "Northern Batak",
+      "id": "nort2831",
+      "url": "https://glottolog.org/resource/languoid/id/nort2831"
+    }
+  ],
+  "iso639-3": "btx"
+}

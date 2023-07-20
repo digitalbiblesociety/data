@@ -1,0 +1,112 @@
+{
+  "pk": 6757,
+  "hid": "mmn",
+  "father_pk": 4606,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mamanwa [mama1275][mmn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mmn",
+        "label": "Mamanwa"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mamanwa_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3206623",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "97911",
+        "grammar",
+        1976,
+        194,
+        "Miller, Helen W. and Miller, Jeanne 1976"
+      ],
+      [
+        "79983",
+        "grammar_sketch",
+        1969,
+        22,
+        "Miller, Helen W. 1969"
+      ],
+      [
+        "112176",
+        "grammar_sketch",
+        1965,
+        13,
+        "Eugene Verstraelen 1965"
+      ],
+      [
+        "68056",
+        "phonology_or_text",
+        1964,
+        14,
+        "Miller, Jeanne 1964"
+      ],
+      [
+        "546811",
+        "wordlist_or_less",
+        1919,
+        12,
+        "Acuña, R. 1919"
+      ],
+      [
+        "548932",
+        "wordlist_or_less",
+        1914,
+        12,
+        "Garvan, John M. 1914"
+      ],
+      [
+        "302746",
+        "wordlist_or_less",
+        1896,
+        2,
+        "F. Blumentritt 1896"
+      ]
+    ]
+  },
+  "id": "mama1275",
+  "name": "Mamanwa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.44744,
+  "longitude": 125.548,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Greater Central Philippine",
+      "id": "grea1284",
+      "url": "https://glottolog.org/resource/languoid/id/grea1284"
+    },
+    {
+      "name": "Central Philippine",
+      "id": "cent2246",
+      "url": "https://glottolog.org/resource/languoid/id/cent2246"
+    }
+  ],
+  "iso639-3": "mmn"
+}

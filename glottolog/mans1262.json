@@ -1,0 +1,94 @@
+{
+  "pk": 12199,
+  "hid": "msk",
+  "father_pk": 9289,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mansaka [mans1262][msk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/8989",
+        "label": "Mansaka"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mansaka_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12952800",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "13570",
+        "grammar_sketch",
+        1974,
+        138,
+        "Svelmoe, Thelma and Svelmoe, Gordon 1974"
+      ],
+      [
+        "140430",
+        "phonology_or_text",
+        1963,
+        10,
+        "Abrams, Norman 1963"
+      ],
+      [
+        "69609",
+        "wordlist_or_less",
+        1955,
+        50,
+        "na 1955"
+      ]
+    ]
+  },
+  "id": "mans1262",
+  "name": "Mansaka",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.79221,
+  "longitude": 126.181,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Greater Central Philippine",
+      "id": "grea1284",
+      "url": "https://glottolog.org/resource/languoid/id/grea1284"
+    },
+    {
+      "name": "Central Philippine",
+      "id": "cent2246",
+      "url": "https://glottolog.org/resource/languoid/id/cent2246"
+    },
+    {
+      "name": "Mansakan",
+      "id": "mans1261",
+      "url": "https://glottolog.org/resource/languoid/id/mans1261"
+    },
+    {
+      "name": "Eastern Mansakan",
+      "id": "east2477",
+      "url": "https://glottolog.org/resource/languoid/id/east2477"
+    }
+  ],
+  "iso639-3": "msk"
+}

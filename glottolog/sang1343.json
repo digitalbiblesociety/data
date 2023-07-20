@@ -1,0 +1,74 @@
+{
+  "pk": 5610,
+  "hid": "sgl",
+  "father_pk": 3706,
+  "family_pk": 72,
+  "level": "family",
+  "bookkeeping": false,
+  "category": "Family",
+  "newick": "(('Nuclear Ishkashimi [ishk1244]':1,'Zebak [zeba1237]':1)'Ishkashimi [ishk1246][isk]-l-':1,'Sanglechi [sang1344][sgy]-l-':1)'Sanglechi-Ishkashimi [sang1343][sgl]':1",
+  "child_family_count": 0,
+  "child_language_count": 2,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "sgl",
+      "name": "Sanglechi-Ishkashimi",
+      "change_request": "2009-029",
+      "effective": "2010-01-18",
+      "reason": "split",
+      "change_to": [
+        "sgy",
+        "isk"
+      ],
+      "remedy": "split into Sanglechi [sgy] and Ishkashimi [isk]",
+      "comment": "The lexical similarity of Ishkashimi and Sanglechi is 70%. Comprehension testing\nshowed that intelligibility between the two speech varieties is marginal,\nalthough the Sanglechi understand Ishkashimi slightly better than vice versa. No\ncommon writing system and no common literature exists for the two speech\nvarieties since they are oral languages. The speakers of Ishkashimi and\nSanglechi do not perceive themselves to speak the same language nor to have the\nsame ethnolinguistic identity."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q18711232",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "318903",
+        "grammar",
+        1959,
+        254,
+        "Pachalina, Tatjana N. 1959"
+      ]
+    ]
+  },
+  "id": "sang1343",
+  "name": "Sanglechi-Ishkashimi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 36.635405,
+  "longitude": 71.67426,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Iranian",
+      "id": "iran1269",
+      "url": "https://glottolog.org/resource/languoid/id/iran1269"
+    }
+  ],
+  "iso639-3": "sgl"
+}

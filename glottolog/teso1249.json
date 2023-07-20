@@ -1,0 +1,98 @@
+{
+  "pk": 7086,
+  "hid": "teo",
+  "father_pk": 4857,
+  "family_pk": 316,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Lokathan [loka1256]':1,'Orom [orom1239]':1)'Teso [teso1249][teo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tes",
+        "label": "Teso"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Teso_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q29474",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "554061",
+        "long_grammar",
+        2017,
+        301,
+        "David Barasa 2017"
+      ],
+      [
+        "64283",
+        "grammar",
+        1928,
+        0,
+        "Kiggen, Fr. J. 1928"
+      ],
+      [
+        "13025",
+        "grammar_sketch",
+        1915,
+        141,
+        "Kitching, Arthur Leonard 1915"
+      ],
+      [
+        "58624",
+        "wordlist_or_less",
+        1904,
+        13,
+        "Johnston, Harry 1904"
+      ],
+      [
+        "69612",
+        "wordlist_or_less",
+        1899,
+        1,
+        "Hobley, Charles William and Ravenstein, Ernst Georg 1899"
+      ]
+    ]
+  },
+  "id": "teso1249",
+  "name": "Teso",
+  "description": null,
+  "markup_description": null,
+  "latitude": 1.18321,
+  "longitude": 33.9394,
+  "classification": [
+    {
+      "name": "Nilotic",
+      "id": "nilo1247",
+      "url": "https://glottolog.org/resource/languoid/id/nilo1247"
+    },
+    {
+      "name": "Eastern Nilotic",
+      "id": "east2418",
+      "url": "https://glottolog.org/resource/languoid/id/east2418"
+    },
+    {
+      "name": "Teso-Lotuxo-Maa",
+      "id": "teso1247",
+      "url": "https://glottolog.org/resource/languoid/id/teso1247"
+    },
+    {
+      "name": "Teso-Turkana",
+      "id": "teso1248",
+      "url": "https://glottolog.org/resource/languoid/id/teso1248"
+    }
+  ],
+  "iso639-3": "teo"
+}

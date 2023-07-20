@@ -1,0 +1,103 @@
+{
+  "pk": 9671,
+  "hid": "tcc",
+  "father_pk": 7061,
+  "family_pk": 316,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bajuta of the Eyassi [baju1246]':1,'Barabayiiga [bara1363]':1,'Gidang''oodiga of Simhha [gida1248]':1,'Gisamjanga [gisa1238]':1)'Barabayiiga-Gisamjanga [dato1239][tcc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_dat",
+        "label": "Datooga"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Datooga_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35327",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "80364",
+        "grammar_sketch",
+        1983,
+        31,
+        "Rottland, Franz 1983"
+      ],
+      [
+        "64801",
+        "grammar_sketch",
+        1966,
+        26,
+        "Tomikawa, Morimichi 1966"
+      ],
+      [
+        "129452",
+        "grammar_sketch",
+        1911,
+        13,
+        "Struck, Bernhard 1911"
+      ],
+      [
+        "26912",
+        "wordlist_or_less",
+        1894,
+        27,
+        "Baumann, Oscar 1894"
+      ],
+      [
+        "122585",
+        "wordlist_or_less",
+        1885,
+        8,
+        "Last, Joseph T. 1885"
+      ]
+    ]
+  },
+  "id": "dato1239",
+  "name": "Barabayiiga-Gisamjanga",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.4131,
+  "longitude": 35.2321,
+  "classification": [
+    {
+      "name": "Nilotic",
+      "id": "nilo1247",
+      "url": "https://glottolog.org/resource/languoid/id/nilo1247"
+    },
+    {
+      "name": "Southern Nilotic",
+      "id": "sout2830",
+      "url": "https://glottolog.org/resource/languoid/id/sout2830"
+    },
+    {
+      "name": "Tatoga-Omotik",
+      "id": "tato1241",
+      "url": "https://glottolog.org/resource/languoid/id/tato1241"
+    },
+    {
+      "name": "Gemein Datooga",
+      "id": "geme1247",
+      "url": "https://glottolog.org/resource/languoid/id/geme1247"
+    },
+    {
+      "name": "North-Central Datooga",
+      "id": "nort3277",
+      "url": "https://glottolog.org/resource/languoid/id/nort3277"
+    }
+  ],
+  "iso639-3": "tcc"
+}

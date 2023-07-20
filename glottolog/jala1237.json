@@ -1,0 +1,90 @@
+{
+  "pk": 11785,
+  "hid": "maj",
+  "father_pk": 8972,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Jalapa De Díaz Mazatec [jala1237][maj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Jalapa_Mazatec",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3915999",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "14852",
+        "phonology_or_text",
+        1979,
+        21,
+        "Jones, Linda K. and Schram, Judith L. 1979"
+      ],
+      [
+        "92322",
+        "phonology_or_text",
+        1966,
+        11,
+        "Kirk, Paul Livingston 1966"
+      ],
+      [
+        "151440",
+        "wordlist_or_less",
+        1959,
+        0,
+        "Kirk, Paul L. 1959"
+      ]
+    ]
+  },
+  "id": "jala1237",
+  "name": "Jalapa De Díaz Mazatec",
+  "description": null,
+  "markup_description": null,
+  "latitude": 18.0803,
+  "longitude": -96.4977,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Popoloca-Zapotecan",
+      "id": "popo1292",
+      "url": "https://glottolog.org/resource/languoid/id/popo1292"
+    },
+    {
+      "name": "Popolocan-Mazatecan",
+      "id": "popo1293",
+      "url": "https://glottolog.org/resource/languoid/id/popo1293"
+    },
+    {
+      "name": "Mazatecan",
+      "id": "maza1295",
+      "url": "https://glottolog.org/resource/languoid/id/maza1295"
+    },
+    {
+      "name": "Valley Mazatec",
+      "id": "vall1259",
+      "url": "https://glottolog.org/resource/languoid/id/vall1259"
+    }
+  ],
+  "iso639-3": "maj"
+}

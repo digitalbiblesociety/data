@@ -1,0 +1,87 @@
+{
+  "pk": 12903,
+  "hid": "krp",
+  "father_pk": 9937,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Korop [koro1304][krp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5999",
+        "label": "Korop"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35626",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dorop_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "320058",
+        "grammar_sketch",
+        1994,
+        132,
+        "Kastelein, Bianca 1994"
+      ],
+      [
+        "135794",
+        "wordlist_or_less",
+        1912,
+        36,
+        "Talbot, P. Amaury 1912"
+      ]
+    ]
+  },
+  "id": "koro1304",
+  "name": "Korop",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.16206,
+  "longitude": 8.80859,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Delta Cross",
+      "id": "delt1251",
+      "url": "https://glottolog.org/resource/languoid/id/delt1251"
+    },
+    {
+      "name": "Upper Cross",
+      "id": "uppe1418",
+      "url": "https://glottolog.org/resource/languoid/id/uppe1418"
+    },
+    {
+      "name": "Kiong-Korop",
+      "id": "kion1241",
+      "url": "https://glottolog.org/resource/languoid/id/kion1241"
+    }
+  ],
+  "iso639-3": "krp"
+}

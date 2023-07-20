@@ -1,0 +1,65 @@
+{
+  "pk": 4012,
+  "hid": "nlw",
+  "father_pk": 2286,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Walangama [wala1263][nlw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7961277",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Walangama_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/wala1263",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "108489",
+        "wordlist_or_less",
+        1886,
+        4,
+        "Armit, William E. 1886"
+      ]
+    ]
+  },
+  "id": "wala1263",
+  "name": "Walangama",
+  "description": null,
+  "markup_description": null,
+  "latitude": -17.60243295,
+  "longitude": 142.4891266,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Paman",
+      "id": "pama1251",
+      "url": "https://glottolog.org/resource/languoid/id/pama1251"
+    },
+    {
+      "name": "Norman Pama",
+      "id": "norm1247",
+      "url": "https://glottolog.org/resource/languoid/id/norm1247"
+    }
+  ],
+  "iso639-3": "nlw"
+}

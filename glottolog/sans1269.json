@@ -1,0 +1,105 @@
+{
+  "pk": 5600,
+  "hid": "san",
+  "father_pk": 3704,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Classical Sanskrit [clas1258]':1,'Vedic Sanskrit [vedi1234]':1)'Sanskrit [sans1269][san]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Sanskrit",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/sans1269",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q11059",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "450802",
+        "long_grammar",
+        2003,
+        688,
+        "Thomas Oberlies 2003"
+      ],
+      [
+        "23806",
+        "long_grammar",
+        1997,
+        576,
+        "Whitney, William Dwight 1997"
+      ],
+      [
+        "162899",
+        "long_grammar",
+        1924,
+        576,
+        "William Dwight Whitney 1994 [1924]"
+      ],
+      [
+        "472924",
+        "long_grammar",
+        1879,
+        514,
+        "Whitney, William D. 1879"
+      ],
+      [
+        "153209",
+        "wordlist_or_less",
+        1868,
+        12,
+        "Hunter, William Wilson 1868"
+      ],
+      [
+        "14645",
+        "wordlist_or_less",
+        1823,
+        6,
+        "von Klaproth, Julius H. 1823"
+      ]
+    ]
+  },
+  "id": "sans1269",
+  "name": "Sanskrit",
+  "description": null,
+  "markup_description": null,
+  "latitude": 20,
+  "longitude": 77,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Indo-Aryan",
+      "id": "indo1321",
+      "url": "https://glottolog.org/resource/languoid/id/indo1321"
+    }
+  ],
+  "iso639-3": "san"
+}

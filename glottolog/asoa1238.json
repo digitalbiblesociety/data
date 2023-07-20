@@ -1,0 +1,68 @@
+{
+  "pk": 3958,
+  "hid": "asv",
+  "father_pk": 2245,
+  "family_pk": 140,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Asoa [asoa1238][asv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56296",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Asoa_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "132123",
+        "grammar_sketch",
+        1876,
+        46,
+        "Beltrame, Giovanni 1876, 1877, 1877"
+      ],
+      [
+        "27001",
+        "wordlist_or_less",
+        1874,
+        18,
+        "Mantegazza, P. and Zannetti, A. 1874"
+      ]
+    ]
+  },
+  "id": "asoa1238",
+  "name": "Asoa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 2.26818,
+  "longitude": 26.7198,
+  "classification": [
+    {
+      "name": "Central Sudanic",
+      "id": "cent2225",
+      "url": "https://glottolog.org/resource/languoid/id/cent2225"
+    },
+    {
+      "name": "Mangbetu-Asua",
+      "id": "mang1393",
+      "url": "https://glottolog.org/resource/languoid/id/mang1393"
+    },
+    {
+      "name": "Mangbetuic",
+      "id": "mang1424",
+      "url": "https://glottolog.org/resource/languoid/id/mang1424"
+    }
+  ],
+  "iso639-3": "asv"
+}

@@ -1,0 +1,100 @@
+{
+  "pk": 16526,
+  "hid": "def",
+  "father_pk": 13934,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dezfuli [dezf1239]':1,'Shushtari [shus1253]':1)'Dezfuli-Shushtari [dezf1238][def]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q4115412",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dezfuli_dialect",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "59623",
+        "grammar",
+        1974,
+        292,
+        "MacKinnon, Colin Ross 1974"
+      ],
+      [
+        "472748",
+        "grammar_sketch",
+        1959,
+        73,
+        "Jamshedij M. Unvala 1959"
+      ],
+      [
+        "581195",
+        "phonology_or_text",
+        1929,
+        23,
+        "Moḥammad Moqaddam 1929"
+      ]
+    ]
+  },
+  "id": "dezf1238",
+  "name": "Dezfuli-Shushtari",
+  "description": null,
+  "markup_description": null,
+  "latitude": 32.374,
+  "longitude": 48.907,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Iranian",
+      "id": "iran1269",
+      "url": "https://glottolog.org/resource/languoid/id/iran1269"
+    },
+    {
+      "name": "Southwestern Iranian",
+      "id": "sout3157",
+      "url": "https://glottolog.org/resource/languoid/id/sout3157"
+    },
+    {
+      "name": "Middle-Modern Persian",
+      "id": "midd1352",
+      "url": "https://glottolog.org/resource/languoid/id/midd1352"
+    },
+    {
+      "name": "Modern Southwestern Iranian",
+      "id": "mode1259",
+      "url": "https://glottolog.org/resource/languoid/id/mode1259"
+    },
+    {
+      "name": "Luric-Dezfulic",
+      "id": "luri1257",
+      "url": "https://glottolog.org/resource/languoid/id/luri1257"
+    }
+  ],
+  "iso639-3": "def"
+}

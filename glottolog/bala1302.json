@@ -1,0 +1,92 @@
+{
+  "pk": 9786,
+  "hid": "bjt",
+  "father_pk": 7110,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Fganja [fgan1238]':1,'Fjaalib [fjaa1238]':1)'Balanta-Ganja [bala1302][bjt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q19359034",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/bala1302",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "550676",
+        "long_grammar",
+        2011,
+        761,
+        "Mbodj, Chérif 2011"
+      ],
+      [
+        "98395",
+        "long_grammar",
+        1999,
+        461,
+        "Fudeman, Kirsten Anne 1999"
+      ],
+      [
+        "300730",
+        "grammar_sketch",
+        1970,
+        155,
+        "N'Diaye-Corréard, Geneviève 1970"
+      ],
+      [
+        "146975",
+        "wordlist_or_less",
+        1905,
+        14,
+        "Leprince, Jules 1905"
+      ]
+    ]
+  },
+  "id": "bala1302",
+  "name": "Balanta-Ganja",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.5382,
+  "longitude": -15.6658,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "North-Central Atlantic",
+      "id": "nort3146",
+      "url": "https://glottolog.org/resource/languoid/id/nort3146"
+    },
+    {
+      "name": "Central Atlantic",
+      "id": "cent2230",
+      "url": "https://glottolog.org/resource/languoid/id/cent2230"
+    },
+    {
+      "name": "Bak",
+      "id": "bakk1238",
+      "url": "https://glottolog.org/resource/languoid/id/bakk1238"
+    },
+    {
+      "name": "Balanta",
+      "id": "bala1300",
+      "url": "https://glottolog.org/resource/languoid/id/bala1300"
+    }
+  ],
+  "iso639-3": "bjt"
+}

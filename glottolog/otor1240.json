@@ -1,0 +1,106 @@
+{
+  "pk": 6485,
+  "hid": "otr",
+  "father_pk": 4441,
+  "family_pk": 254,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dogoridi [dogo1297]':1,'Dorobe [doro1263]':1,'Dugujur [dugu1250]':1,'Dukwara [dukw1238]':1)'Otoro [otor1240][otr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4937",
+        "label": "Otoro"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36328",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Otoro_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/otor1240",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_otr",
+        "label": "Otoro"
+      }
+    ],
+    "meds": [
+      [
+        "24115",
+        "grammar",
+        2009,
+        212,
+        "Stevenson, Roland C. 2009"
+      ],
+      [
+        "160138",
+        "grammar_sketch",
+        1956,
+        5,
+        "Stevenson, Roland C. 1956/1957"
+      ],
+      [
+        "160135",
+        "grammar_sketch",
+        1952,
+        0,
+        "Stevenson, Roland C. 1952"
+      ],
+      [
+        "149954",
+        "wordlist_or_less",
+        1916,
+        9,
+        "Meinhof, Carl 1916-1917"
+      ],
+      [
+        "15091",
+        "wordlist_or_less",
+        1910,
+        2,
+        "Seligmann, Brenda Z. 1910-1911"
+      ]
+    ]
+  },
+  "id": "otor1240",
+  "name": "Otoro",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.1187,
+  "longitude": 30.573,
+  "classification": [
+    {
+      "name": "Heibanic",
+      "id": "heib1242",
+      "url": "https://glottolog.org/resource/languoid/id/heib1242"
+    },
+    {
+      "name": "West-Central Heibanic",
+      "id": "west2502",
+      "url": "https://glottolog.org/resource/languoid/id/west2502"
+    },
+    {
+      "name": "Central Heibanic",
+      "id": "cent2049",
+      "url": "https://glottolog.org/resource/languoid/id/cent2049"
+    },
+    {
+      "name": "Ebang-Logol",
+      "id": "eban1241",
+      "url": "https://glottolog.org/resource/languoid/id/eban1241"
+    }
+  ],
+  "iso639-3": "otr"
+}

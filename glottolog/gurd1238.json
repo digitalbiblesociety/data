@@ -1,0 +1,97 @@
+{
+  "pk": 8458,
+  "hid": "gdj",
+  "father_pk": 5986,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Gurdjar [gurd1238][gdj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4201",
+        "label": "Kurtjar"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/g33",
+        "label": "Kurtjar"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Gurdjar_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/gurd1238",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5619931",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "319620",
+        "grammar_sketch",
+        1986,
+        97,
+        "Paul Black 1986"
+      ],
+      [
+        "46299",
+        "wordlist_or_less",
+        1980,
+        5,
+        "Black, Paul D. 1980"
+      ],
+      [
+        "319871",
+        "wordlist_or_less",
+        1976,
+        1,
+        "Bruce A. Sommer 1976"
+      ]
+    ]
+  },
+  "id": "gurd1238",
+  "name": "Gurdjar",
+  "description": null,
+  "markup_description": null,
+  "latitude": -17.1653,
+  "longitude": 141.145,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Paman",
+      "id": "pama1251",
+      "url": "https://glottolog.org/resource/languoid/id/pama1251"
+    },
+    {
+      "name": "Norman Pama",
+      "id": "norm1247",
+      "url": "https://glottolog.org/resource/languoid/id/norm1247"
+    },
+    {
+      "name": "Kuthant-Gurdjar",
+      "id": "kuth1239",
+      "url": "https://glottolog.org/resource/languoid/id/kuth1239"
+    },
+    {
+      "name": "Rib-Gurdjar",
+      "id": "ribg1235",
+      "url": "https://glottolog.org/resource/languoid/id/ribg1235"
+    }
+  ],
+  "iso639-3": "gdj"
+}

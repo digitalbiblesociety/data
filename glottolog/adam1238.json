@@ -1,0 +1,71 @@
+{
+  "pk": 2579,
+  "hid": "ads",
+  "father_pk": 1198,
+  "family_pk": 206,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Sign Language",
+  "newick": "'Adamorobe Sign Language [adam1238][ads]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6909",
+        "label": "Adamorobe Sign Language"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q27709",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Adamorobe_Sign_Language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ada",
+        "label": "Adamorobe Sign Language"
+      }
+    ],
+    "meds": [
+      [
+        "32537",
+        "grammar",
+        2007,
+        244,
+        "Nyst, Victoria Anna 2007"
+      ],
+      [
+        "159564",
+        "wordlist_or_less",
+        1971,
+        3,
+        "David, J.B. and Edoo, B.B. and Mustaffah, J.F.O. and Hinchcliffe, R. 1971"
+      ]
+    ]
+  },
+  "id": "adam1238",
+  "name": "Adamorobe Sign Language",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.834,
+  "longitude": -0.151,
+  "classification": [
+    {
+      "name": "Sign Language",
+      "id": "sign1238",
+      "url": "https://glottolog.org/resource/languoid/id/sign1238"
+    },
+    {
+      "name": "Rural Sign Language",
+      "id": "vill1244",
+      "url": "https://glottolog.org/resource/languoid/id/vill1244"
+    }
+  ],
+  "iso639-3": "ads"
+}

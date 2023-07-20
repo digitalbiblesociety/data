@@ -1,0 +1,90 @@
+{
+  "pk": 1576,
+  "hid": "hdn",
+  "father_pk": 308,
+  "family_pk": 308,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Northern Haida [nort2938][hdn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_hno",
+        "label": "Haida (Northern)"
+      },
+      {
+        "url": "https://phoible.org/languages/nort2938",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q20054484",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "32935",
+        "long_grammar",
+        2003,
+        697,
+        "John Enrico 2003"
+      ],
+      [
+        "442171",
+        "grammar_sketch",
+        1982,
+        172,
+        "Edwards, Elizabeth A. 1982"
+      ],
+      [
+        "102440",
+        "phonology_or_text",
+        1977,
+        464,
+        "Lawrence, Erma 1977"
+      ],
+      [
+        "160638",
+        "phonology_or_text",
+        1908,
+        811,
+        "Swanton, John Reed 1908"
+      ],
+      [
+        "304311",
+        "wordlist_or_less",
+        1858,
+        39,
+        "Radloff, Leopold 1858"
+      ],
+      [
+        "162143",
+        "wordlist_or_less",
+        1841,
+        2,
+        "John Scouler 1841"
+      ]
+    ]
+  },
+  "id": "nort2938",
+  "name": "Northern Haida",
+  "description": null,
+  "markup_description": null,
+  "latitude": 54.004532,
+  "longitude": -132.079257,
+  "classification": [
+    {
+      "name": "Haida",
+      "id": "haid1248",
+      "url": "https://glottolog.org/resource/languoid/id/haid1248"
+    }
+  ],
+  "iso639-3": "hdn"
+}

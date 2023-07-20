@@ -1,0 +1,72 @@
+{
+  "pk": 5222,
+  "hid": "apz",
+  "father_pk": 3384,
+  "family_pk": 385,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Aiewomba [aiew1238]':1,'Wajakes [waja1260]':1)'Safeyoka [safe1240][apz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ape",
+        "label": "Ampeeli"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Safeyoka_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7398693",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "102765",
+        "grammar",
+        1973,
+        191,
+        "Dorothy West 1973"
+      ],
+      [
+        "27844",
+        "grammar_sketch",
+        1965,
+        26,
+        "Dorothy West and Edith West 1965"
+      ]
+    ]
+  },
+  "id": "safe1240",
+  "name": "Safeyoka",
+  "description": null,
+  "markup_description": null,
+  "latitude": -7.05417,
+  "longitude": 146.09,
+  "classification": [
+    {
+      "name": "Angan",
+      "id": "anga1289",
+      "url": "https://glottolog.org/resource/languoid/id/anga1289"
+    },
+    {
+      "name": "Nuclear Angan",
+      "id": "nucl1763",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1763"
+    },
+    {
+      "name": "Wojokesic",
+      "id": "nort3145",
+      "url": "https://glottolog.org/resource/languoid/id/nort3145"
+    }
+  ],
+  "iso639-3": "apz"
+}

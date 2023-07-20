@@ -1,0 +1,85 @@
+{
+  "pk": 9479,
+  "hid": "xsb",
+  "father_pk": 6860,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Iba [ibaa1241]':1,'Masinloc [masi1267]':1,'Santa Cruz {Tina Sambal} [sant1416]':1)'Tinà Sambal [tina1248][xsb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q2592378",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sambal_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "41628",
+        "grammar_sketch",
+        1970,
+        198,
+        "Roque, Ester Tabilo 1970"
+      ],
+      [
+        "549080",
+        "wordlist_or_less",
+        1903,
+        13,
+        "Gonzalez, Benedicto 1903"
+      ],
+      [
+        "546900",
+        "wordlist_or_less",
+        1902,
+        2,
+        "Vicente Alegre 1902"
+      ]
+    ]
+  },
+  "id": "tina1248",
+  "name": "Tinà Sambal",
+  "description": null,
+  "markup_description": null,
+  "latitude": 15.5797,
+  "longitude": 120.095,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Central Luzon",
+      "id": "cent2080",
+      "url": "https://glottolog.org/resource/languoid/id/cent2080"
+    },
+    {
+      "name": "Sambalic",
+      "id": "samb1319",
+      "url": "https://glottolog.org/resource/languoid/id/samb1319"
+    },
+    {
+      "name": "Tina-Bolinao",
+      "id": "tina1255",
+      "url": "https://glottolog.org/resource/languoid/id/tina1255"
+    }
+  ],
+  "iso639-3": "xsb"
+}

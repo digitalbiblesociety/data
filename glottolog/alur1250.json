@@ -1,0 +1,92 @@
+{
+  "pk": 9676,
+  "hid": "alz",
+  "father_pk": 7063,
+  "family_pk": 316,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Jokot [joko1238]':1,'Jonam [jona1239]':1,'Mambisa [mamb1303]':1,'Wanyoro [wany1245]':1)'Alur [alur1250][alz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Alur_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56507",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "10358",
+        "grammar_sketch",
+        1953,
+        80,
+        "Ringe, Peter C. 1953"
+      ],
+      [
+        "10032",
+        "phonology_or_text",
+        1940,
+        427,
+        "Vanneste, Marcel 1940"
+      ],
+      [
+        "475371",
+        "wordlist_or_less",
+        1908,
+        43,
+        "Demuenynck, A. 1908"
+      ],
+      [
+        "16765",
+        "wordlist_or_less",
+        1882,
+        6,
+        "Bey, Emin (Eduard Schnitzer) 1882"
+      ]
+    ]
+  },
+  "id": "alur1250",
+  "name": "Alur",
+  "description": null,
+  "markup_description": null,
+  "latitude": 2.36213,
+  "longitude": 31.0016,
+  "classification": [
+    {
+      "name": "Nilotic",
+      "id": "nilo1247",
+      "url": "https://glottolog.org/resource/languoid/id/nilo1247"
+    },
+    {
+      "name": "Western Nilotic",
+      "id": "west2493",
+      "url": "https://glottolog.org/resource/languoid/id/west2493"
+    },
+    {
+      "name": "Lwoo",
+      "id": "lwoo1234",
+      "url": "https://glottolog.org/resource/languoid/id/lwoo1234"
+    },
+    {
+      "name": "Southern Lwoo",
+      "id": "sout2831",
+      "url": "https://glottolog.org/resource/languoid/id/sout2831"
+    },
+    {
+      "name": "Adhola-Alur-Luo",
+      "id": "adho1241",
+      "url": "https://glottolog.org/resource/languoid/id/adho1241"
+    }
+  ],
+  "iso639-3": "alz"
+}

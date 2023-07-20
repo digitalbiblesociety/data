@@ -1,0 +1,60 @@
+{
+  "pk": 2781,
+  "hid": "bpl",
+  "father_pk": 1311,
+  "family_pk": 260,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Pidgin",
+  "newick": "'Broome Pearling Lugger Pidgin [broo1238][bpl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/p3",
+        "label": "Broome Pearling Lugger Pidgin"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Broome_Pearling_Lugger_Pidgin",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q4975277",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "93292",
+        "grammar_sketch",
+        1987,
+        10,
+        "Komei Hosokawa 1987"
+      ]
+    ]
+  },
+  "id": "broo1238",
+  "name": "Broome Pearling Lugger Pidgin",
+  "description": null,
+  "markup_description": null,
+  "latitude": -17.927,
+  "longitude": 122.233,
+  "classification": [
+    {
+      "name": "Pidgin",
+      "id": "pidg1258",
+      "url": "https://glottolog.org/resource/languoid/id/pidg1258"
+    },
+    {
+      "name": "Malay-based pidgin",
+      "id": "mala1547",
+      "url": "https://glottolog.org/resource/languoid/id/mala1547"
+    }
+  ],
+  "iso639-3": "bpl"
+}

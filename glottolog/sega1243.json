@@ -1,0 +1,99 @@
+{
+  "pk": 9210,
+  "hid": "sge",
+  "father_pk": 6710,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kelai [kela1259]':1,'Segah [sega1244]':1)'Segai [sega1243][sge]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7446180",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Segai_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "577382",
+        "wordlist_or_less",
+        2019,
+        11,
+        "Smith, Alexander D. 2019"
+      ],
+      [
+        "552252",
+        "wordlist_or_less",
+        2017,
+        5,
+        "Smith, Alexander 2017"
+      ],
+      [
+        "142030",
+        "wordlist_or_less",
+        1996,
+        1,
+        "Antonio Guerreiro 1996"
+      ],
+      [
+        "137149",
+        "wordlist_or_less",
+        1985,
+        4,
+        "Antonio Guerreiro 1985"
+      ],
+      [
+        "99682",
+        "wordlist_or_less",
+        1958,
+        2,
+        "Cense, Anton Abraham and Uhlenbeck, Eugenius M. 1958"
+      ]
+    ]
+  },
+  "id": "sega1243",
+  "name": "Segai",
+  "description": null,
+  "markup_description": null,
+  "latitude": 1.97695,
+  "longitude": 116.954,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "North Borneo Malayo-Polynesian",
+      "id": "nort3253",
+      "url": "https://glottolog.org/resource/languoid/id/nort3253"
+    },
+    {
+      "name": "Kayan-Murik-Modang",
+      "id": "kaya1335",
+      "url": "https://glottolog.org/resource/languoid/id/kaya1335"
+    },
+    {
+      "name": "Modang-Segai",
+      "id": "moda1243",
+      "url": "https://glottolog.org/resource/languoid/id/moda1243"
+    }
+  ],
+  "iso639-3": "sge"
+}

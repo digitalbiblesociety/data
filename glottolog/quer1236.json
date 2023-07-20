@@ -1,0 +1,102 @@
+{
+  "pk": 14691,
+  "hid": "otq",
+  "father_pk": 11761,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Querétaro Otomi [quer1236][otq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_osm",
+        "label": "Otomí (Santiago Mexquititlan)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q23755688",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "309131",
+        "long_grammar",
+        2009,
+        300,
+        "Enrique Palancar 2009"
+      ],
+      [
+        "305220",
+        "grammar",
+        1984,
+        193,
+        "Ewald Hekking and Andrés de Jesús, Severiano 1984"
+      ],
+      [
+        "305733",
+        "grammar_sketch",
+        1770,
+        140,
+        "de Agreda, Antonio 1770"
+      ],
+      [
+        "309674",
+        "grammar_sketch",
+        1580,
+        117,
+        "de Cárceres, Pedro 1907 [1580]"
+      ]
+    ]
+  },
+  "id": "quer1236",
+  "name": "Querétaro Otomi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 20.1396,
+  "longitude": -100.115,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Western Otomanguean",
+      "id": "west2783",
+      "url": "https://glottolog.org/resource/languoid/id/west2783"
+    },
+    {
+      "name": "Otopame-Chinantecan",
+      "id": "otop1241",
+      "url": "https://glottolog.org/resource/languoid/id/otop1241"
+    },
+    {
+      "name": "Otopamean",
+      "id": "otop1242",
+      "url": "https://glottolog.org/resource/languoid/id/otop1242"
+    },
+    {
+      "name": "Otomian",
+      "id": "otom1297",
+      "url": "https://glottolog.org/resource/languoid/id/otom1297"
+    },
+    {
+      "name": "Otomi",
+      "id": "otom1300",
+      "url": "https://glottolog.org/resource/languoid/id/otom1300"
+    },
+    {
+      "name": "Northwestern Otomi",
+      "id": "nort3201",
+      "url": "https://glottolog.org/resource/languoid/id/nort3201"
+    }
+  ],
+  "iso639-3": "otq"
+}

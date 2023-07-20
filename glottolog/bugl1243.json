@@ -1,0 +1,100 @@
+{
+  "pk": 7804,
+  "hid": "sab",
+  "father_pk": 5398,
+  "family_pk": 10,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bokotá [boko1272]':1,'Sabanero [saba1272]':1)'Buglere [bugl1243][sab]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3069",
+        "label": "Bocotá"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bgl",
+        "label": "Buglere"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Buglere",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3368506",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "317357",
+        "grammar",
+        2012,
+        230,
+        "Quesada, Juan Diego 2012"
+      ],
+      [
+        "76275",
+        "grammar_sketch",
+        1975,
+        53,
+        "Gunn, Robert D. 1975"
+      ],
+      [
+        "138913",
+        "phonology_or_text",
+        1897,
+        30,
+        "Pinart, Alphonse L. 1897"
+      ],
+      [
+        "300232",
+        "wordlist_or_less",
+        1882,
+        32,
+        "Pinart, Alphonse L. 1882"
+      ]
+    ]
+  },
+  "id": "bugl1243",
+  "name": "Buglere",
+  "description": null,
+  "markup_description": null,
+  "latitude": 8.57695,
+  "longitude": -81.25648,
+  "classification": [
+    {
+      "name": "Chibchan",
+      "id": "chib1249",
+      "url": "https://glottolog.org/resource/languoid/id/chib1249"
+    },
+    {
+      "name": "Core Chibchan",
+      "id": "core1252",
+      "url": "https://glottolog.org/resource/languoid/id/core1252"
+    },
+    {
+      "name": "Isthmic Chibchan",
+      "id": "isth1243",
+      "url": "https://glottolog.org/resource/languoid/id/isth1243"
+    },
+    {
+      "name": "Eastern Isthmic Chibchan",
+      "id": "east2569",
+      "url": "https://glottolog.org/resource/languoid/id/east2569"
+    },
+    {
+      "name": "Guaymiic",
+      "id": "guay1266",
+      "url": "https://glottolog.org/resource/languoid/id/guay1266"
+    }
+  ],
+  "iso639-3": "sab"
+}

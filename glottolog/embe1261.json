@@ -1,0 +1,62 @@
+{
+  "pk": 7553,
+  "hid": "tdc",
+  "father_pk": 5223,
+  "family_pk": 390,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Emberá-Tadó [embe1261][tdc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3052041",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "136594",
+        "wordlist_or_less",
+        1884,
+        16,
+        "White, Robert Blake 1884"
+      ]
+    ]
+  },
+  "id": "embe1261",
+  "name": "Emberá-Tadó",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.23658,
+  "longitude": -77.1533,
+  "classification": [
+    {
+      "name": "Chocoan",
+      "id": "choc1280",
+      "url": "https://glottolog.org/resource/languoid/id/choc1280"
+    },
+    {
+      "name": "Embera",
+      "id": "embe1258",
+      "url": "https://glottolog.org/resource/languoid/id/embe1258"
+    },
+    {
+      "name": "San Juan",
+      "id": "sanj1278",
+      "url": "https://glottolog.org/resource/languoid/id/sanj1278"
+    },
+    {
+      "name": "Upper San Juan",
+      "id": "uppe1440",
+      "url": "https://glottolog.org/resource/languoid/id/uppe1440"
+    }
+  ],
+  "iso639-3": "tdc"
+}

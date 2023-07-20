@@ -1,0 +1,101 @@
+{
+  "pk": 3747,
+  "hid": "abt",
+  "father_pk": 2074,
+  "family_pk": 92,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Maprik [mapr1240]':1,'Wingei [wing1239]':1,'Wosera-Kamu [wose1244]':1,'Wosera-Mamu [wose1243]':1)'Ambulas [ambu1247][abt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10606",
+        "label": "Ambulas"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_amb",
+        "label": "Ambulas"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Abelam_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/ambu1247",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3508015",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "39084",
+        "long_grammar",
+        1980,
+        477,
+        "Patricia R. Wilson 1980"
+      ],
+      [
+        "60330",
+        "grammar_sketch",
+        1973,
+        144,
+        "P. R. Wilson 1973"
+      ],
+      [
+        "72842",
+        "grammar_sketch",
+        1968,
+        41,
+        "Draper, S. and N. Draper 1968"
+      ],
+      [
+        "71063",
+        "grammar_sketch",
+        1962,
+        18,
+        "Donald C. Laycock 1962"
+      ],
+      [
+        "573194",
+        "wordlist_or_less",
+        1941,
+        25,
+        "Kaberry, P. M. 1941"
+      ]
+    ]
+  },
+  "id": "ambu1247",
+  "name": "Ambulas",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.7801,
+  "longitude": 143.059,
+  "classification": [
+    {
+      "name": "Ndu",
+      "id": "nduu1242",
+      "url": "https://glottolog.org/resource/languoid/id/nduu1242"
+    },
+    {
+      "name": "Nuclear Ndu",
+      "id": "nucl1642",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1642"
+    },
+    {
+      "name": "Ambulas-Hanga-Hundi",
+      "id": "ambu1246",
+      "url": "https://glottolog.org/resource/languoid/id/ambu1246"
+    }
+  ],
+  "iso639-3": "abt"
+}

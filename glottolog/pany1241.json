@@ -1,0 +1,99 @@
+{
+  "pk": 11466,
+  "hid": "pnw",
+  "father_pk": 8504,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Mijaranypa [mija1241]':1,'Pantikura [pant1254]':1)'Panytyima [pany1241][pnw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/a53",
+        "label": "BANYJIMA"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/2565",
+        "label": "Panyjima"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_pny",
+        "label": "Panyjima"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Panyjima_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/pany1241",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3913830",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "107503",
+        "grammar",
+        1981,
+        172,
+        "Alan C. Dench 1981"
+      ],
+      [
+        "305370",
+        "wordlist_or_less",
+        1970,
+        2,
+        "Brandenstein, Carl Georg von 1970"
+      ]
+    ]
+  },
+  "id": "pany1241",
+  "name": "Panytyima",
+  "description": null,
+  "markup_description": null,
+  "latitude": -22.7816,
+  "longitude": 118.723,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "South-West Pama-Nyungan",
+      "id": "sout3134",
+      "url": "https://glottolog.org/resource/languoid/id/sout3134"
+    },
+    {
+      "name": "Pilbara",
+      "id": "pilb1234",
+      "url": "https://glottolog.org/resource/languoid/id/pilb1234"
+    },
+    {
+      "name": "Ngayarda",
+      "id": "ngay1241",
+      "url": "https://glottolog.org/resource/languoid/id/ngay1241"
+    },
+    {
+      "name": "Central Ngayarda",
+      "id": "cent2248",
+      "url": "https://glottolog.org/resource/languoid/id/cent2248"
+    },
+    {
+      "name": "Panytyima-Yinhawangka",
+      "id": "pany1247",
+      "url": "https://glottolog.org/resource/languoid/id/pany1247"
+    }
+  ],
+  "iso639-3": "pnw"
+}

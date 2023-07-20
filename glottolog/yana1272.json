@@ -1,0 +1,62 @@
+{
+  "pk": 7246,
+  "hid": "qur",
+  "father_pk": 4927,
+  "family_pk": 321,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Carrión Quechua [carr1251]':1,'Santa Ana de Tusi Pasco Quechua [sant1433][qxt]':1)'Chaupihuaranga Quechua [yana1272][qur]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q42305075",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "142645",
+        "phonology_or_text",
+        1967,
+        18,
+        "Escobar, Alberto 1967"
+      ]
+    ]
+  },
+  "id": "yana1272",
+  "name": "Chaupihuaranga Quechua",
+  "description": null,
+  "markup_description": null,
+  "latitude": -10.4929,
+  "longitude": -76.5314,
+  "classification": [
+    {
+      "name": "Quechuan",
+      "id": "quec1387",
+      "url": "https://glottolog.org/resource/languoid/id/quec1387"
+    },
+    {
+      "name": "Quechua I",
+      "id": "quec1386",
+      "url": "https://glottolog.org/resource/languoid/id/quec1386"
+    },
+    {
+      "name": "Central Quechua I",
+      "id": "cent2141",
+      "url": "https://glottolog.org/resource/languoid/id/cent2141"
+    },
+    {
+      "name": "Yaru Quechua",
+      "id": "yaru1256",
+      "url": "https://glottolog.org/resource/languoid/id/yaru1256"
+    }
+  ],
+  "iso639-3": "qur"
+}

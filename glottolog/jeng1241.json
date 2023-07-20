@@ -1,0 +1,82 @@
+{
+  "pk": 10587,
+  "hid": "jeg",
+  "father_pk": 7694,
+  "family_pk": 418,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "'Jeng [jeng1241][jeg]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "jeg",
+      "name": "Jeng",
+      "change_request": "2016-012",
+      "effective": "2017-01-31",
+      "reason": "merge",
+      "change_to": [
+        "oyb"
+      ],
+      "remedy": "Merge into [oyb] Oy",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q5091274",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cheng_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "121274",
+        "wordlist_or_less",
+        2000,
+        115,
+        "Jacq, Pascale and Sidwell, Paul 2000"
+      ]
+    ]
+  },
+  "id": "jeng1241",
+  "name": "Jeng",
+  "description": null,
+  "markup_description": null,
+  "latitude": 15.0392,
+  "longitude": 107.147,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Bahnaric",
+      "id": "bahn1264",
+      "url": "https://glottolog.org/resource/languoid/id/bahn1264"
+    },
+    {
+      "name": "West Bahnaric",
+      "id": "west2399",
+      "url": "https://glottolog.org/resource/languoid/id/west2399"
+    },
+    {
+      "name": "Nuclear West Bahnaric",
+      "id": "nucl1299",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1299"
+    },
+    {
+      "name": "Oy",
+      "id": "oyyy1238",
+      "url": "https://glottolog.org/resource/languoid/id/oyyy1238"
+    }
+  ],
+  "iso639-3": "jeg"
+}

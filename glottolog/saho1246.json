@@ -1,0 +1,96 @@
+{
+  "pk": 8222,
+  "hid": "ssy",
+  "father_pk": 5770,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Dabrimeela [dabr1234]':1,'Minifire [mini1259]':1)'Central Saho [cent2359]':1,('Assaorta [assa1272]':1,'Tharuuca [thar1285]':1)'Northern Saho [nort3327]':1,('Irob [irob1238]':1,'Xazo [xazo1234]':1)'Southern Saho [sout3314]':1)'Saho [saho1246][ssy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 9,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q36353",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Saho_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_sao",
+        "label": "Saho"
+      }
+    ],
+    "meds": [
+      [
+        "577780",
+        "long_grammar",
+        2015,
+        384,
+        "Tajebe, Esayas 2015"
+      ],
+      [
+        "144262",
+        "grammar",
+        1878,
+        54,
+        "Reinisch, Leo 1878"
+      ],
+      [
+        "77420",
+        "grammar",
+        1814,
+        0,
+        "Salt, Henry 1814"
+      ],
+      [
+        "48420",
+        "wordlist_or_less",
+        1800,
+        0,
+        "Chaix, Paul Georges Gabriel 1800"
+      ]
+    ]
+  },
+  "id": "saho1246",
+  "name": "Saho",
+  "description": null,
+  "markup_description": null,
+  "latitude": 14.75,
+  "longitude": 39.75,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Cushitic",
+      "id": "cush1243",
+      "url": "https://glottolog.org/resource/languoid/id/cush1243"
+    },
+    {
+      "name": "East Cushitic",
+      "id": "east2699",
+      "url": "https://glottolog.org/resource/languoid/id/east2699"
+    },
+    {
+      "name": "Lowland East Cushitic",
+      "id": "lowl1267",
+      "url": "https://glottolog.org/resource/languoid/id/lowl1267"
+    },
+    {
+      "name": "Saho-Afar",
+      "id": "saho1245",
+      "url": "https://glottolog.org/resource/languoid/id/saho1245"
+    }
+  ],
+  "iso639-3": "ssy"
+}

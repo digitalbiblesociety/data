@@ -1,0 +1,83 @@
+{
+  "pk": 13305,
+  "hid": "clt",
+  "father_pk": 10232,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Lautu [laut1236][clt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6502107",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lautu_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "139416",
+        "wordlist_or_less",
+        2001,
+        4,
+        "Khoi Lam Thang 2001"
+      ],
+      [
+        "27630",
+        "wordlist_or_less",
+        1981,
+        313,
+        "André Bareigts 1981"
+      ]
+    ]
+  },
+  "id": "laut1236",
+  "name": "Lautu",
+  "description": null,
+  "markup_description": null,
+  "latitude": 22.2009,
+  "longitude": 93.4448,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Kuki-Chin",
+      "id": "kuki1246",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1246"
+    },
+    {
+      "name": "Central Kuki-Chin",
+      "id": "cent2330",
+      "url": "https://glottolog.org/resource/languoid/id/cent2330"
+    },
+    {
+      "name": "Maraic",
+      "id": "mara1381",
+      "url": "https://glottolog.org/resource/languoid/id/mara1381"
+    },
+    {
+      "name": "Nuclear Maraic",
+      "id": "nucl1757",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1757"
+    }
+  ],
+  "iso639-3": "clt"
+}

@@ -1,0 +1,97 @@
+{
+  "pk": 7988,
+  "hid": "wbl",
+  "father_pk": 5608,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Wakhi [cent1975]':1,'Eastern Wakhi [east2306]':1,'Gojal [goja1238]':1,'Ishkoman [ishk1245]':1,'Western Wakhi [west2370]':1,'Yarkhun [yark1238]':1,'Yasin {Indo-European} [yasi1244]':1)'Wakhi [wakh1245][wbl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3155",
+        "label": "Wakhi"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_wak",
+        "label": "Wakhi"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Wakhi_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/wakh1245",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q34208",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "142148",
+        "long_grammar",
+        1958,
+        434,
+        "D. L. R. Lorimer 1958"
+      ],
+      [
+        "326484",
+        "grammar_sketch",
+        1938,
+        76,
+        "Morgenstierne, Georg 1938"
+      ],
+      [
+        "162924",
+        "grammar_sketch",
+        1876,
+        35,
+        "Shaw, R. B. 1876"
+      ]
+    ]
+  },
+  "id": "wakh1245",
+  "name": "Wakhi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 37.1768,
+  "longitude": 73.9777,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Iranian",
+      "id": "iran1269",
+      "url": "https://glottolog.org/resource/languoid/id/iran1269"
+    },
+    {
+      "name": "Saka-Wakhi",
+      "id": "saka1303",
+      "url": "https://glottolog.org/resource/languoid/id/saka1303"
+    }
+  ],
+  "iso639-3": "wbl"
+}

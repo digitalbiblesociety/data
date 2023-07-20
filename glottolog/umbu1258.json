@@ -1,0 +1,87 @@
+{
+  "pk": 6583,
+  "hid": "ubu",
+  "father_pk": 4532,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Andelale [ande1248]':1,'Kala {Papua New Guinea} [kala1398]':1,'No-Penge [nope1238]':1)'Umbu-Ungu [umbu1258][ubu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kgl",
+        "label": "Umbu Ungu"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12953245",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "308940",
+        "grammar",
+        2011,
+        256,
+        "Head, June 2011"
+      ],
+      [
+        "160811",
+        "grammar_sketch",
+        1973,
+        67,
+        "____ and ____ ____ and Yapua Kirapeasi 1973"
+      ],
+      [
+        "24905",
+        "grammar_sketch",
+        1963,
+        12,
+        "Joice Franklin and Karl Franklin 1963"
+      ],
+      [
+        "15483",
+        "wordlist_or_less",
+        1948,
+        1,
+        "Arthur Capell 1948-1949"
+      ]
+    ]
+  },
+  "id": "umbu1258",
+  "name": "Umbu-Ungu",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.9513,
+  "longitude": 143.97,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Chimbu-Wahgi",
+      "id": "cent2120",
+      "url": "https://glottolog.org/resource/languoid/id/cent2120"
+    },
+    {
+      "name": "Hagen",
+      "id": "hage1248",
+      "url": "https://glottolog.org/resource/languoid/id/hage1248"
+    },
+    {
+      "name": "Aua-Gawil",
+      "id": "auag1234",
+      "url": "https://glottolog.org/resource/languoid/id/auag1234"
+    }
+  ],
+  "iso639-3": "ubu"
+}

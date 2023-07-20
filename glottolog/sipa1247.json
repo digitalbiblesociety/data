@@ -1,0 +1,97 @@
+{
+  "pk": 8077,
+  "hid": "qum",
+  "father_pk": 5658,
+  "family_pk": 76,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Sipacapense [sipa1247][qum]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5310",
+        "label": "Sipakapa"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36589",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sipakapa_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/sipa1247",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_qum",
+        "label": "Sipakapense"
+      }
+    ],
+    "meds": [
+      [
+        "54729",
+        "long_grammar",
+        1999,
+        345,
+        "Edward R. Barrett 1999"
+      ],
+      [
+        "57271",
+        "wordlist_or_less",
+        1981,
+        52,
+        "na 1981"
+      ],
+      [
+        "27935",
+        "wordlist_or_less",
+        1980,
+        43,
+        "Hoiland, Paul and Sánchez, Pedro 1980"
+      ]
+    ]
+  },
+  "id": "sipa1247",
+  "name": "Sipacapense",
+  "description": null,
+  "markup_description": null,
+  "latitude": 15.23054,
+  "longitude": -91.7041,
+  "classification": [
+    {
+      "name": "Mayan",
+      "id": "maya1287",
+      "url": "https://glottolog.org/resource/languoid/id/maya1287"
+    },
+    {
+      "name": "Core Mayan",
+      "id": "core1254",
+      "url": "https://glottolog.org/resource/languoid/id/core1254"
+    },
+    {
+      "name": "Quichean-Mamean",
+      "id": "quic1274",
+      "url": "https://glottolog.org/resource/languoid/id/quic1274"
+    },
+    {
+      "name": "Greater Quichean",
+      "id": "grea1276",
+      "url": "https://glottolog.org/resource/languoid/id/grea1276"
+    },
+    {
+      "name": "Core Quichean",
+      "id": "core1251",
+      "url": "https://glottolog.org/resource/languoid/id/core1251"
+    }
+  ],
+  "iso639-3": "qum"
+}

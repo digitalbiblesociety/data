@@ -1,0 +1,107 @@
+{
+  "pk": 16142,
+  "hid": "npa",
+  "father_pk": 13330,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Nar [narr1258]':1,'Phu [phuu1238]':1)'Nar Phu [narp1239][npa]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2034",
+        "label": "Nar Phu"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q4926353",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nar_Phu_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/narp1239",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nph",
+        "label": "Nar-Phu"
+      }
+    ],
+    "meds": [
+      [
+        "572555",
+        "grammar_sketch",
+        2017,
+        23,
+        "Michael Noonan and Kristine A. Hildebrandt 2017"
+      ],
+      [
+        "85323",
+        "grammar_sketch",
+        2003,
+        17,
+        "Michael Noonan 2003"
+      ],
+      [
+        "549420",
+        "grammar_sketch",
+        1966,
+        0,
+        "Hildebrandt, Kristine A. 1966"
+      ]
+    ]
+  },
+  "id": "narp1239",
+  "name": "Nar Phu",
+  "description": null,
+  "markup_description": null,
+  "latitude": 28.76714,
+  "longitude": 84.22852,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "Kaike-Ghale-Tamangic",
+      "id": "kaik1248",
+      "url": "https://glottolog.org/resource/languoid/id/kaik1248"
+    },
+    {
+      "name": "Ghale-Tamangic",
+      "id": "ghal1247",
+      "url": "https://glottolog.org/resource/languoid/id/ghal1247"
+    },
+    {
+      "name": "Tamangic",
+      "id": "tama1367",
+      "url": "https://glottolog.org/resource/languoid/id/tama1367"
+    },
+    {
+      "name": "Gurungic",
+      "id": "guru1260",
+      "url": "https://glottolog.org/resource/languoid/id/guru1260"
+    },
+    {
+      "name": "Manangba-Nar-Phu",
+      "id": "mana1287",
+      "url": "https://glottolog.org/resource/languoid/id/mana1287"
+    }
+  ],
+  "iso639-3": "npa"
+}

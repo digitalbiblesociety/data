@@ -1,0 +1,89 @@
+{
+  "pk": 5151,
+  "hid": "nxx",
+  "father_pk": 3335,
+  "family_pk": 364,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Nafri [nafr1241][nxx]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6958211",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nafri_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "550635",
+        "phonology_or_text",
+        2002,
+        0,
+        "Robert Masreng 2002"
+      ],
+      [
+        "548410",
+        "phonology_or_text",
+        1992,
+        0,
+        "Dharmojo, {} 1992"
+      ],
+      [
+        "549800",
+        "phonology_or_text",
+        1987,
+        114,
+        "August Kafiar 1987"
+      ],
+      [
+        "126692",
+        "wordlist_or_less",
+        1975,
+        1,
+        "C. L. Voorhoeve 1975"
+      ],
+      [
+        "17111",
+        "wordlist_or_less",
+        1955,
+        1,
+        "Galis, Klaas Wilhelm 1955"
+      ]
+    ]
+  },
+  "id": "nafr1241",
+  "name": "Nafri",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.65036,
+  "longitude": 140.727,
+  "classification": [
+    {
+      "name": "Sentanic",
+      "id": "sent1261",
+      "url": "https://glottolog.org/resource/languoid/id/sent1261"
+    },
+    {
+      "name": "Nuclear Sentanic",
+      "id": "nucl1631",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1631"
+    },
+    {
+      "name": "Sentani-Nafri",
+      "id": "sent1262",
+      "url": "https://glottolog.org/resource/languoid/id/sent1262"
+    }
+  ],
+  "iso639-3": "nxx"
+}

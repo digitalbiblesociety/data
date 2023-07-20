@@ -1,0 +1,96 @@
+{
+  "pk": 9902,
+  "hid": "gej",
+  "father_pk": 7156,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Agoi {Gen} [agoi1244]':1,'Anexo [anex1238]':1,'Gliji [glij1238]':1,'Nuclear Gen [nucl1353]':1)'Gen [genn1243][gej]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Gen_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/genn1243",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33450",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "140347",
+        "long_grammar",
+        1983,
+        336,
+        "Bolé-Richard, Rémy 1983"
+      ],
+      [
+        "321680",
+        "grammar_sketch",
+        1967,
+        207,
+        "Johnson, Gabriel K. 1967"
+      ],
+      [
+        "111131",
+        "grammar_sketch",
+        1891,
+        97,
+        "Henrici, Ernst 1891"
+      ],
+      [
+        "552186",
+        "wordlist_or_less",
+        1741,
+        36,
+        "Luís Silveira 1944 [1741]"
+      ]
+    ]
+  },
+  "id": "genn1243",
+  "name": "Gen",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.25971,
+  "longitude": 1.67727,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Kwa Volta-Congo",
+      "id": "kwav1236",
+      "url": "https://glottolog.org/resource/languoid/id/kwav1236"
+    },
+    {
+      "name": "Gbe",
+      "id": "gbee1241",
+      "url": "https://glottolog.org/resource/languoid/id/gbee1241"
+    },
+    {
+      "name": "Western Gbe",
+      "id": "west2802",
+      "url": "https://glottolog.org/resource/languoid/id/west2802"
+    }
+  ],
+  "iso639-3": "gej"
+}

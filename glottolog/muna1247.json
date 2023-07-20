@@ -1,0 +1,130 @@
+{
+  "pk": 22902,
+  "hid": "mnb",
+  "father_pk": 21214,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Burukene [buru1305]':1,'Gu [guuu1237]':1,'Kadatua [kada1289]':1,'Kalia-Lia [kali1305]':1,'Katobengke [kato1243]':1,'Lakudo [laku1237]':1,'Laompo [laom1238]':1,'Lawama [lawa1260]':1,'Lawela [lawe1237]':1,'Lowu-Lowu [lowu1241]':1,'Mawasangka [mawa1264]':1,'Salaa [sala1271]':1,'Topa [topa1240]':1,'Wale-Ale [wale1246]':1)'Gulamas [gula1271]':1,'Siompu [siom1237]':1,('Kabawo [kaba1286]':1,'Katobu [kato1242]':1,'Lawa {Standard Muna} [lawa1259]':1,'Tobea Besar [tobe1250]':1,'Tungkuno [tung1291]':1)'Standard Muna [stan1308]':1,'Tiworo [tiwo1237]':1)'Muna [muna1247][mnb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 23,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mna",
+        "label": "Muna"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Muna_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/muna1247",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6935584",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "150378",
+        "long_grammar",
+        1989,
+        392,
+        "René van den Berg 1989"
+      ],
+      [
+        "307067",
+        "grammar_sketch",
+        1986,
+        197,
+        "Sande, J.S. and Sikki, Muhammad and Mattalitti, M. 1986"
+      ],
+      [
+        "64515",
+        "grammar_sketch",
+        1985,
+        178,
+        "Mulya, Abdul Kadir and Zali1i Sailan and M. Arief Mattalitti and Abduraerah Arief 1985-1986"
+      ],
+      [
+        "326446",
+        "grammar_sketch",
+        1981,
+        69,
+        "Nurdin Yatim 1981"
+      ]
+    ]
+  },
+  "id": "muna1247",
+  "name": "Muna",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.40419,
+  "longitude": 122.541,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Celebic",
+      "id": "cele1242",
+      "url": "https://glottolog.org/resource/languoid/id/cele1242"
+    },
+    {
+      "name": "Greater Eastern Celebic",
+      "id": "grea1299",
+      "url": "https://glottolog.org/resource/languoid/id/grea1299"
+    },
+    {
+      "name": "Eastern Celebic",
+      "id": "east2488",
+      "url": "https://glottolog.org/resource/languoid/id/east2488"
+    },
+    {
+      "name": "Southeastern Celebic",
+      "id": "sout2928",
+      "url": "https://glottolog.org/resource/languoid/id/sout2928"
+    },
+    {
+      "name": "Muna-Buton",
+      "id": "muna1246",
+      "url": "https://glottolog.org/resource/languoid/id/muna1246"
+    },
+    {
+      "name": "Nuclear Muna-Buton",
+      "id": "nucl1573",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1573"
+    },
+    {
+      "name": "Munan",
+      "id": "muni1256",
+      "url": "https://glottolog.org/resource/languoid/id/muni1256"
+    },
+    {
+      "name": "Munic",
+      "id": "muni1259",
+      "url": "https://glottolog.org/resource/languoid/id/muni1259"
+    },
+    {
+      "name": "Western Munic",
+      "id": "west2847",
+      "url": "https://glottolog.org/resource/languoid/id/west2847"
+    }
+  ],
+  "iso639-3": "mnb"
+}

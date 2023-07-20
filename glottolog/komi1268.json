@@ -1,0 +1,115 @@
+{
+  "pk": 4758,
+  "hid": "kpv",
+  "father_pk": 3051,
+  "family_pk": 302,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Lower Vychegda [lowe1461]':1,'Middle Sysola [midd1378]':1,'Middle Vychegda [midd1377]':1,'Upper Vychegda [uppe1482]':1)'Central Zyryan [cent2400]':1,('Izhma [izhm1234]':1,'Pechora [pech1243]':1,'Vym'' [vymm1234]':1)'North Zyryan [nort3401]':1,('Luza-Letka [luza1234]':1,'Upper Sysola [uppe1483]':1)'South Zyryan [sout3379]':1,'West Zyryan [west2991]':1)'Komi-Zyrian [komi1268][kpv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 13,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kzy",
+        "label": "Komi-Zyrian"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_yzv",
+        "label": "Yazva"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Komi-Zyryan_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/komi1268",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q34114",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "471322",
+        "long_grammar",
+        1955,
+        597,
+        "Lytkin, Vasilij I. 1955, 1967"
+      ],
+      [
+        "304789",
+        "grammar",
+        1884,
+        252,
+        "Wiedemann, Ferdinand Johann 1884"
+      ],
+      [
+        "11102",
+        "grammar_sketch",
+        1844,
+        166,
+        "Castrén, Matthias Alexander 1844"
+      ],
+      [
+        "548880",
+        "grammar_sketch",
+        1841,
+        79,
+        "von der Gabelentz, Hans Conor 1841"
+      ],
+      [
+        "587089",
+        "grammar_sketch",
+        1813,
+        57,
+        "Flërov, A 1813"
+      ],
+      [
+        "309459",
+        "wordlist_or_less",
+        1786,
+        20,
+        "Pallas, Peter Simon 1786, 1789"
+      ],
+      [
+        "326196",
+        "wordlist_or_less",
+        1710,
+        3,
+        "Gerhardt, Dietrich 1962 [1710-1720]"
+      ]
+    ]
+  },
+  "id": "komi1268",
+  "name": "Komi-Zyrian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 64.0527,
+  "longitude": 54.946,
+  "classification": [
+    {
+      "name": "Uralic",
+      "id": "ural1272",
+      "url": "https://glottolog.org/resource/languoid/id/ural1272"
+    },
+    {
+      "name": "Permian",
+      "id": "perm1256",
+      "url": "https://glottolog.org/resource/languoid/id/perm1256"
+    },
+    {
+      "name": "Komi",
+      "id": "komi1267",
+      "url": "https://glottolog.org/resource/languoid/id/komi1267"
+    }
+  ],
+  "iso639-3": "kpv"
+}

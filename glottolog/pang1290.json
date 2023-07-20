@@ -1,0 +1,96 @@
+{
+  "pk": 15162,
+  "hid": "pag",
+  "father_pk": 12374,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Pangasinan [pang1290][pag]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_pnn",
+        "label": "Pangasinan"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Pangasinan_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/pang1290",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33879",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "568937",
+        "long_grammar",
+        1971,
+        633,
+        "Richard A. Benton 1971"
+      ],
+      [
+        "471264",
+        "long_grammar",
+        1690,
+        361,
+        "Andres Lopez 2014 [1690]"
+      ]
+    ]
+  },
+  "id": "pang1290",
+  "name": "Pangasinan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 15.9377,
+  "longitude": 120.365,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Northern Luzon",
+      "id": "nort3238",
+      "url": "https://glottolog.org/resource/languoid/id/nort3238"
+    },
+    {
+      "name": "Meso-Cordilleran",
+      "id": "meso1254",
+      "url": "https://glottolog.org/resource/languoid/id/meso1254"
+    },
+    {
+      "name": "South-Central Cordilleran",
+      "id": "sout3211",
+      "url": "https://glottolog.org/resource/languoid/id/sout3211"
+    },
+    {
+      "name": "Southern Cordilleran",
+      "id": "sout2907",
+      "url": "https://glottolog.org/resource/languoid/id/sout2907"
+    },
+    {
+      "name": "West Southern Cordilleran",
+      "id": "west2550",
+      "url": "https://glottolog.org/resource/languoid/id/west2550"
+    }
+  ],
+  "iso639-3": "pag"
+}

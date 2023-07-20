@@ -1,0 +1,102 @@
+{
+  "pk": 8177,
+  "hid": "xhd",
+  "father_pk": 5734,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Hadrami [hadr1235][xhd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "xhd",
+      "comment_type": "missing",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "The Ancient South Arabian language Hadramout is missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 (**hh:hv:Stein:Ancient-South-Arabian**, **hh:ld:Frantsouzoff:Hadramawt**, **hh:ld:Frantsouzoff:Hadramoutique**, **hh:ld:Multhoff:Hadramitischen**)."
+    },
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q1032453",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Hadramautic_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "300142",
+        "wordlist_or_less",
+        2011,
+        4,
+        "Peter Stein 2011"
+      ],
+      [
+        "317647",
+        "wordlist_or_less",
+        2010,
+        34,
+        "Multhoff, A. 2010"
+      ],
+      [
+        "318448",
+        "wordlist_or_less",
+        2003,
+        20,
+        "Frantsouzoff, Serguei 2003"
+      ]
+    ]
+  },
+  "id": "hadr1235",
+  "name": "Hadrami",
+  "description": null,
+  "markup_description": null,
+  "latitude": 15.528,
+  "longitude": 47.603,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Semitic",
+      "id": "semi1276",
+      "url": "https://glottolog.org/resource/languoid/id/semi1276"
+    },
+    {
+      "name": "West Semitic",
+      "id": "west2786",
+      "url": "https://glottolog.org/resource/languoid/id/west2786"
+    },
+    {
+      "name": "Central Semitic",
+      "id": "cent2236",
+      "url": "https://glottolog.org/resource/languoid/id/cent2236"
+    },
+    {
+      "name": "Sayhadic",
+      "id": "sayh1236",
+      "url": "https://glottolog.org/resource/languoid/id/sayh1236"
+    }
+  ],
+  "iso639-3": "xhd"
+}

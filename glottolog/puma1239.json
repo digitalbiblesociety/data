@@ -1,0 +1,101 @@
+{
+  "pk": 13229,
+  "hid": "pum",
+  "father_pk": 10168,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Puma [puma1239][pum]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1125",
+        "label": "Puma"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33736",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Puma_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "323714",
+        "long_grammar",
+        2014,
+        486,
+        "Sharma, Narayan Prasad 2014"
+      ],
+      [
+        "658238",
+        "grammar",
+        2009,
+        0,
+        "Rai and S., V. and Rai, S. P. and Sharma, N. P. Gautam and Rai, A. and Cintan, G.P. and Günther, S. and Schackow, D. and Gaenszle, M. and Pettigrew, J. and and Bickel, B. 2009"
+      ],
+      [
+        "547458",
+        "wordlist_or_less",
+        2007,
+        19,
+        "Balthasar Bickel and Martin Gaenszle and Arjun Rai and Prem D. Rai and Shree K. Rai and Vishnu S. Rai and Narayan P. Sharma (Gautam) 2007"
+      ],
+      [
+        "551979",
+        "wordlist_or_less",
+        1966,
+        0,
+        "Schackow, Diana 1966"
+      ]
+    ]
+  },
+  "id": "puma1239",
+  "name": "Puma",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.0774,
+  "longitude": 86.838,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Himalayish",
+      "id": "hima1249",
+      "url": "https://glottolog.org/resource/languoid/id/hima1249"
+    },
+    {
+      "name": "Mahakiranti",
+      "id": "maha1306",
+      "url": "https://glottolog.org/resource/languoid/id/maha1306"
+    },
+    {
+      "name": "Kiranti",
+      "id": "kira1253",
+      "url": "https://glottolog.org/resource/languoid/id/kira1253"
+    },
+    {
+      "name": "Central Kiranti",
+      "id": "cent2250",
+      "url": "https://glottolog.org/resource/languoid/id/cent2250"
+    },
+    {
+      "name": "Southern Central Kiranti",
+      "id": "sout2736",
+      "url": "https://glottolog.org/resource/languoid/id/sout2736"
+    }
+  ],
+  "iso639-3": "pum"
+}

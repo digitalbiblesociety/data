@@ -1,0 +1,127 @@
+{
+  "pk": 6120,
+  "hid": "com",
+  "father_pk": 4109,
+  "family_pk": 155,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Comanche [coma1245][com]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2005",
+        "label": "Comanche"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_cmn",
+        "label": "Comanche"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Comanche_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/coma1245",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q32972",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "568385",
+        "long_grammar",
+        2012,
+        415,
+        "Robinson, Lila Wistrand and James Armagost 2012"
+      ],
+      [
+        "54074",
+        "long_grammar",
+        1990,
+        356,
+        "Robinson, Lila Wistrand and James Armagost 1990"
+      ],
+      [
+        "91553",
+        "long_grammar",
+        1989,
+        352,
+        "Charney, Jean Ormsbee 1989"
+      ],
+      [
+        "305717",
+        "grammar_sketch",
+        1951,
+        142,
+        "Casagrande, Joseph B. 1951"
+      ],
+      [
+        "101239",
+        "grammar_sketch",
+        1862,
+        23,
+        "F. D. Pimentel 1862-1865"
+      ],
+      [
+        "75804",
+        "wordlist_or_less",
+        1855,
+        8,
+        "Amiel W. Whipple and Thomas Ewbank and William W. Turner 1855"
+      ],
+      [
+        "47996",
+        "wordlist_or_less",
+        1852,
+        8,
+        "Henry R. Schoolcraft 1852"
+      ],
+      [
+        "124058",
+        "wordlist_or_less",
+        1828,
+        0,
+        "Berlandier, Jean Louis and Rafael Chowell 1828-1829"
+      ]
+    ]
+  },
+  "id": "coma1245",
+  "name": "Comanche",
+  "description": null,
+  "markup_description": null,
+  "latitude": 34,
+  "longitude": -101,
+  "classification": [
+    {
+      "name": "Uto-Aztecan",
+      "id": "utoa1244",
+      "url": "https://glottolog.org/resource/languoid/id/utoa1244"
+    },
+    {
+      "name": "Northern Uto-Aztecan",
+      "id": "nort2953",
+      "url": "https://glottolog.org/resource/languoid/id/nort2953"
+    },
+    {
+      "name": "Numic",
+      "id": "numi1242",
+      "url": "https://glottolog.org/resource/languoid/id/numi1242"
+    },
+    {
+      "name": "Central Numic",
+      "id": "cent2130",
+      "url": "https://glottolog.org/resource/languoid/id/cent2130"
+    }
+  ],
+  "iso639-3": "com"
+}

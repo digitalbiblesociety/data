@@ -1,0 +1,82 @@
+{
+  "pk": 1885,
+  "hid": "plo",
+  "father_pk": 433,
+  "family_pk": 3,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Oluta Popoluca [olut1240][plo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4977",
+        "label": "Oluta Popoluca"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5908687",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Oluta_Popoluca",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/olut1240",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_olu",
+        "label": "Olutec"
+      }
+    ],
+    "meds": [
+      [
+        "153128",
+        "long_grammar",
+        2000,
+        981,
+        "Roberto Zavala 2000"
+      ],
+      [
+        "134689",
+        "phonology_or_text",
+        1981,
+        179,
+        "Clark, Lawrence E. 1981"
+      ],
+      [
+        "154100",
+        "wordlist_or_less",
+        1908,
+        7,
+        "Calderón, Eustorjio 1908"
+      ]
+    ]
+  },
+  "id": "olut1240",
+  "name": "Oluta Popoluca",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.8937,
+  "longitude": -94.8863,
+  "classification": [
+    {
+      "name": "Mixe-Zoque",
+      "id": "mixe1284",
+      "url": "https://glottolog.org/resource/languoid/id/mixe1284"
+    },
+    {
+      "name": "Mixe",
+      "id": "mixe1286",
+      "url": "https://glottolog.org/resource/languoid/id/mixe1286"
+    }
+  ],
+  "iso639-3": "plo"
+}

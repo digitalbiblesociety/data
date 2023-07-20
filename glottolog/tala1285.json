@@ -1,0 +1,91 @@
+{
+  "pk": 6837,
+  "hid": "tld",
+  "father_pk": 4654,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Arangka''a [aran1264]':1,'Awit [awit1237]':1,'Beo [beoo1241]':1,'Dapalan [dapa1237]':1,'Essang [essa1237]':1,'Kaburuang [kabu1255]':1,'Lirang [lira1237]':1,'Nenusa-Maingas [nenu1237]':1,'South Karakelong [sout2902]':1)'Talaud [tala1285][tld]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 9,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7678964",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Talaud_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tld",
+        "label": "Talaud"
+      }
+    ],
+    "meds": [
+      [
+        "324209",
+        "grammar_sketch",
+        1989,
+        153,
+        "L. D. Kembuan and Sampouw, T. and Inkiriawang, J. and Terok, D. and Roring, M. 1989"
+      ],
+      [
+        "38875",
+        "grammar_sketch",
+        1980,
+        153,
+        "Salea-Warouw, M. and M. Salea and S. Kataliku and I. Tangoy-P. 1980-1981"
+      ],
+      [
+        "29423",
+        "grammar_sketch",
+        1911,
+        118,
+        "Talens, J.P. 1911"
+      ],
+      [
+        "26365",
+        "wordlist_or_less",
+        1869,
+        5,
+        "Wallace, Alfred R. 1869"
+      ]
+    ]
+  },
+  "id": "tala1285",
+  "name": "Talaud",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.11846,
+  "longitude": 126.795,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Sangiric",
+      "id": "sang1335",
+      "url": "https://glottolog.org/resource/languoid/id/sang1335"
+    },
+    {
+      "name": "Northern Sangiric",
+      "id": "nort3174",
+      "url": "https://glottolog.org/resource/languoid/id/nort3174"
+    }
+  ],
+  "iso639-3": "tld"
+}

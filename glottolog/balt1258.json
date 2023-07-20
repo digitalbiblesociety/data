@@ -1,0 +1,109 @@
+{
+  "pk": 13339,
+  "hid": "bft",
+  "father_pk": 10271,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Balti [balt1258][bft]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/7329",
+        "label": "Balti"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_blt",
+        "label": "Balti"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Balti_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/balt1258",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33086",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "667656",
+        "grammar",
+        2004,
+        0,
+        "Sharma, D. D. 2004"
+      ],
+      [
+        "83722",
+        "grammar_sketch",
+        1985,
+        127,
+        "Bielmeier, Roland 1985"
+      ],
+      [
+        "145006",
+        "grammar_sketch",
+        1934,
+        108,
+        "A. F. C. Read 1934"
+      ],
+      [
+        "587268",
+        "wordlist_or_less",
+        1866,
+        18,
+        "Godwin-Austen, Henry H. 1866"
+      ]
+    ]
+  },
+  "id": "balt1258",
+  "name": "Balti",
+  "description": null,
+  "markup_description": null,
+  "latitude": 34.4491,
+  "longitude": 77.2859,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "Bodish",
+      "id": "bodi1257",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1257"
+    },
+    {
+      "name": "Early Old Tibetan",
+      "id": "oldm1245",
+      "url": "https://glottolog.org/resource/languoid/id/oldm1245"
+    },
+    {
+      "name": "Western Archaic Tibetan",
+      "id": "lada1242",
+      "url": "https://glottolog.org/resource/languoid/id/lada1242"
+    },
+    {
+      "name": "Shamskatic",
+      "id": "sham1282",
+      "url": "https://glottolog.org/resource/languoid/id/sham1282"
+    }
+  ],
+  "iso639-3": "bft"
+}

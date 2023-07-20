@@ -1,0 +1,113 @@
+{
+  "pk": 15222,
+  "hid": "erg",
+  "father_pk": 12441,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Nuclear Sie [nucl1488]':1,'Potnariven [potn1237]':1,'Yoku [yoku1254]':1)'Sie [siee1239][erg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_err",
+        "label": "Erromangan"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Erromanga_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q426254",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "42817",
+        "long_grammar",
+        1998,
+        307,
+        "Terry Crowley 1998"
+      ],
+      [
+        "122030",
+        "grammar_sketch",
+        1983,
+        64,
+        "John Lynch and Arthur Capell 1983"
+      ],
+      [
+        "318647",
+        "grammar_sketch",
+        1926,
+        23,
+        "Sidney H. Ray 1926"
+      ],
+      [
+        "70895",
+        "grammar_sketch",
+        1889,
+        19,
+        "J. D. Gordon 1889"
+      ],
+      [
+        "126623",
+        "wordlist_or_less",
+        1861,
+        24,
+        "von der Gabelentz, Hans Conor 1861"
+      ]
+    ]
+  },
+  "id": "siee1239",
+  "name": "Sie",
+  "description": null,
+  "markup_description": null,
+  "latitude": -18.8181,
+  "longitude": 169.166,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Southern Melanesian",
+      "id": "sout3173",
+      "url": "https://glottolog.org/resource/languoid/id/sout3173"
+    },
+    {
+      "name": "Southern Vanuatu",
+      "id": "sout2868",
+      "url": "https://glottolog.org/resource/languoid/id/sout2868"
+    },
+    {
+      "name": "Erromanga",
+      "id": "erro1239",
+      "url": "https://glottolog.org/resource/languoid/id/erro1239"
+    }
+  ],
+  "iso639-3": "erg"
+}

@@ -1,0 +1,58 @@
+{
+  "pk": 675,
+  "hid": "tnj",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Tanjong [tanj1248][tnj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "tnj",
+      "name": "Tanjong",
+      "change_request": "2007-235",
+      "effective": "2008-01-14",
+      "reason": "merge",
+      "change_to": [
+        "kxn"
+      ],
+      "remedy": "Merge into Kanowit [kxn]",
+      "comment": "Chou cites percentage of lexical similarity between Kanowit and Tanjung as 82%."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12953907",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500100",
+        "wordlist_or_less",
+        2007,
+        0,
+        "ISO 639-3 Registration Authority 2007"
+      ]
+    ]
+  },
+  "id": "tanj1248",
+  "name": "Tanjong",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "tnj"
+}

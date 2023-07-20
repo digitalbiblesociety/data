@@ -1,0 +1,75 @@
+{
+  "pk": 10109,
+  "hid": "nuf",
+  "father_pk": 7270,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Nusu [cent2003]':1,'Northern Nusu [nort2719]':1,'Southern Nusu [sout2724]':1)'Nusu [nusu1239][nuf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56413",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nusu_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nus",
+        "label": "Nusu"
+      }
+    ],
+    "meds": [
+      [
+        "140167",
+        "grammar_sketch",
+        1986,
+        179,
+        "Sun, Hongkai and Liu, Lu 1986"
+      ]
+    ]
+  },
+  "id": "nusu1239",
+  "name": "Nusu",
+  "description": null,
+  "markup_description": null,
+  "latitude": 26.7292,
+  "longitude": 98.8801,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Burmo-Qiangic",
+      "id": "burm1265",
+      "url": "https://glottolog.org/resource/languoid/id/burm1265"
+    },
+    {
+      "name": "Lolo-Burmese",
+      "id": "lolo1265",
+      "url": "https://glottolog.org/resource/languoid/id/lolo1265"
+    },
+    {
+      "name": "Loloish",
+      "id": "lolo1267",
+      "url": "https://glottolog.org/resource/languoid/id/lolo1267"
+    },
+    {
+      "name": "Nusoish",
+      "id": "nuso1234",
+      "url": "https://glottolog.org/resource/languoid/id/nuso1234"
+    }
+  ],
+  "iso639-3": "nuf"
+}

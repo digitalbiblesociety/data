@@ -1,0 +1,64 @@
+{
+  "pk": 688,
+  "hid": "azr",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Adzera {Retired} [adze1241][azr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "azr",
+      "name": "Adzera",
+      "change_request": "2007-186",
+      "effective": "2008-01-14",
+      "reason": "split",
+      "change_to": [
+        "adz",
+        "zsu",
+        "zsa"
+      ],
+      "remedy": "Split into three languages: Adzera [adz] (new identifier), Sukurum [zsu] and Sarasira [zsa]",
+      "comment": "Sarasira and Sukurum were formerly listed as dialects of Adzera. However, even\nthough they are closer geographically to Adzera villages, historically and\nlinguistically they are more closely related to the Mari and Wampur languages,\nand are thus in a different subfamily of the Upper Markham language family to\nAdzera. Susanne Holzknecht has documented the linguistic differences in:\nHolzknecht, Susanne. 1989. The Markham Languages of Papua New Guinea. Pacific\nLinguistics C-115. Canberra: Australian National University. Her work provides\nsufficient proof that these speech varieties are indeed separate languages that\nbelong in the Mountain subgroup of Upper Markham languages, rather than being\nincluded as dialects of Adzera. Malcolm Ross also treats these three languages\nas distinct languages of the Upper Markham subfamily in his 1986 Ph.D.\ndissertation, later published as: Ross, Malcolm D. 1988. Proto Oceanic and the\nAustronesian languages of Western Melanesia. Pacific Linguistics C-98. Canberra:\nAustralian National University."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Adzera_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3327445",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "70685",
+        "grammar_sketch",
+        2002,
+        190,
+        "Howard, David Edward 2002"
+      ]
+    ]
+  },
+  "id": "adze1241",
+  "name": "Adzera (Retired)",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "azr"
+}

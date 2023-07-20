@@ -1,0 +1,90 @@
+{
+  "pk": 21973,
+  "hid": null,
+  "father_pk": 20215,
+  "family_pk": 320,
+  "level": "family",
+  "bookkeeping": false,
+  "category": "Family",
+  "newick": "(('Idakho [idak1244]':1,'Isukha [isuk1238]':1,'Tiriki [tiri1257]':1)'Idakho-Isukha-Tiriki [idak1243][ida]-l-':1,(('Bukusu [buku1249][bxk]-l-':1,('Lubutu [lubu1245]':1,'Lufumbo [lugi1238]':1,'Luhugu [ulud1238]':1,'Lusoba [luso1235]':1,'Luwalasi [luwa1243]':1,'Manjiya [ulub1244]':1)'Masaaba [masa1299][myx]-l-':1)'Northern Luyia [nort3404]':1,((('East Nyala [east2409][nle]-l-':1,'Kabras [kabr1240][lkb]-l-':1,'Tachoni [tach1242][lts]-l-':1)'Kabarasi-Tachoni-Nyala East [kaba1294]':1,('Kisa [kisa1263][lks]-l-':1,'Marama [mara1392][lrm]-l-':1,'Tsotso [tsot1241][lto]-l-':1)'Kisa-Marama-Tsotso [kisa1269]':1,'Nyore [nyor1244][nyd]-l-':1,'Wanga [wang1294][lwg]-l-':1)'Central-Eastern Luyia [cent2288]':1,(('Khayo [khay1238][lko]-l-':1,'Marachi [mara1393][lri]-l-':1)'Marachi-Khayo [mara1423]':1,'Saamia [saam1283][lsm]-l-':1,'West Nyala [west2861]-l-':1)'Western Luyia [west2858]':1)'Saamia-Wanga [saam1285]':1)'Saamia-Wanga-Bukusu [saam1284]':1)'Luyia [luyi1234]':1",
+  "child_family_count": 8,
+  "child_language_count": 15,
+  "child_dialect_count": 9,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_luy",
+        "label": "Luyia"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Luhya_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35893",
+        "label": null
+      }
+    ]
+  },
+  "id": "luyi1234",
+  "name": "Luyia",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Narrow Bantu",
+      "id": "narr1281",
+      "url": "https://glottolog.org/resource/languoid/id/narr1281"
+    },
+    {
+      "name": "East Bantu",
+      "id": "east2731",
+      "url": "https://glottolog.org/resource/languoid/id/east2731"
+    },
+    {
+      "name": "Northeast Savanna Bantu",
+      "id": "nort3203",
+      "url": "https://glottolog.org/resource/languoid/id/nort3203"
+    },
+    {
+      "name": "Great Lakes Bantu",
+      "id": "grea1289",
+      "url": "https://glottolog.org/resource/languoid/id/grea1289"
+    },
+    {
+      "name": "Greater Luyia",
+      "id": "grea1291",
+      "url": "https://glottolog.org/resource/languoid/id/grea1291"
+    }
+  ]
+}

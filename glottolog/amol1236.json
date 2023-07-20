@@ -1,0 +1,83 @@
+{
+  "pk": 11771,
+  "hid": "mbz",
+  "father_pk": 8965,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Amoltepec Mixtec [amol1236][mbz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Amoltepec_Mixtec",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q13583504",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "569975",
+        "phonology_or_text",
+        2019,
+        43,
+        "Cisneros, Carlos 2019"
+      ],
+      [
+        "309187",
+        "wordlist_or_less",
+        1983,
+        16,
+        "Steven Egland and Doris Bartholomew and Saúl Cruz Ramos 1983"
+      ]
+    ]
+  },
+  "id": "amol1236",
+  "name": "Amoltepec Mixtec",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.6521,
+  "longitude": -97.4518,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Amuzgo-Mixtecan",
+      "id": "amuz1253",
+      "url": "https://glottolog.org/resource/languoid/id/amuz1253"
+    },
+    {
+      "name": "Mixtecan",
+      "id": "mixt1422",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1422"
+    },
+    {
+      "name": "Mixtec-Cuicatec",
+      "id": "mixt1423",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1423"
+    },
+    {
+      "name": "Mixtec",
+      "id": "mixt1427",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1427"
+    }
+  ],
+  "iso639-3": "mbz"
+}

@@ -1,0 +1,76 @@
+{
+  "pk": 1788,
+  "hid": "zrs",
+  "father_pk": 377,
+  "family_pk": 377,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Northeastern Mairasi [nort2908]':1)'Mairasi [nucl1594][zrs]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3038645",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mairasi_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mrs",
+        "label": "Mairasi"
+      }
+    ],
+    "meds": [
+      [
+        "581426",
+        "grammar_sketch",
+        2012,
+        278,
+        "Peckham, Lloyd 2012"
+      ],
+      [
+        "471898",
+        "grammar_sketch",
+        2000,
+        146,
+        "Peckham, Lloyd 2000"
+      ],
+      [
+        "21478",
+        "grammar_sketch",
+        1982,
+        21,
+        "Peckham, Lloyd 1982"
+      ],
+      [
+        "92353",
+        "wordlist_or_less",
+        1857,
+        24,
+        "Salomon Müller 1857"
+      ]
+    ]
+  },
+  "id": "nucl1594",
+  "name": "Mairasi",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.4511,
+  "longitude": 134.071,
+  "classification": [
+    {
+      "name": "Mairasic",
+      "id": "mair1253",
+      "url": "https://glottolog.org/resource/languoid/id/mair1253"
+    }
+  ],
+  "iso639-3": "zrs"
+}

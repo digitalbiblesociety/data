@@ -1,0 +1,95 @@
+{
+  "pk": 15966,
+  "hid": "ycl",
+  "father_pk": 13176,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Nanhua Lolopho [nanh1240]':1,'Shuangbo Lolopho [shua1253]':1,'Yao''an Lolopho [yaoa1238]':1)'Lolopo [lolo1259][ycl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56441",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lolopo_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "314166",
+        "grammar",
+        2010,
+        206,
+        "Merrifield, Judith Thomas 2010"
+      ],
+      [
+        "119971",
+        "grammar_sketch",
+        1985,
+        47,
+        "Chen, Shilin and Bian, Shiming and Li, Xiuqing 1985"
+      ],
+      [
+        "40495",
+        "wordlist_or_less",
+        1908,
+        16,
+        "Madrolle, Claudius 1908"
+      ]
+    ]
+  },
+  "id": "lolo1259",
+  "name": "Lolopo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 25.50051,
+  "longitude": 101.30185,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Burmo-Qiangic",
+      "id": "burm1265",
+      "url": "https://glottolog.org/resource/languoid/id/burm1265"
+    },
+    {
+      "name": "Lolo-Burmese",
+      "id": "lolo1265",
+      "url": "https://glottolog.org/resource/languoid/id/lolo1265"
+    },
+    {
+      "name": "Loloish",
+      "id": "lolo1267",
+      "url": "https://glottolog.org/resource/languoid/id/lolo1267"
+    },
+    {
+      "name": "Ni-Li-Kazhouish",
+      "id": "nili1235",
+      "url": "https://glottolog.org/resource/languoid/id/nili1235"
+    },
+    {
+      "name": "Lisoid",
+      "id": "liso1234",
+      "url": "https://glottolog.org/resource/languoid/id/liso1234"
+    },
+    {
+      "name": "Lipo-Lolopo",
+      "id": "lipo1243",
+      "url": "https://glottolog.org/resource/languoid/id/lipo1243"
+    }
+  ],
+  "iso639-3": "ycl"
+}

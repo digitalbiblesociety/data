@@ -1,0 +1,121 @@
+{
+  "pk": 7796,
+  "hid": "tuf",
+  "father_pk": 5392,
+  "family_pk": 10,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Central Tunebo [cent2150][tuf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3527",
+        "label": "Tunebo"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tnb",
+        "label": "Tunebo"
+      },
+      {
+        "url": "https://phoible.org/languages/cent2150",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12953942",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "470232",
+        "grammar",
+        1997,
+        288,
+        "Headland, Edna 1997"
+      ],
+      [
+        "304293",
+        "grammar",
+        1988,
+        240,
+        "Márquez, María Elena and Aguablanca, Esperanza (Berichá) and Jesús Olza 1988"
+      ],
+      [
+        "158929",
+        "grammar",
+        1977,
+        0,
+        "Woods, Frances M. and Longacre, Robert E. 1977"
+      ],
+      [
+        "93435",
+        "grammar_sketch",
+        1973,
+        82,
+        "Headland, Paul 1973"
+      ],
+      [
+        "12914",
+        "grammar_sketch",
+        1926,
+        59,
+        "Rochereau, Henri J. 1926, 1927"
+      ],
+      [
+        "122061",
+        "wordlist_or_less",
+        1889,
+        21,
+        "Rueda, Juan Nepomuceno 1889"
+      ],
+      [
+        "91134",
+        "wordlist_or_less",
+        1736,
+        0,
+        "Rivero J. 1956 [1736]"
+      ]
+    ]
+  },
+  "id": "cent2150",
+  "name": "Central Tunebo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.8867,
+  "longitude": -72.097,
+  "classification": [
+    {
+      "name": "Chibchan",
+      "id": "chib1249",
+      "url": "https://glottolog.org/resource/languoid/id/chib1249"
+    },
+    {
+      "name": "Core Chibchan",
+      "id": "core1252",
+      "url": "https://glottolog.org/resource/languoid/id/core1252"
+    },
+    {
+      "name": "Magdalenic",
+      "id": "magd1236",
+      "url": "https://glottolog.org/resource/languoid/id/magd1236"
+    },
+    {
+      "name": "Southern Magdalenic",
+      "id": "sout3015",
+      "url": "https://glottolog.org/resource/languoid/id/sout3015"
+    },
+    {
+      "name": "Tunebo",
+      "id": "tune1260",
+      "url": "https://glottolog.org/resource/languoid/id/tune1260"
+    }
+  ],
+  "iso639-3": "tuf"
+}

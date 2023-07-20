@@ -1,0 +1,104 @@
+{
+  "pk": 8503,
+  "hid": "xny",
+  "father_pk": 6042,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Nyiyaparli-Palyku [nija1241][xny]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6793",
+        "label": "Nyiyaparli"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bly",
+        "label": "Palyku"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nyiyaparli_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nija1241",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q16919427",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "668316",
+        "grammar",
+        1996,
+        0,
+        "Thieberger, Nicholas 1996"
+      ],
+      [
+        "2372",
+        "wordlist_or_less",
+        1979,
+        7,
+        "Brown, Malcolm 1979"
+      ],
+      [
+        "62559",
+        "wordlist_or_less",
+        1967,
+        2,
+        "Carl Georg von Brandenstein 1967"
+      ],
+      [
+        "2316",
+        "wordlist_or_less",
+        1959,
+        2,
+        "Berndt, Ronald M. 1959"
+      ]
+    ]
+  },
+  "id": "nija1241",
+  "name": "Nyiyaparli-Palyku",
+  "description": null,
+  "markup_description": null,
+  "latitude": -22.8558,
+  "longitude": 120.831,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "South-West Pama-Nyungan",
+      "id": "sout3134",
+      "url": "https://glottolog.org/resource/languoid/id/sout3134"
+    },
+    {
+      "name": "Pilbara",
+      "id": "pilb1234",
+      "url": "https://glottolog.org/resource/languoid/id/pilb1234"
+    },
+    {
+      "name": "Ngayarda",
+      "id": "ngay1241",
+      "url": "https://glottolog.org/resource/languoid/id/ngay1241"
+    },
+    {
+      "name": "Central Ngayarda",
+      "id": "cent2248",
+      "url": "https://glottolog.org/resource/languoid/id/cent2248"
+    }
+  ],
+  "iso639-3": "xny"
+}

@@ -1,0 +1,91 @@
+{
+  "pk": 10908,
+  "hid": "ces",
+  "father_pk": 8003,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Central Bohemian [cent1953]':1,'Northeast Bohemian [nort2596]':1,'Southwest Bohemian [sout1722]':1)'Bohemia-West Moravia [bohe1242]':1,'Czecho-Moravian [czec1259]':1,'Hanak [hana1242]':1,'Lach [lach1246]':1,'Old Czech [oldc1253]':1,'West Judeo-Slavic [west3000][czk]':1,'Zaolzie [zaol1234]':1)'Czech [czec1258][ces]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 10,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_cze",
+        "label": "Czech"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Czech_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/czec1258",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q9056",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "89952",
+        "long_grammar",
+        1953,
+        350,
+        "Harkins, William E. 1953"
+      ],
+      [
+        "319224",
+        "grammar_sketch",
+        1533,
+        94,
+        "Beneš Optát and Petr Gzel and Václav Philomates 1974 [1533]"
+      ]
+    ]
+  },
+  "id": "czec1258",
+  "name": "Czech",
+  "description": null,
+  "markup_description": null,
+  "latitude": 49.873398,
+  "longitude": 15.10437,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Balto-Slavic",
+      "id": "balt1263",
+      "url": "https://glottolog.org/resource/languoid/id/balt1263"
+    },
+    {
+      "name": "Slavic",
+      "id": "slav1255",
+      "url": "https://glottolog.org/resource/languoid/id/slav1255"
+    },
+    {
+      "name": "West Slavic",
+      "id": "west2792",
+      "url": "https://glottolog.org/resource/languoid/id/west2792"
+    },
+    {
+      "name": "Czech-Slovak",
+      "id": "czec1260",
+      "url": "https://glottolog.org/resource/languoid/id/czec1260"
+    }
+  ],
+  "iso639-3": "ces"
+}

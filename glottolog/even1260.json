@@ -1,0 +1,120 @@
+{
+  "pk": 6144,
+  "hid": "eve",
+  "father_pk": 4128,
+  "family_pk": 162,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Berjozovka [berj1234]':1,'Kamchatka [kamc1242]':1,'Kolyma-Omolon [koly1246]':1,'Okhotsk [okho1239]':1,'Ola [olaa1239]':1,'Sakkyryr [sakk1240]':1,'Upper Kolyma [uppe1414]':1)'Eastern Even [east2811]':1,('Allaikha [alla1250]':1,'Moma Even [moma1245]':1,'Tompon [tomp1241]':1)'Middle Even [midd1358]':1,('Indigirka [indi1257]':1,'Lamunkhin [lamu1253]':1,'Tjugasjir [tjug1234]':1)'Western Even [west2887]':1)'Even [even1260][eve]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 16,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4142",
+        "label": "Even"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_evn",
+        "label": "Even"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Even_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/even1260",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q29960",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "476541",
+        "grammar",
+        2011,
+        290,
+        "Juwon Kim 2011"
+      ],
+      [
+        "21630",
+        "grammar",
+        1960,
+        263,
+        "Novikova, Klavdia A. 1960"
+      ],
+      [
+        "72324",
+        "grammar",
+        1955,
+        262,
+        "Johannes Benzing 1955"
+      ],
+      [
+        "578061",
+        "grammar_sketch",
+        1947,
+        271,
+        "Vera I. Tsintsius 1947"
+      ],
+      [
+        "589919",
+        "phonology_or_text",
+        1887,
+        499,
+        "Verbitskij, V. I. 1887"
+      ],
+      [
+        "552004",
+        "phonology_or_text",
+        1875,
+        38,
+        "Anton Schiefner 1875"
+      ],
+      [
+        "320011",
+        "wordlist_or_less",
+        1692,
+        52,
+        "Witsen, Nicolaes 1705 [1692]"
+      ]
+    ]
+  },
+  "id": "even1260",
+  "name": "Even",
+  "description": null,
+  "markup_description": null,
+  "latitude": 70.6687,
+  "longitude": 130.914,
+  "classification": [
+    {
+      "name": "Tungusic",
+      "id": "tung1282",
+      "url": "https://glottolog.org/resource/languoid/id/tung1282"
+    },
+    {
+      "name": "Northeastern Tungusic",
+      "id": "nort3417",
+      "url": "https://glottolog.org/resource/languoid/id/nort3417"
+    },
+    {
+      "name": "Northern Tungusic",
+      "id": "nort3147",
+      "url": "https://glottolog.org/resource/languoid/id/nort3147"
+    },
+    {
+      "name": "Ewenic",
+      "id": "ewen1234",
+      "url": "https://glottolog.org/resource/languoid/id/ewen1234"
+    }
+  ],
+  "iso639-3": "eve"
+}

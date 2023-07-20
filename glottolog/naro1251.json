@@ -1,0 +1,92 @@
+{
+  "pk": 14907,
+  "hid": "nrm",
+  "father_pk": 12054,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Miri {Malaysia} [miri1269]':1,'Nuclear Narom [nucl1562]':1)'Narom [naro1251][nrm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3336135",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Narom_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nrm",
+        "label": "Narom"
+      }
+    ],
+    "meds": [
+      [
+        "119414",
+        "grammar_sketch",
+        1983,
+        14,
+        "Omar, Asmah Haji 1983"
+      ],
+      [
+        "23345",
+        "wordlist_or_less",
+        1913,
+        2,
+        "Sidney H. Ray 1913"
+      ]
+    ]
+  },
+  "id": "naro1251",
+  "name": "Narom",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.42115,
+  "longitude": 114.011,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "North Borneo Malayo-Polynesian",
+      "id": "nort3253",
+      "url": "https://glottolog.org/resource/languoid/id/nort3253"
+    },
+    {
+      "name": "North Sarawakan",
+      "id": "nort3171",
+      "url": "https://glottolog.org/resource/languoid/id/nort3171"
+    },
+    {
+      "name": "Berawan-Lower Baram",
+      "id": "bera1263",
+      "url": "https://glottolog.org/resource/languoid/id/bera1263"
+    },
+    {
+      "name": "Lower Baram",
+      "id": "cent2094",
+      "url": "https://glottolog.org/resource/languoid/id/cent2094"
+    },
+    {
+      "name": "Central Lower Baram B",
+      "id": "cent2273",
+      "url": "https://glottolog.org/resource/languoid/id/cent2273"
+    }
+  ],
+  "iso639-3": "nrm"
+}

@@ -1,0 +1,128 @@
+{
+  "pk": 20898,
+  "hid": "wep",
+  "father_pk": 18887,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Achterhoeks [acht1238][act]':1,('North Drente [nort2629]':1,'South Drente [sout2628]':1)'Drents [dren1238][drt]':1,'Münsterlandisch [muns1252]':1,'Ostwestfalisch [ostw1234]':1,'Sallands [sall1238][sdz]':1,'Stellingwerfs [stel1238][stl]':1,'Südwestfalisch [sudw1234]':1,'Twents [twen1241][twd]':1,'Urkers [urke1234]':1,('East Veluws [east2294]':1,'North Veluws [nort2630]':1)'Veluws [velu1238][vel]':1,'Westmünsterlandisch [west2906]':1)'Westphalic [west2356][wep]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 15,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q505655",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Westphalian_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_gwe",
+        "label": "German (Westphalian)"
+      }
+    ],
+    "meds": [
+      [
+        "572172",
+        "long_grammar",
+        1967,
+        481,
+        "D. van der Haar 1967"
+      ],
+      [
+        "317741",
+        "long_grammar",
+        1953,
+        419,
+        "Albert Sassen 1953"
+      ],
+      [
+        "159347",
+        "grammar",
+        1885,
+        164,
+        "Jellinghaus, Hermann 1885"
+      ],
+      [
+        "587662",
+        "phonology_or_text",
+        1876,
+        45,
+        "Humpert, Philipp 1876"
+      ],
+      [
+        "572222",
+        "wordlist_or_less",
+        1836,
+        74,
+        "Halbertsma, J.H. 1836"
+      ]
+    ]
+  },
+  "id": "west2356",
+  "name": "Westphalic",
+  "description": null,
+  "markup_description": null,
+  "latitude": 51.459,
+  "longitude": 7.499,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Germanic",
+      "id": "germ1287",
+      "url": "https://glottolog.org/resource/languoid/id/germ1287"
+    },
+    {
+      "name": "Northwest Germanic",
+      "id": "nort3152",
+      "url": "https://glottolog.org/resource/languoid/id/nort3152"
+    },
+    {
+      "name": "West Germanic",
+      "id": "west2793",
+      "url": "https://glottolog.org/resource/languoid/id/west2793"
+    },
+    {
+      "name": "North Sea Germanic",
+      "id": "nort3175",
+      "url": "https://glottolog.org/resource/languoid/id/nort3175"
+    },
+    {
+      "name": "Altsächsisch",
+      "id": "alts1234",
+      "url": "https://glottolog.org/resource/languoid/id/alts1234"
+    },
+    {
+      "name": "Middle-Modern Low German",
+      "id": "midd1345",
+      "url": "https://glottolog.org/resource/languoid/id/midd1345"
+    },
+    {
+      "name": "Low German",
+      "id": "lowg1239",
+      "url": "https://glottolog.org/resource/languoid/id/lowg1239"
+    },
+    {
+      "name": "West Low German",
+      "id": "west2357",
+      "url": "https://glottolog.org/resource/languoid/id/west2357"
+    }
+  ],
+  "iso639-3": "wep"
+}

@@ -1,0 +1,102 @@
+{
+  "pk": 7345,
+  "hid": "njo",
+  "father_pk": 5017,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Changki [chan1311]':1,'Chungli [chon1286]':1,'Dordar [dord1238]':1,'Longla [long1376]':1,'Mongsen [mong1332]':1,('Tengsa [teng1273]':1,'Yacham [yach1235]':1)'Yacham-Tengsa [yach1234]':1)'Ao Naga [aona1235][njo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 8,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ao",
+        "label": "Ao"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ao_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/aona1235",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q28433",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "64482",
+        "long_grammar",
+        2007,
+        549,
+        "Coupe, Alexander Robertson 2007"
+      ],
+      [
+        "561543",
+        "grammar",
+        1893,
+        196,
+        "E. W. Clark 1893"
+      ],
+      [
+        "137885",
+        "grammar_sketch",
+        1886,
+        23,
+        "John Avery 1886"
+      ],
+      [
+        "310606",
+        "wordlist_or_less",
+        1879,
+        9,
+        "Clark, Ephraim W. 1879"
+      ],
+      [
+        "38277",
+        "wordlist_or_less",
+        1849,
+        3,
+        "Brown, Nathan 1849"
+      ]
+    ]
+  },
+  "id": "aona1235",
+  "name": "Ao Naga",
+  "description": null,
+  "markup_description": null,
+  "latitude": 26.3241,
+  "longitude": 94.3824,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Angami-Ao",
+      "id": "anga1312",
+      "url": "https://glottolog.org/resource/languoid/id/anga1312"
+    },
+    {
+      "name": "Central Naga",
+      "id": "aoic1235",
+      "url": "https://glottolog.org/resource/languoid/id/aoic1235"
+    }
+  ],
+  "iso639-3": "njo"
+}

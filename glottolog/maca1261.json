@@ -1,0 +1,75 @@
+{
+  "pk": 8924,
+  "hid": "mcl",
+  "father_pk": 6441,
+  "family_pk": 242,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Macaguaje [maca1261][mcl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5159",
+        "label": "Macaguaje"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6722435",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Macaguaje_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "45276",
+        "wordlist_or_less",
+        1945,
+        8,
+        "Friede, Juan 1945"
+      ]
+    ]
+  },
+  "id": "maca1261",
+  "name": "Macaguaje",
+  "description": null,
+  "markup_description": null,
+  "latitude": 0.49999,
+  "longitude": -75.8333,
+  "classification": [
+    {
+      "name": "Tucanoan",
+      "id": "tuca1253",
+      "url": "https://glottolog.org/resource/languoid/id/tuca1253"
+    },
+    {
+      "name": "Western Tucanoan",
+      "id": "west2784",
+      "url": "https://glottolog.org/resource/languoid/id/west2784"
+    },
+    {
+      "name": "Napo Tucanoan",
+      "id": "napo1243",
+      "url": "https://glottolog.org/resource/languoid/id/napo1243"
+    },
+    {
+      "name": "Siona-Secoya",
+      "id": "sion1248",
+      "url": "https://glottolog.org/resource/languoid/id/sion1248"
+    },
+    {
+      "name": "Sionan",
+      "id": "sion1249",
+      "url": "https://glottolog.org/resource/languoid/id/sion1249"
+    }
+  ],
+  "iso639-3": "mcl"
+}

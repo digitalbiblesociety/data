@@ -1,0 +1,90 @@
+{
+  "pk": 13204,
+  "hid": "kjl",
+  "father_pk": 10155,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Lukumel [luku1238]':1,'Takale [taka1261]':1,'Thabanggi [thab1238]':1,'Wale {Nepal} [wale1244]':1)'Western Parbate Kham [west2420][kjl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kmh",
+        "label": "Kham"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q22237017",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "161475",
+        "long_grammar",
+        1998,
+        839,
+        "David E. Watters 1998"
+      ],
+      [
+        "309346",
+        "grammar",
+        1993,
+        0,
+        "H. B. Thāpā Magar 1993"
+      ],
+      [
+        "552861",
+        "grammar",
+        1966,
+        0,
+        "Watters, David 1966"
+      ]
+    ]
+  },
+  "id": "west2420",
+  "name": "Western Parbate Kham",
+  "description": null,
+  "markup_description": null,
+  "latitude": 28.6521,
+  "longitude": 82.7348,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Himalayish",
+      "id": "hima1249",
+      "url": "https://glottolog.org/resource/languoid/id/hima1249"
+    },
+    {
+      "name": "Mahakiranti",
+      "id": "maha1306",
+      "url": "https://glottolog.org/resource/languoid/id/maha1306"
+    },
+    {
+      "name": "Kham-Magar-Chepang",
+      "id": "kham1285",
+      "url": "https://glottolog.org/resource/languoid/id/kham1285"
+    },
+    {
+      "name": "Kham",
+      "id": "kham1286",
+      "url": "https://glottolog.org/resource/languoid/id/kham1286"
+    },
+    {
+      "name": "Parbate Kham",
+      "id": "parb1234",
+      "url": "https://glottolog.org/resource/languoid/id/parb1234"
+    }
+  ],
+  "iso639-3": "kjl"
+}

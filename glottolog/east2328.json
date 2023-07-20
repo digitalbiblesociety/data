@@ -1,0 +1,96 @@
+{
+  "pk": 3066,
+  "hid": "mhr",
+  "father_pk": 1561,
+  "family_pk": 302,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Grassland Mari [gras1239]':1)'Eastern Mari [east2328][mhr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3203",
+        "label": "Eastern Mari"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mme",
+        "label": "Mari (Meadow)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Meadow_Mari_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/east2328",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3906614",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "550125",
+        "long_grammar",
+        1990,
+        432,
+        "Z. G. Zorina and G. S. Krylova and È. S. Yakimova 1990, 1991"
+      ],
+      [
+        "46436",
+        "long_grammar",
+        1961,
+        326,
+        "Pengitov, N. T. and Galkin, Ivan S. and Isakbaev, N. I. 1961"
+      ],
+      [
+        "550320",
+        "grammar",
+        1922,
+        198,
+        "Ernst Lewy 1922"
+      ],
+      [
+        "317076",
+        "grammar_sketch",
+        1845,
+        101,
+        "Castrén, Matthias Alexander 1845"
+      ],
+      [
+        "315429",
+        "grammar_sketch",
+        1775,
+        68,
+        "Thomas A. Sebeok and Alo Raun 1956 [1775]"
+      ]
+    ]
+  },
+  "id": "east2328",
+  "name": "Eastern Mari",
+  "description": null,
+  "markup_description": null,
+  "latitude": 55.8307,
+  "longitude": 48.405,
+  "classification": [
+    {
+      "name": "Uralic",
+      "id": "ural1272",
+      "url": "https://glottolog.org/resource/languoid/id/ural1272"
+    },
+    {
+      "name": "Mari",
+      "id": "mari1278",
+      "url": "https://glottolog.org/resource/languoid/id/mari1278"
+    }
+  ],
+  "iso639-3": "mhr"
+}

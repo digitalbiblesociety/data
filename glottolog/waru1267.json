@@ -1,0 +1,68 @@
+{
+  "pk": 4357,
+  "hid": "wrv",
+  "father_pk": 2614,
+  "family_pk": 213,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Waruna [waru1267][wrv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7971078",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Waruna_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "121413",
+        "wordlist_or_less",
+        1930,
+        2,
+        "Baxter E. Riley and Sidney H. Ray 1930, 1930, 1931"
+      ],
+      [
+        "81764",
+        "wordlist_or_less",
+        1923,
+        1,
+        "Sidney H. Ray 1923"
+      ]
+    ]
+  },
+  "id": "waru1267",
+  "name": "Waruna",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.23565,
+  "longitude": 142.47,
+  "classification": [
+    {
+      "name": "Suki-Gogodala",
+      "id": "suki1244",
+      "url": "https://glottolog.org/resource/languoid/id/suki1244"
+    },
+    {
+      "name": "Gogodalic",
+      "id": "gogo1264",
+      "url": "https://glottolog.org/resource/languoid/id/gogo1264"
+    },
+    {
+      "name": "Ari-Waruna",
+      "id": "ariw1234",
+      "url": "https://glottolog.org/resource/languoid/id/ariw1234"
+    }
+  ],
+  "iso639-3": "wrv"
+}

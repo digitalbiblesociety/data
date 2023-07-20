@@ -1,0 +1,95 @@
+{
+  "pk": 7116,
+  "hid": "fuf",
+  "father_pk": 4876,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Fula Peta [fula1267]':1,'Kebu Fula [kebu1245]':1,'Krio Fula [krio1246]':1)'Pular [pula1262][fuf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_fgu",
+        "label": "Fula (Guinean)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Pular_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/pula1262",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3915357",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "64600",
+        "grammar",
+        2002,
+        287,
+        "Leroy, Anne and Balde, Alpha Oumar Kona 2002"
+      ],
+      [
+        "143078",
+        "grammar",
+        2000,
+        273,
+        "Diallo, Abdourahmane 2000"
+      ],
+      [
+        "143373",
+        "grammar",
+        1876,
+        198,
+        "Reichardt, Charles Augustus Ludwig 1876"
+      ],
+      [
+        "66179",
+        "wordlist_or_less",
+        1854,
+        1,
+        "Koelle, Sigismund W. 1854"
+      ]
+    ]
+  },
+  "id": "pula1262",
+  "name": "Pular",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.1826,
+  "longitude": -12.7338,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "North-Central Atlantic",
+      "id": "nort3146",
+      "url": "https://glottolog.org/resource/languoid/id/nort3146"
+    },
+    {
+      "name": "Fula-Sereer",
+      "id": "peul1234",
+      "url": "https://glottolog.org/resource/languoid/id/peul1234"
+    },
+    {
+      "name": "Fula",
+      "id": "fula1264",
+      "url": "https://glottolog.org/resource/languoid/id/fula1264"
+    }
+  ],
+  "iso639-3": "fuf"
+}

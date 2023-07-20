@@ -1,0 +1,116 @@
+{
+  "pk": 14336,
+  "hid": "mxf",
+  "father_pk": 11263,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Douguia [doug1242]':1,'Dro [droo1238]':1,'Goulfey [goul1242]':1,'Mara {Malgbe} [mara1413]':1,'Nuclear Malgbe [nucl1688]':1,'Walia {Malgbe} [wali1273]':1)'Malgbe [malg1250][mxf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3502224",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Malgbe_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "99560",
+        "phonology_or_text",
+        1978,
+        16,
+        "Bouny, Paule 1978"
+      ],
+      [
+        "117990",
+        "phonology_or_text",
+        1977,
+        20,
+        "Bouny, Paule 1977"
+      ],
+      [
+        "30392",
+        "phonology_or_text",
+        1976,
+        18,
+        "Bouny, Paule 1976"
+      ],
+      [
+        "147272",
+        "wordlist_or_less",
+        1942,
+        4,
+        "Lebeuf, Jean-Paul 1942"
+      ],
+      [
+        "102268",
+        "wordlist_or_less",
+        1937,
+        2,
+        "Lukas, Johannes 1937"
+      ],
+      [
+        "17699",
+        "wordlist_or_less",
+        1907,
+        2,
+        "Gaudefroy-Demombynes, Maurice 1907"
+      ]
+    ]
+  },
+  "id": "malg1250",
+  "name": "Malgbe",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.5342,
+  "longitude": 14.8475,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "Biu-Mandara",
+      "id": "bium1280",
+      "url": "https://glottolog.org/resource/languoid/id/bium1280"
+    },
+    {
+      "name": "North Biu-Mandara",
+      "id": "nort3156",
+      "url": "https://glottolog.org/resource/languoid/id/nort3156"
+    },
+    {
+      "name": "Kotoko-Buduma",
+      "id": "koto1267",
+      "url": "https://glottolog.org/resource/languoid/id/koto1267"
+    },
+    {
+      "name": "Kotoko Septentrional",
+      "id": "koto1265",
+      "url": "https://glottolog.org/resource/languoid/id/koto1265"
+    },
+    {
+      "name": "Kotoko Septentrional 2",
+      "id": "koto1269",
+      "url": "https://glottolog.org/resource/languoid/id/koto1269"
+    }
+  ],
+  "iso639-3": "mxf"
+}

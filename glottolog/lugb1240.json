@@ -1,0 +1,90 @@
+{
+  "pk": 3953,
+  "hid": "lgg",
+  "father_pk": 2244,
+  "family_pk": 140,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Abedju-Azaki [abed1238]':1,'Aluru [alur1249]':1,'Arua [arua1259]':1,'Lu {Uganda} [luuu1243]':1,'Maracha [mara1394]':1,'Nio [nioo1239]':1,'Otsho [otsh1238]':1,'Terego [tere1275]':1,'Zaki [zaki1238]':1)'Lugbara [lugb1240][lgg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 9,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_lug",
+        "label": "Lugbara"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lugbara_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/lugb1240",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3272737",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "118987",
+        "long_grammar",
+        1960,
+        390,
+        "Crazzolara, Pasquale J. 1960"
+      ],
+      [
+        "22085",
+        "grammar_sketch",
+        1925,
+        29,
+        "McConnell, R. E. 1925"
+      ],
+      [
+        "144545",
+        "wordlist_or_less",
+        1912,
+        28,
+        "Amet, ... 1912"
+      ],
+      [
+        "58624",
+        "wordlist_or_less",
+        1904,
+        13,
+        "Johnston, Harry 1904"
+      ]
+    ]
+  },
+  "id": "lugb1240",
+  "name": "Lugbara",
+  "description": null,
+  "markup_description": null,
+  "latitude": 3.02245,
+  "longitude": 30.8642,
+  "classification": [
+    {
+      "name": "Central Sudanic",
+      "id": "cent2225",
+      "url": "https://glottolog.org/resource/languoid/id/cent2225"
+    },
+    {
+      "name": "Moru-Madi",
+      "id": "moru1252",
+      "url": "https://glottolog.org/resource/languoid/id/moru1252"
+    },
+    {
+      "name": "Central Moru-Madi",
+      "id": "cent2043",
+      "url": "https://glottolog.org/resource/languoid/id/cent2043"
+    }
+  ],
+  "iso639-3": "lgg"
+}

@@ -1,0 +1,96 @@
+{
+  "pk": 14671,
+  "hid": "tpx",
+  "father_pk": 11751,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Acatepec [acat1240]':1,'Platanillo [plat1255]':1,'Zapotitlán Tablas [zapo1435]':1)'Acatepec Me''phaa [acat1239][tpx]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3513",
+        "label": "Tlapanec"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q31157882",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/acat1239",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tlp",
+        "label": "Tlapanec"
+      }
+    ],
+    "meds": [
+      [
+        "574940",
+        "grammar_sketch",
+        2016,
+        149,
+        "Mentado Basilio, Alejandra 2016"
+      ],
+      [
+        "87907",
+        "grammar_sketch",
+        1935,
+        28,
+        "Radin, Paul 1935"
+      ]
+    ]
+  },
+  "id": "acat1239",
+  "name": "Acatepec Me'phaa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.1034,
+  "longitude": -99.0602,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Western Otomanguean",
+      "id": "west2783",
+      "url": "https://glottolog.org/resource/languoid/id/west2783"
+    },
+    {
+      "name": "Tlapanec-Manguean",
+      "id": "tlap1252",
+      "url": "https://glottolog.org/resource/languoid/id/tlap1252"
+    },
+    {
+      "name": "Subtiaba-Tlapanec",
+      "id": "subt1249",
+      "url": "https://glottolog.org/resource/languoid/id/subt1249"
+    },
+    {
+      "name": "Mephaa",
+      "id": "meph1234",
+      "url": "https://glottolog.org/resource/languoid/id/meph1234"
+    },
+    {
+      "name": "North-Central Mephaa",
+      "id": "nort3350",
+      "url": "https://glottolog.org/resource/languoid/id/nort3350"
+    },
+    {
+      "name": "West-Central Mephaa",
+      "id": "west2948",
+      "url": "https://glottolog.org/resource/languoid/id/west2948"
+    }
+  ],
+  "iso639-3": "tpx"
+}

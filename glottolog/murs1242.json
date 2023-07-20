@@ -1,0 +1,96 @@
+{
+  "pk": 7891,
+  "hid": "muz",
+  "father_pk": 5444,
+  "family_pk": 18,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mursi [murs1242][muz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mur",
+        "label": "Mursi"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mursi_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36013",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "590104",
+        "long_grammar",
+        2020,
+        689,
+        "Firew Girma Worku 2020"
+      ],
+      [
+        "36311",
+        "grammar_sketch",
+        1976,
+        29,
+        "Turton, David and Bender, M. Lionel 1976"
+      ],
+      [
+        "78995",
+        "wordlist_or_less",
+        1966,
+        4,
+        "Haberland, Eike 1966"
+      ],
+      [
+        "85914",
+        "wordlist_or_less",
+        1927,
+        1,
+        "Rossini, Carlo Conti 1927"
+      ]
+    ]
+  },
+  "id": "murs1242",
+  "name": "Mursi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.69801,
+  "longitude": 36.0971,
+  "classification": [
+    {
+      "name": "Surmic",
+      "id": "surm1244",
+      "url": "https://glottolog.org/resource/languoid/id/surm1244"
+    },
+    {
+      "name": "South Surmic",
+      "id": "sout2836",
+      "url": "https://glottolog.org/resource/languoid/id/sout2836"
+    },
+    {
+      "name": "Southeast Surmic",
+      "id": "sout2837",
+      "url": "https://glottolog.org/resource/languoid/id/sout2837"
+    },
+    {
+      "name": "Pastoral Surmic",
+      "id": "past1248",
+      "url": "https://glottolog.org/resource/languoid/id/past1248"
+    },
+    {
+      "name": "Tirma-Chai-Mursi",
+      "id": "suri1266",
+      "url": "https://glottolog.org/resource/languoid/id/suri1266"
+    }
+  ],
+  "iso639-3": "muz"
+}

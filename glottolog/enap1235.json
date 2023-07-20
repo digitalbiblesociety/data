@@ -1,0 +1,115 @@
+{
+  "pk": 3661,
+  "hid": "pbh",
+  "father_pk": 1996,
+  "family_pk": 56,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Panare [enap1235][pbh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2960",
+        "label": "Panare"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56610",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Panare_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/enap1235",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_pnr",
+        "label": "Panare"
+      }
+    ],
+    "meds": [
+      [
+        "306976",
+        "long_grammar",
+        2013,
+        486,
+        "Thomas E. Payne and Doris L. Payne 2013"
+      ],
+      [
+        "119676",
+        "grammar",
+        1994,
+        30,
+        "Payne, Doris L. 1994"
+      ],
+      [
+        "162582",
+        "grammar_sketch",
+        1989,
+        141,
+        "Gildea, Spike L. O. 1989"
+      ],
+      [
+        "119360",
+        "grammar_sketch",
+        1988,
+        141,
+        "Krisólogo B., Pedro Juan 1988"
+      ],
+      [
+        "144437",
+        "grammar_sketch",
+        1977,
+        80,
+        "Tosantos, Gonzalo 1977"
+      ],
+      [
+        "48973",
+        "grammar_sketch",
+        1954,
+        15,
+        "Riley, C. L. 1954"
+      ],
+      [
+        "105661",
+        "wordlist_or_less",
+        1953,
+        22,
+        "Riley, C.L. 1953"
+      ]
+    ]
+  },
+  "id": "enap1235",
+  "name": "Panare",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.95035,
+  "longitude": -65.8483,
+  "classification": [
+    {
+      "name": "Cariban",
+      "id": "cari1283",
+      "url": "https://glottolog.org/resource/languoid/id/cari1283"
+    },
+    {
+      "name": "Venezuelan Cariban",
+      "id": "vene1261",
+      "url": "https://glottolog.org/resource/languoid/id/vene1261"
+    },
+    {
+      "name": "Pemong-Panare",
+      "id": "pemo1246",
+      "url": "https://glottolog.org/resource/languoid/id/pemo1246"
+    }
+  ],
+  "iso639-3": "pbh"
+}

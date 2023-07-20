@@ -1,0 +1,98 @@
+{
+  "pk": 10933,
+  "hid": "nor",
+  "father_pk": 8017,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Nordnorsk [nord1235]':1,'Norwegian Bokmål [norw1259][nob]':1,'Norwegian Nynorsk [norw1262][nno]':1,'Trøndersk [trnd1234]':1,'Vestnorsk [vest1240]':1,'Østnorsk [stno1234]':1)'Norwegian [norw1258][nor]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nor",
+        "label": "Norwegian"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Norwegian_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/norw1258",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q9043",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "612799",
+        "long_grammar",
+        2018,
+        567,
+        "Philip Holmes and Hans-Olav Enger 2018"
+      ],
+      [
+        "549326",
+        "grammar",
+        1982,
+        276,
+        "Haugen, Einar 1982"
+      ],
+      [
+        "567961",
+        "grammar",
+        1848,
+        256,
+        "Aasen, Ivar 1848"
+      ]
+    ]
+  },
+  "id": "norw1258",
+  "name": "Norwegian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 59.92,
+  "longitude": 10.71,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Germanic",
+      "id": "germ1287",
+      "url": "https://glottolog.org/resource/languoid/id/germ1287"
+    },
+    {
+      "name": "Northwest Germanic",
+      "id": "nort3152",
+      "url": "https://glottolog.org/resource/languoid/id/nort3152"
+    },
+    {
+      "name": "North Germanic",
+      "id": "nort3160",
+      "url": "https://glottolog.org/resource/languoid/id/nort3160"
+    },
+    {
+      "name": "West Scandinavian",
+      "id": "west2805",
+      "url": "https://glottolog.org/resource/languoid/id/west2805"
+    }
+  ],
+  "iso639-3": "nor"
+}

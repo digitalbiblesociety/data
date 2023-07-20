@@ -1,0 +1,86 @@
+{
+  "pk": 17482,
+  "hid": "bnc",
+  "father_pk": 15156,
+  "family_pk": 289,
+  "level": "family",
+  "bookkeeping": false,
+  "category": "Family",
+  "newick": "(('Bayyu [bayy1237]':1,'Guinaang Bontoc [guin1256]':1,'Sadanga [sada1241]':1)'Central Bontoc [cent2292][lbk]-l-':1,(('Barlig [barl1240]':1,'Kadaklan [kada1287]':1,'Lias [lias1237]':1)'Eastern Bontok [east2881][ebk]':1,'Southern Bontok [sout3368][obk]':1)'Eastern-Southern Bontok [fina1242][bkb]-l-':1)'Bontok [bont1247][bnc]':1",
+  "child_family_count": 0,
+  "child_language_count": 2,
+  "child_dialect_count": 8,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Bontoc_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q4942634",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500568",
+        "wordlist_or_less",
+        2009,
+        0,
+        "ISO 639-3 Registration Authority 2009"
+      ]
+    ]
+  },
+  "id": "bont1247",
+  "name": "Bontok",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.09386,
+  "longitude": 121.02662,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Northern Luzon",
+      "id": "nort3238",
+      "url": "https://glottolog.org/resource/languoid/id/nort3238"
+    },
+    {
+      "name": "Meso-Cordilleran",
+      "id": "meso1254",
+      "url": "https://glottolog.org/resource/languoid/id/meso1254"
+    },
+    {
+      "name": "South-Central Cordilleran",
+      "id": "sout3211",
+      "url": "https://glottolog.org/resource/languoid/id/sout3211"
+    },
+    {
+      "name": "Central Cordilleran",
+      "id": "cent2296",
+      "url": "https://glottolog.org/resource/languoid/id/cent2296"
+    },
+    {
+      "name": "Nuclear Cordilleran",
+      "id": "nucl1754",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1754"
+    },
+    {
+      "name": "Bontok-Kankanay",
+      "id": "bont1246",
+      "url": "https://glottolog.org/resource/languoid/id/bont1246"
+    }
+  ],
+  "iso639-3": "bnc"
+}

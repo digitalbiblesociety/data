@@ -1,0 +1,63 @@
+{
+  "pk": 3398,
+  "hid": "crf",
+  "father_pk": 1815,
+  "family_pk": 390,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Caramanta [cara1271][crf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3504195",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Caramanta_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "61009",
+        "wordlist_or_less",
+        1954,
+        5,
+        "Daniel, H. 1954"
+      ],
+      [
+        "107902",
+        "wordlist_or_less",
+        1946,
+        445,
+        "Arcila, Graciliano 1946"
+      ]
+    ]
+  },
+  "id": "cara1271",
+  "name": "Caramanta",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.624,
+  "longitude": -75.877,
+  "classification": [
+    {
+      "name": "Chocoan",
+      "id": "choc1280",
+      "url": "https://glottolog.org/resource/languoid/id/choc1280"
+    },
+    {
+      "name": "Unclassified Chocoan",
+      "id": "unun9901",
+      "url": "https://glottolog.org/resource/languoid/id/unun9901"
+    }
+  ],
+  "iso639-3": "crf"
+}

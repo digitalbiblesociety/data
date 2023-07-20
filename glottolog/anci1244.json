@@ -1,0 +1,116 @@
+{
+  "pk": 14148,
+  "hid": "hbo",
+  "father_pk": 11078,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ammonite [ammo1234][qgg]':1,'Biblical Hebrew [bibl1238]':1,'Edomite [edom1234][xdm]':1,'Moabite [moab1234][obm]':1)'Ancient Hebrew [anci1244][hbo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Biblical_Hebrew",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q1982248",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "573148",
+        "long_grammar",
+        1996,
+        824,
+        "Paul Joüon and Muraoka, Takamitsu 1996"
+      ],
+      [
+        "102218",
+        "long_grammar",
+        1990,
+        779,
+        "Waltke, Bruce K. and O'Connor, M. 1990"
+      ],
+      [
+        "64018",
+        "long_grammar",
+        1910,
+        632,
+        "na 1910"
+      ],
+      [
+        "48027",
+        "grammar",
+        1828,
+        274,
+        "W. Gesenius 1828"
+      ],
+      [
+        "587161",
+        "grammar_sketch",
+        1525,
+        400,
+        "Elijah Levita and Sebastian Münster and Johann Froben 1525"
+      ],
+      [
+        "589231",
+        "phonology_or_text",
+        1506,
+        620,
+        "Johannes Reuchlin 1506"
+      ]
+    ]
+  },
+  "id": "anci1244",
+  "name": "Ancient Hebrew",
+  "description": null,
+  "markup_description": null,
+  "latitude": 31.7761,
+  "longitude": 35.1725,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Semitic",
+      "id": "semi1276",
+      "url": "https://glottolog.org/resource/languoid/id/semi1276"
+    },
+    {
+      "name": "West Semitic",
+      "id": "west2786",
+      "url": "https://glottolog.org/resource/languoid/id/west2786"
+    },
+    {
+      "name": "Central Semitic",
+      "id": "cent2236",
+      "url": "https://glottolog.org/resource/languoid/id/cent2236"
+    },
+    {
+      "name": "Northwest Semitic",
+      "id": "nort3165",
+      "url": "https://glottolog.org/resource/languoid/id/nort3165"
+    },
+    {
+      "name": "Canaanite",
+      "id": "cana1267",
+      "url": "https://glottolog.org/resource/languoid/id/cana1267"
+    },
+    {
+      "name": "Hebrewic",
+      "id": "hebr1246",
+      "url": "https://glottolog.org/resource/languoid/id/hebr1246"
+    }
+  ],
+  "iso639-3": "hbo"
+}

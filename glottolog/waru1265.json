@@ -1,0 +1,93 @@
+{
+  "pk": 2277,
+  "hid": "wrm",
+  "father_pk": 1054,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Warumungu [waru1265][wrm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2583",
+        "label": "Warumungu"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/c18",
+        "label": "Warumungu"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Warumungu_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/waru1265",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_wru",
+        "label": "Warumungu"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q1764544",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "155197",
+        "grammar",
+        2002,
+        212,
+        "Jane Simpson 2002"
+      ],
+      [
+        "662645",
+        "grammar",
+        1982,
+        0,
+        "Simpson, Jane and Heath, Jeffrey 1982"
+      ],
+      [
+        "142940",
+        "grammar_sketch",
+        1952,
+        16,
+        "Capell, Arthur 1952-1953"
+      ],
+      [
+        "1445",
+        "wordlist_or_less",
+        1899,
+        96,
+        "Spencer, W. Baldwin and Gillen, F. J. 1899"
+      ]
+    ]
+  },
+  "id": "waru1265",
+  "name": "Warumungu",
+  "description": null,
+  "markup_description": null,
+  "latitude": -20.6479,
+  "longitude": 134.375,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Desert Nyungic",
+      "id": "dese1234",
+      "url": "https://glottolog.org/resource/languoid/id/dese1234"
+    }
+  ],
+  "iso639-3": "wrm"
+}

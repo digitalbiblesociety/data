@@ -1,0 +1,100 @@
+{
+  "pk": 18091,
+  "hid": "cdr",
+  "father_pk": 15678,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Cinda [cind1242]':1,'Regi [regi1238]':1,'Tiyal [tiya1238]':1)'Yara [cind1241][cdr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Cinda-Regi_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35596",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "549275",
+        "wordlist_or_less",
+        2014,
+        6,
+        "Zachariah Yoder and Katarína Hannelová and Carol Magnusson and Yakubu Oro and Linus Otronyi and Michael J. Rueck and Katharine Spencer 2014"
+      ],
+      [
+        "90284",
+        "wordlist_or_less",
+        2003,
+        2,
+        "Dettweiler, Stephen and Dettweiler, Sonia 2003"
+      ],
+      [
+        "570079",
+        "wordlist_or_less",
+        1960,
+        0,
+        "Gunn, H. D., and F. P. Conant 1960"
+      ]
+    ]
+  },
+  "id": "cind1241",
+  "name": "Yara",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.3419,
+  "longitude": 5.84212,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Kainji",
+      "id": "kain1275",
+      "url": "https://glottolog.org/resource/languoid/id/kain1275"
+    },
+    {
+      "name": "Central Kainji",
+      "id": "cent2242",
+      "url": "https://glottolog.org/resource/languoid/id/cent2242"
+    },
+    {
+      "name": "Shiroro-Kamuku",
+      "id": "shir1273",
+      "url": "https://glottolog.org/resource/languoid/id/shir1273"
+    },
+    {
+      "name": "Kamuku-Hungwarya",
+      "id": "kamu1261",
+      "url": "https://glottolog.org/resource/languoid/id/kamu1261"
+    },
+    {
+      "name": "Kamuku",
+      "id": "kamu1262",
+      "url": "https://glottolog.org/resource/languoid/id/kamu1262"
+    }
+  ],
+  "iso639-3": "cdr"
+}

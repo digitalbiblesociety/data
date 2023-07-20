@@ -1,0 +1,68 @@
+{
+  "pk": 4119,
+  "hid": "puy",
+  "father_pk": 2350,
+  "family_pk": 160,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Purisimeño [puri1259][puy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q2967638",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Purisime%C3%B1o_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "572489",
+        "wordlist_or_less",
+        2015,
+        29,
+        "Henry, Timothy 2015"
+      ],
+      [
+        "104416",
+        "wordlist_or_less",
+        1878,
+        17,
+        "R. F. Heizer 1952 [1878]"
+      ]
+    ]
+  },
+  "id": "puri1259",
+  "name": "Purisimeño",
+  "description": null,
+  "markup_description": null,
+  "latitude": 34.6866,
+  "longitude": -120.431,
+  "classification": [
+    {
+      "name": "Chumashan",
+      "id": "chum1262",
+      "url": "https://glottolog.org/resource/languoid/id/chum1262"
+    },
+    {
+      "name": "Southern Chumashan",
+      "id": "sout3132",
+      "url": "https://glottolog.org/resource/languoid/id/sout3132"
+    },
+    {
+      "name": "Central Chumashan",
+      "id": "cent2139",
+      "url": "https://glottolog.org/resource/languoid/id/cent2139"
+    }
+  ],
+  "iso639-3": "puy"
+}

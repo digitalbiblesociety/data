@@ -1,0 +1,81 @@
+{
+  "pk": 3916,
+  "hid": "jbw",
+  "father_pk": 2229,
+  "family_pk": 139,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "'Yawijibaya [yawi1239][jbw]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "jbw",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 has a separate entry for Yawijibaya [jbw], but this language was close enough linguistically to count as a variety of Worora [wro] (**hh:hv:McGregorRumsey:Worrorran**).\nSee also: Worrorra [wro]."
+    },
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6744",
+        "label": "Yawijibaya"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q31722921",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/yawi1239",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500578",
+        "wordlist_or_less",
+        2011,
+        0,
+        "ISO 639-3 Registration Authority 2011"
+      ]
+    ]
+  },
+  "id": "yawi1239",
+  "name": "Yawijibaya",
+  "description": null,
+  "markup_description": null,
+  "latitude": -15.348087,
+  "longitude": 124.529665,
+  "classification": [
+    {
+      "name": "Worrorran",
+      "id": "worr1236",
+      "url": "https://glottolog.org/resource/languoid/id/worr1236"
+    },
+    {
+      "name": "Western Worrorran",
+      "id": "west2435",
+      "url": "https://glottolog.org/resource/languoid/id/west2435"
+    },
+    {
+      "name": "Worrorra",
+      "id": "worr1237",
+      "url": "https://glottolog.org/resource/languoid/id/worr1237"
+    }
+  ],
+  "iso639-3": "jbw"
+}

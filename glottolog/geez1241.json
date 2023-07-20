@@ -1,0 +1,87 @@
+{
+  "pk": 5741,
+  "hid": "gez",
+  "father_pk": 3792,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Geez [geez1241][gez]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q35667",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ge%CA%BDez",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "324803",
+        "long_grammar",
+        2005,
+        632,
+        "Dillmann, Christian Friedrich August and Carl Bezold 2005"
+      ],
+      [
+        "123074",
+        "long_grammar",
+        1907,
+        611,
+        "Dillmann, Christian Friedrich August 1907"
+      ],
+      [
+        "88711",
+        "grammar",
+        1886,
+        259,
+        "Praetorius, Franz 1886"
+      ],
+      [
+        "313493",
+        "grammar_sketch",
+        1552,
+        63,
+        "Mariano Vittori 1630 [1552]"
+      ]
+    ]
+  },
+  "id": "geez1241",
+  "name": "Geez",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.1342,
+  "longitude": 40.6821,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Semitic",
+      "id": "semi1276",
+      "url": "https://glottolog.org/resource/languoid/id/semi1276"
+    },
+    {
+      "name": "West Semitic",
+      "id": "west2786",
+      "url": "https://glottolog.org/resource/languoid/id/west2786"
+    },
+    {
+      "name": "Ethiosemitic",
+      "id": "ethi1244",
+      "url": "https://glottolog.org/resource/languoid/id/ethi1244"
+    }
+  ],
+  "iso639-3": "gez"
+}

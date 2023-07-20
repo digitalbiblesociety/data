@@ -1,0 +1,58 @@
+{
+  "pk": 630,
+  "hid": "boc",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Bakung Kenyah [baku1265][boc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "boc",
+      "name": "Bakung Kenyah",
+      "change_request": "2007-245",
+      "effective": "2008-01-14",
+      "reason": "merge",
+      "change_to": [
+        "xkl"
+      ],
+      "remedy": "Merge into Mainstream Kenyah [xkl]",
+      "comment": "The name Kenyah, Kelinyau, was proposed by Wurm and Hattori (1981) mainly based\non what Soriente (2005:19) calls \"superficial analysis focusing on geographic\nand administrative boundaries\". Using the means of comparative linguistics\nmethodology, it is possible to clarify the variations the Kenyah group. By\ninvestigating the shared innovation among the various Kenyah group, Soriente\n(2005) proposes that the names above- mentioned be used to incorporate all the\nother variants of another subgroup of Kenyah which further divided into four\nminor categories (which for the sake of simplicity here will be only referred to\nas \"group 1-4\". Group 1 language incorporates dialects of Lepo Tau, Lepo Bem,\nUma Jalan, Uma Tukung, Lepo Jengan, Lepo Aga, Uma Ake, Lepo Ga, Lepo La'ang,\nSambup and Likan. Group 2 language incorporates the dialect of Lepo Ke', and\nLepo Kuda. Group 3 language incorporates dialect of Lepo Ma'ut, Lepo Ndang,\nBadeng, and Lepo Jamok. Group 4 language incorporate dialects of Bakung and Lepo\nTeppu'"
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q14697981",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500905",
+        "wordlist_or_less",
+        2007,
+        0,
+        "ISO 639-3 Registration Authority 2007"
+      ]
+    ]
+  },
+  "id": "baku1265",
+  "name": "Bakung Kenyah",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "boc"
+}

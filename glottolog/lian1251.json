@@ -1,0 +1,94 @@
+{
+  "pk": 7342,
+  "hid": "njn",
+  "father_pk": 5010,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Liangmai Naga [lian1251][njn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5658",
+        "label": "Liangmai Naga"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q14194500",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "582231",
+        "long_grammar",
+        2011,
+        326,
+        "Widinibou, Charengna 2011"
+      ],
+      [
+        "112707",
+        "wordlist_or_less",
+        1971,
+        25,
+        "Kumar, Braj Bihari 1971"
+      ],
+      [
+        "85928",
+        "wordlist_or_less",
+        1967,
+        7,
+        "Marrison, Geoffrey E. 1967"
+      ],
+      [
+        "51830",
+        "wordlist_or_less",
+        1859,
+        5,
+        "McCulloch, W. 1859"
+      ],
+      [
+        "115954",
+        "wordlist_or_less",
+        1837,
+        1,
+        "Brown, Nathan 1837"
+      ]
+    ]
+  },
+  "id": "lian1251",
+  "name": "Liangmai Naga",
+  "description": null,
+  "markup_description": null,
+  "latitude": 25.16,
+  "longitude": 93.542,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Zemeic",
+      "id": "zeme1241",
+      "url": "https://glottolog.org/resource/languoid/id/zeme1241"
+    },
+    {
+      "name": "Nuclear Zemeic",
+      "id": "nucl1313",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1313"
+    }
+  ],
+  "iso639-3": "njn"
+}

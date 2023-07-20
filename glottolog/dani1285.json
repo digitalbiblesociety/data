@@ -1,0 +1,91 @@
+{
+  "pk": 10935,
+  "hid": "dan",
+  "father_pk": 8018,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Eastern Funen [east2842]':1,'Eastern Zealand [east2841]':1,'Old Danish [oldd1239]':1,'Southern Funen Islands [sout3312]':1,'Southern Islands Danish [sout3311]':1,'Southern Zealand [sout3310]':1,'Western Funen [west2930]':1,'Western Zealand [west2929]':1)'Danish [dani1285][dan]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 8,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_dsh",
+        "label": "Danish"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Danish_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/dani1285",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q9035",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "304051",
+        "long_grammar",
+        1928,
+        963,
+        "Johannes Brøndum-Nielsen 1928-1974"
+      ],
+      [
+        "551545",
+        "long_grammar",
+        1668,
+        542,
+        "Erik Eriksen Pontoppidan 1668"
+      ]
+    ]
+  },
+  "id": "dani1285",
+  "name": "Danish",
+  "description": null,
+  "markup_description": null,
+  "latitude": 54.8655,
+  "longitude": 9.36284,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Germanic",
+      "id": "germ1287",
+      "url": "https://glottolog.org/resource/languoid/id/germ1287"
+    },
+    {
+      "name": "Northwest Germanic",
+      "id": "nort3152",
+      "url": "https://glottolog.org/resource/languoid/id/nort3152"
+    },
+    {
+      "name": "North Germanic",
+      "id": "nort3160",
+      "url": "https://glottolog.org/resource/languoid/id/nort3160"
+    },
+    {
+      "name": "South Scandinavian",
+      "id": "sout3248",
+      "url": "https://glottolog.org/resource/languoid/id/sout3248"
+    }
+  ],
+  "iso639-3": "dan"
+}

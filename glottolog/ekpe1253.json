@@ -1,0 +1,77 @@
+{
+  "pk": 7202,
+  "hid": "ekp",
+  "father_pk": 4907,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ako {Atlantic-Congo} [akoo1249]':1,'Igbuduya [igbu1241]':1,'Ubye [ubye1238]':1,'Upata [upat1238]':1)'Ekpeye [ekpe1253][ekp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q35254",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ekpeye_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/ekpe1253",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "65254",
+        "long_grammar",
+        1969,
+        327,
+        "Clark, David J. 1969"
+      ],
+      [
+        "150176",
+        "wordlist_or_less",
+        1914,
+        2,
+        "Thomas, Northcote Whitridge 1914"
+      ]
+    ]
+  },
+  "id": "ekpe1253",
+  "name": "Ekpeye",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.06715,
+  "longitude": 6.53362,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Igboid",
+      "id": "igbo1258",
+      "url": "https://glottolog.org/resource/languoid/id/igbo1258"
+    }
+  ],
+  "iso639-3": "ekp"
+}

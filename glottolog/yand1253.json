@@ -1,0 +1,94 @@
+{
+  "pk": 8517,
+  "hid": "ynd",
+  "father_pk": 6053,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Nhirrpi [nhir1234][hrp]':1)'Yandruwandha [yand1253][ynd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3173",
+        "label": "Yandruwandha"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/l18",
+        "label": "Yandruwandha"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yandruwandha_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/yand1253",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_inn",
+        "label": "Innamincka"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q8048335",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "164698",
+        "grammar",
+        2004,
+        131,
+        "Gavan Breen 2004"
+      ],
+      [
+        "302946",
+        "grammar_sketch",
+        1878,
+        5,
+        "Howitt, Alfred William 1878"
+      ]
+    ]
+  },
+  "id": "yand1253",
+  "name": "Yandruwandha",
+  "description": null,
+  "markup_description": null,
+  "latitude": -28.4744,
+  "longitude": 140.583,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Karnic",
+      "id": "karn1253",
+      "url": "https://glottolog.org/resource/languoid/id/karn1253"
+    },
+    {
+      "name": "Central Karnic",
+      "id": "cent2016",
+      "url": "https://glottolog.org/resource/languoid/id/cent2016"
+    },
+    {
+      "name": "Western Central Karnic",
+      "id": "west2438",
+      "url": "https://glottolog.org/resource/languoid/id/west2438"
+    },
+    {
+      "name": "Yandruwandhic",
+      "id": "yand1252",
+      "url": "https://glottolog.org/resource/languoid/id/yand1252"
+    }
+  ],
+  "iso639-3": "ynd"
+}

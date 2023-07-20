@@ -1,0 +1,87 @@
+{
+  "pk": 7100,
+  "hid": "sav",
+  "father_pk": 4865,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Boukhou [bouk1238]':1,'Diobass [diob1238]':1,'Hasab [hasa1247]':1,'Sebikotane [sebi1238]':1,'Sindia [sind1276]':1)'Saafi-Saafi [saaf1238][sav]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q36308",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Safen_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "551566",
+        "long_grammar",
+        2015,
+        310,
+        "Abdoulaye Pouye 2015"
+      ],
+      [
+        "129925",
+        "grammar",
+        1983,
+        284,
+        "Mbodj, Chérif 1983"
+      ],
+      [
+        "67019",
+        "wordlist_or_less",
+        1980,
+        4,
+        "Kropp Dakubu, Mary E. 1980"
+      ],
+      [
+        "162617",
+        "wordlist_or_less",
+        1976,
+        4,
+        "Pichl, Walter J. 1976"
+      ]
+    ]
+  },
+  "id": "saaf1238",
+  "name": "Saafi-Saafi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 14.625,
+  "longitude": -17.0568,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "North-Central Atlantic",
+      "id": "nort3146",
+      "url": "https://glottolog.org/resource/languoid/id/nort3146"
+    },
+    {
+      "name": "Cangin",
+      "id": "cang1245",
+      "url": "https://glottolog.org/resource/languoid/id/cang1245"
+    },
+    {
+      "name": "Saafi-Noon-Lehar",
+      "id": "saaf1239",
+      "url": "https://glottolog.org/resource/languoid/id/saaf1239"
+    }
+  ],
+  "iso639-3": "sav"
+}

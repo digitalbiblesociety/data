@@ -1,0 +1,114 @@
+{
+  "pk": 10894,
+  "hid": "xbc",
+  "father_pk": 7997,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Bactrian [bact1239][xbc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "xbc",
+      "comment_type": "missing",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "A number of ancient languages of the Middle East and Central Asia are attested, but missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26. One is Bactrian (**hh:td:Davary:Baktrisch**)."
+    },
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q756651",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bactrian_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "475847",
+        "grammar_sketch",
+        2014,
+        238,
+        "Saloumeh Gholami 2014"
+      ],
+      [
+        "549000",
+        "grammar_sketch",
+        2009,
+        171,
+        "Saloumeh Gholami 2009"
+      ],
+      [
+        "314549",
+        "grammar_sketch",
+        1981,
+        33,
+        "Ivan M. Steblin-Kamenskij 1981"
+      ],
+      [
+        "120142",
+        "phonology_or_text",
+        1966,
+        0,
+        "Humbach, Helmut 1966-1967"
+      ]
+    ]
+  },
+  "id": "bact1239",
+  "name": "Bactrian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 36.81,
+  "longitude": 66.85,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Iranian",
+      "id": "iran1269",
+      "url": "https://glottolog.org/resource/languoid/id/iran1269"
+    },
+    {
+      "name": "Central Iranian PBS",
+      "id": "cent2317",
+      "url": "https://glottolog.org/resource/languoid/id/cent2317"
+    },
+    {
+      "name": "Central Iranian PB",
+      "id": "cent2318",
+      "url": "https://glottolog.org/resource/languoid/id/cent2318"
+    }
+  ],
+  "iso639-3": "xbc"
+}

@@ -1,0 +1,71 @@
+{
+  "pk": 2402,
+  "hid": "ysr",
+  "father_pk": 1119,
+  "family_pk": 172,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Old Sirenik [sire1246][ysr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10829",
+        "label": "Sirenikski"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sirenik_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ysi",
+        "label": "Yupik (Sirenik)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q28156",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "34285",
+        "grammar_sketch",
+        2000,
+        308,
+        "N. Vaxtin 2000"
+      ],
+      [
+        "155168",
+        "grammar_sketch",
+        1964,
+        110,
+        "Georgij I. Menovščikov 1964"
+      ]
+    ]
+  },
+  "id": "sire1246",
+  "name": "Old Sirenik",
+  "description": null,
+  "markup_description": null,
+  "latitude": 64.5192,
+  "longitude": -173.925,
+  "classification": [
+    {
+      "name": "Eskimo-Aleut",
+      "id": "eski1264",
+      "url": "https://glottolog.org/resource/languoid/id/eski1264"
+    },
+    {
+      "name": "Eskimo",
+      "id": "eski1265",
+      "url": "https://glottolog.org/resource/languoid/id/eski1265"
+    }
+  ],
+  "iso639-3": "ysr"
+}

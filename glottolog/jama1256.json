@@ -1,0 +1,74 @@
+{
+  "pk": 2598,
+  "hid": "jcs",
+  "father_pk": 1198,
+  "family_pk": 206,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Sign Language",
+  "newick": "'Jamaican Country Sign Language [jama1256][jcs]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/7186",
+        "label": "Jamaican Country Sign Language"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6127418",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Jamaican_Country_Sign_Language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "616891",
+        "grammar_sketch",
+        2016,
+        0,
+        "Gayle, Bertram 2016"
+      ],
+      [
+        "443824",
+        "phonology_or_text",
+        2012,
+        17,
+        "Dany Adone and Anastasia Bauer and Keren Cumberbatch and Elaine L. Maypilama 2012"
+      ],
+      [
+        "319339",
+        "wordlist_or_less",
+        1985,
+        6,
+        "Dolman, David 1985"
+      ]
+    ]
+  },
+  "id": "jama1256",
+  "name": "Jamaican Country Sign Language",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.9997,
+  "longitude": -76.9321,
+  "classification": [
+    {
+      "name": "Sign Language",
+      "id": "sign1238",
+      "url": "https://glottolog.org/resource/languoid/id/sign1238"
+    },
+    {
+      "name": "Rural Sign Language",
+      "id": "vill1244",
+      "url": "https://glottolog.org/resource/languoid/id/vill1244"
+    }
+  ],
+  "iso639-3": "jcs"
+}

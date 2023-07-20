@@ -1,0 +1,76 @@
+{
+  "pk": 1655,
+  "hid": "ole",
+  "father_pk": 332,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('''Ole [olee1239]':1,('Northeastern Olekha [nort3291]':1,'Southeastern Olekha [sout3272]':1)'Eastern Black Mountain Mönpa [east2810]':1)'Olekha [olek1239][ole]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4919",
+        "label": "Olekha"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3695204",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/%CA%BCOle_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "549580",
+        "grammar_sketch",
+        2016,
+        15,
+        "Gwendolyn Hyslop 2016"
+      ],
+      [
+        "323956",
+        "wordlist_or_less",
+        2012,
+        14,
+        "Bodt, Timotheus A. 2012"
+      ],
+      [
+        "78206",
+        "wordlist_or_less",
+        1995,
+        11,
+        "van Driem, George 1995"
+      ],
+      [
+        "570731",
+        "wordlist_or_less",
+        1992,
+        2,
+        "van Driem, George 1992"
+      ]
+    ]
+  },
+  "id": "olek1239",
+  "name": "Olekha",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.2079,
+  "longitude": 90.5546,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    }
+  ],
+  "iso639-3": "ole"
+}

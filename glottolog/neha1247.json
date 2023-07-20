@@ -1,0 +1,119 @@
+{
+  "pk": 23121,
+  "hid": "nsn",
+  "father_pk": 21538,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Nuclear Nehan [nucl1496]':1,'Pinipel [pini1246]':1)'Nehan [neha1247][nsn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_neh",
+        "label": "Nehan"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nehan_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3337774",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "321888",
+        "grammar_sketch",
+        2014,
+        86,
+        "John J. Glennon 2014"
+      ],
+      [
+        "162270",
+        "grammar_sketch",
+        1978,
+        59,
+        "Evelyn M. Todd 1978"
+      ],
+      [
+        "144137",
+        "wordlist_or_less",
+        1891,
+        7,
+        "Schmiele, G. 1891"
+      ]
+    ]
+  },
+  "id": "neha1247",
+  "name": "Nehan",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.56875,
+  "longitude": 154.2,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Western Oceanic linkage",
+      "id": "west2818",
+      "url": "https://glottolog.org/resource/languoid/id/west2818"
+    },
+    {
+      "name": "Meso Melanesian linkage",
+      "id": "meso1253",
+      "url": "https://glottolog.org/resource/languoid/id/meso1253"
+    },
+    {
+      "name": "New Ireland-Northwest Solomonic linkage",
+      "id": "newi1242",
+      "url": "https://glottolog.org/resource/languoid/id/newi1242"
+    },
+    {
+      "name": "St George linkage",
+      "id": "stge1234",
+      "url": "https://glottolog.org/resource/languoid/id/stge1234"
+    },
+    {
+      "name": "Northwest Solomonic",
+      "id": "nort3225",
+      "url": "https://glottolog.org/resource/languoid/id/nort3225"
+    },
+    {
+      "name": "North Bougainville Oceanic",
+      "id": "neha1246",
+      "url": "https://glottolog.org/resource/languoid/id/neha1246"
+    },
+    {
+      "name": "Nuclear North Bougainville Oceanic",
+      "id": "nucl1750",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1750"
+    }
+  ],
+  "iso639-3": "nsn"
+}

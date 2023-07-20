@@ -1,0 +1,98 @@
+{
+  "pk": 13865,
+  "hid": "tpk",
+  "father_pk": 10822,
+  "family_pk": 51,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "'Tupinikin [tupi1272][tpk]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "tpk",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "Tupinikin [tpk] is listed in E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 as a separate entry, but, in fact, only three words are attested (**hh:ew:Garcia:Mirandela**) which is insufficient grounds for separating it from the other entries of Tupi-Guarani, Subgroup III\n(**hh:hv:Loukotka:SAmerica**:103-105)."
+    },
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q33924",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tupiniquim_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "571268",
+        "wordlist_or_less",
+        1926,
+        5,
+        "Fernandes, Cornelio 1926"
+      ]
+    ]
+  },
+  "id": "tupi1272",
+  "name": "Tupinikin",
+  "description": null,
+  "markup_description": null,
+  "latitude": -19,
+  "longitude": -40.4167,
+  "classification": [
+    {
+      "name": "Tupian",
+      "id": "tupi1275",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1275"
+    },
+    {
+      "name": "Maweti-Guarani",
+      "id": "mawe1252",
+      "url": "https://glottolog.org/resource/languoid/id/mawe1252"
+    },
+    {
+      "name": "Aweti-Guarani",
+      "id": "awet1245",
+      "url": "https://glottolog.org/resource/languoid/id/awet1245"
+    },
+    {
+      "name": "Tupi-Guarani",
+      "id": "tupi1276",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1276"
+    },
+    {
+      "name": "Southern Tupi-Guarani",
+      "id": "sout3271",
+      "url": "https://glottolog.org/resource/languoid/id/sout3271"
+    },
+    {
+      "name": "Tupi-Guarani Subgroup III",
+      "id": "tupi1287",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1287"
+    },
+    {
+      "name": "Tupinambá",
+      "id": "tupi1273",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1273"
+    }
+  ],
+  "iso639-3": "tpk"
+}

@@ -1,0 +1,84 @@
+{
+  "pk": 6383,
+  "hid": "ise",
+  "father_pk": 4336,
+  "family_pk": 206,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Sign Language",
+  "newick": "'Italian Sign Language [ital1275][ise]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q375619",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Italian_Sign_Language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_lii",
+        "label": "Lingua Italiana dei Segni"
+      }
+    ],
+    "meds": [
+      [
+        "586310",
+        "long_grammar",
+        2020,
+        830,
+        "Chiara Branchini and Lara Mantovan 2020"
+      ],
+      [
+        "318838",
+        "grammar_sketch",
+        1987,
+        179,
+        "Volterra, Virginia 1987"
+      ],
+      [
+        "319594",
+        "phonology_or_text",
+        1984,
+        30,
+        "Volterra, Virginia and A. Laudanna and S. Corazza and Elena Radutzky and F. Natale 1984"
+      ]
+    ]
+  },
+  "id": "ital1275",
+  "name": "Italian Sign Language",
+  "description": null,
+  "markup_description": null,
+  "latitude": 42.72915,
+  "longitude": 12.42949,
+  "classification": [
+    {
+      "name": "Sign Language",
+      "id": "sign1238",
+      "url": "https://glottolog.org/resource/languoid/id/sign1238"
+    },
+    {
+      "name": "Deaf Sign Language",
+      "id": "deaf1237",
+      "url": "https://glottolog.org/resource/languoid/id/deaf1237"
+    },
+    {
+      "name": "LSFic",
+      "id": "lsfi1234",
+      "url": "https://glottolog.org/resource/languoid/id/lsfi1234"
+    },
+    {
+      "name": "Italian Sign",
+      "id": "ital1288",
+      "url": "https://glottolog.org/resource/languoid/id/ital1288"
+    }
+  ],
+  "iso639-3": "ise"
+}

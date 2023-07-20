@@ -1,0 +1,91 @@
+{
+  "pk": 7158,
+  "hid": "ati",
+  "father_pk": 4892,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bodin [bodi1251]':1,'Ketin [keti1245]':1,'Naindin [nain1239]':1)'Attié [atti1239][ati]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q34844",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Atti%C3%A9_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/atti1239",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "91960",
+        "long_grammar",
+        1996,
+        1045,
+        "Kouadio N'Guessan, Jérémie 1996"
+      ],
+      [
+        "147491",
+        "grammar",
+        1992,
+        40,
+        "Zribi-Hertz, Anne and Adopo, Charlemagne 1992"
+      ],
+      [
+        "56773",
+        "grammar_sketch",
+        1902,
+        78,
+        "Méraud, P. 1902"
+      ],
+      [
+        "570222",
+        "wordlist_or_less",
+        1900,
+        15,
+        "Crosson. 1900"
+      ]
+    ]
+  },
+  "id": "atti1239",
+  "name": "Attié",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.9977,
+  "longitude": -3.8209,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Kwa Volta-Congo",
+      "id": "kwav1236",
+      "url": "https://glottolog.org/resource/languoid/id/kwav1236"
+    },
+    {
+      "name": "Nyo",
+      "id": "nyoa1234",
+      "url": "https://glottolog.org/resource/languoid/id/nyoa1234"
+    }
+  ],
+  "iso639-3": "ati"
+}

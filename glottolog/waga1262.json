@@ -1,0 +1,59 @@
+{
+  "pk": 680,
+  "hid": "wgw",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Wagawaga {Retired} [waga1262][wgw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "wgw",
+      "name": "Wagawaga",
+      "change_request": "2009-045",
+      "effective": "2010-01-18",
+      "reason": "split",
+      "change_to": [
+        "ylb",
+        "wgb"
+      ],
+      "remedy": "Split into Yaleba [ylb] and Wagawaga [wgb] (new identifier)",
+      "comment": "Lexical similarity percentages between the two varieties are between sixty-six\nand seventy-six percent, depending on the dialect of Yaleba, of which there are\nthree. Between the Soma'a dialect and Wagawaga, lexical similarity is 66%;\nbetween the Sileba dialect and Wagawaga it is 72%; between the Gamadoudou\ndialect and Wagawaga it is 76%. Furthermore, intelligibility testing between\nYaleba and Wagawaga revealed that intelligibility between the two varieties is\nonly marginal and they do not share a common ethnolinguistic identity.”"
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q16112427",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500717",
+        "wordlist_or_less",
+        2009,
+        0,
+        "ISO 639-3 Registration Authority 2009"
+      ]
+    ]
+  },
+  "id": "waga1262",
+  "name": "Wagawaga (Retired)",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "wgw"
+}

@@ -1,0 +1,82 @@
+{
+  "pk": 8766,
+  "hid": "mht",
+  "father_pk": 6247,
+  "family_pk": 177,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mandahuaca [mand1448][mht]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3014",
+        "label": "Mandahuaca"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6747924",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mandawaca_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "134914",
+        "wordlist_or_less",
+        1907,
+        35,
+        "Tavera-Acosta, Bartolomé 1907"
+      ],
+      [
+        "141504",
+        "wordlist_or_less",
+        1906,
+        39,
+        "Koch-Grünberg, Theodor 1906"
+      ]
+    ]
+  },
+  "id": "mand1448",
+  "name": "Mandahuaca",
+  "description": null,
+  "markup_description": null,
+  "latitude": 1.48,
+  "longitude": -66.52,
+  "classification": [
+    {
+      "name": "Arawakan",
+      "id": "araw1281",
+      "url": "https://glottolog.org/resource/languoid/id/araw1281"
+    },
+    {
+      "name": "Japura-Colombia",
+      "id": "japu1236",
+      "url": "https://glottolog.org/resource/languoid/id/japu1236"
+    },
+    {
+      "name": "Nuclear Japura-Colombia",
+      "id": "nucl1764",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1764"
+    },
+    {
+      "name": "Northeast Japura-Colombia",
+      "id": "nort3362",
+      "url": "https://glottolog.org/resource/languoid/id/nort3362"
+    },
+    {
+      "name": "Cassiquiare",
+      "id": "ware1256",
+      "url": "https://glottolog.org/resource/languoid/id/ware1256"
+    }
+  ],
+  "iso639-3": "mht"
+}

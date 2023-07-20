@@ -1,0 +1,112 @@
+{
+  "pk": 10819,
+  "hid": "asu",
+  "father_pk": 7938,
+  "family_pk": 51,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tocantins Asurini [toca1235][asu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1720",
+        "label": "Asuriní do Tocantins"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q32041490",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/toca1235",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_asu",
+        "label": "Asuriní"
+      }
+    ],
+    "meds": [
+      [
+        "20458",
+        "grammar_sketch",
+        1993,
+        145,
+        "Márcia M. Damaso Vieira 1993"
+      ],
+      [
+        "32152",
+        "grammar_sketch",
+        1970,
+        125,
+        "Harrison, Carl H. 1970"
+      ],
+      [
+        "111777",
+        "grammar_sketch",
+        1963,
+        31,
+        "Carl H. Harrison 1963"
+      ],
+      [
+        "117910",
+        "wordlist_or_less",
+        1961,
+        6,
+        "Arnaud, Expedito 1961"
+      ],
+      [
+        "155152",
+        "wordlist_or_less",
+        1948,
+        6,
+        "Curt Nimuendajú 1948"
+      ]
+    ]
+  },
+  "id": "toca1235",
+  "name": "Tocantins Asurini",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.59359,
+  "longitude": -49.8991,
+  "classification": [
+    {
+      "name": "Tupian",
+      "id": "tupi1275",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1275"
+    },
+    {
+      "name": "Maweti-Guarani",
+      "id": "mawe1252",
+      "url": "https://glottolog.org/resource/languoid/id/mawe1252"
+    },
+    {
+      "name": "Aweti-Guarani",
+      "id": "awet1245",
+      "url": "https://glottolog.org/resource/languoid/id/awet1245"
+    },
+    {
+      "name": "Tupi-Guarani",
+      "id": "tupi1276",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1276"
+    },
+    {
+      "name": "Tupi-Guarani Subgroup IV",
+      "id": "tupi1279",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1279"
+    },
+    {
+      "name": "Tupi-Guarani Subgroup IV.A",
+      "id": "tupi1284",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1284"
+    }
+  ],
+  "iso639-3": "asu"
+}

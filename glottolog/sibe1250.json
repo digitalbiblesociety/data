@@ -1,0 +1,68 @@
+{
+  "pk": 3554,
+  "hid": "sty",
+  "father_pk": 1901,
+  "family_pk": 14,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Baraba [bara1273]':1,('Tara {Turkic} [tara1312]':1,'Tevriz [tevr1238]':1,'Tobol [tobo1250]':1,'Tyumen [tyum1239]':1,'Zabolotny [zabo1238]':1)'Tobol-Irtysh [tobo1249]':1,'Tom [tomm1241]':1)'Siberian Tatar [sibe1250][sty]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 8,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Siberian_Tatar_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q4418344",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "304831",
+        "grammar_sketch",
+        1981,
+        227,
+        "L. V. Dmitrieva 1981"
+      ],
+      [
+        "547132",
+        "grammar_sketch",
+        1963,
+        195,
+        "Axatov, Gabulxaj X. 1963"
+      ]
+    ]
+  },
+  "id": "sibe1250",
+  "name": "Siberian Tatar",
+  "description": null,
+  "markup_description": null,
+  "latitude": 57.4921,
+  "longitude": 72.5642,
+  "classification": [
+    {
+      "name": "Turkic",
+      "id": "turk1311",
+      "url": "https://glottolog.org/resource/languoid/id/turk1311"
+    },
+    {
+      "name": "Common Turkic",
+      "id": "comm1245",
+      "url": "https://glottolog.org/resource/languoid/id/comm1245"
+    },
+    {
+      "name": "Central Siberian Turkic",
+      "id": "cent2326",
+      "url": "https://glottolog.org/resource/languoid/id/cent2326"
+    }
+  ],
+  "iso639-3": "sty"
+}

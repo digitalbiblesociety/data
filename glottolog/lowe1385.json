@@ -1,0 +1,88 @@
+{
+  "pk": 10911,
+  "hid": "dsb",
+  "father_pk": 8004,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Lower Sorbian [lowe1385][dsb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4109",
+        "label": "Lower Sorbian"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_srl",
+        "label": "Sorbian (Lower)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lower_Sorbian_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/lowe1385",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q13286",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "319396",
+        "long_grammar",
+        1761,
+        707,
+        "Hauptmann, Johann Gottlieb 1761"
+      ]
+    ]
+  },
+  "id": "lowe1385",
+  "name": "Lower Sorbian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 51.6621,
+  "longitude": 13.9407,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Balto-Slavic",
+      "id": "balt1263",
+      "url": "https://glottolog.org/resource/languoid/id/balt1263"
+    },
+    {
+      "name": "Slavic",
+      "id": "slav1255",
+      "url": "https://glottolog.org/resource/languoid/id/slav1255"
+    },
+    {
+      "name": "West Slavic",
+      "id": "west2792",
+      "url": "https://glottolog.org/resource/languoid/id/west2792"
+    },
+    {
+      "name": "Sorbian",
+      "id": "sorb1249",
+      "url": "https://glottolog.org/resource/languoid/id/sorb1249"
+    }
+  ],
+  "iso639-3": "dsb"
+}

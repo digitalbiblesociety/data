@@ -1,0 +1,108 @@
+{
+  "pk": 12696,
+  "hid": "knf",
+  "father_pk": 9789,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Burama [bura1268]':1,'Shadal [shad1238]':1)'Mankanya [mank1251][knf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q35789",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mankanya_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mkn",
+        "label": "Mankanya"
+      }
+    ],
+    "meds": [
+      [
+        "587204",
+        "long_grammar",
+        2020,
+        326,
+        "Timothy Gaved 2020"
+      ],
+      [
+        "552620",
+        "long_grammar",
+        1967,
+        319,
+        "Trifkovič, Mirjana 1967"
+      ],
+      [
+        "92342",
+        "wordlist_or_less",
+        1936,
+        4,
+        "Tastevin, Constant 1936"
+      ],
+      [
+        "161489",
+        "wordlist_or_less",
+        1919,
+        2,
+        "Johnston, Harry H. 1919, 1922"
+      ],
+      [
+        "66179",
+        "wordlist_or_less",
+        1854,
+        1,
+        "Koelle, Sigismund W. 1854"
+      ]
+    ]
+  },
+  "id": "mank1251",
+  "name": "Mankanya",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.2615066667,
+  "longitude": -15.74389,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "North-Central Atlantic",
+      "id": "nort3146",
+      "url": "https://glottolog.org/resource/languoid/id/nort3146"
+    },
+    {
+      "name": "Central Atlantic",
+      "id": "cent2230",
+      "url": "https://glottolog.org/resource/languoid/id/cent2230"
+    },
+    {
+      "name": "Bak",
+      "id": "bakk1238",
+      "url": "https://glottolog.org/resource/languoid/id/bakk1238"
+    },
+    {
+      "name": "Joola-Manjaku",
+      "id": "jool1234",
+      "url": "https://glottolog.org/resource/languoid/id/jool1234"
+    },
+    {
+      "name": "Manjaku-Mankanya-Pepel",
+      "id": "manj1250",
+      "url": "https://glottolog.org/resource/languoid/id/manj1250"
+    }
+  ],
+  "iso639-3": "knf"
+}

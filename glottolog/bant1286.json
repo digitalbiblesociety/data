@@ -1,0 +1,91 @@
+{
+  "pk": 6836,
+  "hid": "bnq",
+  "father_pk": 4653,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Bantik [bant1286][bnq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q2883521",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bantik_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bnt",
+        "label": "Bantik"
+      }
+    ],
+    "meds": [
+      [
+        "97204",
+        "grammar_sketch",
+        1993,
+        462,
+        "Bawole, George 1993"
+      ],
+      [
+        "115219",
+        "grammar_sketch",
+        1981,
+        67,
+        "Sendewana-Runtuwene, J.M. 1981"
+      ],
+      [
+        "57750",
+        "phonology_or_text",
+        1980,
+        121,
+        "Bawole, George 1980"
+      ],
+      [
+        "61578",
+        "wordlist_or_less",
+        1855,
+        2,
+        "Jansen, A.J.F. 1855"
+      ]
+    ]
+  },
+  "id": "bant1286",
+  "name": "Bantik",
+  "description": null,
+  "markup_description": null,
+  "latitude": 1.44586,
+  "longitude": 124.846,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Sangiric",
+      "id": "sang1335",
+      "url": "https://glottolog.org/resource/languoid/id/sang1335"
+    },
+    {
+      "name": "Southern Sangiric",
+      "id": "sout3155",
+      "url": "https://glottolog.org/resource/languoid/id/sout3155"
+    }
+  ],
+  "iso639-3": "bnq"
+}

@@ -1,0 +1,84 @@
+{
+  "pk": 7730,
+  "hid": "aem",
+  "father_pk": 5353,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Arem [arem1240][aem]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1219",
+        "label": "Arem"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3507920",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Arem_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "324187",
+        "phonology_or_text",
+        2014,
+        8,
+        "Ferlus, Michel 2014"
+      ],
+      [
+        "322221",
+        "phonology_or_text",
+        1994,
+        0,
+        "Kasuga, Atsushi 1994"
+      ],
+      [
+        "576566",
+        "wordlist_or_less",
+        1902,
+        2,
+        "Rivière, M. 1902"
+      ]
+    ]
+  },
+  "id": "arem1240",
+  "name": "Arem",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.7672,
+  "longitude": 105.928,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Vietic",
+      "id": "viet1250",
+      "url": "https://glottolog.org/resource/languoid/id/viet1250"
+    },
+    {
+      "name": "Chutic",
+      "id": "chut1252",
+      "url": "https://glottolog.org/resource/languoid/id/chut1252"
+    },
+    {
+      "name": "East Chutic",
+      "id": "chut1246",
+      "url": "https://glottolog.org/resource/languoid/id/chut1246"
+    }
+  ],
+  "iso639-3": "aem"
+}

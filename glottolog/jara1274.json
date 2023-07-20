@@ -1,0 +1,83 @@
+{
+  "pk": 11222,
+  "hid": "jaf",
+  "father_pk": 8272,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Jara [jara1274][jaf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56289",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Jara_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "37690",
+        "wordlist_or_less",
+        1931,
+        5,
+        "Meek, Charles K. 1931"
+      ],
+      [
+        "63041",
+        "wordlist_or_less",
+        1912,
+        1,
+        "Struck, Bernhard 1912"
+      ]
+    ]
+  },
+  "id": "jara1274",
+  "name": "Jara",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.5232,
+  "longitude": 11.7036,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "Biu-Mandara",
+      "id": "bium1280",
+      "url": "https://glottolog.org/resource/languoid/id/bium1280"
+    },
+    {
+      "name": "South Biu-Mandara",
+      "id": "sout3145",
+      "url": "https://glottolog.org/resource/languoid/id/sout3145"
+    },
+    {
+      "name": "Teraic",
+      "id": "bium1275",
+      "url": "https://glottolog.org/resource/languoid/id/bium1275"
+    },
+    {
+      "name": "Western Tera",
+      "id": "west2707",
+      "url": "https://glottolog.org/resource/languoid/id/west2707"
+    }
+  ],
+  "iso639-3": "jaf"
+}

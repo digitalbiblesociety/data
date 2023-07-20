@@ -1,0 +1,99 @@
+{
+  "pk": 8588,
+  "hid": "stp",
+  "father_pk": 6116,
+  "family_pk": 155,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Southeastern Tepehuan [sout2976][stp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tps",
+        "label": "Tepehuan (Southeastern)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12953917",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "79990",
+        "long_grammar",
+        1988,
+        446,
+        "Willett, Thomas L. 1988"
+      ],
+      [
+        "79989",
+        "grammar_sketch",
+        1987,
+        68,
+        "Willett, Thomas L. 1987"
+      ],
+      [
+        "112712",
+        "grammar_sketch",
+        1981,
+        28,
+        "Willett, Elizabeth R. 1981"
+      ],
+      [
+        "129139",
+        "grammar_sketch",
+        1980,
+        22,
+        "Willett, Thomas L. 1980"
+      ],
+      [
+        "114637",
+        "phonology_or_text",
+        1978,
+        23,
+        "Willett, Thomas L. 1978"
+      ]
+    ]
+  },
+  "id": "sout2976",
+  "name": "Southeastern Tepehuan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 23.1584,
+  "longitude": -103.983,
+  "classification": [
+    {
+      "name": "Uto-Aztecan",
+      "id": "utoa1244",
+      "url": "https://glottolog.org/resource/languoid/id/utoa1244"
+    },
+    {
+      "name": "Southern Uto-Aztecan",
+      "id": "sout3136",
+      "url": "https://glottolog.org/resource/languoid/id/sout3136"
+    },
+    {
+      "name": "Tepiman",
+      "id": "tepi1240",
+      "url": "https://glottolog.org/resource/languoid/id/tepi1240"
+    },
+    {
+      "name": "Tepehuan",
+      "id": "tepe1281",
+      "url": "https://glottolog.org/resource/languoid/id/tepe1281"
+    },
+    {
+      "name": "Southern Tepehuan",
+      "id": "sout2975",
+      "url": "https://glottolog.org/resource/languoid/id/sout2975"
+    }
+  ],
+  "iso639-3": "stp"
+}

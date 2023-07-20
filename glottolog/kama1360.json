@@ -1,0 +1,77 @@
+{
+  "pk": 7549,
+  "hid": "klp",
+  "father_pk": 5221,
+  "family_pk": 385,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kamasa [kama1360][klp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2221",
+        "label": "Kamasa"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6356107",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kamasa_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "140544",
+        "phonology_or_text",
+        1973,
+        3,
+        "Lloyd, Richard G. 1973"
+      ],
+      [
+        "319180",
+        "wordlist_or_less",
+        1968,
+        1,
+        "Hans Fischer 1968"
+      ]
+    ]
+  },
+  "id": "kama1360",
+  "name": "Kamasa",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.97411,
+  "longitude": 146.20797,
+  "classification": [
+    {
+      "name": "Angan",
+      "id": "anga1289",
+      "url": "https://glottolog.org/resource/languoid/id/anga1289"
+    },
+    {
+      "name": "Nuclear Angan",
+      "id": "nucl1763",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1763"
+    },
+    {
+      "name": "Wojokesic",
+      "id": "nort3145",
+      "url": "https://glottolog.org/resource/languoid/id/nort3145"
+    },
+    {
+      "name": "Kamasa-Susuami",
+      "id": "kama1359",
+      "url": "https://glottolog.org/resource/languoid/id/kama1359"
+    }
+  ],
+  "iso639-3": "klp"
+}

@@ -1,0 +1,98 @@
+{
+  "pk": 5939,
+  "hid": "afi",
+  "father_pk": 3964,
+  "family_pk": 143,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Chini [akru1241][afi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3599",
+        "label": "Chini"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q57003",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Akrukay_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "569477",
+        "phonology_or_text",
+        2018,
+        366,
+        "Joseph Daniel Brooks 2018"
+      ],
+      [
+        "590199",
+        "wordlist_or_less",
+        1974,
+        17,
+        "John A. Z'graggen 1974"
+      ],
+      [
+        "306728",
+        "wordlist_or_less",
+        1972,
+        15,
+        "John A. Z'graggen 1972"
+      ],
+      [
+        "66392",
+        "wordlist_or_less",
+        1971,
+        7,
+        "Johannes A. Z'graggen 1971"
+      ],
+      [
+        "37308",
+        "wordlist_or_less",
+        1969,
+        2,
+        "John A. Z'graggen 1969"
+      ]
+    ]
+  },
+  "id": "akru1241",
+  "name": "Chini",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.88687,
+  "longitude": 144.821,
+  "classification": [
+    {
+      "name": "Lower Sepik-Ramu",
+      "id": "lowe1437",
+      "url": "https://glottolog.org/resource/languoid/id/lowe1437"
+    },
+    {
+      "name": "Ramu",
+      "id": "ramu1234",
+      "url": "https://glottolog.org/resource/languoid/id/ramu1234"
+    },
+    {
+      "name": "Goam",
+      "id": "goam1234",
+      "url": "https://glottolog.org/resource/languoid/id/goam1234"
+    },
+    {
+      "name": "Tamolan",
+      "id": "tamo1242",
+      "url": "https://glottolog.org/resource/languoid/id/tamo1242"
+    }
+  ],
+  "iso639-3": "afi"
+}

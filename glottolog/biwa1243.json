@@ -1,0 +1,72 @@
+{
+  "pk": 3750,
+  "hid": "bwm",
+  "father_pk": 2095,
+  "family_pk": 97,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Biwat [biwa1243][bwm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10632",
+        "label": "Biwat"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56352",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mundugumor_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "14901",
+        "grammar_sketch",
+        2006,
+        62,
+        "James McElvenny 2006"
+      ],
+      [
+        "123605",
+        "grammar_sketch",
+        1932,
+        0,
+        "Margaret Mead 1932"
+      ]
+    ]
+  },
+  "id": "biwa1243",
+  "name": "Biwat",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.39429,
+  "longitude": 143.873,
+  "classification": [
+    {
+      "name": "Yuat",
+      "id": "yuat1252",
+      "url": "https://glottolog.org/resource/languoid/id/yuat1252"
+    },
+    {
+      "name": "Miyak-Bun-Biwat",
+      "id": "miya1267",
+      "url": "https://glottolog.org/resource/languoid/id/miya1267"
+    },
+    {
+      "name": "Bun-Mundukumo",
+      "id": "bunm1234",
+      "url": "https://glottolog.org/resource/languoid/id/bunm1234"
+    }
+  ],
+  "iso639-3": "bwm"
+}

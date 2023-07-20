@@ -1,0 +1,87 @@
+{
+  "pk": 12130,
+  "hid": "bls",
+  "father_pk": 9244,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Balaesang [bala1314][bls]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1356",
+        "label": "Balaesang"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q4849796",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Balaesang_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "63783",
+        "grammar_sketch",
+        1985,
+        115,
+        "Garantjang, Ahmad and Dahlan Kajia and Hasan Basri and Munir Salham 1985"
+      ],
+      [
+        "63583",
+        "wordlist_or_less",
+        1979,
+        2,
+        "Donald F. Barr and Sharon G. Barr and C. Salombe 1979"
+      ]
+    ]
+  },
+  "id": "bala1314",
+  "name": "Balaesang",
+  "description": null,
+  "markup_description": null,
+  "latitude": -0.05644,
+  "longitude": 119.689,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Celebic",
+      "id": "cele1242",
+      "url": "https://glottolog.org/resource/languoid/id/cele1242"
+    },
+    {
+      "name": "Greater Eastern Celebic",
+      "id": "grea1299",
+      "url": "https://glottolog.org/resource/languoid/id/grea1299"
+    },
+    {
+      "name": "Tominic",
+      "id": "tomi1242",
+      "url": "https://glottolog.org/resource/languoid/id/tomi1242"
+    },
+    {
+      "name": "Southern Tomini",
+      "id": "sout2925",
+      "url": "https://glottolog.org/resource/languoid/id/sout2925"
+    }
+  ],
+  "iso639-3": "bls"
+}

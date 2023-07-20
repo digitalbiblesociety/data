@@ -1,0 +1,95 @@
+{
+  "pk": 10910,
+  "hid": "hsb",
+  "father_pk": 8004,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bautzen [baut1239]':1,'Kamenz [kame1249]':1)'Upper Sorbian [uppe1395][hsb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_sou",
+        "label": "Sorbian (Upper)"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/4280",
+        "label": "Upper Sorbian"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Upper_Sorbian_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/uppe1395",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q13248",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "319994",
+        "grammar",
+        1721,
+        289,
+        "Georgius Matthæus 1721"
+      ],
+      [
+        "589776",
+        "grammar_sketch",
+        1679,
+        78,
+        "Jakub Xaver Ticin 1679"
+      ]
+    ]
+  },
+  "id": "uppe1395",
+  "name": "Upper Sorbian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 51.2403,
+  "longitude": 14.4098,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Balto-Slavic",
+      "id": "balt1263",
+      "url": "https://glottolog.org/resource/languoid/id/balt1263"
+    },
+    {
+      "name": "Slavic",
+      "id": "slav1255",
+      "url": "https://glottolog.org/resource/languoid/id/slav1255"
+    },
+    {
+      "name": "West Slavic",
+      "id": "west2792",
+      "url": "https://glottolog.org/resource/languoid/id/west2792"
+    },
+    {
+      "name": "Sorbian",
+      "id": "sorb1249",
+      "url": "https://glottolog.org/resource/languoid/id/sorb1249"
+    }
+  ],
+  "iso639-3": "hsb"
+}

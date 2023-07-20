@@ -1,0 +1,110 @@
+{
+  "pk": 8817,
+  "hid": "wut",
+  "father_pk": 6308,
+  "family_pk": 198,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Sangke [sang1347]':1,('Nyao [nyao1234]':1,('Musu [musu1243]':1,'Nuclear Wutung [nucl1820]':1)'Wutung-Musu [wutu1246]':1)'Wutung-Nyao-Musu [wutu1245]':1)'Wutung [wutu1244][wut]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10589",
+        "label": "Wutung"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56743",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Wutung_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "305361",
+        "long_grammar",
+        2010,
+        422,
+        "Marmion, Douglas E. 2010"
+      ],
+      [
+        "149074",
+        "phonology_or_text",
+        2002,
+        3,
+        "Mark Donohue 2002"
+      ],
+      [
+        "42038",
+        "wordlist_or_less",
+        1994,
+        4,
+        "Smits, Leo and Voorhoeve, C. L. 1994"
+      ],
+      [
+        "126692",
+        "wordlist_or_less",
+        1975,
+        1,
+        "C. L. Voorhoeve 1975"
+      ],
+      [
+        "17111",
+        "wordlist_or_less",
+        1955,
+        1,
+        "Galis, Klaas Wilhelm 1955"
+      ],
+      [
+        "126844",
+        "wordlist_or_less",
+        1953,
+        1,
+        "Cowan, H. K. J. 1953"
+      ]
+    ]
+  },
+  "id": "wutu1244",
+  "name": "Wutung",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.64636,
+  "longitude": 141.104,
+  "classification": [
+    {
+      "name": "Sko",
+      "id": "skoo1245",
+      "url": "https://glottolog.org/resource/languoid/id/skoo1245"
+    },
+    {
+      "name": "Skou-Serra-Piore",
+      "id": "skou1238",
+      "url": "https://glottolog.org/resource/languoid/id/skou1238"
+    },
+    {
+      "name": "Skouic",
+      "id": "skou1239",
+      "url": "https://glottolog.org/resource/languoid/id/skou1239"
+    },
+    {
+      "name": "Eastern Skouic",
+      "id": "east2892",
+      "url": "https://glottolog.org/resource/languoid/id/east2892"
+    },
+    {
+      "name": "West Coast Skouic",
+      "id": "west2992",
+      "url": "https://glottolog.org/resource/languoid/id/west2992"
+    }
+  ],
+  "iso639-3": "wut"
+}

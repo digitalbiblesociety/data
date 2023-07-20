@@ -1,0 +1,104 @@
+{
+  "pk": 11783,
+  "hid": "maa",
+  "father_pk": 8971,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('San Antonio Eloxochitlán Mazatec [sana1287]':1,'San Lucas Zoquiapan Mazatec [sanl1249]':1,'San San Jerónimo Mazatec [sans1275]':1,'Santa Cruz Ocopetatillo Mazatec [sant1455]':1)'San Jerónimo Tecóatl Mazatec [sanj1286][maa]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Tec%C3%B3atl_Mazatec",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7692927",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "585690",
+        "grammar",
+        2019,
+        226,
+        "Margaret A. Agee and Daniel M. Agee and Leonardo García Baltazar 2019"
+      ],
+      [
+        "79198",
+        "phonology_or_text",
+        1984,
+        25,
+        "Bull, Brian E. 1984"
+      ],
+      [
+        "149734",
+        "phonology_or_text",
+        1983,
+        56,
+        "Bull, Brian E. 1983"
+      ],
+      [
+        "92322",
+        "phonology_or_text",
+        1966,
+        11,
+        "Kirk, Paul Livingston 1966"
+      ],
+      [
+        "662210",
+        "wordlist_or_less",
+        1956,
+        4,
+        "Sarah C. Gudschinsky 1956"
+      ]
+    ]
+  },
+  "id": "sanj1286",
+  "name": "San Jerónimo Tecóatl Mazatec",
+  "description": null,
+  "markup_description": null,
+  "latitude": 18.1999,
+  "longitude": -96.8833,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Popoloca-Zapotecan",
+      "id": "popo1292",
+      "url": "https://glottolog.org/resource/languoid/id/popo1292"
+    },
+    {
+      "name": "Popolocan-Mazatecan",
+      "id": "popo1293",
+      "url": "https://glottolog.org/resource/languoid/id/popo1293"
+    },
+    {
+      "name": "Mazatecan",
+      "id": "maza1295",
+      "url": "https://glottolog.org/resource/languoid/id/maza1295"
+    },
+    {
+      "name": "Northwest Alta Mazatec",
+      "id": "teco1234",
+      "url": "https://glottolog.org/resource/languoid/id/teco1234"
+    }
+  ],
+  "iso639-3": "maa"
+}

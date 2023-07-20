@@ -1,0 +1,87 @@
+{
+  "pk": 6655,
+  "hid": "eri",
+  "father_pk": 4568,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ogea [ogea1238][eri]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7079984",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ogea_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "151567",
+        "grammar_sketch",
+        1981,
+        133,
+        "Michael A. Colburn 1981"
+      ],
+      [
+        "156733",
+        "wordlist_or_less",
+        1980,
+        4,
+        "Z'graggen, Johannes A. 1980"
+      ],
+      [
+        "550441",
+        "wordlist_or_less",
+        1958,
+        1,
+        "Čestmír Loukotka 1958"
+      ],
+      [
+        "88528",
+        "wordlist_or_less",
+        1901,
+        13,
+        "Bíró, Lajos 1901"
+      ]
+    ]
+  },
+  "id": "ogea1238",
+  "name": "Ogea",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.37766,
+  "longitude": 145.71,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Madang",
+      "id": "mada1298",
+      "url": "https://glottolog.org/resource/languoid/id/mada1298"
+    },
+    {
+      "name": "Rai Coast",
+      "id": "raic1241",
+      "url": "https://glottolog.org/resource/languoid/id/raic1241"
+    },
+    {
+      "name": "Nuru",
+      "id": "nuru1240",
+      "url": "https://glottolog.org/resource/languoid/id/nuru1240"
+    }
+  ],
+  "iso639-3": "eri"
+}

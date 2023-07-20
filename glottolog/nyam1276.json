@@ -1,0 +1,125 @@
+{
+  "pk": 21996,
+  "hid": "nym",
+  "father_pk": 20227,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Mweri [mwer1249]':1,'Nyanyembe [nyan1306]':1,'Takama [taka1239]':1)'Nyamwezi [nyam1276][nym]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nym",
+        "label": "Nyamwezi"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nyamwezi_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nyam1276",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q4121131",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "161959",
+        "long_grammar",
+        1992,
+        335,
+        "Maganga, Clement and Schadeberg, Thilo C. 1992"
+      ],
+      [
+        "48724",
+        "long_grammar",
+        1901,
+        309,
+        "Velten, C. 1901"
+      ],
+      [
+        "43513",
+        "grammar",
+        1877,
+        9,
+        "Broyon-Mirambo, Philippe 1877/78"
+      ],
+      [
+        "79578",
+        "wordlist_or_less",
+        1872,
+        8,
+        "Steere, Edward 1872"
+      ]
+    ]
+  },
+  "id": "nyam1276",
+  "name": "Nyamwezi",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.08559,
+  "longitude": 32.94452,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Narrow Bantu",
+      "id": "narr1281",
+      "url": "https://glottolog.org/resource/languoid/id/narr1281"
+    },
+    {
+      "name": "East Bantu",
+      "id": "east2731",
+      "url": "https://glottolog.org/resource/languoid/id/east2731"
+    },
+    {
+      "name": "Northeast Savanna Bantu",
+      "id": "nort3203",
+      "url": "https://glottolog.org/resource/languoid/id/nort3203"
+    },
+    {
+      "name": "Sukuma-Nyamwezi (F.20)",
+      "id": "suku1274",
+      "url": "https://glottolog.org/resource/languoid/id/suku1274"
+    },
+    {
+      "name": "Nyamwezic",
+      "id": "nyam1286",
+      "url": "https://glottolog.org/resource/languoid/id/nyam1286"
+    }
+  ],
+  "iso639-3": "nym"
+}

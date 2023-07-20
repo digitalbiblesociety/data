@@ -1,0 +1,103 @@
+{
+  "pk": 21431,
+  "hid": "bmc",
+  "father_pk": 19609,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Biem [biem1237][bmc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q4904523",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Biem_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "161334",
+        "wordlist_or_less",
+        1975,
+        42,
+        "Böhm, Karl 1975"
+      ],
+      [
+        "77080",
+        "wordlist_or_less",
+        1937,
+        1,
+        "Höltker, Georg 1937"
+      ]
+    ]
+  },
+  "id": "biem1237",
+  "name": "Biem",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.61342,
+  "longitude": 144.816,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Western Oceanic linkage",
+      "id": "west2818",
+      "url": "https://glottolog.org/resource/languoid/id/west2818"
+    },
+    {
+      "name": "North New Guinea linkage",
+      "id": "nort3206",
+      "url": "https://glottolog.org/resource/languoid/id/nort3206"
+    },
+    {
+      "name": "Schouten linkage",
+      "id": "scho1242",
+      "url": "https://glottolog.org/resource/languoid/id/scho1242"
+    },
+    {
+      "name": "Kairiru-Manam",
+      "id": "kair1261",
+      "url": "https://glottolog.org/resource/languoid/id/kair1261"
+    },
+    {
+      "name": "Manamic linkage",
+      "id": "mana1294",
+      "url": "https://glottolog.org/resource/languoid/id/mana1294"
+    },
+    {
+      "name": "Bam-Manam",
+      "id": "bamm1241",
+      "url": "https://glottolog.org/resource/languoid/id/bamm1241"
+    }
+  ],
+  "iso639-3": "bmc"
+}

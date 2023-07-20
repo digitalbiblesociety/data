@@ -1,0 +1,97 @@
+{
+  "pk": 5132,
+  "hid": "moh",
+  "father_pk": 3317,
+  "family_pk": 357,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mohawk [moha1258][moh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1668",
+        "label": "Mohawk"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_moh",
+        "label": "Mohawk"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mohawk_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q13339",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "70272",
+        "long_grammar",
+        1988,
+        342,
+        "Hopkins, Alice Woodward 1988"
+      ],
+      [
+        "308927",
+        "long_grammar",
+        1972,
+        333,
+        "Nancy Bonvillain 1972"
+      ],
+      [
+        "549496",
+        "grammar",
+        1966,
+        0,
+        "Hopkins, Alice Woodward 1966"
+      ],
+      [
+        "143454",
+        "grammar_sketch",
+        1963,
+        429,
+        "Postal, Paul M. 1963"
+      ],
+      [
+        "146553",
+        "phonology_or_text",
+        1700,
+        168,
+        "R. M. B. La Galissonniére 1700s"
+      ]
+    ]
+  },
+  "id": "moha1258",
+  "name": "Mohawk",
+  "description": null,
+  "markup_description": null,
+  "latitude": 43.72,
+  "longitude": -74.66836,
+  "classification": [
+    {
+      "name": "Iroquoian",
+      "id": "iroq1247",
+      "url": "https://glottolog.org/resource/languoid/id/iroq1247"
+    },
+    {
+      "name": "Northern Iroquoian",
+      "id": "nort2947",
+      "url": "https://glottolog.org/resource/languoid/id/nort2947"
+    },
+    {
+      "name": "Mohawk-Oneida",
+      "id": "moha1257",
+      "url": "https://glottolog.org/resource/languoid/id/moha1257"
+    }
+  ],
+  "iso639-3": "moh"
+}

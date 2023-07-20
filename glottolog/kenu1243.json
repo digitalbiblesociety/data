@@ -1,0 +1,74 @@
+{
+  "pk": 6521,
+  "hid": "xnz",
+  "father_pk": 4485,
+  "family_pk": 274,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "'Kenuzi [kenu1243][xnz]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/7871",
+        "label": "Kenuzi"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nku",
+        "label": "Nubian (Kunuz)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kenzi_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q20639851",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500698",
+        "wordlist_or_less",
+        2011,
+        0,
+        "ISO 639-3 Registration Authority 2011"
+      ]
+    ]
+  },
+  "id": "kenu1243",
+  "name": "Kenuzi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 24.09,
+  "longitude": 32.9,
+  "classification": [
+    {
+      "name": "Nubian",
+      "id": "nubi1251",
+      "url": "https://glottolog.org/resource/languoid/id/nubi1251"
+    },
+    {
+      "name": "West-Central Nubian",
+      "id": "west2781",
+      "url": "https://glottolog.org/resource/languoid/id/west2781"
+    },
+    {
+      "name": "Central Nubian",
+      "id": "cent2232",
+      "url": "https://glottolog.org/resource/languoid/id/cent2232"
+    },
+    {
+      "name": "Kenuzi-Dongola",
+      "id": "kenu1236",
+      "url": "https://glottolog.org/resource/languoid/id/kenu1236"
+    }
+  ],
+  "iso639-3": "xnz"
+}

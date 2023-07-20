@@ -1,0 +1,92 @@
+{
+  "pk": 14461,
+  "hid": "kxj",
+  "father_pk": 11389,
+  "family_pk": 140,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kurmi [kurm1244]':1,'So {Chad} [sooo1255]':1)'Kulfa [kulf1238][kxj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2312",
+        "label": "Kulfa"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q713654",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kaba_So_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "415833",
+        "phonology_or_text",
+        2014,
+        64,
+        "Tadio, Nanga Jean and John M. Keegan 2014"
+      ],
+      [
+        "135789",
+        "wordlist_or_less",
+        2000,
+        27,
+        "Boyeldieu, Pascal 2000"
+      ]
+    ]
+  },
+  "id": "kulf1238",
+  "name": "Kulfa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.96327,
+  "longitude": 18.9055,
+  "classification": [
+    {
+      "name": "Central Sudanic",
+      "id": "cent2225",
+      "url": "https://glottolog.org/resource/languoid/id/cent2225"
+    },
+    {
+      "name": "Sara-Bongo-Bagirmi",
+      "id": "sara1341",
+      "url": "https://glottolog.org/resource/languoid/id/sara1341"
+    },
+    {
+      "name": "SBB Occidental",
+      "id": "sbbo1237",
+      "url": "https://glottolog.org/resource/languoid/id/sbbo1237"
+    },
+    {
+      "name": "Nuclear SBB Occidental",
+      "id": "nucl1719",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1719"
+    },
+    {
+      "name": "Saraic",
+      "id": "sara1349",
+      "url": "https://glottolog.org/resource/languoid/id/sara1349"
+    },
+    {
+      "name": "Sara Peripherique",
+      "id": "sara1318",
+      "url": "https://glottolog.org/resource/languoid/id/sara1318"
+    },
+    {
+      "name": "Koulfaic",
+      "id": "koul1239",
+      "url": "https://glottolog.org/resource/languoid/id/koul1239"
+    }
+  ],
+  "iso639-3": "kxj"
+}

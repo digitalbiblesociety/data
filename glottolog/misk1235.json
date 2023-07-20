@@ -1,0 +1,80 @@
+{
+  "pk": 1604,
+  "hid": "miq",
+  "father_pk": 323,
+  "family_pk": 323,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Baymuna [baym1237]':1,'Cabo [cabo1236]':1,'Honduran Mískito [hond1244]':1,'Tawira [tawi1239]':1,'Wanki [wank1238]':1)'Mískito [misk1235][miq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mis",
+        "label": "Miskito"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/4660",
+        "label": "Mískito"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Miskito_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q1516803",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "161338",
+        "long_grammar",
+        1988,
+        380,
+        "Danilo Salamanca 1988"
+      ],
+      [
+        "119619",
+        "grammar",
+        1985,
+        228,
+        "CIDCA 1985"
+      ],
+      [
+        "139161",
+        "grammar",
+        1891,
+        134,
+        "Lucien Adam 1891"
+      ],
+      [
+        "668306",
+        "grammar",
+        1000,
+        0,
+        "Thaeler, M. D. and Thaeler, A. O. 1000"
+      ]
+    ]
+  },
+  "id": "misk1235",
+  "name": "Mískito",
+  "description": null,
+  "markup_description": null,
+  "latitude": 15.1576,
+  "longitude": -84.2942,
+  "classification": [
+    {
+      "name": "Misumalpan",
+      "id": "misu1242",
+      "url": "https://glottolog.org/resource/languoid/id/misu1242"
+    }
+  ],
+  "iso639-3": "miq"
+}

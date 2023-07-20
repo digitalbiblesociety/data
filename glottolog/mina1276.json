@@ -1,0 +1,89 @@
+{
+  "pk": 8281,
+  "hid": "hna",
+  "father_pk": 5799,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Besleri [besl1239]':1,'Gamdugun [gamd1238]':1,'Jingjing [jing1267]':1)'Mina {Cameroon} [mina1276][hna]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_hna",
+        "label": "Mina"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Hina_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56532",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "72846",
+        "long_grammar",
+        2005,
+        527,
+        "Frajzyngier, Zygmunt and Eric Johnston 2005"
+      ],
+      [
+        "312368",
+        "wordlist_or_less",
+        1922,
+        2,
+        "Strümpell, F. 1922-1923"
+      ],
+      [
+        "128741",
+        "wordlist_or_less",
+        1910,
+        1,
+        "Strümpell, F. 1910"
+      ]
+    ]
+  },
+  "id": "mina1276",
+  "name": "Mina (Cameroon)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.38053,
+  "longitude": 13.84054,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "Biu-Mandara",
+      "id": "bium1280",
+      "url": "https://glottolog.org/resource/languoid/id/bium1280"
+    },
+    {
+      "name": "South Biu-Mandara",
+      "id": "sout3145",
+      "url": "https://glottolog.org/resource/languoid/id/sout3145"
+    },
+    {
+      "name": "Dabaic",
+      "id": "bium1274",
+      "url": "https://glottolog.org/resource/languoid/id/bium1274"
+    }
+  ],
+  "iso639-3": "hna"
+}

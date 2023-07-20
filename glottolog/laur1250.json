@@ -1,0 +1,56 @@
+{
+  "pk": 3321,
+  "hid": "lre",
+  "father_pk": 1746,
+  "family_pk": 357,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Laurentian [laur1250][lre]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q1790301",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Laurentian_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "94234",
+        "wordlist_or_less",
+        1534,
+        172,
+        "H. P. Biggar 1924 [1534-1541]"
+      ]
+    ]
+  },
+  "id": "laur1250",
+  "name": "Laurentian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 45.33,
+  "longitude": -72.5,
+  "classification": [
+    {
+      "name": "Iroquoian",
+      "id": "iroq1247",
+      "url": "https://glottolog.org/resource/languoid/id/iroq1247"
+    },
+    {
+      "name": "Northern Iroquoian",
+      "id": "nort2947",
+      "url": "https://glottolog.org/resource/languoid/id/nort2947"
+    }
+  ],
+  "iso639-3": "lre"
+}

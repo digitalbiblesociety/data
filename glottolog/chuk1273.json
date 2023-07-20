@@ -1,0 +1,110 @@
+{
+  "pk": 3266,
+  "hid": "ckt",
+  "father_pk": 1716,
+  "family_pk": 340,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Chaun [chau1261]':1,'Enmylinskij [enmy1238]':1,'Enurmin [enur1238]':1,'Nunligranskij [nunl1238]':1,'Pevekskij [peve1239]':1,'Uellanskij [uell1238]':1,'Xatyrskij [xaty1242]':1,'Yanrakinot [yanr1238]':1)'Chukchi [chuk1273][ckt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 8,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1730",
+        "label": "Chukchi"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_chk",
+        "label": "Chukchi"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Chukchi_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/chuk1273",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33170",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "123101",
+        "long_grammar",
+        1961,
+        825,
+        "Skorik, Pavel Ya. 1961, 1977"
+      ],
+      [
+        "162634",
+        "grammar",
+        1922,
+        273,
+        "Waldemar Bogoras 1922"
+      ],
+      [
+        "586235",
+        "grammar_sketch",
+        1899,
+        50,
+        "V. G. Bogoraz 1899"
+      ],
+      [
+        "589068",
+        "wordlist_or_less",
+        1898,
+        52,
+        "Mikhail Pitelin 1898"
+      ],
+      [
+        "163595",
+        "wordlist_or_less",
+        1883,
+        20,
+        "Oscar Nordquist 1883"
+      ],
+      [
+        "309459",
+        "wordlist_or_less",
+        1786,
+        20,
+        "Pallas, Peter Simon 1786, 1789"
+      ],
+      [
+        "667797",
+        "wordlist_or_less",
+        1000,
+        0,
+        "Skorik, P. 1000"
+      ]
+    ]
+  },
+  "id": "chuk1273",
+  "name": "Chukchi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 68.6436,
+  "longitude": 170.045,
+  "classification": [
+    {
+      "name": "Chukotko-Kamchatkan",
+      "id": "chuk1271",
+      "url": "https://glottolog.org/resource/languoid/id/chuk1271"
+    },
+    {
+      "name": "Chukotian",
+      "id": "chuk1272",
+      "url": "https://glottolog.org/resource/languoid/id/chuk1272"
+    }
+  ],
+  "iso639-3": "ckt"
+}

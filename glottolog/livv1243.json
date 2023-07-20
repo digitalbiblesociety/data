@@ -1,0 +1,92 @@
+{
+  "pk": 15388,
+  "hid": "olo",
+  "father_pk": 12607,
+  "family_pk": 302,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Livvi [livv1243][olo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3281",
+        "label": "Livvi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36584",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Livvi-Karelian_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "320133",
+        "grammar_sketch",
+        1884,
+        103,
+        "Genetz, Arvid 1884"
+      ],
+      [
+        "309459",
+        "wordlist_or_less",
+        1786,
+        20,
+        "Pallas, Peter Simon 1786, 1789"
+      ]
+    ]
+  },
+  "id": "livv1243",
+  "name": "Livvi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 61.6565,
+  "longitude": 29.0726,
+  "classification": [
+    {
+      "name": "Uralic",
+      "id": "ural1272",
+      "url": "https://glottolog.org/resource/languoid/id/ural1272"
+    },
+    {
+      "name": "Finnic",
+      "id": "finn1317",
+      "url": "https://glottolog.org/resource/languoid/id/finn1317"
+    },
+    {
+      "name": "Coastal Finnic",
+      "id": "coas1319",
+      "url": "https://glottolog.org/resource/languoid/id/coas1319"
+    },
+    {
+      "name": "Neva",
+      "id": "neva1234",
+      "url": "https://glottolog.org/resource/languoid/id/neva1234"
+    },
+    {
+      "name": "North Finnic",
+      "id": "nort3282",
+      "url": "https://glottolog.org/resource/languoid/id/nort3282"
+    },
+    {
+      "name": "Ladogan",
+      "id": "lado1234",
+      "url": "https://glottolog.org/resource/languoid/id/lado1234"
+    },
+    {
+      "name": "East Ladoga",
+      "id": "east2796",
+      "url": "https://glottolog.org/resource/languoid/id/east2796"
+    }
+  ],
+  "iso639-3": "olo"
+}

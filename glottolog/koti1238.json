@@ -1,0 +1,118 @@
+{
+  "pk": 18220,
+  "hid": "eko",
+  "father_pk": 15797,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ekoti [ekot1239]':1,'Enatthembo [enat1238]':1)'Koti [koti1238][eko]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_eko",
+        "label": "Ekoti"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Koti_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q29930",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "130457",
+        "grammar",
+        2000,
+        272,
+        "Schadeberg, Thilo C. and Mucanheia, Francisco Ussene 2000"
+      ],
+      [
+        "127337",
+        "phonology_or_text",
+        1981,
+        0,
+        "Prata, António Pires 1981"
+      ],
+      [
+        "106178",
+        "phonology_or_text",
+        1980,
+        0,
+        "Prata, António Pires 1980"
+      ],
+      [
+        "161489",
+        "wordlist_or_less",
+        1919,
+        2,
+        "Johnston, Harry H. 1919, 1922"
+      ],
+      [
+        "303099",
+        "wordlist_or_less",
+        1882,
+        1,
+        "Anónimo 1882"
+      ]
+    ]
+  },
+  "id": "koti1238",
+  "name": "Koti",
+  "description": null,
+  "markup_description": null,
+  "latitude": -16.4823,
+  "longitude": 39.7602,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Narrow Bantu",
+      "id": "narr1281",
+      "url": "https://glottolog.org/resource/languoid/id/narr1281"
+    },
+    {
+      "name": "East Bantu",
+      "id": "east2731",
+      "url": "https://glottolog.org/resource/languoid/id/east2731"
+    },
+    {
+      "name": "North Mozambique Bantu",
+      "id": "maku1247",
+      "url": "https://glottolog.org/resource/languoid/id/maku1247"
+    }
+  ],
+  "iso639-3": "eko"
+}

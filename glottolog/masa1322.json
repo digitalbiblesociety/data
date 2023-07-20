@@ -1,0 +1,103 @@
+{
+  "pk": 8245,
+  "hid": "mcn",
+  "father_pk": 5783,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Banana [bana1304]':1,'Bongor [bong1298]':1,'Budugum [budu1264]':1,'Bugudum [bugu1248]':1,('Gizay [giza1238]':1,'Wina [wina1241]':1)'Central Masa [cent2188]':1,'Gumay [guma1259]':1,('Domo [domo1238]':1,'Walia [wali1272]':1,'Yagwa [yagw1244]':1)'West Masa [west2705]':1)'Masana [masa1322][mcn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 12,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56668",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Massa_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mas",
+        "label": "Masa"
+      }
+    ],
+    "meds": [
+      [
+        "112375",
+        "grammar",
+        1999,
+        273,
+        "Melis, Antonino 1999"
+      ],
+      [
+        "134190",
+        "grammar_sketch",
+        1986,
+        207,
+        "Caitucoli, Claude 1986"
+      ],
+      [
+        "36227",
+        "grammar_sketch",
+        1978,
+        22,
+        "Caitucoli, Claude 1978"
+      ],
+      [
+        "17241",
+        "grammar_sketch",
+        1951,
+        10,
+        "Mouchet, Jean and Erickson, E. 1951"
+      ],
+      [
+        "103399",
+        "wordlist_or_less",
+        1912,
+        20,
+        "von Hagen, Gunther 1912"
+      ]
+    ]
+  },
+  "id": "masa1322",
+  "name": "Masana",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.0606,
+  "longitude": 15.4748,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "Masa",
+      "id": "masa1323",
+      "url": "https://glottolog.org/resource/languoid/id/masa1323"
+    },
+    {
+      "name": "North Masa",
+      "id": "nort3157",
+      "url": "https://glottolog.org/resource/languoid/id/nort3157"
+    },
+    {
+      "name": "Masa-Gizey-Zumaya",
+      "id": "masa1324",
+      "url": "https://glottolog.org/resource/languoid/id/masa1324"
+    }
+  ],
+  "iso639-3": "mcn"
+}

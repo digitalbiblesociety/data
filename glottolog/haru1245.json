@@ -1,0 +1,101 @@
+{
+  "pk": 1264,
+  "hid": "tmd",
+  "father_pk": 247,
+  "family_pk": 247,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Waibuk [cent2122]':1,'North Waibuk [nort2926]':1,'South Waibuk [sout2946]':1)'Haruai [haru1245][tmd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10685",
+        "label": "Haruai"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12632146",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Haruai_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_har",
+        "label": "Haruai"
+      }
+    ],
+    "meds": [
+      [
+        "570078",
+        "phonology_or_text",
+        2018,
+        22,
+        "Comrie, Bernard 2018"
+      ],
+      [
+        "159427",
+        "phonology_or_text",
+        1995,
+        13,
+        "Comrie, Bernard 1995"
+      ],
+      [
+        "86607",
+        "phonology_or_text",
+        1991,
+        12,
+        "Bernard Comrie 1991"
+      ],
+      [
+        "548128",
+        "phonology_or_text",
+        1987,
+        12,
+        "Bernard Comrie 1987"
+      ],
+      [
+        "71840",
+        "wordlist_or_less",
+        1976,
+        3,
+        "Tonson, John 1976"
+      ],
+      [
+        "31052",
+        "wordlist_or_less",
+        1975,
+        1,
+        "Laycock, Donald C. 1975"
+      ],
+      [
+        "108516",
+        "wordlist_or_less",
+        1973,
+        1,
+        "Laycock, Donald C. 1973"
+      ]
+    ]
+  },
+  "id": "haru1245",
+  "name": "Haruai",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.09522,
+  "longitude": 144.3375,
+  "classification": [
+    {
+      "name": "Piawi",
+      "id": "piaw1238",
+      "url": "https://glottolog.org/resource/languoid/id/piaw1238"
+    }
+  ],
+  "iso639-3": "tmd"
+}

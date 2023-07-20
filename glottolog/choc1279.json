@@ -1,0 +1,98 @@
+{
+  "pk": 11780,
+  "hid": "coz",
+  "father_pk": 8968,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Chochotec [choc1279][coz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3458",
+        "label": "Chocho"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2964262",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Chocho_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_cch",
+        "label": "Chocho"
+      }
+    ],
+    "meds": [
+      [
+        "91957",
+        "grammar",
+        2000,
+        153,
+        "Annette Veerman-Leichsenring 2000"
+      ],
+      [
+        "116261",
+        "grammar_sketch",
+        1977,
+        175,
+        "Mock, Carol 1977"
+      ],
+      [
+        "306511",
+        "grammar_sketch",
+        1899,
+        88,
+        "Francisco Belmar 1899"
+      ]
+    ]
+  },
+  "id": "choc1279",
+  "name": "Chochotec",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.666,
+  "longitude": -97.2388,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Popoloca-Zapotecan",
+      "id": "popo1292",
+      "url": "https://glottolog.org/resource/languoid/id/popo1292"
+    },
+    {
+      "name": "Popolocan-Mazatecan",
+      "id": "popo1293",
+      "url": "https://glottolog.org/resource/languoid/id/popo1293"
+    },
+    {
+      "name": "Ixcatec-Chocho-Popolocan",
+      "id": "ixca1247",
+      "url": "https://glottolog.org/resource/languoid/id/ixca1247"
+    },
+    {
+      "name": "Chocho-Popolocan",
+      "id": "choc1278",
+      "url": "https://glottolog.org/resource/languoid/id/choc1278"
+    }
+  ],
+  "iso639-3": "coz"
+}

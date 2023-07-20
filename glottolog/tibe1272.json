@@ -1,0 +1,144 @@
+{
+  "pk": 16175,
+  "hid": "bod",
+  "father_pk": 13350,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Gar Tibetan [gart1234]':1,'Gergye [gerg1239]':1,'Purang [pura1259]':1,'Ruthok [ruth1234]':1,'Tshochen [tsho1241]':1)'Ngari {Tibetan Autonomous Region} [mnga1238]':1,('Dingri [ding1243]':1,'Kyirong [kyir1236]':1,'Shigatse [shig1238]':1,'Western Drokpas [west2905]':1)'Tsang [gtsa1238]':1,('Drigung [drig1234]':1,'Kongbo [kong1283]':1,'Lhasa Tibetan [utsa1239]':1,'Lhoka [lhok1239]':1)'Ü [dbus1238]':1)'Tibetan [tibe1272][bod]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 16,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_rpa",
+        "label": "Rang Pas"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tdi",
+        "label": "Tibetan (Dingri)"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tdr",
+        "label": "Tibetan (Drokpa)"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tmo",
+        "label": "Tibetan (Modern Literary)"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tis",
+        "label": "Tibetan (Shigatse)"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tib",
+        "label": "Tibetan (Standard Spoken)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lhasa_Tibetan",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/tibe1272",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q34271",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "548502",
+        "long_grammar",
+        2003,
+        543,
+        "Nicolas Tournadre and Sangda Dorje 2003"
+      ],
+      [
+        "58227",
+        "long_grammar",
+        1991,
+        516,
+        "Goldstein, Melvyn C. and Rimpoche, Gelek and Phuntshog, Lobsang 1991"
+      ],
+      [
+        "145058",
+        "long_grammar",
+        1970,
+        427,
+        "Melvyn C. Goldstein and Nawang Nornang 1970"
+      ],
+      [
+        "23633",
+        "long_grammar",
+        1912,
+        415,
+        "Hannah, Herbert Bruce 1912"
+      ],
+      [
+        "312587",
+        "grammar",
+        1834,
+        273,
+        "Csoma de Kőrös, Alexander 1834"
+      ],
+      [
+        "34023",
+        "wordlist_or_less",
+        1806,
+        32,
+        "Johann Christoph Adelung 1806"
+      ]
+    ]
+  },
+  "id": "tibe1272",
+  "name": "Tibetan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 28.3681,
+  "longitude": 90.1872,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "Bodish",
+      "id": "bodi1257",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1257"
+    },
+    {
+      "name": "Early Old Tibetan",
+      "id": "oldm1245",
+      "url": "https://glottolog.org/resource/languoid/id/oldm1245"
+    },
+    {
+      "name": "Middle Old Tibetan",
+      "id": "tibe1276",
+      "url": "https://glottolog.org/resource/languoid/id/tibe1276"
+    },
+    {
+      "name": "Late Old Tibetan",
+      "id": "late1253",
+      "url": "https://glottolog.org/resource/languoid/id/late1253"
+    },
+    {
+      "name": "Central Tibetan",
+      "id": "cent2346",
+      "url": "https://glottolog.org/resource/languoid/id/cent2346"
+    }
+  ],
+  "iso639-3": "bod"
+}

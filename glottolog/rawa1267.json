@@ -1,0 +1,96 @@
+{
+  "pk": 9121,
+  "hid": "rwo",
+  "father_pk": 6611,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Karo {Papua New Guinea} [karo1302]':1,'Nuclear Rawa [nucl1609]':1)'Rawa [rawa1267][rwo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_rwa",
+        "label": "Rawa"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Rawa_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q11732598",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "70647",
+        "grammar",
+        1991,
+        229,
+        "Toland, Norma and Toland, Donald 1991"
+      ],
+      [
+        "95715",
+        "phonology_or_text",
+        1973,
+        5,
+        "McElhanon, Kenneth A. 1973"
+      ],
+      [
+        "64314",
+        "wordlist_or_less",
+        1970,
+        1,
+        "Oren R. Claassen and Kenneth A. McElhanon 1970"
+      ],
+      [
+        "76463",
+        "wordlist_or_less",
+        1969,
+        38,
+        "na 1969"
+      ]
+    ]
+  },
+  "id": "rawa1267",
+  "name": "Rawa",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.83155,
+  "longitude": 145.937,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Finisterre-Huon",
+      "id": "fini1244",
+      "url": "https://glottolog.org/resource/languoid/id/fini1244"
+    },
+    {
+      "name": "Finisterre-Saruwaged",
+      "id": "fini1245",
+      "url": "https://glottolog.org/resource/languoid/id/fini1245"
+    },
+    {
+      "name": "Gusap-Mot",
+      "id": "gusa1245",
+      "url": "https://glottolog.org/resource/languoid/id/gusa1245"
+    },
+    {
+      "name": "Ufim-Rawa-Nahu",
+      "id": "ufim1241",
+      "url": "https://glottolog.org/resource/languoid/id/ufim1241"
+    }
+  ],
+  "iso639-3": "rwo"
+}

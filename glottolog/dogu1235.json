@@ -1,0 +1,81 @@
+{
+  "pk": 2153,
+  "hid": "dbg",
+  "father_pk": 985,
+  "family_pk": 117,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Dogul Dom Dogon [dogu1235][dbg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/8737",
+        "label": "Dogul Dom"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3912880",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dogul_Dogon",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "310017",
+        "grammar_sketch",
+        2012,
+        221,
+        "Brian L. Cansler 2012"
+      ],
+      [
+        "55517",
+        "wordlist_or_less",
+        2005,
+        26,
+        "Blench, Roger and Douyon, Denis 2005"
+      ],
+      [
+        "135358",
+        "wordlist_or_less",
+        2004,
+        9,
+        "Hochstetler, J. Lee and Durieux, J. A. and Durieux-Boon, E. I. K. 2004"
+      ],
+      [
+        "70852",
+        "wordlist_or_less",
+        1953,
+        2,
+        "Bertho, J. 1953"
+      ]
+    ]
+  },
+  "id": "dogu1235",
+  "name": "Dogul Dom Dogon",
+  "description": null,
+  "markup_description": null,
+  "latitude": 14.5872,
+  "longitude": -3.56855,
+  "classification": [
+    {
+      "name": "Dogon",
+      "id": "dogo1299",
+      "url": "https://glottolog.org/resource/languoid/id/dogo1299"
+    },
+    {
+      "name": "North Plateau Dogon",
+      "id": "nort2824",
+      "url": "https://glottolog.org/resource/languoid/id/nort2824"
+    }
+  ],
+  "iso639-3": "dbg"
+}

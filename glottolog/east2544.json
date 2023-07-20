@@ -1,0 +1,105 @@
+{
+  "pk": 14643,
+  "hid": "aaq",
+  "father_pk": 11670,
+  "family_pk": 178,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Penobscot [peno1243]':1)'Eastern Abenaki [east2544][aaq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3515185",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "314401",
+        "grammar_sketch",
+        1979,
+        86,
+        "Paul H. Voorhis 1979"
+      ],
+      [
+        "303123",
+        "phonology_or_text",
+        1975,
+        22,
+        "Warne, Janet 1975"
+      ],
+      [
+        "31341",
+        "phonology_or_text",
+        1910,
+        13,
+        "Dyneley J. Prince 1910"
+      ],
+      [
+        "26219",
+        "phonology_or_text",
+        1870,
+        6,
+        "Marietti, Petro 1870"
+      ],
+      [
+        "130253",
+        "wordlist_or_less",
+        1625,
+        33,
+        "Rosier, James 2004 [1625]"
+      ]
+    ]
+  },
+  "id": "east2544",
+  "name": "Eastern Abenaki",
+  "description": null,
+  "markup_description": null,
+  "latitude": 45.0112,
+  "longitude": -68.6617,
+  "classification": [
+    {
+      "name": "Algic",
+      "id": "algi1248",
+      "url": "https://glottolog.org/resource/languoid/id/algi1248"
+    },
+    {
+      "name": "Algonquian-Blackfoot",
+      "id": "algo1256",
+      "url": "https://glottolog.org/resource/languoid/id/algo1256"
+    },
+    {
+      "name": "Algonquian",
+      "id": "algo1257",
+      "url": "https://glottolog.org/resource/languoid/id/algo1257"
+    },
+    {
+      "name": "Eastern Algonquian",
+      "id": "east2700",
+      "url": "https://glottolog.org/resource/languoid/id/east2700"
+    },
+    {
+      "name": "Maritimes-Southern New England Algonquian",
+      "id": "mari1452",
+      "url": "https://glottolog.org/resource/languoid/id/mari1452"
+    },
+    {
+      "name": "Northern Eastern Algonquian",
+      "id": "nort3414",
+      "url": "https://glottolog.org/resource/languoid/id/nort3414"
+    },
+    {
+      "name": "Abenaki",
+      "id": "aben1250",
+      "url": "https://glottolog.org/resource/languoid/id/aben1250"
+    }
+  ],
+  "iso639-3": "aaq"
+}

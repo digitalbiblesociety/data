@@ -1,0 +1,107 @@
+{
+  "pk": 16501,
+  "hid": "kfu",
+  "father_pk": 13888,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Katkari [cent1984]':1,'Northern Katkari [nort2661]':1,'Southern Katkari [sout2667]':1)'Katkari [katk1238][kfu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6377671",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Katkari_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "550138",
+        "grammar",
+        1969,
+        235,
+        "S. B. Kulkarni 1969"
+      ],
+      [
+        "85916",
+        "grammar_sketch",
+        1905,
+        50,
+        "Justin E. Abbott 1905"
+      ],
+      [
+        "590076",
+        "wordlist_or_less",
+        1876,
+        38,
+        "Wilson, John 1876"
+      ],
+      [
+        "588354",
+        "wordlist_or_less",
+        1836,
+        10,
+        "A. Mackintosh 1836-1838"
+      ]
+    ]
+  },
+  "id": "katk1238",
+  "name": "Katkari",
+  "description": null,
+  "markup_description": null,
+  "latitude": 18.20687,
+  "longitude": 73.287713,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Indo-Aryan",
+      "id": "indo1321",
+      "url": "https://glottolog.org/resource/languoid/id/indo1321"
+    },
+    {
+      "name": "Middle-Modern Indo-Aryan",
+      "id": "midd1375",
+      "url": "https://glottolog.org/resource/languoid/id/midd1375"
+    },
+    {
+      "name": "Continental Indo-Aryan",
+      "id": "cont1248",
+      "url": "https://glottolog.org/resource/languoid/id/cont1248"
+    },
+    {
+      "name": "Indo-Aryan Southern zone",
+      "id": "indo1325",
+      "url": "https://glottolog.org/resource/languoid/id/indo1325"
+    },
+    {
+      "name": "Marathic",
+      "id": "mara1416",
+      "url": "https://glottolog.org/resource/languoid/id/mara1416"
+    }
+  ],
+  "iso639-3": "kfu"
+}

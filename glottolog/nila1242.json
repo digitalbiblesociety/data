@@ -1,0 +1,107 @@
+{
+  "pk": 18200,
+  "hid": "nim",
+  "father_pk": 15791,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Iambi [iamb1238]':1)'Nilamba [nila1242][nim]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Iramba_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q4121200",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "93891",
+        "grammar_sketch",
+        1923,
+        62,
+        "Johnson, Frederick 1923-1926"
+      ],
+      [
+        "63166",
+        "grammar_sketch",
+        1922,
+        47,
+        "Ittameier, Eduard 1922-1923"
+      ],
+      [
+        "99561",
+        "grammar_sketch",
+        1914,
+        27,
+        "Dempwolff, Otto 1914-1915"
+      ],
+      [
+        "36386",
+        "wordlist_or_less",
+        1912,
+        7,
+        "Obst, Erich 1912"
+      ]
+    ]
+  },
+  "id": "nila1242",
+  "name": "Nilamba",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.50002,
+  "longitude": 34.3068,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Narrow Bantu",
+      "id": "narr1281",
+      "url": "https://glottolog.org/resource/languoid/id/narr1281"
+    },
+    {
+      "name": "East Bantu",
+      "id": "east2731",
+      "url": "https://glottolog.org/resource/languoid/id/east2731"
+    },
+    {
+      "name": "Nyaturu-Nilamba",
+      "id": "nyat1247",
+      "url": "https://glottolog.org/resource/languoid/id/nyat1247"
+    }
+  ],
+  "iso639-3": "nim"
+}

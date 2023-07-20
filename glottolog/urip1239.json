@@ -1,0 +1,97 @@
+{
+  "pk": 17680,
+  "hid": "upv",
+  "father_pk": 15279,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Atchin [atch1238]':1,'Uripiv [urip1240]':1,'Wala-Rano [wala1267]':1)'Uripiv-Wala-Rano-Atchin [urip1239][upv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Northeast_Malakula_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_atc",
+        "label": "Atchin"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q13249",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "311166",
+        "grammar",
+        1980,
+        265,
+        "Arthur Capell and J. Layard 1980"
+      ],
+      [
+        "33168",
+        "wordlist_or_less",
+        1893,
+        4,
+        "Sidney H. Ray 1893"
+      ]
+    ]
+  },
+  "id": "urip1239",
+  "name": "Uripiv-Wala-Rano-Atchin",
+  "description": null,
+  "markup_description": null,
+  "latitude": -16.00951,
+  "longitude": 167.34643,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "North and Central Vanuatu",
+      "id": "nort3195",
+      "url": "https://glottolog.org/resource/languoid/id/nort3195"
+    },
+    {
+      "name": "Central Vanuatu",
+      "id": "cent2269",
+      "url": "https://glottolog.org/resource/languoid/id/cent2269"
+    },
+    {
+      "name": "Malakula",
+      "id": "mala1539",
+      "url": "https://glottolog.org/resource/languoid/id/mala1539"
+    },
+    {
+      "name": "Eastern Malakula linkage",
+      "id": "east2753",
+      "url": "https://glottolog.org/resource/languoid/id/east2753"
+    }
+  ],
+  "iso639-3": "upv"
+}

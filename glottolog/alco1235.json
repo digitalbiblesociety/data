@@ -1,0 +1,95 @@
+{
+  "pk": 14701,
+  "hid": "xta",
+  "father_pk": 11766,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Petlacalancingo Mixtec [petl1238]':1,'Xochapa Mixtec [xoch1238]':1)'Alcozauca Mixtec [alco1235][xta]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10530",
+        "label": "Guerrero Mixtec"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q25559587",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "50997",
+        "grammar_sketch",
+        2003,
+        82,
+        "Stark, Sharon and Johnson, Audrey F. and González de Guzmán, Benita 2003"
+      ],
+      [
+        "58574",
+        "phonology_or_text",
+        1999,
+        174,
+        "Johnson, Audrey F. and González de Guzmán, Benita and Stark, Sharon 1999"
+      ],
+      [
+        "76972",
+        "wordlist_or_less",
+        1983,
+        5,
+        "Josserand, Judy Kathryn 1983"
+      ]
+    ]
+  },
+  "id": "alco1235",
+  "name": "Alcozauca Mixtec",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.3687,
+  "longitude": -98.3969,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Amuzgo-Mixtecan",
+      "id": "amuz1253",
+      "url": "https://glottolog.org/resource/languoid/id/amuz1253"
+    },
+    {
+      "name": "Mixtecan",
+      "id": "mixt1422",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1422"
+    },
+    {
+      "name": "Mixtec-Cuicatec",
+      "id": "mixt1423",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1423"
+    },
+    {
+      "name": "Mixtec",
+      "id": "mixt1427",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1427"
+    },
+    {
+      "name": "Guerrero Mixtec",
+      "id": "guer1245",
+      "url": "https://glottolog.org/resource/languoid/id/guer1245"
+    }
+  ],
+  "iso639-3": "xta"
+}

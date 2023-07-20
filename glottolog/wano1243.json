@@ -1,0 +1,81 @@
+{
+  "pk": 2928,
+  "hid": "wno",
+  "father_pk": 1521,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Acodi [acod1234]':1,'Dumo [dumo1239]':1,'Kiagai [kiag1234]':1)'Eastern Wano [east2809]':1,('Mbowid [mbow1247]':1,'Puduk [pudu1234]':1)'Western Wano [west2885]':1)'Wano [wano1243][wno]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2800",
+        "label": "Wano"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3566166",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Wano_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "547774",
+        "long_grammar",
+        2017,
+        630,
+        "Willem Burung 2017"
+      ],
+      [
+        "88478",
+        "phonology_or_text",
+        2007,
+        51,
+        "Willem Burung 2007"
+      ],
+      [
+        "94763",
+        "wordlist_or_less",
+        1977,
+        1,
+        "Gordon F. Larson 1977"
+      ],
+      [
+        "477099",
+        "wordlist_or_less",
+        1911,
+        373,
+        "Migeod, F. W. H. 1911"
+      ]
+    ]
+  },
+  "id": "wano1243",
+  "name": "Wano",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.47858,
+  "longitude": 137.678,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Dani",
+      "id": "dani1287",
+      "url": "https://glottolog.org/resource/languoid/id/dani1287"
+    }
+  ],
+  "iso639-3": "wno"
+}

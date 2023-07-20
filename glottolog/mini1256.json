@@ -1,0 +1,94 @@
+{
+  "pk": 4260,
+  "hid": "hto",
+  "father_pk": 2470,
+  "family_pk": 196,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Minica Huitoto [mini1256][hto]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_hmi",
+        "label": "Huitoto (Minica)"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/4282",
+        "label": "Minica Huitoto"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Minica_Huitoto_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/mini1256",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q948514",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "93354",
+        "grammar",
+        1982,
+        134,
+        "Minor H., Eugenio and Minor, Dorotea Hendrich de and Levinsohn, Stephen 1982"
+      ],
+      [
+        "12786",
+        "grammar",
+        1971,
+        0,
+        "Minor, Dorothy A. de and Eugene Minor 1971"
+      ],
+      [
+        "56845",
+        "grammar_sketch",
+        1936,
+        130,
+        "Leopold von Kinder 1936"
+      ],
+      [
+        "119143",
+        "grammar_sketch",
+        1906,
+        33,
+        "Theodor Koch-Grünberg 1906"
+      ]
+    ]
+  },
+  "id": "mini1256",
+  "name": "Minica Huitoto",
+  "description": null,
+  "markup_description": null,
+  "latitude": -1.54535,
+  "longitude": -73.1107,
+  "classification": [
+    {
+      "name": "Huitotoan",
+      "id": "huit1251",
+      "url": "https://glottolog.org/resource/languoid/id/huit1251"
+    },
+    {
+      "name": "Nuclear Witotoan",
+      "id": "nucl1659",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1659"
+    },
+    {
+      "name": "Minica-Murui",
+      "id": "mini1255",
+      "url": "https://glottolog.org/resource/languoid/id/mini1255"
+    }
+  ],
+  "iso639-3": "hto"
+}

@@ -1,0 +1,75 @@
+{
+  "pk": 4915,
+  "hid": "bmd",
+  "father_pk": 3142,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Baga Manduri [baga1270][bmd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3936",
+        "label": "Baga Manduri"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35815",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "47460",
+        "phonology_or_text",
+        1991,
+        0,
+        "Keita, A. B. 1991"
+      ],
+      [
+        "22559",
+        "wordlist_or_less",
+        1961,
+        2,
+        "Wilson, W. A. A. 1961"
+      ],
+      [
+        "303325",
+        "wordlist_or_less",
+        1950,
+        2,
+        "Houis, Maurice 1950"
+      ]
+    ]
+  },
+  "id": "baga1270",
+  "name": "Baga Manduri",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.76747,
+  "longitude": -14.60521,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Mel",
+      "id": "mela1257",
+      "url": "https://glottolog.org/resource/languoid/id/mela1257"
+    },
+    {
+      "name": "Northern Mel",
+      "id": "temn1245",
+      "url": "https://glottolog.org/resource/languoid/id/temn1245"
+    }
+  ],
+  "iso639-3": "bmd"
+}

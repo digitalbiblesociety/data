@@ -1,0 +1,70 @@
+{
+  "pk": 7637,
+  "hid": "nik",
+  "father_pk": 5298,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Condul [cond1241]':1,'Great Nicobar [grea1267]':1,'Little Nicobar [litt1242]':1,'Milo [milo1241]':1,'Sambelong [samb1303]':1,'Tafwap [tafw1239]':1)'Southern Nicobarese [sout2689][nik]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10374",
+        "label": "Southern Nicobarese"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7570194",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Southern_Nicobarese_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "11273",
+        "wordlist_or_less",
+        1889,
+        2,
+        "Edward H. Man 1889"
+      ]
+    ]
+  },
+  "id": "sout2689",
+  "name": "Southern Nicobarese",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.82744,
+  "longitude": 93.8042,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Nicobaric",
+      "id": "nico1262",
+      "url": "https://glottolog.org/resource/languoid/id/nico1262"
+    },
+    {
+      "name": "Nuclear Nicobaric",
+      "id": "nucl1758",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1758"
+    },
+    {
+      "name": "Central Nicobar",
+      "id": "cent2305",
+      "url": "https://glottolog.org/resource/languoid/id/cent2305"
+    }
+  ],
+  "iso639-3": "nik"
+}

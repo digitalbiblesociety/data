@@ -1,0 +1,121 @@
+{
+  "pk": 10113,
+  "hid": "lhu",
+  "father_pk": 7271,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Lahu Phung [lahu1254]':1,'Na {Lahu} [naaa1244]':1,'Nyi [nyii1239]':1,'Shehleh [sheh1238]':1)'Lahu [lahu1253][lhu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_lah",
+        "label": "Lahu"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lahu_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/lahu1253",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35780",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "16137",
+        "long_grammar",
+        1973,
+        724,
+        "James A. Matisoff 1973"
+      ],
+      [
+        "45263",
+        "grammar",
+        1967,
+        0,
+        "Matisoff, James Alan 1967"
+      ],
+      [
+        "153167",
+        "grammar_sketch",
+        1938,
+        0,
+        "J. H. Telford 1938"
+      ],
+      [
+        "151548",
+        "wordlist_or_less",
+        1919,
+        12,
+        "Prachakitchakonrachak, Phraya and Thomas, David D. and Sophana Srichampa 1995 [1919]"
+      ],
+      [
+        "14371",
+        "wordlist_or_less",
+        1900,
+        3,
+        "George J. Scott and J. P. Hardiman 1900"
+      ],
+      [
+        "136143",
+        "wordlist_or_less",
+        1892,
+        2,
+        "Lefèvre-Pontalis, Pierre 1892, 1896, 1896"
+      ],
+      [
+        "72757",
+        "wordlist_or_less",
+        1888,
+        11,
+        "Terrien de Lacouperie 1888"
+      ]
+    ]
+  },
+  "id": "lahu1253",
+  "name": "Lahu",
+  "description": null,
+  "markup_description": null,
+  "latitude": 21.2701,
+  "longitude": 100.214,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Burmo-Qiangic",
+      "id": "burm1265",
+      "url": "https://glottolog.org/resource/languoid/id/burm1265"
+    },
+    {
+      "name": "Lolo-Burmese",
+      "id": "lolo1265",
+      "url": "https://glottolog.org/resource/languoid/id/lolo1265"
+    },
+    {
+      "name": "Loloish",
+      "id": "lolo1267",
+      "url": "https://glottolog.org/resource/languoid/id/lolo1267"
+    },
+    {
+      "name": "Lahoid",
+      "id": "laho1234",
+      "url": "https://glottolog.org/resource/languoid/id/laho1234"
+    }
+  ],
+  "iso639-3": "lhu"
+}

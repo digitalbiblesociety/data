@@ -1,0 +1,88 @@
+{
+  "pk": 7575,
+  "hid": "mrc",
+  "father_pk": 5252,
+  "family_pk": 403,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Maricopa [mari1440][mrc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1929",
+        "label": "Maricopa"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56386",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Maricopa_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mar",
+        "label": "Maricopa"
+      }
+    ],
+    "meds": [
+      [
+        "18997",
+        "long_grammar",
+        1986,
+        376,
+        "Gordon, Lynn 1986"
+      ],
+      [
+        "421486",
+        "long_grammar",
+        1980,
+        330,
+        "Gordon, Lynn 1980"
+      ],
+      [
+        "25989",
+        "grammar_sketch",
+        1892,
+        6,
+        "Albert S. Gatschet 1892"
+      ]
+    ]
+  },
+  "id": "mari1440",
+  "name": "Maricopa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 33.5123,
+  "longitude": -111.749,
+  "classification": [
+    {
+      "name": "Cochimi-Yuman",
+      "id": "coch1271",
+      "url": "https://glottolog.org/resource/languoid/id/coch1271"
+    },
+    {
+      "name": "Yuman",
+      "id": "yuma1250",
+      "url": "https://glottolog.org/resource/languoid/id/yuma1250"
+    },
+    {
+      "name": "General Yuman",
+      "id": "gene1244",
+      "url": "https://glottolog.org/resource/languoid/id/gene1244"
+    },
+    {
+      "name": "River Yuman",
+      "id": "rive1260",
+      "url": "https://glottolog.org/resource/languoid/id/rive1260"
+    }
+  ],
+  "iso639-3": "mrc"
+}

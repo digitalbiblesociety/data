@@ -1,0 +1,78 @@
+{
+  "pk": 10616,
+  "hid": "mef",
+  "father_pk": 7719,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Bangladesh Lyngam [mega1243][mef]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6808589",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Megam_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "309253",
+        "wordlist_or_less",
+        2012,
+        36,
+        "Ahmad, Sayed and Kim, Amy and Kim, Seung and Sangma, Mridul 2012"
+      ],
+      [
+        "22698",
+        "wordlist_or_less",
+        2004,
+        3,
+        "Burling, Robbins 2004"
+      ]
+    ]
+  },
+  "id": "mega1243",
+  "name": "Bangladesh Lyngam",
+  "description": null,
+  "markup_description": null,
+  "latitude": 25.1292,
+  "longitude": 91.6132,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Khasi-Palaung",
+      "id": "khas1273",
+      "url": "https://glottolog.org/resource/languoid/id/khas1273"
+    },
+    {
+      "name": "Khasian",
+      "id": "khas1268",
+      "url": "https://glottolog.org/resource/languoid/id/khas1268"
+    },
+    {
+      "name": "Khasi-Pnar-Lyngngam",
+      "id": "khas1274",
+      "url": "https://glottolog.org/resource/languoid/id/khas1274"
+    },
+    {
+      "name": "Lyngngamic",
+      "id": "lyng1240",
+      "url": "https://glottolog.org/resource/languoid/id/lyng1240"
+    }
+  ],
+  "iso639-3": "mef"
+}

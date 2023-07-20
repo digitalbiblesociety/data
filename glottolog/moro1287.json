@@ -1,0 +1,93 @@
+{
+  "pk": 17372,
+  "hid": "mqn",
+  "father_pk": 15021,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kabaena [kaba1285]':1,('Poleang [pole1241]':1,'Rumbia [rumb1240]':1)'Wita Ea [wita1237]':1)'Moronene [moro1287][mqn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q642581",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Moronene_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "74481",
+        "grammar_sketch",
+        1983,
+        143,
+        "Muthalib, Abdul and Johannes F. Pattiasina and Adnan Usmar and Rambe, {} 1983"
+      ],
+      [
+        "553798",
+        "wordlist_or_less",
+        1914,
+        6,
+        "Kruijt, Albertus Christiaan and Nicolaus Adriani 1914"
+      ]
+    ]
+  },
+  "id": "moro1287",
+  "name": "Moronene",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.62361,
+  "longitude": 121.824,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Celebic",
+      "id": "cele1242",
+      "url": "https://glottolog.org/resource/languoid/id/cele1242"
+    },
+    {
+      "name": "Greater Eastern Celebic",
+      "id": "grea1299",
+      "url": "https://glottolog.org/resource/languoid/id/grea1299"
+    },
+    {
+      "name": "Eastern Celebic",
+      "id": "east2488",
+      "url": "https://glottolog.org/resource/languoid/id/east2488"
+    },
+    {
+      "name": "Southeastern Celebic",
+      "id": "sout2928",
+      "url": "https://glottolog.org/resource/languoid/id/sout2928"
+    },
+    {
+      "name": "Bungku-Tolaki",
+      "id": "bung1268",
+      "url": "https://glottolog.org/resource/languoid/id/bung1268"
+    },
+    {
+      "name": "Eastern Bungku-Tolaki",
+      "id": "east2489",
+      "url": "https://glottolog.org/resource/languoid/id/east2489"
+    }
+  ],
+  "iso639-3": "mqn"
+}

@@ -1,0 +1,61 @@
+{
+  "pk": 7628,
+  "hid": "mon",
+  "father_pk": 5280,
+  "family_pk": 417,
+  "level": "family",
+  "bookkeeping": false,
+  "category": "Family",
+  "newick": "(('Dariganga [dari1250]':1,'Halh [halh1239]':1,'Khotogoit [khot1253]':1,'Sartul [sart1248]':1,'Tsongol [tson1247]':1)'Halh Mongolian [halh1238][khk]-l-':1,('Alasha Oirad [alas1256]':1,('Altai Torguud [alta1279]':1,'Altai Uriankhai [alta1280]':1,'Bayid [bayi1240]':1,'Dambi-Ööld [damb1251]':1,'Khoshuud [khos1234]':1,'Khoton [khot1255]':1,'Khowd Dörwöd [khow1243]':1,'Mingad [ming1257]':1,'Zakhchin [zakh1248]':1)'Altai Oirat [oira1262]':1,'Darkhat [dark1243][drh]':1,'Deed Mongol [deed1234]':1,'Jungarian Oirat [jung1241]':1,('Buzawa [buza1239]':1,'Dörböt [dorb1242]':1,('Orenburgian Torguud [oren1239]':1,'Uralian Torguud [ural1276]':1)'Torgut [torg1245]':1)'Kalmyk [kalm1244]':1,'Sart Qalmaq [sart1247]':1)'Oirad-Kalmyk-Darkhat [kalm1243][xal]-l-':1,('Chahar [chah1241]':1,'Ejine [ejin1238]':1,'Jirim [jiri1239]':1,'Jo-Uda [joud1238]':1,'Jostu [jost1238]':1,'Ordos [ordo1245]':1,'Shilingol [shil1261]':1,'Tumut [tumu1241]':1,'Ulanchab [ulan1238]':1)'Peripheral Mongolian [peri1253][mvf]-l-':1)'Mongolian [mong1331][mon]':1",
+  "child_family_count": 0,
+  "child_language_count": 3,
+  "child_dialect_count": 35,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Mongolian_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/mong1331",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q9246",
+        "label": null
+      }
+    ]
+  },
+  "id": "mong1331",
+  "name": "Mongolian",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Mongolic-Khitan",
+      "id": "mong1349",
+      "url": "https://glottolog.org/resource/languoid/id/mong1349"
+    },
+    {
+      "name": "Mongolic",
+      "id": "mong1329",
+      "url": "https://glottolog.org/resource/languoid/id/mong1329"
+    },
+    {
+      "name": "Eastern Mongolic",
+      "id": "oira1260",
+      "url": "https://glottolog.org/resource/languoid/id/oira1260"
+    },
+    {
+      "name": "Khalkha-Buriat",
+      "id": "khal1273",
+      "url": "https://glottolog.org/resource/languoid/id/khal1273"
+    }
+  ],
+  "iso639-3": "mon"
+}

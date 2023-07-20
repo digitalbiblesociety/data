@@ -1,0 +1,98 @@
+{
+  "pk": 14837,
+  "hid": "tbv",
+  "father_pk": 11955,
+  "family_pk": 288,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "'Tobo [tobo1251][tbv]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "tbv",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 has two entries Tobo [tbv] and Kube [kgf]. They are mutually intelligible and 95% lexicostatistically cognate\n(**hh:g:Lee:Kube**:11), superseding the lower figure of an earlier survey (**hh:hvw:McElhanon:Huon**:7).  Since they are mutually intelligible, the two entries may be merged. See also: Kulungtfu-Yuanggeng-Tobo [kgf]."
+    },
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7811712",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tobo_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "47416",
+        "wordlist_or_less",
+        1967,
+        2,
+        "Kenneth A. McElhanon 1967"
+      ]
+    ]
+  },
+  "id": "tobo1251",
+  "name": "Tobo",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.36263,
+  "longitude": 147.376,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Finisterre-Huon",
+      "id": "fini1244",
+      "url": "https://glottolog.org/resource/languoid/id/fini1244"
+    },
+    {
+      "name": "Huon",
+      "id": "huon1246",
+      "url": "https://glottolog.org/resource/languoid/id/huon1246"
+    },
+    {
+      "name": "Western Huon",
+      "id": "west2795",
+      "url": "https://glottolog.org/resource/languoid/id/west2795"
+    },
+    {
+      "name": "Rawlinson",
+      "id": "rawl1234",
+      "url": "https://glottolog.org/resource/languoid/id/rawl1234"
+    },
+    {
+      "name": "Pindiu",
+      "id": "pind1245",
+      "url": "https://glottolog.org/resource/languoid/id/pind1245"
+    },
+    {
+      "name": "Kulungtfu-Yuanggeng-Tobo",
+      "id": "kube1244",
+      "url": "https://glottolog.org/resource/languoid/id/kube1244"
+    }
+  ],
+  "iso639-3": "tbv"
+}

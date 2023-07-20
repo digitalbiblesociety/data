@@ -1,0 +1,86 @@
+{
+  "pk": 9015,
+  "hid": "ghl",
+  "father_pk": 6522,
+  "family_pk": 274,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Uncunwee [ghul1238][ghl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4572",
+        "label": "Uncunwee"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q16885737",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ghulfan_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nbh",
+        "label": "Ghulfan"
+      }
+    ],
+    "meds": [
+      [
+        "162526",
+        "grammar_sketch",
+        1913,
+        38,
+        "Junker, Hermann and Czermak, Wilhelm 1913"
+      ],
+      [
+        "137392",
+        "wordlist_or_less",
+        1829,
+        1,
+        "Rüppell, Edward 1829"
+      ]
+    ]
+  },
+  "id": "ghul1238",
+  "name": "Uncunwee",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.6432,
+  "longitude": 29.8122,
+  "classification": [
+    {
+      "name": "Nubian",
+      "id": "nubi1251",
+      "url": "https://glottolog.org/resource/languoid/id/nubi1251"
+    },
+    {
+      "name": "West-Central Nubian",
+      "id": "west2781",
+      "url": "https://glottolog.org/resource/languoid/id/west2781"
+    },
+    {
+      "name": "Central Nubian",
+      "id": "cent2232",
+      "url": "https://glottolog.org/resource/languoid/id/cent2232"
+    },
+    {
+      "name": "Kordofan Nubian",
+      "id": "kord1246",
+      "url": "https://glottolog.org/resource/languoid/id/kord1246"
+    },
+    {
+      "name": "Eastern Kordofan Nubian",
+      "id": "east2715",
+      "url": "https://glottolog.org/resource/languoid/id/east2715"
+    }
+  ],
+  "iso639-3": "ghl"
+}

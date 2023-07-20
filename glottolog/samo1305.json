@@ -1,0 +1,126 @@
+{
+  "pk": 22952,
+  "hid": "smo",
+  "father_pk": 21353,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Samoan [samo1305][smo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_sam",
+        "label": "Samoan"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Samoan_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q34011",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "112512",
+        "long_grammar",
+        1992,
+        841,
+        "Ulrike Mosel and Even Hovdhaugen 1992"
+      ],
+      [
+        "311285",
+        "grammar",
+        1893,
+        212,
+        "George Pratt 1893"
+      ],
+      [
+        "121020",
+        "grammar_sketch",
+        1879,
+        280,
+        "L. Violette 1879"
+      ],
+      [
+        "33680",
+        "grammar_sketch",
+        1862,
+        114,
+        "George Pratt 1862"
+      ]
+    ]
+  },
+  "id": "samo1305",
+  "name": "Samoan",
+  "description": null,
+  "markup_description": null,
+  "latitude": -13.92,
+  "longitude": -171.83,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Central Pacific linkage",
+      "id": "cent2060",
+      "url": "https://glottolog.org/resource/languoid/id/cent2060"
+    },
+    {
+      "name": "Tokalau Fijian",
+      "id": "east2445",
+      "url": "https://glottolog.org/resource/languoid/id/east2445"
+    },
+    {
+      "name": "Polynesian",
+      "id": "poly1242",
+      "url": "https://glottolog.org/resource/languoid/id/poly1242"
+    },
+    {
+      "name": "Nuclear Polynesian",
+      "id": "nucl1485",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1485"
+    },
+    {
+      "name": "Ellicean",
+      "id": "elli1239",
+      "url": "https://glottolog.org/resource/languoid/id/elli1239"
+    },
+    {
+      "name": "Pukapukic",
+      "id": "puka1245",
+      "url": "https://glottolog.org/resource/languoid/id/puka1245"
+    },
+    {
+      "name": "Samoan-Tokelauan",
+      "id": "samo1310",
+      "url": "https://glottolog.org/resource/languoid/id/samo1310"
+    }
+  ],
+  "iso639-3": "smo"
+}

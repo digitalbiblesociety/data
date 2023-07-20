@@ -1,0 +1,60 @@
+{
+  "pk": 830,
+  "hid": "ypw",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Puwa Yi [puwa1234][ypw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "ypw",
+      "name": "Puwa Yi",
+      "change_request": "2007-122",
+      "effective": "2008-01-14",
+      "reason": "split",
+      "change_to": [
+        "yhl",
+        "ypb",
+        "ypn"
+      ],
+      "remedy": "Split into three languages: Hlepho Phowa [yhl], Labo Phowa [ypb], and Ani Phowa [ypn]",
+      "comment": "Phowa speakers are classified under the Yi nationality officially and are\naffiliated with the Phula ethnic group historically. Although all varieties of\nPhowa are closely related, a complex dialect continuum has developed within\nPhowa which features numerous transitional varieties--not all of which are\nmutually intelligible (cf. Pelkey forthcoming 2008). The three extremes of this\ndialect continuum feature varieties which are unintelligible to the majority of\nthe remaining Phowa speaking population, and speakers in these three regions are\nalso offset from each other by three corresponding embedded ethnic\nidentities--each unique: Ani, Labo, and Hlepho. These three distinct identities\nare recognized by ingroup and outgroup Phowa speakers alike and find expression\nnot only in autonyms but also in material culture as is sometimes reported in\nChinese sources such as KYSZ (1996)."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q25559431",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500241",
+        "wordlist_or_less",
+        2007,
+        0,
+        "ISO 639-3 Registration Authority 2007"
+      ]
+    ]
+  },
+  "id": "puwa1234",
+  "name": "Puwa Yi",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "ypw"
+}

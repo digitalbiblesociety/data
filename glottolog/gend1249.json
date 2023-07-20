@@ -1,0 +1,75 @@
+{
+  "pk": 4526,
+  "hid": "gaf",
+  "father_pk": 2917,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Gende [gend1249][gaf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3100425",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Gende_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "33375",
+        "grammar_sketch",
+        1952,
+        100,
+        "Aufenanger, Heinrich 1952"
+      ],
+      [
+        "15483",
+        "wordlist_or_less",
+        1948,
+        1,
+        "Arthur Capell 1948-1949"
+      ],
+      [
+        "155363",
+        "wordlist_or_less",
+        1938,
+        5,
+        "Heinrich Aufenanger 1938"
+      ]
+    ]
+  },
+  "id": "gend1249",
+  "name": "Gende",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.67528,
+  "longitude": 145.177,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Kainantu-Goroka",
+      "id": "kain1273",
+      "url": "https://glottolog.org/resource/languoid/id/kain1273"
+    },
+    {
+      "name": "Goroka",
+      "id": "goro1272",
+      "url": "https://glottolog.org/resource/languoid/id/goro1272"
+    }
+  ],
+  "iso639-3": "gaf"
+}

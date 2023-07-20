@@ -1,0 +1,122 @@
+{
+  "pk": 16519,
+  "hid": "scl",
+  "father_pk": 13895,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Astor [asto1243]':1,'Dras [dras1242]':1,'Gurezi [gure1252]':1,'Kharmangi [khar1285]':1,'Satpara [satp1241]':1)'Astori [asto1242]':1,('Chilas [chil1277]':1,'Darel [dare1241]':1,'Harban [harb1238]':1,'Sazin [sazi1238]':1,'Tangir [tang1331]':1)'Chilasi Kohistani [chil1276]':1,('Bagrote [bagr1244]':1,'Bunji [bunj1245]':1,'Gilgit [gilg1243]':1,'Haramosh [hara1257]':1,'Hunza-Nagar [hunz1246]':1,'Punial [puni1238]':1,'Rondu [rond1238]':1)'Gilgiti [gilg1242]':1)'Shina [shin1264][scl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 20,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q1353320",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Shina_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/shin1264",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_sna",
+        "label": "Shina"
+      }
+    ],
+    "meds": [
+      [
+        "581253",
+        "long_grammar",
+        1961,
+        541,
+        "Namus, Fradun-i-Zaman Mohammad Shuja 1961"
+      ],
+      [
+        "57065",
+        "grammar",
+        1924,
+        0,
+        "Bailey, T. Grahame 1924"
+      ],
+      [
+        "317666",
+        "grammar_sketch",
+        1899,
+        10,
+        "J. Wilson 1899"
+      ],
+      [
+        "318199",
+        "phonology_or_text",
+        1880,
+        10,
+        "John Biddulph 1880"
+      ],
+      [
+        "54846",
+        "wordlist_or_less",
+        1862,
+        1,
+        "Latham, Robert Gordon 1862"
+      ]
+    ]
+  },
+  "id": "shin1264",
+  "name": "Shina",
+  "description": null,
+  "markup_description": null,
+  "latitude": 34.6515,
+  "longitude": 75.287,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Indo-Aryan",
+      "id": "indo1321",
+      "url": "https://glottolog.org/resource/languoid/id/indo1321"
+    },
+    {
+      "name": "Middle-Modern Indo-Aryan",
+      "id": "midd1375",
+      "url": "https://glottolog.org/resource/languoid/id/midd1375"
+    },
+    {
+      "name": "Eastern Dardic",
+      "id": "dard1244",
+      "url": "https://glottolog.org/resource/languoid/id/dard1244"
+    },
+    {
+      "name": "Nuclear Eastern Dardic",
+      "id": "nucl1819",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1819"
+    },
+    {
+      "name": "Shinaic",
+      "id": "shin1270",
+      "url": "https://glottolog.org/resource/languoid/id/shin1270"
+    }
+  ],
+  "iso639-3": "scl"
+}

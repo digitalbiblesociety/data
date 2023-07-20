@@ -1,0 +1,105 @@
+{
+  "pk": 11311,
+  "hid": "lom",
+  "father_pk": 8324,
+  "family_pk": 121,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Buluyiema [bulu1252]':1,'Gbunde [bund1255]':1,'Liberian Gizima [gizi1238]':1,'Wubomai [wubo1238]':1,'Ziema [ziem1238]':1)'Loma {Liberia} [loma1260][lom]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q35885",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Loma_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/loma1260",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_lma",
+        "label": "Loma"
+      }
+    ],
+    "meds": [
+      [
+        "126074",
+        "long_grammar",
+        1951,
+        479,
+        "Sadler, Jr., Wesley L. 1951"
+      ],
+      [
+        "301631",
+        "grammar_sketch",
+        1946,
+        424,
+        "Elizabeth Solinsky Terplan and Anthony Berrocoso and Beverley Dorsey 1946"
+      ],
+      [
+        "112268",
+        "wordlist_or_less",
+        1906,
+        2,
+        "Johnston, Harry Hamilton 1906"
+      ],
+      [
+        "66179",
+        "wordlist_or_less",
+        1854,
+        1,
+        "Koelle, Sigismund W. 1854"
+      ]
+    ]
+  },
+  "id": "loma1260",
+  "name": "Loma (Liberia)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.91585,
+  "longitude": -9.69906,
+  "classification": [
+    {
+      "name": "Mande",
+      "id": "mand1469",
+      "url": "https://glottolog.org/resource/languoid/id/mand1469"
+    },
+    {
+      "name": "Western Mande",
+      "id": "west2780",
+      "url": "https://glottolog.org/resource/languoid/id/west2780"
+    },
+    {
+      "name": "Manding-Kpelle",
+      "id": "mand1431",
+      "url": "https://glottolog.org/resource/languoid/id/mand1431"
+    },
+    {
+      "name": "Southwest Mande",
+      "id": "sout2842",
+      "url": "https://glottolog.org/resource/languoid/id/sout2842"
+    },
+    {
+      "name": "Mende-Loma",
+      "id": "mend1263",
+      "url": "https://glottolog.org/resource/languoid/id/mend1263"
+    },
+    {
+      "name": "Loma",
+      "id": "loma1259",
+      "url": "https://glottolog.org/resource/languoid/id/loma1259"
+    }
+  ],
+  "iso639-3": "lom"
+}

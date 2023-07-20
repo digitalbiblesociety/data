@@ -1,0 +1,96 @@
+{
+  "pk": 15274,
+  "hid": "crc",
+  "father_pk": 12468,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Lonwolwol [lonw1238][crc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4052",
+        "label": "Raljago"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3259216",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lonwolwol_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_lnw",
+        "label": "Lonwolwol"
+      }
+    ],
+    "meds": [
+      [
+        "43250",
+        "grammar",
+        1971,
+        139,
+        "Paton, W. F. 1971"
+      ],
+      [
+        "43560",
+        "phonology_or_text",
+        1879,
+        7,
+        "von der Gabelentz, Hans Conor 1879"
+      ]
+    ]
+  },
+  "id": "lonw1238",
+  "name": "Lonwolwol",
+  "description": null,
+  "markup_description": null,
+  "latitude": -16.2286,
+  "longitude": 168.016,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "North and Central Vanuatu",
+      "id": "nort3195",
+      "url": "https://glottolog.org/resource/languoid/id/nort3195"
+    },
+    {
+      "name": "Central Vanuatu",
+      "id": "cent2269",
+      "url": "https://glottolog.org/resource/languoid/id/cent2269"
+    },
+    {
+      "name": "Ambrym",
+      "id": "ambr1240",
+      "url": "https://glottolog.org/resource/languoid/id/ambr1240"
+    }
+  ],
+  "iso639-3": "crc"
+}

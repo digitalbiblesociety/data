@@ -1,0 +1,106 @@
+{
+  "pk": 16025,
+  "hid": "ncd",
+  "father_pk": 13227,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bangdale [bang1337]':1,'Dimali [dima1250]':1,'Hedangpa [heda1238]':1,'Kharlali [khar1289]':1,'Parali [para1303]':1,'Rakheli [rakh1246]':1)'Nachering [nach1240][ncd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3795",
+        "label": "Nachering"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6957144",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nachhiring_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "556760",
+        "phonology_or_text",
+        2016,
+        0,
+        "Nachiring, Tara VS 2073 [2016]"
+      ],
+      [
+        "557106",
+        "phonology_or_text",
+        2009,
+        0,
+        "Rai, Ram Kumar VS 2066 [2009]"
+      ],
+      [
+        "78648",
+        "wordlist_or_less",
+        1909,
+        4,
+        "George A. Grierson 1909"
+      ],
+      [
+        "72592",
+        "wordlist_or_less",
+        1857,
+        3,
+        "Hodgson, Brian Houghton 1857"
+      ]
+    ]
+  },
+  "id": "nach1240",
+  "name": "Nachering",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.4202,
+  "longitude": 86.7001,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Himalayish",
+      "id": "hima1249",
+      "url": "https://glottolog.org/resource/languoid/id/hima1249"
+    },
+    {
+      "name": "Mahakiranti",
+      "id": "maha1306",
+      "url": "https://glottolog.org/resource/languoid/id/maha1306"
+    },
+    {
+      "name": "Kiranti",
+      "id": "kira1253",
+      "url": "https://glottolog.org/resource/languoid/id/kira1253"
+    },
+    {
+      "name": "Central Kiranti",
+      "id": "cent2250",
+      "url": "https://glottolog.org/resource/languoid/id/cent2250"
+    },
+    {
+      "name": "Khambu",
+      "id": "kham1300",
+      "url": "https://glottolog.org/resource/languoid/id/kham1300"
+    },
+    {
+      "name": "Kulungic",
+      "id": "kulu1252",
+      "url": "https://glottolog.org/resource/languoid/id/kulu1252"
+    }
+  ],
+  "iso639-3": "ncd"
+}

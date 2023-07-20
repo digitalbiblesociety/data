@@ -1,0 +1,73 @@
+{
+  "pk": 6170,
+  "hid": "cea",
+  "father_pk": 4154,
+  "family_pk": 166,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Lower Chehalis [lowe1427][cea]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6693377",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lower_Chehalis_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "551787",
+        "grammar_sketch",
+        2014,
+        65,
+        "Dave Robertson 2014"
+      ],
+      [
+        "12156",
+        "phonology_or_text",
+        1969,
+        76,
+        "Snow, Charles 1969"
+      ]
+    ]
+  },
+  "id": "lowe1427",
+  "name": "Lower Chehalis",
+  "description": null,
+  "markup_description": null,
+  "latitude": 46.7736,
+  "longitude": -124.004,
+  "classification": [
+    {
+      "name": "Salishan",
+      "id": "sali1255",
+      "url": "https://glottolog.org/resource/languoid/id/sali1255"
+    },
+    {
+      "name": "Coast Salish",
+      "id": "coas1325",
+      "url": "https://glottolog.org/resource/languoid/id/coas1325"
+    },
+    {
+      "name": "Tsamosan",
+      "id": "tsam1241",
+      "url": "https://glottolog.org/resource/languoid/id/tsam1241"
+    },
+    {
+      "name": "Coastal Tsamosan",
+      "id": "coas1311",
+      "url": "https://glottolog.org/resource/languoid/id/coas1311"
+    }
+  ],
+  "iso639-3": "cea"
+}

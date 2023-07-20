@@ -1,0 +1,87 @@
+{
+  "pk": 7037,
+  "hid": "mdg",
+  "father_pk": 4829,
+  "family_pk": 306,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Massalat [mass1262][mdg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/577",
+        "label": "Massalat"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q759984",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "663129",
+        "grammar",
+        1980,
+        0,
+        "Ibrahim, Yahia Al-Rahman 1980"
+      ],
+      [
+        "108092",
+        "wordlist_or_less",
+        1962,
+        13,
+        "Le Rouvreur, Albert 1962"
+      ],
+      [
+        "77486",
+        "wordlist_or_less",
+        1957,
+        209,
+        "Davies, Reginald 1957"
+      ],
+      [
+        "29761",
+        "wordlist_or_less",
+        1924,
+        14,
+        "Davies, Reginald 1924"
+      ]
+    ]
+  },
+  "id": "mass1262",
+  "name": "Massalat",
+  "description": null,
+  "markup_description": null,
+  "latitude": 13.5157,
+  "longitude": 19.7348,
+  "classification": [
+    {
+      "name": "Maban",
+      "id": "maba1274",
+      "url": "https://glottolog.org/resource/languoid/id/maba1274"
+    },
+    {
+      "name": "Mabang",
+      "id": "maba1275",
+      "url": "https://glottolog.org/resource/languoid/id/maba1275"
+    },
+    {
+      "name": "Maba-Masalit",
+      "id": "maba1276",
+      "url": "https://glottolog.org/resource/languoid/id/maba1276"
+    },
+    {
+      "name": "Macro-Masalit",
+      "id": "masa1301",
+      "url": "https://glottolog.org/resource/languoid/id/masa1301"
+    }
+  ],
+  "iso639-3": "mdg"
+}

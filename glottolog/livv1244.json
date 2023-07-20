@@ -1,0 +1,94 @@
+{
+  "pk": 4785,
+  "hid": "liv",
+  "father_pk": 3060,
+  "family_pk": 302,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Courland Livonian [west1760]':1,'Salaca Livonian [east2326]':1)'Liv [livv1244][liv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_liv",
+        "label": "Liv"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/3388",
+        "label": "Livonian"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Livonian_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/livv1244",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33698",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "552944",
+        "long_grammar",
+        1994,
+        443,
+        "Eberhard Winkler 1994"
+      ],
+      [
+        "52297",
+        "grammar",
+        1861,
+        240,
+        "Sjögren, Joh. Andreas 1861"
+      ],
+      [
+        "577310",
+        "wordlist_or_less",
+        1849,
+        61,
+        "Sjogren, A. J. 1849"
+      ],
+      [
+        "572579",
+        "wordlist_or_less",
+        1847,
+        6,
+        "Hillner, W. 1847"
+      ]
+    ]
+  },
+  "id": "livv1244",
+  "name": "Liv",
+  "description": null,
+  "markup_description": null,
+  "latitude": 57.566,
+  "longitude": 22.0262,
+  "classification": [
+    {
+      "name": "Uralic",
+      "id": "ural1272",
+      "url": "https://glottolog.org/resource/languoid/id/ural1272"
+    },
+    {
+      "name": "Finnic",
+      "id": "finn1317",
+      "url": "https://glottolog.org/resource/languoid/id/finn1317"
+    },
+    {
+      "name": "Coastal Finnic",
+      "id": "coas1319",
+      "url": "https://glottolog.org/resource/languoid/id/coas1319"
+    }
+  ],
+  "iso639-3": "liv"
+}

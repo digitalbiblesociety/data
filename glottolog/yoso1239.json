@@ -1,0 +1,99 @@
+{
+  "pk": 14708,
+  "hid": "mpm",
+  "father_pk": 11768,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Yosondúa Mixtec [yoso1239][mpm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mxy",
+        "label": "Mixtec (Yosondúa)"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/10537",
+        "label": "Western Alta Mixtec"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12953741",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "55566",
+        "grammar",
+        1992,
+        220,
+        "Hollenbach, Barbara E. and Bradley, C. Henry 1992"
+      ],
+      [
+        "76972",
+        "wordlist_or_less",
+        1983,
+        5,
+        "Josserand, Judy Kathryn 1983"
+      ],
+      [
+        "311095",
+        "wordlist_or_less",
+        1981,
+        1,
+        "Josserand, J. Kathryn 1981"
+      ]
+    ]
+  },
+  "id": "yoso1239",
+  "name": "Yosondúa Mixtec",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.874,
+  "longitude": -97.579,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Amuzgo-Mixtecan",
+      "id": "amuz1253",
+      "url": "https://glottolog.org/resource/languoid/id/amuz1253"
+    },
+    {
+      "name": "Mixtecan",
+      "id": "mixt1422",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1422"
+    },
+    {
+      "name": "Mixtec-Cuicatec",
+      "id": "mixt1423",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1423"
+    },
+    {
+      "name": "Mixtec",
+      "id": "mixt1427",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1427"
+    },
+    {
+      "name": "Western Alta Mixtec",
+      "id": "west2824",
+      "url": "https://glottolog.org/resource/languoid/id/west2824"
+    }
+  ],
+  "iso639-3": "mpm"
+}

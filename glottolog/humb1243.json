@@ -1,0 +1,84 @@
+{
+  "pk": 1969,
+  "hid": "hmb",
+  "father_pk": 876,
+  "family_pk": 48,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Djenne Chiini [djen1243]':1,'Marensé [mare1257]':1)'Humburi Senni Songhay [humb1243][hmb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q35486",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Humburi_Senni_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "37579",
+        "long_grammar",
+        2014,
+        449,
+        "Heath, Jeffrey 2014"
+      ],
+      [
+        "476098",
+        "long_grammar",
+        2007,
+        444,
+        "Heath, Jeffrey 2007"
+      ],
+      [
+        "44048",
+        "grammar",
+        2000,
+        240,
+        "Rozhanski, Fedor 2000"
+      ],
+      [
+        "122126",
+        "wordlist_or_less",
+        1973,
+        12,
+        "Eguchi, Paul Kazuhisa 1973"
+      ],
+      [
+        "87230",
+        "wordlist_or_less",
+        1907,
+        168,
+        "Desplagnes, Louis 1907"
+      ]
+    ]
+  },
+  "id": "humb1243",
+  "name": "Humburi Senni Songhay",
+  "description": null,
+  "markup_description": null,
+  "latitude": 15.2948,
+  "longitude": -1.69301,
+  "classification": [
+    {
+      "name": "Songhay",
+      "id": "song1307",
+      "url": "https://glottolog.org/resource/languoid/id/song1307"
+    },
+    {
+      "name": "Eastern Songhay",
+      "id": "east2431",
+      "url": "https://glottolog.org/resource/languoid/id/east2431"
+    }
+  ],
+  "iso639-3": "hmb"
+}

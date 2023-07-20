@@ -1,0 +1,78 @@
+{
+  "pk": 8803,
+  "hid": "psy",
+  "father_pk": 6293,
+  "family_pk": 178,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Piscataway [pisc1239][psy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3504233",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Piscataway_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "142828",
+        "grammar_sketch",
+        2006,
+        134,
+        "Mackie, Lisa 2006"
+      ],
+      [
+        "93864",
+        "wordlist_or_less",
+        1640,
+        1,
+        "White, Andrew 1640"
+      ]
+    ]
+  },
+  "id": "pisc1239",
+  "name": "Piscataway",
+  "description": null,
+  "markup_description": null,
+  "latitude": 39.073,
+  "longitude": -76.803,
+  "classification": [
+    {
+      "name": "Algic",
+      "id": "algi1248",
+      "url": "https://glottolog.org/resource/languoid/id/algi1248"
+    },
+    {
+      "name": "Algonquian-Blackfoot",
+      "id": "algo1256",
+      "url": "https://glottolog.org/resource/languoid/id/algo1256"
+    },
+    {
+      "name": "Algonquian",
+      "id": "algo1257",
+      "url": "https://glottolog.org/resource/languoid/id/algo1257"
+    },
+    {
+      "name": "Eastern Algonquian",
+      "id": "east2700",
+      "url": "https://glottolog.org/resource/languoid/id/east2700"
+    },
+    {
+      "name": "Nanticoke-Conoy",
+      "id": "nant1248",
+      "url": "https://glottolog.org/resource/languoid/id/nant1248"
+    }
+  ],
+  "iso639-3": "psy"
+}

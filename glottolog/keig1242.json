@@ -1,0 +1,73 @@
+{
+  "pk": 865,
+  "hid": "kec",
+  "father_pk": 42,
+  "family_pk": 42,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Demik [demi1241]':1,'Nuclear Keiga [nucl1435]':1)'Keiga [keig1242][kec]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4363",
+        "label": "Keiga"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3409311",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Keiga_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/keig1242",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "50990",
+        "grammar_sketch",
+        1994,
+        65,
+        "Reh, Mechthild 1994"
+      ],
+      [
+        "41305",
+        "wordlist_or_less",
+        1917,
+        2,
+        "Meinhof, Carl 1917-1918"
+      ],
+      [
+        "550022",
+        "wordlist_or_less",
+        1849,
+        1,
+        "Ignaz Knoblecher 1849"
+      ]
+    ]
+  },
+  "id": "keig1242",
+  "name": "Keiga",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.2064,
+  "longitude": 29.3889,
+  "classification": [
+    {
+      "name": "Kadugli-Krongo",
+      "id": "kadu1256",
+      "url": "https://glottolog.org/resource/languoid/id/kadu1256"
+    }
+  ],
+  "iso639-3": "kec"
+}

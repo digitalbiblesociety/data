@@ -1,0 +1,103 @@
+{
+  "pk": 9486,
+  "hid": "rtm",
+  "father_pk": 6865,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Rotuman [rotu1241][rtm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_rot",
+        "label": "Rotuman"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Rotuman_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36754",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "27117",
+        "grammar",
+        1940,
+        182,
+        "Churchward, C. Maxwell 1940"
+      ],
+      [
+        "138485",
+        "grammar_sketch",
+        1919,
+        13,
+        "A. M. Hocart 1919"
+      ],
+      [
+        "313623",
+        "wordlist_or_less",
+        1884,
+        19,
+        "George Turner 1884"
+      ],
+      [
+        "130432",
+        "wordlist_or_less",
+        1846,
+        13,
+        "Horatio Hale 1846"
+      ],
+      [
+        "158330",
+        "wordlist_or_less",
+        1834,
+        2,
+        "William Marsden 1834"
+      ]
+    ]
+  },
+  "id": "rotu1241",
+  "name": "Rotuman",
+  "description": null,
+  "markup_description": null,
+  "latitude": -12.5008,
+  "longitude": 177.066,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Central Pacific linkage",
+      "id": "cent2060",
+      "url": "https://glottolog.org/resource/languoid/id/cent2060"
+    }
+  ],
+  "iso639-3": "rtm"
+}

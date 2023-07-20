@@ -1,0 +1,89 @@
+{
+  "pk": 3394,
+  "hid": "cic",
+  "father_pk": 1812,
+  "family_pk": 388,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Chickasaw [chic1270][cic]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1686",
+        "label": "Chickasaw"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_cck",
+        "label": "Chickasaw"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Chickasaw_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/chic1270",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33192",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "667709",
+        "grammar",
+        1985,
+        0,
+        "na 1985"
+      ],
+      [
+        "151660",
+        "grammar_sketch",
+        1982,
+        28,
+        "Payne, Doris L. 1982"
+      ],
+      [
+        "124915",
+        "phonology_or_text",
+        1973,
+        0,
+        "Humes, Jesse and Humes, Vinnie May (James) 1973"
+      ],
+      [
+        "33801",
+        "wordlist_or_less",
+        1816,
+        10,
+        "Johann Christoph Adelung and Johann Severin Vater 1816"
+      ]
+    ]
+  },
+  "id": "chic1270",
+  "name": "Chickasaw",
+  "description": null,
+  "markup_description": null,
+  "latitude": 34,
+  "longitude": -88,
+  "classification": [
+    {
+      "name": "Muskogean",
+      "id": "musk1252",
+      "url": "https://glottolog.org/resource/languoid/id/musk1252"
+    },
+    {
+      "name": "Western Muskogean",
+      "id": "west2614",
+      "url": "https://glottolog.org/resource/languoid/id/west2614"
+    }
+  ],
+  "iso639-3": "cic"
+}

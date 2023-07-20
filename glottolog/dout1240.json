@@ -1,0 +1,81 @@
+{
+  "pk": 7565,
+  "hid": "tds",
+  "father_pk": 5247,
+  "family_pk": 396,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Doutai [dout1240][tds]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1486",
+        "label": "Doutai"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_dou",
+        "label": "Doutai"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Doutai_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5302331",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "76772",
+        "phonology_or_text",
+        1991,
+        22,
+        "McAllister, Lawrence and McAllister, Kay 1991"
+      ],
+      [
+        "126692",
+        "wordlist_or_less",
+        1975,
+        1,
+        "C. L. Voorhoeve 1975"
+      ]
+    ]
+  },
+  "id": "dout1240",
+  "name": "Doutai",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.24832,
+  "longitude": 138.22,
+  "classification": [
+    {
+      "name": "Lakes Plain",
+      "id": "lake1255",
+      "url": "https://glottolog.org/resource/languoid/id/lake1255"
+    },
+    {
+      "name": "Tariku",
+      "id": "tari1255",
+      "url": "https://glottolog.org/resource/languoid/id/tari1255"
+    },
+    {
+      "name": "East Tariku",
+      "id": "east2502",
+      "url": "https://glottolog.org/resource/languoid/id/east2502"
+    },
+    {
+      "name": "Doutai-Kai-Waritai",
+      "id": "dout1239",
+      "url": "https://glottolog.org/resource/languoid/id/dout1239"
+    }
+  ],
+  "iso639-3": "tds"
+}

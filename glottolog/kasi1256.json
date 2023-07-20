@@ -1,0 +1,78 @@
+{
+  "pk": 9276,
+  "hid": "ksn",
+  "father_pk": 6754,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kasiguranin [kasi1256][ksn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6374525",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kasiguranin_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "668126",
+        "grammar_sketch",
+        2016,
+        163,
+        "Supnet, Chiara Paola E. 2016"
+      ],
+      [
+        "112982",
+        "wordlist_or_less",
+        1937,
+        5,
+        "Vanoverbergh, Morice 1937"
+      ]
+    ]
+  },
+  "id": "kasi1256",
+  "name": "Kasiguranin",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.1881,
+  "longitude": 122.118,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Greater Central Philippine",
+      "id": "grea1284",
+      "url": "https://glottolog.org/resource/languoid/id/grea1284"
+    },
+    {
+      "name": "Central Philippine",
+      "id": "cent2246",
+      "url": "https://glottolog.org/resource/languoid/id/cent2246"
+    },
+    {
+      "name": "Tagalogic",
+      "id": "taga1280",
+      "url": "https://glottolog.org/resource/languoid/id/taga1280"
+    }
+  ],
+  "iso639-3": "ksn"
+}

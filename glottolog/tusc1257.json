@@ -1,0 +1,90 @@
+{
+  "pk": 5130,
+  "hid": "tus",
+  "father_pk": 3316,
+  "family_pk": 357,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tuscarora [tusc1257][tus]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1168",
+        "label": "Tuscarora"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tus",
+        "label": "Tuscarora"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tuscarora_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36944",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "160505",
+        "long_grammar",
+        1976,
+        333,
+        "Marianne Williams 1976"
+      ],
+      [
+        "160473",
+        "long_grammar",
+        1974,
+        333,
+        "Williams, Marianne Mithun 1974"
+      ],
+      [
+        "98942",
+        "wordlist_or_less",
+        1836,
+        77,
+        "Chew, William and Rockwood, Gilbert 2002 [1836]"
+      ],
+      [
+        "36802",
+        "wordlist_or_less",
+        1709,
+        39,
+        "Lawson, John 2002 [1709]"
+      ]
+    ]
+  },
+  "id": "tusc1257",
+  "name": "Tuscarora",
+  "description": null,
+  "markup_description": null,
+  "latitude": 43.1303,
+  "longitude": -79.4214,
+  "classification": [
+    {
+      "name": "Iroquoian",
+      "id": "iroq1247",
+      "url": "https://glottolog.org/resource/languoid/id/iroq1247"
+    },
+    {
+      "name": "Northern Iroquoian",
+      "id": "nort2947",
+      "url": "https://glottolog.org/resource/languoid/id/nort2947"
+    },
+    {
+      "name": "Tuscarora-Nottoway",
+      "id": "tusc1256",
+      "url": "https://glottolog.org/resource/languoid/id/tusc1256"
+    }
+  ],
+  "iso639-3": "tus"
+}

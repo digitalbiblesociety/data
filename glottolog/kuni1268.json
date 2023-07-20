@@ -1,0 +1,70 @@
+{
+  "pk": 6224,
+  "hid": "xug",
+  "father_pk": 4192,
+  "family_pk": 176,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Nago [nago1243]':1)'Kunigami [kuni1268][xug]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Kunigami_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kuni1268",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56558",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "67812",
+        "grammar_sketch",
+        1983,
+        450,
+        "Nakasone, Seizen 1983"
+      ]
+    ]
+  },
+  "id": "kuni1268",
+  "name": "Kunigami",
+  "description": null,
+  "markup_description": null,
+  "latitude": 26.5911,
+  "longitude": 128.068,
+  "classification": [
+    {
+      "name": "Japonic",
+      "id": "japo1237",
+      "url": "https://glottolog.org/resource/languoid/id/japo1237"
+    },
+    {
+      "name": "Ryukyuan",
+      "id": "ryuk1243",
+      "url": "https://glottolog.org/resource/languoid/id/ryuk1243"
+    },
+    {
+      "name": "Northern Ryukyuan",
+      "id": "nort3255",
+      "url": "https://glottolog.org/resource/languoid/id/nort3255"
+    },
+    {
+      "name": "Okinawa",
+      "id": "okin1244",
+      "url": "https://glottolog.org/resource/languoid/id/okin1244"
+    }
+  ],
+  "iso639-3": "xug"
+}

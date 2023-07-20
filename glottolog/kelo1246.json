@@ -1,0 +1,67 @@
+{
+  "pk": 2014,
+  "hid": "xel",
+  "father_pk": 903,
+  "family_pk": 57,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Beni Sheko [beni1241]':1,'Nuclear Kelo [nucl1342]':1)'Kelo [kelo1246][xel]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3257",
+        "label": "Kelo"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6386412",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kelo_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "177847",
+        "wordlist_or_less",
+        1997,
+        4,
+        "Bender, M. Lionel 1997, 1998"
+      ],
+      [
+        "159016",
+        "wordlist_or_less",
+        1932,
+        3,
+        "Evans-Pritchard, Edward E. 1932"
+      ]
+    ]
+  },
+  "id": "kelo1246",
+  "name": "Kelo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.9291,
+  "longitude": 34.3816,
+  "classification": [
+    {
+      "name": "Eastern Jebel",
+      "id": "east2386",
+      "url": "https://glottolog.org/resource/languoid/id/east2386"
+    },
+    {
+      "name": "Aka-Kelo-Molo",
+      "id": "akak1254",
+      "url": "https://glottolog.org/resource/languoid/id/akak1254"
+    }
+  ],
+  "iso639-3": "xel"
+}

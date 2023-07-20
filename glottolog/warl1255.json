@@ -1,0 +1,99 @@
+{
+  "pk": 5948,
+  "hid": "wrl",
+  "father_pk": 3981,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Warlmanpa [warl1255][wrl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2581",
+        "label": "Warlmanpa"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/c17",
+        "label": "Warlmanpa"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Warlmanpa_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/warl1255",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3913823",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "586348",
+        "long_grammar",
+        2021,
+        557,
+        "Browne, Mitchell 2021"
+      ],
+      [
+        "75",
+        "phonology_or_text",
+        2002,
+        6,
+        "Riemer, Nick 2002"
+      ],
+      [
+        "318252",
+        "wordlist_or_less",
+        1979,
+        51,
+        "David Nash 1979"
+      ],
+      [
+        "2518",
+        "wordlist_or_less",
+        1952,
+        5,
+        "Capell, Arthur 1952"
+      ]
+    ]
+  },
+  "id": "warl1255",
+  "name": "Warlmanpa",
+  "description": null,
+  "markup_description": null,
+  "latitude": -18.949,
+  "longitude": 133.862,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Desert Nyungic",
+      "id": "dese1234",
+      "url": "https://glottolog.org/resource/languoid/id/dese1234"
+    },
+    {
+      "name": "Ngumpin-Yapa",
+      "id": "ngum1251",
+      "url": "https://glottolog.org/resource/languoid/id/ngum1251"
+    },
+    {
+      "name": "Yapa",
+      "id": "ngar1289",
+      "url": "https://glottolog.org/resource/languoid/id/ngar1289"
+    }
+  ],
+  "iso639-3": "wrl"
+}

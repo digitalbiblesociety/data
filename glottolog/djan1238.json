@@ -1,0 +1,72 @@
+{
+  "pk": 4044,
+  "hid": "djf",
+  "father_pk": 2304,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Djangun [djan1238][djf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4087",
+        "label": "Djangun"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q10474818",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/djan1238",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "3192",
+        "wordlist_or_less",
+        1926,
+        9,
+        "Richards, Francis 1926"
+      ],
+      [
+        "159748",
+        "wordlist_or_less",
+        1886,
+        6,
+        "Mowbray, H. M. 1886"
+      ]
+    ]
+  },
+  "id": "djan1238",
+  "name": "Djangun",
+  "description": null,
+  "markup_description": null,
+  "latitude": -16.91051,
+  "longitude": 144.93245,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Yimidhirr-Yalanji-Yidinic",
+      "id": "yimi1234",
+      "url": "https://glottolog.org/resource/languoid/id/yimi1234"
+    },
+    {
+      "name": "Yalandyic",
+      "id": "yala1261",
+      "url": "https://glottolog.org/resource/languoid/id/yala1261"
+    }
+  ],
+  "iso639-3": "djf"
+}

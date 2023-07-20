@@ -1,0 +1,107 @@
+{
+  "pk": 8071,
+  "hid": "agu",
+  "father_pk": 5654,
+  "family_pk": 76,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Aguacateco [agua1252][agu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_agu",
+        "label": "Aguacatec"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/682",
+        "label": "Awakateko"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Awakatek_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35091",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "128340",
+        "grammar_sketch",
+        1983,
+        100,
+        "Thomas W. Larsen 1983"
+      ],
+      [
+        "105200",
+        "grammar_sketch",
+        1976,
+        51,
+        "Kaufman, Terrence and McArthur, Harry S. 1976"
+      ],
+      [
+        "116845",
+        "grammar_sketch",
+        1966,
+        35,
+        "McArthur, Lucille E. and McArthur, Harry S. 1966"
+      ],
+      [
+        "58261",
+        "phonology_or_text",
+        1956,
+        5,
+        "McArthur, Harry and McArthur, Lucille 1956"
+      ],
+      [
+        "114382",
+        "wordlist_or_less",
+        1954,
+        24,
+        "na 1954"
+      ]
+    ]
+  },
+  "id": "agua1252",
+  "name": "Aguacateco",
+  "description": null,
+  "markup_description": null,
+  "latitude": 15.3307,
+  "longitude": -91.3153,
+  "classification": [
+    {
+      "name": "Mayan",
+      "id": "maya1287",
+      "url": "https://glottolog.org/resource/languoid/id/maya1287"
+    },
+    {
+      "name": "Core Mayan",
+      "id": "core1254",
+      "url": "https://glottolog.org/resource/languoid/id/core1254"
+    },
+    {
+      "name": "Quichean-Mamean",
+      "id": "quic1274",
+      "url": "https://glottolog.org/resource/languoid/id/quic1274"
+    },
+    {
+      "name": "Greater Mamean",
+      "id": "grea1277",
+      "url": "https://glottolog.org/resource/languoid/id/grea1277"
+    },
+    {
+      "name": "Ixilan",
+      "id": "ixil1250",
+      "url": "https://glottolog.org/resource/languoid/id/ixil1250"
+    }
+  ],
+  "iso639-3": "agu"
+}

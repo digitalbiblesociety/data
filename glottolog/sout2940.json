@@ -1,0 +1,99 @@
+{
+  "pk": 14797,
+  "hid": "kts",
+  "father_pk": 11851,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Metomka [meto1239]':1)'South Muyu [sout2940][kts]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kti",
+        "label": "Kati (in West Papua, Indonesia)"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/10689",
+        "label": "South Muyu"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q42308820",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "81498",
+        "grammar_sketch",
+        1954,
+        19,
+        "Drabbe, Peter 1954"
+      ],
+      [
+        "82257",
+        "wordlist_or_less",
+        1933,
+        3,
+        "Geurtjens, Hendrik 1933"
+      ],
+      [
+        "81764",
+        "wordlist_or_less",
+        1923,
+        1,
+        "Sidney H. Ray 1923"
+      ]
+    ]
+  },
+  "id": "sout2940",
+  "name": "South Muyu",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.01385,
+  "longitude": 140.815,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Asmat-Awyu-Ok",
+      "id": "cent2116",
+      "url": "https://glottolog.org/resource/languoid/id/cent2116"
+    },
+    {
+      "name": "Awyu-Ok",
+      "id": "awyu1265",
+      "url": "https://glottolog.org/resource/languoid/id/awyu1265"
+    },
+    {
+      "name": "Ok-Oksapmin",
+      "id": "okok1235",
+      "url": "https://glottolog.org/resource/languoid/id/okok1235"
+    },
+    {
+      "name": "Ok",
+      "id": "okkk1242",
+      "url": "https://glottolog.org/resource/languoid/id/okkk1242"
+    },
+    {
+      "name": "Lowland Ok",
+      "id": "lowl1259",
+      "url": "https://glottolog.org/resource/languoid/id/lowl1259"
+    },
+    {
+      "name": "Division A Lowland Ok",
+      "id": "divi1234",
+      "url": "https://glottolog.org/resource/languoid/id/divi1234"
+    }
+  ],
+  "iso639-3": "kts"
+}

@@ -1,0 +1,87 @@
+{
+  "pk": 1012,
+  "hid": "pwi",
+  "father_pk": 132,
+  "family_pk": 132,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Hill Patwin [hill1259]':1,'River Patwin [rive1264]':1)'Nuclear Patwin [nucl1784]':1,'Southern Patwin [sout3315]':1)'Patwin [patw1250][pwi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1537",
+        "label": "Patwin"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3370188",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Patwin_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ptw",
+        "label": "Patwin"
+      }
+    ],
+    "meds": [
+      [
+        "573965",
+        "long_grammar",
+        2021,
+        468,
+        "Lewis C. Lawyer 2021"
+      ],
+      [
+        "588188",
+        "long_grammar",
+        2019,
+        395,
+        "Lewis C. Lawyer 2019"
+      ],
+      [
+        "578558",
+        "phonology_or_text",
+        1980,
+        128,
+        "Whistler, Kenneth W. 1980"
+      ],
+      [
+        "123429",
+        "phonology_or_text",
+        1977,
+        21,
+        "Whistler, Kenneth W. 1977"
+      ],
+      [
+        "161830",
+        "wordlist_or_less",
+        1853,
+        2,
+        "George Gibbs 1853"
+      ]
+    ]
+  },
+  "id": "patw1250",
+  "name": "Patwin",
+  "description": null,
+  "markup_description": null,
+  "latitude": 39.2143,
+  "longitude": -122.0094,
+  "classification": [
+    {
+      "name": "Wintuan",
+      "id": "wint1258",
+      "url": "https://glottolog.org/resource/languoid/id/wint1258"
+    }
+  ],
+  "iso639-3": "pwi"
+}

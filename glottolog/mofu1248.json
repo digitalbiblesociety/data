@@ -1,0 +1,103 @@
+{
+  "pk": 14347,
+  "hid": "mif",
+  "father_pk": 11267,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dimeo [dime1245]':1,'Gudur [gudu1251]':1,'Massagal [mass1267]':1,'Mokong [moko1254]':1,'Njeleng [njel1238]':1,'Zidim [zidi1238]':1)'Mofu-Gudur [mofu1248][mif]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mof",
+        "label": "Mofu-Gudur"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mofu-Gudur_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/mofu1248",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q1365132",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "43377",
+        "long_grammar",
+        1983,
+        887,
+        "Barreteau, Daniel 1983"
+      ],
+      [
+        "107382",
+        "grammar_sketch",
+        1978,
+        14,
+        "Barreteau, Daniel 1978"
+      ],
+      [
+        "324874",
+        "wordlist_or_less",
+        1945,
+        47,
+        "Marchesseau, G. 1945"
+      ]
+    ]
+  },
+  "id": "mofu1248",
+  "name": "Mofu-Gudur",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.567,
+  "longitude": 14.0314,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "Biu-Mandara",
+      "id": "bium1280",
+      "url": "https://glottolog.org/resource/languoid/id/bium1280"
+    },
+    {
+      "name": "North Biu-Mandara",
+      "id": "nort3156",
+      "url": "https://glottolog.org/resource/languoid/id/nort3156"
+    },
+    {
+      "name": "Margi-Mandara-Mofu",
+      "id": "marg1267",
+      "url": "https://glottolog.org/resource/languoid/id/marg1267"
+    },
+    {
+      "name": "Mofuic",
+      "id": "mofu1249",
+      "url": "https://glottolog.org/resource/languoid/id/mofu1249"
+    },
+    {
+      "name": "Mofu",
+      "id": "mofu1250",
+      "url": "https://glottolog.org/resource/languoid/id/mofu1250"
+    }
+  ],
+  "iso639-3": "mif"
+}

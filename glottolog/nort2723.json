@@ -1,0 +1,78 @@
+{
+  "pk": 10101,
+  "hid": "pmi",
+  "father_pk": 7263,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Jīsū [jisu1234]':1,'Lābó Pumi [labo1245]':1,'Mùdǐqīng Pumi [mudi1234]':1,'Sānyǎnlóng [sany1234]':1,'Taoba [taob1238]':1,'Tuōqī Pumi [tuoq1234]':1,'Táobā [taob1239]':1,'Zuŏsuŏ [zuos1234]':1)'Northern Pumi [nort2723][pmi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 8,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5607",
+        "label": "Northern Pumi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3403245",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "447916",
+        "long_grammar",
+        2014,
+        645,
+        "Henriëtte Daudey 2014"
+      ],
+      [
+        "42326",
+        "grammar",
+        1983,
+        65,
+        "Lu, Shaozun 1983"
+      ]
+    ]
+  },
+  "id": "nort2723",
+  "name": "Northern Pumi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 28.6626,
+  "longitude": 101.305,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Burmo-Qiangic",
+      "id": "burm1265",
+      "url": "https://glottolog.org/resource/languoid/id/burm1265"
+    },
+    {
+      "name": "Na-Qiangic",
+      "id": "naqi1236",
+      "url": "https://glottolog.org/resource/languoid/id/naqi1236"
+    },
+    {
+      "name": "Qiangic",
+      "id": "qian1263",
+      "url": "https://glottolog.org/resource/languoid/id/qian1263"
+    },
+    {
+      "name": "Pumi",
+      "id": "pumi1242",
+      "url": "https://glottolog.org/resource/languoid/id/pumi1242"
+    }
+  ],
+  "iso639-3": "pmi"
+}

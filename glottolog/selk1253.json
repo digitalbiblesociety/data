@@ -1,0 +1,90 @@
+{
+  "pk": 4793,
+  "hid": "sel",
+  "father_pk": 3068,
+  "family_pk": 302,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(((('Narym [nary1239]':1,'Tym [tymm1241]':1,'Vasyugan Selkup [vasy1234]':1)'Central Selkup [cent2328]':1,'Srednyaya Ob-Ket [sred1238]':1)'Kety-Central Selkup [kety1235]':1,'Southern Selkup [sout3262]':1)'Kety-Central-Southern Selkup [kety1234]':1,'Taz-Turukhan [tazz1244]':1)'Selkup [selk1253][sel]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 9,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q34008",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Selkup_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/selk1253",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_skp",
+        "label": "Selkup"
+      }
+    ],
+    "meds": [
+      [
+        "112711",
+        "long_grammar",
+        1980,
+        424,
+        "A. I. Kuznetsova and E. A. Xelimskij and E. B. Gruškina 1980"
+      ],
+      [
+        "29417",
+        "grammar",
+        1935,
+        136,
+        "Georgij N. Prokof'ev 1935"
+      ],
+      [
+        "132372",
+        "grammar_sketch",
+        1854,
+        43,
+        "Mathias Alexander, Castrén 1966 [1854]"
+      ],
+      [
+        "320011",
+        "wordlist_or_less",
+        1692,
+        52,
+        "Witsen, Nicolaes 1705 [1692]"
+      ]
+    ]
+  },
+  "id": "selk1253",
+  "name": "Selkup",
+  "description": null,
+  "markup_description": null,
+  "latitude": 59.9409,
+  "longitude": 82.3004,
+  "classification": [
+    {
+      "name": "Uralic",
+      "id": "ural1272",
+      "url": "https://glottolog.org/resource/languoid/id/ural1272"
+    },
+    {
+      "name": "Samoyedic",
+      "id": "samo1298",
+      "url": "https://glottolog.org/resource/languoid/id/samo1298"
+    },
+    {
+      "name": "Kamas-Selkup",
+      "id": "kama1376",
+      "url": "https://glottolog.org/resource/languoid/id/kama1376"
+    }
+  ],
+  "iso639-3": "sel"
+}

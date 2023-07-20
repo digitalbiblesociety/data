@@ -1,0 +1,94 @@
+{
+  "pk": 3550,
+  "hid": "slr",
+  "father_pk": 1899,
+  "family_pk": 14,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Jiezi [jiez1238]':1,'Mengda [meng1262]':1)'Salar [sala1264][slr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10455",
+        "label": "Salar"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_slr",
+        "label": "Salar"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Salar_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/sala1264",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33963",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "557455",
+        "long_grammar",
+        2016,
+        647,
+        "Camille Simon 2016"
+      ],
+      [
+        "552519",
+        "long_grammar",
+        1976,
+        578,
+        "È. R. Tenishev 1976"
+      ],
+      [
+        "140074",
+        "grammar_sketch",
+        1963,
+        55,
+        "È. R. Tenishev 1963"
+      ],
+      [
+        "127945",
+        "phonology_or_text",
+        1953,
+        20,
+        "N. Poppe 1953"
+      ]
+    ]
+  },
+  "id": "sala1264",
+  "name": "Salar",
+  "description": null,
+  "markup_description": null,
+  "latitude": 35.5457,
+  "longitude": 102.819,
+  "classification": [
+    {
+      "name": "Turkic",
+      "id": "turk1311",
+      "url": "https://glottolog.org/resource/languoid/id/turk1311"
+    },
+    {
+      "name": "Common Turkic",
+      "id": "comm1245",
+      "url": "https://glottolog.org/resource/languoid/id/comm1245"
+    },
+    {
+      "name": "Oghuz",
+      "id": "oghu1243",
+      "url": "https://glottolog.org/resource/languoid/id/oghu1243"
+    }
+  ],
+  "iso639-3": "slr"
+}

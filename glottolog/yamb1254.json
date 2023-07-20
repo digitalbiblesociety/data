@@ -1,0 +1,65 @@
+{
+  "pk": 3759,
+  "hid": "ymb",
+  "father_pk": 2101,
+  "family_pk": 103,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('East Yambes [east2497]':1,'West Yambes [west2577]':1)'Yambes [yamb1254][ymb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10564",
+        "label": "Yambes"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q8048022",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yambes_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "97332",
+        "wordlist_or_less",
+        1964,
+        2,
+        "David Glasgow and Richard Loving 1964"
+      ]
+    ]
+  },
+  "id": "yamb1254",
+  "name": "Yambes",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.50624,
+  "longitude": 142.763,
+  "classification": [
+    {
+      "name": "Nuclear Torricelli",
+      "id": "nucl1708",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1708"
+    },
+    {
+      "name": "Kombio-Arapesh-Urat",
+      "id": "komb1276",
+      "url": "https://glottolog.org/resource/languoid/id/komb1276"
+    },
+    {
+      "name": "Kombio-Yambes",
+      "id": "komb1271",
+      "url": "https://glottolog.org/resource/languoid/id/komb1271"
+    }
+  ],
+  "iso639-3": "ymb"
+}

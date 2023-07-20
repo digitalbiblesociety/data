@@ -1,0 +1,99 @@
+{
+  "pk": 7573,
+  "hid": "yum",
+  "father_pk": 5252,
+  "family_pk": 403,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Quechan [quec1382][yum]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1530",
+        "label": "Quechan"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3573199",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Quechan_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/quec1382",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_que",
+        "label": "Quechan"
+      }
+    ],
+    "meds": [
+      [
+        "309140",
+        "grammar_sketch",
+        1948,
+        40,
+        "Abraham M. Halpern 1948"
+      ],
+      [
+        "149719",
+        "grammar_sketch",
+        1946,
+        40,
+        "Abraham M. Halpern 1946"
+      ],
+      [
+        "570745",
+        "wordlist_or_less",
+        1937,
+        4,
+        "Drucker, P. 1937"
+      ],
+      [
+        "571401",
+        "wordlist_or_less",
+        1931,
+        196,
+        "Forde, C. D. 1931"
+      ]
+    ]
+  },
+  "id": "quec1382",
+  "name": "Quechan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 32.7859,
+  "longitude": -114.599,
+  "classification": [
+    {
+      "name": "Cochimi-Yuman",
+      "id": "coch1271",
+      "url": "https://glottolog.org/resource/languoid/id/coch1271"
+    },
+    {
+      "name": "Yuman",
+      "id": "yuma1250",
+      "url": "https://glottolog.org/resource/languoid/id/yuma1250"
+    },
+    {
+      "name": "General Yuman",
+      "id": "gene1244",
+      "url": "https://glottolog.org/resource/languoid/id/gene1244"
+    },
+    {
+      "name": "River Yuman",
+      "id": "rive1260",
+      "url": "https://glottolog.org/resource/languoid/id/rive1260"
+    }
+  ],
+  "iso639-3": "yum"
+}

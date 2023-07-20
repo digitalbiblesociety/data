@@ -1,0 +1,139 @@
+{
+  "pk": 16733,
+  "hid": "aeb",
+  "father_pk": 14143,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Alger Judeo-Arabic [alge1241]':1,'Tunis Judeo-Arabic [tuni1261]':1)'Judeo-Tunisian Arabic [jude1263][ajt]':1,'North-Western Tunisian [nort3135]':1,'Sahil [sahi1245]':1,'Sfax [sfax1238]':1,'South-Eastern Tunisian [sout3115]':1,'South-Western Tunisian [sout3114]':1,'Tunis {Tunisian Arabic} [tuni1260]':1)'Tunisian Arabic [tuni1259][aeb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 9,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_atu",
+        "label": "Arabic (Tunisian)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tunisian_Arabic",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56240",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "658610",
+        "long_grammar",
+        1993,
+        1069,
+        "Mouldi Bouaicha 1993"
+      ],
+      [
+        "130009",
+        "long_grammar",
+        1984,
+        772,
+        "Hans-Rudolf Singer 1984"
+      ],
+      [
+        "162477",
+        "long_grammar",
+        1912,
+        576,
+        "Cohen, Marcel 1912"
+      ],
+      [
+        "30630",
+        "grammar",
+        1896,
+        191,
+        "Stumme, Hans 1896"
+      ],
+      [
+        "76618",
+        "grammar",
+        1895,
+        0,
+        "Playfair, Robert Lambert 1895"
+      ],
+      [
+        "138088",
+        "phonology_or_text",
+        1871,
+        0,
+        "Beaussier, Marcelin 1871"
+      ],
+      [
+        "84000",
+        "wordlist_or_less",
+        1837,
+        0,
+        "Marcel, Jean Joseph 1837"
+      ],
+      [
+        "36207",
+        "wordlist_or_less",
+        1818,
+        0,
+        "Gråberg, Jakob af Hemsö [Count] 1818"
+      ]
+    ]
+  },
+  "id": "tuni1259",
+  "name": "Tunisian Arabic",
+  "description": null,
+  "markup_description": null,
+  "latitude": 33.7966,
+  "longitude": 9.56156,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Semitic",
+      "id": "semi1276",
+      "url": "https://glottolog.org/resource/languoid/id/semi1276"
+    },
+    {
+      "name": "West Semitic",
+      "id": "west2786",
+      "url": "https://glottolog.org/resource/languoid/id/west2786"
+    },
+    {
+      "name": "Central Semitic",
+      "id": "cent2236",
+      "url": "https://glottolog.org/resource/languoid/id/cent2236"
+    },
+    {
+      "name": "Arabian",
+      "id": "arab1394",
+      "url": "https://glottolog.org/resource/languoid/id/arab1394"
+    },
+    {
+      "name": "Arabic",
+      "id": "arab1395",
+      "url": "https://glottolog.org/resource/languoid/id/arab1395"
+    },
+    {
+      "name": "North African Arabic",
+      "id": "nort3191",
+      "url": "https://glottolog.org/resource/languoid/id/nort3191"
+    },
+    {
+      "name": "Malta-Tunisian Arabic",
+      "id": "malt1259",
+      "url": "https://glottolog.org/resource/languoid/id/malt1259"
+    }
+  ],
+  "iso639-3": "aeb"
+}

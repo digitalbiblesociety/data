@@ -1,0 +1,77 @@
+{
+  "pk": 7657,
+  "hid": "pnx",
+  "father_pk": 5311,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Phong-Kniang [phon1246][pnx]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5877",
+        "label": "Phong-Kniang"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kniang_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3914627",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "139714",
+        "grammar_sketch",
+        2000,
+        79,
+        "Thé̂, Bùi Khánh 2000"
+      ],
+      [
+        "130340",
+        "wordlist_or_less",
+        1906,
+        3,
+        "Paul Macey 1906"
+      ]
+    ]
+  },
+  "id": "phon1246",
+  "name": "Phong-Kniang",
+  "description": null,
+  "markup_description": null,
+  "latitude": 19.9622,
+  "longitude": 104.088,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Khmuic",
+      "id": "khmu1236",
+      "url": "https://glottolog.org/resource/languoid/id/khmu1236"
+    },
+    {
+      "name": "Phay-Pram",
+      "id": "phay1242",
+      "url": "https://glottolog.org/resource/languoid/id/phay1242"
+    },
+    {
+      "name": "Pramic",
+      "id": "pram1235",
+      "url": "https://glottolog.org/resource/languoid/id/pram1235"
+    }
+  ],
+  "iso639-3": "pnx"
+}

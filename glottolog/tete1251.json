@@ -1,0 +1,115 @@
+{
+  "pk": 11513,
+  "hid": "nhg",
+  "father_pk": 8574,
+  "family_pk": 155,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tetelcingo Nahuatl [tete1251][nhg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nht",
+        "label": "Nahuatl (Tetelcingo)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tetelcingo_Nahuatl",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3450252",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "107523",
+        "long_grammar",
+        1981,
+        633,
+        "Tuggy, David H. 1981"
+      ],
+      [
+        "20193",
+        "grammar",
+        1979,
+        140,
+        "Tuggy, David H. 1979"
+      ],
+      [
+        "24313",
+        "grammar",
+        1953,
+        123,
+        "Pittman, Richard S. 1953"
+      ],
+      [
+        "666530",
+        "grammar_sketch",
+        1948,
+        0,
+        "Richard S. Pittman 1948"
+      ],
+      [
+        "129293",
+        "wordlist_or_less",
+        1945,
+        8,
+        "Pittman, Richard S. 1945"
+      ],
+      [
+        "28413",
+        "wordlist_or_less",
+        1937,
+        4,
+        "Townsend, William Cameron 1937"
+      ]
+    ]
+  },
+  "id": "tete1251",
+  "name": "Tetelcingo Nahuatl",
+  "description": null,
+  "markup_description": null,
+  "latitude": 18.8854,
+  "longitude": -98.893,
+  "classification": [
+    {
+      "name": "Uto-Aztecan",
+      "id": "utoa1244",
+      "url": "https://glottolog.org/resource/languoid/id/utoa1244"
+    },
+    {
+      "name": "Southern Uto-Aztecan",
+      "id": "sout3136",
+      "url": "https://glottolog.org/resource/languoid/id/sout3136"
+    },
+    {
+      "name": "Corachol-Aztecan",
+      "id": "cora1261",
+      "url": "https://glottolog.org/resource/languoid/id/cora1261"
+    },
+    {
+      "name": "Aztec",
+      "id": "azte1234",
+      "url": "https://glottolog.org/resource/languoid/id/azte1234"
+    },
+    {
+      "name": "Western Nahuatl",
+      "id": "west2809",
+      "url": "https://glottolog.org/resource/languoid/id/west2809"
+    },
+    {
+      "name": "Central Nahuatl",
+      "id": "cent2258",
+      "url": "https://glottolog.org/resource/languoid/id/cent2258"
+    }
+  ],
+  "iso639-3": "nhg"
+}

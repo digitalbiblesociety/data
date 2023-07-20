@@ -1,0 +1,72 @@
+{
+  "pk": 3770,
+  "hid": "tua",
+  "father_pk": 2112,
+  "family_pk": 103,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Wiarumus [wiar1238][tua]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3489",
+        "label": "Wiarumus"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7998045",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Wiarumus_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "65275",
+        "wordlist_or_less",
+        1975,
+        2,
+        "Donald C. Laycock 1975"
+      ],
+      [
+        "108516",
+        "wordlist_or_less",
+        1973,
+        1,
+        "Laycock, Donald C. 1973"
+      ]
+    ]
+  },
+  "id": "wiar1238",
+  "name": "Wiarumus",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.63409,
+  "longitude": 143.756,
+  "classification": [
+    {
+      "name": "Nuclear Torricelli",
+      "id": "nucl1708",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1708"
+    },
+    {
+      "name": "Marienberg",
+      "id": "mari1433",
+      "url": "https://glottolog.org/resource/languoid/id/mari1433"
+    },
+    {
+      "name": "Mandi-Muniwara",
+      "id": "mand1470",
+      "url": "https://glottolog.org/resource/languoid/id/mand1470"
+    }
+  ],
+  "iso639-3": "tua"
+}

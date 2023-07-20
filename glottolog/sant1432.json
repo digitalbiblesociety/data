@@ -1,0 +1,86 @@
+{
+  "pk": 10069,
+  "hid": "qus",
+  "father_pk": 7233,
+  "family_pk": 321,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Catamarca y La Rioja [cata1288]':1,'Santiago del Estero [sant1460]':1)'Santiago del Estero Quichua [sant1432][qus]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2919",
+        "label": "Santiago del Estero Quechua"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Santiague%C3%B1o_Quechua",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/sant1432",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35168",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "317844",
+        "long_grammar",
+        1935,
+        350,
+        "Sergio Grigórieff 1935"
+      ],
+      [
+        "304423",
+        "grammar_sketch",
+        1889,
+        219,
+        "Mossi, Miguel A. 1889"
+      ]
+    ]
+  },
+  "id": "sant1432",
+  "name": "Santiago del Estero Quichua",
+  "description": null,
+  "markup_description": null,
+  "latitude": -27.821,
+  "longitude": -63.2466,
+  "classification": [
+    {
+      "name": "Quechuan",
+      "id": "quec1387",
+      "url": "https://glottolog.org/resource/languoid/id/quec1387"
+    },
+    {
+      "name": "Quechua II",
+      "id": "quec1388",
+      "url": "https://glottolog.org/resource/languoid/id/quec1388"
+    },
+    {
+      "name": "Chinchay",
+      "id": "chin1494",
+      "url": "https://glottolog.org/resource/languoid/id/chin1494"
+    },
+    {
+      "name": "Quechua IIC",
+      "id": "quec1389",
+      "url": "https://glottolog.org/resource/languoid/id/quec1389"
+    },
+    {
+      "name": "Bolivian-Argentinian Quechua",
+      "id": "boli1262",
+      "url": "https://glottolog.org/resource/languoid/id/boli1262"
+    }
+  ],
+  "iso639-3": "qus"
+}

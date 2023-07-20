@@ -1,0 +1,59 @@
+{
+  "pk": 505,
+  "hid": "vki",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Ija-Zuba [ijaz1238][vki]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "vki",
+      "name": "Ija-Zuba",
+      "change_request": "2020-032",
+      "effective": "2021-01-15",
+      "reason": "split",
+      "change_to": [
+        "vkn",
+        "vkz"
+      ],
+      "remedy": "Split into Koro Nulu [vkn] and Koro Zuba [vkz]",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q11011389",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "584947",
+        "wordlist_or_less",
+        2020,
+        0,
+        "ISO 639-3 Registration Authority 2020"
+      ]
+    ]
+  },
+  "id": "ijaz1238",
+  "name": "Ija-Zuba",
+  "description": null,
+  "markup_description": null,
+  "latitude": 8.97183,
+  "longitude": 6.9861,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "vki"
+}

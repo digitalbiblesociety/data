@@ -1,0 +1,105 @@
+{
+  "pk": 1279,
+  "hid": "wlg",
+  "father_pk": 253,
+  "family_pk": 253,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kunbarlang [kunb1251][wlg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3340",
+        "label": "Kunbarlang"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/n69",
+        "label": "Kunbarlang"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Gunbarlang_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_gnb",
+        "label": "Gunbalang"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5618523",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "587881",
+        "long_grammar",
+        2021,
+        407,
+        "Ivan Kapitonov 2021"
+      ],
+      [
+        "587880",
+        "long_grammar",
+        2019,
+        387,
+        "Ivan Kapitonov 2019"
+      ],
+      [
+        "52901",
+        "grammar",
+        1969,
+        49,
+        "Harris, Joy Kinslow 1969"
+      ],
+      [
+        "6843",
+        "grammar_sketch",
+        1966,
+        2,
+        "Hiatt, L. R. and Hiatt, Betty 1966"
+      ],
+      [
+        "554499",
+        "wordlist_or_less",
+        1956,
+        4,
+        "Arthur Capell 1956"
+      ],
+      [
+        "4167",
+        "wordlist_or_less",
+        1940,
+        1,
+        "Arthur Capell 1940, 1940"
+      ],
+      [
+        "2004",
+        "wordlist_or_less",
+        1928,
+        0,
+        "Spencer, Baldwin 1928"
+      ]
+    ]
+  },
+  "id": "kunb1251",
+  "name": "Kunbarlang",
+  "description": null,
+  "markup_description": null,
+  "latitude": -11.9133,
+  "longitude": 133.723,
+  "classification": [
+    {
+      "name": "Gunwinyguan",
+      "id": "gunw1250",
+      "url": "https://glottolog.org/resource/languoid/id/gunw1250"
+    }
+  ],
+  "iso639-3": "wlg"
+}

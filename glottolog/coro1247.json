@@ -1,0 +1,78 @@
+{
+  "pk": 10073,
+  "hid": "qwa",
+  "father_pk": 7239,
+  "family_pk": 321,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Corongo Ancash Quechua [coro1247][qwa]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://phoible.org/languages/coro1247",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12953841",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "110612",
+        "grammar",
+        2000,
+        261,
+        "Hintz, Daniel J. and Ballena D., Marlene 2000"
+      ],
+      [
+        "582049",
+        "wordlist_or_less",
+        1972,
+        2,
+        "Torero, Alfredo 1972"
+      ]
+    ]
+  },
+  "id": "coro1247",
+  "name": "Corongo Ancash Quechua",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.57647,
+  "longitude": -77.9864,
+  "classification": [
+    {
+      "name": "Quechuan",
+      "id": "quec1387",
+      "url": "https://glottolog.org/resource/languoid/id/quec1387"
+    },
+    {
+      "name": "Quechua I",
+      "id": "quec1386",
+      "url": "https://glottolog.org/resource/languoid/id/quec1386"
+    },
+    {
+      "name": "Central Quechua I",
+      "id": "cent2141",
+      "url": "https://glottolog.org/resource/languoid/id/cent2141"
+    },
+    {
+      "name": "Huaylay",
+      "id": "huay1239",
+      "url": "https://glottolog.org/resource/languoid/id/huay1239"
+    },
+    {
+      "name": "Corongo-Sihuas",
+      "id": "coro1255",
+      "url": "https://glottolog.org/resource/languoid/id/coro1255"
+    }
+  ],
+  "iso639-3": "qwa"
+}

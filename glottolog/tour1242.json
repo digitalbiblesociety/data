@@ -1,0 +1,92 @@
+{
+  "pk": 14389,
+  "hid": "neb",
+  "father_pk": 11309,
+  "family_pk": 121,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Boo [booo1257]':1,'Guse [guse1238]':1,'Gwéò [gweo1238]':1,'Naò [naoo1238]':1,'Wáádú [waad1238]':1,'Yiligele [yili1249]':1)'Toura {Côte d''Ivoire} [tour1242][neb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Tura_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/tour1242",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7853636",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "149596",
+        "long_grammar",
+        1971,
+        487,
+        "Bearth, Thomas 1971"
+      ],
+      [
+        "121543",
+        "grammar_sketch",
+        1953,
+        21,
+        "Prost, André 1953"
+      ]
+    ]
+  },
+  "id": "tour1242",
+  "name": "Toura (Côte d'Ivoire)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.76747,
+  "longitude": -7.33105,
+  "classification": [
+    {
+      "name": "Mande",
+      "id": "mand1469",
+      "url": "https://glottolog.org/resource/languoid/id/mand1469"
+    },
+    {
+      "name": "Eastern Mande",
+      "id": "east2697",
+      "url": "https://glottolog.org/resource/languoid/id/east2697"
+    },
+    {
+      "name": "Southeastern Mande",
+      "id": "sout3140",
+      "url": "https://glottolog.org/resource/languoid/id/sout3140"
+    },
+    {
+      "name": "Mano-Dan",
+      "id": "guro1245",
+      "url": "https://glottolog.org/resource/languoid/id/guro1245"
+    },
+    {
+      "name": "Guro-Dan",
+      "id": "guro1246",
+      "url": "https://glottolog.org/resource/languoid/id/guro1246"
+    },
+    {
+      "name": "Dan-Toura",
+      "id": "dant1235",
+      "url": "https://glottolog.org/resource/languoid/id/dant1235"
+    },
+    {
+      "name": "Toura-Goo",
+      "id": "tour1245",
+      "url": "https://glottolog.org/resource/languoid/id/tour1245"
+    }
+  ],
+  "iso639-3": "neb"
+}

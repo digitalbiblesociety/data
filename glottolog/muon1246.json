@@ -1,0 +1,98 @@
+{
+  "pk": 7740,
+  "hid": "mtq",
+  "father_pk": 5357,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ao Tá [aota1239]':1,'Boi Bi [boib1239]':1,'Moi 1 [moii1253]':1,'Mol {Vietnam} [moll1241]':1,'Mual [mual1240]':1,'Thang [than1254]':1,'Wang [wang1286]':1)'Muong [muon1246][mtq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3236789",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Muong_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_muo",
+        "label": "Muong"
+      }
+    ],
+    "meds": [
+      [
+        "37734",
+        "grammar_sketch",
+        1987,
+        173,
+        "Sokolovskaja, N.K. and Nguyen V.T. 1987"
+      ],
+      [
+        "97271",
+        "grammar_sketch",
+        1976,
+        36,
+        "Barker, Muriel A. and Barker, Milton E. 1976"
+      ],
+      [
+        "50217",
+        "grammar_sketch",
+        1969,
+        0,
+        "Barker, Milton E. 1969"
+      ],
+      [
+        "87138",
+        "phonology_or_text",
+        1968,
+        4,
+        "Barker, Milton E. 1968"
+      ],
+      [
+        "310081",
+        "wordlist_or_less",
+        1907,
+        7,
+        "Chéon, A. 1907"
+      ]
+    ]
+  },
+  "id": "muon1246",
+  "name": "Muong",
+  "description": null,
+  "markup_description": null,
+  "latitude": 20.7374,
+  "longitude": 105.186,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Vietic",
+      "id": "viet1250",
+      "url": "https://glottolog.org/resource/languoid/id/viet1250"
+    },
+    {
+      "name": "Viet-Muong",
+      "id": "viet1251",
+      "url": "https://glottolog.org/resource/languoid/id/viet1251"
+    },
+    {
+      "name": "Muongic",
+      "id": "muon1245",
+      "url": "https://glottolog.org/resource/languoid/id/muon1245"
+    }
+  ],
+  "iso639-3": "mtq"
+}

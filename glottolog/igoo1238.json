@@ -1,0 +1,93 @@
+{
+  "pk": 9892,
+  "hid": "ahl",
+  "father_pk": 7150,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Igo [igoo1238][ahl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5079",
+        "label": "Igo"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35412",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ahlon_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/igoo1238",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "587214",
+        "long_grammar",
+        2021,
+        484,
+        "Gblem-Poidi, Honorine Massanvi Massanvi 2021"
+      ],
+      [
+        "26113",
+        "long_grammar",
+        1995,
+        421,
+        "Gblem, Massanvi 1995"
+      ],
+      [
+        "472914",
+        "grammar_sketch",
+        1922,
+        45,
+        "Westermann, Diedrich 1922"
+      ]
+    ]
+  },
+  "id": "igoo1238",
+  "name": "Igo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.25499,
+  "longitude": 0.67846,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Kwa Volta-Congo",
+      "id": "kwav1236",
+      "url": "https://glottolog.org/resource/languoid/id/kwav1236"
+    },
+    {
+      "name": "Ka-Togo",
+      "id": "kato1245",
+      "url": "https://glottolog.org/resource/languoid/id/kato1245"
+    },
+    {
+      "name": "Kposo-Ahlo-Bowili",
+      "id": "kpos1239",
+      "url": "https://glottolog.org/resource/languoid/id/kpos1239"
+    }
+  ],
+  "iso639-3": "ahl"
+}

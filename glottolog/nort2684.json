@@ -1,0 +1,81 @@
+{
+  "pk": 3475,
+  "hid": "kxm",
+  "father_pk": 1855,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Buriram [buri1257]':1,'Sisaket [sisa1246]':1,'Surin [suri1265]':1)'Northern Khmer [nort2684][kxm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Northern_Khmer_dialect",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nort2684",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3502234",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "551553",
+        "long_grammar",
+        1989,
+        401,
+        "Pornpen, Sujinpram 1989"
+      ],
+      [
+        "84583",
+        "grammar",
+        1984,
+        90,
+        "Isarangkun Ná Ayutthaya, Punsap 1984"
+      ],
+      [
+        "570528",
+        "phonology_or_text",
+        1978,
+        0,
+        "Dhanan, Chantrupanth and Chartchai Phromjakgarin 1978"
+      ],
+      [
+        "312463",
+        "wordlist_or_less",
+        1964,
+        35,
+        "William A. Smalley 1964"
+      ]
+    ]
+  },
+  "id": "nort2684",
+  "name": "Northern Khmer",
+  "description": null,
+  "markup_description": null,
+  "latitude": 14.4674,
+  "longitude": 103.863,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Khmeric",
+      "id": "khme1253",
+      "url": "https://glottolog.org/resource/languoid/id/khme1253"
+    }
+  ],
+  "iso639-3": "kxm"
+}

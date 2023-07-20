@@ -1,0 +1,65 @@
+{
+  "pk": 1271,
+  "hid": "gdr",
+  "father_pk": 250,
+  "family_pk": 250,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Abam [abam1239]':1,'Dorogori [doro1265]':1,'Gamaewe [gama1253]':1,'Guiam [guia1241]':1,'Iamega [iame1239]':1,'Kapal [kapa1255]':1,'Kuru [kuru1307]':1,'Peawa [peaw1239]':1,'Podari [poda1239]':1,'Rual [rual1239]':1,'Ume {Papua New Guinea} [umee1243]':1,'Wipim [wipi1243]':1,'Woigo [woig1238]':1,'Wonie [woni1239]':1,'Yuta [yuta1239]':1)'Wipi [wipi1242][gdr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 15,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Wipi_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q8026711",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "466315",
+        "grammar_sketch",
+        1997,
+        128,
+        "Anne Dondorp and Jae-Wook Shim 2013 [1997]"
+      ],
+      [
+        "133002",
+        "wordlist_or_less",
+        1976,
+        6,
+        "Fleischmann, Lillian and Turpeinen, Sinikka 1976"
+      ],
+      [
+        "141689",
+        "wordlist_or_less",
+        1902,
+        4,
+        "Murray, C. G. 1902"
+      ]
+    ]
+  },
+  "id": "wipi1242",
+  "name": "Wipi",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.79741,
+  "longitude": 143.064,
+  "classification": [
+    {
+      "name": "Eastern Trans-Fly",
+      "id": "east2503",
+      "url": "https://glottolog.org/resource/languoid/id/east2503"
+    }
+  ],
+  "iso639-3": "gdr"
+}

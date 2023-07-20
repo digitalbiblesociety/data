@@ -1,0 +1,101 @@
+{
+  "pk": 8509,
+  "hid": "nly",
+  "father_pk": 6044,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Nyamal [nyam1271][nly]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/a58",
+        "label": "Nyamal"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/2560",
+        "label": "Nyamal"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nly",
+        "label": "Nyamal"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nyamal_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nyam1271",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7070837",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "5337",
+        "phonology_or_text",
+        2007,
+        65,
+        "Burgman, Albert 2007"
+      ],
+      [
+        "1643",
+        "phonology_or_text",
+        1990,
+        0,
+        "Brown, Alexander and Geytenbeek, Brian 1990"
+      ],
+      [
+        "75532",
+        "wordlist_or_less",
+        1886,
+        2,
+        "Barlee, Frederick 1886"
+      ]
+    ]
+  },
+  "id": "nyam1271",
+  "name": "Nyamal",
+  "description": null,
+  "markup_description": null,
+  "latitude": -21.6092,
+  "longitude": 119.693,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "South-West Pama-Nyungan",
+      "id": "sout3134",
+      "url": "https://glottolog.org/resource/languoid/id/sout3134"
+    },
+    {
+      "name": "Pilbara",
+      "id": "pilb1234",
+      "url": "https://glottolog.org/resource/languoid/id/pilb1234"
+    },
+    {
+      "name": "Ngayarda",
+      "id": "ngay1241",
+      "url": "https://glottolog.org/resource/languoid/id/ngay1241"
+    },
+    {
+      "name": "Northern Ngayarda",
+      "id": "nort3178",
+      "url": "https://glottolog.org/resource/languoid/id/nort3178"
+    }
+  ],
+  "iso639-3": "nly"
+}

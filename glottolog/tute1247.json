@@ -1,0 +1,79 @@
+{
+  "pk": 4272,
+  "hid": "tta",
+  "father_pk": 2481,
+  "family_pk": 201,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tutelo [tute1247][tta]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tte",
+        "label": "Tutelo"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tutelo_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2311602",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "40571",
+        "grammar",
+        1997,
+        175,
+        "Oliverio, Giulia R. M. 1997"
+      ],
+      [
+        "47096",
+        "grammar",
+        1996,
+        0,
+        "Oliverio, Giulia R.M. 1996"
+      ],
+      [
+        "128159",
+        "grammar_sketch",
+        1883,
+        115,
+        "Hale, Horatio 2001 [1883]"
+      ]
+    ]
+  },
+  "id": "tute1247",
+  "name": "Tutelo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 37.67,
+  "longitude": -78.75,
+  "classification": [
+    {
+      "name": "Siouan",
+      "id": "siou1252",
+      "url": "https://glottolog.org/resource/languoid/id/siou1252"
+    },
+    {
+      "name": "Core Siouan",
+      "id": "core1249",
+      "url": "https://glottolog.org/resource/languoid/id/core1249"
+    },
+    {
+      "name": "Ohio Valley Siouan",
+      "id": "ohio1234",
+      "url": "https://glottolog.org/resource/languoid/id/ohio1234"
+    }
+  ],
+  "iso639-3": "tta"
+}

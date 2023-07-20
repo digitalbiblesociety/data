@@ -1,0 +1,108 @@
+{
+  "pk": 12908,
+  "hid": "abn",
+  "father_pk": 9940,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Abuan [cent2029]':1,'Emughan [emug1238]':1,'Okpeden [okpe1247]':1,'Otapha [otap1238]':1)'Abua [abua1244][abn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Abua_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/abua1244",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q34835",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "553411",
+        "grammar_sketch",
+        2006,
+        0,
+        "Kiikpoye Jonny Joshua 2006"
+      ],
+      [
+        "109744",
+        "phonology_or_text",
+        1980,
+        112,
+        "Gardner, Ian 1980"
+      ],
+      [
+        "32463",
+        "phonology_or_text",
+        1969,
+        26,
+        "Wolff, Hans 1969"
+      ],
+      [
+        "13900",
+        "phonology_or_text",
+        1937,
+        2,
+        "Ward, Ida Caroline 1937"
+      ],
+      [
+        "150176",
+        "wordlist_or_less",
+        1914,
+        2,
+        "Thomas, Northcote Whitridge 1914"
+      ]
+    ]
+  },
+  "id": "abua1244",
+  "name": "Abua",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.83057,
+  "longitude": 6.61492,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Delta Cross",
+      "id": "delt1251",
+      "url": "https://glottolog.org/resource/languoid/id/delt1251"
+    },
+    {
+      "name": "Central Delta",
+      "id": "cent2028",
+      "url": "https://glottolog.org/resource/languoid/id/cent2028"
+    },
+    {
+      "name": "Abua-Odual",
+      "id": "abua1243",
+      "url": "https://glottolog.org/resource/languoid/id/abua1243"
+    }
+  ],
+  "iso639-3": "abn"
+}

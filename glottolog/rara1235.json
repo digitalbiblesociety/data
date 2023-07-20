@@ -1,0 +1,90 @@
+{
+  "pk": 12355,
+  "hid": "lra",
+  "father_pk": 9406,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Rara Bakati'' [rara1235][lra]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3419746",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lara%CA%BC_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "589580",
+        "phonology_or_text",
+        2020,
+        30,
+        "Sommerlot, Carly J. 2020"
+      ],
+      [
+        "144613",
+        "wordlist_or_less",
+        1935,
+        6,
+        "E. H. Elam 1935"
+      ],
+      [
+        "23345",
+        "wordlist_or_less",
+        1913,
+        2,
+        "Sidney H. Ray 1913"
+      ]
+    ]
+  },
+  "id": "rara1235",
+  "name": "Rara Bakati'",
+  "description": null,
+  "markup_description": null,
+  "latitude": 1.27026,
+  "longitude": 109.539,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Land Dayak",
+      "id": "land1261",
+      "url": "https://glottolog.org/resource/languoid/id/land1261"
+    },
+    {
+      "name": "Benyadu-Bekati",
+      "id": "beny1238",
+      "url": "https://glottolog.org/resource/languoid/id/beny1238"
+    },
+    {
+      "name": "Bakati'",
+      "id": "baka1275",
+      "url": "https://glottolog.org/resource/languoid/id/baka1275"
+    },
+    {
+      "name": "Rara-Sara Bakati'",
+      "id": "rara1236",
+      "url": "https://glottolog.org/resource/languoid/id/rara1236"
+    }
+  ],
+  "iso639-3": "lra"
+}

@@ -1,0 +1,87 @@
+{
+  "pk": 4376,
+  "hid": "imn",
+  "father_pk": 2651,
+  "family_pk": 225,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Imonda [imon1245][imn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4302",
+        "label": "Imonda"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6005721",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Imonda_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/imon1245",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_imo",
+        "label": "Imonda"
+      }
+    ],
+    "meds": [
+      [
+        "667571",
+        "grammar",
+        1985,
+        241,
+        "Seiler, Walter M. 1985"
+      ],
+      [
+        "36901",
+        "grammar",
+        1984,
+        241,
+        "Walter M. Seiler 1984"
+      ],
+      [
+        "90923",
+        "phonology_or_text",
+        1983,
+        22,
+        "Seiler, Walter 1983"
+      ]
+    ]
+  },
+  "id": "imon1245",
+  "name": "Imonda",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.31228,
+  "longitude": 141.171,
+  "classification": [
+    {
+      "name": "Border",
+      "id": "bord1247",
+      "url": "https://glottolog.org/resource/languoid/id/bord1247"
+    },
+    {
+      "name": "Warisic",
+      "id": "wari1265",
+      "url": "https://glottolog.org/resource/languoid/id/wari1265"
+    },
+    {
+      "name": "Nuclear Warisic",
+      "id": "nucl1773",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1773"
+    }
+  ],
+  "iso639-3": "imn"
+}

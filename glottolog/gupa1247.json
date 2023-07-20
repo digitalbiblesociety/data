@@ -1,0 +1,122 @@
+{
+  "pk": 11476,
+  "hid": "guf",
+  "father_pk": 8540,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Madarrpa [mada1281]':1,'Manggalili [mang1385]':1,'Munyuku [muny1238]':1,'Nuclear Gupapuyngu [nucl1334]':1,'Walangu [wala1264]':1,'Wubulkarra [wubu1238]':1)'Gupapuyngu [gupa1247][guf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_guf",
+        "label": "Gupapuyngu"
+      },
+      {
+        "url": "https://phoible.org/languages/gupa1247",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q10511004",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "115322",
+        "long_grammar",
+        1992,
+        300,
+        "Anita van der Wal 1992"
+      ],
+      [
+        "791",
+        "grammar_sketch",
+        1975,
+        202,
+        "Lowe, Beulah M. 1975"
+      ],
+      [
+        "67734",
+        "grammar_sketch",
+        1960,
+        0,
+        "B. M. Lowe 1996 [1960]"
+      ],
+      [
+        "554499",
+        "wordlist_or_less",
+        1956,
+        4,
+        "Arthur Capell 1956"
+      ],
+      [
+        "1413",
+        "wordlist_or_less",
+        1952,
+        8,
+        "Berndt, Catherine H. 1952"
+      ],
+      [
+        "846",
+        "wordlist_or_less",
+        1950,
+        5,
+        "Berndt, Catherine H. 1950"
+      ],
+      [
+        "2475",
+        "wordlist_or_less",
+        1933,
+        3,
+        "Webb, Thomas Theodor 1933"
+      ]
+    ]
+  },
+  "id": "gupa1247",
+  "name": "Gupapuyngu",
+  "description": null,
+  "markup_description": null,
+  "latitude": -12.2868,
+  "longitude": 135.337,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Yuulngu",
+      "id": "yuul1239",
+      "url": "https://glottolog.org/resource/languoid/id/yuul1239"
+    },
+    {
+      "name": "Southern Yolngu",
+      "id": "sout3142",
+      "url": "https://glottolog.org/resource/languoid/id/sout3142"
+    },
+    {
+      "name": "Southern-Eastern Yolngu",
+      "id": "sout3149",
+      "url": "https://glottolog.org/resource/languoid/id/sout3149"
+    },
+    {
+      "name": "Dhuwal-Dhuwala",
+      "id": "dhuw1248",
+      "url": "https://glottolog.org/resource/languoid/id/dhuw1248"
+    },
+    {
+      "name": "Eastern Dhuwal-Dhuwala",
+      "id": "east2378",
+      "url": "https://glottolog.org/resource/languoid/id/east2378"
+    }
+  ],
+  "iso639-3": "guf"
+}

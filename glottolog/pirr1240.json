@@ -1,0 +1,76 @@
+{
+  "pk": 4068,
+  "hid": "xpa",
+  "father_pk": 2319,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Pirriya [pirr1240][xpa]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6796",
+        "label": "Pirriya"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Pirriya_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/pirr1240",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q16978087",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "9863",
+        "wordlist_or_less",
+        1990,
+        16,
+        "Gavan Breen 1990"
+      ],
+      [
+        "111743",
+        "wordlist_or_less",
+        1886,
+        6,
+        "Heagney, J. Fraser 1886"
+      ]
+    ]
+  },
+  "id": "pirr1240",
+  "name": "Pirriya",
+  "description": null,
+  "markup_description": null,
+  "latitude": -25.48006595,
+  "longitude": 142.5485119,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Karnic",
+      "id": "karn1253",
+      "url": "https://glottolog.org/resource/languoid/id/karn1253"
+    },
+    {
+      "name": "Pirriya-Kungkari",
+      "id": "pirr1239",
+      "url": "https://glottolog.org/resource/languoid/id/pirr1239"
+    }
+  ],
+  "iso639-3": "xpa"
+}

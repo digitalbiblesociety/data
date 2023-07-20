@@ -1,0 +1,90 @@
+{
+  "pk": 3809,
+  "hid": "zen",
+  "father_pk": 2139,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Zenaga [zena1248][zen]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/241",
+        "label": "Zenaga"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q37005",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Zenaga_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_zen",
+        "label": "Zenaga"
+      }
+    ],
+    "meds": [
+      [
+        "18333",
+        "grammar_sketch",
+        1953,
+        159,
+        "Nicolas, Francis 1953"
+      ],
+      [
+        "91396",
+        "grammar_sketch",
+        1909,
+        141,
+        "Basset, René 1909"
+      ],
+      [
+        "55751",
+        "grammar_sketch",
+        1877,
+        95,
+        "Le Faidherbe, Louis Léon César Général 1877"
+      ],
+      [
+        "48461",
+        "wordlist_or_less",
+        1854,
+        24,
+        "Faidherbe, Louis L.C. [Le Général] 1854"
+      ]
+    ]
+  },
+  "id": "zena1248",
+  "name": "Zenaga",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.82,
+  "longitude": -16.1711,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Berber",
+      "id": "berb1260",
+      "url": "https://glottolog.org/resource/languoid/id/berb1260"
+    },
+    {
+      "name": "Western Berber",
+      "id": "west2724",
+      "url": "https://glottolog.org/resource/languoid/id/west2724"
+    }
+  ],
+  "iso639-3": "zen"
+}

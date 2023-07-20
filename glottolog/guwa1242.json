@@ -1,0 +1,81 @@
+{
+  "pk": 6025,
+  "hid": "xgw",
+  "father_pk": 4032,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Guwa [guwa1242][xgw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6784",
+        "label": "Guwa"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5621992",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Guwa_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/guwa1242",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "309499",
+        "phonology_or_text",
+        1990,
+        19,
+        "Barry J. Blake and Gavan Breen 1990"
+      ],
+      [
+        "38821",
+        "wordlist_or_less",
+        1887,
+        2,
+        "Haines, John 1887"
+      ]
+    ]
+  },
+  "id": "guwa1242",
+  "name": "Guwa",
+  "description": null,
+  "markup_description": null,
+  "latitude": -21.35147706,
+  "longitude": 142.5243782,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Greater Maric",
+      "id": "grea1282",
+      "url": "https://glottolog.org/resource/languoid/id/grea1282"
+    },
+    {
+      "name": "Guwa-Maric",
+      "id": "guwa1245",
+      "url": "https://glottolog.org/resource/languoid/id/guwa1245"
+    },
+    {
+      "name": "Guwa-Yanda",
+      "id": "guwa1241",
+      "url": "https://glottolog.org/resource/languoid/id/guwa1241"
+    }
+  ],
+  "iso639-3": "xgw"
+}

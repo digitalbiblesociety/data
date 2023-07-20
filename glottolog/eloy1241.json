@@ -1,0 +1,77 @@
+{
+  "pk": 7178,
+  "hid": "afo",
+  "father_pk": 4897,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ambu Ajiri [mbam1247]':1,'Mbeki Ajiri [mbec1238]':1,'Riverside Ajiri [mbej1238]':1)'Ajiri [eloy1241][afo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3914066",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Eloyi_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/eloy1241",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "61875",
+        "wordlist_or_less",
+        1964,
+        8,
+        "Mackay, Hugh D. 1964"
+      ],
+      [
+        "7669",
+        "wordlist_or_less",
+        1955,
+        0,
+        "Forde, D. and P. Brown and R. G. Armstrong 1955"
+      ]
+    ]
+  },
+  "id": "eloy1241",
+  "name": "Ajiri",
+  "description": null,
+  "markup_description": null,
+  "latitude": 8.24696,
+  "longitude": 7.97061,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Benue-Congo Plateau",
+      "id": "benu1248",
+      "url": "https://glottolog.org/resource/languoid/id/benu1248"
+    }
+  ],
+  "iso639-3": "afo"
+}

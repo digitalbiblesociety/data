@@ -1,0 +1,85 @@
+{
+  "pk": 3474,
+  "hid": "khm",
+  "father_pk": 1855,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Middle Khmer [midd1376][xhm]':1,'Nuclear Central Khmer [nucl1298]':1,'Southern Khmer [sout2688]':1)'Central Khmer [cent1989][khm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_khm",
+        "label": "Khmer"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Khmer_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/cent1989",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q9205",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "304732",
+        "long_grammar",
+        1915,
+        497,
+        "Maspero, Georges 1915"
+      ],
+      [
+        "152620",
+        "grammar_sketch",
+        1902,
+        224,
+        "J. B. Bernard 1902"
+      ],
+      [
+        "45573",
+        "phonology_or_text",
+        1878,
+        436,
+        "Aymonier, Etienne François 1878"
+      ],
+      [
+        "38944",
+        "phonology_or_text",
+        1874,
+        162,
+        "Aymonier, E. 1874"
+      ]
+    ]
+  },
+  "id": "cent1989",
+  "name": "Central Khmer",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.0515,
+  "longitude": 105.015,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Khmeric",
+      "id": "khme1253",
+      "url": "https://glottolog.org/resource/languoid/id/khme1253"
+    }
+  ],
+  "iso639-3": "khm"
+}

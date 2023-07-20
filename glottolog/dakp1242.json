@@ -1,0 +1,107 @@
+{
+  "pk": 10275,
+  "hid": "dka",
+  "father_pk": 7378,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Dakpakha [dakp1242][dka]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4091",
+        "label": "Dakpa"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3695189",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Takpa_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/dakp1242",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "40427",
+        "grammar_sketch",
+        2002,
+        96,
+        "Lhama Wangchu 2002"
+      ],
+      [
+        "417900",
+        "wordlist_or_less",
+        1997,
+        11,
+        "Zhang, Jichuan 1997"
+      ],
+      [
+        "71062",
+        "wordlist_or_less",
+        1994,
+        5,
+        "Boyd Michailovsky and Martine Mazaudon 1994"
+      ],
+      [
+        "158152",
+        "wordlist_or_less",
+        1988,
+        14,
+        "Tatsuo Nishida 1988"
+      ],
+      [
+        "568726",
+        "wordlist_or_less",
+        1972,
+        32,
+        "Barthakur, J. K. 1972"
+      ]
+    ]
+  },
+  "id": "dakp1242",
+  "name": "Dakpakha",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.3762,
+  "longitude": 91.8245,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "Bodish",
+      "id": "bodi1257",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1257"
+    },
+    {
+      "name": "East Bodish",
+      "id": "main1269",
+      "url": "https://glottolog.org/resource/languoid/id/main1269"
+    },
+    {
+      "name": "Dakpa-Dzala",
+      "id": "dakp1241",
+      "url": "https://glottolog.org/resource/languoid/id/dakp1241"
+    }
+  ],
+  "iso639-3": "dka"
+}

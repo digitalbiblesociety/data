@@ -1,0 +1,93 @@
+{
+  "pk": 4466,
+  "hid": "kxh",
+  "father_pk": 2832,
+  "family_pk": 267,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Karo {Ethiopia} [karo1297][kxh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4462",
+        "label": "Karo (Ethiopia)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3447116",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Karo_language_(Ethiopia)",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "568165",
+        "grammar",
+        2018,
+        260,
+        "Alemgena, Belete 2018"
+      ],
+      [
+        "661571",
+        "grammar",
+        1999,
+        0,
+        "Gabas and Jr. and Nilson 1999"
+      ],
+      [
+        "148463",
+        "wordlist_or_less",
+        1991,
+        35,
+        "Hieda, Osamu 1991"
+      ],
+      [
+        "126960",
+        "wordlist_or_less",
+        1950,
+        3,
+        "Pauli, Elisabeth 1950"
+      ],
+      [
+        "85914",
+        "wordlist_or_less",
+        1927,
+        1,
+        "Rossini, Carlo Conti 1927"
+      ]
+    ]
+  },
+  "id": "karo1297",
+  "name": "Karo (Ethiopia)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.2101,
+  "longitude": 36.1709,
+  "classification": [
+    {
+      "name": "South Omotic",
+      "id": "sout2845",
+      "url": "https://glottolog.org/resource/languoid/id/sout2845"
+    },
+    {
+      "name": "AHK",
+      "id": "ahkk1235",
+      "url": "https://glottolog.org/resource/languoid/id/ahkk1235"
+    },
+    {
+      "name": "Hamer-Karo",
+      "id": "hame1241",
+      "url": "https://glottolog.org/resource/languoid/id/hame1241"
+    }
+  ],
+  "iso639-3": "kxh"
+}

@@ -1,0 +1,116 @@
+{
+  "pk": 5620,
+  "hid": "lit",
+  "father_pk": 3711,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Dzukish [dzuk1239]':1,'East Aukštaitian [east2281]':1,'Suvalkietiskai [suva1238]':1)'Aukshtaitish [auks1239]':1,'Old Lithuanian [oldl1240][olt]':1,('North Samogitian [nort2613]':1,'South Samogitian [sout2619]':1,'West Samogitian [west2347]':1)'Samogitian [samo1265][sgs]':1)'Lithuanian [lith1251][lit]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 9,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_lit",
+        "label": "Lithuanian"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lithuanian_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/lith1251",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q9083",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "555334",
+        "long_grammar",
+        2006,
+        804,
+        "Ambrazas Vytautas and Geniušienė, Emma and Girdenis, Aleksas and Sližienė, Nijolė and Tekorienė, Dalija and Valeckienė, Adelė and Valiulytė, Elena 2006"
+      ],
+      [
+        "139264",
+        "long_grammar",
+        1997,
+        802,
+        "Ambrazas Vytautas 1997"
+      ],
+      [
+        "144539",
+        "long_grammar",
+        1980,
+        479,
+        "Dambriunas, Leonardas and Klimas, Antanas and Schmalstieg, William R. 1980"
+      ],
+      [
+        "31781",
+        "grammar",
+        1977,
+        274,
+        "Mo, Chien Ching 1977"
+      ],
+      [
+        "33599",
+        "grammar",
+        1966,
+        28,
+        "Ambrazas, V. and Vajtkavichjute, V. and Valjatskene, A. and Morkunas, K. and Sabaljauskas, A. and Ul'vidas, K. 1966"
+      ],
+      [
+        "120735",
+        "phonology_or_text",
+        1919,
+        332,
+        "Leskien, August 1919"
+      ],
+      [
+        "314782",
+        "wordlist_or_less",
+        1854,
+        105,
+        "Bopp, Franz 1854"
+      ]
+    ]
+  },
+  "id": "lith1251",
+  "name": "Lithuanian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 55.1429,
+  "longitude": 23.9601,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Balto-Slavic",
+      "id": "balt1263",
+      "url": "https://glottolog.org/resource/languoid/id/balt1263"
+    },
+    {
+      "name": "Eastern Baltic",
+      "id": "east2280",
+      "url": "https://glottolog.org/resource/languoid/id/east2280"
+    }
+  ],
+  "iso639-3": "lit"
+}

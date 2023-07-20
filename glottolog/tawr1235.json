@@ -1,0 +1,78 @@
+{
+  "pk": 10235,
+  "hid": "tcp",
+  "father_pk": 7356,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Laamtuk Thet [tawr1235][tcp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7689338",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tawr_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "310589",
+        "wordlist_or_less",
+        2009,
+        63,
+        "Kenneth VanBik 2009"
+      ],
+      [
+        "118249",
+        "wordlist_or_less",
+        2006,
+        61,
+        "Kenneth VanBik 2006"
+      ]
+    ]
+  },
+  "id": "tawr1235",
+  "name": "Laamtuk Thet",
+  "description": null,
+  "markup_description": null,
+  "latitude": 22.4996,
+  "longitude": 94.0957,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Kuki-Chin",
+      "id": "kuki1246",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1246"
+    },
+    {
+      "name": "Central Kuki-Chin",
+      "id": "cent2330",
+      "url": "https://glottolog.org/resource/languoid/id/cent2330"
+    },
+    {
+      "name": "Core Central Kuki-Chin",
+      "id": "cent2005",
+      "url": "https://glottolog.org/resource/languoid/id/cent2005"
+    }
+  ],
+  "iso639-3": "tcp"
+}

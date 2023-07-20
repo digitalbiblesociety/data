@@ -1,0 +1,105 @@
+{
+  "pk": 16602,
+  "hid": "frr",
+  "father_pk": 14013,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "((('Amrum [amru1234]':1,('Aasdring [aasd1234]':1,'Weesdring [wees1234]':1)'Ferring [ferr1240]':1)'Föhr-Amrum [fohr1234]':1,'Helgoland [helg1238]':1,'Sölreng [solr1238]':1)'Insular Northern Frisian [insu1255]':1,(('Ostermooring [oste1243]':1,'Westermooring [west2910]':1)'Bökingharde [moor1245]':1,'Hallingen [hall1241]':1,'Karrharde [karr1238]':1,'Norder-Mittelgoesharde [nord1237]':1,'Wiedingharde [wied1234]':1)'Mainland Northern Frisian [main1285]':1)'Northern Frisian [nort2626][frr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 16,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_fno",
+        "label": "Frisian (North)"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/3283",
+        "label": "Northern Frisian"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/North_Frisian_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nort2626",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q28224",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "49843",
+        "long_grammar",
+        1860,
+        532,
+        "Bende Bendsen 1860"
+      ],
+      [
+        "320485",
+        "grammar",
+        1825,
+        174,
+        "Rask, Rasmus 1825"
+      ]
+    ]
+  },
+  "id": "nort2626",
+  "name": "Northern Frisian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 54.6409,
+  "longitude": 8.58489,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Germanic",
+      "id": "germ1287",
+      "url": "https://glottolog.org/resource/languoid/id/germ1287"
+    },
+    {
+      "name": "Northwest Germanic",
+      "id": "nort3152",
+      "url": "https://glottolog.org/resource/languoid/id/nort3152"
+    },
+    {
+      "name": "West Germanic",
+      "id": "west2793",
+      "url": "https://glottolog.org/resource/languoid/id/west2793"
+    },
+    {
+      "name": "North Sea Germanic",
+      "id": "nort3175",
+      "url": "https://glottolog.org/resource/languoid/id/nort3175"
+    },
+    {
+      "name": "Anglo-Frisian",
+      "id": "angl1264",
+      "url": "https://glottolog.org/resource/languoid/id/angl1264"
+    },
+    {
+      "name": "Frisian",
+      "id": "fris1239",
+      "url": "https://glottolog.org/resource/languoid/id/fris1239"
+    }
+  ],
+  "iso639-3": "frr"
+}

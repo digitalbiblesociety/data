@@ -1,0 +1,113 @@
+{
+  "pk": 14271,
+  "hid": "ndm",
+  "father_pk": 11192,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ndam Dik [ndam1252]':1,'Ndam-Ndam [ndam1253]':1)'Ndam [ndam1251][ndm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4590",
+        "label": "Ndam"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56283",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ndam_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "309107",
+        "grammar_sketch",
+        1988,
+        118,
+        "Broß, Michael 1988"
+      ],
+      [
+        "19688",
+        "wordlist_or_less",
+        1912,
+        6,
+        "Benton, Philip A. 1912"
+      ],
+      [
+        "17699",
+        "wordlist_or_less",
+        1907,
+        2,
+        "Gaudefroy-Demombynes, Maurice 1907"
+      ],
+      [
+        "570410",
+        "wordlist_or_less",
+        1906,
+        94,
+        "Decorse, J. 1906"
+      ],
+      [
+        "29527",
+        "wordlist_or_less",
+        1905,
+        4,
+        "Bruel, Georges 1905"
+      ]
+    ]
+  },
+  "id": "ndam1251",
+  "name": "Ndam",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.79369,
+  "longitude": 17.326,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "East Chadic",
+      "id": "east2632",
+      "url": "https://glottolog.org/resource/languoid/id/east2632"
+    },
+    {
+      "name": "East Chadic A",
+      "id": "east2640",
+      "url": "https://glottolog.org/resource/languoid/id/east2640"
+    },
+    {
+      "name": "East Chadic A.1",
+      "id": "east2775",
+      "url": "https://glottolog.org/resource/languoid/id/east2775"
+    },
+    {
+      "name": "Sumrayic",
+      "id": "east2643",
+      "url": "https://glottolog.org/resource/languoid/id/east2643"
+    },
+    {
+      "name": "Ndam-Tumak",
+      "id": "ndam1255",
+      "url": "https://glottolog.org/resource/languoid/id/ndam1255"
+    }
+  ],
+  "iso639-3": "ndm"
+}

@@ -1,0 +1,82 @@
+{
+  "pk": 8204,
+  "hid": "sjs",
+  "father_pk": 5757,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ayt Bunsar [aytb1234]':1,'Ayt Hmed [ayth1234]':1,'Ayt Mezduy [aytm1234]':1,'Ayt Seddat [ayts1234]':1,'Ketama [keta1244]':1,'Taghzut [tagh1234]':1,'Zerqet [zerq1234]':1)'Senhaja De Srair [senh1238][sjs]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/8489",
+        "label": "Senhaja de Srair"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56744",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sanhaja_de_Srair_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "587382",
+        "long_grammar",
+        2021,
+        792,
+        "Evgeniya Gutova 2021"
+      ],
+      [
+        "98022",
+        "grammar_sketch",
+        1932,
+        53,
+        "Renisio, Amédé 1932"
+      ]
+    ]
+  },
+  "id": "senh1238",
+  "name": "Senhaja De Srair",
+  "description": null,
+  "markup_description": null,
+  "latitude": 34.9992,
+  "longitude": -4.51293,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Berber",
+      "id": "berb1260",
+      "url": "https://glottolog.org/resource/languoid/id/berb1260"
+    },
+    {
+      "name": "Kabyle-Atlas Berber",
+      "id": "kaby1244",
+      "url": "https://glottolog.org/resource/languoid/id/kaby1244"
+    },
+    {
+      "name": "Atlas Berber",
+      "id": "atla1275",
+      "url": "https://glottolog.org/resource/languoid/id/atla1275"
+    },
+    {
+      "name": "Northwestern Moroccan Berber",
+      "id": "nort3248",
+      "url": "https://glottolog.org/resource/languoid/id/nort3248"
+    }
+  ],
+  "iso639-3": "sjs"
+}

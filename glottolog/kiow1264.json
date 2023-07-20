@@ -1,0 +1,84 @@
+{
+  "pk": 6422,
+  "hid": "apk",
+  "father_pk": 4391,
+  "family_pk": 238,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kiowa Apache [kiow1264][apk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/653",
+        "label": "Kiowa Apache"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q27861",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Plains_Apache_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "318433",
+        "grammar_sketch",
+        1956,
+        92,
+        "Bittle, William E. 1956"
+      ],
+      [
+        "167146",
+        "grammar_sketch",
+        1951,
+        0,
+        "Bittle, William 1951"
+      ],
+      [
+        "574810",
+        "wordlist_or_less",
+        1937,
+        73,
+        "Mcallister, J. G. 1937"
+      ]
+    ]
+  },
+  "id": "kiow1264",
+  "name": "Kiowa Apache",
+  "description": null,
+  "markup_description": null,
+  "latitude": 34.9077,
+  "longitude": -98.2461,
+  "classification": [
+    {
+      "name": "Athabaskan-Eyak-Tlingit",
+      "id": "atha1245",
+      "url": "https://glottolog.org/resource/languoid/id/atha1245"
+    },
+    {
+      "name": "Athabaskan-Eyak",
+      "id": "atha1246",
+      "url": "https://glottolog.org/resource/languoid/id/atha1246"
+    },
+    {
+      "name": "Athabaskan",
+      "id": "atha1247",
+      "url": "https://glottolog.org/resource/languoid/id/atha1247"
+    },
+    {
+      "name": "Apachean",
+      "id": "apac1239",
+      "url": "https://glottolog.org/resource/languoid/id/apac1239"
+    }
+  ],
+  "iso639-3": "apk"
+}

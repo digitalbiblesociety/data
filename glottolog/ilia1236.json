@@ -1,0 +1,100 @@
+{
+  "pk": 17388,
+  "hid": "mbi",
+  "father_pk": 15035,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Arkan Valley [arka1238]':1,'Livunganen [livu1240]':1,'Puleniyan [pule1237]':1)'Ilianen Manobo [ilia1236][mbi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Ilianen_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q14916911",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "29566",
+        "grammar_sketch",
+        1971,
+        110,
+        "Wrigglesworth, Hazel J. 1971"
+      ],
+      [
+        "23223",
+        "phonology_or_text",
+        1963,
+        10,
+        "Brichoux, Felicia and Brichoux, Robert 1963"
+      ],
+      [
+        "163342",
+        "wordlist_or_less",
+        1959,
+        44,
+        "na 1959"
+      ]
+    ]
+  },
+  "id": "ilia1236",
+  "name": "Ilianen Manobo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.34448,
+  "longitude": 124.766,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Greater Central Philippine",
+      "id": "grea1284",
+      "url": "https://glottolog.org/resource/languoid/id/grea1284"
+    },
+    {
+      "name": "Manobo",
+      "id": "mano1276",
+      "url": "https://glottolog.org/resource/languoid/id/mano1276"
+    },
+    {
+      "name": "Central and Southern Manobo",
+      "id": "cent2255",
+      "url": "https://glottolog.org/resource/languoid/id/cent2255"
+    },
+    {
+      "name": "East-West-Central Manobo",
+      "id": "east2778",
+      "url": "https://glottolog.org/resource/languoid/id/east2778"
+    },
+    {
+      "name": "West Manobo",
+      "id": "west2829",
+      "url": "https://glottolog.org/resource/languoid/id/west2829"
+    },
+    {
+      "name": "WBM-Livunganen-Ilianen",
+      "id": "west2554",
+      "url": "https://glottolog.org/resource/languoid/id/west2554"
+    }
+  ],
+  "iso639-3": "mbi"
+}

@@ -1,0 +1,156 @@
+{
+  "pk": 24566,
+  "hid": "kin",
+  "father_pk": 23473,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bufumbwa [bufu1238]':1,'Bwisha [bwis1241]':1,'Hutu [hutu1238]':1,'Igikiga [igik1238]':1,'Mulenge [mule1238]':1,'Rufumbira [rufu1238]':1,'Rutwa [rutw1238]':1)'Kinyarwanda [kiny1244][kin]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kin",
+        "label": "Kinyarwanda"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kinyarwanda",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kiny1244",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33573",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "116962",
+        "long_grammar",
+        1995,
+        915,
+        "Nkusi, Laurent 1995"
+      ],
+      [
+        "68731",
+        "long_grammar",
+        1980,
+        595,
+        "Coupez, André 1980"
+      ],
+      [
+        "95653",
+        "grammar",
+        1931,
+        265,
+        "Hurel, Eugène 1931"
+      ],
+      [
+        "124800",
+        "grammar",
+        1920,
+        159,
+        "Hurel, [Révérend] [Père] Eugène 1920"
+      ],
+      [
+        "92651",
+        "grammar_sketch",
+        1911,
+        159,
+        "Hurel, Eugène 1911"
+      ],
+      [
+        "58624",
+        "wordlist_or_less",
+        1904,
+        13,
+        "Johnston, Harry 1904"
+      ],
+      [
+        "87100",
+        "wordlist_or_less",
+        1885,
+        2,
+        "Keane, A. H. 1885"
+      ]
+    ]
+  },
+  "id": "kiny1244",
+  "name": "Kinyarwanda",
+  "description": null,
+  "markup_description": null,
+  "latitude": -1.56771,
+  "longitude": 29.6441,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Narrow Bantu",
+      "id": "narr1281",
+      "url": "https://glottolog.org/resource/languoid/id/narr1281"
+    },
+    {
+      "name": "East Bantu",
+      "id": "east2731",
+      "url": "https://glottolog.org/resource/languoid/id/east2731"
+    },
+    {
+      "name": "Northeast Savanna Bantu",
+      "id": "nort3203",
+      "url": "https://glottolog.org/resource/languoid/id/nort3203"
+    },
+    {
+      "name": "Great Lakes Bantu",
+      "id": "grea1289",
+      "url": "https://glottolog.org/resource/languoid/id/grea1289"
+    },
+    {
+      "name": "Western Lakes Bantu",
+      "id": "west2842",
+      "url": "https://glottolog.org/resource/languoid/id/west2842"
+    },
+    {
+      "name": "Kivu",
+      "id": "kivu1239",
+      "url": "https://glottolog.org/resource/languoid/id/kivu1239"
+    },
+    {
+      "name": "West Highlands Kivu",
+      "id": "rwan1241",
+      "url": "https://glottolog.org/resource/languoid/id/rwan1241"
+    }
+  ],
+  "iso639-3": "kin"
+}

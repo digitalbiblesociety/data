@@ -1,0 +1,96 @@
+{
+  "pk": 9090,
+  "hid": "kue",
+  "father_pk": 6585,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Nagane [naga1404]':1,'Nuclear Kuman [nucl1618]':1,'Yongomugi [yong1281]':1)'Kuman [kuma1280][kue]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kmn",
+        "label": "Kuman"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kuman_language_(New_Guinea)",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q137525",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "586111",
+        "grammar",
+        1966,
+        166,
+        "Bergmann, W. 1966"
+      ],
+      [
+        "158085",
+        "grammar",
+        1953,
+        158,
+        "Bergmann, H.F.W. 1953"
+      ],
+      [
+        "15483",
+        "wordlist_or_less",
+        1948,
+        1,
+        "Arthur Capell 1948-1949"
+      ],
+      [
+        "100477",
+        "wordlist_or_less",
+        1935,
+        1,
+        "Michael J. Leahy 1935"
+      ]
+    ]
+  },
+  "id": "kuma1280",
+  "name": "Kuman",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.90586,
+  "longitude": 144.977,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Chimbu-Wahgi",
+      "id": "cent2120",
+      "url": "https://glottolog.org/resource/languoid/id/cent2120"
+    },
+    {
+      "name": "Simbu",
+      "id": "simb1258",
+      "url": "https://glottolog.org/resource/languoid/id/simb1258"
+    },
+    {
+      "name": "Nuclear Simbu",
+      "id": "nucl1617",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1617"
+    },
+    {
+      "name": "Kuman-Dom-Gunaa",
+      "id": "kuma1279",
+      "url": "https://glottolog.org/resource/languoid/id/kuma1279"
+    }
+  ],
+  "iso639-3": "kue"
+}

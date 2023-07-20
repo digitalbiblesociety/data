@@ -1,0 +1,110 @@
+{
+  "pk": 16282,
+  "hid": "pcc",
+  "father_pk": 13505,
+  "family_pk": 356,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Giay [giay1234]':1,'Hezhang Buyi [hezh1245]':1,'Qiannan [qian1265]':1,'Qianxi [qian1260]':1,'Qianzhong [qian1266]':1)'Bouyei [bouy1240][pcc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q35100",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bouyei_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/bouy1240",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_yay",
+        "label": "Yay"
+      }
+    ],
+    "meds": [
+      [
+        "557485",
+        "grammar",
+        2018,
+        263,
+        "Wil Snyder 2018"
+      ],
+      [
+        "318309",
+        "grammar",
+        2012,
+        254,
+        "Attasith Boonsawasd 2012"
+      ],
+      [
+        "146588",
+        "grammar",
+        1980,
+        105,
+        "Yu, Cuirong 1980"
+      ],
+      [
+        "40082",
+        "grammar_sketch",
+        1908,
+        371,
+        "Joseph Esquirol and Gustave Williatte 1908"
+      ]
+    ]
+  },
+  "id": "bouy1240",
+  "name": "Bouyei",
+  "description": null,
+  "markup_description": null,
+  "latitude": 24.8484,
+  "longitude": 106.187,
+  "classification": [
+    {
+      "name": "Tai-Kadai",
+      "id": "taik1256",
+      "url": "https://glottolog.org/resource/languoid/id/taik1256"
+    },
+    {
+      "name": "Kam-Tai",
+      "id": "kamt1241",
+      "url": "https://glottolog.org/resource/languoid/id/kamt1241"
+    },
+    {
+      "name": "Daic-Beic",
+      "id": "daic1238",
+      "url": "https://glottolog.org/resource/languoid/id/daic1238"
+    },
+    {
+      "name": "Daic",
+      "id": "daic1237",
+      "url": "https://glottolog.org/resource/languoid/id/daic1237"
+    },
+    {
+      "name": "Northern Daic-Sek",
+      "id": "nort3326",
+      "url": "https://glottolog.org/resource/languoid/id/nort3326"
+    },
+    {
+      "name": "Northern Daic",
+      "id": "nort3180",
+      "url": "https://glottolog.org/resource/languoid/id/nort3180"
+    },
+    {
+      "name": "Northern Tai",
+      "id": "nort3189",
+      "url": "https://glottolog.org/resource/languoid/id/nort3189"
+    }
+  ],
+  "iso639-3": "pcc"
+}

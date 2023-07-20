@@ -1,0 +1,93 @@
+{
+  "pk": 9945,
+  "hid": "ige",
+  "father_pk": 7169,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Gabu [gabu1246]':1,'Ito {Igede} [itoo1241]':1,'Oju [ojuu1238]':1,'Worku [work1238]':1)'Igede [iged1239][ige]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q35420",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Igede_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/iged1239",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ige",
+        "label": "Igede"
+      }
+    ],
+    "meds": [
+      [
+        "131311",
+        "grammar_sketch",
+        1981,
+        64,
+        "Bergman, Richard 1981"
+      ],
+      [
+        "111086",
+        "grammar_sketch",
+        1967,
+        0,
+        "Bergman, Richard 1967"
+      ],
+      [
+        "130652",
+        "wordlist_or_less",
+        1955,
+        11,
+        "Armstrong, Robert Gelston 1955"
+      ]
+    ]
+  },
+  "id": "iged1239",
+  "name": "Igede",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.95522,
+  "longitude": 8.27362,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Idomoid",
+      "id": "idom1262",
+      "url": "https://glottolog.org/resource/languoid/id/idom1262"
+    },
+    {
+      "name": "Akweya",
+      "id": "etul1244",
+      "url": "https://glottolog.org/resource/languoid/id/etul1244"
+    }
+  ],
+  "iso639-3": "ige"
+}

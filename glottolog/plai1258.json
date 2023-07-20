@@ -1,0 +1,105 @@
+{
+  "pk": 11663,
+  "hid": "crk",
+  "father_pk": 8791,
+  "family_pk": 178,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Northern Alberta Cree [nort2960]':1,'Nuclear Plains Cree [nucl1654]':1,'Western York Cree [west2629]':1)'Plains Cree [plai1258][crk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_cre",
+        "label": "Cree (Plains)"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/9011",
+        "label": "Nēhiyawēwin"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Plains_Cree_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56699",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "117113",
+        "long_grammar",
+        2011,
+        453,
+        "Arok Elessar Wolvengrey 2011"
+      ],
+      [
+        "36233",
+        "grammar",
+        1969,
+        289,
+        "Wolfart, Hans Christoph 1969"
+      ],
+      [
+        "164108",
+        "grammar",
+        1874,
+        193,
+        "Albert Lacombe 1874"
+      ],
+      [
+        "151655",
+        "phonology_or_text",
+        1872,
+        736,
+        "Lacombe, Albert 1872"
+      ]
+    ]
+  },
+  "id": "plai1258",
+  "name": "Plains Cree",
+  "description": null,
+  "markup_description": null,
+  "latitude": 51.2437,
+  "longitude": -110.463,
+  "classification": [
+    {
+      "name": "Algic",
+      "id": "algi1248",
+      "url": "https://glottolog.org/resource/languoid/id/algi1248"
+    },
+    {
+      "name": "Algonquian-Blackfoot",
+      "id": "algo1256",
+      "url": "https://glottolog.org/resource/languoid/id/algo1256"
+    },
+    {
+      "name": "Algonquian",
+      "id": "algo1257",
+      "url": "https://glottolog.org/resource/languoid/id/algo1257"
+    },
+    {
+      "name": "Cree-Montagnais-Naskapi",
+      "id": "cree1271",
+      "url": "https://glottolog.org/resource/languoid/id/cree1271"
+    },
+    {
+      "name": "Cree",
+      "id": "cree1272",
+      "url": "https://glottolog.org/resource/languoid/id/cree1272"
+    },
+    {
+      "name": "Plains Creeic",
+      "id": "plai1264",
+      "url": "https://glottolog.org/resource/languoid/id/plai1264"
+    }
+  ],
+  "iso639-3": "crk"
+}

@@ -1,0 +1,85 @@
+{
+  "pk": 9262,
+  "hid": "kzp",
+  "father_pk": 6749,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bolaang Itang [bola1251]':1,'Kaidipan [kaid1240]':1)'Kaidipang [kaid1239][kzp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6347611",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kaidipang_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "48771",
+        "grammar_sketch",
+        1979,
+        187,
+        "Usup, Hunggu Tadjuddin and Henkie Rompas and A. Tallei-Pinontoan and G. Karim-Bachrnid 1979"
+      ],
+      [
+        "106020",
+        "phonology_or_text",
+        1971,
+        274,
+        "Usup, Hunggu Tadjuddin 1971"
+      ],
+      [
+        "61578",
+        "wordlist_or_less",
+        1855,
+        2,
+        "Jansen, A.J.F. 1855"
+      ]
+    ]
+  },
+  "id": "kaid1239",
+  "name": "Kaidipang",
+  "description": null,
+  "markup_description": null,
+  "latitude": 0.85641,
+  "longitude": 123.217,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Greater Central Philippine",
+      "id": "grea1284",
+      "url": "https://glottolog.org/resource/languoid/id/grea1284"
+    },
+    {
+      "name": "Gorontalo-Mongondow",
+      "id": "goro1257",
+      "url": "https://glottolog.org/resource/languoid/id/goro1257"
+    },
+    {
+      "name": "Gorontalic",
+      "id": "goro1273",
+      "url": "https://glottolog.org/resource/languoid/id/goro1273"
+    }
+  ],
+  "iso639-3": "kzp"
+}

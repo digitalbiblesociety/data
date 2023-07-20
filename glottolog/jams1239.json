@@ -1,0 +1,78 @@
+{
+  "pk": 2156,
+  "hid": "djm",
+  "father_pk": 986,
+  "family_pk": 117,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bama [bama1252]':1,'Domno [domn1238]':1,'Gono [gono1238]':1,'Guru {Mali} [guru1265]':1,'Perge Tegu [perg1234]':1)'Jamsay Dogon [jams1239][djm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3913290",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Jamsai_Dogon",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/jams1239",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_jms",
+        "label": "Jamsay"
+      }
+    ],
+    "meds": [
+      [
+        "27536",
+        "long_grammar",
+        2008,
+        755,
+        "Heath, Jeffrey 2008"
+      ],
+      [
+        "301913",
+        "phonology_or_text",
+        1988,
+        322,
+        "Ongoïba, Oumarou-Samba 1988"
+      ],
+      [
+        "70852",
+        "wordlist_or_less",
+        1953,
+        2,
+        "Bertho, J. 1953"
+      ]
+    ]
+  },
+  "id": "jams1239",
+  "name": "Jamsay Dogon",
+  "description": null,
+  "markup_description": null,
+  "latitude": 14.1794,
+  "longitude": -2.57999,
+  "classification": [
+    {
+      "name": "Dogon",
+      "id": "dogo1299",
+      "url": "https://glottolog.org/resource/languoid/id/dogo1299"
+    },
+    {
+      "name": "Plains Dogon",
+      "id": "plai1257",
+      "url": "https://glottolog.org/resource/languoid/id/plai1257"
+    }
+  ],
+  "iso639-3": "djm"
+}

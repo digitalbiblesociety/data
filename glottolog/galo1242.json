@@ -1,0 +1,102 @@
+{
+  "pk": 13195,
+  "hid": "adl",
+  "father_pk": 10129,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Galo [galo1242][adl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5631",
+        "label": "Galo"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_gal",
+        "label": "Galo"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Gallong_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/galo1242",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2857892",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "150035",
+        "long_grammar",
+        2007,
+        947,
+        "Mark Post 2007"
+      ],
+      [
+        "120780",
+        "grammar_sketch",
+        1963,
+        130,
+        "Das Gupta, Kamalesh 1963"
+      ],
+      [
+        "323848",
+        "wordlist_or_less",
+        1962,
+        140,
+        "Srivastava, L. R. N. 1962"
+      ]
+    ]
+  },
+  "id": "galo1242",
+  "name": "Galo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.9805586,
+  "longitude": 94.6884956,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Macro-Tani",
+      "id": "macr1268",
+      "url": "https://glottolog.org/resource/languoid/id/macr1268"
+    },
+    {
+      "name": "Tani",
+      "id": "tani1259",
+      "url": "https://glottolog.org/resource/languoid/id/tani1259"
+    },
+    {
+      "name": "Pre-Western Tani",
+      "id": "prew1234",
+      "url": "https://glottolog.org/resource/languoid/id/prew1234"
+    },
+    {
+      "name": "Western Tani",
+      "id": "west2797",
+      "url": "https://glottolog.org/resource/languoid/id/west2797"
+    },
+    {
+      "name": "Subansiri",
+      "id": "suba1255",
+      "url": "https://glottolog.org/resource/languoid/id/suba1255"
+    }
+  ],
+  "iso639-3": "adl"
+}

@@ -1,0 +1,78 @@
+{
+  "pk": 2477,
+  "hid": "chc",
+  "father_pk": 1189,
+  "family_pk": 201,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Catawba [cata1286][chc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1681",
+        "label": "Catawba"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5051602",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Catawba_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ctw",
+        "label": "Catawba"
+      }
+    ],
+    "meds": [
+      [
+        "51503",
+        "grammar_sketch",
+        1900,
+        23,
+        "Albert S. Gatschet 1900"
+      ],
+      [
+        "65885",
+        "wordlist_or_less",
+        1858,
+        18,
+        "Lieber, Oscar Montgomery 1858"
+      ],
+      [
+        "33801",
+        "wordlist_or_less",
+        1816,
+        10,
+        "Johann Christoph Adelung and Johann Severin Vater 1816"
+      ]
+    ]
+  },
+  "id": "cata1286",
+  "name": "Catawba",
+  "description": null,
+  "markup_description": null,
+  "latitude": 34.9685,
+  "longitude": -80.8857,
+  "classification": [
+    {
+      "name": "Siouan",
+      "id": "siou1252",
+      "url": "https://glottolog.org/resource/languoid/id/siou1252"
+    },
+    {
+      "name": "Catawban",
+      "id": "cata1285",
+      "url": "https://glottolog.org/resource/languoid/id/cata1285"
+    }
+  ],
+  "iso639-3": "chc"
+}

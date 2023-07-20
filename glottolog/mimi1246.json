@@ -1,0 +1,62 @@
+{
+  "pk": 693,
+  "hid": "miv",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Mimi [mimi1246][miv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "miv",
+      "name": "Mimi",
+      "change_request": "2007-191",
+      "effective": "2008-01-14",
+      "reason": "merge",
+      "change_to": [
+        "amj"
+      ],
+      "remedy": "Merge into Amdang [amj]",
+      "comment": "During a sociolinguistic survey in November 2004 we visited the people group\nknown in Chad as Mimi. They call themselves Amdang and their language Amdangti.\nThere was no evidence of other Mimi populations and other Mimi dialects. The\npopulation figure of both Mimi and Amdang as recorded in the Ethnologue 15th ed.\nis roughly 40,000, but these appear to be the same 40,000. I suggest collapsing\nthe entries for amj and miv into amj, thus calling the Mimi language of Chad\n\"Amdang\"."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6862203",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mimi_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500778",
+        "wordlist_or_less",
+        2007,
+        0,
+        "ISO 639-3 Registration Authority 2007"
+      ]
+    ]
+  },
+  "id": "mimi1246",
+  "name": "Mimi",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "miv"
+}

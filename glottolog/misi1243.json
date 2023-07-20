@@ -1,0 +1,107 @@
+{
+  "pk": 17600,
+  "hid": "mpx",
+  "father_pk": 15237,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Nasikwabw [nasi1246]':1,'Tewatewa [tewa1259]':1)'Misima-Paneati [misi1243][mpx]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Misima_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6875666",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "318392",
+        "grammar_sketch",
+        1894,
+        15,
+        "S. B. Fellows 1894"
+      ],
+      [
+        "309880",
+        "wordlist_or_less",
+        1892,
+        5,
+        "J. P. Thomson 1892"
+      ],
+      [
+        "57662",
+        "wordlist_or_less",
+        1891,
+        4,
+        "Zöller, Hugo 1891"
+      ],
+      [
+        "83217",
+        "wordlist_or_less",
+        1890,
+        3,
+        "MacGregor, William 1890"
+      ]
+    ]
+  },
+  "id": "misi1243",
+  "name": "Misima-Paneati",
+  "description": null,
+  "markup_description": null,
+  "latitude": -10.6821,
+  "longitude": 152.696,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Western Oceanic linkage",
+      "id": "west2818",
+      "url": "https://glottolog.org/resource/languoid/id/west2818"
+    },
+    {
+      "name": "Papuan Tip linkage",
+      "id": "papu1253",
+      "url": "https://glottolog.org/resource/languoid/id/papu1253"
+    },
+    {
+      "name": "Peripheral Papuan Tip linkage",
+      "id": "peri1258",
+      "url": "https://glottolog.org/resource/languoid/id/peri1258"
+    },
+    {
+      "name": "Kilivila-Misima",
+      "id": "kili1270",
+      "url": "https://glottolog.org/resource/languoid/id/kili1270"
+    }
+  ],
+  "iso639-3": "mpx"
+}

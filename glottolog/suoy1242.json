@@ -1,0 +1,84 @@
+{
+  "pk": 7686,
+  "hid": "syo",
+  "father_pk": 5321,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Suoy [suoy1242][syo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1220",
+        "label": "Suoy"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Suoy_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7641864",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "103655",
+        "wordlist_or_less",
+        1985,
+        2,
+        "Headley, Jr., Robert K. 1985"
+      ],
+      [
+        "153047",
+        "wordlist_or_less",
+        1978,
+        2,
+        "Headley, Jr., Robert K. 1978"
+      ],
+      [
+        "313226",
+        "wordlist_or_less",
+        1975,
+        1,
+        "Martin, Marie A. 1975"
+      ]
+    ]
+  },
+  "id": "suoy1242",
+  "name": "Suoy",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.936,
+  "longitude": 104.136,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Pearic",
+      "id": "pear1246",
+      "url": "https://glottolog.org/resource/languoid/id/pear1246"
+    },
+    {
+      "name": "Western Pearic",
+      "id": "west2394",
+      "url": "https://glottolog.org/resource/languoid/id/west2394"
+    },
+    {
+      "name": "Southern Chong",
+      "id": "sout2684",
+      "url": "https://glottolog.org/resource/languoid/id/sout2684"
+    }
+  ],
+  "iso639-3": "syo"
+}

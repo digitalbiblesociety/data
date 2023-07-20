@@ -1,0 +1,73 @@
+{
+  "pk": 2159,
+  "hid": "dds",
+  "father_pk": 987,
+  "family_pk": 117,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Donno So Dogon [donn1239][dds]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_dds",
+        "label": "Donno So"
+      }
+    ],
+    "meds": [
+      [
+        "321649",
+        "long_grammar",
+        2014,
+        439,
+        "Heath, Jeffrey 2014"
+      ],
+      [
+        "30293",
+        "grammar",
+        1969,
+        176,
+        "Kervran, Marcel and Prost, André 1969"
+      ],
+      [
+        "32619",
+        "grammar_sketch",
+        1921,
+        74,
+        "Arnaud, Robert 1921"
+      ],
+      [
+        "67460",
+        "wordlist_or_less",
+        1912,
+        0,
+        "Barth, Heinrich 1912"
+      ]
+    ]
+  },
+  "id": "donn1239",
+  "name": "Donno So Dogon",
+  "description": null,
+  "markup_description": null,
+  "latitude": 14.34019,
+  "longitude": -3.51468,
+  "classification": [
+    {
+      "name": "Dogon",
+      "id": "dogo1299",
+      "url": "https://glottolog.org/resource/languoid/id/dogo1299"
+    },
+    {
+      "name": "Escarpment Dogon",
+      "id": "esca1235",
+      "url": "https://glottolog.org/resource/languoid/id/esca1235"
+    }
+  ],
+  "iso639-3": "dds"
+}

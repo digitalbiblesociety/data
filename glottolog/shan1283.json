@@ -1,0 +1,90 @@
+{
+  "pk": 11805,
+  "hid": "swo",
+  "father_pk": 8991,
+  "family_pk": 273,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Shanenawa [shan1283][swo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4014",
+        "label": "Shanenawa"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q61974839",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "159604",
+        "grammar",
+        2004,
+        290,
+        "Gláucia Vieira Cândido 2004"
+      ],
+      [
+        "60517",
+        "phonology_or_text",
+        1998,
+        141,
+        "Cândido, Gláucia Vieira 1998"
+      ],
+      [
+        "161469",
+        "wordlist_or_less",
+        1963,
+        1,
+        "Čestmír Loukotka 1963"
+      ]
+    ]
+  },
+  "id": "shan1283",
+  "name": "Shanenawa",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.00919,
+  "longitude": -73.3264,
+  "classification": [
+    {
+      "name": "Pano-Tacanan",
+      "id": "pano1259",
+      "url": "https://glottolog.org/resource/languoid/id/pano1259"
+    },
+    {
+      "name": "Panoan",
+      "id": "pano1256",
+      "url": "https://glottolog.org/resource/languoid/id/pano1256"
+    },
+    {
+      "name": "Mainline Pano",
+      "id": "main1279",
+      "url": "https://glottolog.org/resource/languoid/id/main1279"
+    },
+    {
+      "name": "Pano Nawa",
+      "id": "pano1257",
+      "url": "https://glottolog.org/resource/languoid/id/pano1257"
+    },
+    {
+      "name": "Headwaters Pano",
+      "id": "head1239",
+      "url": "https://glottolog.org/resource/languoid/id/head1239"
+    },
+    {
+      "name": "Yaminawa Complex",
+      "id": "yami1255",
+      "url": "https://glottolog.org/resource/languoid/id/yami1255"
+    }
+  ],
+  "iso639-3": "swo"
+}

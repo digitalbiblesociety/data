@@ -1,0 +1,109 @@
+{
+  "pk": 19240,
+  "hid": "zpi",
+  "father_pk": 17176,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Santa María Quiegolani Zapotec [sant1451][zpi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_zaq",
+        "label": "Zapotec (Quiegolani)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Quiegolani_Zapotec",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7271823",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "115530",
+        "long_grammar",
+        1994,
+        412,
+        "Black, Cheryl A. 1994"
+      ],
+      [
+        "142286",
+        "phonology_or_text",
+        1993,
+        20,
+        "Black, Cheryl A. 1993"
+      ],
+      [
+        "80090",
+        "wordlist_or_less",
+        1992,
+        33,
+        "Black, Cheryl A. 1992"
+      ]
+    ]
+  },
+  "id": "sant1451",
+  "name": "Santa María Quiegolani Zapotec",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.033,
+  "longitude": -96.0486,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Popoloca-Zapotecan",
+      "id": "popo1292",
+      "url": "https://glottolog.org/resource/languoid/id/popo1292"
+    },
+    {
+      "name": "Zapotecan",
+      "id": "zapo1436",
+      "url": "https://glottolog.org/resource/languoid/id/zapo1436"
+    },
+    {
+      "name": "Zapotec",
+      "id": "zapo1437",
+      "url": "https://glottolog.org/resource/languoid/id/zapo1437"
+    },
+    {
+      "name": "Core Zapotec",
+      "id": "nucl1765",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1765"
+    },
+    {
+      "name": "Narrow Core Zapotec",
+      "id": "core1259",
+      "url": "https://glottolog.org/resource/languoid/id/core1259"
+    },
+    {
+      "name": "Central Core Zapotec",
+      "id": "cent2146",
+      "url": "https://glottolog.org/resource/languoid/id/cent2146"
+    },
+    {
+      "name": "Cisyautepequeño",
+      "id": "sout3003",
+      "url": "https://glottolog.org/resource/languoid/id/sout3003"
+    }
+  ],
+  "iso639-3": "zpi"
+}

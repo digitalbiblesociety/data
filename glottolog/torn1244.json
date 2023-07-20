@@ -1,0 +1,108 @@
+{
+  "pk": 12611,
+  "hid": "fit",
+  "father_pk": 9601,
+  "family_pk": 302,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Gällivare Finnish [gall1277]':1,'Torne Valley Finnish [torn1245]':1,'Vittangi Finnish [vitt1238]':1)'Meänkieli [torn1244][fit]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10967",
+        "label": "Meänkieli"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Me%C3%A4nkieli",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q13357",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "577404",
+        "long_grammar",
+        2017,
+        495,
+        "Eira Söderholm 2017"
+      ],
+      [
+        "577403",
+        "long_grammar",
+        2014,
+        363,
+        "Eira Söderholm 2014"
+      ],
+      [
+        "307484",
+        "grammar",
+        2005,
+        164,
+        "Bengt Pohjanen and Eeva Muli 2005"
+      ],
+      [
+        "587947",
+        "grammar",
+        1996,
+        160,
+        "Kenttä, Matti and Bengt Pohjanen 1996"
+      ],
+      [
+        "656854",
+        "phonology_or_text",
+        1912,
+        0,
+        "Airila, Martti 1912"
+      ]
+    ]
+  },
+  "id": "torn1244",
+  "name": "Meänkieli",
+  "description": null,
+  "markup_description": null,
+  "latitude": 67.2527,
+  "longitude": 23.066,
+  "classification": [
+    {
+      "name": "Uralic",
+      "id": "ural1272",
+      "url": "https://glottolog.org/resource/languoid/id/ural1272"
+    },
+    {
+      "name": "Finnic",
+      "id": "finn1317",
+      "url": "https://glottolog.org/resource/languoid/id/finn1317"
+    },
+    {
+      "name": "Coastal Finnic",
+      "id": "coas1319",
+      "url": "https://glottolog.org/resource/languoid/id/coas1319"
+    },
+    {
+      "name": "Neva",
+      "id": "neva1234",
+      "url": "https://glottolog.org/resource/languoid/id/neva1234"
+    },
+    {
+      "name": "North Finnic",
+      "id": "nort3282",
+      "url": "https://glottolog.org/resource/languoid/id/nort3282"
+    },
+    {
+      "name": "Nuclear Finnish",
+      "id": "nucl1717",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1717"
+    }
+  ],
+  "iso639-3": "fit"
+}

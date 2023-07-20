@@ -1,0 +1,97 @@
+{
+  "pk": 7079,
+  "hid": "dks",
+  "father_pk": 4853,
+  "family_pk": 316,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Athoc [atho1238]':1,'Bor [borr1242]':1,'Ghol [ghol1238]':1,'Nyarweng [nyar1247]':1,'Tuic [tuic1247]':1)'Southeastern Dinka [sout2834][dks]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q36538",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "579808",
+        "grammar_sketch",
+        2020,
+        160,
+        "Deng, Manyang 2020"
+      ],
+      [
+        "552683",
+        "phonology_or_text",
+        2015,
+        284,
+        "Coppe van Urk 2015"
+      ],
+      [
+        "54000",
+        "phonology_or_text",
+        1989,
+        129,
+        "Deng, Deng Akol Juach 1989"
+      ],
+      [
+        "9350",
+        "phonology_or_text",
+        1980,
+        48,
+        "Ayom, Edward B. G. 1980"
+      ],
+      [
+        "29388",
+        "wordlist_or_less",
+        1924,
+        2,
+        "Czekanowski, Jan 1924"
+      ],
+      [
+        "88595",
+        "wordlist_or_less",
+        1923,
+        9,
+        "Stigand, Chauncey H. 1968 [1923]"
+      ]
+    ]
+  },
+  "id": "sout2834",
+  "name": "Southeastern Dinka",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.02206,
+  "longitude": 31.285,
+  "classification": [
+    {
+      "name": "Nilotic",
+      "id": "nilo1247",
+      "url": "https://glottolog.org/resource/languoid/id/nilo1247"
+    },
+    {
+      "name": "Western Nilotic",
+      "id": "west2493",
+      "url": "https://glottolog.org/resource/languoid/id/west2493"
+    },
+    {
+      "name": "Dinka-Nuer",
+      "id": "dink1261",
+      "url": "https://glottolog.org/resource/languoid/id/dink1261"
+    },
+    {
+      "name": "Dinka",
+      "id": "dink1262",
+      "url": "https://glottolog.org/resource/languoid/id/dink1262"
+    }
+  ],
+  "iso639-3": "dks"
+}

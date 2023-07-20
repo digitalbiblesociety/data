@@ -1,0 +1,85 @@
+{
+  "pk": 6021,
+  "hid": "yub",
+  "father_pk": 4028,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Yugambal [yuga1244][yub]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/e11",
+        "label": "Yugambal"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/5257",
+        "label": "Yugambal"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yugambeh_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/yuga1244",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q16334334",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "556571",
+        "phonology_or_text",
+        1902,
+        5,
+        "R. H. Mathews 1902"
+      ],
+      [
+        "85023",
+        "wordlist_or_less",
+        1887,
+        590,
+        "Lowe, C. B. 1887"
+      ]
+    ]
+  },
+  "id": "yuga1244",
+  "name": "Yugambal",
+  "description": null,
+  "markup_description": null,
+  "latitude": -27.803,
+  "longitude": 153.082,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "East Queensland Border Pama Nyungan",
+      "id": "east2770",
+      "url": "https://glottolog.org/resource/languoid/id/east2770"
+    },
+    {
+      "name": "Yugambalic",
+      "id": "yuga1242",
+      "url": "https://glottolog.org/resource/languoid/id/yuga1242"
+    },
+    {
+      "name": "Yugambal-Bigambal",
+      "id": "yuga1243",
+      "url": "https://glottolog.org/resource/languoid/id/yuga1243"
+    }
+  ],
+  "iso639-3": "yub"
+}

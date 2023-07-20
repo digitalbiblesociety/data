@@ -1,0 +1,79 @@
+{
+  "pk": 4105,
+  "hid": "eud",
+  "father_pk": 2343,
+  "family_pk": 155,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Eudeve [eude1234][eud]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10964",
+        "label": "Eudeve"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_eud",
+        "label": "Eudeve"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7887299",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "68288",
+        "grammar_sketch",
+        1981,
+        259,
+        "Campbell W. Pennington 1981"
+      ],
+      [
+        "111307",
+        "grammar_sketch",
+        1861,
+        30,
+        "Buckingham Smith 1861"
+      ],
+      [
+        "13948",
+        "phonology_or_text",
+        1787,
+        3,
+        "Lorenzo Hervas 1787"
+      ]
+    ]
+  },
+  "id": "eude1234",
+  "name": "Eudeve",
+  "description": null,
+  "markup_description": null,
+  "latitude": 28.5,
+  "longitude": -110,
+  "classification": [
+    {
+      "name": "Uto-Aztecan",
+      "id": "utoa1244",
+      "url": "https://glottolog.org/resource/languoid/id/utoa1244"
+    },
+    {
+      "name": "Southern Uto-Aztecan",
+      "id": "sout3136",
+      "url": "https://glottolog.org/resource/languoid/id/sout3136"
+    },
+    {
+      "name": "Opata-Eudeve",
+      "id": "opat1247",
+      "url": "https://glottolog.org/resource/languoid/id/opat1247"
+    }
+  ],
+  "iso639-3": "eud"
+}

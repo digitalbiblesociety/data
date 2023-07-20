@@ -1,0 +1,106 @@
+{
+  "pk": 6831,
+  "hid": "duo",
+  "father_pk": 4650,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Barongagunay [baro1254]':1,'Bolos Point [bolo1267]':1,'Camonayan [camo1251]':1,'Palaui Island [pala1346]':1,'Peñablanca [pena1263]':1,'Roso [roso1237]':1,'Santa Ana-Gonzaga [sant1419]':1,'Santa Margarita [sant1418]':1,'Tanglagan [tang1350]':1,'Valley Cove [vall1250]':1,'Yaga [yaga1257]':1)'Dupaninan Agta [dupa1235][duo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 11,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/961",
+        "label": "Dupaninan Agta"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5315912",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dupaningan_Agta",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/dupa1235",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_agd",
+        "label": "Agta (Dupaningan)"
+      }
+    ],
+    "meds": [
+      [
+        "47932",
+        "long_grammar",
+        2008,
+        378,
+        "Robinson, Laura C. 2008"
+      ],
+      [
+        "588478",
+        "grammar_sketch",
+        1997,
+        90,
+        "Nickell, Tom and McAlpin, Grace and McAlpin, Joseph 1997"
+      ],
+      [
+        "86329",
+        "grammar_sketch",
+        1985,
+        28,
+        "Nickell, Thomas L. 1985"
+      ],
+      [
+        "548932",
+        "wordlist_or_less",
+        1914,
+        12,
+        "Garvan, John M. 1914"
+      ],
+      [
+        "126488",
+        "wordlist_or_less",
+        1909,
+        4,
+        "Otto Scherer 1909"
+      ]
+    ]
+  },
+  "id": "dupa1235",
+  "name": "Dupaninan Agta",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.3748,
+  "longitude": 122.188,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Northern Luzon",
+      "id": "nort3238",
+      "url": "https://glottolog.org/resource/languoid/id/nort3238"
+    },
+    {
+      "name": "Northeastern Luzon",
+      "id": "nort3187",
+      "url": "https://glottolog.org/resource/languoid/id/nort3187"
+    }
+  ],
+  "iso639-3": "duo"
+}

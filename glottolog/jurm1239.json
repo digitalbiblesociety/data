@@ -1,0 +1,100 @@
+{
+  "pk": 8378,
+  "hid": "bex",
+  "father_pk": 5876,
+  "family_pk": 140,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Modo [modo1248]':1,'Wetu [wetu1238]':1,'Wira [wira1263]':1)'Jur Modo [jurm1239][bex]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_jmo",
+        "label": "Jur Mödö"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Jur_Modo_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/jurm1239",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56682",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "34452",
+        "grammar_sketch",
+        1981,
+        135,
+        "Andersen, Torben 1981"
+      ],
+      [
+        "134751",
+        "grammar_sketch",
+        1980,
+        4,
+        "Scruggs, Terri R. 1980"
+      ],
+      [
+        "54566",
+        "phonology_or_text",
+        1977,
+        0,
+        "Smith, Richard D. 1977"
+      ],
+      [
+        "150330",
+        "wordlist_or_less",
+        1937,
+        1,
+        "Evans-Pritchard, Edward E. 1937"
+      ]
+    ]
+  },
+  "id": "jurm1239",
+  "name": "Jur Modo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.03321,
+  "longitude": 29.974,
+  "classification": [
+    {
+      "name": "Central Sudanic",
+      "id": "cent2225",
+      "url": "https://glottolog.org/resource/languoid/id/cent2225"
+    },
+    {
+      "name": "Sara-Bongo-Bagirmi",
+      "id": "sara1341",
+      "url": "https://glottolog.org/resource/languoid/id/sara1341"
+    },
+    {
+      "name": "Baka-Beli",
+      "id": "moro1282",
+      "url": "https://glottolog.org/resource/languoid/id/moro1282"
+    },
+    {
+      "name": "Morokodo-Beli",
+      "id": "moro1293",
+      "url": "https://glottolog.org/resource/languoid/id/moro1293"
+    },
+    {
+      "name": "Lori",
+      "id": "lori1239",
+      "url": "https://glottolog.org/resource/languoid/id/lori1239"
+    }
+  ],
+  "iso639-3": "bex"
+}

@@ -1,0 +1,63 @@
+{
+  "pk": 2042,
+  "hid": "sqi",
+  "father_pk": 920,
+  "family_pk": 72,
+  "level": "family",
+  "bookkeeping": false,
+  "category": "Family",
+  "newick": "((('Cham Tosk [came1248]':1,'Eastern Northern Tosk [korc1239]':1,'Lab Tosk [labt1234]':1,'Western Northern Tosk [west2895]':1)'Northern Tosk Albanian [tosk1239][als]-l-':1,(('Calabrian Albanian [cala1254]':1,'Campo Marino Albanian [camp1260]':1,'Central Mountain Albanian [cent1955]':1,'Sicilian Albanian [sici1247]':1)'Arbëreshë Albanian [arbe1236][aae]-l-':1,('Northwestern Arvanitika [nort2603]':1,'South Central Arvanitika [sout2608]':1,'Thracian Arvanitika [thra1249]':1)'Arvanitika Albanian [arva1236][aat]-l-':1)'Southern Tosk [sout3378]':1)'Albanian-Tosk [alba1268]':1,('Central Gheg [cent2342]':1,'Northeast Gheg [nort3296]':1,('Arbanasi [arba1240]':1,'Istra Albanian [istr1247]':1,'Srem [srem1242]':1)'Northwest Gheg [nort3295]':1,'Southern Gheg [sout3280]':1)'Gheg Albanian [gheg1238][aln]-l-':1)'Albanian [alba1267][sqi]':1",
+  "child_family_count": 2,
+  "child_language_count": 4,
+  "child_dialect_count": 18,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Albanian_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q8748",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "31864",
+        "phonology_or_text",
+        2000,
+        0,
+        "Jakovska, Frederika 2000"
+      ],
+      [
+        "565174",
+        "wordlist_or_less",
+        1992,
+        0,
+        "Haznedan, Ismail 1992"
+      ]
+    ]
+  },
+  "id": "alba1267",
+  "name": "Albanian",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    }
+  ],
+  "iso639-3": "sqi"
+}

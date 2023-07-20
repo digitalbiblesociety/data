@@ -1,0 +1,104 @@
+{
+  "pk": 17554,
+  "hid": "mgl",
+  "father_pk": 15225,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kilenge [kile1242]':1,'Maleu [male1290]':1)'Maleu-Kilenge [male1289][mgl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3281884",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Idne_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mlu",
+        "label": "Maleu"
+      }
+    ],
+    "meds": [
+      [
+        "101396",
+        "grammar_sketch",
+        1996,
+        52,
+        "Graham Haywood 1996"
+      ],
+      [
+        "74050",
+        "wordlist_or_less",
+        1912,
+        24,
+        "Georg Friederici 1912"
+      ],
+      [
+        "10361",
+        "wordlist_or_less",
+        1905,
+        2,
+        "Otto Dempwolff 1905"
+      ]
+    ]
+  },
+  "id": "male1289",
+  "name": "Maleu-Kilenge",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.61613,
+  "longitude": 148.445,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Western Oceanic linkage",
+      "id": "west2818",
+      "url": "https://glottolog.org/resource/languoid/id/west2818"
+    },
+    {
+      "name": "North New Guinea linkage",
+      "id": "nort3206",
+      "url": "https://glottolog.org/resource/languoid/id/nort3206"
+    },
+    {
+      "name": "Ngero-Vitiaz linkage",
+      "id": "nger1241",
+      "url": "https://glottolog.org/resource/languoid/id/nger1241"
+    },
+    {
+      "name": "Vitiaz linkage",
+      "id": "viti1243",
+      "url": "https://glottolog.org/resource/languoid/id/viti1243"
+    }
+  ],
+  "iso639-3": "mgl"
+}

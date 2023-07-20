@@ -1,0 +1,122 @@
+{
+  "pk": 17020,
+  "hid": "myb",
+  "father_pk": 14455,
+  "family_pk": 140,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bbate [bbat1238]':1,'Bédjou [bedj1244]':1,'Bédégué [bede1243]':1,'Kan {Mbay} [kann1257]':1,'Mougo [moug1238]':1,'Ngoka [ngok1244]':1)'Mbay [mbay1241][myb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mby",
+        "label": "Mbay"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mbay_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/mbay1241",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3033565",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "117684",
+        "grammar",
+        1997,
+        181,
+        "Keegan, John M. 1997"
+      ],
+      [
+        "124168",
+        "grammar",
+        1971,
+        112,
+        "Fortier, Joseph 1971"
+      ],
+      [
+        "69277",
+        "grammar_sketch",
+        1931,
+        108,
+        "Gaston Muraz 1931"
+      ],
+      [
+        "17699",
+        "wordlist_or_less",
+        1907,
+        2,
+        "Gaudefroy-Demombynes, Maurice 1907"
+      ],
+      [
+        "29527",
+        "wordlist_or_less",
+        1905,
+        4,
+        "Bruel, Georges 1905"
+      ]
+    ]
+  },
+  "id": "mbay1241",
+  "name": "Mbay",
+  "description": null,
+  "markup_description": null,
+  "latitude": 8.23066,
+  "longitude": 15.7328,
+  "classification": [
+    {
+      "name": "Central Sudanic",
+      "id": "cent2225",
+      "url": "https://glottolog.org/resource/languoid/id/cent2225"
+    },
+    {
+      "name": "Sara-Bongo-Bagirmi",
+      "id": "sara1341",
+      "url": "https://glottolog.org/resource/languoid/id/sara1341"
+    },
+    {
+      "name": "SBB Occidental",
+      "id": "sbbo1237",
+      "url": "https://glottolog.org/resource/languoid/id/sbbo1237"
+    },
+    {
+      "name": "Nuclear SBB Occidental",
+      "id": "nucl1719",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1719"
+    },
+    {
+      "name": "Saraic",
+      "id": "sara1349",
+      "url": "https://glottolog.org/resource/languoid/id/sara1349"
+    },
+    {
+      "name": "Sara Central",
+      "id": "cent2044",
+      "url": "https://glottolog.org/resource/languoid/id/cent2044"
+    },
+    {
+      "name": "Sara Central Logone-Chari",
+      "id": "sara1346",
+      "url": "https://glottolog.org/resource/languoid/id/sara1346"
+    },
+    {
+      "name": "Sido",
+      "id": "sido1234",
+      "url": "https://glottolog.org/resource/languoid/id/sido1234"
+    }
+  ],
+  "iso639-3": "myb"
+}

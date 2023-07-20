@@ -1,0 +1,73 @@
+{
+  "pk": 444,
+  "hid": "nir",
+  "father_pk": 11,
+  "family_pk": 11,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Nimboran [nucl1633][nir]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q301116",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nimboran_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nucl1633",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nim",
+        "label": "Nimboran"
+      }
+    ],
+    "meds": [
+      [
+        "109739",
+        "grammar",
+        1965,
+        257,
+        "Anceaux, Johannes Cornelis 1965"
+      ],
+      [
+        "17111",
+        "wordlist_or_less",
+        1955,
+        1,
+        "Galis, Klaas Wilhelm 1955"
+      ],
+      [
+        "126844",
+        "wordlist_or_less",
+        1953,
+        1,
+        "Cowan, H. K. J. 1953"
+      ]
+    ]
+  },
+  "id": "nucl1633",
+  "name": "Nimboran",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.5803,
+  "longitude": 140.179,
+  "classification": [
+    {
+      "name": "Nimboranic",
+      "id": "nimb1257",
+      "url": "https://glottolog.org/resource/languoid/id/nimb1257"
+    }
+  ],
+  "iso639-3": "nir"
+}

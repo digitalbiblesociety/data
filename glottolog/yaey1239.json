@@ -1,0 +1,91 @@
+{
+  "pk": 6222,
+  "hid": "rys",
+  "father_pk": 4191,
+  "family_pk": 176,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Hateruma [hate1238]':1,'Hatoma [hato1238]':1,'Ishigaki [ishi1240]':1,'Kabira [kabi1263]':1,'Kohama [koha1246]':1,'Kuroshima [kuro1243]':1,'Shiraho [shir1262]':1,'Sonai [sona1243]':1,'Taketomi [take1256]':1)'Yaeyama [yaey1239][rys]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 9,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5353",
+        "label": "Yaeyama"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q34203",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yaeyama_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "572296",
+        "grammar",
+        2015,
+        284,
+        "Harada, Soichiro 2015"
+      ],
+      [
+        "471563",
+        "grammar",
+        1995,
+        271,
+        "Miyara, Shishō 1995"
+      ],
+      [
+        "53218",
+        "grammar_sketch",
+        1967,
+        70,
+        "Hirayama, Teruo and Ôshima, Ichirô and Nakamoto, Masachie 1967"
+      ],
+      [
+        "471562",
+        "phonology_or_text",
+        1930,
+        0,
+        "Miyanaga, Masamori 1930"
+      ]
+    ]
+  },
+  "id": "yaey1239",
+  "name": "Yaeyama",
+  "description": null,
+  "markup_description": null,
+  "latitude": 24.3401,
+  "longitude": 123.801,
+  "classification": [
+    {
+      "name": "Japonic",
+      "id": "japo1237",
+      "url": "https://glottolog.org/resource/languoid/id/japo1237"
+    },
+    {
+      "name": "Ryukyuan",
+      "id": "ryuk1243",
+      "url": "https://glottolog.org/resource/languoid/id/ryuk1243"
+    },
+    {
+      "name": "Southern Ryukyu",
+      "id": "ryuk1244",
+      "url": "https://glottolog.org/resource/languoid/id/ryuk1244"
+    },
+    {
+      "name": "Macro-Yaeyama",
+      "id": "macr1267",
+      "url": "https://glottolog.org/resource/languoid/id/macr1267"
+    }
+  ],
+  "iso639-3": "rys"
+}

@@ -1,0 +1,95 @@
+{
+  "pk": 11256,
+  "hid": "kot",
+  "father_pk": 8291,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Affade [affa1240]':1,'Logone-Birni [logo1274]':1,'Logone-Gana [logo1273]':1)'Lagwan [lagw1237][kot]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10169",
+        "label": "Lagwan"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3502264",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lagwan_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/lagw1237",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_lag",
+        "label": "Lagwan"
+      }
+    ],
+    "meds": [
+      [
+        "139022",
+        "grammar",
+        1936,
+        156,
+        "Lukas, Johannes 1936"
+      ],
+      [
+        "135309",
+        "grammar_sketch",
+        1862,
+        108,
+        "Barth, Heinrich 1862"
+      ]
+    ]
+  },
+  "id": "lagw1237",
+  "name": "Lagwan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.5592,
+  "longitude": 14.9884,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "Biu-Mandara",
+      "id": "bium1280",
+      "url": "https://glottolog.org/resource/languoid/id/bium1280"
+    },
+    {
+      "name": "North Biu-Mandara",
+      "id": "nort3156",
+      "url": "https://glottolog.org/resource/languoid/id/nort3156"
+    },
+    {
+      "name": "Kotoko-Buduma",
+      "id": "koto1267",
+      "url": "https://glottolog.org/resource/languoid/id/koto1267"
+    },
+    {
+      "name": "Kotoko Central",
+      "id": "koto1263",
+      "url": "https://glottolog.org/resource/languoid/id/koto1263"
+    }
+  ],
+  "iso639-3": "kot"
+}

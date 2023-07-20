@@ -1,0 +1,101 @@
+{
+  "pk": 11308,
+  "hid": "yre",
+  "father_pk": 8319,
+  "family_pk": 121,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bhoo [bhoo1238]':1,'Klan [klan1243]':1,'Taan [taan1239]':1,'Yaan [yaan1242]':1,'Yoo [yooo1238]':1)'Yaouré [yaou1238][yre]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Yaure_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/yaou1238",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3913951",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "153310",
+        "long_grammar",
+        1992,
+        661,
+        "Gadou, Henri 1992"
+      ],
+      [
+        "129901",
+        "grammar_sketch",
+        1987,
+        134,
+        "Hopkins, Bradley L. 1987"
+      ],
+      [
+        "30121",
+        "grammar_sketch",
+        1983,
+        30,
+        "Nazam, Halaoui and Tera, Kalilou and Trabi, Monique 1983"
+      ],
+      [
+        "121543",
+        "grammar_sketch",
+        1953,
+        21,
+        "Prost, André 1953"
+      ]
+    ]
+  },
+  "id": "yaou1238",
+  "name": "Yaouré",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.95282,
+  "longitude": -5.57851,
+  "classification": [
+    {
+      "name": "Mande",
+      "id": "mand1469",
+      "url": "https://glottolog.org/resource/languoid/id/mand1469"
+    },
+    {
+      "name": "Eastern Mande",
+      "id": "east2697",
+      "url": "https://glottolog.org/resource/languoid/id/east2697"
+    },
+    {
+      "name": "Southeastern Mande",
+      "id": "sout3140",
+      "url": "https://glottolog.org/resource/languoid/id/sout3140"
+    },
+    {
+      "name": "Mano-Dan",
+      "id": "guro1245",
+      "url": "https://glottolog.org/resource/languoid/id/guro1245"
+    },
+    {
+      "name": "Guro-Dan",
+      "id": "guro1246",
+      "url": "https://glottolog.org/resource/languoid/id/guro1246"
+    },
+    {
+      "name": "Guro-Yaoure",
+      "id": "guro1247",
+      "url": "https://glottolog.org/resource/languoid/id/guro1247"
+    }
+  ],
+  "iso639-3": "yre"
+}

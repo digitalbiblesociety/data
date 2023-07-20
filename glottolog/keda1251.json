@@ -1,0 +1,100 @@
+{
+  "pk": 17437,
+  "hid": "meo",
+  "father_pk": 15100,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kedah Malay [keda1254]':1,'Perak Malay [pera1260]':1)'Kedah-Perak Malay [keda1251][meo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q4925684",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kedah_Malay",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "309455",
+        "grammar_sketch",
+        1991,
+        193,
+        "Zaharani, B. Ahmad 1991"
+      ],
+      [
+        "48510",
+        "grammar_sketch",
+        1985,
+        12,
+        "Asmah Haji Omar 1985"
+      ],
+      [
+        "552168",
+        "grammar_sketch",
+        1971,
+        0,
+        "Shuib, Ismail 1971"
+      ]
+    ]
+  },
+  "id": "keda1251",
+  "name": "Kedah-Perak Malay",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.933,
+  "longitude": 100.492,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Malayo-Sumbawan",
+      "id": "mala1536",
+      "url": "https://glottolog.org/resource/languoid/id/mala1536"
+    },
+    {
+      "name": "North and East Malayo-Sumbawan",
+      "id": "nort3170",
+      "url": "https://glottolog.org/resource/languoid/id/nort3170"
+    },
+    {
+      "name": "Malayic",
+      "id": "mala1538",
+      "url": "https://glottolog.org/resource/languoid/id/mala1538"
+    },
+    {
+      "name": "Nuclear Malayic",
+      "id": "nucl1806",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1806"
+    },
+    {
+      "name": "Greater Riau-Johoric",
+      "id": "sing1270",
+      "url": "https://glottolog.org/resource/languoid/id/sing1270"
+    },
+    {
+      "name": "Northeastern Peninsular Malay",
+      "id": "keda1253",
+      "url": "https://glottolog.org/resource/languoid/id/keda1253"
+    }
+  ],
+  "iso639-3": "meo"
+}

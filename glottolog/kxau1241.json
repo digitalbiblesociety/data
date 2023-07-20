@@ -1,0 +1,76 @@
+{
+  "pk": 4279,
+  "hid": "aue",
+  "father_pk": 2486,
+  "family_pk": 203,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "'Groot Laagte =/Kx''au//''ein [kxau1241][aue]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "aue",
+      "name": "ǂKxʼauǁʼein",
+      "change_request": "2014-059",
+      "effective": "2015-01-12",
+      "reason": "duplicate",
+      "change_to": [
+        "ktz"
+      ],
+      "remedy": "this is the same as Juǀ'hoan [ktz]",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/9389",
+        "label": "ǂKx'au||'ein"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2478745",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/%C7%82Kx%CA%BCao%C7%81%CA%BCae",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "135173",
+        "wordlist_or_less",
+        1929,
+        11,
+        "Bleek, Dorothea F. 1929"
+      ]
+    ]
+  },
+  "id": "kxau1241",
+  "name": "Groot Laagte =/Kx'au//'ein",
+  "description": null,
+  "markup_description": null,
+  "latitude": -21.0554,
+  "longitude": 21.1793,
+  "classification": [
+    {
+      "name": "Kxa",
+      "id": "kxaa1236",
+      "url": "https://glottolog.org/resource/languoid/id/kxaa1236"
+    },
+    {
+      "name": "Ju-Kung",
+      "id": "juku1256",
+      "url": "https://glottolog.org/resource/languoid/id/juku1256"
+    },
+    {
+      "name": "South-Eastern Ju",
+      "id": "juho1239",
+      "url": "https://glottolog.org/resource/languoid/id/juho1239"
+    }
+  ],
+  "iso639-3": "aue"
+}

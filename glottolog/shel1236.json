@@ -1,0 +1,67 @@
+{
+  "pk": 2205,
+  "hid": "sth",
+  "father_pk": 1016,
+  "family_pk": 135,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Speech Register",
+  "newick": "'Shelta [shel1236][sth]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10893",
+        "label": "Shelta"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36705",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Shelta",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "416069",
+        "grammar_sketch",
+        1994,
+        28,
+        "Anthony P. Grant 1994"
+      ],
+      [
+        "304968",
+        "wordlist_or_less",
+        1937,
+        284,
+        "R. A. Stewart Macalister 1937"
+      ]
+    ]
+  },
+  "id": "shel1236",
+  "name": "Shelta",
+  "description": null,
+  "markup_description": null,
+  "latitude": 53.7907,
+  "longitude": -7.73983,
+  "classification": [
+    {
+      "name": "Speech Register",
+      "id": "spee1234",
+      "url": "https://glottolog.org/resource/languoid/id/spee1234"
+    },
+    {
+      "name": "Irish-English",
+      "id": "iris1254",
+      "url": "https://glottolog.org/resource/languoid/id/iris1254"
+    }
+  ],
+  "iso639-3": "sth"
+}

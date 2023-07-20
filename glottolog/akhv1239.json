@@ -1,0 +1,93 @@
+{
+  "pk": 10647,
+  "hid": "akv",
+  "father_pk": 7744,
+  "family_pk": 426,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Axaxdərə Akhvakh [axax1234]':1,'Tsunta Akhvakh [nort3330]':1)'Northern Akhvakh [akhv1239][akv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/941",
+        "label": "Akhvakh"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56423",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Akhvakh_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_axv",
+        "label": "Akhvakh"
+      }
+    ],
+    "meds": [
+      [
+        "301097",
+        "grammar_sketch",
+        1967,
+        128,
+        "Magomedbekova, Zagidat M. 1967"
+      ],
+      [
+        "28742",
+        "wordlist_or_less",
+        1964,
+        110,
+        "Gudava, Togo E. 1964"
+      ],
+      [
+        "660489",
+        "wordlist_or_less",
+        1909,
+        21,
+        "Dirr, Adolf 1909"
+      ]
+    ]
+  },
+  "id": "akhv1239",
+  "name": "Northern Akhvakh",
+  "description": null,
+  "markup_description": null,
+  "latitude": 42.4003,
+  "longitude": 46.3037,
+  "classification": [
+    {
+      "name": "Nakh-Daghestanian",
+      "id": "nakh1245",
+      "url": "https://glottolog.org/resource/languoid/id/nakh1245"
+    },
+    {
+      "name": "Daghestanian",
+      "id": "dagh1238",
+      "url": "https://glottolog.org/resource/languoid/id/dagh1238"
+    },
+    {
+      "name": "Avar-Andic-Tsezic",
+      "id": "avar1255",
+      "url": "https://glottolog.org/resource/languoid/id/avar1255"
+    },
+    {
+      "name": "Andic",
+      "id": "andi1254",
+      "url": "https://glottolog.org/resource/languoid/id/andi1254"
+    },
+    {
+      "name": "Akhvakhic",
+      "id": "akhv1240",
+      "url": "https://glottolog.org/resource/languoid/id/akhv1240"
+    }
+  ],
+  "iso639-3": "akv"
+}

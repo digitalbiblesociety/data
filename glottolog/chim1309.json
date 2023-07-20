@@ -1,0 +1,85 @@
+{
+  "pk": 5394,
+  "hid": "cbg",
+  "father_pk": 3539,
+  "family_pk": 10,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Chimila [chim1309][cbg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2431",
+        "label": "Chimila"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2963680",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Chimila_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/chim1309",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_cma",
+        "label": "Chimila"
+      }
+    ],
+    "meds": [
+      [
+        "100404",
+        "grammar",
+        1996,
+        216,
+        "Trillos Amaya, María 1996"
+      ],
+      [
+        "469003",
+        "grammar",
+        1886,
+        0,
+        "Celedón, R. 1886"
+      ]
+    ]
+  },
+  "id": "chim1309",
+  "name": "Chimila",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.1902,
+  "longitude": -74.2559,
+  "classification": [
+    {
+      "name": "Chibchan",
+      "id": "chib1249",
+      "url": "https://glottolog.org/resource/languoid/id/chib1249"
+    },
+    {
+      "name": "Core Chibchan",
+      "id": "core1252",
+      "url": "https://glottolog.org/resource/languoid/id/core1252"
+    },
+    {
+      "name": "Magdalenic",
+      "id": "magd1236",
+      "url": "https://glottolog.org/resource/languoid/id/magd1236"
+    },
+    {
+      "name": "Northern Magdalenic",
+      "id": "nort3000",
+      "url": "https://glottolog.org/resource/languoid/id/nort3000"
+    }
+  ],
+  "iso639-3": "cbg"
+}

@@ -1,0 +1,97 @@
+{
+  "pk": 8546,
+  "hid": "zku",
+  "father_pk": 6076,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kaurna [kaur1267][zku]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5871",
+        "label": "Kaurna"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kaq",
+        "label": "Kaurna"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kaurna_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kaur1267",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6378899",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "123575",
+        "grammar_sketch",
+        1840,
+        100,
+        "C. G. Teichelmann and Clamor W. Schürmann 1840"
+      ],
+      [
+        "847",
+        "wordlist_or_less",
+        1839,
+        31,
+        "Williams, William 1839"
+      ],
+      [
+        "148483",
+        "wordlist_or_less",
+        1834,
+        14,
+        "Dumont d'Urville, Jules 1834"
+      ]
+    ]
+  },
+  "id": "kaur1267",
+  "name": "Kaurna",
+  "description": null,
+  "markup_description": null,
+  "latitude": -34.34966141,
+  "longitude": 138.4800794,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Arandic-Thura-Yura",
+      "id": "aran1266",
+      "url": "https://glottolog.org/resource/languoid/id/aran1266"
+    },
+    {
+      "name": "Thura-Yura",
+      "id": "thur1253",
+      "url": "https://glottolog.org/resource/languoid/id/thur1253"
+    },
+    {
+      "name": "Core Thura Yura",
+      "id": "core1260",
+      "url": "https://glottolog.org/resource/languoid/id/core1260"
+    },
+    {
+      "name": "Southern Thura-Yura",
+      "id": "sout2760",
+      "url": "https://glottolog.org/resource/languoid/id/sout2760"
+    }
+  ],
+  "iso639-3": "zku"
+}

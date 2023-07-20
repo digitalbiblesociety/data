@@ -1,0 +1,102 @@
+{
+  "pk": 14227,
+  "hid": "mjs",
+  "father_pk": 11146,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Doka {Nigeria} [doka1247]':1)'Miship [mish1244][mjs]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3441264",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Miship_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "308358",
+        "grammar",
+        2010,
+        213,
+        "Mohammed Aminu Mu'azu and Katwal Pemak Isah 2010"
+      ],
+      [
+        "64085",
+        "wordlist_or_less",
+        1981,
+        7,
+        "Kraft, Charles H. 1981"
+      ],
+      [
+        "39523",
+        "wordlist_or_less",
+        1964,
+        3,
+        "Jungraithmayr, Herrmann 1964"
+      ],
+      [
+        "474422",
+        "wordlist_or_less",
+        1934,
+        7,
+        "Ames, C. G. 1934"
+      ]
+    ]
+  },
+  "id": "mish1244",
+  "name": "Miship",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.20477,
+  "longitude": 9.33752,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "West Chadic",
+      "id": "west2785",
+      "url": "https://glottolog.org/resource/languoid/id/west2785"
+    },
+    {
+      "name": "West Chadic A",
+      "id": "west2714",
+      "url": "https://glottolog.org/resource/languoid/id/west2714"
+    },
+    {
+      "name": "West Chadic A.2-3",
+      "id": "west2799",
+      "url": "https://glottolog.org/resource/languoid/id/west2799"
+    },
+    {
+      "name": "West Chadic A.3",
+      "id": "west2717",
+      "url": "https://glottolog.org/resource/languoid/id/west2717"
+    },
+    {
+      "name": "Kofyar-Mushere-Chip",
+      "id": "kofy1243",
+      "url": "https://glottolog.org/resource/languoid/id/kofy1243"
+    }
+  ],
+  "iso639-3": "mjs"
+}

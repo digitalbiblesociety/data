@@ -1,0 +1,107 @@
+{
+  "pk": 16577,
+  "hid": "bgp",
+  "father_pk": 13970,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bugti [bugt1234]':1,'Kasrani [kasr1234]':1,'Leghari [legh1239]':1,'Marri [marr1268]':1,'Mazari [maza1310]':1,'Upper Sindhi Balochi [uppe1469]':1)'Eastern Balochi [east2304][bgp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://phoible.org/languages/east2304",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12952252",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "13057",
+        "long_grammar",
+        1923,
+        338,
+        "Gilbertson, George Waters 1923"
+      ],
+      [
+        "300464",
+        "grammar_sketch",
+        1881,
+        185,
+        "Mansel Longworth Dames 1881"
+      ],
+      [
+        "300005",
+        "grammar_sketch",
+        1875,
+        98,
+        "E. Pierce 1875"
+      ],
+      [
+        "313135",
+        "grammar_sketch",
+        1874,
+        91,
+        "Cecil E. Gladstone 1874"
+      ]
+    ]
+  },
+  "id": "east2304",
+  "name": "Eastern Balochi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 28,
+  "longitude": 62,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Iranian",
+      "id": "iran1269",
+      "url": "https://glottolog.org/resource/languoid/id/iran1269"
+    },
+    {
+      "name": "Central Iranian PBS",
+      "id": "cent2317",
+      "url": "https://glottolog.org/resource/languoid/id/cent2317"
+    },
+    {
+      "name": "Central Iranian PB",
+      "id": "cent2318",
+      "url": "https://glottolog.org/resource/languoid/id/cent2318"
+    },
+    {
+      "name": "Northwestern Iranian",
+      "id": "nort3177",
+      "url": "https://glottolog.org/resource/languoid/id/nort3177"
+    },
+    {
+      "name": "Balochic",
+      "id": "balo1260",
+      "url": "https://glottolog.org/resource/languoid/id/balo1260"
+    }
+  ],
+  "iso639-3": "bgp"
+}

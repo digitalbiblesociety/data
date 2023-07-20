@@ -1,0 +1,74 @@
+{
+  "pk": 2619,
+  "hid": "yug",
+  "father_pk": 1215,
+  "family_pk": 217,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Yugh [yugh1239][yug]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56311",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yugh_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_yug",
+        "label": "Yugh"
+      }
+    ],
+    "meds": [
+      [
+        "141326",
+        "long_grammar",
+        1997,
+        320,
+        "Heinrich Werner 1997"
+      ],
+      [
+        "300608",
+        "grammar_sketch",
+        1858,
+        48,
+        "Anton Schiefner 1858"
+      ],
+      [
+        "550076",
+        "wordlist_or_less",
+        1857,
+        0,
+        "Kostrov, N. A. 1857"
+      ]
+    ]
+  },
+  "id": "yugh1239",
+  "name": "Yugh",
+  "description": null,
+  "markup_description": null,
+  "latitude": 60.8778,
+  "longitude": 89.7479,
+  "classification": [
+    {
+      "name": "Yeniseian",
+      "id": "yeni1252",
+      "url": "https://glottolog.org/resource/languoid/id/yeni1252"
+    },
+    {
+      "name": "Northern Yeniseian",
+      "id": "nort2746",
+      "url": "https://glottolog.org/resource/languoid/id/nort2746"
+    }
+  ],
+  "iso639-3": "yug"
+}

@@ -1,0 +1,70 @@
+{
+  "pk": 3463,
+  "hid": "dtn",
+  "father_pk": 1850,
+  "family_pk": 415,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Daats''iin [daat1234][dtn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q20982409",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Daats%CA%BCiin_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "546847",
+        "grammar_sketch",
+        2016,
+        33,
+        "Colleen Ahland 2016"
+      ],
+      [
+        "468220",
+        "wordlist_or_less",
+        2014,
+        4,
+        "Colleen Ahland and Eliza Kelly 2014"
+      ],
+      [
+        "136340",
+        "wordlist_or_less",
+        1979,
+        11,
+        "Haberland, Eike and Straube, Helmut 1979"
+      ]
+    ]
+  },
+  "id": "daat1234",
+  "name": "Daats'iin",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.5284,
+  "longitude": 35.2226,
+  "classification": [
+    {
+      "name": "Gumuz",
+      "id": "gumu1250",
+      "url": "https://glottolog.org/resource/languoid/id/gumu1250"
+    },
+    {
+      "name": "Daats'iin-Southern Gumuz",
+      "id": "daat1235",
+      "url": "https://glottolog.org/resource/languoid/id/daat1235"
+    }
+  ],
+  "iso639-3": "dtn"
+}

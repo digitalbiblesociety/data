@@ -1,0 +1,82 @@
+{
+  "pk": 9291,
+  "hid": "tbw",
+  "father_pk": 6759,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tagbanwa [tagb1258][tbw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3915475",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Aborlan_Tagbanwa_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tgb",
+        "label": "Tagbanwa (Aborlan)"
+      }
+    ],
+    "meds": [
+      [
+        "47008",
+        "grammar_sketch",
+        1965,
+        62,
+        "Hussey, Stewart 1965"
+      ],
+      [
+        "571468",
+        "wordlist_or_less",
+        1954,
+        0,
+        "Fox, R. B. 1954"
+      ]
+    ]
+  },
+  "id": "tagb1258",
+  "name": "Tagbanwa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.54263,
+  "longitude": 118.497,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Greater Central Philippine",
+      "id": "grea1284",
+      "url": "https://glottolog.org/resource/languoid/id/grea1284"
+    },
+    {
+      "name": "Palawanic",
+      "id": "pala1354",
+      "url": "https://glottolog.org/resource/languoid/id/pala1354"
+    },
+    {
+      "name": "Northern Palawanic",
+      "id": "nort3185",
+      "url": "https://glottolog.org/resource/languoid/id/nort3185"
+    }
+  ],
+  "iso639-3": "tbw"
+}

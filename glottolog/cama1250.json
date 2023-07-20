@@ -1,0 +1,89 @@
+{
+  "pk": 9284,
+  "hid": "abd",
+  "father_pk": 6756,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Camarines Norte Agta [cama1250][abd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2829",
+        "label": "Camarines Norte Agta"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3399682",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Manide_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "586835",
+        "grammar_sketch",
+        2017,
+        105,
+        "Doroja, Danica Mariz A. 2017"
+      ],
+      [
+        "317705",
+        "phonology_or_text",
+        2013,
+        10,
+        "Jason William Lobel 2013"
+      ],
+      [
+        "548934",
+        "wordlist_or_less",
+        1913,
+        31,
+        "John M. Garvan 1913"
+      ]
+    ]
+  },
+  "id": "cama1250",
+  "name": "Camarines Norte Agta",
+  "description": null,
+  "markup_description": null,
+  "latitude": 14.1571,
+  "longitude": 122.835,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Greater Central Philippine",
+      "id": "grea1284",
+      "url": "https://glottolog.org/resource/languoid/id/grea1284"
+    },
+    {
+      "name": "Central Philippine",
+      "id": "cent2246",
+      "url": "https://glottolog.org/resource/languoid/id/cent2246"
+    },
+    {
+      "name": "Alabat-Manide Agta",
+      "id": "alab1255",
+      "url": "https://glottolog.org/resource/languoid/id/alab1255"
+    }
+  ],
+  "iso639-3": "abd"
+}

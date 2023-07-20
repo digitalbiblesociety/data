@@ -1,0 +1,117 @@
+{
+  "pk": 7638,
+  "hid": "ncb",
+  "father_pk": 5298,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Camorta [camo1249]':1,'Katchal [katc1248]':1,'Nancowry [nanc1247]':1,'Trinkut [trin1269]':1)'Central Nicobarese [cent1990][ncb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4775",
+        "label": "Central Nicobarese"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3335553",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Central_Nicobarese_languages",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/cent1990",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nic",
+        "label": "Nicobarese"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nnc",
+        "label": "Nancowry"
+      }
+    ],
+    "meds": [
+      [
+        "114757",
+        "long_grammar",
+        2005,
+        303,
+        "Man, Edward Horace 2005"
+      ],
+      [
+        "150214",
+        "grammar",
+        1970,
+        211,
+        "R. Radhakrishnan 1970"
+      ],
+      [
+        "43951",
+        "grammar",
+        1889,
+        0,
+        "Man, Edward H. 1889"
+      ],
+      [
+        "111601",
+        "wordlist_or_less",
+        1875,
+        17,
+        "de Röepstorff, Ad. 1875"
+      ],
+      [
+        "588394",
+        "wordlist_or_less",
+        1872,
+        17,
+        "Edward H. Man 1872"
+      ],
+      [
+        "54846",
+        "wordlist_or_less",
+        1862,
+        1,
+        "Latham, Robert Gordon 1862"
+      ]
+    ]
+  },
+  "id": "cent1990",
+  "name": "Central Nicobarese",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.94812,
+  "longitude": 93.3921,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Nicobaric",
+      "id": "nico1262",
+      "url": "https://glottolog.org/resource/languoid/id/nico1262"
+    },
+    {
+      "name": "Nuclear Nicobaric",
+      "id": "nucl1758",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1758"
+    },
+    {
+      "name": "Central Nicobar",
+      "id": "cent2305",
+      "url": "https://glottolog.org/resource/languoid/id/cent2305"
+    }
+  ],
+  "iso639-3": "ncb"
+}

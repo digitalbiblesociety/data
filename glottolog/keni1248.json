@@ -1,0 +1,90 @@
+{
+  "pk": 12246,
+  "hid": "knl",
+  "father_pk": 9325,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Keninjal [keni1248][knl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6389309",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Keninjal_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "589580",
+        "phonology_or_text",
+        2020,
+        30,
+        "Sommerlot, Carly J. 2020"
+      ],
+      [
+        "146032",
+        "wordlist_or_less",
+        1986,
+        16,
+        "Stokhof, W. A. L. and Alma E. Almanar 1986"
+      ],
+      [
+        "61660",
+        "wordlist_or_less",
+        1970,
+        2,
+        "Alfred B. Hudson 1970"
+      ]
+    ]
+  },
+  "id": "keni1248",
+  "name": "Keninjal",
+  "description": null,
+  "markup_description": null,
+  "latitude": -0.63184,
+  "longitude": 111.808,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Malayo-Sumbawan",
+      "id": "mala1536",
+      "url": "https://glottolog.org/resource/languoid/id/mala1536"
+    },
+    {
+      "name": "North and East Malayo-Sumbawan",
+      "id": "nort3170",
+      "url": "https://glottolog.org/resource/languoid/id/nort3170"
+    },
+    {
+      "name": "Malayic",
+      "id": "mala1538",
+      "url": "https://glottolog.org/resource/languoid/id/mala1538"
+    },
+    {
+      "name": "Ibanic",
+      "id": "iban1263",
+      "url": "https://glottolog.org/resource/languoid/id/iban1263"
+    }
+  ],
+  "iso639-3": "knl"
+}

@@ -1,0 +1,78 @@
+{
+  "pk": 2352,
+  "hid": "chn",
+  "father_pk": 1089,
+  "family_pk": 161,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Creolized Grand Ronde Chinook Jargon [chin1272][chn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4167",
+        "label": "Chinook Wawa"
+      },
+      {
+        "url": "https://apics-online.info/contributions/74",
+        "label": "Chinuk Wawa"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Chinook_Jargon",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35173",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "17362",
+        "grammar_sketch",
+        1932,
+        24,
+        "Melville Jacobs 1932"
+      ],
+      [
+        "64834",
+        "grammar_sketch",
+        1865,
+        0,
+        "Stuart, Granville 1865"
+      ],
+      [
+        "563694",
+        "wordlist_or_less",
+        1860,
+        0,
+        "Anonymus, None 1860"
+      ]
+    ]
+  },
+  "id": "chin1272",
+  "name": "Creolized Grand Ronde Chinook Jargon",
+  "description": null,
+  "markup_description": null,
+  "latitude": 55,
+  "longitude": -125,
+  "classification": [
+    {
+      "name": "Chinookan",
+      "id": "chin1490",
+      "url": "https://glottolog.org/resource/languoid/id/chin1490"
+    },
+    {
+      "name": "Lower Chinookan",
+      "id": "lowe1438",
+      "url": "https://glottolog.org/resource/languoid/id/lowe1438"
+    }
+  ],
+  "iso639-3": "chn"
+}

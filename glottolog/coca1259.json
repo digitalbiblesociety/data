@@ -1,0 +1,128 @@
+{
+  "pk": 13854,
+  "hid": "cod",
+  "father_pk": 10820,
+  "family_pk": 51,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Cocama [coca1260]':1,'Cocamilla [coca1261]':1)'Cocama-Cocamilla [coca1259][cod]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_coc",
+        "label": "Cocama"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/2028",
+        "label": "Cocama-Cocamilla"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Cocama_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/coca1259",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33317",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "100890",
+        "long_grammar",
+        2010,
+        947,
+        "Vallejos Yopán, Rosa 2010"
+      ],
+      [
+        "68346",
+        "grammar",
+        1978,
+        173,
+        "Faust W., Norma 1978"
+      ],
+      [
+        "472815",
+        "grammar",
+        1972,
+        173,
+        "Faust W., Norma 1972"
+      ],
+      [
+        "469577",
+        "grammar_sketch",
+        1935,
+        103,
+        "Espinosa, Lucas 1935"
+      ],
+      [
+        "43829",
+        "wordlist_or_less",
+        1910,
+        15,
+        "Paul Rivet 1910"
+      ],
+      [
+        "140036",
+        "wordlist_or_less",
+        1866,
+        8,
+        "Paul Marcoy 1866"
+      ]
+    ]
+  },
+  "id": "coca1259",
+  "name": "Cocama-Cocamilla",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.5,
+  "longitude": -74,
+  "classification": [
+    {
+      "name": "Tupian",
+      "id": "tupi1275",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1275"
+    },
+    {
+      "name": "Maweti-Guarani",
+      "id": "mawe1252",
+      "url": "https://glottolog.org/resource/languoid/id/mawe1252"
+    },
+    {
+      "name": "Aweti-Guarani",
+      "id": "awet1245",
+      "url": "https://glottolog.org/resource/languoid/id/awet1245"
+    },
+    {
+      "name": "Tupi-Guarani",
+      "id": "tupi1276",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1276"
+    },
+    {
+      "name": "Southern Tupi-Guarani",
+      "id": "sout3271",
+      "url": "https://glottolog.org/resource/languoid/id/sout3271"
+    },
+    {
+      "name": "Tupi-Guarani Subgroup III",
+      "id": "tupi1287",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1287"
+    },
+    {
+      "name": "Omagua-Kokama",
+      "id": "omag1247",
+      "url": "https://glottolog.org/resource/languoid/id/omag1247"
+    }
+  ],
+  "iso639-3": "cod"
+}

@@ -1,0 +1,125 @@
+{
+  "pk": 15670,
+  "hid": "dud",
+  "father_pk": 12928,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Eastern Duka [east2402][uth]':1,'Western Duka [west2471][uss]':1)'Hun-Saare [huns1239][dud]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "dud",
+      "name": "Hun-Saare",
+      "change_request": "2018-014",
+      "effective": "2019-01-25",
+      "reason": "split",
+      "change_to": [
+        "uth",
+        "uss"
+      ],
+      "remedy": "Split into ut-Hun [uth] and us-Saare [uss]",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3913977",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Hun-Saare_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_duk",
+        "label": "Duka"
+      }
+    ],
+    "meds": [
+      [
+        "13833",
+        "grammar_sketch",
+        1973,
+        167,
+        "Bendor-Samuel, John Theodor and Skitch, Donna and Cressman, Esther 1973"
+      ],
+      [
+        "51033",
+        "grammar_sketch",
+        1971,
+        20,
+        "Bendor-Samuel, John T. and Cressman, Esther and Skitch, Donna 1971"
+      ],
+      [
+        "84099",
+        "wordlist_or_less",
+        1968,
+        1,
+        "Williamson, Kay and Shimizu, Kiyoshi 1968"
+      ],
+      [
+        "79196",
+        "wordlist_or_less",
+        1962,
+        1,
+        "Rowlands, E. C. 1962"
+      ],
+      [
+        "9468",
+        "wordlist_or_less",
+        1952,
+        1,
+        "Bertho, Jacques 1952"
+      ]
+    ]
+  },
+  "id": "huns1239",
+  "name": "Hun-Saare",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.7898,
+  "longitude": 5.07312,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Kainji",
+      "id": "kain1275",
+      "url": "https://glottolog.org/resource/languoid/id/kain1275"
+    },
+    {
+      "name": "Central Kainji",
+      "id": "cent2242",
+      "url": "https://glottolog.org/resource/languoid/id/cent2242"
+    },
+    {
+      "name": "Northwestern Kainji",
+      "id": "duka1247",
+      "url": "https://glottolog.org/resource/languoid/id/duka1247"
+    },
+    {
+      "name": "Dukaic",
+      "id": "duka1250",
+      "url": "https://glottolog.org/resource/languoid/id/duka1250"
+    }
+  ],
+  "iso639-3": "dud"
+}

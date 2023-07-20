@@ -1,0 +1,130 @@
+{
+  "pk": 18895,
+  "hid": "sli",
+  "father_pk": 16611,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Gebirgsschlesische [gebi1242]':1,'Mittelschlesische [mitt1254]':1,'Neiderländische [neid1234]':1,'Nordostböhmische [nord1234]':1,'Old Zipser [oldz1234]':1,'Südostschlesische [sudo1234]':1,'Westschlesische [west2896]':1)'Lower Silesian [lowe1388][sli]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5386",
+        "label": "Lower Silesian"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Silesian_German",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q152965",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "586957",
+        "grammar",
+        1972,
+        182,
+        "Elliott, Nancy Ann 1972"
+      ],
+      [
+        "578184",
+        "grammar_sketch",
+        1967,
+        156,
+        "Juraj Valiska 1967"
+      ],
+      [
+        "318248",
+        "grammar_sketch",
+        1911,
+        120,
+        "Konrad Gusinde 1911"
+      ],
+      [
+        "587218",
+        "grammar_sketch",
+        1905,
+        84,
+        "Gedeon, Alajos 1905"
+      ],
+      [
+        "588223",
+        "grammar_sketch",
+        1904,
+        0,
+        "Lersch, Ernő 1904"
+      ],
+      [
+        "577020",
+        "phonology_or_text",
+        1864,
+        69,
+        "Karl Julius Schröer 1864"
+      ]
+    ]
+  },
+  "id": "lowe1388",
+  "name": "Lower Silesian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 50.6963,
+  "longitude": 15.9667,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Germanic",
+      "id": "germ1287",
+      "url": "https://glottolog.org/resource/languoid/id/germ1287"
+    },
+    {
+      "name": "Northwest Germanic",
+      "id": "nort3152",
+      "url": "https://glottolog.org/resource/languoid/id/nort3152"
+    },
+    {
+      "name": "West Germanic",
+      "id": "west2793",
+      "url": "https://glottolog.org/resource/languoid/id/west2793"
+    },
+    {
+      "name": "High German",
+      "id": "high1289",
+      "url": "https://glottolog.org/resource/languoid/id/high1289"
+    },
+    {
+      "name": "Middle German",
+      "id": "fran1268",
+      "url": "https://glottolog.org/resource/languoid/id/fran1268"
+    },
+    {
+      "name": "East Middle German",
+      "id": "east2832",
+      "url": "https://glottolog.org/resource/languoid/id/east2832"
+    },
+    {
+      "name": "Schlesisch-Wilmesau",
+      "id": "schl1237",
+      "url": "https://glottolog.org/resource/languoid/id/schl1237"
+    }
+  ],
+  "iso639-3": "sli"
+}

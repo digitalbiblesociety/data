@@ -1,0 +1,93 @@
+{
+  "pk": 17470,
+  "hid": "ogn",
+  "father_pk": 15113,
+  "family_pk": 289,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "'Ogan [ogan1237][ogn]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "ogn",
+      "name": "Ogan",
+      "change_request": "2007-179",
+      "effective": "2008-01-14",
+      "reason": "merge",
+      "change_to": [
+        "pse"
+      ],
+      "remedy": "Merge into [pse] Central Malay",
+      "comment": "Central Malay is the proposed name for the language embracing the related Malay\ndialects of Pasemah, Lintang, Semendo, Ogan, Enim, Bengkulu, and Serawai Malay.\nCentral Malay is the historic name for the languages found in the highlands of\nthe Bukit Barisan mountains between South Sumatra, Lampung, and Bengkulu\nprovinces. According to Adelaar quoting Voorheeve, the term Middle Malay is a\npoor translation of the Dutch name for these languages, Midden Maleisch, and\nproperly translated should be Central Malay. (Adelaar 1992:4) Use of the name\nCentral Malay will reflect these group of dialects long standing position of\nbeing related and sharing a common culture."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12473456",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500248",
+        "wordlist_or_less",
+        2007,
+        0,
+        "ISO 639-3 Registration Authority 2007"
+      ]
+    ]
+  },
+  "id": "ogan1237",
+  "name": "Ogan",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Malayo-Sumbawan",
+      "id": "mala1536",
+      "url": "https://glottolog.org/resource/languoid/id/mala1536"
+    },
+    {
+      "name": "North and East Malayo-Sumbawan",
+      "id": "nort3170",
+      "url": "https://glottolog.org/resource/languoid/id/nort3170"
+    },
+    {
+      "name": "Malayic",
+      "id": "mala1538",
+      "url": "https://glottolog.org/resource/languoid/id/mala1538"
+    },
+    {
+      "name": "Nuclear Malayic",
+      "id": "nucl1806",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1806"
+    },
+    {
+      "name": "South Sumatra Malay",
+      "id": "high1292",
+      "url": "https://glottolog.org/resource/languoid/id/high1292"
+    },
+    {
+      "name": "South Barisan Malay",
+      "id": "cent2053",
+      "url": "https://glottolog.org/resource/languoid/id/cent2053"
+    }
+  ],
+  "iso639-3": "ogn"
+}

@@ -1,0 +1,93 @@
+{
+  "pk": 10280,
+  "hid": "lbf",
+  "father_pk": 7385,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tinani [tina1246][lbf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4483",
+        "label": "Tinani"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q784502",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tinani_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tni",
+        "label": "Tinani"
+      }
+    ],
+    "meds": [
+      [
+        "472416",
+        "grammar_sketch",
+        1992,
+        76,
+        "D. D. Sharma 1992"
+      ],
+      [
+        "551624",
+        "grammar_sketch",
+        1983,
+        0,
+        "Qu, Aitang and Tan, Kerang 1983"
+      ],
+      [
+        "160648",
+        "phonology_or_text",
+        1909,
+        11,
+        "Francke, August Hermann 1909"
+      ]
+    ]
+  },
+  "id": "tina1246",
+  "name": "Tinani",
+  "description": null,
+  "markup_description": null,
+  "latitude": 32.2852,
+  "longitude": 77.9912,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "West Himalayish",
+      "id": "tibe1275",
+      "url": "https://glottolog.org/resource/languoid/id/tibe1275"
+    },
+    {
+      "name": "Western West Himalayish",
+      "id": "west2868",
+      "url": "https://glottolog.org/resource/languoid/id/west2868"
+    },
+    {
+      "name": "Lahaulic",
+      "id": "laha1249",
+      "url": "https://glottolog.org/resource/languoid/id/laha1249"
+    }
+  ],
+  "iso639-3": "lbf"
+}

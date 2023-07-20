@@ -1,0 +1,113 @@
+{
+  "pk": 13853,
+  "hid": "gub",
+  "father_pk": 10815,
+  "family_pk": 51,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "('Guajajára of Mearim [mear1240]':1,'Guajajára of Pindare [pind1244]':1,'Guajajára of Zutiua [zuti1239]':1)'Guajajára [guaj1255][gub]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "gub",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "The Guajajara [gub] and Tembe [tqb] speak mutually intelligible varieties (**hh:e:Wagley:Tenetehara:1961**, **hh:d:Boudin:Tembe**, **hh:sv:daSilva:Tenetehara**) commonly referred to together as Tenetehara. See also: Tenetehara [tqb]."
+    },
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_gjj",
+        "label": "Guajajara"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/2694",
+        "label": "Guajajára"
+      },
+      {
+        "url": "https://phoible.org/languages/guaj1255",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q57420736",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "545706",
+        "phonology_or_text",
+        1986,
+        0,
+        "na 1986"
+      ],
+      [
+        "149234",
+        "wordlist_or_less",
+        1931,
+        0,
+        "Abreu, Fróes 1931"
+      ]
+    ]
+  },
+  "id": "guaj1255",
+  "name": "Guajajára",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.69461,
+  "longitude": -45.7081,
+  "classification": [
+    {
+      "name": "Tupian",
+      "id": "tupi1275",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1275"
+    },
+    {
+      "name": "Maweti-Guarani",
+      "id": "mawe1252",
+      "url": "https://glottolog.org/resource/languoid/id/mawe1252"
+    },
+    {
+      "name": "Aweti-Guarani",
+      "id": "awet1245",
+      "url": "https://glottolog.org/resource/languoid/id/awet1245"
+    },
+    {
+      "name": "Tupi-Guarani",
+      "id": "tupi1276",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1276"
+    },
+    {
+      "name": "Tupi-Guarani Subgroup IV",
+      "id": "tupi1279",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1279"
+    },
+    {
+      "name": "Tupi-Guarani Subgroup IV.B",
+      "id": "tupi1285",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1285"
+    },
+    {
+      "name": "Tenetehara",
+      "id": "temb1276",
+      "url": "https://glottolog.org/resource/languoid/id/temb1276"
+    }
+  ],
+  "iso639-3": "gub"
+}

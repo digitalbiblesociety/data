@@ -1,0 +1,80 @@
+{
+  "pk": 3596,
+  "hid": "xom",
+  "father_pk": 1925,
+  "family_pk": 29,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Komo {Sudan-Ethiopia} [komo1258][xom]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3233",
+        "label": "Komo"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56681",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Komo_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/komo1258",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kom",
+        "label": "Komo"
+      }
+    ],
+    "meds": [
+      [
+        "547327",
+        "long_grammar",
+        2014,
+        458,
+        "Tesfaye Negash Bayou 2014"
+      ],
+      [
+        "33628",
+        "grammar_sketch",
+        1907,
+        1,
+        "Hartland, Sidney E. 1907"
+      ]
+    ]
+  },
+  "id": "komo1258",
+  "name": "Komo (Sudan-Ethiopia)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 8.94162,
+  "longitude": 34.0939,
+  "classification": [
+    {
+      "name": "Koman",
+      "id": "koma1264",
+      "url": "https://glottolog.org/resource/languoid/id/koma1264"
+    },
+    {
+      "name": "Central Koman",
+      "id": "opuu1238",
+      "url": "https://glottolog.org/resource/languoid/id/opuu1238"
+    },
+    {
+      "name": "Komo-Uduk",
+      "id": "twam1235",
+      "url": "https://glottolog.org/resource/languoid/id/twam1235"
+    }
+  ],
+  "iso639-3": "xom"
+}

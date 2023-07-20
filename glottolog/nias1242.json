@@ -1,0 +1,112 @@
+{
+  "pk": 12321,
+  "hid": "nia",
+  "father_pk": 9395,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Nias [cent2397]':1,'Nias Selatan [batu1257]':1,'Nias Utara [nucl1464]':1)'Nias [nias1242][nia]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nia",
+        "label": "Nias"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nias_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nias1242",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2407831",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "164071",
+        "long_grammar",
+        2001,
+        626,
+        "Lea Brown 2001"
+      ],
+      [
+        "19341",
+        "grammar_sketch",
+        1913,
+        138,
+        "Sundermann, Heinrich 1913"
+      ],
+      [
+        "86309",
+        "grammar_sketch",
+        1882,
+        94,
+        "Sundermann, H. 1882"
+      ],
+      [
+        "112913",
+        "wordlist_or_less",
+        1878,
+        14,
+        "von Rosenberg, Carl Benjamin Hermann 1878"
+      ],
+      [
+        "323361",
+        "wordlist_or_less",
+        1782,
+        5,
+        "Marsden, William 1782"
+      ]
+    ]
+  },
+  "id": "nias1242",
+  "name": "Nias",
+  "description": null,
+  "markup_description": null,
+  "latitude": 0.90691,
+  "longitude": 97.4961,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Northwest Sumatra-Barrier Islands",
+      "id": "nort2829",
+      "url": "https://glottolog.org/resource/languoid/id/nort2829"
+    },
+    {
+      "name": "Nuclear Barrier Islands",
+      "id": "nucl1463",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1463"
+    },
+    {
+      "name": "Mentawai-Nias-Sikule",
+      "id": "ment1248",
+      "url": "https://glottolog.org/resource/languoid/id/ment1248"
+    },
+    {
+      "name": "Nias-Sikule",
+      "id": "nias1241",
+      "url": "https://glottolog.org/resource/languoid/id/nias1241"
+    }
+  ],
+  "iso639-3": "nia"
+}

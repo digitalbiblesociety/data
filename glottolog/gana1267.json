@@ -1,0 +1,92 @@
+{
+  "pk": 13470,
+  "hid": "zkn",
+  "father_pk": 10380,
+  "family_pk": 332,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "'Ganaan [gana1267][zkn]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "zkn",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 separates Kanan [zkn] from Kadu [zkd] who are culturally distinct,\nbut the two share 82%-90% of basic vocabulary (**hh:g:Sangdong:Kadu**:30), and are arguably one language from a linguistic perspective. See also: Kado [kdv]."
+    },
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10149",
+        "label": "Kanan"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q54548740",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500802",
+        "wordlist_or_less",
+        2011,
+        0,
+        "ISO 639-3 Registration Authority 2011"
+      ]
+    ]
+  },
+  "id": "gana1267",
+  "name": "Ganaan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 24.2042,
+  "longitude": 95.6332,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Brahmaputran",
+      "id": "brah1260",
+      "url": "https://glottolog.org/resource/languoid/id/brah1260"
+    },
+    {
+      "name": "Jingpho-Luish",
+      "id": "jing1259",
+      "url": "https://glottolog.org/resource/languoid/id/jing1259"
+    },
+    {
+      "name": "Luish",
+      "id": "sakk1239",
+      "url": "https://glottolog.org/resource/languoid/id/sakk1239"
+    },
+    {
+      "name": "Chakpa-Kadu-Ganan",
+      "id": "chak1277",
+      "url": "https://glottolog.org/resource/languoid/id/chak1277"
+    },
+    {
+      "name": "Kado",
+      "id": "kado1242",
+      "url": "https://glottolog.org/resource/languoid/id/kado1242"
+    }
+  ],
+  "iso639-3": "zkn"
+}

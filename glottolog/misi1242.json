@@ -1,0 +1,85 @@
+{
+  "pk": 7284,
+  "hid": "mrg",
+  "father_pk": 4945,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Minyong [miny1239]':1,'Miri {Arunachal Pradesh} [miri1271]':1,'Mising [miny1240]':1,'Padam [pada1257]':1)'Mising-Padam-Miri-Minyong [misi1242][mrg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4707",
+        "label": "Mising"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3316328",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mising_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mhl",
+        "label": "Miri (Hill):"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_msg",
+        "label": "Mising"
+      }
+    ],
+    "meds": [
+      [
+        "153090",
+        "grammar",
+        1886,
+        159,
+        "Needham, Jack F. 1886"
+      ],
+      [
+        "115954",
+        "wordlist_or_less",
+        1837,
+        1,
+        "Brown, Nathan 1837"
+      ]
+    ]
+  },
+  "id": "misi1242",
+  "name": "Mising-Padam-Miri-Minyong",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.418,
+  "longitude": 94.69,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Macro-Tani",
+      "id": "macr1268",
+      "url": "https://glottolog.org/resource/languoid/id/macr1268"
+    },
+    {
+      "name": "Tani",
+      "id": "tani1259",
+      "url": "https://glottolog.org/resource/languoid/id/tani1259"
+    },
+    {
+      "name": "Eastern Tani",
+      "id": "east2361",
+      "url": "https://glottolog.org/resource/languoid/id/east2361"
+    }
+  ],
+  "iso639-3": "mrg"
+}

@@ -1,0 +1,114 @@
+{
+  "pk": 15386,
+  "hid": "vep",
+  "father_pk": 12607,
+  "family_pk": 302,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Veps [cent1812]':1,'Prionezh [prio1238]':1,'Southern Veps [sout2680]':1)'Veps [veps1250][vep]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3002",
+        "label": "Veps"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_vep",
+        "label": "Veps"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Veps_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/veps1250",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q32747",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "89635",
+        "long_grammar",
+        1943,
+        585,
+        "Kettunen, Lauri 1943"
+      ],
+      [
+        "115450",
+        "grammar_sketch",
+        1935,
+        201,
+        "Kettunen, Lauri and Paavo Siro 1935"
+      ],
+      [
+        "317958",
+        "grammar_sketch",
+        1861,
+        65,
+        "August Ahlqvist 1861"
+      ],
+      [
+        "318296",
+        "phonology_or_text",
+        1853,
+        33,
+        "Lönnrot, Elias 1853"
+      ]
+    ]
+  },
+  "id": "veps1250",
+  "name": "Veps",
+  "description": null,
+  "markup_description": null,
+  "latitude": 60.3353,
+  "longitude": 34.7865,
+  "classification": [
+    {
+      "name": "Uralic",
+      "id": "ural1272",
+      "url": "https://glottolog.org/resource/languoid/id/ural1272"
+    },
+    {
+      "name": "Finnic",
+      "id": "finn1317",
+      "url": "https://glottolog.org/resource/languoid/id/finn1317"
+    },
+    {
+      "name": "Coastal Finnic",
+      "id": "coas1319",
+      "url": "https://glottolog.org/resource/languoid/id/coas1319"
+    },
+    {
+      "name": "Neva",
+      "id": "neva1234",
+      "url": "https://glottolog.org/resource/languoid/id/neva1234"
+    },
+    {
+      "name": "North Finnic",
+      "id": "nort3282",
+      "url": "https://glottolog.org/resource/languoid/id/nort3282"
+    },
+    {
+      "name": "Ladogan",
+      "id": "lado1234",
+      "url": "https://glottolog.org/resource/languoid/id/lado1234"
+    },
+    {
+      "name": "East Ladoga",
+      "id": "east2796",
+      "url": "https://glottolog.org/resource/languoid/id/east2796"
+    }
+  ],
+  "iso639-3": "vep"
+}

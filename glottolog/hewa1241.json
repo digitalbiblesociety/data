@@ -1,0 +1,91 @@
+{
+  "pk": 7019,
+  "hid": "ham",
+  "father_pk": 4815,
+  "family_pk": 304,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Lagaip [cent2108]':1,'Lower Lagaip [lowe1414]':1,'North Hewa [nort2904]':1,'Upper Lagaip [uppe1428]':1)'Hewa [hewa1241][ham]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10626",
+        "label": "Hewa"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5748345",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Hewa_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "44732",
+        "grammar_sketch",
+        1981,
+        74,
+        "Paul Vollrath 1981"
+      ],
+      [
+        "84447",
+        "grammar_sketch",
+        1968,
+        12,
+        "Anne Cochran 1968"
+      ],
+      [
+        "91310",
+        "wordlist_or_less",
+        1963,
+        3,
+        "Brian McBride 1963"
+      ],
+      [
+        "124652",
+        "wordlist_or_less",
+        1962,
+        2,
+        "D. J. Clancy 1962"
+      ]
+    ]
+  },
+  "id": "hewa1241",
+  "name": "Hewa",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.03635,
+  "longitude": 142.551,
+  "classification": [
+    {
+      "name": "Sepik",
+      "id": "sepi1257",
+      "url": "https://glottolog.org/resource/languoid/id/sepi1257"
+    },
+    {
+      "name": "Sepik Hill",
+      "id": "sepi1258",
+      "url": "https://glottolog.org/resource/languoid/id/sepi1258"
+    },
+    {
+      "name": "Western Sepik Hill",
+      "id": "west2576",
+      "url": "https://glottolog.org/resource/languoid/id/west2576"
+    },
+    {
+      "name": "Hewa-April River",
+      "id": "hewa1240",
+      "url": "https://glottolog.org/resource/languoid/id/hewa1240"
+    }
+  ],
+  "iso639-3": "ham"
+}

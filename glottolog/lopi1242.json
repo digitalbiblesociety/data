@@ -1,0 +1,111 @@
+{
+  "pk": 12656,
+  "hid": "lpx",
+  "father_pk": 9747,
+  "family_pk": 316,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Dorik [dori1249]':1,'Ngabori [ngab1240]':1)'Northern Lopit [nort3400]':1,('Lohutok [lohu1234]':1,'Lolongo [lolo1268]':1,'Lomiaha [lomi1238]':1,'Ngutira [ngut1234]':1)'Southern Lopit [sout3377]':1)'Lopit [lopi1242][lpx]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 8,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56684",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lopit_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "579346",
+        "long_grammar",
+        2020,
+        505,
+        "Jonathan Moodie and Rosey Billington 2020"
+      ],
+      [
+        "635822",
+        "long_grammar",
+        2019,
+        397,
+        "Jonathan Moodie 2019"
+      ],
+      [
+        "322614",
+        "grammar_sketch",
+        2014,
+        172,
+        "Ladu, Valente Otwari and Achaha Samuel Nartisio and Caesar Ongorwo Bong and Philip Horiho Odingo and Paul Atahar Gilbert and Timothy M. Stirtz 2014"
+      ],
+      [
+        "320050",
+        "phonology_or_text",
+        2012,
+        0,
+        "Moodie, Jonathan 2012"
+      ],
+      [
+        "139280",
+        "wordlist_or_less",
+        1982,
+        11,
+        "Vossen, Rainer 1982"
+      ],
+      [
+        "22632",
+        "wordlist_or_less",
+        1932,
+        2,
+        "Driberg, Jack H. 1932"
+      ]
+    ]
+  },
+  "id": "lopi1242",
+  "name": "Lopit",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.6986,
+  "longitude": 32.7534,
+  "classification": [
+    {
+      "name": "Nilotic",
+      "id": "nilo1247",
+      "url": "https://glottolog.org/resource/languoid/id/nilo1247"
+    },
+    {
+      "name": "Eastern Nilotic",
+      "id": "east2418",
+      "url": "https://glottolog.org/resource/languoid/id/east2418"
+    },
+    {
+      "name": "Teso-Lotuxo-Maa",
+      "id": "teso1247",
+      "url": "https://glottolog.org/resource/languoid/id/teso1247"
+    },
+    {
+      "name": "Lotuxo-Maa",
+      "id": "lotu1248",
+      "url": "https://glottolog.org/resource/languoid/id/lotu1248"
+    },
+    {
+      "name": "Lotuxo",
+      "id": "lotu1249",
+      "url": "https://glottolog.org/resource/languoid/id/lotu1249"
+    },
+    {
+      "name": "Lopit-Dongotono",
+      "id": "lopi1244",
+      "url": "https://glottolog.org/resource/languoid/id/lopi1244"
+    }
+  ],
+  "iso639-3": "lpx"
+}

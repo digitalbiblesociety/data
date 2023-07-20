@@ -1,0 +1,77 @@
+{
+  "pk": 682,
+  "hid": "dap",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Dafla [nisi1239][dap]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "dap",
+      "name": "Nisi (India)",
+      "change_request": "2011-132",
+      "effective": "2012-02-03",
+      "reason": "split",
+      "change_to": [
+        "njz",
+        "tgj"
+      ],
+      "remedy": "Split into Nyishi [njz] and Tagin [tgj]",
+      "comment": "A research work was done in 2001 by Annie Susan Samuel, Marshall Joshua, Mathews\nJohn among the people group of Arunachal Pradesh. They mentioned that they speak\ntheir own language Tagin along with other neighbouring languages like Hindi,\nAssamese, ect.\n\nTagin & Sulung tribes of Arunachal: A sociolinguistic survey, NLCI 2007 says\nthat Tagin and Nisi are two different languages. Nisi language shows 54-60% of\nlexical similarity with T agin.\n\nThe LUAV Questionnaire finding is Tagin is used widely in almost all of the\nimportant domains, and the mother tongue speakers of Tagin have a very good,\npositive attitude toward it. Tagins would like to see their language developed."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Nishi_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56870",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500143",
+        "wordlist_or_less",
+        2011,
+        0,
+        "ISO 639-3 Registration Authority 2011"
+      ],
+      [
+        "29993",
+        "wordlist_or_less",
+        2006,
+        127,
+        "Chutia, Ramchandra 2006"
+      ],
+      [
+        "86722",
+        "wordlist_or_less",
+        1995,
+        0,
+        "na 1995"
+      ]
+    ]
+  },
+  "id": "nisi1239",
+  "name": "Dafla",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.3708,
+  "longitude": 93.1284,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "dap"
+}

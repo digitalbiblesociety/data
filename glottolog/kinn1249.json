@@ -1,0 +1,104 @@
+{
+  "pk": 10281,
+  "hid": "kfk",
+  "father_pk": 7386,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kalpa [kalp1234]':1,'Nichar [nich1234]':1,('Razgramang [razg1239]':1,'Tukpa [tukp1240]':1)'Sangla [sang1346]':1)'Kinnauri [kinn1249][kfk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4373",
+        "label": "Kinnauri"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2383208",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kinnauri_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kinn1249",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_knn",
+        "label": "Kinnauri"
+      }
+    ],
+    "meds": [
+      [
+        "136473",
+        "grammar",
+        1988,
+        219,
+        "D. D. Sharma 1988"
+      ],
+      [
+        "314250",
+        "grammar",
+        1967,
+        0,
+        "N. Ramasubrahmanian 1967"
+      ],
+      [
+        "72962",
+        "grammar_sketch",
+        1909,
+        84,
+        "Joshi, Pandit Tîkâ Râm 1909"
+      ],
+      [
+        "152656",
+        "wordlist_or_less",
+        1842,
+        23,
+        "Gerard, Alexander 1842"
+      ]
+    ]
+  },
+  "id": "kinn1249",
+  "name": "Kinnauri",
+  "description": null,
+  "markup_description": null,
+  "latitude": 31.3688,
+  "longitude": 78.3148,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "West Himalayish",
+      "id": "tibe1275",
+      "url": "https://glottolog.org/resource/languoid/id/tibe1275"
+    },
+    {
+      "name": "Western West Himalayish",
+      "id": "west2868",
+      "url": "https://glottolog.org/resource/languoid/id/west2868"
+    },
+    {
+      "name": "Kinnauric",
+      "id": "kinn1250",
+      "url": "https://glottolog.org/resource/languoid/id/kinn1250"
+    }
+  ],
+  "iso639-3": "kfk"
+}

@@ -1,0 +1,103 @@
+{
+  "pk": 8570,
+  "hid": "crn",
+  "father_pk": 6108,
+  "family_pk": 155,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Jesús María Cora [jesu1238]':1,'La Mesa del Nayar Cora [lame1261]':1,'Presidio de los Reyes Cora [pres1239]':1,'San Francisco Cora [sanf1259]':1)'El Nayar Cora [elna1235][crn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6202",
+        "label": "Cora"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_cor",
+        "label": "Cora"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12953454",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "102453",
+        "long_grammar",
+        1984,
+        307,
+        "Casad, Eugene H. 1984"
+      ],
+      [
+        "162731",
+        "grammar_sketch",
+        1982,
+        221,
+        "Casad, Eugene Homer 1982"
+      ],
+      [
+        "95416",
+        "grammar_sketch",
+        1932,
+        102,
+        "Konrad Th. Preuss 1932"
+      ],
+      [
+        "663224",
+        "phonology_or_text",
+        1859,
+        20,
+        "José Luis Iturrioz 2009 [1859]"
+      ],
+      [
+        "318821",
+        "wordlist_or_less",
+        1732,
+        45,
+        "de Ortega, Joseph 1860 [1732]"
+      ]
+    ]
+  },
+  "id": "elna1235",
+  "name": "El Nayar Cora",
+  "description": null,
+  "markup_description": null,
+  "latitude": 22.4099,
+  "longitude": -104.467,
+  "classification": [
+    {
+      "name": "Uto-Aztecan",
+      "id": "utoa1244",
+      "url": "https://glottolog.org/resource/languoid/id/utoa1244"
+    },
+    {
+      "name": "Southern Uto-Aztecan",
+      "id": "sout3136",
+      "url": "https://glottolog.org/resource/languoid/id/sout3136"
+    },
+    {
+      "name": "Corachol-Aztecan",
+      "id": "cora1261",
+      "url": "https://glottolog.org/resource/languoid/id/cora1261"
+    },
+    {
+      "name": "Corachol",
+      "id": "cora1259",
+      "url": "https://glottolog.org/resource/languoid/id/cora1259"
+    },
+    {
+      "name": "Coran",
+      "id": "cora1260",
+      "url": "https://glottolog.org/resource/languoid/id/cora1260"
+    }
+  ],
+  "iso639-3": "crn"
+}

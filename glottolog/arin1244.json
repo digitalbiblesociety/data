@@ -1,0 +1,72 @@
+{
+  "pk": 3956,
+  "hid": "luc",
+  "father_pk": 2244,
+  "family_pk": 140,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Aringa [arin1244][luc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56556",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Aringa_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/arin1244",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "92759",
+        "wordlist_or_less",
+        1999,
+        10,
+        "Boone, Douglas W. and Watson, Richard L. 1999"
+      ],
+      [
+        "319254",
+        "wordlist_or_less",
+        1971,
+        2,
+        "Maguire, Vincent 1971"
+      ]
+    ]
+  },
+  "id": "arin1244",
+  "name": "Aringa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 3.56143,
+  "longitude": 31.3071,
+  "classification": [
+    {
+      "name": "Central Sudanic",
+      "id": "cent2225",
+      "url": "https://glottolog.org/resource/languoid/id/cent2225"
+    },
+    {
+      "name": "Moru-Madi",
+      "id": "moru1252",
+      "url": "https://glottolog.org/resource/languoid/id/moru1252"
+    },
+    {
+      "name": "Central Moru-Madi",
+      "id": "cent2043",
+      "url": "https://glottolog.org/resource/languoid/id/cent2043"
+    }
+  ],
+  "iso639-3": "luc"
+}

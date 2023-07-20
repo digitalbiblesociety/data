@@ -1,0 +1,76 @@
+{
+  "pk": 12009,
+  "hid": "mdc",
+  "father_pk": 9185,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Male {Papua New Guinea} [male1291][mdc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6742927",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Male_language_(Papuan)",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "163266",
+        "wordlist_or_less",
+        1899,
+        73,
+        "Hagen, Bernhard 1899"
+      ]
+    ]
+  },
+  "id": "male1291",
+  "name": "Male (Papua New Guinea)",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.49975,
+  "longitude": 145.757,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Madang",
+      "id": "mada1298",
+      "url": "https://glottolog.org/resource/languoid/id/mada1298"
+    },
+    {
+      "name": "Rai Coast",
+      "id": "raic1241",
+      "url": "https://glottolog.org/resource/languoid/id/raic1241"
+    },
+    {
+      "name": "Mindjim",
+      "id": "mind1258",
+      "url": "https://glottolog.org/resource/languoid/id/mind1258"
+    },
+    {
+      "name": "Lower Minjim",
+      "id": "lowe1462",
+      "url": "https://glottolog.org/resource/languoid/id/lowe1462"
+    },
+    {
+      "name": "Inland Minjim",
+      "id": "inla1274",
+      "url": "https://glottolog.org/resource/languoid/id/inla1274"
+    }
+  ],
+  "iso639-3": "mdc"
+}

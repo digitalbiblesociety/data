@@ -1,0 +1,116 @@
+{
+  "pk": 13183,
+  "hid": "acn",
+  "father_pk": 10120,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Longchuan [long1373]':1,'Maingtha [main1270]':1,'Xiandao [xian1249][xia]':1)'Longchuan Achang [acha1249][acn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_acn",
+        "label": "Achang"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/3255",
+        "label": "Xiandao"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Achang_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/acha1249",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56582",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "322078",
+        "long_grammar",
+        2005,
+        335,
+        "Dai, Qingxia 2005"
+      ],
+      [
+        "62425",
+        "grammar",
+        1985,
+        135,
+        "Dai, Chuangxia 1985"
+      ],
+      [
+        "300641",
+        "phonology_or_text",
+        1983,
+        12,
+        "Dai, Qingxia and Cui, Zhichao 1983"
+      ],
+      [
+        "669358",
+        "wordlist_or_less",
+        1980,
+        100,
+        "Wenyu Zhou 1980"
+      ],
+      [
+        "439579",
+        "wordlist_or_less",
+        1909,
+        21,
+        "Davies, Henry R. 1909"
+      ]
+    ]
+  },
+  "id": "acha1249",
+  "name": "Longchuan Achang",
+  "description": null,
+  "markup_description": null,
+  "latitude": 24.3479,
+  "longitude": 97.7438,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Burmo-Qiangic",
+      "id": "burm1265",
+      "url": "https://glottolog.org/resource/languoid/id/burm1265"
+    },
+    {
+      "name": "Lolo-Burmese",
+      "id": "lolo1265",
+      "url": "https://glottolog.org/resource/languoid/id/lolo1265"
+    },
+    {
+      "name": "Burmish",
+      "id": "burm1266",
+      "url": "https://glottolog.org/resource/languoid/id/burm1266"
+    },
+    {
+      "name": "Southern Burmish",
+      "id": "sout3159",
+      "url": "https://glottolog.org/resource/languoid/id/sout3159"
+    },
+    {
+      "name": "Achangic",
+      "id": "acha1252",
+      "url": "https://glottolog.org/resource/languoid/id/acha1252"
+    }
+  ],
+  "iso639-3": "acn"
+}

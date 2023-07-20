@@ -1,0 +1,111 @@
+{
+  "pk": 11782,
+  "hid": "mau",
+  "father_pk": 8969,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('San Mateo [sanm1303]':1,'San Miguel [sanm1304]':1)'Huautla Mazatec [huau1238][mau]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mzh",
+        "label": "Mazatec (Huautla)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q63278779",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "406746",
+        "grammar_sketch",
+        2013,
+        183,
+        "García García, Eloy 2013"
+      ],
+      [
+        "26675",
+        "grammar_sketch",
+        1974,
+        23,
+        "Cowan, George M. 1974"
+      ],
+      [
+        "183476",
+        "grammar_sketch",
+        1967,
+        20,
+        "Pike, Eunice V. 1967"
+      ],
+      [
+        "118226",
+        "phonology_or_text",
+        1952,
+        62,
+        "Pike, Eunice V. 1952"
+      ],
+      [
+        "71997",
+        "phonology_or_text",
+        1937,
+        4,
+        "Cowan, Florence H. 1937"
+      ],
+      [
+        "157300",
+        "wordlist_or_less",
+        1920,
+        21,
+        "Walther Lehmann 1920"
+      ]
+    ]
+  },
+  "id": "huau1238",
+  "name": "Huautla Mazatec",
+  "description": null,
+  "markup_description": null,
+  "latitude": 18.2556,
+  "longitude": -96.724,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Popoloca-Zapotecan",
+      "id": "popo1292",
+      "url": "https://glottolog.org/resource/languoid/id/popo1292"
+    },
+    {
+      "name": "Popolocan-Mazatecan",
+      "id": "popo1293",
+      "url": "https://glottolog.org/resource/languoid/id/popo1293"
+    },
+    {
+      "name": "Mazatecan",
+      "id": "maza1295",
+      "url": "https://glottolog.org/resource/languoid/id/maza1295"
+    },
+    {
+      "name": "Central Mazatec",
+      "id": "maza1309",
+      "url": "https://glottolog.org/resource/languoid/id/maza1309"
+    }
+  ],
+  "iso639-3": "mau"
+}

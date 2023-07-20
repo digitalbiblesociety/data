@@ -1,0 +1,104 @@
+{
+  "pk": 8763,
+  "hid": "tae",
+  "father_pk": 6245,
+  "family_pk": 177,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kumandene Tariana [kuma1282]':1,('Periquitos Tariana [peri1265]':1,'Santa Rosa Tariana [sant1459]':1)'Periquitos-Santa Rosa Tariana [peri1264]':1)'Tariana [tari1256][tae]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2167",
+        "label": "Tariana"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q732726",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tariana_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/tari1256",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tar",
+        "label": "Tariana"
+      }
+    ],
+    "meds": [
+      [
+        "126966",
+        "long_grammar",
+        2003,
+        729,
+        "Alexandra Aikhenvald 2003"
+      ],
+      [
+        "52670",
+        "grammar",
+        1962,
+        0,
+        "Giacone, Antonio 1962"
+      ],
+      [
+        "11106",
+        "wordlist_or_less",
+        1887,
+        62,
+        "Coudreau, Henri A. 1887"
+      ],
+      [
+        "309121",
+        "wordlist_or_less",
+        1853,
+        17,
+        "Alfred R. Wallace 1853"
+      ]
+    ]
+  },
+  "id": "tari1256",
+  "name": "Tariana",
+  "description": null,
+  "markup_description": null,
+  "latitude": 0.440205,
+  "longitude": -68.9042,
+  "classification": [
+    {
+      "name": "Arawakan",
+      "id": "araw1281",
+      "url": "https://glottolog.org/resource/languoid/id/araw1281"
+    },
+    {
+      "name": "Japura-Colombia",
+      "id": "japu1236",
+      "url": "https://glottolog.org/resource/languoid/id/japu1236"
+    },
+    {
+      "name": "Nuclear Japura-Colombia",
+      "id": "nucl1764",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1764"
+    },
+    {
+      "name": "Northeast Japura-Colombia",
+      "id": "nort3362",
+      "url": "https://glottolog.org/resource/languoid/id/nort3362"
+    },
+    {
+      "name": "Baniwa-Curripaco-Tariano",
+      "id": "bani1258",
+      "url": "https://glottolog.org/resource/languoid/id/bani1258"
+    }
+  ],
+  "iso639-3": "tae"
+}

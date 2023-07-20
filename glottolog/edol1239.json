@@ -1,0 +1,74 @@
+{
+  "pk": 3433,
+  "hid": "etr",
+  "father_pk": 1839,
+  "family_pk": 405,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Eastern Edolo [east2495]':1,'Western Edolo [west2574]':1)'Edolo [edol1239][etr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_edo",
+        "label": "Edolo"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Edolo_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5340184",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "60460",
+        "grammar_sketch",
+        1994,
+        153,
+        "Jan D. Gossner 1994"
+      ],
+      [
+        "13373",
+        "wordlist_or_less",
+        1986,
+        1,
+        "Daniel Shaw 1986"
+      ],
+      [
+        "132500",
+        "wordlist_or_less",
+        1977,
+        345,
+        "Kelly, Raymond C. 1977"
+      ]
+    ]
+  },
+  "id": "edol1239",
+  "name": "Edolo",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.11618,
+  "longitude": 142.65,
+  "classification": [
+    {
+      "name": "Bosavi",
+      "id": "bosa1245",
+      "url": "https://glottolog.org/resource/languoid/id/bosa1245"
+    },
+    {
+      "name": "Etoro-Bedamini",
+      "id": "etor1234",
+      "url": "https://glottolog.org/resource/languoid/id/etor1234"
+    }
+  ],
+  "iso639-3": "etr"
+}

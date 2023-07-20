@@ -1,0 +1,67 @@
+{
+  "pk": 491,
+  "hid": "ccx",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Northern Zhuang [nort3249][ccx]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "ccx",
+      "name": "Northern Zhuang",
+      "change_request": "2007-027",
+      "effective": "2008-01-14",
+      "reason": "split",
+      "change_to": [
+        "zgn",
+        "zlj",
+        "zqe",
+        "zgb",
+        "zyj",
+        "zch",
+        "zeh",
+        "zlq",
+        "zyb",
+        "zln"
+      ],
+      "remedy": "Split into ten languages: Guibian Zh [zgn]; Liujiang Zh [zlj]; Qiubei Zh [zqe]; Guibei Zh [zgb]; Youjiang Zh [zyj]; Central Hongshuihe Zh [zch]; Eastern Hongshuihe Zh [zeh]; Liuqian Zh [zlq]; Yongbei Zh [zyb]; Lianshan Zh [zln].",
+      "comment": "Speakers of each proposed separate language only have marginal understanding of\nthe other languages. There is no central variety that speakers of the proposed\nlanguages understand."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3575458",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500617",
+        "wordlist_or_less",
+        2007,
+        0,
+        "ISO 639-3 Registration Authority 2007"
+      ]
+    ]
+  },
+  "id": "nort3249",
+  "name": "Northern Zhuang",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "ccx"
+}

@@ -1,0 +1,142 @@
+{
+  "pk": 18906,
+  "hid": "nld",
+  "father_pk": 16617,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('South Guelderish [sout2637]':1,('Bildts [bild1234]':1,'Nuclear South Hollandish [nucl1781]':1,'Town Frisian [town1239]':1)'South Hollandish [sout3293]':1,'Utrechts [utre1235]':1)'Central Northern Dutch [cent2352]':1,('Antwerps [antw1238]':1,('East Brabants [east2876]':1,('Antwerp Brabants [antw1239]':1,'Brusseleir [brus1234]':1)'South Brabants [sout3365]':1,'West Brabants [west2974]':1)'Brabants [brab1243]':1,'Oost-Vlaams [oost1241]':1)'Central Southern Dutch [cent2353]':1,'North Hollandish [nort2636]':1)'Dutch [dutc1256][nld]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 17,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_dut",
+        "label": "Dutch"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_dbr",
+        "label": "Dutch (Brabantic)"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_dli",
+        "label": "Dutch (Limburg)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dutch_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/dutc1256",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7411",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "569285",
+        "long_grammar",
+        1952,
+        560,
+        "A. P. De Bont 1952"
+      ],
+      [
+        "319872",
+        "grammar",
+        1891,
+        216,
+        "J. M. Hoogvliet 1891"
+      ],
+      [
+        "586329",
+        "grammar_sketch",
+        1846,
+        419,
+        "Willem Gerard Brill 1846"
+      ],
+      [
+        "575643",
+        "grammar_sketch",
+        1840,
+        206,
+        "Olinger, Abbé 1840"
+      ],
+      [
+        "320617",
+        "grammar_sketch",
+        1625,
+        136,
+        "Christiaen van Heule 1625"
+      ],
+      [
+        "589599",
+        "grammar_sketch",
+        1584,
+        128,
+        "Hendrik Laurensz Spiegel 1584"
+      ]
+    ]
+  },
+  "id": "dutc1256",
+  "name": "Dutch",
+  "description": null,
+  "markup_description": null,
+  "latitude": 52,
+  "longitude": 5,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Germanic",
+      "id": "germ1287",
+      "url": "https://glottolog.org/resource/languoid/id/germ1287"
+    },
+    {
+      "name": "Northwest Germanic",
+      "id": "nort3152",
+      "url": "https://glottolog.org/resource/languoid/id/nort3152"
+    },
+    {
+      "name": "West Germanic",
+      "id": "west2793",
+      "url": "https://glottolog.org/resource/languoid/id/west2793"
+    },
+    {
+      "name": "Macro-Dutch",
+      "id": "macr1270",
+      "url": "https://glottolog.org/resource/languoid/id/macr1270"
+    },
+    {
+      "name": "Middle-Modern Dutch",
+      "id": "midd1347",
+      "url": "https://glottolog.org/resource/languoid/id/midd1347"
+    },
+    {
+      "name": "Modern Dutch",
+      "id": "mode1257",
+      "url": "https://glottolog.org/resource/languoid/id/mode1257"
+    },
+    {
+      "name": "Global Dutch",
+      "id": "glob1241",
+      "url": "https://glottolog.org/resource/languoid/id/glob1241"
+    }
+  ],
+  "iso639-3": "nld"
+}

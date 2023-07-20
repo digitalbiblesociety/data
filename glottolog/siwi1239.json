@@ -1,0 +1,106 @@
+{
+  "pk": 5747,
+  "hid": "siz",
+  "father_pk": 3802,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Siwi [siwi1239][siz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/295",
+        "label": "Siwi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36814",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Siwi_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/siwi1239",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bsi",
+        "label": "Berber (Siwa)"
+      }
+    ],
+    "meds": [
+      [
+        "552002",
+        "long_grammar",
+        2015,
+        342,
+        "Valentina Schiattarella 2015"
+      ],
+      [
+        "57375",
+        "long_grammar",
+        1932,
+        317,
+        "Laoust, Émile 1932"
+      ],
+      [
+        "105310",
+        "grammar_sketch",
+        1890,
+        106,
+        "Basset, René 1890"
+      ],
+      [
+        "91856",
+        "grammar_sketch",
+        1803,
+        38,
+        "Hornemann, F. 1803"
+      ],
+      [
+        "44311",
+        "grammar_sketch",
+        1802,
+        0,
+        "Marsden, William 1802"
+      ]
+    ]
+  },
+  "id": "siwi1239",
+  "name": "Siwi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 29.200415,
+  "longitude": 25.519627,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Berber",
+      "id": "berb1260",
+      "url": "https://glottolog.org/resource/languoid/id/berb1260"
+    },
+    {
+      "name": "Greater Zenatic",
+      "id": "grea1296",
+      "url": "https://glottolog.org/resource/languoid/id/grea1296"
+    },
+    {
+      "name": "Libyan-Egyptian Oases Berber",
+      "id": "siwi1238",
+      "url": "https://glottolog.org/resource/languoid/id/siwi1238"
+    }
+  ],
+  "iso639-3": "siz"
+}

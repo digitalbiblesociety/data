@@ -1,0 +1,78 @@
+{
+  "pk": 3278,
+  "hid": "myo",
+  "father_pk": 1720,
+  "family_pk": 342,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Anfillo [anfi1235][myo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2675",
+        "label": "Anfillo"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q34928",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Anfillo_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/anfi1235",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "473013",
+        "grammar",
+        1995,
+        27,
+        "Yigezu, Moges and Yehualashet, Yeshuma 1995"
+      ],
+      [
+        "63540",
+        "phonology_or_text",
+        1994,
+        90,
+        "Gebre, Bizuneh 1994"
+      ],
+      [
+        "92600",
+        "wordlist_or_less",
+        1940,
+        112,
+        "Grottanelli, Vinigi L. 1940"
+      ]
+    ]
+  },
+  "id": "anfi1235",
+  "name": "Anfillo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 8.568,
+  "longitude": 34.647,
+  "classification": [
+    {
+      "name": "Ta-Ne-Omotic",
+      "id": "gong1255",
+      "url": "https://glottolog.org/resource/languoid/id/gong1255"
+    },
+    {
+      "name": "Kefoid",
+      "id": "gong1256",
+      "url": "https://glottolog.org/resource/languoid/id/gong1256"
+    }
+  ],
+  "iso639-3": "myo"
+}

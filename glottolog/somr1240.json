@@ -1,0 +1,72 @@
+{
+  "pk": 5322,
+  "hid": "smu",
+  "father_pk": 3492,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Somray of Battambang-Somre of Siem Reap [somr1240][smu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5394",
+        "label": "Somray"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6583612",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Somray_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "110062",
+        "phonology_or_text",
+        1974,
+        10,
+        "Martin, Marie Alexandrine 1974"
+      ],
+      [
+        "550915",
+        "wordlist_or_less",
+        1883,
+        351,
+        "Moura, Jean 1883"
+      ]
+    ]
+  },
+  "id": "somr1240",
+  "name": "Somray of Battambang-Somre of Siem Reap",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.243,
+  "longitude": 103.139,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Pearic",
+      "id": "pear1246",
+      "url": "https://glottolog.org/resource/languoid/id/pear1246"
+    },
+    {
+      "name": "Western Pearic",
+      "id": "west2394",
+      "url": "https://glottolog.org/resource/languoid/id/west2394"
+    }
+  ],
+  "iso639-3": "smu"
+}

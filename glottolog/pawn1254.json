@@ -1,0 +1,102 @@
+{
+  "pk": 6302,
+  "hid": "paw",
+  "father_pk": 4248,
+  "family_pk": 183,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Skiri [skir1238]':1,'South Band [sout2966]':1)'Pawnee [pawn1254][paw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1536",
+        "label": "Pawnee"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_pwn",
+        "label": "Pawnee"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Pawnee_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56751",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "151898",
+        "long_grammar",
+        1976,
+        374,
+        "Parks, Douglas Richard 1976"
+      ],
+      [
+        "310646",
+        "long_grammar",
+        1972,
+        361,
+        "Parks, Douglas Richard 1972"
+      ],
+      [
+        "567946",
+        "grammar_sketch",
+        1940,
+        53,
+        "Dorsey, G. A., and J. R. Murie. 1940"
+      ],
+      [
+        "138219",
+        "grammar_sketch",
+        1868,
+        11,
+        "F. V. Hayden 1868"
+      ],
+      [
+        "14992",
+        "wordlist_or_less",
+        1862,
+        13,
+        "F. V. Hayden 1862"
+      ]
+    ]
+  },
+  "id": "pawn1254",
+  "name": "Pawnee",
+  "description": null,
+  "markup_description": null,
+  "latitude": 36.2862,
+  "longitude": -96.8937,
+  "classification": [
+    {
+      "name": "Caddoan",
+      "id": "cadd1255",
+      "url": "https://glottolog.org/resource/languoid/id/cadd1255"
+    },
+    {
+      "name": "Northern Caddoan",
+      "id": "nort2950",
+      "url": "https://glottolog.org/resource/languoid/id/nort2950"
+    },
+    {
+      "name": "Pawnee-Kitsai",
+      "id": "pawn1252",
+      "url": "https://glottolog.org/resource/languoid/id/pawn1252"
+    },
+    {
+      "name": "Pawnee-Arikara",
+      "id": "pawn1253",
+      "url": "https://glottolog.org/resource/languoid/id/pawn1253"
+    }
+  ],
+  "iso639-3": "paw"
+}

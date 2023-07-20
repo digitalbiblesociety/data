@@ -1,0 +1,109 @@
+{
+  "pk": 6286,
+  "hid": "moe",
+  "father_pk": 4235,
+  "family_pk": 178,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Eastern Montagnais [east2540]':1,'Western Montagnais [west2627]':1)'Montagnais [mont1268][moe]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/11029",
+        "label": "Innu"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mtg",
+        "label": "Montagnais"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Innu-aimun",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q13351",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "320700",
+        "long_grammar",
+        2014,
+        680,
+        "Lynn Drapeau 2014"
+      ],
+      [
+        "92092",
+        "long_grammar",
+        2007,
+        355,
+        "Oxford, Will 2007"
+      ],
+      [
+        "91725",
+        "grammar",
+        1982,
+        193,
+        "Sandra Clarke 1982"
+      ],
+      [
+        "303140",
+        "grammar_sketch",
+        1971,
+        99,
+        "McNulty, Gerry 1971"
+      ],
+      [
+        "574221",
+        "grammar_sketch",
+        1947,
+        78,
+        "Lips, J. E. 1947"
+      ],
+      [
+        "115138",
+        "phonology_or_text",
+        1901,
+        0,
+        "Lemoine, Geo 1901"
+      ]
+    ]
+  },
+  "id": "mont1268",
+  "name": "Montagnais",
+  "description": null,
+  "markup_description": null,
+  "latitude": 49.0533,
+  "longitude": -68.7376,
+  "classification": [
+    {
+      "name": "Algic",
+      "id": "algi1248",
+      "url": "https://glottolog.org/resource/languoid/id/algi1248"
+    },
+    {
+      "name": "Algonquian-Blackfoot",
+      "id": "algo1256",
+      "url": "https://glottolog.org/resource/languoid/id/algo1256"
+    },
+    {
+      "name": "Algonquian",
+      "id": "algo1257",
+      "url": "https://glottolog.org/resource/languoid/id/algo1257"
+    },
+    {
+      "name": "Cree-Montagnais-Naskapi",
+      "id": "cree1271",
+      "url": "https://glottolog.org/resource/languoid/id/cree1271"
+    }
+  ],
+  "iso639-3": "moe"
+}

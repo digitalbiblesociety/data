@@ -1,0 +1,69 @@
+{
+  "pk": 4853,
+  "hid": "din",
+  "father_pk": 3109,
+  "family_pk": 316,
+  "level": "family",
+  "bookkeeping": false,
+  "category": "Family",
+  "newick": "(('Abiliang [abil1238]':1,'Ageer [agee1238]':1,'Dongjol [dong1295]':1,'Luac [luac1241]':1,'Ngok-Sobat [ngok1245]':1,'Rut [rutt1238]':1,'Thoi [thoi1238]':1)'Northeastern Dinka [nort2815][dip]-l-':1,('Alor {Nilotic} [alor1246]':1,'Ngok-Kordofan [ngok1246]':1,'Pan Aru [pana1299]':1,'Pawany [pawa1254]':1)'Northwestern Dinka [nort2816][diw]-l-':1,('Agar [agar1249]':1,'Aliap [alia1238]':1,'Ciec [ciec1238]':1,'Gok [gokk1238]':1)'South Central Dinka [sout2833][dib]-l-':1,('Athoc [atho1238]':1,'Bor [borr1242]':1,'Ghol [ghol1238]':1,'Nyarweng [nyar1247]':1,'Tuic [tuic1247]':1)'Southeastern Dinka [sout2834][dks]-l-':1,('Abiem [abie1238]':1,'Aguok [aguo1238]':1,'Apuk [apuk1238]':1,'Awan [awan1239]':1,'Lau {Nilotic} [lauu1246]':1,'Luac {Southwestern Dinka} [luac1242]':1,'Malual [malu1244]':1,'Paliet [pali1277]':1,'Palioupiny [pali1276]':1,'Rek [rekk1238]':1,'Tuic {Southwestern Dinka} [tuic1246]':1)'Southwestern Dinka [sout2832][dik]-l-':1)'Dinka [dink1262][din]':1",
+  "child_family_count": 0,
+  "child_language_count": 5,
+  "child_dialect_count": 31,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_din",
+        "label": "Dinka"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dinka_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/dink1262",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56466",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "34200",
+        "phonology_or_text",
+        1979,
+        0,
+        "Nebel, Arthur 1979"
+      ]
+    ]
+  },
+  "id": "dink1262",
+  "name": "Dinka",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Nilotic",
+      "id": "nilo1247",
+      "url": "https://glottolog.org/resource/languoid/id/nilo1247"
+    },
+    {
+      "name": "Western Nilotic",
+      "id": "west2493",
+      "url": "https://glottolog.org/resource/languoid/id/west2493"
+    },
+    {
+      "name": "Dinka-Nuer",
+      "id": "dink1261",
+      "url": "https://glottolog.org/resource/languoid/id/dink1261"
+    }
+  ],
+  "iso639-3": "din"
+}

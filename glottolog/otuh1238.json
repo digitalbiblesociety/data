@@ -1,0 +1,108 @@
+{
+  "pk": 12654,
+  "hid": "lot",
+  "father_pk": 9746,
+  "family_pk": 316,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Koriok [kori1260]':1,'Logiri [logi1238]':1,'Logotok [logo1260]':1,'Lomya [lomy1239]':1,'Lorwama [lorw1238]':1,'Lowudo [lowu1240]':1)'Otuho [otuh1238][lot]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Otuho_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/otuh1238",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56672",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "68467",
+        "long_grammar",
+        1938,
+        525,
+        "Muratori, Carlo P. 1938"
+      ],
+      [
+        "51528",
+        "grammar_sketch",
+        1936,
+        40,
+        "Arber, Hugh A. 1936"
+      ],
+      [
+        "40449",
+        "grammar_sketch",
+        1922,
+        30,
+        "Raglan, [Lord] F. 1922"
+      ],
+      [
+        "16765",
+        "wordlist_or_less",
+        1882,
+        6,
+        "Bey, Emin (Eduard Schnitzer) 1882"
+      ],
+      [
+        "46117",
+        "wordlist_or_less",
+        1866,
+        123,
+        "Baker, Samuel White 1866"
+      ]
+    ]
+  },
+  "id": "otuh1238",
+  "name": "Otuho",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.16379,
+  "longitude": 32.6641,
+  "classification": [
+    {
+      "name": "Nilotic",
+      "id": "nilo1247",
+      "url": "https://glottolog.org/resource/languoid/id/nilo1247"
+    },
+    {
+      "name": "Eastern Nilotic",
+      "id": "east2418",
+      "url": "https://glottolog.org/resource/languoid/id/east2418"
+    },
+    {
+      "name": "Teso-Lotuxo-Maa",
+      "id": "teso1247",
+      "url": "https://glottolog.org/resource/languoid/id/teso1247"
+    },
+    {
+      "name": "Lotuxo-Maa",
+      "id": "lotu1248",
+      "url": "https://glottolog.org/resource/languoid/id/lotu1248"
+    },
+    {
+      "name": "Lotuxo",
+      "id": "lotu1249",
+      "url": "https://glottolog.org/resource/languoid/id/lotu1249"
+    },
+    {
+      "name": "Lotuko-Lokoya",
+      "id": "lotu1251",
+      "url": "https://glottolog.org/resource/languoid/id/lotu1251"
+    }
+  ],
+  "iso639-3": "lot"
+}

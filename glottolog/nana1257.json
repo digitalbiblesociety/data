@@ -1,0 +1,96 @@
+{
+  "pk": 2360,
+  "hid": "gld",
+  "father_pk": 1094,
+  "family_pk": 162,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Lower Ussuri [lowe1464]':1,(('Bolon Nanai [bolo1269]':1,'Dzhuen [dzhu1239]':1,'Torgon [torg1246]':1)'Central Nanai [cent2414]':1,('Bicin [bici1234]':1,'Samar [sama1318]':1)'Garin [gari1257]':1)'Nuclear Nanai [akan1248]':1,'Sakachi-Alyan [saka1304]':1)'Nanai [nana1257][gld]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 10,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1206",
+        "label": "Nanai"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nai",
+        "label": "Nanai"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nanai_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nana1257",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q13303",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "568497",
+        "long_grammar",
+        1959,
+        579,
+        "V. A. Avrorin 1959, 1961"
+      ],
+      [
+        "305013",
+        "grammar",
+        1958,
+        208,
+        "Sunik, Orest P. 1958"
+      ],
+      [
+        "319230",
+        "grammar",
+        1941,
+        167,
+        "Petrova, Taisija I. 1941"
+      ],
+      [
+        "319454",
+        "grammar_sketch",
+        1935,
+        68,
+        "Petrova, Taisija I. 1935"
+      ],
+      [
+        "572061",
+        "phonology_or_text",
+        1900,
+        0,
+        "Wilhelm Grube 1900"
+      ]
+    ]
+  },
+  "id": "nana1257",
+  "name": "Nanai",
+  "description": null,
+  "markup_description": null,
+  "latitude": 48.43426,
+  "longitude": 134.79726,
+  "classification": [
+    {
+      "name": "Tungusic",
+      "id": "tung1282",
+      "url": "https://glottolog.org/resource/languoid/id/tung1282"
+    },
+    {
+      "name": "Central-Western Tungusic",
+      "id": "orok1264",
+      "url": "https://glottolog.org/resource/languoid/id/orok1264"
+    }
+  ],
+  "iso639-3": "gld"
+}

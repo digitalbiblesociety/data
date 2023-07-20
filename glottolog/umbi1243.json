@@ -1,0 +1,100 @@
+{
+  "pk": 8457,
+  "hid": "umd",
+  "father_pk": 5984,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Umbindhamu [umbi1243][umd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3427",
+        "label": "Umpithamu"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/y50",
+        "label": "Umpithamu"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Umpithamu_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7881346",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "542718",
+        "phonology_or_text",
+        2012,
+        33,
+        "Jean-Christophe Verstraete 2012"
+      ],
+      [
+        "467132",
+        "phonology_or_text",
+        2011,
+        27,
+        "Jean-Christophe Verstraete 2011"
+      ],
+      [
+        "668656",
+        "wordlist_or_less",
+        2008,
+        22,
+        "Verstraete, Jean-Christophe 2008"
+      ],
+      [
+        "303408",
+        "wordlist_or_less",
+        1969,
+        7,
+        "Laycock, Donald C. 1969"
+      ]
+    ]
+  },
+  "id": "umbi1243",
+  "name": "Umbindhamu",
+  "description": null,
+  "markup_description": null,
+  "latitude": -13.921,
+  "longitude": 143.328,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Paman",
+      "id": "pama1251",
+      "url": "https://glottolog.org/resource/languoid/id/pama1251"
+    },
+    {
+      "name": "Compromise Middle Pama",
+      "id": "comp1236",
+      "url": "https://glottolog.org/resource/languoid/id/comp1236"
+    },
+    {
+      "name": "Northeastern Pama",
+      "id": "nort3256",
+      "url": "https://glottolog.org/resource/languoid/id/nort3256"
+    },
+    {
+      "name": "Umbindhamuic",
+      "id": "umbi1242",
+      "url": "https://glottolog.org/resource/languoid/id/umbi1242"
+    }
+  ],
+  "iso639-3": "umd"
+}

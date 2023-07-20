@@ -1,0 +1,87 @@
+{
+  "pk": 5371,
+  "hid": "aqc",
+  "father_pk": 3510,
+  "family_pk": 426,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Archi [arch1244][aqc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/721",
+        "label": "Archi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q34915",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Archi_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/arch1244",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_arc",
+        "label": "Archi"
+      }
+    ],
+    "meds": [
+      [
+        "13674",
+        "long_grammar",
+        1977,
+        1031,
+        "Kibrik, Aleksandr E. 1977"
+      ],
+      [
+        "117377",
+        "grammar",
+        1967,
+        215,
+        "Mikailov, K. Š. 1967"
+      ],
+      [
+        "548049",
+        "wordlist_or_less",
+        1966,
+        0,
+        "Chumakina, Marina 1966"
+      ]
+    ]
+  },
+  "id": "arch1244",
+  "name": "Archi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 42.3239,
+  "longitude": 46.8267,
+  "classification": [
+    {
+      "name": "Nakh-Daghestanian",
+      "id": "nakh1245",
+      "url": "https://glottolog.org/resource/languoid/id/nakh1245"
+    },
+    {
+      "name": "Daghestanian",
+      "id": "dagh1238",
+      "url": "https://glottolog.org/resource/languoid/id/dagh1238"
+    },
+    {
+      "name": "Lezgic",
+      "id": "lezg1248",
+      "url": "https://glottolog.org/resource/languoid/id/lezg1248"
+    }
+  ],
+  "iso639-3": "aqc"
+}

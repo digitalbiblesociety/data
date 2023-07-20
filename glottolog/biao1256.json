@@ -1,0 +1,68 @@
+{
+  "pk": 4092,
+  "hid": "bmt",
+  "father_pk": 2336,
+  "family_pk": 154,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Nuclear Biao Mon [nucl1324]':1,'Shi Mun [shim1251]':1)'Biao Mon [biao1256][bmt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Biao_Mon_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q8842159",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "304794",
+        "grammar_sketch",
+        2004,
+        2,
+        "Mao, Zongwu 2004"
+      ],
+      [
+        "569903",
+        "wordlist_or_less",
+        1991,
+        6,
+        "Chengqian, Pan 1991"
+      ]
+    ]
+  },
+  "id": "biao1256",
+  "name": "Biao Mon",
+  "description": null,
+  "markup_description": null,
+  "latitude": 24.6451,
+  "longitude": 113.469,
+  "classification": [
+    {
+      "name": "Hmong-Mien",
+      "id": "hmon1336",
+      "url": "https://glottolog.org/resource/languoid/id/hmon1336"
+    },
+    {
+      "name": "Mienic",
+      "id": "mien1242",
+      "url": "https://glottolog.org/resource/languoid/id/mien1242"
+    },
+    {
+      "name": "Mien-Mun",
+      "id": "mien1243",
+      "url": "https://glottolog.org/resource/languoid/id/mien1243"
+    }
+  ],
+  "iso639-3": "bmt"
+}

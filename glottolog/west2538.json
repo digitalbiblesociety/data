@@ -1,0 +1,100 @@
+{
+  "pk": 4614,
+  "hid": "txn",
+  "father_pk": 2945,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('North Central Tarangan [nort2861]':1,'Southwestern Tarangan [sout2886]':1)'West Tarangan [west2538][txn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10070",
+        "label": "West Tarangan"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3515594",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tgw",
+        "label": "Tarangan (West)"
+      }
+    ],
+    "meds": [
+      [
+        "114196",
+        "grammar_sketch",
+        1998,
+        291,
+        "Richard J. Nivens 1998"
+      ],
+      [
+        "304773",
+        "grammar_sketch",
+        1995,
+        107,
+        "Wattimury, E. and Ny. A. Haulussy and J. Pentry 1995"
+      ],
+      [
+        "8001",
+        "phonology_or_text",
+        1992,
+        101,
+        "Nivens, Richard 1992"
+      ],
+      [
+        "57872",
+        "phonology_or_text",
+        1991,
+        23,
+        "Botmonamona, A. 1991"
+      ],
+      [
+        "112913",
+        "wordlist_or_less",
+        1878,
+        14,
+        "von Rosenberg, Carl Benjamin Hermann 1878"
+      ],
+      [
+        "151292",
+        "wordlist_or_less",
+        1867,
+        9,
+        "von Rosenberg, Carl Benjamin Hermann 1867"
+      ]
+    ]
+  },
+  "id": "west2538",
+  "name": "West Tarangan",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.62046,
+  "longitude": 134.168,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Aru",
+      "id": "aruu1241",
+      "url": "https://glottolog.org/resource/languoid/id/aruu1241"
+    }
+  ],
+  "iso639-3": "txn"
+}

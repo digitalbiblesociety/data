@@ -1,0 +1,106 @@
+{
+  "pk": 15642,
+  "hid": "ogo",
+  "father_pk": 12904,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Babbe [babb1238]':1,'Boúe [boue1238]':1,'Ken-Khana [kenk1238]':1,'Norkhana [nork1238]':1,'Nyo-Kana [nyok1242]':1,'Yeghe [yegh1238]':1)'Khana [khan1278][ogo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kan",
+        "label": "Kana"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Khana_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3914409",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "36696",
+        "long_grammar",
+        1996,
+        431,
+        "Ikoro, Suanu M. 1996"
+      ],
+      [
+        "15115",
+        "phonology_or_text",
+        1994,
+        22,
+        "Ikoro, Suanu M. 1994"
+      ],
+      [
+        "118541",
+        "phonology_or_text",
+        1964,
+        2,
+        "Wolff, Hans 1964"
+      ],
+      [
+        "150176",
+        "wordlist_or_less",
+        1914,
+        2,
+        "Thomas, Northcote Whitridge 1914"
+      ]
+    ]
+  },
+  "id": "khan1278",
+  "name": "Khana",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.70908,
+  "longitude": 7.44363,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Delta Cross",
+      "id": "delt1251",
+      "url": "https://glottolog.org/resource/languoid/id/delt1251"
+    },
+    {
+      "name": "Ogonoid",
+      "id": "ogon1240",
+      "url": "https://glottolog.org/resource/languoid/id/ogon1240"
+    },
+    {
+      "name": "East Ogonoid",
+      "id": "east2401",
+      "url": "https://glottolog.org/resource/languoid/id/east2401"
+    },
+    {
+      "name": "Tai-Kana",
+      "id": "taik1252",
+      "url": "https://glottolog.org/resource/languoid/id/taik1252"
+    }
+  ],
+  "iso639-3": "ogo"
+}

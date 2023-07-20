@@ -1,0 +1,98 @@
+{
+  "pk": 10824,
+  "hid": "gyr",
+  "father_pk": 7941,
+  "family_pk": 51,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Guarayu [guar1292][gyr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3163",
+        "label": "Guarayu"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Guarayu_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/guar1292",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3118779",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "51289",
+        "grammar",
+        1932,
+        167,
+        "Hoeller, Alfredo 1932"
+      ],
+      [
+        "302550",
+        "grammar_sketch",
+        1903,
+        91,
+        "Wolfgango Priváser 1903"
+      ],
+      [
+        "130791",
+        "wordlist_or_less",
+        1881,
+        82,
+        "da Fonseca, João Severiano 1881"
+      ]
+    ]
+  },
+  "id": "guar1292",
+  "name": "Guarayu",
+  "description": null,
+  "markup_description": null,
+  "latitude": -15.8247,
+  "longitude": -61.6934,
+  "classification": [
+    {
+      "name": "Tupian",
+      "id": "tupi1275",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1275"
+    },
+    {
+      "name": "Maweti-Guarani",
+      "id": "mawe1252",
+      "url": "https://glottolog.org/resource/languoid/id/mawe1252"
+    },
+    {
+      "name": "Aweti-Guarani",
+      "id": "awet1245",
+      "url": "https://glottolog.org/resource/languoid/id/awet1245"
+    },
+    {
+      "name": "Tupi-Guarani",
+      "id": "tupi1276",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1276"
+    },
+    {
+      "name": "Southern Tupi-Guarani",
+      "id": "sout3271",
+      "url": "https://glottolog.org/resource/languoid/id/sout3271"
+    },
+    {
+      "name": "Tupi-Guarani Subgroup II",
+      "id": "tupi1278",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1278"
+    }
+  ],
+  "iso639-3": "gyr"
+}

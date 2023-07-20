@@ -1,0 +1,70 @@
+{
+  "pk": 3374,
+  "hid": "soq",
+  "father_pk": 1801,
+  "family_pk": 384,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kanasi [kana1288][soq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Kanasi_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q11732656",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "553619",
+        "grammar_sketch",
+        1990,
+        111,
+        "Royer, Gottlieb and Royer, Margarita 1990"
+      ],
+      [
+        "94148",
+        "grammar_sketch",
+        1986,
+        27,
+        "Pappenhagen, Ronald W. 1986"
+      ],
+      [
+        "121251",
+        "wordlist_or_less",
+        1913,
+        1,
+        "Anonymous, {} 1913"
+      ]
+    ]
+  },
+  "id": "kana1288",
+  "name": "Kanasi",
+  "description": null,
+  "markup_description": null,
+  "latitude": -10.1658,
+  "longitude": 149.751,
+  "classification": [
+    {
+      "name": "Dagan",
+      "id": "daga1274",
+      "url": "https://glottolog.org/resource/languoid/id/daga1274"
+    },
+    {
+      "name": "Southeast Dagan",
+      "id": "sout3380",
+      "url": "https://glottolog.org/resource/languoid/id/sout3380"
+    }
+  ],
+  "iso639-3": "soq"
+}

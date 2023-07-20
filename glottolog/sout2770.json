@@ -1,0 +1,98 @@
+{
+  "pk": 8471,
+  "hid": "NOCODE_Southern-Inland-Yuin",
+  "father_pk": 6009,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Jaitmatang [jait1239][xjt]':1,'Ngarigu [ngar1297][xni]':1)'Southern Inland Yuin [sout2770]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "NOCODE_Southern-Inland-Yuin",
+      "comment_type": "missing",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "The extinct Southern Inland Yuin language of the Yuin subgroup is missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 (**hh:w:DuVeBulmer:Moneroo**, **hh:w:Bulmer:Moneroo**, **hh:w:Queanbeyan:Queanbeyan**, **hh:w:Mathews:Ngarrugu**, **hh:w:Lhotsky:Van-Diemen**, **hh:v:Koch:Canberra**, **hh:w:Bunce:Victoria**, **hh:hw:Hercus:Victoria:1969**, **hh:hvw:Waferetal:New-South-Wales**, **hh:hw:Eyre:Central-Australia**, **hh:w:Bulmer:Omeo**)."
+    },
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Ngarigo_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/sout2770",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7022072",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "21824",
+        "wordlist_or_less",
+        1845,
+        77,
+        "Eyre, Edward John 1845"
+      ],
+      [
+        "3167",
+        "wordlist_or_less",
+        1839,
+        3,
+        "Lhotsky, John 1839"
+      ]
+    ]
+  },
+  "id": "sout2770",
+  "name": "Southern Inland Yuin",
+  "description": null,
+  "markup_description": null,
+  "latitude": -36.30008261,
+  "longitude": 148.7238073,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Southeastern Pama-Nyungan",
+      "id": "sout3135",
+      "url": "https://glottolog.org/resource/languoid/id/sout3135"
+    },
+    {
+      "name": "New South Wales Pama-Nyungan",
+      "id": "news1235",
+      "url": "https://glottolog.org/resource/languoid/id/news1235"
+    },
+    {
+      "name": "Yuin-Kuri",
+      "id": "yuin1243",
+      "url": "https://glottolog.org/resource/languoid/id/yuin1243"
+    },
+    {
+      "name": "Yuin",
+      "id": "yuin1242",
+      "url": "https://glottolog.org/resource/languoid/id/yuin1242"
+    }
+  ]
+}

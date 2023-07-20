@@ -1,0 +1,87 @@
+{
+  "pk": 6676,
+  "hid": "spd",
+  "father_pk": 4573,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Saep [saep1240][spd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7398312",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Saep_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "668723",
+        "grammar_sketch",
+        1998,
+        137,
+        "Brad Voltmer 1998"
+      ],
+      [
+        "156733",
+        "wordlist_or_less",
+        1980,
+        4,
+        "Z'graggen, Johannes A. 1980"
+      ],
+      [
+        "16299",
+        "wordlist_or_less",
+        1975,
+        1,
+        "Z'Graggen, Johannes A. 1975"
+      ],
+      [
+        "64314",
+        "wordlist_or_less",
+        1970,
+        1,
+        "Oren R. Claassen and Kenneth A. McElhanon 1970"
+      ]
+    ]
+  },
+  "id": "saep1240",
+  "name": "Saep",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.64812,
+  "longitude": 146.078,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Madang",
+      "id": "mada1298",
+      "url": "https://glottolog.org/resource/languoid/id/mada1298"
+    },
+    {
+      "name": "Rai Coast",
+      "id": "raic1241",
+      "url": "https://glottolog.org/resource/languoid/id/raic1241"
+    },
+    {
+      "name": "Yaganon",
+      "id": "yaga1258",
+      "url": "https://glottolog.org/resource/languoid/id/yaga1258"
+    }
+  ],
+  "iso639-3": "spd"
+}

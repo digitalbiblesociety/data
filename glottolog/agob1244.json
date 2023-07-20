@@ -1,0 +1,72 @@
+{
+  "pk": 1728,
+  "hid": "kit",
+  "father_pk": 347,
+  "family_pk": 347,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Agöb [agob1245]':1,'Ende {Papua New Guinea} [ende1235]':1,'Kawam [kawa1281]':1)'Agob-Ende-Kawam [agob1244][kit]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Agob_languages",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3332143",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "588267",
+        "grammar_sketch",
+        2019,
+        128,
+        "Lindsey, Kate L. 2019"
+      ],
+      [
+        "574202",
+        "phonology_or_text",
+        2017,
+        456,
+        "Kate L. Lindsey 2017"
+      ],
+      [
+        "152882",
+        "wordlist_or_less",
+        1903,
+        6,
+        "James Chalmers 1903"
+      ],
+      [
+        "309880",
+        "wordlist_or_less",
+        1892,
+        5,
+        "J. P. Thomson 1892"
+      ]
+    ]
+  },
+  "id": "agob1244",
+  "name": "Agob-Ende-Kawam",
+  "description": null,
+  "markup_description": null,
+  "latitude": -9.08521,
+  "longitude": 142.532,
+  "classification": [
+    {
+      "name": "Pahoturi",
+      "id": "paho1240",
+      "url": "https://glottolog.org/resource/languoid/id/paho1240"
+    }
+  ],
+  "iso639-3": "kit"
+}

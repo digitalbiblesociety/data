@@ -1,0 +1,104 @@
+{
+  "pk": 4157,
+  "hid": "oka",
+  "father_pk": 2385,
+  "family_pk": 166,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Colville [colv1241]':1,'Lakes Okanagan [lake1256]':1,'Sanpoil [sanp1257]':1,'Southern Okanogan [sout2963]':1)'Okanagan [okan1243][oka]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1919",
+        "label": "Nsyilxcən"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_oka",
+        "label": "Okanagan"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Okanagan_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2984602",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "42933",
+        "grammar",
+        1973,
+        184,
+        "Mattina, Anthony 1973"
+      ],
+      [
+        "309820",
+        "phonology_or_text",
+        1970,
+        752,
+        "Watkins, Donald 1970"
+      ],
+      [
+        "300495",
+        "phonology_or_text",
+        1967,
+        15,
+        "Michael O'Brien 1967"
+      ],
+      [
+        "309055",
+        "wordlist_or_less",
+        1908,
+        133,
+        "Doak, Ivy G. 1983 [1908]"
+      ],
+      [
+        "121220",
+        "wordlist_or_less",
+        1849,
+        3,
+        "T. Howse 1849"
+      ],
+      [
+        "162143",
+        "wordlist_or_less",
+        1841,
+        2,
+        "John Scouler 1841"
+      ]
+    ]
+  },
+  "id": "okan1243",
+  "name": "Okanagan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 49.2745,
+  "longitude": -119.294,
+  "classification": [
+    {
+      "name": "Salishan",
+      "id": "sali1255",
+      "url": "https://glottolog.org/resource/languoid/id/sali1255"
+    },
+    {
+      "name": "Interior Salish",
+      "id": "inte1241",
+      "url": "https://glottolog.org/resource/languoid/id/inte1241"
+    },
+    {
+      "name": "Southern Interior Salish",
+      "id": "sout1559",
+      "url": "https://glottolog.org/resource/languoid/id/sout1559"
+    }
+  ],
+  "iso639-3": "oka"
+}

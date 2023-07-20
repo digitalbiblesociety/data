@@ -1,0 +1,109 @@
+{
+  "pk": 11644,
+  "hid": "bwi",
+  "father_pk": 8762,
+  "family_pk": 177,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Baniwa Central [hoho1238]':1,'Baniwa Meridional [bani1261]':1,('Baniwa do Alto Icana [bani1262]':1,'Baniwa do Cabeceires do Cuyari [bani1264]':1,'Baniwa do Rio Guainia [bani1263]':1)'Baniwa Setentrional [sius1255]':1)'Baniwa do Icana [bani1255][bwi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3208",
+        "label": "Baniwa"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3501735",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Karu_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/bani1255",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bnw",
+        "label": "Baniwa"
+      }
+    ],
+    "meds": [
+      [
+        "91265",
+        "long_grammar",
+        2001,
+        482,
+        "Henri Ramirez 2001"
+      ],
+      [
+        "102802",
+        "grammar",
+        1991,
+        136,
+        "Gerald Taylor 1991"
+      ],
+      [
+        "83983",
+        "phonology_or_text",
+        1968,
+        10,
+        "González-Ñáñez, Omar 1968"
+      ],
+      [
+        "309121",
+        "wordlist_or_less",
+        1853,
+        17,
+        "Alfred R. Wallace 1853"
+      ]
+    ]
+  },
+  "id": "bani1255",
+  "name": "Baniwa do Icana",
+  "description": null,
+  "markup_description": null,
+  "latitude": 2.17859,
+  "longitude": -67.7704,
+  "classification": [
+    {
+      "name": "Arawakan",
+      "id": "araw1281",
+      "url": "https://glottolog.org/resource/languoid/id/araw1281"
+    },
+    {
+      "name": "Japura-Colombia",
+      "id": "japu1236",
+      "url": "https://glottolog.org/resource/languoid/id/japu1236"
+    },
+    {
+      "name": "Nuclear Japura-Colombia",
+      "id": "nucl1764",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1764"
+    },
+    {
+      "name": "Northeast Japura-Colombia",
+      "id": "nort3362",
+      "url": "https://glottolog.org/resource/languoid/id/nort3362"
+    },
+    {
+      "name": "Baniwa-Curripaco-Tariano",
+      "id": "bani1258",
+      "url": "https://glottolog.org/resource/languoid/id/bani1258"
+    },
+    {
+      "name": "Baniwa-Curripaco",
+      "id": "bani1259",
+      "url": "https://glottolog.org/resource/languoid/id/bani1259"
+    }
+  ],
+  "iso639-3": "bwi"
+}

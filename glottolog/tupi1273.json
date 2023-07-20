@@ -1,0 +1,115 @@
+{
+  "pk": 10822,
+  "hid": "tpn",
+  "father_pk": 7940,
+  "family_pk": 51,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Amoipira [amoi1234]':1,'Kaeté [kaet1234]':1,'Lingua Geral Paulista [tupi1274][tpw]':1,'Potiguára [poti1237][pog]':1,'Tabaiara-Tobajara [taba1271]':1,'Temiminó [temi1248]':1,'Tupina [tupi1292]':1,'Tupinakin-Tupi-Tabajara Angra dos Reis-Cananéia [tupi1291]':1,'Tupinambá São Francisco-Camamu [tupi1289]':1,'Tupinambá Tocantins-Paranaiba [tupi1288]':1,'Tupinambá-Tamoio Kap São Tomé-Angra dos Reis [tupi1290]':1,'Tupinikin [tupi1272][tpk]':1)'Tupinambá [tupi1273][tpn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 12,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tup",
+        "label": "Tupi"
+      },
+      {
+        "url": "https://phoible.org/languages/tupi1273",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q31528147",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "87582",
+        "long_grammar",
+        1956,
+        481,
+        "Barbosa, A. Lemos 1956"
+      ],
+      [
+        "28044",
+        "grammar_sketch",
+        1874,
+        206,
+        "Julius Platzmann 1874"
+      ],
+      [
+        "157276",
+        "grammar_sketch",
+        1687,
+        160,
+        "Luiz Figueira 1880 [1687]"
+      ],
+      [
+        "155780",
+        "grammar_sketch",
+        1595,
+        132,
+        "Joseph de Anchieta 1595"
+      ],
+      [
+        "120454",
+        "wordlist_or_less",
+        1578,
+        242,
+        "de Lery, Jean 1578"
+      ],
+      [
+        "43376",
+        "wordlist_or_less",
+        1524,
+        30,
+        "Antonio Pigafetta 1906 [1524]"
+      ]
+    ]
+  },
+  "id": "tupi1273",
+  "name": "Tupinambá",
+  "description": null,
+  "markup_description": null,
+  "latitude": -22.807778,
+  "longitude": -42.106389,
+  "classification": [
+    {
+      "name": "Tupian",
+      "id": "tupi1275",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1275"
+    },
+    {
+      "name": "Maweti-Guarani",
+      "id": "mawe1252",
+      "url": "https://glottolog.org/resource/languoid/id/mawe1252"
+    },
+    {
+      "name": "Aweti-Guarani",
+      "id": "awet1245",
+      "url": "https://glottolog.org/resource/languoid/id/awet1245"
+    },
+    {
+      "name": "Tupi-Guarani",
+      "id": "tupi1276",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1276"
+    },
+    {
+      "name": "Southern Tupi-Guarani",
+      "id": "sout3271",
+      "url": "https://glottolog.org/resource/languoid/id/sout3271"
+    },
+    {
+      "name": "Tupi-Guarani Subgroup III",
+      "id": "tupi1287",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1287"
+    }
+  ],
+  "iso639-3": "tpn"
+}

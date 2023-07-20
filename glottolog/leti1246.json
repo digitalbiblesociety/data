@@ -1,0 +1,105 @@
+{
+  "pk": 12569,
+  "hid": "lti",
+  "father_pk": 9553,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Leti {Indonesia} [leti1246][lti]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3236912",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Leti_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/leti1246",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_let",
+        "label": "Leti"
+      }
+    ],
+    "meds": [
+      [
+        "7857",
+        "long_grammar",
+        2004,
+        485,
+        "Aone van Engelenhoven 2004"
+      ],
+      [
+        "117958",
+        "long_grammar",
+        1995,
+        354,
+        "Aone van Engelenhoven 1995"
+      ],
+      [
+        "66632",
+        "grammar_sketch",
+        1932,
+        86,
+        "J. C. G. Jonker 1932"
+      ],
+      [
+        "72454",
+        "wordlist_or_less",
+        1846,
+        27,
+        "Heijmering, Geerlof 1846"
+      ]
+    ]
+  },
+  "id": "leti1246",
+  "name": "Leti (Indonesia)",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.19808,
+  "longitude": 127.674,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Timor-Babar",
+      "id": "timo1265",
+      "url": "https://glottolog.org/resource/languoid/id/timo1265"
+    },
+    {
+      "name": "Southwest Maluku",
+      "id": "sout3382",
+      "url": "https://glottolog.org/resource/languoid/id/sout3382"
+    },
+    {
+      "name": "Luangic-Kisaric",
+      "id": "luan1261",
+      "url": "https://glottolog.org/resource/languoid/id/luan1261"
+    },
+    {
+      "name": "Luangic",
+      "id": "luan1262",
+      "url": "https://glottolog.org/resource/languoid/id/luan1262"
+    }
+  ],
+  "iso639-3": "lti"
+}

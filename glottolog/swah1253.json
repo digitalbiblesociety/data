@@ -1,0 +1,168 @@
+{
+  "pk": 25384,
+  "hid": "swh",
+  "father_pk": 24617,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Amu [amuu1238]':1,'Bajuni [baju1245]':1,'Fundi [fund1238]':1,'Matondoni [mato1251]':1,'Mgao [mgao1238]':1,'Mrima [mrim1238]':1,'Mvita [mvit1238]':1,'Mwini [mwin1241]':1,'Pate [pate1246]':1,'Pemba [pemb1239]':1,'Shamba [sham1281]':1,'Siu [siuu1238]':1,'Unguja [ungu1238]':1)'Swahili [swah1253][swh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 13,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_swa",
+        "label": "Swahili"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kiswahili",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/swah1253",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3197533",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "142542",
+        "long_grammar",
+        2004,
+        545,
+        "Amidu, Assibi A. 2004"
+      ],
+      [
+        "142961",
+        "long_grammar",
+        1890,
+        491,
+        "Madan, A. C. and Steere, E. 1890"
+      ],
+      [
+        "306557",
+        "grammar",
+        1885,
+        190,
+        "Delaunay, Henri 1885"
+      ],
+      [
+        "87231",
+        "grammar",
+        1884,
+        0,
+        "Steere, Edward 1884"
+      ],
+      [
+        "156689",
+        "grammar",
+        1875,
+        0,
+        "Steere, Edward 1875"
+      ],
+      [
+        "18426",
+        "grammar",
+        1870,
+        0,
+        "Steere, Edward 1870"
+      ],
+      [
+        "62451",
+        "grammar_sketch",
+        1850,
+        142,
+        "Krapf, J. L. 1850"
+      ],
+      [
+        "71628",
+        "wordlist_or_less",
+        1841,
+        13,
+        "Smee, T. and Hardy, J. 1841-1844"
+      ]
+    ]
+  },
+  "id": "swah1253",
+  "name": "Swahili",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.25605,
+  "longitude": 37.624,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Narrow Bantu",
+      "id": "narr1281",
+      "url": "https://glottolog.org/resource/languoid/id/narr1281"
+    },
+    {
+      "name": "East Bantu",
+      "id": "east2731",
+      "url": "https://glottolog.org/resource/languoid/id/east2731"
+    },
+    {
+      "name": "Northeast Savanna Bantu",
+      "id": "nort3203",
+      "url": "https://glottolog.org/resource/languoid/id/nort3203"
+    },
+    {
+      "name": "Northeast Coastal Bantu",
+      "id": "nort3209",
+      "url": "https://glottolog.org/resource/languoid/id/nort3209"
+    },
+    {
+      "name": "Coastal NEC Bantu",
+      "id": "coas1317",
+      "url": "https://glottolog.org/resource/languoid/id/coas1317"
+    },
+    {
+      "name": "Sabaki-Swahili",
+      "id": "saba1282",
+      "url": "https://glottolog.org/resource/languoid/id/saba1282"
+    },
+    {
+      "name": "Swahili (G.40)",
+      "id": "swah1254",
+      "url": "https://glottolog.org/resource/languoid/id/swah1254"
+    },
+    {
+      "name": "Mombasa-Lamu-Inland Swahili",
+      "id": "momb1256",
+      "url": "https://glottolog.org/resource/languoid/id/momb1256"
+    }
+  ],
+  "iso639-3": "swh"
+}

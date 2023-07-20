@@ -1,0 +1,69 @@
+{
+  "pk": 6824,
+  "hid": "jvn",
+  "father_pk": 4645,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Caribbean Javanese [cari1276][jvn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q11732256",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "152235",
+        "grammar_sketch",
+        1983,
+        167,
+        "Clare Wolfowitz 1983"
+      ],
+      [
+        "159719",
+        "wordlist_or_less",
+        1982,
+        12,
+        "na 1982"
+      ]
+    ]
+  },
+  "id": "cari1276",
+  "name": "Caribbean Javanese",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.62695,
+  "longitude": -54.6305,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Javanesic",
+      "id": "java1253",
+      "url": "https://glottolog.org/resource/languoid/id/java1253"
+    },
+    {
+      "name": "Modern Javanese",
+      "id": "mode1251",
+      "url": "https://glottolog.org/resource/languoid/id/mode1251"
+    }
+  ],
+  "iso639-3": "jvn"
+}

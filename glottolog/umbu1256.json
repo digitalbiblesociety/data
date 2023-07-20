@@ -1,0 +1,92 @@
+{
+  "pk": 5978,
+  "hid": "umg",
+  "father_pk": 4002,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Umbuygamu [umbu1256][umg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3426",
+        "label": "Umbuygamu"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/y55",
+        "label": "Morrobolam"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Morrobolam_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/umbu1256",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3915677",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "96942",
+        "grammar_sketch",
+        1994,
+        178,
+        "Sarah Ogilvie 1994"
+      ],
+      [
+        "115461",
+        "grammar_sketch",
+        1976,
+        9,
+        "Bruce A. Sommer 1976"
+      ],
+      [
+        "14406",
+        "grammar_sketch",
+        1969,
+        9,
+        "Laycock, Donald C. 1969"
+      ]
+    ]
+  },
+  "id": "umbu1256",
+  "name": "Umbuygamu",
+  "description": null,
+  "markup_description": null,
+  "latitude": -14.25876,
+  "longitude": 143.6305,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Paman",
+      "id": "pama1251",
+      "url": "https://glottolog.org/resource/languoid/id/pama1251"
+    },
+    {
+      "name": "Lamalamic",
+      "id": "lama1273",
+      "url": "https://glottolog.org/resource/languoid/id/lama1273"
+    },
+    {
+      "name": "Coastal Lamalamic",
+      "id": "coas1321",
+      "url": "https://glottolog.org/resource/languoid/id/coas1321"
+    }
+  ],
+  "iso639-3": "umg"
+}

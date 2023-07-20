@@ -1,0 +1,101 @@
+{
+  "pk": 13497,
+  "hid": "mkg",
+  "father_pk": 10429,
+  "family_pk": 356,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Chi [chii1238]':1,'Ching [chin1463]':1,'Hwa [hwaa1238]':1,'Lyo [lyoo1238]':1,'Mak [makk1244]':1)'Mak {China} [makc1235][mkg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1433",
+        "label": "Mak (China)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3280623",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mak_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "664721",
+        "grammar_sketch",
+        2016,
+        253,
+        "Wu, Wenyi and Wu, Qilu and Long, Jiangang 2016"
+      ],
+      [
+        "150523",
+        "grammar_sketch",
+        2000,
+        157,
+        "Yang, Tongyin 2000"
+      ],
+      [
+        "90534",
+        "grammar_sketch",
+        1988,
+        20,
+        "Ni Dabai 1988"
+      ],
+      [
+        "133988",
+        "phonology_or_text",
+        1948,
+        40,
+        "Li, Fang-Kuei 1948"
+      ]
+    ]
+  },
+  "id": "makc1235",
+  "name": "Mak (China)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 25.5946,
+  "longitude": 107.726,
+  "classification": [
+    {
+      "name": "Tai-Kadai",
+      "id": "taik1256",
+      "url": "https://glottolog.org/resource/languoid/id/taik1256"
+    },
+    {
+      "name": "Kam-Tai",
+      "id": "kamt1241",
+      "url": "https://glottolog.org/resource/languoid/id/kamt1241"
+    },
+    {
+      "name": "Kam-Sui",
+      "id": "kams1241",
+      "url": "https://glottolog.org/resource/languoid/id/kams1241"
+    },
+    {
+      "name": "Then-MMS",
+      "id": "then1235",
+      "url": "https://glottolog.org/resource/languoid/id/then1235"
+    },
+    {
+      "name": "Maonan-Mak-Sui",
+      "id": "maon1239",
+      "url": "https://glottolog.org/resource/languoid/id/maon1239"
+    },
+    {
+      "name": "Mak-Ai-Cham",
+      "id": "maka1300",
+      "url": "https://glottolog.org/resource/languoid/id/maka1300"
+    }
+  ],
+  "iso639-3": "mkg"
+}

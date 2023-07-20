@@ -1,0 +1,132 @@
+{
+  "pk": 20988,
+  "hid": "arg",
+  "father_pk": 18934,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Aragonese [cent1317]':1,'Eastern Aragonese [east2273]':1,'Southern Aragonese [sout2609]':1,'Western Aragonese [west2340]':1)'Aragonese [arag1245][arg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/949",
+        "label": "Aragonese"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Aragonese_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/arag1245",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q8765",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "586619",
+        "long_grammar",
+        2021,
+        572,
+        "Juan Pablo Martínez Cortés and Santiago J. Paricio Martín and Francho Rodés Orquín 2021"
+      ],
+      [
+        "548338",
+        "long_grammar",
+        2017,
+        376,
+        "{Estudio de Filología Aragonesa} 2017"
+      ],
+      [
+        "320078",
+        "long_grammar",
+        1950,
+        363,
+        "Badía Margarit, Antonio 1950"
+      ],
+      [
+        "579026",
+        "grammar_sketch",
+        1948,
+        138,
+        "Manuel Alvar 1948"
+      ],
+      [
+        "550926",
+        "phonology_or_text",
+        1892,
+        99,
+        "de Múgica, Pedro 1892"
+      ]
+    ]
+  },
+  "id": "arag1245",
+  "name": "Aragonese",
+  "description": null,
+  "markup_description": null,
+  "latitude": 42.4669,
+  "longitude": -0.00919,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Italic",
+      "id": "ital1284",
+      "url": "https://glottolog.org/resource/languoid/id/ital1284"
+    },
+    {
+      "name": "Latino-Faliscan",
+      "id": "lati1262",
+      "url": "https://glottolog.org/resource/languoid/id/lati1262"
+    },
+    {
+      "name": "Latinic",
+      "id": "lati1263",
+      "url": "https://glottolog.org/resource/languoid/id/lati1263"
+    },
+    {
+      "name": "Imperial Latin",
+      "id": "impe1234",
+      "url": "https://glottolog.org/resource/languoid/id/impe1234"
+    },
+    {
+      "name": "Romance",
+      "id": "roma1334",
+      "url": "https://glottolog.org/resource/languoid/id/roma1334"
+    },
+    {
+      "name": "Italo-Western Romance",
+      "id": "ital1285",
+      "url": "https://glottolog.org/resource/languoid/id/ital1285"
+    },
+    {
+      "name": "Western Romance",
+      "id": "west2813",
+      "url": "https://glottolog.org/resource/languoid/id/west2813"
+    },
+    {
+      "name": "Unshifted Western Romance",
+      "id": "unsh1234",
+      "url": "https://glottolog.org/resource/languoid/id/unsh1234"
+    }
+  ],
+  "iso639-3": "arg"
+}

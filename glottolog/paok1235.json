@@ -1,0 +1,93 @@
+{
+  "pk": 4979,
+  "hid": "blk",
+  "father_pk": 3177,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Northern Pa''o [nort2705]':1,'Southern Pa''o [sout2712]':1)'Pa''o Karen [paok1235][blk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7121294",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Pa%27O_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/paok1235",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "552151",
+        "phonology_or_text",
+        2015,
+        282,
+        "Shintani, Tadahiko L. A. 2015"
+      ],
+      [
+        "104310",
+        "phonology_or_text",
+        2000,
+        166,
+        "Thanamteun, Orranat 2000"
+      ],
+      [
+        "10986",
+        "phonology_or_text",
+        1966,
+        19,
+        "Tatsuo Nishida 1966"
+      ],
+      [
+        "581524",
+        "wordlist_or_less",
+        1922,
+        96,
+        "W. C. B. Purser and Tun Aung, Saya 1922, 1920"
+      ],
+      [
+        "14371",
+        "wordlist_or_less",
+        1900,
+        3,
+        "George J. Scott and J. P. Hardiman 1900"
+      ]
+    ]
+  },
+  "id": "paok1235",
+  "name": "Pa'o Karen",
+  "description": null,
+  "markup_description": null,
+  "latitude": 20.211,
+  "longitude": 97.5969,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Karenic",
+      "id": "kare1337",
+      "url": "https://glottolog.org/resource/languoid/id/kare1337"
+    },
+    {
+      "name": "Peripheral Karen",
+      "id": "peri1254",
+      "url": "https://glottolog.org/resource/languoid/id/peri1254"
+    }
+  ],
+  "iso639-3": "blk"
+}

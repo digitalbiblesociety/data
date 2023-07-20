@@ -1,0 +1,123 @@
+{
+  "pk": 2134,
+  "hid": "cop",
+  "father_pk": 979,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bohairic [boha1242]':1,('Fayyumic [fayy1237]':1,'Oxyrhynchite [oxyr1237]':1)'Middle Egypt [midd1332]':1,'Old Coptic [oldc1247]':1,('Akhmimic [akhm1237]':1,'Lycopolitan [lyco1237]':1,'Sahidic [sahi1241]':1)'Upper Egyptian [uppe1445]':1)'Coptic [copt1239][cop]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 9,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_cop",
+        "label": "Coptic"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Coptic_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36155",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "636323",
+        "long_grammar",
+        2021,
+        960,
+        "Müller, Matthias 2021"
+      ],
+      [
+        "589222",
+        "long_grammar",
+        2018,
+        646,
+        "Reintges, C. H. 2018"
+      ],
+      [
+        "61477",
+        "long_grammar",
+        2004,
+        639,
+        "Reintges, C. H. 2004"
+      ],
+      [
+        "25747",
+        "long_grammar",
+        2000,
+        538,
+        "Layton, Bentley 2000"
+      ],
+      [
+        "21057",
+        "long_grammar",
+        1926,
+        517,
+        "Mallon, A. 1926"
+      ],
+      [
+        "8335",
+        "long_grammar",
+        1850,
+        508,
+        "Schwartze, Moritz Gotthilf 1850"
+      ],
+      [
+        "319727",
+        "grammar_sketch",
+        1778,
+        682,
+        "Tuki, Raphael 1778"
+      ],
+      [
+        "318685",
+        "grammar_sketch",
+        1380,
+        440,
+        "Gertrud Bauer 1972 [1380]"
+      ],
+      [
+        "323725",
+        "grammar_sketch",
+        1300,
+        0,
+        "Petersen, Theodore Christian 1913 [1300]"
+      ],
+      [
+        "573488",
+        "phonology_or_text",
+        1250,
+        368,
+        "Kircher, Athanasius 1643 [1250]"
+      ]
+    ]
+  },
+  "id": "copt1239",
+  "name": "Coptic",
+  "description": null,
+  "markup_description": null,
+  "latitude": 29.472,
+  "longitude": 31.2053,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Egyptian",
+      "id": "egyp1245",
+      "url": "https://glottolog.org/resource/languoid/id/egyp1245"
+    }
+  ],
+  "iso639-3": "cop"
+}

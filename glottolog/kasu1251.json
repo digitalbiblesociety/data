@@ -1,0 +1,70 @@
+{
+  "pk": 3435,
+  "hid": "khs",
+  "father_pk": 1840,
+  "family_pk": 405,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kasua [kasu1251][khs]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6374863",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kasua_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "580936",
+        "grammar_sketch",
+        1994,
+        120,
+        "Tommy Logan 1994"
+      ],
+      [
+        "477944",
+        "wordlist_or_less",
+        1979,
+        31,
+        "Daniel Shaw 1979"
+      ],
+      [
+        "142333",
+        "wordlist_or_less",
+        1975,
+        1,
+        "John Z'graggen 1975"
+      ]
+    ]
+  },
+  "id": "kasu1251",
+  "name": "Kasua",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.64861,
+  "longitude": 142.993,
+  "classification": [
+    {
+      "name": "Bosavi",
+      "id": "bosa1245",
+      "url": "https://glottolog.org/resource/languoid/id/bosa1245"
+    },
+    {
+      "name": "Bosavi Watershed",
+      "id": "bosa1246",
+      "url": "https://glottolog.org/resource/languoid/id/bosa1246"
+    }
+  ],
+  "iso639-3": "khs"
+}

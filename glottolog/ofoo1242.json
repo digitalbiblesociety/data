@@ -1,0 +1,73 @@
+{
+  "pk": 6317,
+  "hid": "ofo",
+  "father_pk": 4273,
+  "family_pk": 201,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ofo [ofoo1242][ofo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3349758",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ofo_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "475465",
+        "wordlist_or_less",
+        1912,
+        22,
+        "Dorsey, James Owen and Swanton, John Reed 1912"
+      ],
+      [
+        "27701",
+        "wordlist_or_less",
+        1909,
+        10,
+        "John R. Swanton 1909"
+      ]
+    ]
+  },
+  "id": "ofoo1242",
+  "name": "Ofo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 30.43,
+  "longitude": -91.75,
+  "classification": [
+    {
+      "name": "Siouan",
+      "id": "siou1252",
+      "url": "https://glottolog.org/resource/languoid/id/siou1252"
+    },
+    {
+      "name": "Core Siouan",
+      "id": "core1249",
+      "url": "https://glottolog.org/resource/languoid/id/core1249"
+    },
+    {
+      "name": "Ohio Valley Siouan",
+      "id": "ohio1234",
+      "url": "https://glottolog.org/resource/languoid/id/ohio1234"
+    },
+    {
+      "name": "Southeastern Siouan",
+      "id": "sout2988",
+      "url": "https://glottolog.org/resource/languoid/id/sout2988"
+    }
+  ],
+  "iso639-3": "ofo"
+}

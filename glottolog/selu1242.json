@@ -1,0 +1,71 @@
+{
+  "pk": 9549,
+  "hid": "sws",
+  "father_pk": 6903,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Makatian [maka1307]':1,'Nuclear Seluwasan [nucl1525]':1)'Seluwasan [selu1242][sws]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7448845",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Seluwasan_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "43011",
+        "wordlist_or_less",
+        1982,
+        1,
+        "James T. Collins 1982"
+      ]
+    ]
+  },
+  "id": "selu1242",
+  "name": "Seluwasan",
+  "description": null,
+  "markup_description": null,
+  "latitude": -7.59918,
+  "longitude": 131.25,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Timor-Babar",
+      "id": "timo1265",
+      "url": "https://glottolog.org/resource/languoid/id/timo1265"
+    },
+    {
+      "name": "Southwest Maluku",
+      "id": "sout3382",
+      "url": "https://glottolog.org/resource/languoid/id/sout3382"
+    },
+    {
+      "name": "South Tanimbar",
+      "id": "sout2890",
+      "url": "https://glottolog.org/resource/languoid/id/sout2890"
+    }
+  ],
+  "iso639-3": "sws"
+}

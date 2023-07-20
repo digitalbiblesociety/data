@@ -1,0 +1,98 @@
+{
+  "pk": 19291,
+  "hid": "ktr",
+  "father_pk": 17255,
+  "family_pk": 289,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "'Kota Marudu Tinagas [kota1278][ktr]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "ktr",
+      "name": "Kota Marudu Tinagas",
+      "change_request": "2015-060",
+      "effective": "2016-01-15",
+      "reason": "merge",
+      "change_to": [
+        "dtp"
+      ],
+      "remedy": "merged into [dtp] Kadazan Dusun",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q18642280",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "535639",
+        "wordlist_or_less",
+        2015,
+        0,
+        "ISO 639-3 Registration Authority 2015"
+      ]
+    ]
+  },
+  "id": "kota1278",
+  "name": "Kota Marudu Tinagas",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.377,
+  "longitude": 116.946,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "North Borneo Malayo-Polynesian",
+      "id": "nort3253",
+      "url": "https://glottolog.org/resource/languoid/id/nort3253"
+    },
+    {
+      "name": "Sabahan",
+      "id": "saba1285",
+      "url": "https://glottolog.org/resource/languoid/id/saba1285"
+    },
+    {
+      "name": "Southwest Sabahan",
+      "id": "sout3154",
+      "url": "https://glottolog.org/resource/languoid/id/sout3154"
+    },
+    {
+      "name": "Greater Dusunic",
+      "id": "grea1293",
+      "url": "https://glottolog.org/resource/languoid/id/grea1293"
+    },
+    {
+      "name": "Dusunic",
+      "id": "dusu1277",
+      "url": "https://glottolog.org/resource/languoid/id/dusu1277"
+    },
+    {
+      "name": "Kadazan-Sugut-Minokok",
+      "id": "kada1292",
+      "url": "https://glottolog.org/resource/languoid/id/kada1292"
+    },
+    {
+      "name": "Kadazan Dusun",
+      "id": "cent2100",
+      "url": "https://glottolog.org/resource/languoid/id/cent2100"
+    }
+  ],
+  "iso639-3": "ktr"
+}

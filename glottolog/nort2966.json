@@ -1,0 +1,106 @@
+{
+  "pk": 6405,
+  "hid": "pej",
+  "father_pk": 4358,
+  "family_pk": 214,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Guidiville [guid1240]':1,'Sherwood Valley [sher1259]':1)'Northern Pomo [nort2966][pej]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1531",
+        "label": "Northern Pomo"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3396021",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Northern_Pomo_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nort2966",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_pmn",
+        "label": "Pomo (Northern)"
+      }
+    ],
+    "meds": [
+      [
+        "102953",
+        "long_grammar",
+        1992,
+        357,
+        "Mary Catherine O'Connor 1992"
+      ],
+      [
+        "414946",
+        "long_grammar",
+        1987,
+        350,
+        "Mary Catherine O'Connor 1987"
+      ],
+      [
+        "577597",
+        "grammar_sketch",
+        1943,
+        12,
+        "Stewart, Omer C. 1943"
+      ],
+      [
+        "157804",
+        "wordlist_or_less",
+        1908,
+        16,
+        "Barrett, Samuel A. 1908"
+      ],
+      [
+        "38887",
+        "wordlist_or_less",
+        1877,
+        1,
+        "J. W. Powell 1877"
+      ]
+    ]
+  },
+  "id": "nort2966",
+  "name": "Northern Pomo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 39.1084,
+  "longitude": -123.209,
+  "classification": [
+    {
+      "name": "Pomoan",
+      "id": "pomo1273",
+      "url": "https://glottolog.org/resource/languoid/id/pomo1273"
+    },
+    {
+      "name": "Russian River and Eastern",
+      "id": "russ1265",
+      "url": "https://glottolog.org/resource/languoid/id/russ1265"
+    },
+    {
+      "name": "Russian River",
+      "id": "russ1266",
+      "url": "https://glottolog.org/resource/languoid/id/russ1266"
+    },
+    {
+      "name": "Northern-Central Pomoan",
+      "id": "nort2965",
+      "url": "https://glottolog.org/resource/languoid/id/nort2965"
+    }
+  ],
+  "iso639-3": "pej"
+}

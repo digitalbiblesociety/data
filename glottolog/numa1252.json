@@ -1,0 +1,76 @@
+{
+  "pk": 12938,
+  "hid": "nbr",
+  "father_pk": 9952,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Gbantu [gban1261]':1,'Janda [jand1249]':1,'Ningye [ning1271][nns]':1,'Numbu [numb1246]':1)'Numana [numa1252][nbr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q5529310",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Gbantu_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "85237",
+        "wordlist_or_less",
+        2006,
+        26,
+        "Blench, Roger 2006"
+      ]
+    ]
+  },
+  "id": "numa1252",
+  "name": "Numana",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.16563,
+  "longitude": 8.4657,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Benue-Congo Plateau",
+      "id": "benu1248",
+      "url": "https://glottolog.org/resource/languoid/id/benu1248"
+    },
+    {
+      "name": "Western Benue-Congo Plateau",
+      "id": "west2801",
+      "url": "https://glottolog.org/resource/languoid/id/west2801"
+    },
+    {
+      "name": "Ninzic",
+      "id": "ninz1247",
+      "url": "https://glottolog.org/resource/languoid/id/ninz1247"
+    }
+  ],
+  "iso639-3": "nbr"
+}

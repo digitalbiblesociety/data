@@ -1,0 +1,89 @@
+{
+  "pk": 9543,
+  "hid": "wmh",
+  "father_pk": 6899,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Waima''a [waim1252][wmh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2485",
+        "label": "Waima'a"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7960132",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Waimoa_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "586293",
+        "grammar_sketch",
+        2006,
+        55,
+        "John Bowden 2006"
+      ],
+      [
+        "13478",
+        "grammar_sketch",
+        2002,
+        46,
+        "Hull, Geoffrey 2002"
+      ],
+      [
+        "12850",
+        "wordlist_or_less",
+        1944,
+        3,
+        "Capell, Arthur 1944, 1944, 1944"
+      ]
+    ]
+  },
+  "id": "waim1252",
+  "name": "Waima'a",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.53416,
+  "longitude": 126.317,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Timor-Babar",
+      "id": "timo1265",
+      "url": "https://glottolog.org/resource/languoid/id/timo1265"
+    },
+    {
+      "name": "Eastern Timor",
+      "id": "east2894",
+      "url": "https://glottolog.org/resource/languoid/id/east2894"
+    },
+    {
+      "name": "Kawaimina",
+      "id": "kawa1289",
+      "url": "https://glottolog.org/resource/languoid/id/kawa1289"
+    }
+  ],
+  "iso639-3": "wmh"
+}

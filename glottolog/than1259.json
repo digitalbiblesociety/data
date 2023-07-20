@@ -1,0 +1,100 @@
+{
+  "pk": 10171,
+  "hid": "thf",
+  "father_pk": 7304,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Eastern Thami [east2355]':1,'Sindhupalcok [sind1274]':1,'Western Thami [west2421]':1)'Thangmi [than1259][thf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4838",
+        "label": "Thangmi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7710314",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Thangmi_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_thn",
+        "label": "Thangmi"
+      }
+    ],
+    "meds": [
+      [
+        "52601",
+        "long_grammar",
+        2011,
+        1000,
+        "Mark Turin 2011"
+      ],
+      [
+        "23585",
+        "long_grammar",
+        2006,
+        801,
+        "Mark Turin 2006"
+      ],
+      [
+        "546747",
+        "grammar_sketch",
+        1999,
+        0,
+        "na 1999"
+      ],
+      [
+        "78648",
+        "wordlist_or_less",
+        1909,
+        4,
+        "George A. Grierson 1909"
+      ]
+    ]
+  },
+  "id": "than1259",
+  "name": "Thangmi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 28.7554,
+  "longitude": 85.7657,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Himalayish",
+      "id": "hima1249",
+      "url": "https://glottolog.org/resource/languoid/id/hima1249"
+    },
+    {
+      "name": "Mahakiranti",
+      "id": "maha1306",
+      "url": "https://glottolog.org/resource/languoid/id/maha1306"
+    },
+    {
+      "name": "Newaric",
+      "id": "newa1245",
+      "url": "https://glottolog.org/resource/languoid/id/newa1245"
+    },
+    {
+      "name": "Thangmi-Baram",
+      "id": "than1258",
+      "url": "https://glottolog.org/resource/languoid/id/than1258"
+    }
+  ],
+  "iso639-3": "thf"
+}

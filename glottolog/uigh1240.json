@@ -1,0 +1,119 @@
+{
+  "pk": 10707,
+  "hid": "uig",
+  "father_pk": 7809,
+  "family_pk": 14,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Ili [ilii1241]':1,'Kashgar-Atush [kash1278]':1,'Qomul [qomu1235]':1,('Kucha [kuch1247]':1,'Moghal [mogh1248]':1,'Tarim [tari1268]':1)'Tarim-Moghal-Kucha [tari1267]':1,'Turfan [turf1238]':1,'Urumqi [urum1248]':1)'Central Uyghur [cent1994]':1,'Khotan [khot1252]':1,'Lopnor [lopn1238]':1)'Uighur [uigh1240][uig]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 12,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_uyg",
+        "label": "Uyghur"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Uyghur_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/uigh1240",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q13263",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "60658",
+        "long_grammar",
+        1991,
+        656,
+        "Hahn, Reinhard F. 1991"
+      ],
+      [
+        "314453",
+        "grammar",
+        1985,
+        264,
+        "Zhao, X. R. and Zhu, Z. N. 1985"
+      ],
+      [
+        "144513",
+        "grammar",
+        1954,
+        203,
+        "Malov, Sergej E. 1954"
+      ],
+      [
+        "318468",
+        "grammar_sketch",
+        1878,
+        195,
+        "Robert Barkley Shaw 1878, 1880"
+      ],
+      [
+        "313612",
+        "grammar_sketch",
+        1820,
+        80,
+        "Abel Rémusat 1820"
+      ],
+      [
+        "572093",
+        "phonology_or_text",
+        1794,
+        1247,
+        "Gugong, Bowuyuan 1957 [1794]"
+      ]
+    ]
+  },
+  "id": "uigh1240",
+  "name": "Uighur",
+  "description": null,
+  "markup_description": null,
+  "latitude": 43.88,
+  "longitude": 87.38,
+  "classification": [
+    {
+      "name": "Turkic",
+      "id": "turk1311",
+      "url": "https://glottolog.org/resource/languoid/id/turk1311"
+    },
+    {
+      "name": "Common Turkic",
+      "id": "comm1245",
+      "url": "https://glottolog.org/resource/languoid/id/comm1245"
+    },
+    {
+      "name": "Turkestan Turkic",
+      "id": "karl1243",
+      "url": "https://glottolog.org/resource/languoid/id/karl1243"
+    },
+    {
+      "name": "Uyghur-Uzbek",
+      "id": "uygh1241",
+      "url": "https://glottolog.org/resource/languoid/id/uygh1241"
+    },
+    {
+      "name": "Modern Uyghur-Uzbek",
+      "id": "uygh1240",
+      "url": "https://glottolog.org/resource/languoid/id/uygh1240"
+    },
+    {
+      "name": "Uighur-Ili",
+      "id": "uigh1243",
+      "url": "https://glottolog.org/resource/languoid/id/uigh1243"
+    }
+  ],
+  "iso639-3": "uig"
+}

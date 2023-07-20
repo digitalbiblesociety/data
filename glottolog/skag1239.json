@@ -1,0 +1,75 @@
+{
+  "pk": 8664,
+  "hid": "ska",
+  "father_pk": 6162,
+  "family_pk": 166,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "'Skagit [skag1239][ska]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "ska",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 has three entries Skagit [ska],\nSnohomish [sno] and Lushootseed [lut]. The Lushootseed name (and entry) is an umbrellic one, encompassing both Skagit [ska] and Snohomish [sno] which are mutually intelligible\n(**hh:hv:ThompsonKinkade:Northwest**:38).  Thus, Skagit [ska] and Snohomish [sno] and spurious entries given a Lushootseed\n[lut]-entry. If one were to separate Skagit [ska] and Snohomish\n[sno] despite the intelligibility, it would render the Lushootseed\n[lut]-entry spurious. See also: Northern Lushootseed [lut], Snohomish [sno]."
+    },
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q25559652",
+        "label": null
+      }
+    ]
+  },
+  "id": "skag1239",
+  "name": "Skagit",
+  "description": null,
+  "markup_description": null,
+  "latitude": 48.5314,
+  "longitude": -121.991,
+  "classification": [
+    {
+      "name": "Salishan",
+      "id": "sali1255",
+      "url": "https://glottolog.org/resource/languoid/id/sali1255"
+    },
+    {
+      "name": "Coast Salish",
+      "id": "coas1325",
+      "url": "https://glottolog.org/resource/languoid/id/coas1325"
+    },
+    {
+      "name": "Central Salish",
+      "id": "cent2129",
+      "url": "https://glottolog.org/resource/languoid/id/cent2129"
+    },
+    {
+      "name": "Lushootseed-Puget",
+      "id": "lush1251",
+      "url": "https://glottolog.org/resource/languoid/id/lush1251"
+    },
+    {
+      "name": "Northern Lushootseed",
+      "id": "lush1252",
+      "url": "https://glottolog.org/resource/languoid/id/lush1252"
+    }
+  ],
+  "iso639-3": "ska"
+}

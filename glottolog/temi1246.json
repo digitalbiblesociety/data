@@ -1,0 +1,97 @@
+{
+  "pk": 10574,
+  "hid": "tea",
+  "father_pk": 7667,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Grik [grik1245]':1,'Kenderong [kend1251]':1,'Kenering [kene1242]':1,'Lanoh Kobak [lano1245]':1,'Po-Klo [pokl1241]':1,'Sakai of Plus Korbu [saka1282]':1,'Sungai Piah [sung1266]':1,'Tanjong Rambutan [tanj1246]':1,'Tembe'' [temb1269]':1,'Ulu Kinta [uluk1255]':1)'Temiar [temi1246][tea]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 10,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5100",
+        "label": "Temiar"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3914693",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Temiar_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/temi1246",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tmr",
+        "label": "Temiar"
+      }
+    ],
+    "meds": [
+      [
+        "309330",
+        "grammar_sketch",
+        1961,
+        65,
+        "Carey, Iskander 1961"
+      ],
+      [
+        "66975",
+        "grammar_sketch",
+        1931,
+        12,
+        "Paul Schebesta and C. O. Blagden 1931"
+      ],
+      [
+        "35303",
+        "wordlist_or_less",
+        1891,
+        9,
+        "Clifford, Hugh 1891"
+      ]
+    ]
+  },
+  "id": "temi1246",
+  "name": "Temiar",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.974,
+  "longitude": 101.438,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Aslian",
+      "id": "asli1243",
+      "url": "https://glottolog.org/resource/languoid/id/asli1243"
+    },
+    {
+      "name": "Central-Northern Aslian",
+      "id": "cent1987",
+      "url": "https://glottolog.org/resource/languoid/id/cent1987"
+    },
+    {
+      "name": "Senoic",
+      "id": "seno1278",
+      "url": "https://glottolog.org/resource/languoid/id/seno1278"
+    },
+    {
+      "name": "Lanoh-Semnam-Temiar",
+      "id": "lano1244",
+      "url": "https://glottolog.org/resource/languoid/id/lano1244"
+    }
+  ],
+  "iso639-3": "tea"
+}

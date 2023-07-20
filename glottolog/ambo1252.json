@@ -1,0 +1,87 @@
+{
+  "pk": 7244,
+  "hid": "qva",
+  "father_pk": 4927,
+  "family_pk": 321,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ambo-Pasco Quechua [ambo1252][qva]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10852",
+        "label": "Chiquian-Bolognesi and Cajatambo Quechua"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12953835",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "82941",
+        "grammar_sketch",
+        2005,
+        96,
+        "Ralph Toliver 2005"
+      ],
+      [
+        "108830",
+        "phonology_or_text",
+        1998,
+        129,
+        "Albino Mendoza, Lorenzo and Toliver, Ralph and Toliver, Marilynn 1998"
+      ],
+      [
+        "31710",
+        "phonology_or_text",
+        1988,
+        90,
+        "na 1988"
+      ],
+      [
+        "141874",
+        "wordlist_or_less",
+        1987,
+        59,
+        "na 1987"
+      ]
+    ]
+  },
+  "id": "ambo1252",
+  "name": "Ambo-Pasco Quechua",
+  "description": null,
+  "markup_description": null,
+  "latitude": -10.5138,
+  "longitude": -76.1135,
+  "classification": [
+    {
+      "name": "Quechuan",
+      "id": "quec1387",
+      "url": "https://glottolog.org/resource/languoid/id/quec1387"
+    },
+    {
+      "name": "Quechua I",
+      "id": "quec1386",
+      "url": "https://glottolog.org/resource/languoid/id/quec1386"
+    },
+    {
+      "name": "Central Quechua I",
+      "id": "cent2141",
+      "url": "https://glottolog.org/resource/languoid/id/cent2141"
+    },
+    {
+      "name": "Yaru Quechua",
+      "id": "yaru1256",
+      "url": "https://glottolog.org/resource/languoid/id/yaru1256"
+    }
+  ],
+  "iso639-3": "qva"
+}

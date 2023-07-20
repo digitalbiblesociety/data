@@ -1,0 +1,100 @@
+{
+  "pk": 5355,
+  "hid": "hnu",
+  "father_pk": 3505,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dan Lai [danl1238]':1,'Ly Ha [lyha1238]':1,'Phong [phon1243]':1,'Toum [toum1239]':1)'Hung [hung1275][hnu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1213",
+        "label": "Hung"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/5878",
+        "label": "Phong"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12632753",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "548431",
+        "grammar_sketch",
+        2009,
+        67,
+        "Nick J. Enfield and Gérard Diffloth 2009"
+      ],
+      [
+        "47050",
+        "grammar_sketch",
+        2007,
+        56,
+        "Nick J. Enfield and Gérard Diffloth 2007"
+      ],
+      [
+        "13313",
+        "grammar_sketch",
+        2005,
+        14,
+        "Nick J. Enfield 2005"
+      ],
+      [
+        "161355",
+        "wordlist_or_less",
+        1996,
+        2,
+        "Michel Ferlus 1996"
+      ],
+      [
+        "143060",
+        "wordlist_or_less",
+        1992,
+        10,
+        "Lai, Nguyen Tuong 1992"
+      ],
+      [
+        "588350",
+        "wordlist_or_less",
+        1907,
+        14,
+        "Paul Macey 1907"
+      ]
+    ]
+  },
+  "id": "hung1275",
+  "name": "Hung",
+  "description": null,
+  "markup_description": null,
+  "latitude": 18.7849,
+  "longitude": 104.772,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Vietic",
+      "id": "viet1250",
+      "url": "https://glottolog.org/resource/languoid/id/viet1250"
+    },
+    {
+      "name": "Cuoi",
+      "id": "cuoi1242",
+      "url": "https://glottolog.org/resource/languoid/id/cuoi1242"
+    }
+  ],
+  "iso639-3": "hnu"
+}

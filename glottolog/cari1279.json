@@ -1,0 +1,99 @@
+{
+  "pk": 3671,
+  "hid": "cbd",
+  "father_pk": 2000,
+  "family_pk": 56,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Carijona [cari1279][cbd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2115",
+        "label": "Carijona"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3446655",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Carijona_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/cari1279",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_crj",
+        "label": "Carijona"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_guq",
+        "label": "Guaque"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_hia",
+        "label": "Hianacoto"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_umu",
+        "label": "Umaua"
+      }
+    ],
+    "meds": [
+      [
+        "662221",
+        "grammar_sketch",
+        2016,
+        120,
+        "David Felipe Guerrero-Beltran 2016"
+      ],
+      [
+        "28470",
+        "grammar_sketch",
+        1908,
+        112,
+        "Theodor Koch-Grünberg 1908"
+      ],
+      [
+        "107625",
+        "wordlist_or_less",
+        1855,
+        22,
+        "Vergara i Vergara, José Maria and Evaristo Delgado 1855"
+      ]
+    ]
+  },
+  "id": "cari1279",
+  "name": "Carijona",
+  "description": null,
+  "markup_description": null,
+  "latitude": 1.21894,
+  "longitude": -72.0664,
+  "classification": [
+    {
+      "name": "Cariban",
+      "id": "cari1283",
+      "url": "https://glottolog.org/resource/languoid/id/cari1283"
+    },
+    {
+      "name": "Guianan",
+      "id": "guia1242",
+      "url": "https://glottolog.org/resource/languoid/id/guia1242"
+    },
+    {
+      "name": "Taranoan",
+      "id": "tara1324",
+      "url": "https://glottolog.org/resource/languoid/id/tara1324"
+    }
+  ],
+  "iso639-3": "cbd"
+}

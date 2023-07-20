@@ -1,0 +1,96 @@
+{
+  "pk": 9055,
+  "hid": "agd",
+  "father_pk": 6560,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Agarabi [agar1252][agd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_aga",
+        "label": "Agarabi"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Agarabi_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3399642",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "136510",
+        "grammar_sketch",
+        1976,
+        68,
+        "Goddard, Jean 1976"
+      ],
+      [
+        "17038",
+        "grammar_sketch",
+        1974,
+        44,
+        "Goddard, Jean 1974"
+      ],
+      [
+        "70748",
+        "grammar_sketch",
+        1973,
+        10,
+        "Darlene Bee and Lorna Luff and Jean Goddard 1973"
+      ],
+      [
+        "139844",
+        "wordlist_or_less",
+        1934,
+        9,
+        "E. W. P. Chinnery 1934"
+      ]
+    ]
+  },
+  "id": "agar1252",
+  "name": "Agarabi",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.20604,
+  "longitude": 145.917,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Kainantu-Goroka",
+      "id": "kain1273",
+      "url": "https://glottolog.org/resource/languoid/id/kain1273"
+    },
+    {
+      "name": "Kainantu",
+      "id": "kain1274",
+      "url": "https://glottolog.org/resource/languoid/id/kain1274"
+    },
+    {
+      "name": "Gauwa",
+      "id": "gauw1235",
+      "url": "https://glottolog.org/resource/languoid/id/gauw1235"
+    },
+    {
+      "name": "Gadsup-Agarabi",
+      "id": "gads1260",
+      "url": "https://glottolog.org/resource/languoid/id/gads1260"
+    }
+  ],
+  "iso639-3": "agd"
+}

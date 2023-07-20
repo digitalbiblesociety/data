@@ -1,0 +1,87 @@
+{
+  "pk": 7218,
+  "hid": "kss",
+  "father_pk": 4917,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Luangkori [luan1258]':1,'Tengia [teng1264]':1,'Warn [warn1243]':1)'Southern Kisi [sout2778][kss]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q11028974",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kss",
+        "label": "Kisi (Southern)"
+      }
+    ],
+    "meds": [
+      [
+        "57081",
+        "long_grammar",
+        1988,
+        399,
+        "Childs, George Tucker 1988"
+      ],
+      [
+        "109600",
+        "grammar",
+        1948,
+        0,
+        "Hans Mukarovsky 1948"
+      ],
+      [
+        "115080",
+        "wordlist_or_less",
+        1916,
+        2,
+        "Thomas, Northcote Whitridge 1916"
+      ],
+      [
+        "110180",
+        "wordlist_or_less",
+        1840,
+        1,
+        "Gibbs, Josiah W. 1840"
+      ]
+    ]
+  },
+  "id": "sout2778",
+  "name": "Southern Kisi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 8.32448,
+  "longitude": -10.3377,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Mel",
+      "id": "mela1257",
+      "url": "https://glottolog.org/resource/languoid/id/mela1257"
+    },
+    {
+      "name": "Southern Mel",
+      "id": "bull1245",
+      "url": "https://glottolog.org/resource/languoid/id/bull1245"
+    },
+    {
+      "name": "Kissi",
+      "id": "kiss1245",
+      "url": "https://glottolog.org/resource/languoid/id/kiss1245"
+    }
+  ],
+  "iso639-3": "kss"
+}

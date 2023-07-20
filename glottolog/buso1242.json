@@ -1,0 +1,79 @@
+{
+  "pk": 577,
+  "hid": "bso",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Buso [buso1242][bso]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "bso",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 has an entry Buso [bso], but this language is the same as Kwang [kvi]\n(**hh:g:TourneuxSeignobosLafarge:Mbara**:116,\n**hh:hv:Jungraithmayr:Nachtigal**:140). See also: Kwang [kvi]."
+    },
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/569",
+        "label": "Buso"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3441370",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Buso_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "71195",
+        "wordlist_or_less",
+        2007,
+        1,
+        "Connell, Bruce 2007"
+      ],
+      [
+        "22309",
+        "wordlist_or_less",
+        1992,
+        1,
+        "Sommer, Gabriele 1992"
+      ]
+    ]
+  },
+  "id": "buso1242",
+  "name": "Buso",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.5008,
+  "longitude": 17.6011,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "bso"
+}

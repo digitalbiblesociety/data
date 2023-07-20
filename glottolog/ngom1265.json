@@ -1,0 +1,79 @@
+{
+  "pk": 627,
+  "hid": "nmj",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Ngombe {Central African Republic} [ngom1265][nmj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "nmj",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 lists two languages Ngombe [nmj] (in Central African Republic) and Bangandu [bgf] (in Cameroon and Congo-Brazzaville). There exist two such populations with those names and locations. They were separated approximately fifty years before the arrival of Europeans and are mutually aware of each other\n(**hh:hvphon:Monino:Proto-Gbaya**:16). They speak the same language,\nas comparison with actual data confirms\n(**hh:hw:Monino:Oubanguiennes**, **hh:wsoc:SyssaPagbanda:Ngombe**). The classification of Ngombe [nmj] (but not location or any other information in the entry) in the Baka-Gundi group suggests that there is confusion with the clan of Pygmies called Bangombe (where Ba- is arguably a prefix) encounted in Congo-Brazzaville\n(**hh:w:Pepper:Bangombe**, **hh:ew:Verhille:Bangombe**,\n**hh:hvw:Klieman:WEquatorial**:290, **hh:e:Sato:Pygmees**,\n**hh:hvw:BoyeldieuCloarec-Heiss:Oubanguien**,\n**hh:e:Ballif:Pygmees**:81-82).  But the language of the Bangombe clan (**hh:w:Pepper:Bangombe**, **hh:ew:Verhille:Bangombe**,\n**hh:hvw:BoyeldieuCloarec-Heiss:Oubanguien**,\n**hh:e:Ballif:Pygmees**:212) as far as it is documented, is indistinguishable from that of the vocabularies in\n**hh:hw:Ouzilleau:Pygmees** which represent the Gundi [gdi] entry,\ncf.~**hh:hvw:Klieman:WEquatorial**:277. Thus, even if Ngombe [nmj]\nwere to refer to the Bangombe clan of Pygmies, the entry is spurious as a separate language. See also: Gundi [gdi], Ngombe-Bangandu [bgf]."
+    },
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/564",
+        "label": "Ngombe"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3913949",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ngombe_language_(Central_African_Republic)",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "71195",
+        "wordlist_or_less",
+        2007,
+        1,
+        "Connell, Bruce 2007"
+      ],
+      [
+        "8198",
+        "wordlist_or_less",
+        1957,
+        0,
+        "Richardson, Irvine 1957"
+      ]
+    ]
+  },
+  "id": "ngom1265",
+  "name": "Ngombe (Central African Republic)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 3.90658,
+  "longitude": 15.2154,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "nmj"
+}

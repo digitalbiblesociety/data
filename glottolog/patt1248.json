@@ -1,0 +1,90 @@
+{
+  "pk": 10279,
+  "hid": "lae",
+  "father_pk": 7385,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Pattani [cent2002]':1,'Chamba-Lahuli [cham1308]':1,'Eastern Pattani [east2348]':1)'Pattani [patt1248][lae]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5664",
+        "label": "Pattani"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7148323",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Pattani_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/patt1248",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ptt",
+        "label": "Pattani"
+      }
+    ],
+    "meds": [
+      [
+        "319358",
+        "grammar",
+        1982,
+        241,
+        "D. D. Sharma 1982"
+      ],
+      [
+        "160648",
+        "phonology_or_text",
+        1909,
+        11,
+        "Francke, August Hermann 1909"
+      ]
+    ]
+  },
+  "id": "patt1248",
+  "name": "Pattani",
+  "description": null,
+  "markup_description": null,
+  "latitude": 32.6963,
+  "longitude": 76.5966,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "West Himalayish",
+      "id": "tibe1275",
+      "url": "https://glottolog.org/resource/languoid/id/tibe1275"
+    },
+    {
+      "name": "Western West Himalayish",
+      "id": "west2868",
+      "url": "https://glottolog.org/resource/languoid/id/west2868"
+    },
+    {
+      "name": "Lahaulic",
+      "id": "laha1249",
+      "url": "https://glottolog.org/resource/languoid/id/laha1249"
+    }
+  ],
+  "iso639-3": "lae"
+}

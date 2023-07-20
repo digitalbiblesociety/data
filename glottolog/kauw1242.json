@@ -1,0 +1,68 @@
+{
+  "pk": 4836,
+  "hid": "xau",
+  "father_pk": 3093,
+  "family_pk": 309,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kauwera [kauw1242][xau]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6378983",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kauwera_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "87988",
+        "wordlist_or_less",
+        1962,
+        113,
+        "van Eechoud, J.P.K. 1962"
+      ],
+      [
+        "51893",
+        "wordlist_or_less",
+        1926,
+        34,
+        "Le Roux, C. 1926"
+      ]
+    ]
+  },
+  "id": "kauw1242",
+  "name": "Kauwera",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.22799,
+  "longitude": 138.157,
+  "classification": [
+    {
+      "name": "Greater Kwerba",
+      "id": "kwer1242",
+      "url": "https://glottolog.org/resource/languoid/id/kwer1242"
+    },
+    {
+      "name": "Kwerba-Samarokena",
+      "id": "kwer1240",
+      "url": "https://glottolog.org/resource/languoid/id/kwer1240"
+    },
+    {
+      "name": "Kwerbaic",
+      "id": "kwer1262",
+      "url": "https://glottolog.org/resource/languoid/id/kwer1262"
+    }
+  ],
+  "iso639-3": "xau"
+}

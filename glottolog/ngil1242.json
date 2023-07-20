@@ -1,0 +1,83 @@
+{
+  "pk": 3697,
+  "hid": "jle",
+  "father_pk": 2019,
+  "family_pk": 59,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Aheima [ahei1238]':1,'Daloka [dalo1239]':1,'Masakin Gusar [masa1302]':1,'Masakin Tuwal [masa1303]':1)'Ngile [ngil1242][jle]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4333",
+        "label": "Ngile"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36329",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ngile_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_msk",
+        "label": "Masakin"
+      }
+    ],
+    "meds": [
+      [
+        "160138",
+        "grammar_sketch",
+        1956,
+        5,
+        "Stevenson, Roland C. 1956/1957"
+      ],
+      [
+        "160135",
+        "grammar_sketch",
+        1952,
+        0,
+        "Stevenson, Roland C. 1952"
+      ],
+      [
+        "94775",
+        "wordlist_or_less",
+        1947,
+        31,
+        "Nadel, Siegfried Frederick 1947"
+      ]
+    ]
+  },
+  "id": "ngil1242",
+  "name": "Ngile",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.7194,
+  "longitude": 29.997,
+  "classification": [
+    {
+      "name": "Narrow Talodi",
+      "id": "narr1279",
+      "url": "https://glottolog.org/resource/languoid/id/narr1279"
+    },
+    {
+      "name": "Buram-Saraf",
+      "id": "bura1298",
+      "url": "https://glottolog.org/resource/languoid/id/bura1298"
+    },
+    {
+      "name": "Buram Hill Chain",
+      "id": "ngil1241",
+      "url": "https://glottolog.org/resource/languoid/id/ngil1241"
+    }
+  ],
+  "iso639-3": "jle"
+}

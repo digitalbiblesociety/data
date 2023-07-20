@@ -1,0 +1,118 @@
+{
+  "pk": 20622,
+  "hid": "awa",
+  "father_pk": 18724,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Bahraich [bahr1250]':1,'Barabanki [bara1410]':1,'Rae Bareli [raeb1235]':1)'Central Awadhi [cent2393]':1,('Azamgarhi [azam1235]':1,'Gangapari [gang1265]':1,'Mirzapuri [mirz1238]':1,'Uttari [utta1238]':1)'Eastern Awadhi [east2875]':1,('Fatehpur [fate1235]':1,'Kheri [kher1247]':1,'Lucknow [luck1235]':1,'Sitapur [sita1239]':1,'Unnao [unna1235]':1)'Western Awadhi [pard1244]':1)'Awadhi [awad1243][awa]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 15,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_awd",
+        "label": "Awadhi"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Awadhi_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/awad1243",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q29579",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "476806",
+        "grammar",
+        1997,
+        256,
+        "Liperovskij, Vladimir P. 1997"
+      ],
+      [
+        "26372",
+        "grammar_sketch",
+        1971,
+        194,
+        "Saksena, Baburam 1971"
+      ],
+      [
+        "109176",
+        "grammar_sketch",
+        1876,
+        77,
+        "S. H. Kellogg 1876"
+      ]
+    ]
+  },
+  "id": "awad1243",
+  "name": "Awadhi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.5907,
+  "longitude": 82.4663,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Indo-Aryan",
+      "id": "indo1321",
+      "url": "https://glottolog.org/resource/languoid/id/indo1321"
+    },
+    {
+      "name": "Middle-Modern Indo-Aryan",
+      "id": "midd1375",
+      "url": "https://glottolog.org/resource/languoid/id/midd1375"
+    },
+    {
+      "name": "Continental Indo-Aryan",
+      "id": "cont1248",
+      "url": "https://glottolog.org/resource/languoid/id/cont1248"
+    },
+    {
+      "name": "Midlands Indo-Aryan",
+      "id": "midl1245",
+      "url": "https://glottolog.org/resource/languoid/id/midl1245"
+    },
+    {
+      "name": "Shaurasenic",
+      "id": "shau1239",
+      "url": "https://glottolog.org/resource/languoid/id/shau1239"
+    },
+    {
+      "name": "Eastern Hindi",
+      "id": "east2726",
+      "url": "https://glottolog.org/resource/languoid/id/east2726"
+    },
+    {
+      "name": "Awadhic",
+      "id": "awad1245",
+      "url": "https://glottolog.org/resource/languoid/id/awad1245"
+    }
+  ],
+  "iso639-3": "awa"
+}

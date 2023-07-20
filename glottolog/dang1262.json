@@ -1,0 +1,85 @@
+{
+  "pk": 8436,
+  "hid": "yrm",
+  "father_pk": 5965,
+  "family_pk": 153,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "'Dangedl [dang1262][yrm]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "yrm",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "E19/E20/E21/E22/E23/E24/E25/E26 splits Yirrk-Mel [yrm] and Yir Yoront [yyr] but the two are easily intelligible (**hh:sd:Alpher:Yir-Yoront**). See also: Yir-Yoront [yiy]."
+    },
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q8053828",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yirrk-Thangalkl_dialect",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500855",
+        "wordlist_or_less",
+        2012,
+        0,
+        "ISO 639-3 Registration Authority 2012"
+      ]
+    ]
+  },
+  "id": "dang1262",
+  "name": "Dangedl",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Paman",
+      "id": "pama1251",
+      "url": "https://glottolog.org/resource/languoid/id/pama1251"
+    },
+    {
+      "name": "Southwest Pama",
+      "id": "sout3141",
+      "url": "https://glottolog.org/resource/languoid/id/sout3141"
+    },
+    {
+      "name": "Coastal Southwest Paman",
+      "id": "coas1313",
+      "url": "https://glottolog.org/resource/languoid/id/coas1313"
+    },
+    {
+      "name": "Yir-Yoront",
+      "id": "yiry1245",
+      "url": "https://glottolog.org/resource/languoid/id/yiry1245"
+    }
+  ],
+  "iso639-3": "yrm"
+}

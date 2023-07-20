@@ -1,0 +1,103 @@
+{
+  "pk": 10331,
+  "hid": "nst",
+  "father_pk": 7402,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(((('Hahcheng [hahc1235]':1,'Ngaimong [ngem1252]':1)'Hahcheng-Ngaimong [hahc1234]':1,('Shangwal [sang1326]':1,'Yoglei [yogl1238]':1)'Joglei-Shangwal [jogl1234]':1)'Jogleic [jogl1235]':1,('Cholim [tong1312]':1,'Longri [long1382]':1)'Longri-Cholim [long1418]':1,('Longphi [long1383]':1,'Muishaung [mosa1240]':1)'Lungphi-Muishaung [lung1253]':1,'Mungre [mung1264]':1,('Chamchang [kims1240]':1,'Shangke [sank1250]':1)'Shecyu-Chamchang [shec1234]':1)'Northern Rangpang [nort3332]':1,('Hkaluk [hkal1241]':1,'Lochhang [lang1315]':1,'Maitai-Jiingi [miti1241]':1,('Gaji-Hajang [higt1238]':1,'Ronrang [ronr1238]':1)'Rera-Hajang [rera1241]':1,'Rinkhu [rink1234]':1)'Southern Rangpang [sout3320]':1)'Pangwa Naga [tase1235][nst]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 26,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Tangsa_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/tase1235",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56350",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "128071",
+        "grammar_sketch",
+        1999,
+        112,
+        "Winglang Rekhung 1999"
+      ],
+      [
+        "135759",
+        "grammar_sketch",
+        1988,
+        60,
+        "Rekhung, Winlang 1988"
+      ],
+      [
+        "130403",
+        "phonology_or_text",
+        1983,
+        37,
+        "French, Walter Thomas 1983"
+      ],
+      [
+        "573773",
+        "wordlist_or_less",
+        1974,
+        31,
+        "Kumar, Braj Bihari and Sāmlok Yoṅsām 1974"
+      ],
+      [
+        "314347",
+        "wordlist_or_less",
+        1897,
+        18,
+        "Needham, Jack F. 1897"
+      ]
+    ]
+  },
+  "id": "tase1235",
+  "name": "Pangwa Naga",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.2572,
+  "longitude": 96.3855,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Brahmaputran",
+      "id": "brah1260",
+      "url": "https://glottolog.org/resource/languoid/id/brah1260"
+    },
+    {
+      "name": "Konyak",
+      "id": "kony1246",
+      "url": "https://glottolog.org/resource/languoid/id/kony1246"
+    },
+    {
+      "name": "Tangsa-Nocte",
+      "id": "kony1249",
+      "url": "https://glottolog.org/resource/languoid/id/kony1249"
+    },
+    {
+      "name": "Tangsa",
+      "id": "tang1379",
+      "url": "https://glottolog.org/resource/languoid/id/tang1379"
+    }
+  ],
+  "iso639-3": "nst"
+}

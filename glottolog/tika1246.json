@@ -1,0 +1,121 @@
+{
+  "pk": 9982,
+  "hid": "tik",
+  "father_pk": 7188,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bandobo [band1349]':1,'Gambai [gamb1253]':1,'Kong {Cameroon} [kong1289]':1,'Mankim [mank1252]':1,'Nditam [ndit1238]':1,'Tige [tige1238]':1,'Twumwu [twum1238]':1)'Tikar [tika1246][tik]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tik",
+        "label": "Tikar"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tikar_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/tika1246",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36483",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "38204",
+        "long_grammar",
+        1986,
+        588,
+        "Stanley, Carol 1986"
+      ],
+      [
+        "62774",
+        "grammar",
+        1977,
+        98,
+        "Jackson, Ellen Marie and Carol Stanley 1977"
+      ],
+      [
+        "162544",
+        "grammar_sketch",
+        1969,
+        63,
+        "Hagège, Claude 1969"
+      ],
+      [
+        "23809",
+        "grammar_sketch",
+        1951,
+        14,
+        "Schmidt, Agatha 1951"
+      ],
+      [
+        "308298",
+        "wordlist_or_less",
+        1880,
+        3,
+        "von Bary, Erwin 1880"
+      ],
+      [
+        "54846",
+        "wordlist_or_less",
+        1862,
+        1,
+        "Latham, Robert Gordon 1862"
+      ],
+      [
+        "66179",
+        "wordlist_or_less",
+        1854,
+        1,
+        "Koelle, Sigismund W. 1854"
+      ]
+    ]
+  },
+  "id": "tika1246",
+  "name": "Tikar",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.87004,
+  "longitude": 11.6104,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Northern Bantoid",
+      "id": "nort3168",
+      "url": "https://glottolog.org/resource/languoid/id/nort3168"
+    }
+  ],
+  "iso639-3": "tik"
+}

@@ -1,0 +1,60 @@
+{
+  "pk": 592,
+  "hid": "ypl",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Pula Yi [pula1268][ypl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "ypl",
+      "name": "Pula Yi",
+      "change_request": "2007-121",
+      "effective": "2008-01-14",
+      "reason": "split",
+      "change_to": [
+        "ypg",
+        "ypa",
+        "ypo"
+      ],
+      "remedy": "Split into three languages: Phola [ypg], Phala [ypa] and Alo Phola [ypo]",
+      "comment": "Based on recent linguistic survey findings with research components exploring\nidentity, contact and intelligibility, we recommend that [ypl] should be split\ninto three closely related, but synchronically distinct languages. Speaker\nperceptions and recorded text test scores both point to low intelligibility\nbetween Phola [ypg] and Phala [ypa]*. Undirectional intelligibility from Phala\nto Phola is apparent in middle-aged to elderly speakers, but younger speakers\nwho have had less contact are unable to converse in Phala or Phola and must\nresort to Chinese. Based on the views of in-group and out-group members alike,\nethnic identity and material culture also confirm this distinction.\n\nThe proposed language [ypo], or Alo Phola, is reported by Phola speakers to be\nan unintelligible dialect of Phola spoken in a village in central Yuanjiang\nCounty. The village is surrounded by Dai villages, and Phola speakers say the\nlanguage sounds like a mix of Phola, Chinese and Dai. Speakers from the two\nvarieties reportedly must resort to Chinese in order to communicate."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12640742",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500229",
+        "wordlist_or_less",
+        2007,
+        0,
+        "ISO 639-3 Registration Authority 2007"
+      ]
+    ]
+  },
+  "id": "pula1268",
+  "name": "Pula Yi",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "ypl"
+}

@@ -1,0 +1,89 @@
+{
+  "pk": 9159,
+  "hid": "kmh",
+  "father_pk": 6645,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kalam [kala1397][kmh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_klq",
+        "label": "Kalam"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kalam_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12952550",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "150153",
+        "grammar",
+        1966,
+        219,
+        "Pawley, Andrew Kenneth 1966"
+      ],
+      [
+        "12496",
+        "wordlist_or_less",
+        1927,
+        14,
+        "Kirschbaum, Franz 1927"
+      ],
+      [
+        "157395",
+        "wordlist_or_less",
+        1902,
+        7,
+        "Karl Weule 1902"
+      ]
+    ]
+  },
+  "id": "kala1397",
+  "name": "Kalam",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.25216,
+  "longitude": 144.585,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Madang",
+      "id": "mada1298",
+      "url": "https://glottolog.org/resource/languoid/id/mada1298"
+    },
+    {
+      "name": "Kalamic-South Adelbert",
+      "id": "kala1403",
+      "url": "https://glottolog.org/resource/languoid/id/kala1403"
+    },
+    {
+      "name": "Kalam-Kobon",
+      "id": "kala1404",
+      "url": "https://glottolog.org/resource/languoid/id/kala1404"
+    },
+    {
+      "name": "Etp-Ti Kalam",
+      "id": "etpt1234",
+      "url": "https://glottolog.org/resource/languoid/id/etpt1234"
+    }
+  ],
+  "iso639-3": "kmh"
+}

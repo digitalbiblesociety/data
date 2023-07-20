@@ -1,0 +1,71 @@
+{
+  "pk": 9149,
+  "hid": "hap",
+  "father_pk": 6633,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Hupla [hupl1238][hap]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q5946223",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Hupla_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "38805",
+        "wordlist_or_less",
+        1991,
+        7,
+        "Peter J. Silzer and Heljä Heikkinen-Clouse 1991"
+      ]
+    ]
+  },
+  "id": "hupl1238",
+  "name": "Hupla",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.36349,
+  "longitude": 139.164,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Dani",
+      "id": "dani1287",
+      "url": "https://glottolog.org/resource/languoid/id/dani1287"
+    },
+    {
+      "name": "Central Dani",
+      "id": "cent2233",
+      "url": "https://glottolog.org/resource/languoid/id/cent2233"
+    },
+    {
+      "name": "Grand Valley Dani",
+      "id": "gran1246",
+      "url": "https://glottolog.org/resource/languoid/id/gran1246"
+    },
+    {
+      "name": "Southeast Grand Valley Dani",
+      "id": "sout3374",
+      "url": "https://glottolog.org/resource/languoid/id/sout3374"
+    }
+  ],
+  "iso639-3": "hap"
+}

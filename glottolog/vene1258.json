@@ -1,0 +1,127 @@
+{
+  "pk": 24148,
+  "hid": "vec",
+  "father_pk": 22789,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bisiacco [bisi1243]':1,'Istrian [istr1246]':1,'Talian {Brazilian Veneto} [tali1266]':1,'Trentine [tret1239]':1,'Triestine [trie1242]':1,'Venetian Proper [vene1259]':1)'Venetian [vene1258][vec]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Venetian_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q32724",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "597557",
+        "grammar",
+        2009,
+        228,
+        "Belloni, Silvano 2009"
+      ],
+      [
+        "320482",
+        "grammar",
+        2006,
+        171,
+        "Belloni, Silvano 2006"
+      ],
+      [
+        "148520",
+        "grammar_sketch",
+        1974,
+        283,
+        "Alberto Zamboni 1974"
+      ],
+      [
+        "578534",
+        "grammar_sketch",
+        1889,
+        119,
+        "Wendriner, Richard 1889"
+      ]
+    ]
+  },
+  "id": "vene1258",
+  "name": "Venetian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 45.503581,
+  "longitude": 12.214167,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Italic",
+      "id": "ital1284",
+      "url": "https://glottolog.org/resource/languoid/id/ital1284"
+    },
+    {
+      "name": "Latino-Faliscan",
+      "id": "lati1262",
+      "url": "https://glottolog.org/resource/languoid/id/lati1262"
+    },
+    {
+      "name": "Latinic",
+      "id": "lati1263",
+      "url": "https://glottolog.org/resource/languoid/id/lati1263"
+    },
+    {
+      "name": "Imperial Latin",
+      "id": "impe1234",
+      "url": "https://glottolog.org/resource/languoid/id/impe1234"
+    },
+    {
+      "name": "Romance",
+      "id": "roma1334",
+      "url": "https://glottolog.org/resource/languoid/id/roma1334"
+    },
+    {
+      "name": "Italo-Western Romance",
+      "id": "ital1285",
+      "url": "https://glottolog.org/resource/languoid/id/ital1285"
+    },
+    {
+      "name": "Western Romance",
+      "id": "west2813",
+      "url": "https://glottolog.org/resource/languoid/id/west2813"
+    },
+    {
+      "name": "Shifted Western Romance",
+      "id": "shif1234",
+      "url": "https://glottolog.org/resource/languoid/id/shif1234"
+    },
+    {
+      "name": "Northwestern Shifted Romance",
+      "id": "nort3208",
+      "url": "https://glottolog.org/resource/languoid/id/nort3208"
+    },
+    {
+      "name": "Gallo-Italian",
+      "id": "gall1279",
+      "url": "https://glottolog.org/resource/languoid/id/gall1279"
+    }
+  ],
+  "iso639-3": "vec"
+}

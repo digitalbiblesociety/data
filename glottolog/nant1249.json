@@ -1,0 +1,89 @@
+{
+  "pk": 8802,
+  "hid": "nnt",
+  "father_pk": 6293,
+  "family_pk": 178,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Nanticoke [nant1249][nnt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3915517",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nanticoke_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nnt",
+        "label": "Nanticoke"
+      }
+    ],
+    "meds": [
+      [
+        "11030",
+        "wordlist_or_less",
+        1996,
+        54,
+        "Murray, William Vans and Brinton, Daniel G. 1996"
+      ],
+      [
+        "313592",
+        "wordlist_or_less",
+        1838,
+        14,
+        "Peter S. Duponceau 1838"
+      ],
+      [
+        "27878",
+        "wordlist_or_less",
+        1836,
+        4,
+        "Albert Gallatin 1836"
+      ]
+    ]
+  },
+  "id": "nant1249",
+  "name": "Nanticoke",
+  "description": null,
+  "markup_description": null,
+  "latitude": 39.67781,
+  "longitude": -74.98648,
+  "classification": [
+    {
+      "name": "Algic",
+      "id": "algi1248",
+      "url": "https://glottolog.org/resource/languoid/id/algi1248"
+    },
+    {
+      "name": "Algonquian-Blackfoot",
+      "id": "algo1256",
+      "url": "https://glottolog.org/resource/languoid/id/algo1256"
+    },
+    {
+      "name": "Algonquian",
+      "id": "algo1257",
+      "url": "https://glottolog.org/resource/languoid/id/algo1257"
+    },
+    {
+      "name": "Eastern Algonquian",
+      "id": "east2700",
+      "url": "https://glottolog.org/resource/languoid/id/east2700"
+    },
+    {
+      "name": "Nanticoke-Conoy",
+      "id": "nant1248",
+      "url": "https://glottolog.org/resource/languoid/id/nant1248"
+    }
+  ],
+  "iso639-3": "nnt"
+}

@@ -1,0 +1,100 @@
+{
+  "pk": 2434,
+  "hid": "wmb",
+  "father_pk": 1141,
+  "family_pk": 179,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Binbinka [binb1242]':1,('Gudanji [guda1243]':1,'Wambaya [nucl1328]':1)'Wambaya-Gudanji [guda1242]':1)'Wambayan [wamb1258][wmb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/c19",
+        "label": "Wambaya"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/3336",
+        "label": "Wambaya"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_wam",
+        "label": "Wambaya"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Wambaya_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/wamb1258",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2083197",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "62909",
+        "long_grammar",
+        1993,
+        684,
+        "Rachel Nordlinger 1993"
+      ],
+      [
+        "5266",
+        "grammar",
+        1977,
+        0,
+        "Campbell, Stuart 1977"
+      ],
+      [
+        "140829",
+        "grammar_sketch",
+        1968,
+        20,
+        "E. F. Aguas 1968"
+      ],
+      [
+        "1926",
+        "wordlist_or_less",
+        1908,
+        26,
+        "Eylmann, Erhard 1908"
+      ],
+      [
+        "584391",
+        "wordlist_or_less",
+        1905,
+        3,
+        "Mathews, Robert Hamilton 1905"
+      ]
+    ]
+  },
+  "id": "wamb1258",
+  "name": "Wambayan",
+  "description": null,
+  "markup_description": null,
+  "latitude": -17.496,
+  "longitude": 135.683,
+  "classification": [
+    {
+      "name": "Mirndi",
+      "id": "mirn1241",
+      "url": "https://glottolog.org/resource/languoid/id/mirn1241"
+    },
+    {
+      "name": "Ngurlun",
+      "id": "guda1245",
+      "url": "https://glottolog.org/resource/languoid/id/guda1245"
+    }
+  ],
+  "iso639-3": "wmb"
+}

@@ -1,0 +1,60 @@
+{
+  "pk": 765,
+  "hid": "rie",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Rien [rien1238][rie]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "rie",
+      "name": "Rien",
+      "change_request": "2016-005",
+      "effective": "2017-01-31",
+      "reason": "non-existent",
+      "change_to": [],
+      "remedy": "Retire",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7333135",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Rien_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "92676",
+        "wordlist_or_less",
+        2003,
+        15,
+        "Joachim Schliesinger 2003"
+      ]
+    ]
+  },
+  "id": "rien1238",
+  "name": "Rien",
+  "description": null,
+  "markup_description": null,
+  "latitude": 19.5084,
+  "longitude": 102.591,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "rie"
+}

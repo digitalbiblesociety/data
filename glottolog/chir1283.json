@@ -1,0 +1,89 @@
+{
+  "pk": 10257,
+  "hid": "cdf",
+  "father_pk": 7361,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Chiru [chir1283][cdf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1624",
+        "label": "Chiru"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Chiru_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5102016",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "657492",
+        "long_grammar",
+        2017,
+        376,
+        "Awan, Mechek Sampar 2017"
+      ],
+      [
+        "552207",
+        "grammar_sketch",
+        2007,
+        211,
+        "Singh, Salam Brojen 2007"
+      ],
+      [
+        "118757",
+        "wordlist_or_less",
+        1904,
+        5,
+        "George A. Grierson 1904"
+      ]
+    ]
+  },
+  "id": "chir1283",
+  "name": "Chiru",
+  "description": null,
+  "markup_description": null,
+  "latitude": 25.4643,
+  "longitude": 94.4072,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Kuki-Chin",
+      "id": "kuki1246",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1246"
+    },
+    {
+      "name": "Northwestern Kuki-Chin",
+      "id": "oldk1252",
+      "url": "https://glottolog.org/resource/languoid/id/oldk1252"
+    },
+    {
+      "name": "Central Old Kuki",
+      "id": "cent2411",
+      "url": "https://glottolog.org/resource/languoid/id/cent2411"
+    }
+  ],
+  "iso639-3": "cdf"
+}

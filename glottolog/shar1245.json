@@ -1,0 +1,101 @@
+{
+  "pk": 11807,
+  "hid": "mcd",
+  "father_pk": 8991,
+  "family_pk": 273,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Chandinahua [chan1321]':1,'Marinahua [mari1443]':1,'Mastanahua [mast1238]':1,'Shawannawa [shaw1250]':1)'Sharanahua [shar1245][mcd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_shh",
+        "label": "Sharanahua"
+      },
+      {
+        "url": "https://phoible.org/languages/shar1245",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12953881",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "44484",
+        "grammar",
+        1993,
+        184,
+        "Carla Maria Cunha 1993"
+      ],
+      [
+        "99735",
+        "phonology_or_text",
+        1974,
+        12,
+        "Scott, Eugene and Donald G. Frantz 1974"
+      ],
+      [
+        "109102",
+        "phonology_or_text",
+        1962,
+        8,
+        "Pike, Eunice V. and Eugene Scott 1962"
+      ],
+      [
+        "112947",
+        "phonology_or_text",
+        1958,
+        0,
+        "Scott, Eugene and Mary Scott 1958"
+      ]
+    ]
+  },
+  "id": "shar1245",
+  "name": "Sharanahua",
+  "description": null,
+  "markup_description": null,
+  "latitude": -9.8626,
+  "longitude": -71.1232,
+  "classification": [
+    {
+      "name": "Pano-Tacanan",
+      "id": "pano1259",
+      "url": "https://glottolog.org/resource/languoid/id/pano1259"
+    },
+    {
+      "name": "Panoan",
+      "id": "pano1256",
+      "url": "https://glottolog.org/resource/languoid/id/pano1256"
+    },
+    {
+      "name": "Mainline Pano",
+      "id": "main1279",
+      "url": "https://glottolog.org/resource/languoid/id/main1279"
+    },
+    {
+      "name": "Pano Nawa",
+      "id": "pano1257",
+      "url": "https://glottolog.org/resource/languoid/id/pano1257"
+    },
+    {
+      "name": "Headwaters Pano",
+      "id": "head1239",
+      "url": "https://glottolog.org/resource/languoid/id/head1239"
+    },
+    {
+      "name": "Yaminawa Complex",
+      "id": "yami1255",
+      "url": "https://glottolog.org/resource/languoid/id/yami1255"
+    }
+  ],
+  "iso639-3": "mcd"
+}

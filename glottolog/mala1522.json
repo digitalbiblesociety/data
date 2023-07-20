@@ -1,0 +1,121 @@
+{
+  "pk": 13796,
+  "hid": "mbp",
+  "father_pk": 10689,
+  "family_pk": 10,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Malayo [mala1522][mbp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_dam",
+        "label": "Damana"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/2545",
+        "label": "Guamaca"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Wiwa_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/mala1522",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3012604",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "35490",
+        "grammar",
+        1993,
+        182,
+        "Williams, Cindy 1993"
+      ],
+      [
+        "121461",
+        "grammar_sketch",
+        1966,
+        0,
+        "Mansen, R. 1966"
+      ],
+      [
+        "99534",
+        "wordlist_or_less",
+        1920,
+        12,
+        "Walther Lehmann 1920"
+      ],
+      [
+        "28219",
+        "wordlist_or_less",
+        1878,
+        7,
+        "Celedón, Rafael 1878"
+      ],
+      [
+        "130321",
+        "wordlist_or_less",
+        1871,
+        7,
+        "Uricoechea, E. 1871"
+      ]
+    ]
+  },
+  "id": "mala1522",
+  "name": "Malayo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.9286,
+  "longitude": -73.4056,
+  "classification": [
+    {
+      "name": "Chibchan",
+      "id": "chib1249",
+      "url": "https://glottolog.org/resource/languoid/id/chib1249"
+    },
+    {
+      "name": "Core Chibchan",
+      "id": "core1252",
+      "url": "https://glottolog.org/resource/languoid/id/core1252"
+    },
+    {
+      "name": "Magdalenic",
+      "id": "magd1236",
+      "url": "https://glottolog.org/resource/languoid/id/magd1236"
+    },
+    {
+      "name": "Northern Magdalenic",
+      "id": "nort3000",
+      "url": "https://glottolog.org/resource/languoid/id/nort3000"
+    },
+    {
+      "name": "Arhuacic",
+      "id": "arhu1241",
+      "url": "https://glottolog.org/resource/languoid/id/arhu1241"
+    },
+    {
+      "name": "Eastern-Southern Arhuacic",
+      "id": "east2571",
+      "url": "https://glottolog.org/resource/languoid/id/east2571"
+    },
+    {
+      "name": "Eastern Arhuacic",
+      "id": "east2572",
+      "url": "https://glottolog.org/resource/languoid/id/east2572"
+    }
+  ],
+  "iso639-3": "mbp"
+}

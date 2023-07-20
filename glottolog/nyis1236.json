@@ -1,0 +1,105 @@
+{
+  "pk": 13196,
+  "hid": "njz",
+  "father_pk": 10129,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Aka Lel [akal1238]':1,'Hill Miri [hill1258]':1,'Nishang [nish1241]':1)'Nyishi-Hill Miri [nyis1236][njz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56870",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nishi_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nyis1236",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nis",
+        "label": "Nyishi"
+      }
+    ],
+    "meds": [
+      [
+        "16946",
+        "grammar_sketch",
+        2005,
+        131,
+        "Abraham, P. T. 2005"
+      ],
+      [
+        "34076",
+        "grammar_sketch",
+        1900,
+        127,
+        "R. C. Hamilton 1900"
+      ],
+      [
+        "51592",
+        "wordlist_or_less",
+        1852,
+        6,
+        "William Robinson 1852"
+      ],
+      [
+        "115954",
+        "wordlist_or_less",
+        1837,
+        1,
+        "Brown, Nathan 1837"
+      ]
+    ]
+  },
+  "id": "nyis1236",
+  "name": "Nyishi-Hill Miri",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.278263,
+  "longitude": 93.675529,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Macro-Tani",
+      "id": "macr1268",
+      "url": "https://glottolog.org/resource/languoid/id/macr1268"
+    },
+    {
+      "name": "Tani",
+      "id": "tani1259",
+      "url": "https://glottolog.org/resource/languoid/id/tani1259"
+    },
+    {
+      "name": "Pre-Western Tani",
+      "id": "prew1234",
+      "url": "https://glottolog.org/resource/languoid/id/prew1234"
+    },
+    {
+      "name": "Western Tani",
+      "id": "west2797",
+      "url": "https://glottolog.org/resource/languoid/id/west2797"
+    },
+    {
+      "name": "Subansiri",
+      "id": "suba1255",
+      "url": "https://glottolog.org/resource/languoid/id/suba1255"
+    }
+  ],
+  "iso639-3": "njz"
+}

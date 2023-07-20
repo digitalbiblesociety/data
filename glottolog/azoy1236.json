@@ -1,0 +1,78 @@
+{
+  "pk": 8943,
+  "hid": "tpc",
+  "father_pk": 6458,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Azoyú Me''phaa [azoy1236][tpc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3513",
+        "label": "Tlapanec"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q25559730",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "311308",
+        "grammar_sketch",
+        1995,
+        145,
+        "Wichmann, Søren 1995"
+      ],
+      [
+        "58510",
+        "grammar_sketch",
+        1933,
+        28,
+        "Radin, Paul 1933"
+      ]
+    ]
+  },
+  "id": "azoy1236",
+  "name": "Azoyú Me'phaa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.7584,
+  "longitude": -98.5241,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Western Otomanguean",
+      "id": "west2783",
+      "url": "https://glottolog.org/resource/languoid/id/west2783"
+    },
+    {
+      "name": "Tlapanec-Manguean",
+      "id": "tlap1252",
+      "url": "https://glottolog.org/resource/languoid/id/tlap1252"
+    },
+    {
+      "name": "Subtiaba-Tlapanec",
+      "id": "subt1249",
+      "url": "https://glottolog.org/resource/languoid/id/subt1249"
+    },
+    {
+      "name": "Mephaa",
+      "id": "meph1234",
+      "url": "https://glottolog.org/resource/languoid/id/meph1234"
+    }
+  ],
+  "iso639-3": "tpc"
+}

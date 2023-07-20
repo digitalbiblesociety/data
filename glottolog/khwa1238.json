@@ -1,0 +1,105 @@
+{
+  "pk": 13961,
+  "hid": "xco",
+  "father_pk": 10891,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Khwarezmian [khwa1238][xco]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "xco",
+      "comment_type": "missing",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "A number of ancient languages of the Middle East and Central Asia are attested, but missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26. One is Khwarezmian (**hh:ld:Henning:Khwarezmian**, **hh:d:Henning:Khwarezmian**)."
+    },
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Khwarezmian_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33138",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "26277",
+        "grammar_sketch",
+        1951,
+        122,
+        "Frejman, Aleksandr A. 1951"
+      ],
+      [
+        "102950",
+        "wordlist_or_less",
+        1257,
+        423,
+        "Benzing, Johannes 1968 [1257]"
+      ]
+    ]
+  },
+  "id": "khwa1238",
+  "name": "Khwarezmian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 41.68,
+  "longitude": 60.75,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Iranian",
+      "id": "iran1269",
+      "url": "https://glottolog.org/resource/languoid/id/iran1269"
+    },
+    {
+      "name": "Central Iranian PBS",
+      "id": "cent2317",
+      "url": "https://glottolog.org/resource/languoid/id/cent2317"
+    },
+    {
+      "name": "Sogdic-Ossetic",
+      "id": "sogd1247",
+      "url": "https://glottolog.org/resource/languoid/id/sogd1247"
+    },
+    {
+      "name": "Sogdic",
+      "id": "sogd1248",
+      "url": "https://glottolog.org/resource/languoid/id/sogd1248"
+    }
+  ],
+  "iso639-3": "xco"
+}

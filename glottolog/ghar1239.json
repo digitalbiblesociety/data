@@ -1,0 +1,100 @@
+{
+  "pk": 17656,
+  "hid": "gri",
+  "father_pk": 15258,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Gae [gaee1238]':1,'Geri [geri1237]':1,'Ndi {Solomon Islands} [ndii1241]':1,'Nginia [ngin1246]':1,'Nuclear Ghari [nucl1471]':1,'Tandai-Nggaria [tand1254]':1)'Ghari [ghar1239][gri]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Ghari_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3104782",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "68410",
+        "grammar_sketch",
+        1934,
+        27,
+        "W. G. Ivens 1934"
+      ],
+      [
+        "56899",
+        "grammar_sketch",
+        1915,
+        23,
+        "P. Bouillon 1915/1916"
+      ],
+      [
+        "99266",
+        "wordlist_or_less",
+        1885,
+        6,
+        "Robert Codrington 1885"
+      ]
+    ]
+  },
+  "id": "ghar1239",
+  "name": "Ghari",
+  "description": null,
+  "markup_description": null,
+  "latitude": -9.4791,
+  "longitude": 159.917,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Southeast Solomonic",
+      "id": "sout2853",
+      "url": "https://glottolog.org/resource/languoid/id/sout2853"
+    },
+    {
+      "name": "Guadalcanal-Nggelic",
+      "id": "guad1241",
+      "url": "https://glottolog.org/resource/languoid/id/guad1241"
+    },
+    {
+      "name": "Nuclear Guadalcanal-Nggelic",
+      "id": "nucl1470",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1470"
+    },
+    {
+      "name": "North and West Guadalcanal",
+      "id": "nort2832",
+      "url": "https://glottolog.org/resource/languoid/id/nort2832"
+    }
+  ],
+  "iso639-3": "gri"
+}

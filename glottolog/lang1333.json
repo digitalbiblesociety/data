@@ -1,0 +1,68 @@
+{
+  "pk": 521,
+  "hid": "yne",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Lang''e [lang1333][yne]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "yne",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "lists Lang'e [yne] as a separate language of Yongsheng county in Yunnan province, but this language is intelligible with Talu [yta] (**hh:hvw:Lama:Nisoic**:80) which already has a separate entry. There is possibly confusion with the Chinese variety of Lhao Vo [mhx] which is also called Lang'e and also in Yunnan province,\nbut spoken closer to the border with Myanmar\n(**hh:hld:Dai:Jingpo**, **hh:hv:Mann:NBurmic**), in which case the entry is also spurious, duplicating Lhao Vo [mhx]. See also: Lavu-Yongsheng-Talu [yta], Maru [mhx]."
+    },
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6485577",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lang%27e_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500765",
+        "wordlist_or_less",
+        2007,
+        0,
+        "ISO 639-3 Registration Authority 2007"
+      ]
+    ]
+  },
+  "id": "lang1333",
+  "name": "Lang'e",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "yne"
+}

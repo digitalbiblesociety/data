@@ -1,0 +1,76 @@
+{
+  "pk": 4114,
+  "hid": "tub",
+  "father_pk": 2347,
+  "family_pk": 155,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tübatulabal [tuba1278][tub]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6513",
+        "label": "Tubatulabal"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56704",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/T%C3%BCbatulabal_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tbb",
+        "label": "Tübatulabal"
+      }
+    ],
+    "meds": [
+      [
+        "9737",
+        "grammar",
+        1935,
+        135,
+        "Voegelin, Charles F. 1935"
+      ],
+      [
+        "156492",
+        "wordlist_or_less",
+        1907,
+        4,
+        "Kroeber, Alfred L. 1907"
+      ]
+    ]
+  },
+  "id": "tuba1278",
+  "name": "Tübatulabal",
+  "description": null,
+  "markup_description": null,
+  "latitude": 35.327,
+  "longitude": -117.163,
+  "classification": [
+    {
+      "name": "Uto-Aztecan",
+      "id": "utoa1244",
+      "url": "https://glottolog.org/resource/languoid/id/utoa1244"
+    },
+    {
+      "name": "Northern Uto-Aztecan",
+      "id": "nort2953",
+      "url": "https://glottolog.org/resource/languoid/id/nort2953"
+    },
+    {
+      "name": "Californian Uto-Aztecan",
+      "id": "cali1246",
+      "url": "https://glottolog.org/resource/languoid/id/cali1246"
+    }
+  ],
+  "iso639-3": "tub"
+}

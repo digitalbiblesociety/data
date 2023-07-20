@@ -1,0 +1,80 @@
+{
+  "pk": 6265,
+  "hid": "inp",
+  "father_pk": 4226,
+  "family_pk": 177,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Modern Iñapari [inap1243]':1,'Pacaguara-Mercier [paca1247]':1)'Iñapari [inap1242][inp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/I%C3%B1apari_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q15338035",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "98209",
+        "grammar_sketch",
+        1995,
+        104,
+        "Parker, Stephen G. 1995"
+      ],
+      [
+        "141164",
+        "wordlist_or_less",
+        1903,
+        188,
+        "Germán Stiglich 1903"
+      ],
+      [
+        "29045",
+        "wordlist_or_less",
+        1890,
+        3,
+        "Nusser-Asport, C. 1890"
+      ]
+    ]
+  },
+  "id": "inap1242",
+  "name": "Iñapari",
+  "description": null,
+  "markup_description": null,
+  "latitude": -12.46525,
+  "longitude": -69.30827,
+  "classification": [
+    {
+      "name": "Arawakan",
+      "id": "araw1281",
+      "url": "https://glottolog.org/resource/languoid/id/araw1281"
+    },
+    {
+      "name": "Southern Maipuran",
+      "id": "sout3131",
+      "url": "https://glottolog.org/resource/languoid/id/sout3131"
+    },
+    {
+      "name": "Purus-Chamicuro",
+      "id": "puru1269",
+      "url": "https://glottolog.org/resource/languoid/id/puru1269"
+    },
+    {
+      "name": "Purus",
+      "id": "puru1265",
+      "url": "https://glottolog.org/resource/languoid/id/puru1265"
+    }
+  ],
+  "iso639-3": "inp"
+}

@@ -1,0 +1,93 @@
+{
+  "pk": 5216,
+  "hid": "mcr",
+  "father_pk": 3382,
+  "family_pk": 385,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Menya [meny1245][mcr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q11732444",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Menya_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mey",
+        "label": "Menya"
+      }
+    ],
+    "meds": [
+      [
+        "10321",
+        "grammar",
+        2004,
+        274,
+        "Carl R. Whitehead 2004"
+      ],
+      [
+        "125655",
+        "grammar_sketch",
+        1986,
+        158,
+        "Carl R. Whitehead 1986"
+      ],
+      [
+        "140544",
+        "phonology_or_text",
+        1973,
+        3,
+        "Lloyd, Richard G. 1973"
+      ],
+      [
+        "319180",
+        "wordlist_or_less",
+        1968,
+        1,
+        "Hans Fischer 1968"
+      ],
+      [
+        "618255",
+        "wordlist_or_less",
+        1952,
+        9,
+        "Ward H. Goodenough 1952"
+      ]
+    ]
+  },
+  "id": "meny1245",
+  "name": "Menya",
+  "description": null,
+  "markup_description": null,
+  "latitude": -7.17425,
+  "longitude": 146.071,
+  "classification": [
+    {
+      "name": "Angan",
+      "id": "anga1289",
+      "url": "https://glottolog.org/resource/languoid/id/anga1289"
+    },
+    {
+      "name": "Nuclear Angan",
+      "id": "nucl1763",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1763"
+    },
+    {
+      "name": "Kapau-Menya",
+      "id": "kapa1251",
+      "url": "https://glottolog.org/resource/languoid/id/kapa1251"
+    }
+  ],
+  "iso639-3": "mcr"
+}

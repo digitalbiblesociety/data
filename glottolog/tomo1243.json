@@ -1,0 +1,85 @@
+{
+  "pk": 3845,
+  "hid": "dtm",
+  "father_pk": 2154,
+  "family_pk": 117,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tomo Kan Dogon [tomo1243][dtm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q11137719",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "586887",
+        "long_grammar",
+        2019,
+        344,
+        "Dyachkov, Vadim 2019"
+      ],
+      [
+        "326361",
+        "long_grammar",
+        2014,
+        331,
+        "Heath, Jeffrey 2014"
+      ],
+      [
+        "93867",
+        "grammar",
+        1971,
+        183,
+        "Léger, Jean 1971"
+      ],
+      [
+        "318864",
+        "wordlist_or_less",
+        1921,
+        9,
+        "Robert Arnaud 1921"
+      ],
+      [
+        "87230",
+        "wordlist_or_less",
+        1907,
+        168,
+        "Desplagnes, Louis 1907"
+      ]
+    ]
+  },
+  "id": "tomo1243",
+  "name": "Tomo Kan Dogon",
+  "description": null,
+  "markup_description": null,
+  "latitude": 13.6331,
+  "longitude": -3.82228,
+  "classification": [
+    {
+      "name": "Dogon",
+      "id": "dogo1299",
+      "url": "https://glottolog.org/resource/languoid/id/dogo1299"
+    },
+    {
+      "name": "Plains Dogon",
+      "id": "plai1257",
+      "url": "https://glottolog.org/resource/languoid/id/plai1257"
+    },
+    {
+      "name": "Western Plains Dogon",
+      "id": "west2508",
+      "url": "https://glottolog.org/resource/languoid/id/west2508"
+    }
+  ],
+  "iso639-3": "dtm"
+}

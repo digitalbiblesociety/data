@@ -1,0 +1,84 @@
+{
+  "pk": 6840,
+  "hid": "tbl",
+  "father_pk": 4655,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Tboli [cent2081]':1,'Southern Tboli [sout2904]':1,'Western Tboli [west2549]':1)'Tboli [tbol1240][tbl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tbo",
+        "label": "Tboli"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tboli_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7690594",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "41636",
+        "long_grammar",
+        1977,
+        354,
+        "Porter, Doris 1977"
+      ],
+      [
+        "116185",
+        "phonology_or_text",
+        1955,
+        160,
+        "Maryott, Alice L. and Forsberg, Vivian 1955"
+      ],
+      [
+        "123942",
+        "wordlist_or_less",
+        1954,
+        59,
+        "na 1954"
+      ]
+    ]
+  },
+  "id": "tbol1240",
+  "name": "Tboli",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.20377,
+  "longitude": 124.538,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Bilic",
+      "id": "bili1253",
+      "url": "https://glottolog.org/resource/languoid/id/bili1253"
+    },
+    {
+      "name": "Tboli-Blaan",
+      "id": "tbol1241",
+      "url": "https://glottolog.org/resource/languoid/id/tbol1241"
+    }
+  ],
+  "iso639-3": "tbl"
+}

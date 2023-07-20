@@ -1,0 +1,77 @@
+{
+  "pk": 5682,
+  "hid": "sdk",
+  "father_pk": 3744,
+  "family_pk": 92,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Sos Kundi [sosk1235][sdk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10613",
+        "label": "Kwaruwi Kwundi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7563811",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sos_Kundi_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "586609",
+        "phonology_or_text",
+        2019,
+        457,
+        "Correna Janzen and Elvira Corbalan 2019"
+      ],
+      [
+        "38295",
+        "wordlist_or_less",
+        1975,
+        1,
+        "Philip Staalsen 1975"
+      ]
+    ]
+  },
+  "id": "sosk1235",
+  "name": "Sos Kundi",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.99024,
+  "longitude": 143.396,
+  "classification": [
+    {
+      "name": "Ndu",
+      "id": "nduu1242",
+      "url": "https://glottolog.org/resource/languoid/id/nduu1242"
+    },
+    {
+      "name": "Nuclear Ndu",
+      "id": "nucl1642",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1642"
+    },
+    {
+      "name": "Sawosic",
+      "id": "sawo1235",
+      "url": "https://glottolog.org/resource/languoid/id/sawo1235"
+    },
+    {
+      "name": "Iatmulic",
+      "id": "sawo1234",
+      "url": "https://glottolog.org/resource/languoid/id/sawo1234"
+    }
+  ],
+  "iso639-3": "sdk"
+}

@@ -1,0 +1,93 @@
+{
+  "pk": 6050,
+  "hid": "bia",
+  "father_pk": 4058,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Badimaya [badi1246][bia]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/a14",
+        "label": "Badimaya"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/3913",
+        "label": "Badimaya"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bdm",
+        "label": "Badimaya"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/4009",
+        "label": "Maya"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Badimaya_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/badi1246",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3442745",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "92128",
+        "grammar",
+        1988,
+        131,
+        "Leone Dunn 1988"
+      ],
+      [
+        "92136",
+        "grammar",
+        1982,
+        0,
+        "Leone Dunn 1982"
+      ]
+    ]
+  },
+  "id": "badi1246",
+  "name": "Badimaya",
+  "description": null,
+  "markup_description": null,
+  "latitude": -29.0647,
+  "longitude": 117.246,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "South-West Pama-Nyungan",
+      "id": "sout3134",
+      "url": "https://glottolog.org/resource/languoid/id/sout3134"
+    },
+    {
+      "name": "Kartu-Nhanda",
+      "id": "kart1249",
+      "url": "https://glottolog.org/resource/languoid/id/kart1249"
+    },
+    {
+      "name": "Kartu",
+      "id": "kart1250",
+      "url": "https://glottolog.org/resource/languoid/id/kart1250"
+    }
+  ],
+  "iso639-3": "bia"
+}

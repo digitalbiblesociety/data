@@ -1,0 +1,137 @@
+{
+  "pk": 24933,
+  "hid": "tcs",
+  "father_pk": 24042,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Lockhart River Creole [lock1234]':1,'Torres Strait Creole [torr1263]':1)'Torres Strait-Lockhart River Creole [torr1261][tcs]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bro",
+        "label": "Broken"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/p2",
+        "label": "Torres Strait Creole"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/10289",
+        "label": "Torres Strait Creole"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Torres_Strait_Creole",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36648",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "588585",
+        "long_grammar",
+        2016,
+        462,
+        "Mittag, Joanna Ewa 2016"
+      ],
+      [
+        "6477",
+        "long_grammar",
+        1966,
+        457,
+        "Dutton, Tom E. 1966"
+      ],
+      [
+        "134359",
+        "wordlist_or_less",
+        1907,
+        4,
+        "Sidney H. Ray 1907"
+      ]
+    ]
+  },
+  "id": "torr1261",
+  "name": "Torres Strait-Lockhart River Creole",
+  "description": null,
+  "markup_description": null,
+  "latitude": -11.066,
+  "longitude": 142.692,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Germanic",
+      "id": "germ1287",
+      "url": "https://glottolog.org/resource/languoid/id/germ1287"
+    },
+    {
+      "name": "Northwest Germanic",
+      "id": "nort3152",
+      "url": "https://glottolog.org/resource/languoid/id/nort3152"
+    },
+    {
+      "name": "West Germanic",
+      "id": "west2793",
+      "url": "https://glottolog.org/resource/languoid/id/west2793"
+    },
+    {
+      "name": "North Sea Germanic",
+      "id": "nort3175",
+      "url": "https://glottolog.org/resource/languoid/id/nort3175"
+    },
+    {
+      "name": "Anglo-Frisian",
+      "id": "angl1264",
+      "url": "https://glottolog.org/resource/languoid/id/angl1264"
+    },
+    {
+      "name": "Anglic",
+      "id": "angl1265",
+      "url": "https://glottolog.org/resource/languoid/id/angl1265"
+    },
+    {
+      "name": "Later Anglic",
+      "id": "late1254",
+      "url": "https://glottolog.org/resource/languoid/id/late1254"
+    },
+    {
+      "name": "Middle-Modern English",
+      "id": "merc1242",
+      "url": "https://glottolog.org/resource/languoid/id/merc1242"
+    },
+    {
+      "name": "Macro-English",
+      "id": "macr1271",
+      "url": "https://glottolog.org/resource/languoid/id/macr1271"
+    },
+    {
+      "name": "Pacific Creole English",
+      "id": "paci1280",
+      "url": "https://glottolog.org/resource/languoid/id/paci1280"
+    },
+    {
+      "name": "Early Melanesian Pidgin",
+      "id": "earl1243",
+      "url": "https://glottolog.org/resource/languoid/id/earl1243"
+    }
+  ],
+  "iso639-3": "tcs"
+}

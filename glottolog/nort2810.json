@@ -1,0 +1,102 @@
+{
+  "pk": 14123,
+  "hid": "gbo",
+  "father_pk": 11054,
+  "family_pk": 83,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Chedepo [ched1238]':1,'E Je [ejee1238]':1,'Fopo-Bua [fopo1238]':1,'Gbepo [gbep1238]':1,'Jedepo [jede1238]':1,'Klepo [klep1238]':1,('Ketiepo [keti1246]':1,'Nitiabo [niti1248]':1,'Sabo [sabo1240]':1,'Tuobo [tuob1242]':1,'Webo [webo1238]':1)'Northeastern Grebo [nort2811]':1,'Palipo [pali1275]':1,'Tienpo [tien1243]':1)'Northern Grebo [nort2810][gbo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 14,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://phoible.org/languages/nort2810",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q11157042",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "572915",
+        "phonology_or_text",
+        1966,
+        66,
+        "Innes, Gordon 1966"
+      ],
+      [
+        "136269",
+        "phonology_or_text",
+        1867,
+        0,
+        "Payne, John 1867"
+      ],
+      [
+        "7568",
+        "phonology_or_text",
+        1839,
+        0,
+        "Wilson, John Leighton 1839"
+      ],
+      [
+        "66192",
+        "wordlist_or_less",
+        1837,
+        0,
+        "[1837] 1837"
+      ]
+    ]
+  },
+  "id": "nort2810",
+  "name": "Northern Grebo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.17103,
+  "longitude": -8.1409,
+  "classification": [
+    {
+      "name": "Kru",
+      "id": "krua1234",
+      "url": "https://glottolog.org/resource/languoid/id/krua1234"
+    },
+    {
+      "name": "Greater Western Kru",
+      "id": "grea1300",
+      "url": "https://glottolog.org/resource/languoid/id/grea1300"
+    },
+    {
+      "name": "Western Kru",
+      "id": "west2485",
+      "url": "https://glottolog.org/resource/languoid/id/west2485"
+    },
+    {
+      "name": "Grebo-Aizi",
+      "id": "greb1258",
+      "url": "https://glottolog.org/resource/languoid/id/greb1258"
+    },
+    {
+      "name": "Grebo",
+      "id": "greb1257",
+      "url": "https://glottolog.org/resource/languoid/id/greb1257"
+    },
+    {
+      "name": "Liberian Grebo",
+      "id": "greb1256",
+      "url": "https://glottolog.org/resource/languoid/id/greb1256"
+    },
+    {
+      "name": "North-Central Liberian Grebo",
+      "id": "nort3193",
+      "url": "https://glottolog.org/resource/languoid/id/nort3193"
+    }
+  ],
+  "iso639-3": "gbo"
+}

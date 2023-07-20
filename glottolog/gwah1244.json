@@ -1,0 +1,73 @@
+{
+  "pk": 6616,
+  "hid": "dah",
+  "father_pk": 4548,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dahating [gwap1238]':1,'Gohing [gohi1234]':1,'Gora [gora1264]':1,'Gwahamere [gwah1245]':1,'Nuclear Gwahatike [nucl1608]':1)'Gwahatike [gwah1244][dah]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Gwahatike_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5623246",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "568272",
+        "grammar_sketch",
+        1993,
+        127,
+        "An, Jee-Young and An, Jin-Sook 1993"
+      ],
+      [
+        "64314",
+        "wordlist_or_less",
+        1970,
+        1,
+        "Oren R. Claassen and Kenneth A. McElhanon 1970"
+      ]
+    ]
+  },
+  "id": "gwah1244",
+  "name": "Gwahatike",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.64555,
+  "longitude": 146.455,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Finisterre-Huon",
+      "id": "fini1244",
+      "url": "https://glottolog.org/resource/languoid/id/fini1244"
+    },
+    {
+      "name": "Finisterre-Saruwaged",
+      "id": "fini1245",
+      "url": "https://glottolog.org/resource/languoid/id/fini1245"
+    },
+    {
+      "name": "Warup",
+      "id": "waru1269",
+      "url": "https://glottolog.org/resource/languoid/id/waru1269"
+    }
+  ],
+  "iso639-3": "dah"
+}

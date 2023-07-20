@@ -1,0 +1,103 @@
+{
+  "pk": 2743,
+  "hid": "yux",
+  "father_pk": 1288,
+  "family_pk": 258,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Southern Yukaghir [sout2750][yux]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3161",
+        "label": "Kolyma Yukaghir"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_yko",
+        "label": "Yukaghir (Kolyma)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Southern_Yukaghir_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/sout2750",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56545",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "103697",
+        "long_grammar",
+        1999,
+        726,
+        "Maslova, Elena 1999"
+      ],
+      [
+        "559897",
+        "long_grammar",
+        1998,
+        726,
+        "Maslova, Elena 1998"
+      ],
+      [
+        "32631",
+        "grammar",
+        1982,
+        154,
+        "Eruxim A. Krejnovič 1982"
+      ],
+      [
+        "68376",
+        "grammar_sketch",
+        1905,
+        56,
+        "Waldemar Jochelson 1905"
+      ],
+      [
+        "587726",
+        "phonology_or_text",
+        1900,
+        256,
+        "V. I. Ioxel'son 1900"
+      ],
+      [
+        "320011",
+        "wordlist_or_less",
+        1692,
+        52,
+        "Witsen, Nicolaes 1705 [1692]"
+      ]
+    ]
+  },
+  "id": "sout2750",
+  "name": "Southern Yukaghir",
+  "description": null,
+  "markup_description": null,
+  "latitude": 64.218,
+  "longitude": 154.375,
+  "classification": [
+    {
+      "name": "Yukaghir",
+      "id": "yuka1259",
+      "url": "https://glottolog.org/resource/languoid/id/yuka1259"
+    },
+    {
+      "name": "Kolymic",
+      "id": "koly1247",
+      "url": "https://glottolog.org/resource/languoid/id/koly1247"
+    }
+  ],
+  "iso639-3": "yux"
+}

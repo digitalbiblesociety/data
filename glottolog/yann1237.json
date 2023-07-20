@@ -1,0 +1,96 @@
+{
+  "pk": 2328,
+  "hid": "jay",
+  "father_pk": 1070,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dhäbitjin [dhab1234]':1,'Gamalangga [garm1242]':1,'Golpa [golp1234][lja]':1,'Gurrindi [gurj1238]':1,'Mälarra [mala1552]':1,'Walamangu [wala1273]':1,'Yan-nhangu [yann1238]':1)'Nhangu [yann1237][jay]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/n72",
+        "label": "Yan-nhangu"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/3788",
+        "label": "Yan-nhangu"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nhangu_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/yann1237",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q10723405",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "587844",
+        "long_grammar",
+        2017,
+        544,
+        "Kabisch-Lindenlaub, Juliane 2017"
+      ],
+      [
+        "547326",
+        "grammar_sketch",
+        2010,
+        185,
+        "Laurie Baymarrwaŋa and Rita Gularrbanga and Laurie Milinditj and Rayba Nyaŋbal and Margaret Nyuŋunyuŋu (Yulpuyulpu) and Allison Warrŋayun and Claire Bowern 2010"
+      ],
+      [
+        "1851",
+        "phonology_or_text",
+        1993,
+        17,
+        "Gularrbangga, Rita 1993"
+      ],
+      [
+        "554499",
+        "wordlist_or_less",
+        1956,
+        4,
+        "Arthur Capell 1956"
+      ],
+      [
+        "5022",
+        "wordlist_or_less",
+        1953,
+        0,
+        "Elkin, A. P. 1953-56"
+      ]
+    ]
+  },
+  "id": "yann1237",
+  "name": "Nhangu",
+  "description": null,
+  "markup_description": null,
+  "latitude": -12.0853,
+  "longitude": 134.877,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Yuulngu",
+      "id": "yuul1239",
+      "url": "https://glottolog.org/resource/languoid/id/yuul1239"
+    }
+  ],
+  "iso639-3": "jay"
+}

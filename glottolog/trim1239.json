@@ -1,0 +1,75 @@
+{
+  "pk": 4835,
+  "hid": "tip",
+  "father_pk": 3093,
+  "family_pk": 309,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Trimuris [trim1239][tip]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7842270",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Trimuris_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "570520",
+        "wordlist_or_less",
+        1985,
+        5,
+        "Jim DeVries 1985"
+      ],
+      [
+        "548534",
+        "wordlist_or_less",
+        1955,
+        1,
+        "Du Buy, J. 1955"
+      ],
+      [
+        "29762",
+        "wordlist_or_less",
+        1954,
+        1,
+        "van der Leeden, Alexander Cornelis 1954"
+      ]
+    ]
+  },
+  "id": "trim1239",
+  "name": "Trimuris",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.15863,
+  "longitude": 138.027,
+  "classification": [
+    {
+      "name": "Greater Kwerba",
+      "id": "kwer1242",
+      "url": "https://glottolog.org/resource/languoid/id/kwer1242"
+    },
+    {
+      "name": "Kwerba-Samarokena",
+      "id": "kwer1240",
+      "url": "https://glottolog.org/resource/languoid/id/kwer1240"
+    },
+    {
+      "name": "Kwerbaic",
+      "id": "kwer1262",
+      "url": "https://glottolog.org/resource/languoid/id/kwer1262"
+    }
+  ],
+  "iso639-3": "tip"
+}

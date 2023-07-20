@@ -1,0 +1,73 @@
+{
+  "pk": 6791,
+  "hid": "kkv",
+  "father_pk": 4626,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kangean [kang1289][kkv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q2071325",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kangean_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "321525",
+        "grammar_sketch",
+        1986,
+        140,
+        "Soegianto, {} 1986"
+      ],
+      [
+        "306697",
+        "phonology_or_text",
+        1897,
+        24,
+        "H. N. Kiliaan 1897"
+      ]
+    ]
+  },
+  "id": "kang1289",
+  "name": "Kangean",
+  "description": null,
+  "markup_description": null,
+  "latitude": -7.98335,
+  "longitude": 112.968,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Malayo-Sumbawan",
+      "id": "mala1536",
+      "url": "https://glottolog.org/resource/languoid/id/mala1536"
+    },
+    {
+      "name": "Maduresic",
+      "id": "madu1247",
+      "url": "https://glottolog.org/resource/languoid/id/madu1247"
+    }
+  ],
+  "iso639-3": "kkv"
+}

@@ -1,0 +1,101 @@
+{
+  "pk": 11772,
+  "hid": "mix",
+  "father_pk": 8965,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mixtepec Mixtec [mixt1425][mix]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10531",
+        "label": "Mixtepec Mixtec"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6884125",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mixtepec_Mixtec",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "318945",
+        "phonology_or_text",
+        2009,
+        112,
+        "Galindo Sánchez, Bernardo 2009"
+      ],
+      [
+        "317761",
+        "phonology_or_text",
+        2004,
+        16,
+        "Mary Paster and Beam de Azcona, Rosemary 2004"
+      ],
+      [
+        "141701",
+        "phonology_or_text",
+        1978,
+        15,
+        "Pike, Eunice V. and Ibach, Thomas 1978"
+      ],
+      [
+        "305480",
+        "wordlist_or_less",
+        1974,
+        2,
+        "Johnson, Audrey 1974"
+      ]
+    ]
+  },
+  "id": "mixt1425",
+  "name": "Mixtepec Mixtec",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.3317,
+  "longitude": -97.8791,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Amuzgo-Mixtecan",
+      "id": "amuz1253",
+      "url": "https://glottolog.org/resource/languoid/id/amuz1253"
+    },
+    {
+      "name": "Mixtecan",
+      "id": "mixt1422",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1422"
+    },
+    {
+      "name": "Mixtec-Cuicatec",
+      "id": "mixt1423",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1423"
+    },
+    {
+      "name": "Mixtec",
+      "id": "mixt1427",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1427"
+    }
+  ],
+  "iso639-3": "mix"
+}

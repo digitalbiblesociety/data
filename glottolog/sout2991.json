@@ -1,0 +1,111 @@
+{
+  "pk": 10068,
+  "hid": "quh",
+  "father_pk": 7233,
+  "family_pk": 321,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Chuquisaca [chuq1242]':1,'Cochabamba [coch1274]':1,'Northwest Jujuy [nort2975]':1,'Oruro [orur1238]':1,'Potosí [poto1252]':1,'Sucre [sucr1238]':1)'South Bolivian Quechua [sout2991][quh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/8127",
+        "label": "Bolivian Quechua"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_qco",
+        "label": "Quechua (Cochabamba)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/South_Bolivian_Quechua",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/sout2991",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q1307730",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "128155",
+        "long_grammar",
+        1978,
+        520,
+        "Herrero, Joaquín and Sánchez de Lozada, Federico 1978"
+      ],
+      [
+        "151098",
+        "long_grammar",
+        1964,
+        492,
+        "Albó, Xavier 1964"
+      ],
+      [
+        "158426",
+        "grammar",
+        1952,
+        114,
+        "Shedd, L. M. and Nida, Eugene A. 1952"
+      ],
+      [
+        "305876",
+        "grammar_sketch",
+        1919,
+        258,
+        "Berrios, José D. 1919"
+      ],
+      [
+        "313003",
+        "grammar_sketch",
+        1619,
+        204,
+        "de Torres Rubio, Diego 1619"
+      ]
+    ]
+  },
+  "id": "sout2991",
+  "name": "South Bolivian Quechua",
+  "description": null,
+  "markup_description": null,
+  "latitude": -20.9201,
+  "longitude": -66.3331,
+  "classification": [
+    {
+      "name": "Quechuan",
+      "id": "quec1387",
+      "url": "https://glottolog.org/resource/languoid/id/quec1387"
+    },
+    {
+      "name": "Quechua II",
+      "id": "quec1388",
+      "url": "https://glottolog.org/resource/languoid/id/quec1388"
+    },
+    {
+      "name": "Chinchay",
+      "id": "chin1494",
+      "url": "https://glottolog.org/resource/languoid/id/chin1494"
+    },
+    {
+      "name": "Quechua IIC",
+      "id": "quec1389",
+      "url": "https://glottolog.org/resource/languoid/id/quec1389"
+    },
+    {
+      "name": "Bolivian-Argentinian Quechua",
+      "id": "boli1262",
+      "url": "https://glottolog.org/resource/languoid/id/boli1262"
+    }
+  ],
+  "iso639-3": "quh"
+}

@@ -1,0 +1,66 @@
+{
+  "pk": 533,
+  "hid": "bjq",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Southern Betsimisaraka Malagasy {Retired} [sout3125][bjq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "bjq",
+      "name": "Southern Betsimisaraka Malagasy",
+      "change_request": "2010-035",
+      "effective": "2011-05-18",
+      "reason": "split",
+      "change_to": [
+        "bzc",
+        "tkg"
+      ],
+      "remedy": "split into Southern Betsimisaraka [bzc] and Tesaka Malagasy [tkg]",
+      "comment": "The Tesaka have never been part of the Antanosy or Betsimisaraka in any way\nwhatsoever- it was a glitsch of our map and of the ISO process that they ended\nup erroneously as an alternate name for the Betsimisaraka.in the Ethnologue.\n\nThe Atesaka are a large people group with a very definite separate identity and\nlanguage. The Atesaka tend to migrate all over the island in search of work, but\nalways keep that group identity. When an Atesaka dies outside the Tesaka area,\nthe body is transported back to the ancestral land. When preparing the ground\nfor the Tesaka translation of Luke, we had to visit with the \"kings\" of the\n\"telo troky\" (=three stomachs) and with the fourth who claims to have a valid\nclaim to royalty. The Tesaka language is roughly between 70% and 80% similar to\nOfficial Malagasy, 76% with Tanosy; 78% with Betsimisaraka. The Tesaka\ndistinguish themselves very definitely from the Merina and from those around\nthem."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q16112760",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500624",
+        "wordlist_or_less",
+        2010,
+        0,
+        "ISO 639-3 Registration Authority 2010"
+      ],
+      [
+        "129014",
+        "wordlist_or_less",
+        1969,
+        58,
+        "Vérin, Pierre and Conrad P. Kottak and Peter Corlin 1969"
+      ]
+    ]
+  },
+  "id": "sout3125",
+  "name": "Southern Betsimisaraka Malagasy (Retired)",
+  "description": null,
+  "markup_description": null,
+  "latitude": -20.8687,
+  "longitude": 48.1108,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "bjq"
+}

@@ -1,0 +1,73 @@
+{
+  "pk": 5387,
+  "hid": "loa",
+  "father_pk": 3529,
+  "family_pk": 5,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bakun [baku1264]':1)'Loloda-Laba [lolo1264][loa]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Loloda_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q11732388",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "53983",
+        "grammar_sketch",
+        1904,
+        67,
+        "M. J. van Baarda 1904"
+      ],
+      [
+        "54876",
+        "wordlist_or_less",
+        1884,
+        9,
+        "Adolf Bastian 1884"
+      ]
+    ]
+  },
+  "id": "lolo1264",
+  "name": "Loloda-Laba",
+  "description": null,
+  "markup_description": null,
+  "latitude": 1.95461,
+  "longitude": 127.772,
+  "classification": [
+    {
+      "name": "North Halmahera",
+      "id": "nort2923",
+      "url": "https://glottolog.org/resource/languoid/id/nort2923"
+    },
+    {
+      "name": "Northern North Halmahera",
+      "id": "nort2924",
+      "url": "https://glottolog.org/resource/languoid/id/nort2924"
+    },
+    {
+      "name": "Mainland North Halmaheran",
+      "id": "main1282",
+      "url": "https://glottolog.org/resource/languoid/id/main1282"
+    },
+    {
+      "name": "Galela-Loloda",
+      "id": "gale1261",
+      "url": "https://glottolog.org/resource/languoid/id/gale1261"
+    }
+  ],
+  "iso639-3": "loa"
+}

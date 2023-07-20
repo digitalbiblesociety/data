@@ -1,0 +1,56 @@
+{
+  "pk": 3338,
+  "hid": "pie",
+  "father_pk": 1762,
+  "family_pk": 369,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Piro [piro1248][pie]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7198055",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Piro_Pueblo_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "322130",
+        "phonology_or_text",
+        1860,
+        40,
+        "Sociedad Mexicana de Geografia y Estadistica 1860"
+      ]
+    ]
+  },
+  "id": "piro1248",
+  "name": "Piro",
+  "description": null,
+  "markup_description": null,
+  "latitude": 35.2291,
+  "longitude": -106.415,
+  "classification": [
+    {
+      "name": "Kiowa-Tanoan",
+      "id": "kiow1265",
+      "url": "https://glottolog.org/resource/languoid/id/kiow1265"
+    },
+    {
+      "name": "Tiwa-Piro",
+      "id": "tiwa1254",
+      "url": "https://glottolog.org/resource/languoid/id/tiwa1254"
+    }
+  ],
+  "iso639-3": "pie"
+}

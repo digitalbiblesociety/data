@@ -1,0 +1,77 @@
+{
+  "pk": 442,
+  "hid": "pay",
+  "father_pk": 10,
+  "family_pk": 10,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Pech [pech1241][pay]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4946",
+        "label": "Pech"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q4898889",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Paya_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/pech1241",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_pec",
+        "label": "Pech"
+      }
+    ],
+    "meds": [
+      [
+        "106626",
+        "grammar_sketch",
+        1927,
+        83,
+        "Eduard Conzemius 1927, 1928"
+      ],
+      [
+        "34013",
+        "wordlist_or_less",
+        1922,
+        12,
+        "Díaz Estrada, David 1922-23"
+      ],
+      [
+        "29669",
+        "wordlist_or_less",
+        1897,
+        0,
+        "Membreño, Alberto 1897"
+      ]
+    ]
+  },
+  "id": "pech1241",
+  "name": "Pech",
+  "description": null,
+  "markup_description": null,
+  "latitude": 15.8033,
+  "longitude": -85.558,
+  "classification": [
+    {
+      "name": "Chibchan",
+      "id": "chib1249",
+      "url": "https://glottolog.org/resource/languoid/id/chib1249"
+    }
+  ],
+  "iso639-3": "pay"
+}

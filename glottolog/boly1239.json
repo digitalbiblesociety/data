@@ -1,0 +1,72 @@
+{
+  "pk": 5297,
+  "hid": "ply",
+  "father_pk": 3476,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Bolyu [boly1239][ply]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1237",
+        "label": "Bolyu"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3361723",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bolyu_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "148506",
+        "long_grammar",
+        1999,
+        304,
+        "Li, Xulian 1999"
+      ],
+      [
+        "321783",
+        "grammar_sketch",
+        1984,
+        16,
+        "Liang, Min 1984"
+      ]
+    ]
+  },
+  "id": "boly1239",
+  "name": "Bolyu",
+  "description": null,
+  "markup_description": null,
+  "latitude": 24.7013,
+  "longitude": 104.955,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Mangic",
+      "id": "mang1377",
+      "url": "https://glottolog.org/resource/languoid/id/mang1377"
+    },
+    {
+      "name": "Pakanic",
+      "id": "boly1240",
+      "url": "https://glottolog.org/resource/languoid/id/boly1240"
+    }
+  ],
+  "iso639-3": "ply"
+}

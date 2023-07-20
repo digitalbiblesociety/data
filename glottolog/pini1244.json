@@ -1,0 +1,84 @@
+{
+  "pk": 6039,
+  "hid": "pnv",
+  "father_pk": 4045,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Pinigura [pini1244][pnv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/w34",
+        "label": "Pinikura"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/4984",
+        "label": "Pinikura"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q10631927",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "91013",
+        "wordlist_or_less",
+        2008,
+        6,
+        "Austin, Peter K. 2008"
+      ],
+      [
+        "129733",
+        "wordlist_or_less",
+        1988,
+        2,
+        "Peter Austin 1988"
+      ],
+      [
+        "62559",
+        "wordlist_or_less",
+        1967,
+        2,
+        "Carl Georg von Brandenstein 1967"
+      ]
+    ]
+  },
+  "id": "pini1244",
+  "name": "Pinigura",
+  "description": null,
+  "markup_description": null,
+  "latitude": -22.4729,
+  "longitude": 116.538,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "South-West Pama-Nyungan",
+      "id": "sout3134",
+      "url": "https://glottolog.org/resource/languoid/id/sout3134"
+    },
+    {
+      "name": "Pilbara",
+      "id": "pilb1234",
+      "url": "https://glottolog.org/resource/languoid/id/pilb1234"
+    },
+    {
+      "name": "Kanyara",
+      "id": "kany1246",
+      "url": "https://glottolog.org/resource/languoid/id/kany1246"
+    }
+  ],
+  "iso639-3": "pnv"
+}

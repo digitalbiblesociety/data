@@ -1,0 +1,83 @@
+{
+  "pk": 12161,
+  "hid": "bgs",
+  "father_pk": 9268,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tagabawa [taga1272][bgs]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Tagabawa_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7675121",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "317939",
+        "grammar_sketch",
+        1986,
+        41,
+        "DuBois, Lauretta J. and DuBois, Carl D. 1991 [1986]"
+      ],
+      [
+        "551983",
+        "wordlist_or_less",
+        1885,
+        15,
+        "Alex. Schadenberg 1885"
+      ]
+    ]
+  },
+  "id": "taga1272",
+  "name": "Tagabawa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.9712,
+  "longitude": 125.175,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Greater Central Philippine",
+      "id": "grea1284",
+      "url": "https://glottolog.org/resource/languoid/id/grea1284"
+    },
+    {
+      "name": "Manobo",
+      "id": "mano1276",
+      "url": "https://glottolog.org/resource/languoid/id/mano1276"
+    },
+    {
+      "name": "Central and Southern Manobo",
+      "id": "cent2255",
+      "url": "https://glottolog.org/resource/languoid/id/cent2255"
+    },
+    {
+      "name": "South Manobo",
+      "id": "sout2913",
+      "url": "https://glottolog.org/resource/languoid/id/sout2913"
+    }
+  ],
+  "iso639-3": "bgs"
+}

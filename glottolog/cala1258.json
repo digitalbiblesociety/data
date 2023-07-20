@@ -1,0 +1,68 @@
+{
+  "pk": 4629,
+  "hid": "tbk",
+  "father_pk": 2952,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Baras {Philipinnes} [bara1368]':1)'Calamian Tagbanwa [cala1258][tbk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3915487",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Calamian_Tagbanwa_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "17451",
+        "phonology_or_text",
+        1964,
+        37,
+        "Ruch, Edward R. 1964"
+      ],
+      [
+        "152855",
+        "wordlist_or_less",
+        1960,
+        21,
+        "na 1960"
+      ]
+    ]
+  },
+  "id": "cala1258",
+  "name": "Calamian Tagbanwa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.0716,
+  "longitude": 120.094,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Kalamian",
+      "id": "kala1389",
+      "url": "https://glottolog.org/resource/languoid/id/kala1389"
+    }
+  ],
+  "iso639-3": "tbk"
+}

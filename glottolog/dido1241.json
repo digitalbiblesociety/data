@@ -1,0 +1,104 @@
+{
+  "pk": 10662,
+  "hid": "ddo",
+  "father_pk": 7765,
+  "family_pk": 426,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Asakh [asak1234]':1,'Elbok [elbo1234]':1,('Kidero [kide1235]':1,'Mokok [moko1257]':1)'Kidero-Mokok [kide1234]':1,'Shapikh [shap1241]':1,'Shaytl [shay1234]':1)'Nuclear Tsez [nucl1785]':1,'Sagadin [saga1261]':1)'Tsez [dido1241][ddo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 9,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2211",
+        "label": "Tsez"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tsz",
+        "label": "Tsez"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tsez_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/dido1241",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q34033",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "589079",
+        "long_grammar",
+        2015,
+        437,
+        "Maria Polinsky 2015"
+      ],
+      [
+        "470549",
+        "grammar",
+        1963,
+        164,
+        "Imnajssvili, David Silvestrovic 1963"
+      ],
+      [
+        "121256",
+        "grammar_sketch",
+        1959,
+        97,
+        "Bokarev, Evgenij Alekseevich 1959"
+      ],
+      [
+        "54846",
+        "wordlist_or_less",
+        1862,
+        1,
+        "Latham, Robert Gordon 1862"
+      ]
+    ]
+  },
+  "id": "dido1241",
+  "name": "Tsez",
+  "description": null,
+  "markup_description": null,
+  "latitude": 42.2646,
+  "longitude": 45.8096,
+  "classification": [
+    {
+      "name": "Nakh-Daghestanian",
+      "id": "nakh1245",
+      "url": "https://glottolog.org/resource/languoid/id/nakh1245"
+    },
+    {
+      "name": "Daghestanian",
+      "id": "dagh1238",
+      "url": "https://glottolog.org/resource/languoid/id/dagh1238"
+    },
+    {
+      "name": "Avar-Andic-Tsezic",
+      "id": "avar1255",
+      "url": "https://glottolog.org/resource/languoid/id/avar1255"
+    },
+    {
+      "name": "Tsezic",
+      "id": "tsez1239",
+      "url": "https://glottolog.org/resource/languoid/id/tsez1239"
+    },
+    {
+      "name": "West Tsezic",
+      "id": "west2429",
+      "url": "https://glottolog.org/resource/languoid/id/west2429"
+    }
+  ],
+  "iso639-3": "ddo"
+}

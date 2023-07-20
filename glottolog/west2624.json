@@ -1,0 +1,83 @@
+{
+  "pk": 11519,
+  "hid": "nhw",
+  "father_pk": 8576,
+  "family_pk": 155,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Western Huasteca Náhuatl [west2625]':1)'Western Huasteca Nahuatl [west2624][nhw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4857",
+        "label": "Western Huasteca Nahuatl"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2678840",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "308600",
+        "grammar_sketch",
+        1980,
+        66,
+        "Geoffrey Kimball 1980"
+      ],
+      [
+        "313847",
+        "grammar_sketch",
+        1953,
+        36,
+        "Croft, Kenneth 1953"
+      ]
+    ]
+  },
+  "id": "west2624",
+  "name": "Western Huasteca Nahuatl",
+  "description": null,
+  "markup_description": null,
+  "latitude": 21.3711,
+  "longitude": -98.7711,
+  "classification": [
+    {
+      "name": "Uto-Aztecan",
+      "id": "utoa1244",
+      "url": "https://glottolog.org/resource/languoid/id/utoa1244"
+    },
+    {
+      "name": "Southern Uto-Aztecan",
+      "id": "sout3136",
+      "url": "https://glottolog.org/resource/languoid/id/sout3136"
+    },
+    {
+      "name": "Corachol-Aztecan",
+      "id": "cora1261",
+      "url": "https://glottolog.org/resource/languoid/id/cora1261"
+    },
+    {
+      "name": "Aztec",
+      "id": "azte1234",
+      "url": "https://glottolog.org/resource/languoid/id/azte1234"
+    },
+    {
+      "name": "Eastern Nahuatl",
+      "id": "east2720",
+      "url": "https://glottolog.org/resource/languoid/id/east2720"
+    },
+    {
+      "name": "Huasteca Nahuatl",
+      "id": "huas1257",
+      "url": "https://glottolog.org/resource/languoid/id/huas1257"
+    }
+  ],
+  "iso639-3": "nhw"
+}

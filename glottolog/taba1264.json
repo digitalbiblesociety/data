@@ -1,0 +1,79 @@
+{
+  "pk": 3520,
+  "hid": "zoq",
+  "father_pk": 1881,
+  "family_pk": 3,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tabasco Zoque [taba1264][zoq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2591",
+        "label": "Ayapanec Zoque"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q323325",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ayapa_Zoque",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "576315",
+        "grammar_sketch",
+        2019,
+        199,
+        "Rangel Murueta, Jhonnatan 2019"
+      ],
+      [
+        "137823",
+        "phonology_or_text",
+        1995,
+        107,
+        "Søren Wichmann 1995"
+      ],
+      [
+        "62900",
+        "phonology_or_text",
+        1969,
+        8,
+        "Antonio García de León 1969"
+      ]
+    ]
+  },
+  "id": "taba1264",
+  "name": "Tabasco Zoque",
+  "description": null,
+  "markup_description": null,
+  "latitude": 18.1713,
+  "longitude": -93.0968,
+  "classification": [
+    {
+      "name": "Mixe-Zoque",
+      "id": "mixe1284",
+      "url": "https://glottolog.org/resource/languoid/id/mixe1284"
+    },
+    {
+      "name": "Zoque",
+      "id": "zoqu1261",
+      "url": "https://glottolog.org/resource/languoid/id/zoqu1261"
+    },
+    {
+      "name": "Gulf Zoque",
+      "id": "gulf1238",
+      "url": "https://glottolog.org/resource/languoid/id/gulf1238"
+    }
+  ],
+  "iso639-3": "zoq"
+}

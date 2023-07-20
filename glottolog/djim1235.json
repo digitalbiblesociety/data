@@ -1,0 +1,94 @@
+{
+  "pk": 12721,
+  "hid": "dyi",
+  "father_pk": 9832,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Diamala [diam1238]':1,'Djafolo [djaf1238]':1,'Dofana [dofa1238]':1,'Foolo [fool1238]':1,'Singala [sing1265]':1)'Djimini Senoufo [djim1235][dyi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q35336",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Djimini_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_dym",
+        "label": "Dyimini"
+      }
+    ],
+    "meds": [
+      [
+        "93450",
+        "grammar",
+        1985,
+        199,
+        "M'lanhoro, Joseph 1985"
+      ],
+      [
+        "7384",
+        "wordlist_or_less",
+        1983,
+        15,
+        "Mensah, Emmanuel N.A. and Tchagbale, M. Zakari 1983"
+      ],
+      [
+        "8689",
+        "wordlist_or_less",
+        1904,
+        5,
+        "Delafosse, Maurice 1904"
+      ]
+    ]
+  },
+  "id": "djim1235",
+  "name": "Djimini Senoufo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 8.36279,
+  "longitude": -4.45627,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "North Volta-Congo",
+      "id": "nort3149",
+      "url": "https://glottolog.org/resource/languoid/id/nort3149"
+    },
+    {
+      "name": "Senufo",
+      "id": "senu1239",
+      "url": "https://glottolog.org/resource/languoid/id/senu1239"
+    },
+    {
+      "name": "South Senufo",
+      "id": "sout3153",
+      "url": "https://glottolog.org/resource/languoid/id/sout3153"
+    },
+    {
+      "name": "Tagbana-Jimini",
+      "id": "tagb1262",
+      "url": "https://glottolog.org/resource/languoid/id/tagb1262"
+    }
+  ],
+  "iso639-3": "dyi"
+}

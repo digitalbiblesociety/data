@@ -1,0 +1,127 @@
+{
+  "pk": 2948,
+  "hid": "eno",
+  "father_pk": 1524,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Enggano [engg1245][eno]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1760",
+        "label": "Enggano"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2669164",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Enggano_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_eno",
+        "label": "Enggano"
+      }
+    ],
+    "meds": [
+      [
+        "311874",
+        "grammar_sketch",
+        1994,
+        127,
+        "Nikelas, Syahwin 1994"
+      ],
+      [
+        "580202",
+        "grammar_sketch",
+        1979,
+        118,
+        "Golte-Schröder, Sybille 1979"
+      ],
+      [
+        "38922",
+        "grammar_sketch",
+        1940,
+        81,
+        "Hans Kähler 1940-1941"
+      ],
+      [
+        "90399",
+        "phonology_or_text",
+        1916,
+        42,
+        "Helfrich, O. L. 1916"
+      ],
+      [
+        "310533",
+        "wordlist_or_less",
+        1894,
+        162,
+        "Edio Modigliani 1894"
+      ],
+      [
+        "157087",
+        "wordlist_or_less",
+        1891,
+        91,
+        "Helfrich, O. L. 1891, 1893"
+      ],
+      [
+        "41821",
+        "wordlist_or_less",
+        1886,
+        23,
+        "Adolf Bastian 1886"
+      ],
+      [
+        "22414",
+        "wordlist_or_less",
+        1864,
+        21,
+        "J. Walland 1864"
+      ],
+      [
+        "126343",
+        "wordlist_or_less",
+        1855,
+        16,
+        "J. van der Straaten and P. Severijn 1855"
+      ],
+      [
+        "142870",
+        "wordlist_or_less",
+        1854,
+        15,
+        "Djoeragang Boewang 1854"
+      ]
+    ]
+  },
+  "id": "engg1245",
+  "name": "Enggano",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.38846,
+  "longitude": 102.245,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    }
+  ],
+  "iso639-3": "eno"
+}

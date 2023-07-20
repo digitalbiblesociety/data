@@ -1,0 +1,111 @@
+{
+  "pk": 17579,
+  "hid": "buk",
+  "father_pk": 15231,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Bugawac [buga1250][buk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3987",
+        "label": "Bugawac"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bukawa_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35043",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "127455",
+        "long_grammar",
+        2004,
+        399,
+        "William Eckermann 2004"
+      ],
+      [
+        "660793",
+        "phonology_or_text",
+        2000,
+        0,
+        "Eckerman, Diane and Eckerman, William 2000"
+      ],
+      [
+        "57662",
+        "wordlist_or_less",
+        1891,
+        4,
+        "Zöller, Hugo 1891"
+      ],
+      [
+        "72868",
+        "wordlist_or_less",
+        1890,
+        1,
+        "Hugo Zöller 1890"
+      ]
+    ]
+  },
+  "id": "buga1250",
+  "name": "Bugawac",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.67519,
+  "longitude": 147.32,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Western Oceanic linkage",
+      "id": "west2818",
+      "url": "https://glottolog.org/resource/languoid/id/west2818"
+    },
+    {
+      "name": "North New Guinea linkage",
+      "id": "nort3206",
+      "url": "https://glottolog.org/resource/languoid/id/nort3206"
+    },
+    {
+      "name": "Huon Gulf",
+      "id": "huon1245",
+      "url": "https://glottolog.org/resource/languoid/id/huon1245"
+    },
+    {
+      "name": "North Huon Gulf linkage",
+      "id": "nort2858",
+      "url": "https://glottolog.org/resource/languoid/id/nort2858"
+    }
+  ],
+  "iso639-3": "buk"
+}

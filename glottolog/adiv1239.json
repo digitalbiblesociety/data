@@ -1,0 +1,112 @@
+{
+  "pk": 18665,
+  "hid": "ort",
+  "father_pk": 16473,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kotia-Adivasi Oriya-Desiya [adiv1239][ort]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12953791",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_oko",
+        "label": "Oriya (Kotia)"
+      }
+    ],
+    "meds": [
+      [
+        "548944",
+        "long_grammar",
+        1989,
+        328,
+        "Dukhishyam Gauda 1989"
+      ],
+      [
+        "136367",
+        "grammar_sketch",
+        1978,
+        15,
+        "Gustafsson, Uwe 1978"
+      ],
+      [
+        "155381",
+        "grammar_sketch",
+        1973,
+        0,
+        "Trail, Ronald L. 1973"
+      ],
+      [
+        "548308",
+        "wordlist_or_less",
+        1964,
+        8,
+        "D. Dasgupta 1964"
+      ]
+    ]
+  },
+  "id": "adiv1239",
+  "name": "Kotia-Adivasi Oriya-Desiya",
+  "description": null,
+  "markup_description": null,
+  "latitude": 18.1046,
+  "longitude": 82.8487,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Indo-Aryan",
+      "id": "indo1321",
+      "url": "https://glottolog.org/resource/languoid/id/indo1321"
+    },
+    {
+      "name": "Middle-Modern Indo-Aryan",
+      "id": "midd1375",
+      "url": "https://glottolog.org/resource/languoid/id/midd1375"
+    },
+    {
+      "name": "Continental Indo-Aryan",
+      "id": "cont1248",
+      "url": "https://glottolog.org/resource/languoid/id/cont1248"
+    },
+    {
+      "name": "Indo-Aryan Eastern zone",
+      "id": "indo1323",
+      "url": "https://glottolog.org/resource/languoid/id/indo1323"
+    },
+    {
+      "name": "Oriya-Gauda-Kamrupa",
+      "id": "oriy1254",
+      "url": "https://glottolog.org/resource/languoid/id/oriy1254"
+    },
+    {
+      "name": "Macro-Oriya",
+      "id": "macr1269",
+      "url": "https://glottolog.org/resource/languoid/id/macr1269"
+    }
+  ],
+  "iso639-3": "ort"
+}

@@ -1,0 +1,87 @@
+{
+  "pk": 2875,
+  "hid": "onw",
+  "father_pk": 1365,
+  "family_pk": 274,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Old Nubian [oldn1245][onw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "onw",
+      "comment_type": "missing",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "Old Nubian, an extinct but well-attested language of North Sudan and Southern Egypt, is missing from E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 (**hh:sv:Khalil:Altnubischen**, **hh:s:Browne:Old-Nubian**, **hh:d:Browne:Old-Nubian**, **hh:g:Zyhlarz:Altnubisch**)."
+    },
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Old_Nubian",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2268",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "588895",
+        "long_grammar",
+        2021,
+        481,
+        "van Gerven Oei, Vincent W. J. 2021"
+      ],
+      [
+        "140407",
+        "grammar",
+        1928,
+        208,
+        "Zyhlarz, Ernst 1928"
+      ],
+      [
+        "47272",
+        "phonology_or_text",
+        1913,
+        134,
+        "Griffith, Francis Llewellyn 1913"
+      ]
+    ]
+  },
+  "id": "oldn1245",
+  "name": "Old Nubian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 18.760713,
+  "longitude": 31.748657,
+  "classification": [
+    {
+      "name": "Nubian",
+      "id": "nubi1251",
+      "url": "https://glottolog.org/resource/languoid/id/nubi1251"
+    },
+    {
+      "name": "Nobiin Nubian",
+      "id": "nobi1239",
+      "url": "https://glottolog.org/resource/languoid/id/nobi1239"
+    }
+  ],
+  "iso639-3": "onw"
+}

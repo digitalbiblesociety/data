@@ -1,0 +1,89 @@
+{
+  "pk": 9109,
+  "hid": "mpv",
+  "father_pk": 6606,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mungkip [mung1272][mpv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4698",
+        "label": "Munkip"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q11732485",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mungkip_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "301975",
+        "wordlist_or_less",
+        2009,
+        12,
+        "Thom Retsema and Margaret Potter and Rachel Gray 2009"
+      ],
+      [
+        "21928",
+        "wordlist_or_less",
+        1995,
+        1,
+        "Malcolm Ross 1995"
+      ],
+      [
+        "64314",
+        "wordlist_or_less",
+        1970,
+        1,
+        "Oren R. Claassen and Kenneth A. McElhanon 1970"
+      ]
+    ]
+  },
+  "id": "mung1272",
+  "name": "Mungkip",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.46208,
+  "longitude": 146.747,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Finisterre-Huon",
+      "id": "fini1244",
+      "url": "https://glottolog.org/resource/languoid/id/fini1244"
+    },
+    {
+      "name": "Finisterre-Saruwaged",
+      "id": "fini1245",
+      "url": "https://glottolog.org/resource/languoid/id/fini1245"
+    },
+    {
+      "name": "Erap",
+      "id": "erap1240",
+      "url": "https://glottolog.org/resource/languoid/id/erap1240"
+    },
+    {
+      "name": "Boana",
+      "id": "boan1245",
+      "url": "https://glottolog.org/resource/languoid/id/boan1245"
+    }
+  ],
+  "iso639-3": "mpv"
+}

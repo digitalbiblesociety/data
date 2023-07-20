@@ -1,0 +1,97 @@
+{
+  "pk": 12488,
+  "hid": "wgo",
+  "father_pk": 9510,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Metnyo [metn1237]':1,'Metsam [mets1238]':1)'Waigeo [waig1244][wgo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Ambel_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7959937",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "568402",
+        "long_grammar",
+        2018,
+        821,
+        "Arnold, Laura 2018"
+      ],
+      [
+        "572599",
+        "phonology_or_text",
+        2013,
+        83,
+        "Hisam, Mohammad Agus 2013"
+      ],
+      [
+        "148483",
+        "wordlist_or_less",
+        1834,
+        14,
+        "Dumont d'Urville, Jules 1834"
+      ],
+      [
+        "576685",
+        "wordlist_or_less",
+        1808,
+        6,
+        "de Rossel, Elizabeth Paul Edouard 1808"
+      ]
+    ]
+  },
+  "id": "waig1244",
+  "name": "Waigeo",
+  "description": null,
+  "markup_description": null,
+  "latitude": -0.17957,
+  "longitude": 130.917,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "South Halmahera-West New Guinea",
+      "id": "sout3229",
+      "url": "https://glottolog.org/resource/languoid/id/sout3229"
+    },
+    {
+      "name": "Raja Ampat-South Halmahera",
+      "id": "raja1255",
+      "url": "https://glottolog.org/resource/languoid/id/raja1255"
+    },
+    {
+      "name": "Ambel-Biga",
+      "id": "ambe1249",
+      "url": "https://glottolog.org/resource/languoid/id/ambe1249"
+    }
+  ],
+  "iso639-3": "wgo"
+}

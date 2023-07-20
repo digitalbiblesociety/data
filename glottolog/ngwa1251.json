@@ -1,0 +1,82 @@
+{
+  "pk": 8278,
+  "hid": "ngw",
+  "father_pk": 5798,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ngwaba [ngwa1251][ngw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4852",
+        "label": "Ngwaba"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3440480",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ngwaba_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "421340",
+        "wordlist_or_less",
+        2005,
+        1,
+        "Andrew Haruna 2005"
+      ],
+      [
+        "127753",
+        "wordlist_or_less",
+        2003,
+        36,
+        "Fakuade, Gbenga and Gambo, Matudi and Bashir, Abdullahi 2003"
+      ]
+    ]
+  },
+  "id": "ngwa1251",
+  "name": "Ngwaba",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.0921,
+  "longitude": 12.7942,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "Biu-Mandara",
+      "id": "bium1280",
+      "url": "https://glottolog.org/resource/languoid/id/bium1280"
+    },
+    {
+      "name": "South Biu-Mandara",
+      "id": "sout3145",
+      "url": "https://glottolog.org/resource/languoid/id/sout3145"
+    },
+    {
+      "name": "Bataic",
+      "id": "bium1271",
+      "url": "https://glottolog.org/resource/languoid/id/bium1271"
+    }
+  ],
+  "iso639-3": "ngw"
+}

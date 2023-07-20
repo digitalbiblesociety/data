@@ -1,0 +1,104 @@
+{
+  "pk": 8764,
+  "hid": "aca",
+  "father_pk": 6246,
+  "family_pk": 177,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Achagua [acha1250][aca]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/641",
+        "label": "Achagua"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_acg",
+        "label": "Achagua"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Achawa_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/acha1250",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2822982",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "72465",
+        "grammar",
+        1998,
+        202,
+        "Meléndez Lozano, Miguel Angel 1998"
+      ],
+      [
+        "57500",
+        "grammar",
+        1992,
+        190,
+        "Peter J. Wilson 1992"
+      ],
+      [
+        "59252",
+        "grammar",
+        1929,
+        0,
+        "Alemany y Bolufer, José 1929"
+      ],
+      [
+        "317871",
+        "grammar_sketch",
+        1762,
+        259,
+        "de Neira, Alonso and Ribero, Juan 1762"
+      ]
+    ]
+  },
+  "id": "acha1250",
+  "name": "Achagua",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.38649,
+  "longitude": -72.2005,
+  "classification": [
+    {
+      "name": "Arawakan",
+      "id": "araw1281",
+      "url": "https://glottolog.org/resource/languoid/id/araw1281"
+    },
+    {
+      "name": "Japura-Colombia",
+      "id": "japu1236",
+      "url": "https://glottolog.org/resource/languoid/id/japu1236"
+    },
+    {
+      "name": "Nuclear Japura-Colombia",
+      "id": "nucl1764",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1764"
+    },
+    {
+      "name": "Northeast Japura-Colombia",
+      "id": "nort3362",
+      "url": "https://glottolog.org/resource/languoid/id/nort3362"
+    },
+    {
+      "name": "Piapoco-Achagua",
+      "id": "piap1247",
+      "url": "https://glottolog.org/resource/languoid/id/piap1247"
+    }
+  ],
+  "iso639-3": "aca"
+}

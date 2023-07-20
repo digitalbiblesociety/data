@@ -1,0 +1,97 @@
+{
+  "pk": 5106,
+  "hid": "daj",
+  "father_pk": 3298,
+  "family_pk": 351,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Lagowa [lago1242]':1,'Nyala {Dar Fur Dajo} [nyal1253]':1)'Dar Fur Daju [darf1239][daj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56370",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nyala_language_(Sudan)",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/darf1239",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ddf",
+        "label": "Daju (Dar Fur)"
+      }
+    ],
+    "meds": [
+      [
+        "146559",
+        "phonology_or_text",
+        2000,
+        118,
+        "Ismail, Muhammad Abbaker 2000"
+      ],
+      [
+        "104057",
+        "phonology_or_text",
+        1982,
+        3,
+        "Heine, Bernd 1982"
+      ],
+      [
+        "95245",
+        "wordlist_or_less",
+        1977,
+        7,
+        "Thelwall, Robin 1977"
+      ],
+      [
+        "90217",
+        "wordlist_or_less",
+        1920,
+        3,
+        "MacMichael, H. A. 1920"
+      ],
+      [
+        "87342",
+        "wordlist_or_less",
+        1822,
+        0,
+        "Scholz, Johann Martin Augustine 1822"
+      ]
+    ]
+  },
+  "id": "darf1239",
+  "name": "Dar Fur Daju",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.2598,
+  "longitude": 25.3127,
+  "classification": [
+    {
+      "name": "Dajuic",
+      "id": "daju1249",
+      "url": "https://glottolog.org/resource/languoid/id/daju1249"
+    },
+    {
+      "name": "Western Dajuic",
+      "id": "west2501",
+      "url": "https://glottolog.org/resource/languoid/id/west2501"
+    },
+    {
+      "name": "Nyala Dajuic",
+      "id": "nyal1252",
+      "url": "https://glottolog.org/resource/languoid/id/nyal1252"
+    }
+  ],
+  "iso639-3": "daj"
+}

@@ -1,0 +1,91 @@
+{
+  "pk": 5875,
+  "hid": "blm",
+  "father_pk": 3923,
+  "family_pk": 140,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bahri Girinti [bahr1243]':1,'Sopi {South Sudan} [sopi1241]':1,'Wulu [wulu1239]':1)'Beli {South Sudan} [beli1257][blm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3932",
+        "label": "Beli (Sudan)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56821",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Beli_language_(South_Sudan)",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "314269",
+        "grammar_sketch",
+        2013,
+        106,
+        "Deng Gideon Kol and John Majok Matuek and Zechariah Manyiel Mawuor and Peter Tiu Mberu and Mbio Nelson Moli and Charles Mayen Manyang 2013"
+      ],
+      [
+        "54566",
+        "phonology_or_text",
+        1977,
+        0,
+        "Smith, Richard D. 1977"
+      ],
+      [
+        "306668",
+        "wordlist_or_less",
+        1963,
+        13,
+        "Santandrea, Stefano 1963"
+      ],
+      [
+        "150330",
+        "wordlist_or_less",
+        1937,
+        1,
+        "Evans-Pritchard, Edward E. 1937"
+      ]
+    ]
+  },
+  "id": "beli1257",
+  "name": "Beli (South Sudan)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.40428,
+  "longitude": 29.7954,
+  "classification": [
+    {
+      "name": "Central Sudanic",
+      "id": "cent2225",
+      "url": "https://glottolog.org/resource/languoid/id/cent2225"
+    },
+    {
+      "name": "Sara-Bongo-Bagirmi",
+      "id": "sara1341",
+      "url": "https://glottolog.org/resource/languoid/id/sara1341"
+    },
+    {
+      "name": "Baka-Beli",
+      "id": "moro1282",
+      "url": "https://glottolog.org/resource/languoid/id/moro1282"
+    },
+    {
+      "name": "Morokodo-Beli",
+      "id": "moro1293",
+      "url": "https://glottolog.org/resource/languoid/id/moro1293"
+    }
+  ],
+  "iso639-3": "blm"
+}

@@ -1,0 +1,82 @@
+{
+  "pk": 4484,
+  "hid": "brk",
+  "father_pk": 2873,
+  "family_pk": 274,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Birked [birk1242][brk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56823",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Birgid_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "80239",
+        "phonology_or_text",
+        1974,
+        45,
+        "Maḥmūd, 'Ushārī Aḥmad 1974"
+      ],
+      [
+        "8032",
+        "wordlist_or_less",
+        1928,
+        17,
+        "Zyhlarz, Ernst 1928"
+      ],
+      [
+        "135028",
+        "wordlist_or_less",
+        1922,
+        14,
+        "MacMichael, H. A. 1922"
+      ],
+      [
+        "113192",
+        "wordlist_or_less",
+        1918,
+        10,
+        "MacMichael, H. A. 1918"
+      ]
+    ]
+  },
+  "id": "birk1242",
+  "name": "Birked",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.5,
+  "longitude": 24.83,
+  "classification": [
+    {
+      "name": "Nubian",
+      "id": "nubi1251",
+      "url": "https://glottolog.org/resource/languoid/id/nubi1251"
+    },
+    {
+      "name": "West-Central Nubian",
+      "id": "west2781",
+      "url": "https://glottolog.org/resource/languoid/id/west2781"
+    },
+    {
+      "name": "Central Nubian",
+      "id": "cent2232",
+      "url": "https://glottolog.org/resource/languoid/id/cent2232"
+    }
+  ],
+  "iso639-3": "brk"
+}

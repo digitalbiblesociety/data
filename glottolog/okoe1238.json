@@ -1,0 +1,82 @@
+{
+  "pk": 4899,
+  "hid": "oks",
+  "father_pk": 3138,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Eni [enii1238]':1,'Oko [okoo1245]':1,'Osayen [osay1238]':1)'Oko-Eni-Osayen [okoe1238][oks]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q36302",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Oko_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "568109",
+        "long_grammar",
+        2005,
+        448,
+        "Akerejola, Ernest Somimola 2005"
+      ],
+      [
+        "36145",
+        "phonology_or_text",
+        1980,
+        78,
+        "Popoola, Rasueed Olanrele 1980"
+      ],
+      [
+        "568410",
+        "phonology_or_text",
+        1979,
+        0,
+        "Aroran, O. O. 1979"
+      ],
+      [
+        "10273",
+        "wordlist_or_less",
+        1973,
+        9,
+        "Jungraithmayr, Herrmann 1973"
+      ]
+    ]
+  },
+  "id": "okoe1238",
+  "name": "Oko-Eni-Osayen",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.53908,
+  "longitude": 6.15725,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    }
+  ],
+  "iso639-3": "oks"
+}

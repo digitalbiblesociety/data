@@ -1,0 +1,97 @@
+{
+  "pk": 3952,
+  "hid": "log",
+  "father_pk": 2244,
+  "family_pk": 140,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bari {Logo} [bari1282]':1,'Bhagira [bhag1238]':1,'Doka {Congo} [doka1243]':1,'Lolya [loly1238]':1,'Obilebha [obil1238]':1,'Ogambi [ogam1238]':1)'Logo [logo1259][log]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Logo_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/logo1259",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_lgt",
+        "label": "Logoti"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2613477",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "128810",
+        "long_grammar",
+        1986,
+        391,
+        "Irumu, Agozia-Kario 1986"
+      ],
+      [
+        "76831",
+        "grammar",
+        1970,
+        68,
+        "Lida, E. 1970/71"
+      ],
+      [
+        "550358",
+        "grammar_sketch",
+        1969,
+        109,
+        "Lida, Eusebe 1969"
+      ],
+      [
+        "91009",
+        "phonology_or_text",
+        1940,
+        7,
+        "Tucker, Archibald N. 1940"
+      ],
+      [
+        "29388",
+        "wordlist_or_less",
+        1924,
+        2,
+        "Czekanowski, Jan 1924"
+      ]
+    ]
+  },
+  "id": "logo1259",
+  "name": "Logo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 3.32608,
+  "longitude": 29.8866,
+  "classification": [
+    {
+      "name": "Central Sudanic",
+      "id": "cent2225",
+      "url": "https://glottolog.org/resource/languoid/id/cent2225"
+    },
+    {
+      "name": "Moru-Madi",
+      "id": "moru1252",
+      "url": "https://glottolog.org/resource/languoid/id/moru1252"
+    },
+    {
+      "name": "Central Moru-Madi",
+      "id": "cent2043",
+      "url": "https://glottolog.org/resource/languoid/id/cent2043"
+    }
+  ],
+  "iso639-3": "log"
+}

@@ -1,0 +1,85 @@
+{
+  "pk": 10438,
+  "hid": "onb",
+  "father_pk": 7485,
+  "family_pk": 356,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Huangtong [huan1254]':1,'Jialai [jial1234]':1,'Lincheng [linc1241]':1,'Maniao [mani1307]':1,'Meiliang [meil1234]':1,'Qiaotou [qiao1234]':1,'Xinying [xiny1235]':1)'Western Ong-Be [ling1262][onb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7093790",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Be_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "150187",
+        "long_grammar",
+        1997,
+        335,
+        "Liang, Min and Junru Zhang 1997"
+      ],
+      [
+        "47501",
+        "phonology_or_text",
+        1980,
+        442,
+        "Mantaro Hashimoto 1980"
+      ],
+      [
+        "573078",
+        "wordlist_or_less",
+        1893,
+        10,
+        "Jeremiassen, Carl C. 1893"
+      ]
+    ]
+  },
+  "id": "ling1262",
+  "name": "Western Ong-Be",
+  "description": null,
+  "markup_description": null,
+  "latitude": 19.885536,
+  "longitude": 109.691664,
+  "classification": [
+    {
+      "name": "Tai-Kadai",
+      "id": "taik1256",
+      "url": "https://glottolog.org/resource/languoid/id/taik1256"
+    },
+    {
+      "name": "Kam-Tai",
+      "id": "kamt1241",
+      "url": "https://glottolog.org/resource/languoid/id/kamt1241"
+    },
+    {
+      "name": "Daic-Beic",
+      "id": "daic1238",
+      "url": "https://glottolog.org/resource/languoid/id/daic1238"
+    },
+    {
+      "name": "Beic",
+      "id": "beic1239",
+      "url": "https://glottolog.org/resource/languoid/id/beic1239"
+    },
+    {
+      "name": "Lingao",
+      "id": "ling1270",
+      "url": "https://glottolog.org/resource/languoid/id/ling1270"
+    }
+  ],
+  "iso639-3": "onb"
+}

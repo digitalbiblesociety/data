@@ -1,0 +1,79 @@
+{
+  "pk": 3961,
+  "hid": "anj",
+  "father_pk": 2248,
+  "family_pk": 143,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Anor [anor1241][anj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10643",
+        "label": "Anor"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56458",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Anor_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "590199",
+        "wordlist_or_less",
+        1974,
+        17,
+        "John A. Z'graggen 1974"
+      ],
+      [
+        "306728",
+        "wordlist_or_less",
+        1972,
+        15,
+        "John A. Z'graggen 1972"
+      ],
+      [
+        "40621",
+        "wordlist_or_less",
+        1951,
+        2,
+        "Arthur Capell 1951-1952"
+      ]
+    ]
+  },
+  "id": "anor1241",
+  "name": "Anor",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.98449,
+  "longitude": 144.801,
+  "classification": [
+    {
+      "name": "Lower Sepik-Ramu",
+      "id": "lowe1437",
+      "url": "https://glottolog.org/resource/languoid/id/lowe1437"
+    },
+    {
+      "name": "Ramu",
+      "id": "ramu1234",
+      "url": "https://glottolog.org/resource/languoid/id/ramu1234"
+    },
+    {
+      "name": "Aian",
+      "id": "aian1241",
+      "url": "https://glottolog.org/resource/languoid/id/aian1241"
+    }
+  ],
+  "iso639-3": "anj"
+}

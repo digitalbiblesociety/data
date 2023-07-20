@@ -1,0 +1,77 @@
+{
+  "pk": 7258,
+  "hid": "qvy",
+  "father_pk": 4935,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Queyu [quey1238][qvy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5318",
+        "label": "Queyu"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3414352",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Choyo_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "302301",
+        "grammar_sketch",
+        1985,
+        10,
+        "Lu, Shaozun 1985"
+      ],
+      [
+        "23986",
+        "wordlist_or_less",
+        1933,
+        3,
+        "Edgar, J. Huston 1933-1934"
+      ]
+    ]
+  },
+  "id": "quey1238",
+  "name": "Queyu",
+  "description": null,
+  "markup_description": null,
+  "latitude": 30.3113,
+  "longitude": 100.813,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Burmo-Qiangic",
+      "id": "burm1265",
+      "url": "https://glottolog.org/resource/languoid/id/burm1265"
+    },
+    {
+      "name": "Na-Qiangic",
+      "id": "naqi1236",
+      "url": "https://glottolog.org/resource/languoid/id/naqi1236"
+    },
+    {
+      "name": "Qiangic",
+      "id": "qian1263",
+      "url": "https://glottolog.org/resource/languoid/id/qian1263"
+    }
+  ],
+  "iso639-3": "qvy"
+}

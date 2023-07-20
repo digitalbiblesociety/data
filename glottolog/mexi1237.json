@@ -1,0 +1,72 @@
+{
+  "pk": 4335,
+  "hid": "mfs",
+  "father_pk": 2525,
+  "family_pk": 206,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Sign Language",
+  "newick": "'Mexican Sign Language [mexi1237][mfs]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6996",
+        "label": "Mexican Sign Language"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3915511",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mexican_Sign_Language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "568152",
+        "long_grammar",
+        2008,
+        1117,
+        "Aldrete, Miroslava Cruz 2008"
+      ],
+      [
+        "471858",
+        "grammar_sketch",
+        1983,
+        301,
+        "Gómez Palacio, Margarita 1983"
+      ]
+    ]
+  },
+  "id": "mexi1237",
+  "name": "Mexican Sign Language",
+  "description": null,
+  "markup_description": null,
+  "latitude": 19.75,
+  "longitude": -98.5,
+  "classification": [
+    {
+      "name": "Sign Language",
+      "id": "sign1238",
+      "url": "https://glottolog.org/resource/languoid/id/sign1238"
+    },
+    {
+      "name": "Deaf Sign Language",
+      "id": "deaf1237",
+      "url": "https://glottolog.org/resource/languoid/id/deaf1237"
+    },
+    {
+      "name": "LSFic",
+      "id": "lsfi1234",
+      "url": "https://glottolog.org/resource/languoid/id/lsfi1234"
+    }
+  ],
+  "iso639-3": "mfs"
+}

@@ -1,0 +1,77 @@
+{
+  "pk": 2907,
+  "hid": "aby",
+  "father_pk": 1513,
+  "family_pk": 287,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Auwaka [auwa1241]':1,'Buniabura [buni1247]':1,'Doma {Papua New Guinea} [doma1263]':1,'Jari [jari1243]':1,'Mori [mori1270]':1)'Aneme Wake [anem1248][aby]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Aneme_Wake_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3508107",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "48352",
+        "grammar_sketch",
+        1978,
+        7,
+        "Harry Weimer 1978"
+      ],
+      [
+        "302898",
+        "wordlist_or_less",
+        1977,
+        3,
+        "Harry Weimer and Natalia Weimer 1977"
+      ],
+      [
+        "134562",
+        "wordlist_or_less",
+        1914,
+        2,
+        "Anonymous, {} 1914"
+      ],
+      [
+        "309606",
+        "wordlist_or_less",
+        1911,
+        1,
+        "W. M. Strong 1911"
+      ]
+    ]
+  },
+  "id": "anem1248",
+  "name": "Aneme Wake",
+  "description": null,
+  "markup_description": null,
+  "latitude": -9.75911,
+  "longitude": 148.479,
+  "classification": [
+    {
+      "name": "Yareban",
+      "id": "yare1250",
+      "url": "https://glottolog.org/resource/languoid/id/yare1250"
+    },
+    {
+      "name": "Doriri-Abia",
+      "id": "dori1247",
+      "url": "https://glottolog.org/resource/languoid/id/dori1247"
+    }
+  ],
+  "iso639-3": "aby"
+}

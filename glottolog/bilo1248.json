@@ -1,0 +1,88 @@
+{
+  "pk": 6316,
+  "hid": "bll",
+  "father_pk": 4273,
+  "family_pk": 201,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Biloxi [bilo1248][bll]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q2903780",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Biloxi_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/bilo1248",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_blx",
+        "label": "Biloxi"
+      }
+    ],
+    "meds": [
+      [
+        "30887",
+        "grammar",
+        1976,
+        198,
+        "Einaudi, Paula Ferris 1976"
+      ],
+      [
+        "141732",
+        "grammar",
+        1974,
+        196,
+        "Einaudi, Paula Ferris 1974"
+      ],
+      [
+        "157969",
+        "phonology_or_text",
+        1912,
+        345,
+        "Dorsey, James Owen and Swanton, John Reed 1912"
+      ]
+    ]
+  },
+  "id": "bilo1248",
+  "name": "Biloxi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 31.32,
+  "longitude": -89.1951,
+  "classification": [
+    {
+      "name": "Siouan",
+      "id": "siou1252",
+      "url": "https://glottolog.org/resource/languoid/id/siou1252"
+    },
+    {
+      "name": "Core Siouan",
+      "id": "core1249",
+      "url": "https://glottolog.org/resource/languoid/id/core1249"
+    },
+    {
+      "name": "Ohio Valley Siouan",
+      "id": "ohio1234",
+      "url": "https://glottolog.org/resource/languoid/id/ohio1234"
+    },
+    {
+      "name": "Southeastern Siouan",
+      "id": "sout2988",
+      "url": "https://glottolog.org/resource/languoid/id/sout2988"
+    }
+  ],
+  "iso639-3": "bll"
+}

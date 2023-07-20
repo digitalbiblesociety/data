@@ -1,0 +1,75 @@
+{
+  "pk": 528,
+  "hid": "xko",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Kiorr [kior1239][xko]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "xko",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 has an entry for Kiorr [xko] (with alternative name 'Con'), but this refers to the same language as Con [cno] (**hh:h:Schliesinger:Laos**). See also: Con [cno]."
+    },
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6414519",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kiorr_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "92676",
+        "wordlist_or_less",
+        2003,
+        15,
+        "Joachim Schliesinger 2003"
+      ],
+      [
+        "94051",
+        "wordlist_or_less",
+        1991,
+        10,
+        "Robert Parker 1991"
+      ]
+    ]
+  },
+  "id": "kior1239",
+  "name": "Kiorr",
+  "description": null,
+  "markup_description": null,
+  "latitude": 21.0684,
+  "longitude": 101.211,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "xko"
+}

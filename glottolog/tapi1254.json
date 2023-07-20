@@ -1,0 +1,107 @@
+{
+  "pk": 7939,
+  "hid": "taf",
+  "father_pk": 5548,
+  "family_pk": 51,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tapirapé [tapi1254][taf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2168",
+        "label": "Tapirapé"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7684673",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tapirap%C3%A9_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/tapi1254",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "112834",
+        "long_grammar",
+        2007,
+        303,
+        "Neiva Praça, Wilkíria 2007"
+      ],
+      [
+        "20620",
+        "grammar_sketch",
+        1983,
+        101,
+        "Almeida, Antônio and Irmãzinhas de Jesus and de Paula, Luiz Gouvêa 1983"
+      ],
+      [
+        "133600",
+        "phonology_or_text",
+        1977,
+        20,
+        "Leite, Yonne de Freitas 1977"
+      ],
+      [
+        "55391",
+        "wordlist_or_less",
+        1911,
+        58,
+        "Krause, Fritz 1911"
+      ],
+      [
+        "80889",
+        "wordlist_or_less",
+        1849,
+        14,
+        "da Silva e Sousa, Luiz Antonio 1849"
+      ]
+    ]
+  },
+  "id": "tapi1254",
+  "name": "Tapirapé",
+  "description": null,
+  "markup_description": null,
+  "latitude": -10.5373,
+  "longitude": -50.5438,
+  "classification": [
+    {
+      "name": "Tupian",
+      "id": "tupi1275",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1275"
+    },
+    {
+      "name": "Maweti-Guarani",
+      "id": "mawe1252",
+      "url": "https://glottolog.org/resource/languoid/id/mawe1252"
+    },
+    {
+      "name": "Aweti-Guarani",
+      "id": "awet1245",
+      "url": "https://glottolog.org/resource/languoid/id/awet1245"
+    },
+    {
+      "name": "Tupi-Guarani",
+      "id": "tupi1276",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1276"
+    },
+    {
+      "name": "Tupi-Guarani Subgroup IV",
+      "id": "tupi1279",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1279"
+    }
+  ],
+  "iso639-3": "taf"
+}

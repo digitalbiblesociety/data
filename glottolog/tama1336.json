@@ -1,0 +1,67 @@
+{
+  "pk": 2068,
+  "hid": "tcg",
+  "father_pk": 935,
+  "family_pk": 87,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tamagario [tama1336][tcg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7680531",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tamagario_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tmg",
+        "label": "Tamagario"
+      }
+    ],
+    "meds": [
+      [
+        "142058",
+        "wordlist_or_less",
+        2010,
+        5,
+        "Randy Lebold and Ron Kriens and Peter Jan de Vries and Benny Rumaropen 2010"
+      ],
+      [
+        "141825",
+        "wordlist_or_less",
+        1971,
+        2,
+        "C. L. Voorhoeve 1971"
+      ]
+    ]
+  },
+  "id": "tama1336",
+  "name": "Tamagario",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.64493,
+  "longitude": 138.892,
+  "classification": [
+    {
+      "name": "Kayagaric",
+      "id": "kaya1327",
+      "url": "https://glottolog.org/resource/languoid/id/kaya1327"
+    },
+    {
+      "name": "Kaygir-Tamagario",
+      "id": "kayg1237",
+      "url": "https://glottolog.org/resource/languoid/id/kayg1237"
+    }
+  ],
+  "iso639-3": "tcg"
+}

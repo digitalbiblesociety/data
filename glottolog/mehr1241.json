@@ -1,0 +1,102 @@
+{
+  "pk": 11084,
+  "hid": "gdq",
+  "father_pk": 8183,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Nagdi [nagd1238]':1,('Eastern Yemeni Mehri [east2679]':1,'Western Yemeni Mehri [west2936]':1)'Yemeni Mehri [west2761]':1)'Mehri [mehr1241][gdq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4202",
+        "label": "Mehri"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q13361",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mehri_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/mehr1241",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_meh",
+        "label": "Mehri"
+      }
+    ],
+    "meds": [
+      [
+        "552858",
+        "long_grammar",
+        2012,
+        506,
+        "Watson, Janet C. E. 2012"
+      ],
+      [
+        "309609",
+        "long_grammar",
+        1909,
+        466,
+        "Maximilian Bittner 1909, 1911"
+      ],
+      [
+        "312181",
+        "wordlist_or_less",
+        1838,
+        6,
+        "Fulgence Fresnel 1838"
+      ]
+    ]
+  },
+  "id": "mehr1241",
+  "name": "Mehri",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.793,
+  "longitude": 52.473,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Semitic",
+      "id": "semi1276",
+      "url": "https://glottolog.org/resource/languoid/id/semi1276"
+    },
+    {
+      "name": "West Semitic",
+      "id": "west2786",
+      "url": "https://glottolog.org/resource/languoid/id/west2786"
+    },
+    {
+      "name": "Modern South Arabian",
+      "id": "mode1252",
+      "url": "https://glottolog.org/resource/languoid/id/mode1252"
+    },
+    {
+      "name": "Hobyot-Western MSA",
+      "id": "hoby1243",
+      "url": "https://glottolog.org/resource/languoid/id/hoby1243"
+    },
+    {
+      "name": "Western MSA",
+      "id": "west2859",
+      "url": "https://glottolog.org/resource/languoid/id/west2859"
+    }
+  ],
+  "iso639-3": "gdq"
+}

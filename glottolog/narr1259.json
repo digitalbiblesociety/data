@@ -1,0 +1,87 @@
+{
+  "pk": 8487,
+  "hid": "nay",
+  "father_pk": 6018,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Tangani [tang1381]':1,'Yaraldi [yara1254]':1)'Narrinyeri [narr1259][nay]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/s69",
+        "label": "NGARRINDJERI"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ngr",
+        "label": "Ngarinyeri"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/6668",
+        "label": "Ngarrindjeri"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ngarrindjeri_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/narr1259",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7022091",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "36577",
+        "grammar_sketch",
+        1843,
+        124,
+        "Meyer, H.A.E. 1843"
+      ]
+    ]
+  },
+  "id": "narr1259",
+  "name": "Narrinyeri",
+  "description": null,
+  "markup_description": null,
+  "latitude": -36.2301,
+  "longitude": 140.158,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Southeastern Pama-Nyungan",
+      "id": "sout3135",
+      "url": "https://glottolog.org/resource/languoid/id/sout3135"
+    },
+    {
+      "name": "Victorian Pama-Nyungan",
+      "id": "vict1234",
+      "url": "https://glottolog.org/resource/languoid/id/vict1234"
+    },
+    {
+      "name": "Lower Murray",
+      "id": "lowe1401",
+      "url": "https://glottolog.org/resource/languoid/id/lowe1401"
+    },
+    {
+      "name": "Yaraldi-Keramin-Yitha",
+      "id": "yara1253",
+      "url": "https://glottolog.org/resource/languoid/id/yara1253"
+    }
+  ],
+  "iso639-3": "nay"
+}

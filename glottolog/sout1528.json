@@ -1,0 +1,94 @@
+{
+  "pk": 10914,
+  "hid": "hbs",
+  "father_pk": 8006,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Burgenland Croatian [burg1244]':1,'Nuclear Chakavian [nucl1776]':1)'Chakavski [chak1265][ckm]':1,(('Bunjevac [bunj1247]':1,'Eastern Bosnian Shtokavian [east2822]':1,('Bosnian Standard [bosn1245][bos]':1,'Croatian Standard [croa1245][hrv]':1,'Montenegrin Standard [mont1282][cnr]':1,'Serbian Standard [serb1264][srp]':1)'Eastern Herzegovinian Shtokavian [east2821]':1,'Karashevski [kara1507]':1,'Kosovo-Resava [koso1247]':1,'Prizren-South Morava [priz1234]':1,'Slavonian Shtokavian [slav1257]':1,'Smederevo-Vršac [smed1234]':1,'Timok [timo1264]':1,'Užican [uzic1234]':1,'Zeta-Raška [zeta1234]':1,'Šumadija-Vojvodina [suma1275]':1)'New Shtokavian [news1236]':1,'Old Shtokavian [olds1253]':1)'Shtokavski [shto1241]':1)'Serbian-Croatian-Bosnian [sout1528][hbs]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 22,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_scr",
+        "label": "Serbian-Croatian"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Serbo-Croatian",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q9301",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "586091",
+        "long_grammar",
+        2003,
+        692,
+        "Benčić, Nikola and Sučić, Ivo 2003"
+      ],
+      [
+        "588224",
+        "long_grammar",
+        1914,
+        635,
+        "A. Leskien 1914"
+      ],
+      [
+        "320134",
+        "grammar_sketch",
+        1604,
+        203,
+        "Bartholomaeus Cassius 1604"
+      ]
+    ]
+  },
+  "id": "sout1528",
+  "name": "Serbian-Croatian-Bosnian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 44.15,
+  "longitude": 18.81,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Balto-Slavic",
+      "id": "balt1263",
+      "url": "https://glottolog.org/resource/languoid/id/balt1263"
+    },
+    {
+      "name": "Slavic",
+      "id": "slav1255",
+      "url": "https://glottolog.org/resource/languoid/id/slav1255"
+    },
+    {
+      "name": "South Slavic",
+      "id": "sout3147",
+      "url": "https://glottolog.org/resource/languoid/id/sout3147"
+    },
+    {
+      "name": "Western South Slavic",
+      "id": "west2804",
+      "url": "https://glottolog.org/resource/languoid/id/west2804"
+    }
+  ],
+  "iso639-3": "hbs"
+}

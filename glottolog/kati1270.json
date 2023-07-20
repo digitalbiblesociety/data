@@ -1,0 +1,88 @@
+{
+  "pk": 5603,
+  "hid": "bsh",
+  "father_pk": 3705,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Kamdeshi [nucl1277]':1,'Lamertiviri [lame1271]':1)'Kamviri [kamv1242][xvi]':1,('Eastern Kataviri [east2308]':1,('Ktivi [ktiv1234]':1,'Kulam [kula1287]':1,'Peruk [peru1237]':1,'Ramgel [ramg1234]':1)'Western Kataviri [west2372]':1)'Kataviri [kati1279]':1,'Mumviri [mumv1239]':1)'Katë [kati1270][bsh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 11,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3979",
+        "label": "Kati"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kata-vari_dialect",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ktz",
+        "label": "Kati (in Afghanistan)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3449784",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "571727",
+        "long_grammar",
+        1966,
+        601,
+        "Ghulâmullâh, Qâzi 1966"
+      ],
+      [
+        "50957",
+        "grammar_sketch",
+        1902,
+        104,
+        "Davidson, John 1902"
+      ],
+      [
+        "318199",
+        "phonology_or_text",
+        1880,
+        10,
+        "John Biddulph 1880"
+      ]
+    ]
+  },
+  "id": "kati1270",
+  "name": "Katë",
+  "description": null,
+  "markup_description": null,
+  "latitude": 35.4145,
+  "longitude": 70.9826,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Nuristani",
+      "id": "nuri1243",
+      "url": "https://glottolog.org/resource/languoid/id/nuri1243"
+    }
+  ],
+  "iso639-3": "bsh"
+}

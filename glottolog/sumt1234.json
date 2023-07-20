@@ -1,0 +1,83 @@
+{
+  "pk": 13284,
+  "hid": "csv",
+  "father_pk": 10223,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Sumtu Chin [sumt1234][csv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7638087",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sumtu_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "318749",
+        "phonology_or_text",
+        2013,
+        26,
+        "Justin Watkins 2013"
+      ],
+      [
+        "500806",
+        "wordlist_or_less",
+        2011,
+        0,
+        "ISO 639-3 Registration Authority 2011"
+      ]
+    ]
+  },
+  "id": "sumt1234",
+  "name": "Sumtu Chin",
+  "description": null,
+  "markup_description": null,
+  "latitude": 20.1238,
+  "longitude": 93.8367,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Kuki-Chin",
+      "id": "kuki1246",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1246"
+    },
+    {
+      "name": "Peripheral Kuki-Chin",
+      "id": "peri1260",
+      "url": "https://glottolog.org/resource/languoid/id/peri1260"
+    },
+    {
+      "name": "South Peripheral Kuki-Chin",
+      "id": "sout3160",
+      "url": "https://glottolog.org/resource/languoid/id/sout3160"
+    },
+    {
+      "name": "Ashoic",
+      "id": "asho1237",
+      "url": "https://glottolog.org/resource/languoid/id/asho1237"
+    }
+  ],
+  "iso639-3": "csv"
+}

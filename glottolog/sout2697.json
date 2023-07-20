@@ -1,0 +1,100 @@
+{
+  "pk": 7817,
+  "hid": "azb",
+  "father_pk": 5410,
+  "family_pk": 14,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Afshari [afsh1238]':1,'Aynallu [ayna1239]':1,'Baharlu [baha1255]':1,'Bayat [baya1256]':1,'Dara-Gaz [dara1256]':1,'Galugah [galu1241]':1,'Kars [kars1238]':1,'Kirkuk [kirk1242]':1,'Lotf-Abad [lotf1234]':1,'Moqaddam [moqa1238]':1,'Nafar [nafa1255]':1,'Pishagchi [pish1238]':1,'Qajar [qaja1238]':1,'Qaragozlu [qara1243]':1,'Shahsavani [shah1257]':1,'Sonqor [sonq1234]':1,'Tabriz [tabr1242]':1,'Zanjan Turkic [zanj1239]':1)'South Azerbaijani [sout2697][azb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 18,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_azi",
+        "label": "Azari (Iranian)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/South_Azerbaijani_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/sout2697",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3449805",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "314237",
+        "long_grammar",
+        1996,
+        430,
+        "Hidayet Kemal Bayatlı 1996"
+      ],
+      [
+        "314459",
+        "grammar",
+        1965,
+        288,
+        "Householder, Fred Walter 1965"
+      ],
+      [
+        "550869",
+        "grammar_sketch",
+        1956,
+        77,
+        "Vincent Monteil 1956"
+      ],
+      [
+        "571470",
+        "phonology_or_text",
+        1903,
+        46,
+        "Foy, Karl 1903, 1904"
+      ]
+    ]
+  },
+  "id": "sout2697",
+  "name": "South Azerbaijani",
+  "description": null,
+  "markup_description": null,
+  "latitude": 36.5137,
+  "longitude": 48.4302,
+  "classification": [
+    {
+      "name": "Turkic",
+      "id": "turk1311",
+      "url": "https://glottolog.org/resource/languoid/id/turk1311"
+    },
+    {
+      "name": "Common Turkic",
+      "id": "comm1245",
+      "url": "https://glottolog.org/resource/languoid/id/comm1245"
+    },
+    {
+      "name": "Oghuz",
+      "id": "oghu1243",
+      "url": "https://glottolog.org/resource/languoid/id/oghu1243"
+    },
+    {
+      "name": "Nuclear Oghuz",
+      "id": "nucl1769",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1769"
+    },
+    {
+      "name": "Central Oghuz",
+      "id": "azer1255",
+      "url": "https://glottolog.org/resource/languoid/id/azer1255"
+    }
+  ],
+  "iso639-3": "azb"
+}

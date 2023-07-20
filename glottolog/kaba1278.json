@@ -1,0 +1,78 @@
+{
+  "pk": 3333,
+  "hid": "kbd",
+  "father_pk": 1751,
+  "family_pk": 359,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Greater Kabardian [grea1271]':1)'Kabardian [kaba1278][kbd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kab",
+        "label": "Kabardian"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kabardian_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kaba1278",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33522",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "305155",
+        "long_grammar",
+        2006,
+        553,
+        "Kumaxov, M. A. 2006"
+      ],
+      [
+        "589815",
+        "long_grammar",
+        1940,
+        320,
+        "G. Turchaninov and M. Tsagov 1940"
+      ],
+      [
+        "573843",
+        "wordlist_or_less",
+        1929,
+        31,
+        "Ladysenskij, A. 1929"
+      ]
+    ]
+  },
+  "id": "kaba1278",
+  "name": "Kabardian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 43.5082,
+  "longitude": 43.3918,
+  "classification": [
+    {
+      "name": "Abkhaz-Adyge",
+      "id": "abkh1242",
+      "url": "https://glottolog.org/resource/languoid/id/abkh1242"
+    },
+    {
+      "name": "Circassian",
+      "id": "circ1239",
+      "url": "https://glottolog.org/resource/languoid/id/circ1239"
+    }
+  ],
+  "iso639-3": "kbd"
+}

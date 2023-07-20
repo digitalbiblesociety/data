@@ -1,0 +1,81 @@
+{
+  "pk": 5415,
+  "hid": "atv",
+  "father_pk": 3553,
+  "family_pk": 14,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Chelkan [chel1242]':1,'Kumandin [kuma1284]':1,'Tuba-Kizi [tuba1280]':1)'Northern Altai [nort2686][atv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3869",
+        "label": "Northern Altai"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Northern_Altai_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nort2686",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2640863",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "301574",
+        "grammar_sketch",
+        1966,
+        172,
+        "Baskakov, Nikolai A. 1966"
+      ],
+      [
+        "95187",
+        "grammar_sketch",
+        1958,
+        19,
+        "Baskakov, Nikolaj A. and Sanzeev, Garma D. 1958"
+      ]
+    ]
+  },
+  "id": "nort2686",
+  "name": "Northern Altai",
+  "description": null,
+  "markup_description": null,
+  "latitude": 50.8998,
+  "longitude": 88.0672,
+  "classification": [
+    {
+      "name": "Turkic",
+      "id": "turk1311",
+      "url": "https://glottolog.org/resource/languoid/id/turk1311"
+    },
+    {
+      "name": "Common Turkic",
+      "id": "comm1245",
+      "url": "https://glottolog.org/resource/languoid/id/comm1245"
+    },
+    {
+      "name": "Central Siberian Turkic",
+      "id": "cent2326",
+      "url": "https://glottolog.org/resource/languoid/id/cent2326"
+    },
+    {
+      "name": "South Siberian Turkic",
+      "id": "sout2693",
+      "url": "https://glottolog.org/resource/languoid/id/sout2693"
+    }
+  ],
+  "iso639-3": "atv"
+}

@@ -1,0 +1,71 @@
+{
+  "pk": 5251,
+  "hid": "dbf",
+  "father_pk": 3418,
+  "family_pk": 396,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Edopi [edop1238][dbf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12953516",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "549966",
+        "grammar_sketch",
+        1991,
+        34,
+        "Eui-Jung Kim 1991"
+      ],
+      [
+        "12169",
+        "wordlist_or_less",
+        1988,
+        19,
+        "Kim, Eui-Jung 1988"
+      ],
+      [
+        "97824",
+        "wordlist_or_less",
+        1986,
+        9,
+        "Green, Ivor 1986"
+      ]
+    ]
+  },
+  "id": "edop1238",
+  "name": "Edopi",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.11078,
+  "longitude": 137.387,
+  "classification": [
+    {
+      "name": "Lakes Plain",
+      "id": "lake1255",
+      "url": "https://glottolog.org/resource/languoid/id/lake1255"
+    },
+    {
+      "name": "Tariku",
+      "id": "tari1255",
+      "url": "https://glottolog.org/resource/languoid/id/tari1255"
+    },
+    {
+      "name": "Central Tariku",
+      "id": "cent2110",
+      "url": "https://glottolog.org/resource/languoid/id/cent2110"
+    }
+  ],
+  "iso639-3": "dbf"
+}

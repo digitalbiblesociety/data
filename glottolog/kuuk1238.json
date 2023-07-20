@@ -1,0 +1,90 @@
+{
+  "pk": 8454,
+  "hid": "kuy",
+  "father_pk": 5983,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kuuku-Ya''u [kuuk1238][kuy]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3785",
+        "label": "Kuuku-Ya'u"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/y22",
+        "label": "Kuuku Ya'u"
+      },
+      {
+        "url": "https://phoible.org/languages/kuuk1238",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kuu",
+        "label": "Kuuku Ya'u"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q10550697",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "304834",
+        "grammar_sketch",
+        1988,
+        80,
+        "Thompson, David A. 1988"
+      ],
+      [
+        "72336",
+        "phonology_or_text",
+        1976,
+        23,
+        "Thompson, D. A. 1976"
+      ]
+    ]
+  },
+  "id": "kuuk1238",
+  "name": "Kuuku-Ya'u",
+  "description": null,
+  "markup_description": null,
+  "latitude": -12.4947,
+  "longitude": 143.165,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Paman",
+      "id": "pama1251",
+      "url": "https://glottolog.org/resource/languoid/id/pama1251"
+    },
+    {
+      "name": "Compromise Middle Pama",
+      "id": "comp1236",
+      "url": "https://glottolog.org/resource/languoid/id/comp1236"
+    },
+    {
+      "name": "Northeastern Pama",
+      "id": "nort3256",
+      "url": "https://glottolog.org/resource/languoid/id/nort3256"
+    },
+    {
+      "name": "Umpilaic",
+      "id": "nort2759",
+      "url": "https://glottolog.org/resource/languoid/id/nort2759"
+    }
+  ],
+  "iso639-3": "kuy"
+}

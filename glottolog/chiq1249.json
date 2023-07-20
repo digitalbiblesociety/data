@@ -1,0 +1,73 @@
+{
+  "pk": 7249,
+  "hid": "qxa",
+  "father_pk": 4928,
+  "family_pk": 321,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Chiquián Ancash Quechua [chiq1249][qxa]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_qan",
+        "label": "Quechua (Ancash)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q25559677",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "14111",
+        "wordlist_or_less",
+        2003,
+        54,
+        "Cerrón-Palomino, Rodolfo 2003"
+      ],
+      [
+        "582049",
+        "wordlist_or_less",
+        1972,
+        2,
+        "Torero, Alfredo 1972"
+      ]
+    ]
+  },
+  "id": "chiq1249",
+  "name": "Chiquián Ancash Quechua",
+  "description": null,
+  "markup_description": null,
+  "latitude": -10.1831,
+  "longitude": -77.4152,
+  "classification": [
+    {
+      "name": "Quechuan",
+      "id": "quec1387",
+      "url": "https://glottolog.org/resource/languoid/id/quec1387"
+    },
+    {
+      "name": "Quechua I",
+      "id": "quec1386",
+      "url": "https://glottolog.org/resource/languoid/id/quec1386"
+    },
+    {
+      "name": "Central Quechua I",
+      "id": "cent2141",
+      "url": "https://glottolog.org/resource/languoid/id/cent2141"
+    },
+    {
+      "name": "AP-AM-AH",
+      "id": "apam1237",
+      "url": "https://glottolog.org/resource/languoid/id/apam1237"
+    }
+  ],
+  "iso639-3": "qxa"
+}

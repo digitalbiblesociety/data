@@ -1,0 +1,58 @@
+{
+  "pk": 634,
+  "hid": "ztc",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Lachirioag Zapotec [lach1251][ztc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "ztc",
+      "name": "Lachirioag Zapotec",
+      "change_request": "2006-027",
+      "effective": "2007-07-18",
+      "reason": "merge",
+      "change_to": [
+        "zty"
+      ],
+      "remedy": "Merge into Yatee Zapotec [zty]",
+      "comment": "Zapotec, Lachirioag is now considered a dialect of Zapotec, Yatee."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q14355034",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500193",
+        "wordlist_or_less",
+        2006,
+        0,
+        "ISO 639-3 Registration Authority 2006"
+      ]
+    ]
+  },
+  "id": "lach1251",
+  "name": "Lachirioag Zapotec",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "ztc"
+}

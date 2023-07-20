@@ -1,0 +1,75 @@
+{
+  "pk": 729,
+  "hid": "kze",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Kosena [kose1239][kze]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "kze",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "but Kosena is a locality where the language in the Auyana\n[auy]-entry is spoken (**hh:s:McKaughanMarks:Auyana**:181). I wish to thank Tim Usher for bringing this case to my attention. See also: Awiyaana [auy]."
+    },
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Kosena_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12952663",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "155384",
+        "grammar_sketch",
+        1969,
+        31,
+        "Doreen Marks 1969"
+      ],
+      [
+        "93616",
+        "wordlist_or_less",
+        1966,
+        28,
+        "Doreen Marks 1966"
+      ]
+    ]
+  },
+  "id": "kose1239",
+  "name": "Kosena",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.46414,
+  "longitude": 145.66,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "kze"
+}

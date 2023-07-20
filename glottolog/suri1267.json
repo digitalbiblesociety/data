@@ -1,0 +1,129 @@
+{
+  "pk": 7892,
+  "hid": "suq",
+  "father_pk": 5444,
+  "family_pk": 18,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Chai [chai1252]':1,'Tirma [tirm1240]':1)'Tirma-Chai [suri1267][suq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5057",
+        "label": "Suri"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5364172",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Suri_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/suri1267",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_cai",
+        "label": "Chai"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_trm",
+        "label": "Tirmaga"
+      }
+    ],
+    "meds": [
+      [
+        "116989",
+        "grammar",
+        1999,
+        161,
+        "Bryant, Michael G. 1999"
+      ],
+      [
+        "77801",
+        "grammar_sketch",
+        1995,
+        182,
+        "Last, Marco 1995"
+      ],
+      [
+        "128073",
+        "grammar_sketch",
+        1994,
+        0,
+        "Lucassen, Deborah 1994"
+      ],
+      [
+        "128954",
+        "wordlist_or_less",
+        1993,
+        26,
+        "Abbink, Jon 1993"
+      ],
+      [
+        "127418",
+        "wordlist_or_less",
+        1942,
+        10,
+        "Cerulli, Enrico 1942"
+      ],
+      [
+        "300212",
+        "wordlist_or_less",
+        1939,
+        5,
+        "Marchetti, Marco 1939"
+      ],
+      [
+        "33713",
+        "wordlist_or_less",
+        1938,
+        8,
+        "Viezzer, Claudio 1938"
+      ]
+    ]
+  },
+  "id": "suri1267",
+  "name": "Tirma-Chai",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.03205,
+  "longitude": 35.0823,
+  "classification": [
+    {
+      "name": "Surmic",
+      "id": "surm1244",
+      "url": "https://glottolog.org/resource/languoid/id/surm1244"
+    },
+    {
+      "name": "South Surmic",
+      "id": "sout2836",
+      "url": "https://glottolog.org/resource/languoid/id/sout2836"
+    },
+    {
+      "name": "Southeast Surmic",
+      "id": "sout2837",
+      "url": "https://glottolog.org/resource/languoid/id/sout2837"
+    },
+    {
+      "name": "Pastoral Surmic",
+      "id": "past1248",
+      "url": "https://glottolog.org/resource/languoid/id/past1248"
+    },
+    {
+      "name": "Tirma-Chai-Mursi",
+      "id": "suri1266",
+      "url": "https://glottolog.org/resource/languoid/id/suri1266"
+    }
+  ],
+  "iso639-3": "suq"
+}

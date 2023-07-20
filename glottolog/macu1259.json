@@ -1,0 +1,85 @@
+{
+  "pk": 5561,
+  "hid": "mbc",
+  "father_pk": 3660,
+  "family_pk": 56,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Macushi [macu1259][mbc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mac",
+        "label": "Macushi"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/3015",
+        "label": "Makushi"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Macushi_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/macu1259",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56633",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "98859",
+        "long_grammar",
+        1932,
+        416,
+        "Williams, James 1932"
+      ],
+      [
+        "27008",
+        "wordlist_or_less",
+        1847,
+        27,
+        "Schomburgk, Richard Moritz 1847, 1848, 1848"
+      ]
+    ]
+  },
+  "id": "macu1259",
+  "name": "Macushi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.31861,
+  "longitude": -60.2209,
+  "classification": [
+    {
+      "name": "Cariban",
+      "id": "cari1283",
+      "url": "https://glottolog.org/resource/languoid/id/cari1283"
+    },
+    {
+      "name": "Venezuelan Cariban",
+      "id": "vene1261",
+      "url": "https://glottolog.org/resource/languoid/id/vene1261"
+    },
+    {
+      "name": "Pemong-Panare",
+      "id": "pemo1246",
+      "url": "https://glottolog.org/resource/languoid/id/pemo1246"
+    },
+    {
+      "name": "Pemongan",
+      "id": "pemo1247",
+      "url": "https://glottolog.org/resource/languoid/id/pemo1247"
+    }
+  ],
+  "iso639-3": "mbc"
+}

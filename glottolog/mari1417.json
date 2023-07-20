@@ -1,0 +1,78 @@
+{
+  "pk": 3088,
+  "hid": "zmm",
+  "father_pk": 1571,
+  "family_pk": 305,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Marimanindji [mari1417][zmm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1909",
+        "label": "Marimanindji"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/n16",
+        "label": "Maramanindji"
+      },
+      {
+        "url": "https://phoible.org/languages/mari1417",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q10577424",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "2833",
+        "grammar_sketch",
+        1974,
+        10,
+        "Darrell T. Tryon 1974"
+      ],
+      [
+        "3721",
+        "phonology_or_text",
+        1970,
+        1,
+        "Tryon, D. T. 1970"
+      ],
+      [
+        "148903",
+        "wordlist_or_less",
+        1968,
+        1,
+        "Darrell T. Tryon 1968"
+      ]
+    ]
+  },
+  "id": "mari1417",
+  "name": "Marimanindji",
+  "description": null,
+  "markup_description": null,
+  "latitude": -14.1788,
+  "longitude": 130.561,
+  "classification": [
+    {
+      "name": "Western Daly",
+      "id": "west2434",
+      "url": "https://glottolog.org/resource/languoid/id/west2434"
+    },
+    {
+      "name": "Bringen",
+      "id": "brin1245",
+      "url": "https://glottolog.org/resource/languoid/id/brin1245"
+    }
+  ],
+  "iso639-3": "zmm"
+}

@@ -1,0 +1,93 @@
+{
+  "pk": 8916,
+  "hid": "tol",
+  "father_pk": 6433,
+  "family_pk": 238,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tolowa-Chetco [tolo1259][tol]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/855",
+        "label": "Tolowa"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q20827",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tolowa_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/tolo1259",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "52907",
+        "grammar",
+        1995,
+        196,
+        "Bommelyn, Loren Me'laashne 1995"
+      ],
+      [
+        "570763",
+        "grammar_sketch",
+        1932,
+        15,
+        "Du Bois, C. A. 1932"
+      ],
+      [
+        "161830",
+        "wordlist_or_less",
+        1853,
+        2,
+        "George Gibbs 1853"
+      ]
+    ]
+  },
+  "id": "tolo1259",
+  "name": "Tolowa-Chetco",
+  "description": null,
+  "markup_description": null,
+  "latitude": 41.9192,
+  "longitude": -124.1,
+  "classification": [
+    {
+      "name": "Athabaskan-Eyak-Tlingit",
+      "id": "atha1245",
+      "url": "https://glottolog.org/resource/languoid/id/atha1245"
+    },
+    {
+      "name": "Athabaskan-Eyak",
+      "id": "atha1246",
+      "url": "https://glottolog.org/resource/languoid/id/atha1246"
+    },
+    {
+      "name": "Athabaskan",
+      "id": "atha1247",
+      "url": "https://glottolog.org/resource/languoid/id/atha1247"
+    },
+    {
+      "name": "Pacific Coast Athabaskan",
+      "id": "paci1277",
+      "url": "https://glottolog.org/resource/languoid/id/paci1277"
+    },
+    {
+      "name": "Oregon Athabaskan",
+      "id": "oreg1242",
+      "url": "https://glottolog.org/resource/languoid/id/oreg1242"
+    }
+  ],
+  "iso639-3": "tol"
+}

@@ -1,0 +1,106 @@
+{
+  "pk": 14699,
+  "hid": "mim",
+  "father_pk": 11766,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Atlamajalcingo del Monte [atla1271]':1,'Cuatzoquitengo [cuat1239]':1,'Plan de Guadalupe [plan1238]':1,'Potoichan [poto1253]':1,'Tototepec [toto1307]':1)'Alacatlatzala Mixtec [alac1244][mim]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10530",
+        "label": "Guerrero Mixtec"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mxl",
+        "label": "Mixtec (Alacatlatzala)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q14697894",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "301526",
+        "grammar",
+        2012,
+        229,
+        "Carol Zylstra 2012"
+      ],
+      [
+        "25602",
+        "grammar",
+        1991,
+        177,
+        "Zylstra, Carol F. 1991"
+      ],
+      [
+        "320095",
+        "grammar_sketch",
+        1982,
+        269,
+        "Casiano, Vicente Paulino 1982"
+      ],
+      [
+        "305339",
+        "grammar_sketch",
+        1938,
+        199,
+        "Schultze Jena, Leonhard 1938"
+      ]
+    ]
+  },
+  "id": "alac1244",
+  "name": "Alacatlatzala Mixtec",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.25,
+  "longitude": -98.58,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Amuzgo-Mixtecan",
+      "id": "amuz1253",
+      "url": "https://glottolog.org/resource/languoid/id/amuz1253"
+    },
+    {
+      "name": "Mixtecan",
+      "id": "mixt1422",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1422"
+    },
+    {
+      "name": "Mixtec-Cuicatec",
+      "id": "mixt1423",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1423"
+    },
+    {
+      "name": "Mixtec",
+      "id": "mixt1427",
+      "url": "https://glottolog.org/resource/languoid/id/mixt1427"
+    },
+    {
+      "name": "Guerrero Mixtec",
+      "id": "guer1245",
+      "url": "https://glottolog.org/resource/languoid/id/guer1245"
+    }
+  ],
+  "iso639-3": "mim"
+}

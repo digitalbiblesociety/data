@@ -1,0 +1,80 @@
+{
+  "pk": 6613,
+  "hid": "iou",
+  "father_pk": 4547,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tuma-Irumu [tuma1250][iou]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Tuma-Irumu_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7852460",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "649634",
+        "phonology_or_text",
+        1995,
+        42,
+        "Ross Webb 1995"
+      ],
+      [
+        "668842",
+        "phonology_or_text",
+        1992,
+        67,
+        "Ross Webb and Lyndal Webb 1992"
+      ],
+      [
+        "64314",
+        "wordlist_or_less",
+        1970,
+        1,
+        "Oren R. Claassen and Kenneth A. McElhanon 1970"
+      ]
+    ]
+  },
+  "id": "tuma1250",
+  "name": "Tuma-Irumu",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.29221,
+  "longitude": 146.609,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Finisterre-Huon",
+      "id": "fini1244",
+      "url": "https://glottolog.org/resource/languoid/id/fini1244"
+    },
+    {
+      "name": "Finisterre-Saruwaged",
+      "id": "fini1245",
+      "url": "https://glottolog.org/resource/languoid/id/fini1245"
+    },
+    {
+      "name": "Wantoatic",
+      "id": "want1251",
+      "url": "https://glottolog.org/resource/languoid/id/want1251"
+    }
+  ],
+  "iso639-3": "iou"
+}

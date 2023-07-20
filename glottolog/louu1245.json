@@ -1,0 +1,104 @@
+{
+  "pk": 17523,
+  "hid": "loj",
+  "father_pk": 15199,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Rei [reii1237]':1)'Lou [louu1245][loj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3260104",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lou_language_(Austronesian)",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_lou",
+        "label": "Lou"
+      }
+    ],
+    "meds": [
+      [
+        "540324",
+        "grammar_sketch",
+        1997,
+        164,
+        "Stutzman, Verna 1997"
+      ],
+      [
+        "478216",
+        "grammar_sketch",
+        1994,
+        81,
+        "Verna Stutzman 1994"
+      ],
+      [
+        "74050",
+        "wordlist_or_less",
+        1912,
+        24,
+        "Georg Friederici 1912"
+      ]
+    ]
+  },
+  "id": "louu1245",
+  "name": "Lou",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.38659,
+  "longitude": 147.346,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Admiralty Islands",
+      "id": "admi1239",
+      "url": "https://glottolog.org/resource/languoid/id/admi1239"
+    },
+    {
+      "name": "Eastern Admiralty Islands",
+      "id": "east2459",
+      "url": "https://glottolog.org/resource/languoid/id/east2459"
+    },
+    {
+      "name": "South-East Admiralty",
+      "id": "sout2879",
+      "url": "https://glottolog.org/resource/languoid/id/sout2879"
+    },
+    {
+      "name": "Lou-Paluai",
+      "id": "loup1244",
+      "url": "https://glottolog.org/resource/languoid/id/loup1244"
+    }
+  ],
+  "iso639-3": "loj"
+}

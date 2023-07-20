@@ -1,0 +1,105 @@
+{
+  "pk": 11881,
+  "hid": "ygr",
+  "father_pk": 9073,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dagenava [dage1244]':1,'Hira [hira1246]':1,'Hua {Yagaria} [huaa1250]':1,'Kamate [kama1369]':1,'Kami-Kulaka [kami1259]':1,'Kotom [koto1252]':1,'Move [move1241]':1,'Ologuti [olog1243]':1)'Yagaria [yaga1260][ygr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 8,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ygr",
+        "label": "Yagaria"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yagaria_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/yaga1260",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q8046690",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "99506",
+        "long_grammar",
+        1980,
+        602,
+        "John Haiman 1980"
+      ],
+      [
+        "99338",
+        "grammar",
+        1975,
+        235,
+        "Günther L. Renck 1975"
+      ],
+      [
+        "155215",
+        "phonology_or_text",
+        1967,
+        30,
+        "Renck, G. L. 1967"
+      ],
+      [
+        "128519",
+        "wordlist_or_less",
+        1962,
+        2,
+        "Arthur Capell 1962"
+      ]
+    ]
+  },
+  "id": "yaga1260",
+  "name": "Yagaria",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.32432,
+  "longitude": 145.388,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Kainantu-Goroka",
+      "id": "kain1273",
+      "url": "https://glottolog.org/resource/languoid/id/kain1273"
+    },
+    {
+      "name": "Goroka",
+      "id": "goro1272",
+      "url": "https://glottolog.org/resource/languoid/id/goro1272"
+    },
+    {
+      "name": "Nuclear Goroka",
+      "id": "nucl1760",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1760"
+    },
+    {
+      "name": "Siane-Yagaria",
+      "id": "nucl1756",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1756"
+    },
+    {
+      "name": "Kamano-Yagaria",
+      "id": "kama1374",
+      "url": "https://glottolog.org/resource/languoid/id/kama1374"
+    }
+  ],
+  "iso639-3": "ygr"
+}

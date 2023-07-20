@@ -1,0 +1,106 @@
+{
+  "pk": 20110,
+  "hid": "bum",
+  "father_pk": 18177,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bene [bene1244]':1,'Yelinda [yeli1239]':1,'Yembana [yemb1245]':1,'Yengono [yeng1244]':1,'Zaman [zama1238]':1)'Bulu {Cameroon} [bulu1251][bum]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_buw",
+        "label": "Bulu"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bulu_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/bulu1251",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35028",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "22676",
+        "long_grammar",
+        1914,
+        409,
+        "von Hagen, Gunther Tronje 1914"
+      ],
+      [
+        "99220",
+        "grammar_sketch",
+        1904,
+        123,
+        "Bates, George Latimer 1904"
+      ]
+    ]
+  },
+  "id": "bulu1251",
+  "name": "Bulu (Cameroon)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 3.16141,
+  "longitude": 11.6365,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Narrow Bantu",
+      "id": "narr1281",
+      "url": "https://glottolog.org/resource/languoid/id/narr1281"
+    },
+    {
+      "name": "Bantu A-B10-B20-B30",
+      "id": "bant1295",
+      "url": "https://glottolog.org/resource/languoid/id/bant1295"
+    },
+    {
+      "name": "Basaa-Yaunde (A40-70)",
+      "id": "basa1292",
+      "url": "https://glottolog.org/resource/languoid/id/basa1292"
+    },
+    {
+      "name": "Yaunde-Fang (A.70)",
+      "id": "yaun1239",
+      "url": "https://glottolog.org/resource/languoid/id/yaun1239"
+    }
+  ],
+  "iso639-3": "bum"
+}

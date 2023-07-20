@@ -1,0 +1,86 @@
+{
+  "pk": 10651,
+  "hid": "tin",
+  "father_pk": 7746,
+  "family_pk": 426,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Angidin [angi1241]':1,'Tindin-Èchedin [tind1245]':1)'Tindi [tind1238][tin]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3039",
+        "label": "Tindi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36860",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tindi_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tnd",
+        "label": "Tindi"
+      }
+    ],
+    "meds": [
+      [
+        "550518",
+        "long_grammar",
+        2012,
+        305,
+        "Magomedova, P. T. 2012"
+      ],
+      [
+        "117242",
+        "grammar_sketch",
+        1967,
+        356,
+        "na 1967"
+      ]
+    ]
+  },
+  "id": "tind1238",
+  "name": "Tindi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 42.3316,
+  "longitude": 45.9227,
+  "classification": [
+    {
+      "name": "Nakh-Daghestanian",
+      "id": "nakh1245",
+      "url": "https://glottolog.org/resource/languoid/id/nakh1245"
+    },
+    {
+      "name": "Daghestanian",
+      "id": "dagh1238",
+      "url": "https://glottolog.org/resource/languoid/id/dagh1238"
+    },
+    {
+      "name": "Avar-Andic-Tsezic",
+      "id": "avar1255",
+      "url": "https://glottolog.org/resource/languoid/id/avar1255"
+    },
+    {
+      "name": "Andic",
+      "id": "andi1254",
+      "url": "https://glottolog.org/resource/languoid/id/andi1254"
+    },
+    {
+      "name": "Bagvalal-Tindi",
+      "id": "bagv1240",
+      "url": "https://glottolog.org/resource/languoid/id/bagv1240"
+    }
+  ],
+  "iso639-3": "tin"
+}

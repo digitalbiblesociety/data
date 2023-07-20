@@ -1,0 +1,86 @@
+{
+  "pk": 4281,
+  "hid": "ssp",
+  "father_pk": 2493,
+  "family_pk": 206,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Sign Language",
+  "newick": "'Spanish Sign Language [span1263][ssp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3100814",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Spanish_Sign_Language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_lse",
+        "label": "Lengua de Señas Española"
+      }
+    ],
+    "meds": [
+      [
+        "570543",
+        "grammar_sketch",
+        2002,
+        64,
+        "Morales López, Esperanza and Pérez Casanova, Cristina and Reigosa Varela, César and Blanco Díaz, Emma and Bobillo García, Nancy and Freire Rodriguez, Cristina and Mallo Novás, Begoña and Prego Vázquez, Gabriela 2002"
+      ],
+      [
+        "551794",
+        "grammar_sketch",
+        1992,
+        0,
+        "Rodríguez-González, Maria Ángeles 1992"
+      ],
+      [
+        "578319",
+        "phonology_or_text",
+        1851,
+        162,
+        "Francisco Fernández Villabrille 1851"
+      ],
+      [
+        "578749",
+        "phonology_or_text",
+        1795,
+        378,
+        "Hervás y Panduro, Lorenzo 1795"
+      ]
+    ]
+  },
+  "id": "span1263",
+  "name": "Spanish Sign Language",
+  "description": null,
+  "markup_description": null,
+  "latitude": 40.0314,
+  "longitude": -3.70738,
+  "classification": [
+    {
+      "name": "Sign Language",
+      "id": "sign1238",
+      "url": "https://glottolog.org/resource/languoid/id/sign1238"
+    },
+    {
+      "name": "Deaf Sign Language",
+      "id": "deaf1237",
+      "url": "https://glottolog.org/resource/languoid/id/deaf1237"
+    },
+    {
+      "name": "Spanish Sign",
+      "id": "span1269",
+      "url": "https://glottolog.org/resource/languoid/id/span1269"
+    }
+  ],
+  "iso639-3": "ssp"
+}

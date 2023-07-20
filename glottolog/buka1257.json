@@ -1,0 +1,103 @@
+{
+  "pk": 9402,
+  "hid": "sdo",
+  "father_pk": 6819,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bukar Bidayuh [buka1258]':1,'Bukar Sadong [buka1259]':1,'Mentuh Tapuh [ment1250]':1)'Bukar-Sadung Bidayuh [buka1257][sdo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mta",
+        "label": "Mentuh Tapuh"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bukar%E2%80%93Sadong_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2927799",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "119414",
+        "grammar_sketch",
+        1983,
+        14,
+        "Omar, Asmah Haji 1983"
+      ],
+      [
+        "128708",
+        "grammar_sketch",
+        1972,
+        8,
+        "Court, C. 1972"
+      ],
+      [
+        "104395",
+        "phonology_or_text",
+        1966,
+        205,
+        "Court, Christopher A. F. 1966"
+      ],
+      [
+        "16902",
+        "wordlist_or_less",
+        1937,
+        11,
+        "Elam, E. H. 1937"
+      ],
+      [
+        "23345",
+        "wordlist_or_less",
+        1913,
+        2,
+        "Sidney H. Ray 1913"
+      ]
+    ]
+  },
+  "id": "buka1257",
+  "name": "Bukar-Sadung Bidayuh",
+  "description": null,
+  "markup_description": null,
+  "latitude": 0.96817,
+  "longitude": 110.657,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Land Dayak",
+      "id": "land1261",
+      "url": "https://glottolog.org/resource/languoid/id/land1261"
+    },
+    {
+      "name": "Bidayuh-Southern Land Dayak",
+      "id": "bida1239",
+      "url": "https://glottolog.org/resource/languoid/id/bida1239"
+    },
+    {
+      "name": "Bidayuh",
+      "id": "bida1240",
+      "url": "https://glottolog.org/resource/languoid/id/bida1240"
+    }
+  ],
+  "iso639-3": "sdo"
+}

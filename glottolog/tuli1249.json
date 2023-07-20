@@ -1,0 +1,71 @@
+{
+  "pk": 1956,
+  "hid": "tey",
+  "father_pk": 866,
+  "family_pk": 42,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dar El Kabira [dare1242]':1,'Kamda [kamd1238]':1,'Nuclear Tulishi [nucl1437]':1)'Tulishi [tuli1249][tey]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5094",
+        "label": "Tulishi"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12911106",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tulishi_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/tuli1249",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "81804",
+        "phonology_or_text",
+        2006,
+        9,
+        "Hall, Edward 2006"
+      ],
+      [
+        "85220",
+        "wordlist_or_less",
+        1925,
+        8,
+        "Hillelson, Sigmar 1925"
+      ]
+    ]
+  },
+  "id": "tuli1249",
+  "name": "Tulishi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.4507,
+  "longitude": 29.108,
+  "classification": [
+    {
+      "name": "Kadugli-Krongo",
+      "id": "kadu1256",
+      "url": "https://glottolog.org/resource/languoid/id/kadu1256"
+    },
+    {
+      "name": "Central-Western Kadugli-Krongo",
+      "id": "cent2229",
+      "url": "https://glottolog.org/resource/languoid/id/cent2229"
+    }
+  ],
+  "iso639-3": "tey"
+}

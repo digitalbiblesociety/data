@@ -1,0 +1,77 @@
+{
+  "pk": 7548,
+  "hid": "ssu",
+  "father_pk": 5221,
+  "family_pk": 385,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Susuami [susu1251][ssu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2689",
+        "label": "Susuami"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7649752",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Susuami_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "47604",
+        "grammar_sketch",
+        1990,
+        0,
+        "Geoffrey P. Smith 1990"
+      ],
+      [
+        "8921",
+        "wordlist_or_less",
+        1988,
+        1,
+        "Geoffrey P. Smith 1988"
+      ]
+    ]
+  },
+  "id": "susu1251",
+  "name": "Susuami",
+  "description": null,
+  "markup_description": null,
+  "latitude": -7.19275,
+  "longitude": 146.561,
+  "classification": [
+    {
+      "name": "Angan",
+      "id": "anga1289",
+      "url": "https://glottolog.org/resource/languoid/id/anga1289"
+    },
+    {
+      "name": "Nuclear Angan",
+      "id": "nucl1763",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1763"
+    },
+    {
+      "name": "Wojokesic",
+      "id": "nort3145",
+      "url": "https://glottolog.org/resource/languoid/id/nort3145"
+    },
+    {
+      "name": "Kamasa-Susuami",
+      "id": "kama1359",
+      "url": "https://glottolog.org/resource/languoid/id/kama1359"
+    }
+  ],
+  "iso639-3": "ssu"
+}

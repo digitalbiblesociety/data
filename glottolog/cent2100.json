@@ -1,0 +1,114 @@
+{
+  "pk": 17255,
+  "hid": "dtp",
+  "father_pk": 14880,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Beaufort Dusun [beau1240]':1,'Bundu {Taginambur} [bund1257]':1,'Coastal Kadazan [coas1294][kzj]':1,'Dusun Sinulihan [dusu1275]':1,'Kadazan-Tagaro [kada1288]':1,'Kiundu [kiun1242]':1,'Kota Marudu Tinagas [kota1278][ktr]':1,'Kuriyou {Kuala Monsok Dusun} [kual1253]':1,'Luba [luba1252]':1,'Menggatal [meng1270]':1,'Pahu'' [pahu1240]':1,'Ranau [rana1248]':1,'Sokid [soki1240]':1,'Tambunan Dusun [tamb1254][kzt]':1,'Tempasuk Dusun [temp1235][tdu]':1)'Kadazan Dusun [cent2100][dtp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 15,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Kadazandusun_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5317225",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "117736",
+        "grammar_sketch",
+        1989,
+        203,
+        "Miller, Carolyn P. and Miller, John D. 1989"
+      ],
+      [
+        "121266",
+        "grammar_sketch",
+        1985,
+        192,
+        "Miller, John D. and Miller, Carolyn P. 1985"
+      ],
+      [
+        "120589",
+        "grammar_sketch",
+        1958,
+        137,
+        "Antonissen, A. 1958"
+      ],
+      [
+        "303493",
+        "wordlist_or_less",
+        1897,
+        29,
+        "Luering, H. L. E. 1897"
+      ],
+      [
+        "552444",
+        "wordlist_or_less",
+        1880,
+        11,
+        "Swettenham, F. A. 1880"
+      ]
+    ]
+  },
+  "id": "cent2100",
+  "name": "Kadazan Dusun",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.02998,
+  "longitude": 116.681,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "North Borneo Malayo-Polynesian",
+      "id": "nort3253",
+      "url": "https://glottolog.org/resource/languoid/id/nort3253"
+    },
+    {
+      "name": "Sabahan",
+      "id": "saba1285",
+      "url": "https://glottolog.org/resource/languoid/id/saba1285"
+    },
+    {
+      "name": "Southwest Sabahan",
+      "id": "sout3154",
+      "url": "https://glottolog.org/resource/languoid/id/sout3154"
+    },
+    {
+      "name": "Greater Dusunic",
+      "id": "grea1293",
+      "url": "https://glottolog.org/resource/languoid/id/grea1293"
+    },
+    {
+      "name": "Dusunic",
+      "id": "dusu1277",
+      "url": "https://glottolog.org/resource/languoid/id/dusu1277"
+    },
+    {
+      "name": "Kadazan-Sugut-Minokok",
+      "id": "kada1292",
+      "url": "https://glottolog.org/resource/languoid/id/kada1292"
+    }
+  ],
+  "iso639-3": "dtp"
+}

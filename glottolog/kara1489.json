@@ -1,0 +1,90 @@
+{
+  "pk": 12198,
+  "hid": "mry",
+  "father_pk": 9289,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mandaya [kara1489][mry]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6747925",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mandaya_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "587005",
+        "grammar_sketch",
+        2020,
+        56,
+        "Estrera, Edward G. 2020"
+      ],
+      [
+        "76686",
+        "wordlist_or_less",
+        1983,
+        64,
+        "Gallman, II, Andrew Franklin 1983"
+      ],
+      [
+        "27594",
+        "wordlist_or_less",
+        1977,
+        4,
+        "Zorc, R. David Paul 1977"
+      ]
+    ]
+  },
+  "id": "kara1489",
+  "name": "Mandaya",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.50481,
+  "longitude": 126.409,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Greater Central Philippine",
+      "id": "grea1284",
+      "url": "https://glottolog.org/resource/languoid/id/grea1284"
+    },
+    {
+      "name": "Central Philippine",
+      "id": "cent2246",
+      "url": "https://glottolog.org/resource/languoid/id/cent2246"
+    },
+    {
+      "name": "Mansakan",
+      "id": "mans1261",
+      "url": "https://glottolog.org/resource/languoid/id/mans1261"
+    },
+    {
+      "name": "Eastern Mansakan",
+      "id": "east2477",
+      "url": "https://glottolog.org/resource/languoid/id/east2477"
+    }
+  ],
+  "iso639-3": "mry"
+}

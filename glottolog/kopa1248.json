@@ -1,0 +1,79 @@
+{
+  "pk": 3970,
+  "hid": "xop",
+  "father_pk": 2254,
+  "family_pk": 143,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kopar [kopa1248][xop]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3232",
+        "label": "Kopar"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q11732346",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kopar_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "661371",
+        "grammar",
+        2022,
+        266,
+        "Foley, William A. 2022"
+      ],
+      [
+        "548813",
+        "phonology_or_text",
+        2016,
+        24,
+        "Foley, William A. 2016"
+      ],
+      [
+        "91072",
+        "wordlist_or_less",
+        1919,
+        1,
+        "Sidney H. Ray 1919"
+      ]
+    ]
+  },
+  "id": "kopa1248",
+  "name": "Kopar",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.98259,
+  "longitude": 144.466,
+  "classification": [
+    {
+      "name": "Lower Sepik-Ramu",
+      "id": "lowe1437",
+      "url": "https://glottolog.org/resource/languoid/id/lowe1437"
+    },
+    {
+      "name": "Lower Sepik",
+      "id": "lowe1423",
+      "url": "https://glottolog.org/resource/languoid/id/lowe1423"
+    },
+    {
+      "name": "Nor",
+      "id": "norr1244",
+      "url": "https://glottolog.org/resource/languoid/id/norr1244"
+    }
+  ],
+  "iso639-3": "xop"
+}

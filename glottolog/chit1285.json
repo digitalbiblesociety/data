@@ -1,0 +1,63 @@
+{
+  "pk": 557,
+  "hid": "cit",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Chittagonian {Retired} [chit1285][cit]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "cit",
+      "name": "Chittagonian",
+      "change_request": "2006-048",
+      "effective": "2007-07-18",
+      "reason": "split",
+      "change_to": [
+        "rhg",
+        "ctg"
+      ],
+      "remedy": "Split into Rohingya [rhg], and Chittagonian (new identifier [ctg])",
+      "comment": "The Rohingya people claim to be indigenous to Rakhine State of Myanmar. They\nclaim descent from Arab traders who settled on the coast well over 1,000 years\nago and their local Muslim converts, and were the ruling class of the ancient\nKingdom of Arakan which until the mid 18th century covered part of Bangladesh's\nChittagong Division as well as Rakhine State. Proof of their long presence in\nMyanmar is found in the ruins of many ancient mosques in Rakhine State, some\nover 500 years old. The Myanmar government, however, claims that the Rohingya\nare recent immigrants from Bangladesh, and has suppressed their language and\nattempted to drive the entire population to Bangladesh whose government has not\naccepted them. The language is Indo-Aryan, with an admixture of Persian, Arabic\nand some Burmese vocabulary. Tonal distinctions exist, a feature of Burmese but\nnot usual in Indo-Aryan languages. Rohingya is closely related to but distinct\nfrom Chittagonian, which is reported to be understood by most men but not by\nmost women."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q33173",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Chittagonian_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500794",
+        "wordlist_or_less",
+        2006,
+        0,
+        "ISO 639-3 Registration Authority 2006"
+      ]
+    ]
+  },
+  "id": "chit1285",
+  "name": "Chittagonian (Retired)",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "cit"
+}

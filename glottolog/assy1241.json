@@ -1,0 +1,123 @@
+{
+  "pk": 22831,
+  "hid": "aii",
+  "father_pk": 21053,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Anhar [anha1242]':1,'Mar Bishu [marb1243]':1,'Nochiya [noch1239]':1,'Tergawar [terg1238]':1)'Central Assyrian Neo-Aramaic [cent2218]':1,'Iranian Koine [iran1268]':1,('Baz [bazz1238]':1,'Dez [dezz1235]':1,'Gavar {Aramaic} [gava1245]':1,'Jilu [jilu1238]':1,'Qudshanis [quds1238]':1,'Salamas [sala1281]':1,'Upper Barwari [uppe1449]':1,'Van {Aramaic} [vann1248]':1)'Northern Assyrian Neo-Aramaic [nort3096]':1,('Aradhin [arad1238]':1,'Benatha [bena1272]':1,'Daudiya [daud1238]':1,'Inishke [inis1238]':1,'Tina [tina1254]':1)'Sapna cluster [sapn1238]':1,('Sipurghan [sipu1244]':1,'Solduz [sold1238]':1,'Urmi [urmi1250]':1)'Urmian group [urmi1249]':1,('Christian Tiyare Neo-Aramaic [chri1234]':1,'Lewin [lewi1238]':1,'Lower Barwari [lowe1435]':1,'Tal {Aramaic} [tall1254]':1,'Tkhuma [tkhu1242]':1)'Western Group [west2765]':1)'Assyrian Neo-Aramaic [assy1241][aii]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 31,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/9329",
+        "label": "Aširat Northeastern Neo-Aramaic"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nsy",
+        "label": "Neo-Aramaic (Assyrian)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Suret_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q29440",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "138010",
+        "long_grammar",
+        2008,
+        746,
+        "Khan, Geoffrey 2008"
+      ],
+      [
+        "313856",
+        "long_grammar",
+        1868,
+        456,
+        "Nöldeke, Theodor 1868"
+      ],
+      [
+        "138041",
+        "grammar",
+        1855,
+        180,
+        "D. T. Stoddard 1855-1856"
+      ]
+    ]
+  },
+  "id": "assy1241",
+  "name": "Assyrian Neo-Aramaic",
+  "description": null,
+  "markup_description": null,
+  "latitude": 36.75,
+  "longitude": 43,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Semitic",
+      "id": "semi1276",
+      "url": "https://glottolog.org/resource/languoid/id/semi1276"
+    },
+    {
+      "name": "West Semitic",
+      "id": "west2786",
+      "url": "https://glottolog.org/resource/languoid/id/west2786"
+    },
+    {
+      "name": "Central Semitic",
+      "id": "cent2236",
+      "url": "https://glottolog.org/resource/languoid/id/cent2236"
+    },
+    {
+      "name": "Northwest Semitic",
+      "id": "nort3165",
+      "url": "https://glottolog.org/resource/languoid/id/nort3165"
+    },
+    {
+      "name": "Aramaic",
+      "id": "aram1259",
+      "url": "https://glottolog.org/resource/languoid/id/aram1259"
+    },
+    {
+      "name": "Imperial-Middle-Modern Aramaic",
+      "id": "impe1236",
+      "url": "https://glottolog.org/resource/languoid/id/impe1236"
+    },
+    {
+      "name": "Middle-Modern Aramaic",
+      "id": "midd1367",
+      "url": "https://glottolog.org/resource/languoid/id/midd1367"
+    },
+    {
+      "name": "Eastern Aramaic",
+      "id": "east2680",
+      "url": "https://glottolog.org/resource/languoid/id/east2680"
+    },
+    {
+      "name": "Central Eastern Aramaic",
+      "id": "cent2217",
+      "url": "https://glottolog.org/resource/languoid/id/cent2217"
+    },
+    {
+      "name": "North-Eastern Neo-Aramaic",
+      "id": "nort3241",
+      "url": "https://glottolog.org/resource/languoid/id/nort3241"
+    }
+  ],
+  "iso639-3": "aii"
+}

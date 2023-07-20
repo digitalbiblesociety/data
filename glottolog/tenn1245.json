@@ -1,0 +1,77 @@
+{
+  "pk": 7482,
+  "hid": "tct",
+  "father_pk": 5126,
+  "family_pk": 356,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Hedong [hedo1238]':1,'Hexi [hexi1238]':1,'Huishi {China} [huis1238]':1)'T''en [tenn1245][tct]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1430",
+        "label": "T'en"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3442330",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Then_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "158967",
+        "grammar",
+        1997,
+        242,
+        "Bo, Wenze 1997"
+      ],
+      [
+        "96368",
+        "grammar_sketch",
+        1967,
+        153,
+        "Li, Fang-Kuei 1967, 1968"
+      ]
+    ]
+  },
+  "id": "tenn1245",
+  "name": "T'en",
+  "description": null,
+  "markup_description": null,
+  "latitude": 25.6717,
+  "longitude": 107.309,
+  "classification": [
+    {
+      "name": "Tai-Kadai",
+      "id": "taik1256",
+      "url": "https://glottolog.org/resource/languoid/id/taik1256"
+    },
+    {
+      "name": "Kam-Tai",
+      "id": "kamt1241",
+      "url": "https://glottolog.org/resource/languoid/id/kamt1241"
+    },
+    {
+      "name": "Kam-Sui",
+      "id": "kams1241",
+      "url": "https://glottolog.org/resource/languoid/id/kams1241"
+    },
+    {
+      "name": "Then-MMS",
+      "id": "then1235",
+      "url": "https://glottolog.org/resource/languoid/id/then1235"
+    }
+  ],
+  "iso639-3": "tct"
+}

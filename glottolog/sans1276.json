@@ -1,0 +1,58 @@
+{
+  "pk": 488,
+  "hid": "sca",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Sansu [sans1276][sca]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "sca",
+      "name": "Sansu",
+      "change_request": "2011-076",
+      "effective": "2012-02-03",
+      "reason": "merge",
+      "change_to": [
+        "hle"
+      ],
+      "remedy": "Merged into Hlersu [hle]",
+      "comment": "Sansu is an alternate name for Hlersu. They are the same language group. The\nspeakers of Sansu identify themselves as \"Hlersu\"."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12641739",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500011",
+        "wordlist_or_less",
+        2011,
+        0,
+        "ISO 639-3 Registration Authority 2011"
+      ]
+    ]
+  },
+  "id": "sans1276",
+  "name": "Sansu",
+  "description": null,
+  "markup_description": null,
+  "latitude": 21.6402,
+  "longitude": 100.099,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "sca"
+}

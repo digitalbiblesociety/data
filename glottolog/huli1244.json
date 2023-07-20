@@ -1,0 +1,82 @@
+{
+  "pk": 4580,
+  "hid": "hui",
+  "father_pk": 2935,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Huli [huli1244][hui]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Huli_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3125121",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "151570",
+        "long_grammar",
+        1988,
+        470,
+        "Lomas, Gabe 1988"
+      ],
+      [
+        "16406",
+        "grammar_sketch",
+        1974,
+        114,
+        "Murray Rule 1974"
+      ],
+      [
+        "314335",
+        "wordlist_or_less",
+        1965,
+        21,
+        "Murray W. Rule 1965"
+      ],
+      [
+        "128519",
+        "wordlist_or_less",
+        1962,
+        2,
+        "Arthur Capell 1962"
+      ]
+    ]
+  },
+  "id": "huli1244",
+  "name": "Huli",
+  "description": null,
+  "markup_description": null,
+  "latitude": -5.97212,
+  "longitude": 142.963,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Enga-Kewa-Huli",
+      "id": "enga1254",
+      "url": "https://glottolog.org/resource/languoid/id/enga1254"
+    },
+    {
+      "name": "Kewa-Huli",
+      "id": "kewa1249",
+      "url": "https://glottolog.org/resource/languoid/id/kewa1249"
+    }
+  ],
+  "iso639-3": "hui"
+}

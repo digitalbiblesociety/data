@@ -1,0 +1,93 @@
+{
+  "pk": 6019,
+  "hid": "NOCODE_Lower-Riverland",
+  "father_pk": 4026,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Lower Riverland [lowe1402]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "NOCODE_Lower-Riverland",
+      "comment_type": "missing",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "The extinct Lower Riverland language (of the Lower Murray subgroup), is missing\n(**hh:w:Moorhouse:Wellington**, **hh:hw:Taplin:South-Australian**, **hh:w:Grimwade:Narinjari**, **hh:w:Pratt:Polynesian-Australian**, **hh:hvw:Horgen:Lower-Murray**, **hh:w:Taplin:Australian**, **hh:hw:Eyre:Central-Australia**, **hh:s:Moorhouse:Murray-River**)."
+    },
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q16920653",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ngayawung_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/lowe1402",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "125575",
+        "grammar_sketch",
+        1846,
+        76,
+        "Moorhouse, Matthew 1846"
+      ],
+      [
+        "21824",
+        "wordlist_or_less",
+        1845,
+        77,
+        "Eyre, Edward John 1845"
+      ]
+    ]
+  },
+  "id": "lowe1402",
+  "name": "Lower Riverland",
+  "description": null,
+  "markup_description": null,
+  "latitude": -34.6,
+  "longitude": 140.5,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Southeastern Pama-Nyungan",
+      "id": "sout3135",
+      "url": "https://glottolog.org/resource/languoid/id/sout3135"
+    },
+    {
+      "name": "Victorian Pama-Nyungan",
+      "id": "vict1234",
+      "url": "https://glottolog.org/resource/languoid/id/vict1234"
+    },
+    {
+      "name": "Lower Murray",
+      "id": "lowe1401",
+      "url": "https://glottolog.org/resource/languoid/id/lowe1401"
+    }
+  ]
+}

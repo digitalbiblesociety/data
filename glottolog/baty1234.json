@@ -1,0 +1,99 @@
+{
+  "pk": 11423,
+  "hid": "xby",
+  "father_pk": 8463,
+  "family_pk": 153,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "'Batyala [baty1234][xby]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "xby",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 has a separate entry for Batyala [xby], but this language was close enough linguistically to count as a variety of Kabikabi [gbw] (**hh:hvw:Breen:Western-Queensland:1971**, **hh:sd:Bell:Badjala**, **hh:hvwphon:Holmer:South-Eastern-Queensland**). See also: Kabikabi [gbw]."
+    },
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6772",
+        "label": "Batyala"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q31752631",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "560430",
+        "wordlist_or_less",
+        2018,
+        0,
+        "ISO 639-3 Registration Authority 2018"
+      ],
+      [
+        "500341",
+        "wordlist_or_less",
+        2012,
+        0,
+        "ISO 639-3 Registration Authority 2012"
+      ]
+    ]
+  },
+  "id": "baty1234",
+  "name": "Batyala",
+  "description": null,
+  "markup_description": null,
+  "latitude": -25.44486,
+  "longitude": 153.15399,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Southeastern Pama-Nyungan",
+      "id": "sout3135",
+      "url": "https://glottolog.org/resource/languoid/id/sout3135"
+    },
+    {
+      "name": "North Coast Pama-Nyungan",
+      "id": "nort3154",
+      "url": "https://glottolog.org/resource/languoid/id/nort3154"
+    },
+    {
+      "name": "Waka-Kabic",
+      "id": "waka1283",
+      "url": "https://glottolog.org/resource/languoid/id/waka1283"
+    },
+    {
+      "name": "Eastern Waka-Kabic",
+      "id": "east2717",
+      "url": "https://glottolog.org/resource/languoid/id/east2717"
+    },
+    {
+      "name": "Kabikabi",
+      "id": "kabi1260",
+      "url": "https://glottolog.org/resource/languoid/id/kabi1260"
+    }
+  ],
+  "iso639-3": "xby"
+}

@@ -1,0 +1,102 @@
+{
+  "pk": 20254,
+  "hid": "lyn",
+  "father_pk": 18235,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kwandi [kwan1274]':1,'Kwangwa [kwan1275]':1,'Mbumi [mbum1255]':1,'Mdundulu [mdun1238]':1,'Mishulundu [mish1242]':1)'Luyi [luya1241][lyn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3268098",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Luyana_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/luya1241",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "155689",
+        "grammar_sketch",
+        1896,
+        159,
+        "Jacottet, E. 1896"
+      ],
+      [
+        "140092",
+        "wordlist_or_less",
+        1881,
+        0,
+        "Capello, Hermengildo Augusto de Brito and Ivens, Roberto 1881"
+      ]
+    ]
+  },
+  "id": "luya1241",
+  "name": "Luyi",
+  "description": null,
+  "markup_description": null,
+  "latitude": -15.01,
+  "longitude": 22.67,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Narrow Bantu",
+      "id": "narr1281",
+      "url": "https://glottolog.org/resource/languoid/id/narr1281"
+    },
+    {
+      "name": "Central-Western Bantu",
+      "id": "cent2260",
+      "url": "https://glottolog.org/resource/languoid/id/cent2260"
+    },
+    {
+      "name": "Greater Luyana",
+      "id": "grea1287",
+      "url": "https://glottolog.org/resource/languoid/id/grea1287"
+    },
+    {
+      "name": "Eastern Greater Luyana",
+      "id": "east2747",
+      "url": "https://glottolog.org/resource/languoid/id/east2747"
+    }
+  ],
+  "iso639-3": "lyn"
+}

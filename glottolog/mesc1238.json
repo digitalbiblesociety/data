@@ -1,0 +1,130 @@
+{
+  "pk": 11700,
+  "hid": "apm",
+  "father_pk": 8892,
+  "family_pk": 238,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mescalero-Chiricahua Apache [mesc1238][apm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_apc",
+        "label": "Apache (Chiricahua)"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/1925",
+        "label": "Mescalero-Chiricahua"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mescalero-Chiricahua_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/mesc1238",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q13368",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "302794",
+        "grammar_sketch",
+        1988,
+        84,
+        "Pinnow, Jürgen 1988"
+      ],
+      [
+        "575692",
+        "grammar_sketch",
+        1955,
+        35,
+        "Opler, Morris E. 1955"
+      ],
+      [
+        "106297",
+        "grammar_sketch",
+        1946,
+        30,
+        "Harry Hoijer 1946"
+      ],
+      [
+        "575691",
+        "grammar_sketch",
+        1937,
+        24,
+        "Opler, M. 1937"
+      ],
+      [
+        "575703",
+        "wordlist_or_less",
+        1936,
+        17,
+        "Opler, M. E. 1936"
+      ],
+      [
+        "571356",
+        "wordlist_or_less",
+        1932,
+        8,
+        "Flannery, R. 1932"
+      ],
+      [
+        "304489",
+        "wordlist_or_less",
+        1906,
+        26,
+        "Morice, A. G. 1906"
+      ]
+    ]
+  },
+  "id": "mesc1238",
+  "name": "Mescalero-Chiricahua Apache",
+  "description": null,
+  "markup_description": null,
+  "latitude": 33.1291,
+  "longitude": -105.566,
+  "classification": [
+    {
+      "name": "Athabaskan-Eyak-Tlingit",
+      "id": "atha1245",
+      "url": "https://glottolog.org/resource/languoid/id/atha1245"
+    },
+    {
+      "name": "Athabaskan-Eyak",
+      "id": "atha1246",
+      "url": "https://glottolog.org/resource/languoid/id/atha1246"
+    },
+    {
+      "name": "Athabaskan",
+      "id": "atha1247",
+      "url": "https://glottolog.org/resource/languoid/id/atha1247"
+    },
+    {
+      "name": "Apachean",
+      "id": "apac1239",
+      "url": "https://glottolog.org/resource/languoid/id/apac1239"
+    },
+    {
+      "name": "Southwestern Apachean",
+      "id": "sout3151",
+      "url": "https://glottolog.org/resource/languoid/id/sout3151"
+    },
+    {
+      "name": "Western Southwestern Apachean",
+      "id": "west2810",
+      "url": "https://glottolog.org/resource/languoid/id/west2810"
+    }
+  ],
+  "iso639-3": "apm"
+}

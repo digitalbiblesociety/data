@@ -1,0 +1,58 @@
+{
+  "pk": 519,
+  "hid": "tmk",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Northwestern Tamang [nort3144][tmk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "tmk",
+      "name": "Northwestern Tamang",
+      "change_request": "2022-001",
+      "effective": "2023-01-20",
+      "reason": "merge",
+      "change_to": [
+        "tdg"
+      ],
+      "remedy": "Merged into [tdg] Western Tamang",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q15616509",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "666877",
+        "wordlist_or_less",
+        2022,
+        0,
+        "ISO 639-3 Registration Authority 2022"
+      ]
+    ]
+  },
+  "id": "nort3144",
+  "name": "Northwestern Tamang",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.9087,
+  "longitude": 85.1648,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "tmk"
+}

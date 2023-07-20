@@ -1,0 +1,86 @@
+{
+  "pk": 17520,
+  "hid": "lek",
+  "father_pk": 15196,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Leipon [leip1237][lek]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3229216",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Leipon_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "36109",
+        "wordlist_or_less",
+        1975,
+        3,
+        "Z'graggen, Johannes A. 1975"
+      ]
+    ]
+  },
+  "id": "leip1237",
+  "name": "Leipon",
+  "description": null,
+  "markup_description": null,
+  "latitude": -1.9665,
+  "longitude": 147.226,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Admiralty Islands",
+      "id": "admi1239",
+      "url": "https://glottolog.org/resource/languoid/id/admi1239"
+    },
+    {
+      "name": "Eastern Admiralty Islands",
+      "id": "east2459",
+      "url": "https://glottolog.org/resource/languoid/id/east2459"
+    },
+    {
+      "name": "Manus",
+      "id": "manu1262",
+      "url": "https://glottolog.org/resource/languoid/id/manu1262"
+    },
+    {
+      "name": "East Manus",
+      "id": "east2460",
+      "url": "https://glottolog.org/resource/languoid/id/east2460"
+    }
+  ],
+  "iso639-3": "lek"
+}

@@ -1,0 +1,82 @@
+{
+  "pk": 9166,
+  "hid": "wsk",
+  "father_pk": 6648,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Waskia [wask1241][wsk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_wsk",
+        "label": "Waskia"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Waskia_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7972683",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "145471",
+        "grammar",
+        1978,
+        124,
+        "Malcolm Ross and John Natu Paol 1978"
+      ],
+      [
+        "87584",
+        "wordlist_or_less",
+        1893,
+        0,
+        "B. K. Bergmann and G. Kunze 1893"
+      ]
+    ]
+  },
+  "id": "wask1241",
+  "name": "Waskia",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.57978,
+  "longitude": 145.979,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Madang",
+      "id": "mada1298",
+      "url": "https://glottolog.org/resource/languoid/id/mada1298"
+    },
+    {
+      "name": "Croisilles",
+      "id": "croi1234",
+      "url": "https://glottolog.org/resource/languoid/id/croi1234"
+    },
+    {
+      "name": "Greater Northern Adelbert",
+      "id": "grea1298",
+      "url": "https://glottolog.org/resource/languoid/id/grea1298"
+    },
+    {
+      "name": "Kowan",
+      "id": "kowa1247",
+      "url": "https://glottolog.org/resource/languoid/id/kowa1247"
+    }
+  ],
+  "iso639-3": "wsk"
+}

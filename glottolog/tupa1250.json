@@ -1,0 +1,109 @@
+{
+  "pk": 5541,
+  "hid": "tpr",
+  "father_pk": 3641,
+  "family_pk": 51,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tuparí [tupa1250][tpr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2127",
+        "label": "Tuparí"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3542217",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tupari_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/tupa1250",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "577289",
+        "long_grammar",
+        2018,
+        443,
+        "Singerman, Adam Roth 2018"
+      ],
+      [
+        "547892",
+        "grammar_sketch",
+        2017,
+        114,
+        "Aryon Dall'Igna Rodrigues and Franz Caspar 2017"
+      ],
+      [
+        "20580",
+        "phonology_or_text",
+        2004,
+        272,
+        "Alves, Poliana 2004"
+      ],
+      [
+        "69293",
+        "phonology_or_text",
+        1991,
+        0,
+        "Alves, Poliana Maria 1991"
+      ],
+      [
+        "19178",
+        "wordlist_or_less",
+        1955,
+        5,
+        "Etta Becker-Donner 1955"
+      ],
+      [
+        "302809",
+        "wordlist_or_less",
+        1937,
+        31,
+        "Snethlage, Emil Heinrich 1937"
+      ]
+    ]
+  },
+  "id": "tupa1250",
+  "name": "Tuparí",
+  "description": null,
+  "markup_description": null,
+  "latitude": -11.8884,
+  "longitude": -62.2544,
+  "classification": [
+    {
+      "name": "Tupian",
+      "id": "tupi1275",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1275"
+    },
+    {
+      "name": "Tuparic",
+      "id": "tupa1251",
+      "url": "https://glottolog.org/resource/languoid/id/tupa1251"
+    },
+    {
+      "name": "Nuclear Tuparic",
+      "id": "nucl1716",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1716"
+    },
+    {
+      "name": "Wayoro-Tupari",
+      "id": "wayo1240",
+      "url": "https://glottolog.org/resource/languoid/id/wayo1240"
+    }
+  ],
+  "iso639-3": "tpr"
+}

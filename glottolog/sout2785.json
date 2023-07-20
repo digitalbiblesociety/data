@@ -1,0 +1,101 @@
+{
+  "pk": 12751,
+  "hid": "gso",
+  "father_pk": 9842,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Southwest Gbaya [sout2785][gso]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Biyanda-Buli_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_gbs",
+        "label": "Gbaya (Southwest)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q4919322",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "101158",
+        "grammar_sketch",
+        1962,
+        72,
+        "Hilberth, John 1962"
+      ],
+      [
+        "97988",
+        "grammar_sketch",
+        1934,
+        31,
+        "Hilberth, John 1934"
+      ],
+      [
+        "133932",
+        "wordlist_or_less",
+        1900,
+        64,
+        "Landréau, Léopold 1900"
+      ],
+      [
+        "101772",
+        "wordlist_or_less",
+        1896,
+        24,
+        "Clozel, F.-J. 1896"
+      ]
+    ]
+  },
+  "id": "sout2785",
+  "name": "Southwest Gbaya",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.70037,
+  "longitude": 14.9569,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "North Volta-Congo",
+      "id": "nort3149",
+      "url": "https://glottolog.org/resource/languoid/id/nort3149"
+    },
+    {
+      "name": "Gbaya-Manza-Ngbaka",
+      "id": "gbay1279",
+      "url": "https://glottolog.org/resource/languoid/id/gbay1279"
+    },
+    {
+      "name": "Gbaya Meridional-Occidental",
+      "id": "gbay1282",
+      "url": "https://glottolog.org/resource/languoid/id/gbay1282"
+    },
+    {
+      "name": "Gbaya Meridional",
+      "id": "gbay1284",
+      "url": "https://glottolog.org/resource/languoid/id/gbay1284"
+    }
+  ],
+  "iso639-3": "gso"
+}

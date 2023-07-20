@@ -1,0 +1,112 @@
+{
+  "pk": 10791,
+  "hid": "jct",
+  "father_pk": 7840,
+  "family_pk": 14,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Krymchak [krym1236][jct]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1739",
+        "label": "Krymchak"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kym",
+        "label": "Krymchak"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Krymchak_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33723",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "580262",
+        "grammar_sketch",
+        2005,
+        239,
+        "Güllüdağ, Nesrin 2005"
+      ],
+      [
+        "300819",
+        "grammar_sketch",
+        2004,
+        113,
+        "Rebi, David I. 2004"
+      ],
+      [
+        "307886",
+        "grammar_sketch",
+        1997,
+        11,
+        "Rebi, David I. and B. M. Ačkinazi and I. V. Ačkinazi 1997"
+      ],
+      [
+        "576105",
+        "phonology_or_text",
+        1992,
+        8,
+        "Maria S. Polinsky 1992"
+      ],
+      [
+        "571315",
+        "phonology_or_text",
+        1972,
+        31,
+        "Filonenko, V.I. 1972"
+      ]
+    ]
+  },
+  "id": "krym1236",
+  "name": "Krymchak",
+  "description": null,
+  "markup_description": null,
+  "latitude": 34.099,
+  "longitude": 34.509,
+  "classification": [
+    {
+      "name": "Turkic",
+      "id": "turk1311",
+      "url": "https://glottolog.org/resource/languoid/id/turk1311"
+    },
+    {
+      "name": "Common Turkic",
+      "id": "comm1245",
+      "url": "https://glottolog.org/resource/languoid/id/comm1245"
+    },
+    {
+      "name": "Kipchak",
+      "id": "kipc1239",
+      "url": "https://glottolog.org/resource/languoid/id/kipc1239"
+    },
+    {
+      "name": "West Kipchak",
+      "id": "west1472",
+      "url": "https://glottolog.org/resource/languoid/id/west1472"
+    },
+    {
+      "name": "Crimean Tatar-Urum",
+      "id": "crim1256",
+      "url": "https://glottolog.org/resource/languoid/id/crim1256"
+    },
+    {
+      "name": "Crimeaic",
+      "id": "crim1259",
+      "url": "https://glottolog.org/resource/languoid/id/crim1259"
+    }
+  ],
+  "iso639-3": "jct"
+}

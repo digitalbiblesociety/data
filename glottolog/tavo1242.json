@@ -1,0 +1,102 @@
+{
+  "pk": 15975,
+  "hid": "tvn",
+  "father_pk": 13185,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dawei [dawe1238]':1,'Myeik [merg1238]':1,'Palaw [pala1339]':1)'Tavoyan [tavo1242][tvn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7689158",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tavoyan_dialects",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "177752",
+        "grammar_sketch",
+        1995,
+        46,
+        "Okell, John 1995"
+      ],
+      [
+        "553568",
+        "phonology_or_text",
+        1979,
+        0,
+        "Khin Pale 1979"
+      ],
+      [
+        "159089",
+        "wordlist_or_less",
+        1933,
+        16,
+        "Pe Maung Tin 1933"
+      ],
+      [
+        "103772",
+        "wordlist_or_less",
+        1922,
+        1,
+        "Taylor, L. F. 1922"
+      ]
+    ]
+  },
+  "id": "tavo1242",
+  "name": "Tavoyan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 14.1078,
+  "longitude": 98.194,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Burmo-Qiangic",
+      "id": "burm1265",
+      "url": "https://glottolog.org/resource/languoid/id/burm1265"
+    },
+    {
+      "name": "Lolo-Burmese",
+      "id": "lolo1265",
+      "url": "https://glottolog.org/resource/languoid/id/lolo1265"
+    },
+    {
+      "name": "Burmish",
+      "id": "burm1266",
+      "url": "https://glottolog.org/resource/languoid/id/burm1266"
+    },
+    {
+      "name": "Southern Burmish",
+      "id": "sout3159",
+      "url": "https://glottolog.org/resource/languoid/id/sout3159"
+    },
+    {
+      "name": "Mranmaic",
+      "id": "mran1234",
+      "url": "https://glottolog.org/resource/languoid/id/mran1234"
+    },
+    {
+      "name": "Nuclear Mranmaic",
+      "id": "nucl1811",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1811"
+    }
+  ],
+  "iso639-3": "tvn"
+}

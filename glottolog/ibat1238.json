@@ -1,0 +1,89 @@
+{
+  "pk": 4658,
+  "hid": "ivb",
+  "father_pk": 2962,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Babuyan [babu1242]':1,'Basco Ivatan [basc1238]':1,'Southern Ivatan [sout2903]':1)'Ibatan [ibat1238][ivb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_iva",
+        "label": "Ivatan"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q18748212",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "77618",
+        "long_grammar",
+        2007,
+        438,
+        "Rundell D. Maree 2007"
+      ],
+      [
+        "9700",
+        "grammar",
+        1971,
+        273,
+        "Hidalgo, Cesar A. and Araceli Hidalgo 1971"
+      ],
+      [
+        "19306",
+        "grammar",
+        1966,
+        160,
+        "Reid, Lawrence A. 1966"
+      ],
+      [
+        "9229",
+        "phonology_or_text",
+        1933,
+        278,
+        "Padres Dominicos Españoles Misioneros 1933"
+      ],
+      [
+        "28747",
+        "wordlist_or_less",
+        1908,
+        76,
+        "Otto Scheerer 1908"
+      ]
+    ]
+  },
+  "id": "ibat1238",
+  "name": "Ibatan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 18.9398,
+  "longitude": 121.909,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Batanic",
+      "id": "bata1315",
+      "url": "https://glottolog.org/resource/languoid/id/bata1315"
+    }
+  ],
+  "iso639-3": "ivb"
+}

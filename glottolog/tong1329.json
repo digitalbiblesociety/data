@@ -1,0 +1,80 @@
+{
+  "pk": 6125,
+  "hid": "xgf",
+  "father_pk": 4115,
+  "family_pk": 155,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tongva [tong1329][xgf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56387",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tongva_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "74759",
+        "phonology_or_text",
+        2000,
+        19,
+        "Munro, Pamela 2000"
+      ],
+      [
+        "302778",
+        "wordlist_or_less",
+        1856,
+        22,
+        "Buschmann, Johann C. E. 1856"
+      ],
+      [
+        "130432",
+        "wordlist_or_less",
+        1846,
+        13,
+        "Horatio Hale 1846"
+      ]
+    ]
+  },
+  "id": "tong1329",
+  "name": "Tongva",
+  "description": null,
+  "markup_description": null,
+  "latitude": 34.1,
+  "longitude": -118.11,
+  "classification": [
+    {
+      "name": "Uto-Aztecan",
+      "id": "utoa1244",
+      "url": "https://glottolog.org/resource/languoid/id/utoa1244"
+    },
+    {
+      "name": "Northern Uto-Aztecan",
+      "id": "nort2953",
+      "url": "https://glottolog.org/resource/languoid/id/nort2953"
+    },
+    {
+      "name": "Californian Uto-Aztecan",
+      "id": "cali1246",
+      "url": "https://glottolog.org/resource/languoid/id/cali1246"
+    },
+    {
+      "name": "Serran",
+      "id": "serr1254",
+      "url": "https://glottolog.org/resource/languoid/id/serr1254"
+    }
+  ],
+  "iso639-3": "xgf"
+}

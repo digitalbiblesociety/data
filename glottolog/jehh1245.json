@@ -1,0 +1,96 @@
+{
+  "pk": 10604,
+  "hid": "jeh",
+  "father_pk": 7704,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Jeh Bri La [jehb1240]':1,'Jeh Mang Ram [jehm1239]':1)'Jeh [jehh1245][jeh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_jeh",
+        "label": "Jeh"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Jeh_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3914636",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "42725",
+        "grammar_sketch",
+        1976,
+        51,
+        "Dwight Gradin 1976, 1976"
+      ],
+      [
+        "312033",
+        "wordlist_or_less",
+        1970,
+        0,
+        "Cohen, Pat, compiler 2009 [1970-08]"
+      ],
+      [
+        "62950",
+        "wordlist_or_less",
+        1967,
+        5,
+        "Thomas, David and Marilyn Smith 1967"
+      ],
+      [
+        "78408",
+        "wordlist_or_less",
+        1966,
+        13,
+        "Gradin, Dwight 1966"
+      ]
+    ]
+  },
+  "id": "jehh1245",
+  "name": "Jeh",
+  "description": null,
+  "markup_description": null,
+  "latitude": 15.2351,
+  "longitude": 107.753,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Bahnaric",
+      "id": "bahn1264",
+      "url": "https://glottolog.org/resource/languoid/id/bahn1264"
+    },
+    {
+      "name": "North Bahnaric",
+      "id": "nort3150",
+      "url": "https://glottolog.org/resource/languoid/id/nort3150"
+    },
+    {
+      "name": "Kayong-Jeh-Halang",
+      "id": "jehh1244",
+      "url": "https://glottolog.org/resource/languoid/id/jehh1244"
+    },
+    {
+      "name": "Jeh-Halang",
+      "id": "jehh1246",
+      "url": "https://glottolog.org/resource/languoid/id/jehh1246"
+    }
+  ],
+  "iso639-3": "jeh"
+}

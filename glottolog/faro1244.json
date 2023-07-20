@@ -1,0 +1,117 @@
+{
+  "pk": 14034,
+  "hid": "fao",
+  "father_pk": 10934,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Faroese [faro1244][fao]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_far",
+        "label": "Faroese"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Faroese_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/faro1244",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q25258",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "568022",
+        "long_grammar",
+        2014,
+        765,
+        "Jonathan Adams and Hjalmar P. Petersen 2014"
+      ],
+      [
+        "57459",
+        "long_grammar",
+        2004,
+        501,
+        "Thráinsson, Höskuldur 2004"
+      ],
+      [
+        "132860",
+        "grammar",
+        1977,
+        253,
+        "W. B. Lockwood 1977"
+      ],
+      [
+        "51996",
+        "grammar",
+        1940,
+        139,
+        "Ernst Krenn 1940"
+      ],
+      [
+        "549262",
+        "grammar_sketch",
+        1854,
+        84,
+        "V. U. Hammershaimb 1854"
+      ]
+    ]
+  },
+  "id": "faro1244",
+  "name": "Faroese",
+  "description": null,
+  "markup_description": null,
+  "latitude": 62.0732,
+  "longitude": -6.88497,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Germanic",
+      "id": "germ1287",
+      "url": "https://glottolog.org/resource/languoid/id/germ1287"
+    },
+    {
+      "name": "Northwest Germanic",
+      "id": "nort3152",
+      "url": "https://glottolog.org/resource/languoid/id/nort3152"
+    },
+    {
+      "name": "North Germanic",
+      "id": "nort3160",
+      "url": "https://glottolog.org/resource/languoid/id/nort3160"
+    },
+    {
+      "name": "West Scandinavian",
+      "id": "west2805",
+      "url": "https://glottolog.org/resource/languoid/id/west2805"
+    },
+    {
+      "name": "Icelandic-Faroese",
+      "id": "icel1246",
+      "url": "https://glottolog.org/resource/languoid/id/icel1246"
+    }
+  ],
+  "iso639-3": "fao"
+}

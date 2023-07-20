@@ -1,0 +1,95 @@
+{
+  "pk": 15246,
+  "hid": "bbn",
+  "father_pk": 12451,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Uneapa [unea1237][bbn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7884126",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Uneapa_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "35234",
+        "grammar_sketch",
+        2002,
+        25,
+        "Malcolm Ross 2002"
+      ],
+      [
+        "123329",
+        "wordlist_or_less",
+        1980,
+        2,
+        "Raymond Leslie Johnston 1980"
+      ],
+      [
+        "64585",
+        "wordlist_or_less",
+        1969,
+        1,
+        "Chowning, Ann 1969"
+      ]
+    ]
+  },
+  "id": "unea1237",
+  "name": "Uneapa",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.89383,
+  "longitude": 149.141,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Western Oceanic linkage",
+      "id": "west2818",
+      "url": "https://glottolog.org/resource/languoid/id/west2818"
+    },
+    {
+      "name": "Meso Melanesian linkage",
+      "id": "meso1253",
+      "url": "https://glottolog.org/resource/languoid/id/meso1253"
+    },
+    {
+      "name": "Bali-Vitu",
+      "id": "bali1280",
+      "url": "https://glottolog.org/resource/languoid/id/bali1280"
+    }
+  ],
+  "iso639-3": "bbn"
+}

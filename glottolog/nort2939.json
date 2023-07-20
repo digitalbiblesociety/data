@@ -1,0 +1,86 @@
+{
+  "pk": 10682,
+  "hid": "neq",
+  "father_pk": 7777,
+  "family_pk": 3,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Atitlín Mixe [atit1238]':1,'Cotzocón Mixe [cotz1238]':1,'Mixe de San Juan Cotzocón [mixe1283]':1,'Mixistlan [mixi1242]':1,'Olotepec [olot1240]':1,'Puxmetecín [puxm1238]':1,'Zacatepec [zaca1240]':1)'North Central Mixe [nort2939][neq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q25559729",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "320163",
+        "phonology_or_text",
+        2009,
+        152,
+        "Reyes Gómez, Juan Carlos 2009"
+      ],
+      [
+        "137823",
+        "phonology_or_text",
+        1995,
+        107,
+        "Søren Wichmann 1995"
+      ],
+      [
+        "461706",
+        "wordlist_or_less",
+        1940,
+        13,
+        "de la Cerda Silva, Roberto 1940"
+      ]
+    ]
+  },
+  "id": "nort2939",
+  "name": "North Central Mixe",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.17947,
+  "longitude": -95.70318,
+  "classification": [
+    {
+      "name": "Mixe-Zoque",
+      "id": "mixe1284",
+      "url": "https://glottolog.org/resource/languoid/id/mixe1284"
+    },
+    {
+      "name": "Mixe",
+      "id": "mixe1286",
+      "url": "https://glottolog.org/resource/languoid/id/mixe1286"
+    },
+    {
+      "name": "Oaxaca Mixe",
+      "id": "oaxa1241",
+      "url": "https://glottolog.org/resource/languoid/id/oaxa1241"
+    },
+    {
+      "name": "Lowland-Midland-South Highland Mixe",
+      "id": "lowl1268",
+      "url": "https://glottolog.org/resource/languoid/id/lowl1268"
+    },
+    {
+      "name": "Lowland-Midland Mixe",
+      "id": "lowl1269",
+      "url": "https://glottolog.org/resource/languoid/id/lowl1269"
+    },
+    {
+      "name": "Midland Mixe",
+      "id": "midl1241",
+      "url": "https://glottolog.org/resource/languoid/id/midl1241"
+    }
+  ],
+  "iso639-3": "neq"
+}

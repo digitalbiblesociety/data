@@ -1,0 +1,119 @@
+{
+  "pk": 4180,
+  "hid": "esu",
+  "father_pk": 2400,
+  "family_pk": 172,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('General Central Yup''ik [kusk1241]':1,'Hooper Bay-Chevak [hoop1234]':1,'Nunivak [nuni1254]':1,'Unaliq [unal1234]':1)'Central Alaskan Yupik [cent2127][esu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/845",
+        "label": "Central Alaskan Yup'ik"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ypk",
+        "label": "Yup'ik (Central)"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ych",
+        "label": "Yup'ik (Chevak)"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_yun",
+        "label": "Yup'ik (Norton Sound)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Central_Alaskan_Yup%27ik_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q21117",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "132120",
+        "long_grammar",
+        2012,
+        1709,
+        "Osahito Miyaoka 2012"
+      ],
+      [
+        "134481",
+        "long_grammar",
+        1995,
+        560,
+        "Steven A. Jacobson 1995"
+      ],
+      [
+        "75549",
+        "long_grammar",
+        1981,
+        515,
+        "Woodbury, Anthony Cabot 1981"
+      ],
+      [
+        "98823",
+        "long_grammar",
+        1977,
+        338,
+        "Reed, Irene 1977"
+      ],
+      [
+        "550812",
+        "grammar",
+        1966,
+        0,
+        "Mithun, Marianne 1966"
+      ],
+      [
+        "37933",
+        "grammar_sketch",
+        1944,
+        104,
+        "John Hinz 1944"
+      ],
+      [
+        "577029",
+        "grammar_sketch",
+        1894,
+        35,
+        "Augustus Schultze 1894"
+      ]
+    ]
+  },
+  "id": "cent2127",
+  "name": "Central Alaskan Yupik",
+  "description": null,
+  "markup_description": null,
+  "latitude": 60.3062,
+  "longitude": -161.486,
+  "classification": [
+    {
+      "name": "Eskimo-Aleut",
+      "id": "eski1264",
+      "url": "https://glottolog.org/resource/languoid/id/eski1264"
+    },
+    {
+      "name": "Eskimo",
+      "id": "eski1265",
+      "url": "https://glottolog.org/resource/languoid/id/eski1265"
+    },
+    {
+      "name": "Yupik",
+      "id": "yupi1267",
+      "url": "https://glottolog.org/resource/languoid/id/yupi1267"
+    }
+  ],
+  "iso639-3": "esu"
+}

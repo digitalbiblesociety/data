@@ -1,0 +1,90 @@
+{
+  "pk": 13536,
+  "hid": "jge",
+  "father_pk": 10469,
+  "family_pk": 378,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "'Judeo-Georgian [jude1258][jge]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q35737",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Judaeo-Georgian",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "547375",
+        "grammar_sketch",
+        1993,
+        309,
+        "Ben-Oren, Gershon 1993"
+      ],
+      [
+        "547374",
+        "wordlist_or_less",
+        1987,
+        13,
+        "Ben-Oren, Gershon and Wolf Moskovich 1987"
+      ],
+      [
+        "151535",
+        "wordlist_or_less",
+        1982,
+        6,
+        "Wolf Moskovich and Gershon Ben-Oren 1982"
+      ]
+    ]
+  },
+  "id": "jude1258",
+  "name": "Judeo-Georgian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 31.5,
+  "longitude": 34.75,
+  "classification": [
+    {
+      "name": "Kartvelian",
+      "id": "kart1248",
+      "url": "https://glottolog.org/resource/languoid/id/kart1248"
+    },
+    {
+      "name": "Georgian-Zan",
+      "id": "geor1252",
+      "url": "https://glottolog.org/resource/languoid/id/geor1252"
+    },
+    {
+      "name": "Georgic",
+      "id": "geor1253",
+      "url": "https://glottolog.org/resource/languoid/id/geor1253"
+    },
+    {
+      "name": "Georgian",
+      "id": "nucl1302",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1302"
+    },
+    {
+      "name": "Northwest Georgian",
+      "id": "nort3381",
+      "url": "https://glottolog.org/resource/languoid/id/nort3381"
+    },
+    {
+      "name": "Imeretian-Judeo-Georgian",
+      "id": "imer1250",
+      "url": "https://glottolog.org/resource/languoid/id/imer1250"
+    }
+  ],
+  "iso639-3": "jge"
+}

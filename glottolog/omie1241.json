@@ -1,0 +1,67 @@
+{
+  "pk": 2994,
+  "hid": "aom",
+  "father_pk": 1534,
+  "family_pk": 290,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Asapa [asap1239]':1,'Gora-Bomahouji [gora1266]':1,'Zuwadza [zuwa1238]':1)'Ömie [omie1241][aom]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/%C3%96mie_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q8078975",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_omi",
+        "label": "Ömie"
+      }
+    ],
+    "meds": [
+      [
+        "89697",
+        "grammar_sketch",
+        1975,
+        86,
+        "Austing, John F. and Randolph Upia 1975"
+      ],
+      [
+        "475541",
+        "grammar_sketch",
+        1969,
+        11,
+        "Dutton, Thomas Edward 1969"
+      ]
+    ]
+  },
+  "id": "omie1241",
+  "name": "Ömie",
+  "description": null,
+  "markup_description": null,
+  "latitude": -9.03136,
+  "longitude": 148.107,
+  "classification": [
+    {
+      "name": "Koiarian",
+      "id": "koia1260",
+      "url": "https://glottolog.org/resource/languoid/id/koia1260"
+    },
+    {
+      "name": "Baraic",
+      "id": "bara1376",
+      "url": "https://glottolog.org/resource/languoid/id/bara1376"
+    }
+  ],
+  "iso639-3": "aom"
+}

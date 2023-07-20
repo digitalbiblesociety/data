@@ -1,0 +1,88 @@
+{
+  "pk": 12183,
+  "hid": "sul",
+  "father_pk": 9280,
+  "family_pk": 289,
+  "level": "family",
+  "bookkeeping": false,
+  "category": "Family",
+  "newick": "(('Cantilan [cant1244]':1,'Jaun-Jaun [jaun1245]':1,'Nuclear Surigaonon [nucl1547]':1)'Surigaonon [suri1273][sgd]-l-':1,('Naturalis [natu1247]':1)'Tandaganon [tand1258][tgn]-l-':1)'Surigao [suri1274][sul]':1",
+  "child_family_count": 0,
+  "child_language_count": 2,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "sul",
+      "name": "Surigaonon",
+      "change_request": "2009-087",
+      "effective": "2010-01-18",
+      "reason": "split",
+      "change_to": [
+        "tgn",
+        "sgd"
+      ],
+      "remedy": "Split into Tandaganon [tgn] and Surigaonon [sgd] (new identifier)",
+      "comment": "The Tandaganon language is distinct from Surigaonon and from other languages in\nnortheastern Mindanao (Butuanon, Kamayo, Mamanwa, Manobo) and other Philippine\nlanguages. It was included in the Zorc dissertation/monograph on Bisayan\nlanguages, but overlooked by all other researchers afterwards (but will be\nincluded in the forthcoming Lobel dissertation, where it is treated a distinct\nlanguage). Zorc's dissertation treats Tandaganon as coordinate with Surigaonon,\nas does the forthcoming Lobel dissertation. Native speakers of this language\nrefer to it as \"Tandaganon\" or \"Tagon-on\" and not as Surigaonon. It is different\nenough from Surigaonon that Surigaonon speakers refer to it as \"Kamayo\" (which\nis the next language to the south of Tandaganon); On the other hand, it is\ndifferent enough from Kamayo that Kamayo speakers refer to it as \"Tandaganon\",\n\"Tagon- on\", or \"Surigaonon\". Tandaganon speakers often have intelligibility of\nSurigaonon because Surigaonon speakers from northern Surigao del Sur often come\nto Tandag (the provincial capitol) in order to conduct business. Surigaonon\nspeakers (and especially those from outside of Surigao del Sur province) have\nmuch less understanding of Tandaganon, and as previously stated, often\nmistakenly refer to it as \"Kamayo\", a language which is even more different from\nSurigaonon."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q34140",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Surigaonon_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500817",
+        "wordlist_or_less",
+        2009,
+        0,
+        "ISO 639-3 Registration Authority 2009"
+      ]
+    ]
+  },
+  "id": "suri1274",
+  "name": "Surigao",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Greater Central Philippine",
+      "id": "grea1284",
+      "url": "https://glottolog.org/resource/languoid/id/grea1284"
+    },
+    {
+      "name": "Central Philippine",
+      "id": "cent2246",
+      "url": "https://glottolog.org/resource/languoid/id/cent2246"
+    },
+    {
+      "name": "Bisayan",
+      "id": "bisa1268",
+      "url": "https://glottolog.org/resource/languoid/id/bisa1268"
+    },
+    {
+      "name": "South Bisayan",
+      "id": "sout3175",
+      "url": "https://glottolog.org/resource/languoid/id/sout3175"
+    }
+  ],
+  "iso639-3": "sul"
+}

@@ -1,0 +1,88 @@
+{
+  "pk": 5684,
+  "hid": "ian",
+  "father_pk": 3744,
+  "family_pk": 92,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Nyaura [nyau1244]':1,'Palimbei [pali1278]':1)'Iatmul [iatm1242][ian]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10608",
+        "label": "Iatmul"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_iat",
+        "label": "Iatmul"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Iatm%C3%BCl_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5983460",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "315920",
+        "long_grammar",
+        2012,
+        579,
+        "Gerd Jendraschek 2012"
+      ],
+      [
+        "568770",
+        "grammar_sketch",
+        1932,
+        98,
+        "Bateson, G. 1932"
+      ],
+      [
+        "57662",
+        "wordlist_or_less",
+        1891,
+        4,
+        "Zöller, Hugo 1891"
+      ]
+    ]
+  },
+  "id": "iatm1242",
+  "name": "Iatmul",
+  "description": null,
+  "markup_description": null,
+  "latitude": -4.30064,
+  "longitude": 143.316,
+  "classification": [
+    {
+      "name": "Ndu",
+      "id": "nduu1242",
+      "url": "https://glottolog.org/resource/languoid/id/nduu1242"
+    },
+    {
+      "name": "Nuclear Ndu",
+      "id": "nucl1642",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1642"
+    },
+    {
+      "name": "Sawosic",
+      "id": "sawo1235",
+      "url": "https://glottolog.org/resource/languoid/id/sawo1235"
+    },
+    {
+      "name": "Iatmulic",
+      "id": "sawo1234",
+      "url": "https://glottolog.org/resource/languoid/id/sawo1234"
+    }
+  ],
+  "iso639-3": "ian"
+}

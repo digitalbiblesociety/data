@@ -1,0 +1,88 @@
+{
+  "pk": 3482,
+  "hid": "mnw",
+  "father_pk": 1858,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Mataban-Moulmein [mata1282]':1,'Pegu [pegu1239]':1,'Ye [yeee1239]':1)'Mon [monn1252][mnw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q13349",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mon_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mon",
+        "label": "Mon"
+      }
+    ],
+    "meds": [
+      [
+        "42588",
+        "long_grammar",
+        1982,
+        614,
+        "Bauer, Christian 1982"
+      ],
+      [
+        "50649",
+        "grammar_sketch",
+        1901,
+        376,
+        "Haswell, James Madison 1901"
+      ],
+      [
+        "56152",
+        "grammar_sketch",
+        1874,
+        182,
+        "J. M. Haswell 1874"
+      ],
+      [
+        "153209",
+        "wordlist_or_less",
+        1868,
+        12,
+        "Hunter, William Wilson 1868"
+      ],
+      [
+        "62883",
+        "wordlist_or_less",
+        1854,
+        12,
+        "Mason, Francis 1854"
+      ]
+    ]
+  },
+  "id": "monn1252",
+  "name": "Mon",
+  "description": null,
+  "markup_description": null,
+  "latitude": 15.49394,
+  "longitude": 98.122465,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Monic",
+      "id": "moni1258",
+      "url": "https://glottolog.org/resource/languoid/id/moni1258"
+    }
+  ],
+  "iso639-3": "mnw"
+}

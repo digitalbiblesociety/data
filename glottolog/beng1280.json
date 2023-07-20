@@ -1,0 +1,111 @@
+{
+  "pk": 20570,
+  "hid": "ben",
+  "father_pk": 18659,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Bengali [cent1983]':1,('Barik [bari1281]':1,'Bhatiari [bhat1266]':1,'Chirmar [chir1281]':1,'Musselmani [muss1245]':1,'Samaria [sama1293]':1,'Saraki [sara1311]':1)'Ganda {Bengali} [gand1253]':1,('Kachari-Bengali [kach1275]':1,'Koch {Northern Bengali} [koch1248]':1,'Rajshahi [rajs1238]':1,'Siripuria [siri1268]':1)'Northern Bengali [nort2658]':1,'Vanga [vang1242]':1)'Bengali [beng1280][ben]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 14,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ben",
+        "label": "Bengali"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bengali_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/beng1280",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q9610",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "48188",
+        "long_grammar",
+        1926,
+        1270,
+        "Chatterji, Sunti Kumar 1926"
+      ],
+      [
+        "305954",
+        "grammar",
+        1778,
+        62,
+        "Nathaniel B. Halhed 1778"
+      ]
+    ]
+  },
+  "id": "beng1280",
+  "name": "Bengali",
+  "description": null,
+  "markup_description": null,
+  "latitude": 24,
+  "longitude": 90,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Indo-Aryan",
+      "id": "indo1321",
+      "url": "https://glottolog.org/resource/languoid/id/indo1321"
+    },
+    {
+      "name": "Middle-Modern Indo-Aryan",
+      "id": "midd1375",
+      "url": "https://glottolog.org/resource/languoid/id/midd1375"
+    },
+    {
+      "name": "Continental Indo-Aryan",
+      "id": "cont1248",
+      "url": "https://glottolog.org/resource/languoid/id/cont1248"
+    },
+    {
+      "name": "Indo-Aryan Eastern zone",
+      "id": "indo1323",
+      "url": "https://glottolog.org/resource/languoid/id/indo1323"
+    },
+    {
+      "name": "Oriya-Gauda-Kamrupa",
+      "id": "oriy1254",
+      "url": "https://glottolog.org/resource/languoid/id/oriy1254"
+    },
+    {
+      "name": "Gauda-Kamrupa",
+      "id": "gaud1237",
+      "url": "https://glottolog.org/resource/languoid/id/gaud1237"
+    },
+    {
+      "name": "Gauda-Banga",
+      "id": "gaud1238",
+      "url": "https://glottolog.org/resource/languoid/id/gaud1238"
+    }
+  ],
+  "iso639-3": "ben"
+}

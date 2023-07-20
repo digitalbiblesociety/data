@@ -1,0 +1,101 @@
+{
+  "pk": 5184,
+  "hid": "kre",
+  "father_pk": 3353,
+  "family_pk": 376,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Panará [pana1307][kre]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2961",
+        "label": "Kreen-Akarore"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3361895",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Panar%C3%A1_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/pana1307",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_pnx",
+        "label": "Panará"
+      }
+    ],
+    "meds": [
+      [
+        "37156",
+        "grammar",
+        2001,
+        255,
+        "Dourado, Luciana Gonçalves 2001"
+      ],
+      [
+        "56591",
+        "phonology_or_text",
+        1990,
+        0,
+        "Dourado, Luciana Gonçalves 1990"
+      ],
+      [
+        "131550",
+        "wordlist_or_less",
+        1918,
+        50,
+        "Barbosa, Alexandre de Souza 1918"
+      ],
+      [
+        "79048",
+        "wordlist_or_less",
+        1867,
+        3,
+        "von Martius, Carl Friedrich Philip 1867"
+      ],
+      [
+        "87950",
+        "wordlist_or_less",
+        1832,
+        2,
+        "Pohl, Johann Emanuel 1832"
+      ]
+    ]
+  },
+  "id": "pana1307",
+  "name": "Panará",
+  "description": null,
+  "markup_description": null,
+  "latitude": -10.58,
+  "longitude": -53,
+  "classification": [
+    {
+      "name": "Nuclear-Macro-Je",
+      "id": "nucl1710",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1710"
+    },
+    {
+      "name": "Je",
+      "id": "jeee1236",
+      "url": "https://glottolog.org/resource/languoid/id/jeee1236"
+    },
+    {
+      "name": "Je Setentrional",
+      "id": "jese1235",
+      "url": "https://glottolog.org/resource/languoid/id/jese1235"
+    }
+  ],
+  "iso639-3": "kre"
+}

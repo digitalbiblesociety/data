@@ -1,0 +1,89 @@
+{
+  "pk": 7837,
+  "hid": "krc",
+  "father_pk": 5422,
+  "family_pk": 14,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Balkar [balk1253]':1,'Karachay [kara1466]':1)'Karachay-Balkar [kara1465][krc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_krc",
+        "label": "Karachay-Balkar"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Karachay-Balkar",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33714",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "319420",
+        "long_grammar",
+        1973,
+        358,
+        "U. B. Aliev 1973"
+      ],
+      [
+        "124015",
+        "grammar",
+        1966,
+        0,
+        "Xabichev, M.A. 1966"
+      ],
+      [
+        "571314",
+        "grammar_sketch",
+        1940,
+        180,
+        "Filonenko, V. I. 1940"
+      ]
+    ]
+  },
+  "id": "kara1465",
+  "name": "Karachay-Balkar",
+  "description": null,
+  "markup_description": null,
+  "latitude": 43.565,
+  "longitude": 42.2606,
+  "classification": [
+    {
+      "name": "Turkic",
+      "id": "turk1311",
+      "url": "https://glottolog.org/resource/languoid/id/turk1311"
+    },
+    {
+      "name": "Common Turkic",
+      "id": "comm1245",
+      "url": "https://glottolog.org/resource/languoid/id/comm1245"
+    },
+    {
+      "name": "Kipchak",
+      "id": "kipc1239",
+      "url": "https://glottolog.org/resource/languoid/id/kipc1239"
+    },
+    {
+      "name": "West Kipchak",
+      "id": "west1472",
+      "url": "https://glottolog.org/resource/languoid/id/west1472"
+    },
+    {
+      "name": "Kaukasus Kipchak",
+      "id": "kauk1241",
+      "url": "https://glottolog.org/resource/languoid/id/kauk1241"
+    }
+  ],
+  "iso639-3": "krc"
+}

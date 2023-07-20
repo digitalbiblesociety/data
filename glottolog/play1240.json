@@ -1,0 +1,81 @@
+{
+  "pk": 5517,
+  "hid": "gob",
+  "father_pk": 3615,
+  "family_pk": 36,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Pepojivi [pepo1234]':1,'Yamalero [maya1284]':1)'Playero [play1240][gob]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2956",
+        "label": "Playero"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3027923",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Playero_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_pla",
+        "label": "Playero"
+      }
+    ],
+    "meds": [
+      [
+        "661862",
+        "phonology_or_text",
+        2022,
+        124,
+        "Ginebra, David 2022"
+      ],
+      [
+        "47298",
+        "wordlist_or_less",
+        1992,
+        3,
+        "Randall Q. Huber and Robert B. Reed 1992"
+      ]
+    ]
+  },
+  "id": "play1240",
+  "name": "Playero",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.90948,
+  "longitude": -71.0036,
+  "classification": [
+    {
+      "name": "Guahiboan",
+      "id": "guah1252",
+      "url": "https://glottolog.org/resource/languoid/id/guah1252"
+    },
+    {
+      "name": "Nuclear Guahiboan",
+      "id": "nucl1828",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1828"
+    },
+    {
+      "name": "Central Guahibo",
+      "id": "guah1253",
+      "url": "https://glottolog.org/resource/languoid/id/guah1253"
+    },
+    {
+      "name": "Guahibo-Playero",
+      "id": "guah1254",
+      "url": "https://glottolog.org/resource/languoid/id/guah1254"
+    }
+  ],
+  "iso639-3": "gob"
+}

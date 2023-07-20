@@ -1,0 +1,71 @@
+{
+  "pk": 8683,
+  "hid": "kqj",
+  "father_pk": 6192,
+  "family_pk": 170,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Koianu [koia1262]':1,'Nuclear Koromira [nucl1635]':1)'Koromira [koro1313][kqj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6432520",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Koromira_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "22202",
+        "grammar_sketch",
+        1912,
+        24,
+        "P. J. Rausch 1912"
+      ]
+    ]
+  },
+  "id": "koro1313",
+  "name": "Koromira",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.39399,
+  "longitude": 155.742,
+  "classification": [
+    {
+      "name": "South Bougainville",
+      "id": "sout2948",
+      "url": "https://glottolog.org/resource/languoid/id/sout2948"
+    },
+    {
+      "name": "Nasioiic",
+      "id": "nasi1247",
+      "url": "https://glottolog.org/resource/languoid/id/nasi1247"
+    },
+    {
+      "name": "Nasioi",
+      "id": "nasi1248",
+      "url": "https://glottolog.org/resource/languoid/id/nasi1248"
+    },
+    {
+      "name": "South-Central Nasioi",
+      "id": "sout3363",
+      "url": "https://glottolog.org/resource/languoid/id/sout3363"
+    },
+    {
+      "name": "South Nasioi",
+      "id": "sout3364",
+      "url": "https://glottolog.org/resource/languoid/id/sout3364"
+    }
+  ],
+  "iso639-3": "kqj"
+}

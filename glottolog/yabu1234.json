@@ -1,0 +1,91 @@
+{
+  "pk": 8475,
+  "hid": "yxy",
+  "father_pk": 6013,
+  "family_pk": 153,
+  "level": "dialect",
+  "bookkeeping": false,
+  "category": "Dialect",
+  "newick": "'Yabula Yabula [yabu1234][yxy]':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "yxy",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 has a separate entry for Yabula Yabula [yxy], but this language was close enough linguistically to count as a variety of Yorta Yorta [xyy] (**hh:g:BoweMorey:YortaYorta**). See also: Yorta Yorta [xyy]."
+    },
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6740",
+        "label": "Yabula-Yabula"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q8046394",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yabula-Yabula_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500575",
+        "wordlist_or_less",
+        2011,
+        0,
+        "ISO 639-3 Registration Authority 2011"
+      ]
+    ]
+  },
+  "id": "yabu1234",
+  "name": "Yabula Yabula",
+  "description": null,
+  "markup_description": null,
+  "latitude": -35.76116,
+  "longitude": 145.23209,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Southeastern Pama-Nyungan",
+      "id": "sout3135",
+      "url": "https://glottolog.org/resource/languoid/id/sout3135"
+    },
+    {
+      "name": "Victorian Pama-Nyungan",
+      "id": "vict1234",
+      "url": "https://glottolog.org/resource/languoid/id/vict1234"
+    },
+    {
+      "name": "Eastern Victoria",
+      "id": "east2706",
+      "url": "https://glottolog.org/resource/languoid/id/east2706"
+    },
+    {
+      "name": "Yorta Yorta",
+      "id": "yort1237",
+      "url": "https://glottolog.org/resource/languoid/id/yort1237"
+    }
+  ],
+  "iso639-3": "yxy"
+}

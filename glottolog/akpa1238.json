@@ -1,0 +1,74 @@
+{
+  "pk": 9943,
+  "hid": "akf",
+  "father_pk": 7168,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Akpa [akpa1238][akf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q34801",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "88181",
+        "phonology_or_text",
+        1979,
+        31,
+        "Armstrong, Robert Gelston 1979"
+      ],
+      [
+        "130652",
+        "wordlist_or_less",
+        1955,
+        11,
+        "Armstrong, Robert Gelston 1955"
+      ]
+    ]
+  },
+  "id": "akpa1238",
+  "name": "Akpa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.32586,
+  "longitude": 8.01629,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Idomoid",
+      "id": "idom1262",
+      "url": "https://glottolog.org/resource/languoid/id/idom1262"
+    },
+    {
+      "name": "Yatye-Akpa",
+      "id": "yaty1238",
+      "url": "https://glottolog.org/resource/languoid/id/yaty1238"
+    }
+  ],
+  "iso639-3": "akf"
+}

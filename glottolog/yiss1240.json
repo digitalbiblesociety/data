@@ -1,0 +1,75 @@
+{
+  "pk": 8155,
+  "hid": "yis",
+  "father_pk": 5714,
+  "family_pk": 103,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Yis [yiss1240][yis]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10542",
+        "label": "Yis"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q8053831",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yis_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "138610",
+        "wordlist_or_less",
+        1968,
+        1,
+        "Donald C. Laycock 1968"
+      ]
+    ]
+  },
+  "id": "yiss1240",
+  "name": "Yis",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.57371,
+  "longitude": 141.88,
+  "classification": [
+    {
+      "name": "Nuclear Torricelli",
+      "id": "nucl1708",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1708"
+    },
+    {
+      "name": "Wapei-Palei",
+      "id": "wape1249",
+      "url": "https://glottolog.org/resource/languoid/id/wape1249"
+    },
+    {
+      "name": "Central Torricelli",
+      "id": "cent2407",
+      "url": "https://glottolog.org/resource/languoid/id/cent2407"
+    },
+    {
+      "name": "Wapeic",
+      "id": "wape1250",
+      "url": "https://glottolog.org/resource/languoid/id/wape1250"
+    },
+    {
+      "name": "Yau-Yis",
+      "id": "yauy1236",
+      "url": "https://glottolog.org/resource/languoid/id/yauy1236"
+    }
+  ],
+  "iso639-3": "yis"
+}

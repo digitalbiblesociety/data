@@ -1,0 +1,58 @@
+{
+  "pk": 605,
+  "hid": "ahe",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Ahe [ahea1240][ahe]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "ahe",
+      "name": "Ahe",
+      "change_request": "2007-261",
+      "effective": "2008-01-14",
+      "reason": "merge",
+      "change_to": [
+        "knx"
+      ],
+      "remedy": "Merge into Kendayan; Salako [knx]",
+      "comment": "Adelaar (1992 and 2002) confirms that Selako and Ahe are part of the Kendayan\nlanguage chain and are mutually intelligible with each other along with several\nother Kendayan dialects. Collins (personal communication - email 2007), confirms\nthat Ahe, Selako, and Kendayan are all fully intelligible with each other.”"
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3330979",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500503",
+        "wordlist_or_less",
+        2007,
+        0,
+        "ISO 639-3 Registration Authority 2007"
+      ]
+    ]
+  },
+  "id": "ahea1240",
+  "name": "Ahe",
+  "description": null,
+  "markup_description": null,
+  "latitude": null,
+  "longitude": null,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "ahe"
+}

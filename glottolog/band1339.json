@@ -1,0 +1,76 @@
+{
+  "pk": 6011,
+  "hid": null,
+  "father_pk": 4023,
+  "family_pk": 153,
+  "level": "family",
+  "bookkeeping": false,
+  "category": "Family",
+  "newick": "((('Bandjalang [band1358]':1,'Njangbal [njan1241]':1,'Wiyabal [wiya1239]':1)'Lower Richmond [lowe1444]-l-':1,('Minjangbal [minj1242]':1,'Nganduwal [ngan1309]':1,'Ngaraangbal [ngar1298]':1,'Yugumbir [yugu1249]':1)'Tweed-Albert [twee1234][xjb]-l-':1)'Coastal Bandjalang [coas1320]':1,(('Dinggabal [ding1241]':1,'Galibal [gali1267]':1,'Gidabal [gida1240]':1,'Warwick [warw1234]':1)'Condamine-Upper Clarence Bandjalang [cond1242][gih]-l-':1,('Baryulgil [bary1234]':1,'Biriin [biri1260]':1,'Casino [casi1237]':1,'Waalubal [waal1238]':1)'Middle Clarence Bandjalang [midd1357][bdy]-l-':1)'Inland Bandjalang [inla1268]':1)'Bandjalangic [band1339]':1",
+  "child_family_count": 2,
+  "child_language_count": 4,
+  "child_dialect_count": 15,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bnj",
+        "label": "Bandjalang"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bca",
+        "label": "Bandjalang (Casino)"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bwa",
+        "label": "Bandjalang (Waalubal)"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_byu",
+        "label": "Bandjalang (Yugumbir)"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/e12",
+        "label": "Bundjalung"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Yugambeh%E2%80%93Bundjalung_languages",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2980386",
+        "label": null
+      }
+    ]
+  },
+  "id": "band1339",
+  "name": "Bandjalangic",
+  "description": null,
+  "markup_description": null,
+  "latitude": -28.3458,
+  "longitude": 152.859,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Southeastern Pama-Nyungan",
+      "id": "sout3135",
+      "url": "https://glottolog.org/resource/languoid/id/sout3135"
+    },
+    {
+      "name": "New South Wales Pama-Nyungan",
+      "id": "news1235",
+      "url": "https://glottolog.org/resource/languoid/id/news1235"
+    },
+    {
+      "name": "Greater Bandjalangic",
+      "id": "band1357",
+      "url": "https://glottolog.org/resource/languoid/id/band1357"
+    }
+  ]
+}

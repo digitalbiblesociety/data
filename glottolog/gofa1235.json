@@ -1,0 +1,81 @@
+{
+  "pk": 10411,
+  "hid": "gof",
+  "father_pk": 7441,
+  "family_pk": 342,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Gofa [gofa1235][gof]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12631584",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "569909",
+        "long_grammar",
+        2015,
+        391,
+        "Cheru, Sellassie 2015"
+      ],
+      [
+        "92791",
+        "grammar_sketch",
+        1938,
+        193,
+        "Moreno, Martino M. 1938"
+      ],
+      [
+        "82603",
+        "grammar_sketch",
+        1929,
+        9,
+        "Cerulli, E. 1929-1930"
+      ]
+    ]
+  },
+  "id": "gofa1235",
+  "name": "Gofa",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.57645,
+  "longitude": 37.05,
+  "classification": [
+    {
+      "name": "Ta-Ne-Omotic",
+      "id": "gong1255",
+      "url": "https://glottolog.org/resource/languoid/id/gong1255"
+    },
+    {
+      "name": "Ometo",
+      "id": "omet1238",
+      "url": "https://glottolog.org/resource/languoid/id/omet1238"
+    },
+    {
+      "name": "North-West Ometo",
+      "id": "nort3161",
+      "url": "https://glottolog.org/resource/languoid/id/nort3161"
+    },
+    {
+      "name": "Central Ometo",
+      "id": "cent2046",
+      "url": "https://glottolog.org/resource/languoid/id/cent2046"
+    },
+    {
+      "name": "Dawro-Gofa-Gamo",
+      "id": "dawr1235",
+      "url": "https://glottolog.org/resource/languoid/id/dawr1235"
+    }
+  ],
+  "iso639-3": "gof"
+}

@@ -1,0 +1,85 @@
+{
+  "pk": 3190,
+  "hid": "clk",
+  "father_pk": 1658,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Midu [midu1234]':1,'Mithu [mith1237]':1)'Idu [idum1241][clk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_idu",
+        "label": "Idu"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/4179",
+        "label": "Kera'a"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Idu_Mishmi_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56412",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "72903",
+        "grammar",
+        2005,
+        289,
+        "Jiang, Di 2005"
+      ],
+      [
+        "124970",
+        "grammar_sketch",
+        1978,
+        185,
+        "Pulu, Jatan 1978"
+      ],
+      [
+        "50471",
+        "grammar_sketch",
+        1962,
+        114,
+        "G. C. Talukdar 1962"
+      ],
+      [
+        "52757",
+        "wordlist_or_less",
+        1874,
+        9,
+        "Campbell, George 1874"
+      ]
+    ]
+  },
+  "id": "idum1241",
+  "name": "Idu",
+  "description": null,
+  "markup_description": null,
+  "latitude": 29.4473,
+  "longitude": 95.6472,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Digarish",
+      "id": "mish1241",
+      "url": "https://glottolog.org/resource/languoid/id/mish1241"
+    }
+  ],
+  "iso639-3": "clk"
+}

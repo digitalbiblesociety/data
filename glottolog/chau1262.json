@@ -1,0 +1,65 @@
+{
+  "pk": 673,
+  "hid": "ccq",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Chaungtha [chau1262][ccq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "ccq",
+      "name": "Chaungtha",
+      "change_request": "2011-043",
+      "effective": "2012-02-03",
+      "reason": "merge",
+      "change_to": [
+        "rki"
+      ],
+      "remedy": "merged into Rakhine [rki]",
+      "comment": "Both Chaungtha and Yangbye refer to similar varieties within the Rakhine (rki)\nlanguage. The speakers of these dialects identify themselves as \"Rakhine\".\nWordlists collected on Yangbye island and in Kyauktaw Township share at least\n94% lexical similarity with the prestige variety of Rakhine spoken in Sittwe\nTown."
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12628927",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500693",
+        "wordlist_or_less",
+        2011,
+        0,
+        "ISO 639-3 Registration Authority 2011"
+      ],
+      [
+        "306681",
+        "wordlist_or_less",
+        1995,
+        0,
+        "David Bradley 1995"
+      ]
+    ]
+  },
+  "id": "chau1262",
+  "name": "Chaungtha",
+  "description": null,
+  "markup_description": null,
+  "latitude": 20.0653,
+  "longitude": 96.2457,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "ccq"
+}

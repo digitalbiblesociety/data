@@ -1,0 +1,68 @@
+{
+  "pk": 604,
+  "hid": "lay",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Lama {Myanmar} [lama1289][lay]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": {
+      "isohid": "lay",
+      "comment_type": "spurious",
+      "ethnologue_versions": [
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "comment": "E16/E17/E18/E19/E20/E21/E22/E23/E24/E25/E26 has en entry for Lama (Myanmar) [lay]. But this is a name for a section of Nung [nun] of Nungish branch of Tibeto-Burman (**hh:hv:VoegelinVoegelin:LW:76**:15).\n\nSee also: Eastern Lalu [yit], Nung (Myanmar) [nun]."
+    },
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6480756",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lama_language_(Bai)",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500834",
+        "wordlist_or_less",
+        2013,
+        0,
+        "ISO 639-3 Registration Authority 2013"
+      ]
+    ]
+  },
+  "id": "lama1289",
+  "name": "Lama (Myanmar)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.6237,
+  "longitude": 98.4694,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "lay"
+}

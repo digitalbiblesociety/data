@@ -1,0 +1,100 @@
+{
+  "pk": 8380,
+  "hid": "kah",
+  "father_pk": 5877,
+  "family_pk": 140,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bubu [bubu1234]':1,'Nguru {Kara} [ngur1266]':1)'Kara {Central African Republic} [kara1482][kah]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/7949",
+        "label": "Kara"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5443742",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Fer_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kar",
+        "label": "Kara (in Central African Republic)"
+      }
+    ],
+    "meds": [
+      [
+        "162420",
+        "grammar_sketch",
+        1987,
+        140,
+        "Boyeldieu, Pascal 1987"
+      ],
+      [
+        "87347",
+        "grammar_sketch",
+        1970,
+        118,
+        "Santandrea, Stefano 1970"
+      ],
+      [
+        "668070",
+        "grammar_sketch",
+        1930,
+        30,
+        "Struck, B. 1930"
+      ],
+      [
+        "133734",
+        "wordlist_or_less",
+        1829,
+        69,
+        "Rüppell, Eduard 1829"
+      ]
+    ]
+  },
+  "id": "kara1482",
+  "name": "Kara (Central African Republic)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.99526,
+  "longitude": 22.9947,
+  "classification": [
+    {
+      "name": "Central Sudanic",
+      "id": "cent2225",
+      "url": "https://glottolog.org/resource/languoid/id/cent2225"
+    },
+    {
+      "name": "Sara-Bongo-Bagirmi",
+      "id": "sara1341",
+      "url": "https://glottolog.org/resource/languoid/id/sara1341"
+    },
+    {
+      "name": "SBB Occidental",
+      "id": "sbbo1237",
+      "url": "https://glottolog.org/resource/languoid/id/sbbo1237"
+    },
+    {
+      "name": "Nuclear SBB Occidental",
+      "id": "nucl1719",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1719"
+    },
+    {
+      "name": "Fer-Gula",
+      "id": "ferg1237",
+      "url": "https://glottolog.org/resource/languoid/id/ferg1237"
+    }
+  ],
+  "iso639-3": "kah"
+}

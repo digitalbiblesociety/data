@@ -1,0 +1,89 @@
+{
+  "pk": 10285,
+  "hid": "rgk",
+  "father_pk": 7387,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Rangkas [rang1266][rgk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_joh",
+        "label": "Johari"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Rangas_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7292645",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "182654",
+        "grammar_sketch",
+        1989,
+        60,
+        "D. D. Sharma 1989"
+      ],
+      [
+        "50321",
+        "phonology_or_text",
+        1916,
+        8,
+        "George A. Grierson 1916"
+      ],
+      [
+        "78648",
+        "wordlist_or_less",
+        1909,
+        4,
+        "George A. Grierson 1909"
+      ]
+    ]
+  },
+  "id": "rang1266",
+  "name": "Rangkas",
+  "description": null,
+  "markup_description": null,
+  "latitude": 29.2278,
+  "longitude": 80.0845,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "West Himalayish",
+      "id": "tibe1275",
+      "url": "https://glottolog.org/resource/languoid/id/tibe1275"
+    },
+    {
+      "name": "Eastern West Himalayish",
+      "id": "east2777",
+      "url": "https://glottolog.org/resource/languoid/id/east2777"
+    },
+    {
+      "name": "Pithauragarh",
+      "id": "pith1234",
+      "url": "https://glottolog.org/resource/languoid/id/pith1234"
+    }
+  ],
+  "iso639-3": "rgk"
+}

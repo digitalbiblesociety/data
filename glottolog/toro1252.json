@@ -1,0 +1,74 @@
+{
+  "pk": 2157,
+  "hid": "dts",
+  "father_pk": 987,
+  "family_pk": 117,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ibi So [ibis1234]':1,'Ireli [irel1234]':1,'Sangha So [sang1342]':1,'Yorno So [yorn1234]':1,'Youga So [youg1234]':1)'Toro So Dogon [toro1252][dts]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_dts",
+        "label": "Toro So"
+      },
+      {
+        "url": "https://phoible.org/languages/toro1252",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q11003311",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "100104",
+        "long_grammar",
+        1987,
+        590,
+        "Calame-Griaule, Geneviève 1987"
+      ],
+      [
+        "67483",
+        "grammar_sketch",
+        1948,
+        562,
+        "Leiris, Michel 1948"
+      ],
+      [
+        "318864",
+        "wordlist_or_less",
+        1921,
+        9,
+        "Robert Arnaud 1921"
+      ]
+    ]
+  },
+  "id": "toro1252",
+  "name": "Toro So Dogon",
+  "description": null,
+  "markup_description": null,
+  "latitude": 14.40749,
+  "longitude": -3.10006,
+  "classification": [
+    {
+      "name": "Dogon",
+      "id": "dogo1299",
+      "url": "https://glottolog.org/resource/languoid/id/dogo1299"
+    },
+    {
+      "name": "Escarpment Dogon",
+      "id": "esca1235",
+      "url": "https://glottolog.org/resource/languoid/id/esca1235"
+    }
+  ],
+  "iso639-3": "dts"
+}

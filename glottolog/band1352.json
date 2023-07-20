@@ -1,0 +1,110 @@
+{
+  "pk": 14400,
+  "hid": "bza",
+  "father_pk": 11313,
+  "family_pk": 121,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Hasala [hasa1248]':1,'Hembeh [hemb1243]':1,'Lukasa [luka1238]':1,'Tahamba [taha1240]':1,'Wawana [wawa1247]':1,'Wulukoha [wulu1242]':1)'Bandi [band1352][bza]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 6,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q34912",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Gbandi_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/band1352",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bnd",
+        "label": "Bandi"
+      }
+    ],
+    "meds": [
+      [
+        "120123",
+        "grammar_sketch",
+        1992,
+        201,
+        "Grossmann, Rebecca Suzanne 1992"
+      ],
+      [
+        "82494",
+        "grammar_sketch",
+        1989,
+        133,
+        "Rodewald, Michael Kenneth 1989"
+      ],
+      [
+        "114973",
+        "grammar_sketch",
+        1940,
+        64,
+        "Heydorn, Richard 1940-1941"
+      ],
+      [
+        "66179",
+        "wordlist_or_less",
+        1854,
+        1,
+        "Koelle, Sigismund W. 1854"
+      ]
+    ]
+  },
+  "id": "band1352",
+  "name": "Bandi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.73729,
+  "longitude": -10.1684,
+  "classification": [
+    {
+      "name": "Mande",
+      "id": "mand1469",
+      "url": "https://glottolog.org/resource/languoid/id/mand1469"
+    },
+    {
+      "name": "Western Mande",
+      "id": "west2780",
+      "url": "https://glottolog.org/resource/languoid/id/west2780"
+    },
+    {
+      "name": "Manding-Kpelle",
+      "id": "mand1431",
+      "url": "https://glottolog.org/resource/languoid/id/mand1431"
+    },
+    {
+      "name": "Southwest Mande",
+      "id": "sout2842",
+      "url": "https://glottolog.org/resource/languoid/id/sout2842"
+    },
+    {
+      "name": "Mende-Loma",
+      "id": "mend1263",
+      "url": "https://glottolog.org/resource/languoid/id/mend1263"
+    },
+    {
+      "name": "Mende-Bandi",
+      "id": "mend1264",
+      "url": "https://glottolog.org/resource/languoid/id/mend1264"
+    },
+    {
+      "name": "Bandi-Zialo",
+      "id": "band1351",
+      "url": "https://glottolog.org/resource/languoid/id/band1351"
+    }
+  ],
+  "iso639-3": "bza"
+}

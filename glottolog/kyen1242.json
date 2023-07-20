@@ -1,0 +1,101 @@
+{
+  "pk": 11298,
+  "hid": "tye",
+  "father_pk": 8313,
+  "family_pk": 121,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kyenga [kyen1242][tye]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3913304",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kyenga_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kyen1242",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "549752",
+        "phonology_or_text",
+        2017,
+        220,
+        "Ross McCallum Jones 2017"
+      ],
+      [
+        "546939",
+        "phonology_or_text",
+        2016,
+        20,
+        "Marlene Altebockwinkel 2016"
+      ],
+      [
+        "135094",
+        "wordlist_or_less",
+        1951,
+        3,
+        "Bertho, J. 1951"
+      ],
+      [
+        "589034",
+        "wordlist_or_less",
+        1924,
+        17,
+        "Perron, Michel 1924"
+      ]
+    ]
+  },
+  "id": "kyen1242",
+  "name": "Kyenga",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.5953,
+  "longitude": 3.58651,
+  "classification": [
+    {
+      "name": "Mande",
+      "id": "mand1469",
+      "url": "https://glottolog.org/resource/languoid/id/mand1469"
+    },
+    {
+      "name": "Eastern Mande",
+      "id": "east2697",
+      "url": "https://glottolog.org/resource/languoid/id/east2697"
+    },
+    {
+      "name": "Bisa-Busa",
+      "id": "bisa1265",
+      "url": "https://glottolog.org/resource/languoid/id/bisa1265"
+    },
+    {
+      "name": "Samo-Busa",
+      "id": "samo1302",
+      "url": "https://glottolog.org/resource/languoid/id/samo1302"
+    },
+    {
+      "name": "Busan",
+      "id": "busa1252",
+      "url": "https://glottolog.org/resource/languoid/id/busa1252"
+    },
+    {
+      "name": "Kyenga-Shanga",
+      "id": "kyen1241",
+      "url": "https://glottolog.org/resource/languoid/id/kyen1241"
+    }
+  ],
+  "iso639-3": "tye"
+}

@@ -1,0 +1,89 @@
+{
+  "pk": 8893,
+  "hid": "bcr",
+  "father_pk": 6423,
+  "family_pk": 238,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Babine-Takla [babi1236]':1,'Witsuwit''en [wits1234]':1)'Witsuwit''en-Babine [babi1235][bcr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1674",
+        "label": "Witsuwit'en"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Babine-Witsuwit%CA%BCen_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q27864",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "104927",
+        "long_grammar",
+        2007,
+        852,
+        "Hargus, Sharon 2007"
+      ],
+      [
+        "74417",
+        "grammar",
+        1977,
+        119,
+        "na 1977"
+      ],
+      [
+        "167579",
+        "wordlist_or_less",
+        1972,
+        0,
+        "Hargus, Sharon (annotator) and Cook, Eung-Do 1972"
+      ]
+    ]
+  },
+  "id": "babi1235",
+  "name": "Witsuwit'en-Babine",
+  "description": null,
+  "markup_description": null,
+  "latitude": 55.0997,
+  "longitude": -126.41,
+  "classification": [
+    {
+      "name": "Athabaskan-Eyak-Tlingit",
+      "id": "atha1245",
+      "url": "https://glottolog.org/resource/languoid/id/atha1245"
+    },
+    {
+      "name": "Athabaskan-Eyak",
+      "id": "atha1246",
+      "url": "https://glottolog.org/resource/languoid/id/atha1246"
+    },
+    {
+      "name": "Athabaskan",
+      "id": "atha1247",
+      "url": "https://glottolog.org/resource/languoid/id/atha1247"
+    },
+    {
+      "name": "Central British Columbia Athabaskan",
+      "id": "cent2370",
+      "url": "https://glottolog.org/resource/languoid/id/cent2370"
+    },
+    {
+      "name": "Carrieric",
+      "id": "carr1250",
+      "url": "https://glottolog.org/resource/languoid/id/carr1250"
+    }
+  ],
+  "iso639-3": "bcr"
+}

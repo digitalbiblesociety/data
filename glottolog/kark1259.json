@@ -1,0 +1,56 @@
+{
+  "pk": 2189,
+  "hid": "krb",
+  "father_pk": 1007,
+  "family_pk": 128,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Karkin [kark1259][krb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3193345",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Karkin_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "28638",
+        "wordlist_or_less",
+        1988,
+        9,
+        "Callaghan, Catherine A. 1988"
+      ]
+    ]
+  },
+  "id": "kark1259",
+  "name": "Karkin",
+  "description": null,
+  "markup_description": null,
+  "latitude": 38.01944,
+  "longitude": -122.13417,
+  "classification": [
+    {
+      "name": "Miwok-Costanoan",
+      "id": "miwo1274",
+      "url": "https://glottolog.org/resource/languoid/id/miwo1274"
+    },
+    {
+      "name": "Costanoan",
+      "id": "cost1250",
+      "url": "https://glottolog.org/resource/languoid/id/cost1250"
+    }
+  ],
+  "iso639-3": "krb"
+}

@@ -1,0 +1,77 @@
+{
+  "pk": 1795,
+  "hid": "arn",
+  "father_pk": 382,
+  "family_pk": 382,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Moluche [molu1245]':1,'Pehuenche [pehu1241]':1,'Picunche [picu1247]':1)'Mapudungun [mapu1245][arn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/7849",
+        "label": "Mapudungun"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_map",
+        "label": "Mapudungun"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mapuche_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/mapu1245",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33730",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "135112",
+        "long_grammar",
+        1777,
+        977,
+        "Havestadt, Bernhard 1777"
+      ],
+      [
+        "22096",
+        "long_grammar",
+        1765,
+        682,
+        "Andrés Febres 1765"
+      ],
+      [
+        "32222",
+        "grammar",
+        1684,
+        174,
+        "Luis de Valdivia 1684"
+      ]
+    ]
+  },
+  "id": "mapu1245",
+  "name": "Mapudungun",
+  "description": null,
+  "markup_description": null,
+  "latitude": -38.7392,
+  "longitude": -71.277,
+  "classification": [
+    {
+      "name": "Araucanian",
+      "id": "arau1255",
+      "url": "https://glottolog.org/resource/languoid/id/arau1255"
+    }
+  ],
+  "iso639-3": "arn"
+}

@@ -1,0 +1,78 @@
+{
+  "pk": 3056,
+  "hid": "hun",
+  "father_pk": 1556,
+  "family_pk": 302,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Alföld [alfo1240]':1,'Csángó [csan1238]':1,'Danube-Tisza [danu1247]':1,'King''s Pass Hungarian [king1257]':1,'Northeast Hungarian [nort2669]':1,'Northwest Hungarian [nort2670]':1,'Oberwart [ober1242]':1,'Székely [szek1241]':1,'West Danube [west2389]':1,'West Hungarian [west2388]':1)'Hungarian [hung1274][hun]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 10,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_hun",
+        "label": "Hungarian"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Hungarian_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/hung1274",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q9067",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "633087",
+        "long_grammar",
+        1955,
+        532,
+        "K. E. Majtinskaja 1955, 1959"
+      ],
+      [
+        "551456",
+        "grammar",
+        1682,
+        224,
+        "Paulus Pereszlényi 1682"
+      ],
+      [
+        "320369",
+        "grammar",
+        1610,
+        201,
+        "Albert Szenczi Molnár 1969 [1610]"
+      ]
+    ]
+  },
+  "id": "hung1274",
+  "name": "Hungarian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 46.9068585714,
+  "longitude": 19.6555271429,
+  "classification": [
+    {
+      "name": "Uralic",
+      "id": "ural1272",
+      "url": "https://glottolog.org/resource/languoid/id/ural1272"
+    },
+    {
+      "name": "Hungaric",
+      "id": "hung1287",
+      "url": "https://glottolog.org/resource/languoid/id/hung1287"
+    }
+  ],
+  "iso639-3": "hun"
+}

@@ -1,0 +1,150 @@
+{
+  "pk": 20984,
+  "hid": "ita",
+  "father_pk": 18932,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Cicolano-Reatino-Aquilano [cico1238]':1,'Fiorentino [fior1235]':1,'Laziale [lazi1238]':1,'Old Italian [fior1236]':1)'Italian [ital1282][ita]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ita",
+        "label": "Italian"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ifi",
+        "label": "Italian (Fiorentino)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Italian_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/ital1282",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q652",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "576484",
+        "long_grammar",
+        2010,
+        1745,
+        "Renzi, Lorenzo and Giampaolo Salvi 2010"
+      ],
+      [
+        "556506",
+        "long_grammar",
+        2007,
+        496,
+        "Maiden, Martin and Robustelli, Cecilia 2007"
+      ],
+      [
+        "70768",
+        "long_grammar",
+        2000,
+        496,
+        "Maiden, Martin and Robustelli, Cecilia 2000"
+      ],
+      [
+        "129642",
+        "long_grammar",
+        1986,
+        481,
+        "Burzio, Luigi 1986"
+      ],
+      [
+        "38345",
+        "grammar",
+        1970,
+        96,
+        "Saltarelli, Mario 1970"
+      ],
+      [
+        "71807",
+        "grammar",
+        1891,
+        0,
+        "Sauer, Charles Marquard 1891"
+      ],
+      [
+        "320546",
+        "grammar_sketch",
+        1443,
+        130,
+        "Leon Battista Alberti 1908 [1443]"
+      ]
+    ]
+  },
+  "id": "ital1282",
+  "name": "Italian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 43.0464,
+  "longitude": 12.6489,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Italic",
+      "id": "ital1284",
+      "url": "https://glottolog.org/resource/languoid/id/ital1284"
+    },
+    {
+      "name": "Latino-Faliscan",
+      "id": "lati1262",
+      "url": "https://glottolog.org/resource/languoid/id/lati1262"
+    },
+    {
+      "name": "Latinic",
+      "id": "lati1263",
+      "url": "https://glottolog.org/resource/languoid/id/lati1263"
+    },
+    {
+      "name": "Imperial Latin",
+      "id": "impe1234",
+      "url": "https://glottolog.org/resource/languoid/id/impe1234"
+    },
+    {
+      "name": "Romance",
+      "id": "roma1334",
+      "url": "https://glottolog.org/resource/languoid/id/roma1334"
+    },
+    {
+      "name": "Italo-Western Romance",
+      "id": "ital1285",
+      "url": "https://glottolog.org/resource/languoid/id/ital1285"
+    },
+    {
+      "name": "Italo-Dalmatian",
+      "id": "ital1286",
+      "url": "https://glottolog.org/resource/languoid/id/ital1286"
+    },
+    {
+      "name": "Italian Romance",
+      "id": "ital1287",
+      "url": "https://glottolog.org/resource/languoid/id/ital1287"
+    }
+  ],
+  "iso639-3": "ita"
+}

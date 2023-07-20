@@ -1,0 +1,113 @@
+{
+  "pk": 5391,
+  "hid": "mot",
+  "father_pk": 3538,
+  "family_pk": 10,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Barí [bari1297][mot]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/686",
+        "label": "Barí"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2886281",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bar%C3%AD_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/bari1297",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mti",
+        "label": "Barí"
+      }
+    ],
+    "meds": [
+      [
+        "80684",
+        "grammar_sketch",
+        2004,
+        15,
+        "Diego J. Quesada 2004"
+      ],
+      [
+        "81036",
+        "grammar_sketch",
+        2001,
+        11,
+        "Rincón, Lucía and Juan D. Quesada 2001-2002"
+      ],
+      [
+        "117503",
+        "grammar_sketch",
+        1991,
+        5,
+        "Beckerman, Stephen 1991"
+      ],
+      [
+        "139642",
+        "grammar_sketch",
+        1980,
+        0,
+        "Jaulin, Robert 1980"
+      ],
+      [
+        "155956",
+        "grammar_sketch",
+        1970,
+        0,
+        "Jaulin, Robert 1970"
+      ],
+      [
+        "139581",
+        "wordlist_or_less",
+        1730,
+        68,
+        "Adolfo de Villamañan 1978 [1730]"
+      ]
+    ]
+  },
+  "id": "bari1297",
+  "name": "Barí",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.08497,
+  "longitude": -72.9353,
+  "classification": [
+    {
+      "name": "Chibchan",
+      "id": "chib1249",
+      "url": "https://glottolog.org/resource/languoid/id/chib1249"
+    },
+    {
+      "name": "Core Chibchan",
+      "id": "core1252",
+      "url": "https://glottolog.org/resource/languoid/id/core1252"
+    },
+    {
+      "name": "Magdalenic",
+      "id": "magd1236",
+      "url": "https://glottolog.org/resource/languoid/id/magd1236"
+    },
+    {
+      "name": "Southern Magdalenic",
+      "id": "sout3015",
+      "url": "https://glottolog.org/resource/languoid/id/sout3015"
+    }
+  ],
+  "iso639-3": "mot"
+}

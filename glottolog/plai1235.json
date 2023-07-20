@@ -1,0 +1,78 @@
+{
+  "pk": 2608,
+  "hid": "psd",
+  "father_pk": 1199,
+  "family_pk": 206,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Sign Language",
+  "newick": "'Plains Indian Sign Language [plai1235][psd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5293",
+        "label": "Plains Indian Sign Language"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2380124",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Plains_Indian_Sign_Language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_psl",
+        "label": "Plains-Indians Sign Language"
+      }
+    ],
+    "meds": [
+      [
+        "58898",
+        "long_grammar",
+        1960,
+        307,
+        "West, Jr., La Mont 1960"
+      ],
+      [
+        "322222",
+        "phonology_or_text",
+        1885,
+        443,
+        "Clark, W. P. 1885"
+      ],
+      [
+        "471361",
+        "phonology_or_text",
+        1880,
+        330,
+        "Mallery, Garrick 1978 [1880]"
+      ]
+    ]
+  },
+  "id": "plai1235",
+  "name": "Plains Indian Sign Language",
+  "description": null,
+  "markup_description": null,
+  "latitude": 38.3941,
+  "longitude": -99.2499,
+  "classification": [
+    {
+      "name": "Sign Language",
+      "id": "sign1238",
+      "url": "https://glottolog.org/resource/languoid/id/sign1238"
+    },
+    {
+      "name": "Auxiliary Sign Systems",
+      "id": "auxi1235",
+      "url": "https://glottolog.org/resource/languoid/id/auxi1235"
+    }
+  ],
+  "iso639-3": "psd"
+}

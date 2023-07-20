@@ -1,0 +1,71 @@
+{
+  "pk": 3061,
+  "hid": "vro",
+  "father_pk": 1558,
+  "family_pk": 302,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Leivu [leiv1235]':1,('Mulgi [mulg1249]':1,('Tartu South Estonian [tart1244]':1,('Kraasna [kraa1234]':1,'Lutsi [luts1235]':1,('Eastern Seto [east2808]':1,'Northern Seto [nort3285]':1,'Southern Seto [sout3268]':1)'Seto [seto1244]':1,'Võro [voro1243]':1)'Võro-Seto [seto1243]':1)'Ugandi [ugan1245]':1)'Võro-Mulgi-Tartu [voro1241]':1)'South Estonian [sout2679][vro]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 13,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2998",
+        "label": "Võro"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/V%C3%B5ro_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/sout2679",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q32762",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "549641",
+        "grammar_sketch",
+        2007,
+        244,
+        "Iva, Sulev 2007"
+      ],
+      [
+        "623885",
+        "grammar_sketch",
+        1780,
+        131,
+        "Hupel, August Wilhelm 1780"
+      ]
+    ]
+  },
+  "id": "sout2679",
+  "name": "South Estonian",
+  "description": null,
+  "markup_description": null,
+  "latitude": 57.85,
+  "longitude": 27,
+  "classification": [
+    {
+      "name": "Uralic",
+      "id": "ural1272",
+      "url": "https://glottolog.org/resource/languoid/id/ural1272"
+    },
+    {
+      "name": "Finnic",
+      "id": "finn1317",
+      "url": "https://glottolog.org/resource/languoid/id/finn1317"
+    }
+  ],
+  "iso639-3": "vro"
+}

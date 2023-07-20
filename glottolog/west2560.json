@@ -1,0 +1,113 @@
+{
+  "pk": 15347,
+  "hid": "bdr",
+  "father_pk": 12536,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Banggi [bang1367]':1,'Kawang [kawa1280]':1,'Kota Belud [kota1276]':1,'Papar {West Coast Bajau} [papa1267]':1,'Pitas Bajau [pita1245]':1,'Putatan [puta1239]':1,'Sandakan Bajau [sand1274]':1)'West Coast Bajau [west2560][bdr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q2880037",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/west2560",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bwc",
+        "label": "Bajau (West Coast)"
+      }
+    ],
+    "meds": [
+      [
+        "59165",
+        "long_grammar",
+        2007,
+        497,
+        "Miller, Mark T. 2007"
+      ],
+      [
+        "135551",
+        "grammar_sketch",
+        2006,
+        141,
+        "Miller, Mark T. 2006"
+      ],
+      [
+        "157876",
+        "phonology_or_text",
+        2004,
+        0,
+        "Miller, Mark T. 2004"
+      ],
+      [
+        "80072",
+        "wordlist_or_less",
+        1929,
+        12,
+        "Owen Rutter 1929"
+      ],
+      [
+        "18609",
+        "wordlist_or_less",
+        1926,
+        4,
+        "J. Staal 1926"
+      ]
+    ]
+  },
+  "id": "west2560",
+  "name": "West Coast Bajau",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.00631,
+  "longitude": 116.124,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Basap-Greater Barito",
+      "id": "basa1291",
+      "url": "https://glottolog.org/resource/languoid/id/basa1291"
+    },
+    {
+      "name": "Greater Barito linkage",
+      "id": "grea1283",
+      "url": "https://glottolog.org/resource/languoid/id/grea1283"
+    },
+    {
+      "name": "Sama-Bajaw",
+      "id": "sama1302",
+      "url": "https://glottolog.org/resource/languoid/id/sama1302"
+    },
+    {
+      "name": "Sulu-Borneo",
+      "id": "sulu1242",
+      "url": "https://glottolog.org/resource/languoid/id/sulu1242"
+    },
+    {
+      "name": "Borneo Coast Bajaw",
+      "id": "born1254",
+      "url": "https://glottolog.org/resource/languoid/id/born1254"
+    }
+  ],
+  "iso639-3": "bdr"
+}

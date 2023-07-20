@@ -1,0 +1,90 @@
+{
+  "pk": 12881,
+  "hid": "gwa",
+  "father_pk": 9914,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mbato [mbat1247][gwa]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3914941",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mbato_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "133148",
+        "long_grammar",
+        1994,
+        321,
+        "Bogny, Yapo Joseph 1994"
+      ],
+      [
+        "126286",
+        "grammar_sketch",
+        1983,
+        42,
+        "Grassias, Alain and Bolé-Richard, Rémy 1983"
+      ],
+      [
+        "55307",
+        "wordlist_or_less",
+        1971,
+        10,
+        "Dumestre, Gérard 1971"
+      ]
+    ]
+  },
+  "id": "mbat1247",
+  "name": "Mbato",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.34421,
+  "longitude": -3.70421,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Kwa Volta-Congo",
+      "id": "kwav1236",
+      "url": "https://glottolog.org/resource/languoid/id/kwav1236"
+    },
+    {
+      "name": "Nyo",
+      "id": "nyoa1234",
+      "url": "https://glottolog.org/resource/languoid/id/nyoa1234"
+    },
+    {
+      "name": "Potou-Tano",
+      "id": "poto1254",
+      "url": "https://glottolog.org/resource/languoid/id/poto1254"
+    },
+    {
+      "name": "Potou",
+      "id": "poto1250",
+      "url": "https://glottolog.org/resource/languoid/id/poto1250"
+    }
+  ],
+  "iso639-3": "gwa"
+}

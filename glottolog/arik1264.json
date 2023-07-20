@@ -1,0 +1,70 @@
+{
+  "pk": 1986,
+  "hid": "ait",
+  "father_pk": 886,
+  "family_pk": 51,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Arikem [arik1264][ait]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3446679",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Arikem_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "154958",
+        "wordlist_or_less",
+        1948,
+        10,
+        "Rondon, Cándido M. S. and de Faria, João Barbosa 1948"
+      ],
+      [
+        "121991",
+        "wordlist_or_less",
+        1932,
+        7,
+        "Curt Nimuendajú 1932"
+      ],
+      [
+        "56850",
+        "wordlist_or_less",
+        1925,
+        2,
+        "Raimundo Lopes 1925"
+      ]
+    ]
+  },
+  "id": "arik1264",
+  "name": "Arikem",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.924,
+  "longitude": -63.742,
+  "classification": [
+    {
+      "name": "Tupian",
+      "id": "tupi1275",
+      "url": "https://glottolog.org/resource/languoid/id/tupi1275"
+    },
+    {
+      "name": "Arikemic",
+      "id": "arik1263",
+      "url": "https://glottolog.org/resource/languoid/id/arik1263"
+    }
+  ],
+  "iso639-3": "ait"
+}

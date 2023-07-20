@@ -1,0 +1,84 @@
+{
+  "pk": 6726,
+  "hid": "ski",
+  "father_pk": 4595,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Sara Krowe [sara1324]':1,'Sikka Natar [sikk1243]':1,'Tana Ai [tana1283]':1)'Sika [sika1262][ski]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q33960",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Sika_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_sik",
+        "label": "Sika"
+      }
+    ],
+    "meds": [
+      [
+        "109781",
+        "grammar_sketch",
+        1979,
+        240,
+        "Soge, Paulinus 1979"
+      ],
+      [
+        "122435",
+        "grammar_sketch",
+        1897,
+        80,
+        "L. F. Calon 1897"
+      ],
+      [
+        "569671",
+        "phonology_or_text",
+        1890,
+        182,
+        "L. F. Calon 1890, 1891, 1893"
+      ]
+    ]
+  },
+  "id": "sika1262",
+  "name": "Sika",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.67302,
+  "longitude": 122.38,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Bima-Lembata",
+      "id": "bima1248",
+      "url": "https://glottolog.org/resource/languoid/id/bima1248"
+    },
+    {
+      "name": "Flores-Lembata",
+      "id": "flor1239",
+      "url": "https://glottolog.org/resource/languoid/id/flor1239"
+    }
+  ],
+  "iso639-3": "ski"
+}

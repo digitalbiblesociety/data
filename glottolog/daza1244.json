@@ -1,0 +1,117 @@
+{
+  "pk": 22855,
+  "hid": "dzd",
+  "father_pk": 21071,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bara [bara1395]':1,'Fika [fika1238]':1)'Daza [daza1244][dzd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "dzd",
+      "name": "Daza",
+      "change_request": "2022-027",
+      "effective": "2015-01-12",
+      "reason": "non-existent",
+      "change_to": [],
+      "remedy": "Retire",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3914922",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Dazawa_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "657256",
+        "wordlist_or_less",
+        2022,
+        5,
+        "Decker, Ken and Yakubu Danladi and Luther Hon and Adedamola Aregbesola and Thelma Araokanmi and John Muniru and David Onoja 2022"
+      ],
+      [
+        "45226",
+        "wordlist_or_less",
+        1978,
+        2,
+        "Schuh, Russell G. 1978"
+      ]
+    ]
+  },
+  "id": "daza1244",
+  "name": "Daza",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.30573,
+  "longitude": 10.73936,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "West Chadic",
+      "id": "west2785",
+      "url": "https://glottolog.org/resource/languoid/id/west2785"
+    },
+    {
+      "name": "West Chadic A",
+      "id": "west2714",
+      "url": "https://glottolog.org/resource/languoid/id/west2714"
+    },
+    {
+      "name": "West Chadic A.2-3",
+      "id": "west2799",
+      "url": "https://glottolog.org/resource/languoid/id/west2799"
+    },
+    {
+      "name": "West Chadic A.2",
+      "id": "west2715",
+      "url": "https://glottolog.org/resource/languoid/id/west2715"
+    },
+    {
+      "name": "Boleic",
+      "id": "bole1261",
+      "url": "https://glottolog.org/resource/languoid/id/bole1261"
+    },
+    {
+      "name": "Nuclear Boleic",
+      "id": "nucl1735",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1735"
+    },
+    {
+      "name": "Galambu-Bele",
+      "id": "gala1265",
+      "url": "https://glottolog.org/resource/languoid/id/gala1265"
+    },
+    {
+      "name": "Kirfi-Bele",
+      "id": "kirf1234",
+      "url": "https://glottolog.org/resource/languoid/id/kirf1234"
+    },
+    {
+      "name": "Giiwo-Daza",
+      "id": "giiw1237",
+      "url": "https://glottolog.org/resource/languoid/id/giiw1237"
+    }
+  ],
+  "iso639-3": "dzd"
+}

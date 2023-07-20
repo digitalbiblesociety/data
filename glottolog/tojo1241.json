@@ -1,0 +1,100 @@
+{
+  "pk": 8087,
+  "hid": "toj",
+  "father_pk": 5662,
+  "family_pk": 76,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tojolabal [tojo1241][toj]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/842",
+        "label": "Tojolabal"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_toj",
+        "label": "Tojolabal"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tojolab%CA%BCal_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36762",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "68564",
+        "long_grammar",
+        1976,
+        422,
+        "Louanna Furbee-Losee 1976"
+      ],
+      [
+        "580109",
+        "grammar",
+        1974,
+        0,
+        "Furbee, Nonnie Louanna 1974"
+      ],
+      [
+        "13202",
+        "grammar_sketch",
+        1775,
+        42,
+        "Domingo Paz 1989 [1775]"
+      ],
+      [
+        "664476",
+        "phonology_or_text",
+        1000,
+        0,
+        "Lenkersdorf, Carlos 1000"
+      ]
+    ]
+  },
+  "id": "tojo1241",
+  "name": "Tojolabal",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.2572,
+  "longitude": -91.7825,
+  "classification": [
+    {
+      "name": "Mayan",
+      "id": "maya1287",
+      "url": "https://glottolog.org/resource/languoid/id/maya1287"
+    },
+    {
+      "name": "Core Mayan",
+      "id": "core1254",
+      "url": "https://glottolog.org/resource/languoid/id/core1254"
+    },
+    {
+      "name": "Western Mayan",
+      "id": "west2865",
+      "url": "https://glottolog.org/resource/languoid/id/west2865"
+    },
+    {
+      "name": "Kanjobalan-Chujean",
+      "id": "kanj1261",
+      "url": "https://glottolog.org/resource/languoid/id/kanj1261"
+    },
+    {
+      "name": "Chujean",
+      "id": "chuj1249",
+      "url": "https://glottolog.org/resource/languoid/id/chuj1249"
+    }
+  ],
+  "iso639-3": "toj"
+}

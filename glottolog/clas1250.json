@@ -1,0 +1,90 @@
+{
+  "pk": 11509,
+  "hid": "nci",
+  "father_pk": 8574,
+  "family_pk": 155,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Classical Nahuatl [clas1250][nci]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q559242",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Classical_Nahuatl",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "471126",
+        "long_grammar",
+        1986,
+        1616,
+        "Launey, Michel 1986"
+      ],
+      [
+        "159946",
+        "long_grammar",
+        1645,
+        538,
+        "Horacio Carochi 2001 [1645]"
+      ],
+      [
+        "302054",
+        "grammar",
+        1547,
+        292,
+        "André de Olmos 1875 [1547]"
+      ]
+    ]
+  },
+  "id": "clas1250",
+  "name": "Classical Nahuatl",
+  "description": null,
+  "markup_description": null,
+  "latitude": 19.72,
+  "longitude": -96.97,
+  "classification": [
+    {
+      "name": "Uto-Aztecan",
+      "id": "utoa1244",
+      "url": "https://glottolog.org/resource/languoid/id/utoa1244"
+    },
+    {
+      "name": "Southern Uto-Aztecan",
+      "id": "sout3136",
+      "url": "https://glottolog.org/resource/languoid/id/sout3136"
+    },
+    {
+      "name": "Corachol-Aztecan",
+      "id": "cora1261",
+      "url": "https://glottolog.org/resource/languoid/id/cora1261"
+    },
+    {
+      "name": "Aztec",
+      "id": "azte1234",
+      "url": "https://glottolog.org/resource/languoid/id/azte1234"
+    },
+    {
+      "name": "Western Nahuatl",
+      "id": "west2809",
+      "url": "https://glottolog.org/resource/languoid/id/west2809"
+    },
+    {
+      "name": "Central Nahuatl",
+      "id": "cent2258",
+      "url": "https://glottolog.org/resource/languoid/id/cent2258"
+    }
+  ],
+  "iso639-3": "nci"
+}

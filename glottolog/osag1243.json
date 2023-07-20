@@ -1,0 +1,107 @@
+{
+  "pk": 8822,
+  "hid": "osa",
+  "father_pk": 6321,
+  "family_pk": 201,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Osage [osag1243][osa]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4931",
+        "label": "Osage"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2600085",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Osage_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_osa",
+        "label": "Osage"
+      }
+    ],
+    "meds": [
+      [
+        "31683",
+        "long_grammar",
+        2004,
+        517,
+        "Carolyn F. Quintero 2004"
+      ],
+      [
+        "52204",
+        "long_grammar",
+        1997,
+        403,
+        "Carolyn F. Quintero 1997"
+      ],
+      [
+        "103412",
+        "phonology_or_text",
+        1932,
+        0,
+        "La Flesche, Francis 1932"
+      ],
+      [
+        "27878",
+        "wordlist_or_less",
+        1836,
+        4,
+        "Albert Gallatin 1836"
+      ],
+      [
+        "33801",
+        "wordlist_or_less",
+        1816,
+        10,
+        "Johann Christoph Adelung and Johann Severin Vater 1816"
+      ]
+    ]
+  },
+  "id": "osag1243",
+  "name": "Osage",
+  "description": null,
+  "markup_description": null,
+  "latitude": 36.7828,
+  "longitude": -96.2949,
+  "classification": [
+    {
+      "name": "Siouan",
+      "id": "siou1252",
+      "url": "https://glottolog.org/resource/languoid/id/siou1252"
+    },
+    {
+      "name": "Core Siouan",
+      "id": "core1249",
+      "url": "https://glottolog.org/resource/languoid/id/core1249"
+    },
+    {
+      "name": "Mississippi Valley",
+      "id": "miss1254",
+      "url": "https://glottolog.org/resource/languoid/id/miss1254"
+    },
+    {
+      "name": "Dhegiha",
+      "id": "dheg1241",
+      "url": "https://glottolog.org/resource/languoid/id/dheg1241"
+    },
+    {
+      "name": "Osage-Kansa",
+      "id": "osag1244",
+      "url": "https://glottolog.org/resource/languoid/id/osag1244"
+    }
+  ],
+  "iso639-3": "osa"
+}

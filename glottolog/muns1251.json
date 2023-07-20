@@ -1,0 +1,91 @@
+{
+  "pk": 11666,
+  "hid": "umu",
+  "father_pk": 8798,
+  "family_pk": 178,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Munsee [muns1251][umu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3423",
+        "label": "Munsee"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q56547",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Munsee_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mse",
+        "label": "Munsee"
+      }
+    ],
+    "meds": [
+      [
+        "19514",
+        "grammar_sketch",
+        1990,
+        430,
+        "O'Meara, John Desmond William 1990"
+      ],
+      [
+        "126615",
+        "grammar_sketch",
+        1979,
+        111,
+        "Goddard, Ives 1979"
+      ]
+    ]
+  },
+  "id": "muns1251",
+  "name": "Munsee",
+  "description": null,
+  "markup_description": null,
+  "latitude": 41.11,
+  "longitude": -74.17,
+  "classification": [
+    {
+      "name": "Algic",
+      "id": "algi1248",
+      "url": "https://glottolog.org/resource/languoid/id/algi1248"
+    },
+    {
+      "name": "Algonquian-Blackfoot",
+      "id": "algo1256",
+      "url": "https://glottolog.org/resource/languoid/id/algo1256"
+    },
+    {
+      "name": "Algonquian",
+      "id": "algo1257",
+      "url": "https://glottolog.org/resource/languoid/id/algo1257"
+    },
+    {
+      "name": "Eastern Algonquian",
+      "id": "east2700",
+      "url": "https://glottolog.org/resource/languoid/id/east2700"
+    },
+    {
+      "name": "Delawaran",
+      "id": "dela1253",
+      "url": "https://glottolog.org/resource/languoid/id/dela1253"
+    },
+    {
+      "name": "Common Delaware",
+      "id": "comm1246",
+      "url": "https://glottolog.org/resource/languoid/id/comm1246"
+    }
+  ],
+  "iso639-3": "umu"
+}

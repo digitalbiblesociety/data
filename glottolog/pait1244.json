@@ -1,0 +1,109 @@
+{
+  "pk": 13291,
+  "hid": "pck",
+  "father_pk": 10225,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bukpi [bukp1238]':1,'Dapzal [dapz1238]':1,'Dim [dimm1239]':1,'Dimpi [dimp1238]':1,'Lamzang [lamz1238]':1,'Lousau [lous1238]':1,'Telzang [telz1238]':1,'Tuichiap [tuic1245]':1)'Paite Chin [pait1244][pck]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 8,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5678",
+        "label": "Paite Chin"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12952337",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Paite_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/pait1244",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_pte",
+        "label": "Paite"
+      }
+    ],
+    "meds": [
+      [
+        "552211",
+        "long_grammar",
+        1985,
+        360,
+        "Singh, Naorem Saratchandra 1985"
+      ],
+      [
+        "309032",
+        "grammar_sketch",
+        1977,
+        0,
+        "Braja Bihārī Kumāra 1977"
+      ],
+      [
+        "59182",
+        "phonology_or_text",
+        1972,
+        424,
+        "Kamkhenthang, H. 1972"
+      ],
+      [
+        "118757",
+        "wordlist_or_less",
+        1904,
+        5,
+        "George A. Grierson 1904"
+      ]
+    ]
+  },
+  "id": "pait1244",
+  "name": "Paite Chin",
+  "description": null,
+  "markup_description": null,
+  "latitude": 24.0381,
+  "longitude": 93.6136,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Kuki-Chin-Naga",
+      "id": "kuki1245",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1245"
+    },
+    {
+      "name": "Kuki-Chin",
+      "id": "kuki1246",
+      "url": "https://glottolog.org/resource/languoid/id/kuki1246"
+    },
+    {
+      "name": "Peripheral Kuki-Chin",
+      "id": "peri1260",
+      "url": "https://glottolog.org/resource/languoid/id/peri1260"
+    },
+    {
+      "name": "Northeastern Kuki-Chin",
+      "id": "nort3179",
+      "url": "https://glottolog.org/resource/languoid/id/nort3179"
+    },
+    {
+      "name": "Thadoic",
+      "id": "thad1239",
+      "url": "https://glottolog.org/resource/languoid/id/thad1239"
+    }
+  ],
+  "iso639-3": "pck"
+}

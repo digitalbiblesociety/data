@@ -1,0 +1,92 @@
+{
+  "pk": 6051,
+  "hid": "vml",
+  "father_pk": 4058,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Malgana [malg1242][vml]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6672",
+        "label": "Malkana"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/w18",
+        "label": "Malgana"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Malgana_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/malg1242",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6743201",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "668316",
+        "grammar",
+        1996,
+        0,
+        "Thieberger, Nicholas 1996"
+      ],
+      [
+        "6855",
+        "phonology_or_text",
+        1994,
+        5,
+        "Blevins, Juliette and Marmion, Doug 1994"
+      ],
+      [
+        "126763",
+        "wordlist_or_less",
+        1886,
+        2,
+        "Barlee, Frederick 1886"
+      ]
+    ]
+  },
+  "id": "malg1242",
+  "name": "Malgana",
+  "description": null,
+  "markup_description": null,
+  "latitude": -26.211,
+  "longitude": 114.245,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "South-West Pama-Nyungan",
+      "id": "sout3134",
+      "url": "https://glottolog.org/resource/languoid/id/sout3134"
+    },
+    {
+      "name": "Kartu-Nhanda",
+      "id": "kart1249",
+      "url": "https://glottolog.org/resource/languoid/id/kart1249"
+    },
+    {
+      "name": "Kartu",
+      "id": "kart1250",
+      "url": "https://glottolog.org/resource/languoid/id/kart1250"
+    }
+  ],
+  "iso639-3": "vml"
+}

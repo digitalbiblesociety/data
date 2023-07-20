@@ -1,0 +1,80 @@
+{
+  "pk": 6565,
+  "hid": "tbg",
+  "father_pk": 4524,
+  "family_pk": 288,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Aantantara [aant1238]':1,'Arau-Varosia [arau1254]':1,'Arokaara [arok1238]':1,'Saiqora [saiq1238]':1)'North Tairora [nort2920][tbg]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_trr",
+        "label": "Tairora"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q20210398",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "300249",
+        "grammar_sketch",
+        2010,
+        325,
+        "Vincent, Lois E. and Kaave, Anisi 2010"
+      ],
+      [
+        "14706",
+        "grammar_sketch",
+        1965,
+        32,
+        "na 1965"
+      ],
+      [
+        "15483",
+        "wordlist_or_less",
+        1948,
+        1,
+        "Arthur Capell 1948-1949"
+      ]
+    ]
+  },
+  "id": "nort2920",
+  "name": "North Tairora",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.51563,
+  "longitude": 145.959,
+  "classification": [
+    {
+      "name": "Nuclear Trans New Guinea",
+      "id": "nucl1709",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1709"
+    },
+    {
+      "name": "Kainantu-Goroka",
+      "id": "kain1273",
+      "url": "https://glottolog.org/resource/languoid/id/kain1273"
+    },
+    {
+      "name": "Kainantu",
+      "id": "kain1274",
+      "url": "https://glottolog.org/resource/languoid/id/kain1274"
+    },
+    {
+      "name": "Tairora",
+      "id": "tair1260",
+      "url": "https://glottolog.org/resource/languoid/id/tair1260"
+    }
+  ],
+  "iso639-3": "tbg"
+}

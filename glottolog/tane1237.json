@@ -1,0 +1,87 @@
+{
+  "pk": 12459,
+  "hid": "tnx",
+  "father_pk": 9493,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tanema [tane1237][tnx]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/3523",
+        "label": "Tanema"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2106984",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tanema_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "129676",
+        "grammar_sketch",
+        2009,
+        3,
+        "Alexandre François 2009"
+      ],
+      [
+        "148483",
+        "wordlist_or_less",
+        1834,
+        14,
+        "Dumont d'Urville, Jules 1834"
+      ]
+    ]
+  },
+  "id": "tane1237",
+  "name": "Tanema",
+  "description": null,
+  "markup_description": null,
+  "latitude": -11.68,
+  "longitude": 166.97,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Temotu",
+      "id": "temo1244",
+      "url": "https://glottolog.org/resource/languoid/id/temo1244"
+    },
+    {
+      "name": "Utupua-Vanikoro",
+      "id": "utup1237",
+      "url": "https://glottolog.org/resource/languoid/id/utup1237"
+    }
+  ],
+  "iso639-3": "tnx"
+}

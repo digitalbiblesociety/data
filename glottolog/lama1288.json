@@ -1,0 +1,100 @@
+{
+  "pk": 8305,
+  "hid": "hia",
+  "father_pk": 5808,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Dlige [dlig1238]':1,'Hedkala [hedk1239]':1,'Waga [waga1267]':1)'Central Laamang [cent2190]':1,'Ghudavan [ghud1238]':1,('Dzuba [dzub1245]':1,'Gwoza [gwoz1239]':1,'Leghva [legh1238]':1,'Zaladeva [zala1252]':1)'North Laamang [nort3048]':1,'Zalidva [zala1251]':1)'Lamang [lama1288][hia]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 11,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q35700",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lamang_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/lama1288",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_lmg",
+        "label": "Lamang"
+      }
+    ],
+    "meds": [
+      [
+        "552967",
+        "long_grammar",
+        2015,
+        555,
+        "Wolff, Ekkehardt H. 2015"
+      ],
+      [
+        "544129",
+        "grammar",
+        1983,
+        272,
+        "Wolff, Ekkehard 1983"
+      ],
+      [
+        "151448",
+        "grammar_sketch",
+        1964,
+        34,
+        "Lukas, Johannes 1964"
+      ],
+      [
+        "83655",
+        "wordlist_or_less",
+        1847,
+        2,
+        "Latham, Robert Gordon 1847"
+      ]
+    ]
+  },
+  "id": "lama1288",
+  "name": "Lamang",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.0243,
+  "longitude": 13.7362,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "Biu-Mandara",
+      "id": "bium1280",
+      "url": "https://glottolog.org/resource/languoid/id/bium1280"
+    },
+    {
+      "name": "North Biu-Mandara",
+      "id": "nort3156",
+      "url": "https://glottolog.org/resource/languoid/id/nort3156"
+    },
+    {
+      "name": "Lamang-Hdi",
+      "id": "lama1287",
+      "url": "https://glottolog.org/resource/languoid/id/lama1287"
+    }
+  ],
+  "iso639-3": "hia"
+}

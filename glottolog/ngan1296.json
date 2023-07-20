@@ -1,0 +1,82 @@
+{
+  "pk": 2308,
+  "hid": "nyx",
+  "father_pk": 1063,
+  "family_pk": 153,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Nganyaywana [ngan1296][nyx]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6671",
+        "label": "Nganyaywana"
+      },
+      {
+        "url": "https://collection.aiatsis.gov.au/austlang/language/d24",
+        "label": "Southern Anaiwan"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Anewan_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/ngan1296",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3913800",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "304484",
+        "wordlist_or_less",
+        1976,
+        16,
+        "Crowley, Terry M. 1976"
+      ],
+      [
+        "135307",
+        "wordlist_or_less",
+        1903,
+        8,
+        "R. H. Mathews 1903"
+      ],
+      [
+        "198",
+        "wordlist_or_less",
+        1901,
+        2,
+        "Buchanan, F. J. 1901"
+      ]
+    ]
+  },
+  "id": "ngan1296",
+  "name": "Nganyaywana",
+  "description": null,
+  "markup_description": null,
+  "latitude": -29.581,
+  "longitude": 151.313,
+  "classification": [
+    {
+      "name": "Pama-Nyungan",
+      "id": "pama1250",
+      "url": "https://glottolog.org/resource/languoid/id/pama1250"
+    },
+    {
+      "name": "Macleay-New England",
+      "id": "macl1239",
+      "url": "https://glottolog.org/resource/languoid/id/macl1239"
+    }
+  ],
+  "iso639-3": "nyx"
+}

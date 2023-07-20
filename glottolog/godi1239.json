@@ -1,0 +1,99 @@
+{
+  "pk": 5665,
+  "hid": "god",
+  "father_pk": 3732,
+  "family_pk": 83,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dagli [dagl1238]':1,'Dlogo [dlog1238]':1,'Glibe [glib1238]':1,'Jluko [jluk1238]':1,'Kagbo [kagb1242]':1,'Koyo {Cote d''Ivoire} [koyo1243]':1,'Nugbo [nugb1238]':1,'Nyago [nyag1246]':1,'Tiglu [tigl1238]':1)'Godié [godi1239][god]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 9,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ddj",
+        "label": "Dadjriwalé"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_gdi",
+        "label": "Godié"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Godi%C3%A9_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/godi1239",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3914412",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "128505",
+        "long_grammar",
+        2008,
+        388,
+        "Godé, Victor 2008"
+      ],
+      [
+        "123887",
+        "grammar",
+        1976,
+        257,
+        "Kokora, Dago Pascal 1976"
+      ],
+      [
+        "38362",
+        "grammar_sketch",
+        1970,
+        18,
+        "Kokora, Pascal 1970"
+      ],
+      [
+        "8689",
+        "wordlist_or_less",
+        1904,
+        5,
+        "Delafosse, Maurice 1904"
+      ]
+    ]
+  },
+  "id": "godi1239",
+  "name": "Godié",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.3944,
+  "longitude": -5.82696,
+  "classification": [
+    {
+      "name": "Kru",
+      "id": "krua1234",
+      "url": "https://glottolog.org/resource/languoid/id/krua1234"
+    },
+    {
+      "name": "Eastern Kru",
+      "id": "east2415",
+      "url": "https://glottolog.org/resource/languoid/id/east2415"
+    },
+    {
+      "name": "Beteic",
+      "id": "bete1265",
+      "url": "https://glottolog.org/resource/languoid/id/bete1265"
+    },
+    {
+      "name": "Western Bete",
+      "id": "west2489",
+      "url": "https://glottolog.org/resource/languoid/id/west2489"
+    }
+  ],
+  "iso639-3": "god"
+}

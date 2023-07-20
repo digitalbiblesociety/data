@@ -1,0 +1,89 @@
+{
+  "pk": 8117,
+  "hid": "ahi",
+  "father_pk": 5678,
+  "family_pk": 83,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tiagbamrin Aizi [tiag1235][ahi]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3400073",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tiagba_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/tiag1235",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "57575",
+        "grammar_sketch",
+        1983,
+        14,
+        "Marchese, Lynell 1983"
+      ],
+      [
+        "30420",
+        "phonology_or_text",
+        1971,
+        67,
+        "Herault, G. 1971"
+      ],
+      [
+        "305309",
+        "wordlist_or_less",
+        1954,
+        123,
+        "Bonnefoy, C. 1954"
+      ]
+    ]
+  },
+  "id": "tiag1235",
+  "name": "Tiagbamrin Aizi",
+  "description": null,
+  "markup_description": null,
+  "latitude": 5.28022,
+  "longitude": -4.62352,
+  "classification": [
+    {
+      "name": "Kru",
+      "id": "krua1234",
+      "url": "https://glottolog.org/resource/languoid/id/krua1234"
+    },
+    {
+      "name": "Greater Western Kru",
+      "id": "grea1300",
+      "url": "https://glottolog.org/resource/languoid/id/grea1300"
+    },
+    {
+      "name": "Western Kru",
+      "id": "west2485",
+      "url": "https://glottolog.org/resource/languoid/id/west2485"
+    },
+    {
+      "name": "Grebo-Aizi",
+      "id": "greb1258",
+      "url": "https://glottolog.org/resource/languoid/id/greb1258"
+    },
+    {
+      "name": "Aizi",
+      "id": "aizi1248",
+      "url": "https://glottolog.org/resource/languoid/id/aizi1248"
+    }
+  ],
+  "iso639-3": "ahi"
+}

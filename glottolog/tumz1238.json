@@ -1,0 +1,110 @@
+{
+  "pk": 8200,
+  "hid": "mzb",
+  "father_pk": 5753,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Tumzabt [tumz1238][mzb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q36149",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mozabite_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bmz",
+        "label": "Berber (Mzab)"
+      }
+    ],
+    "meds": [
+      [
+        "96708",
+        "grammar",
+        1898,
+        257,
+        "Gourliau, Ernest 1898"
+      ],
+      [
+        "41269",
+        "grammar",
+        1897,
+        0,
+        "Lunis, 'Amr Nur ibn Si and Yahya, Moka Mas'ud ibn 1897"
+      ],
+      [
+        "74142",
+        "grammar_sketch",
+        1893,
+        52,
+        "Basset, René 1893"
+      ],
+      [
+        "98567",
+        "phonology_or_text",
+        1892,
+        16,
+        "Basset, René 1892"
+      ],
+      [
+        "90196",
+        "wordlist_or_less",
+        1879,
+        21,
+        "Masqueray, Émile 1879"
+      ],
+      [
+        "67033",
+        "wordlist_or_less",
+        1844,
+        2,
+        "Guyon, M. 1844"
+      ]
+    ]
+  },
+  "id": "tumz1238",
+  "name": "Tumzabt",
+  "description": null,
+  "markup_description": null,
+  "latitude": 32.5014,
+  "longitude": 3.85035,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Berber",
+      "id": "berb1260",
+      "url": "https://glottolog.org/resource/languoid/id/berb1260"
+    },
+    {
+      "name": "Greater Zenatic",
+      "id": "grea1296",
+      "url": "https://glottolog.org/resource/languoid/id/grea1296"
+    },
+    {
+      "name": "Zenatic",
+      "id": "zena1250",
+      "url": "https://glottolog.org/resource/languoid/id/zena1250"
+    },
+    {
+      "name": "Northern Saharan Oasis Berber",
+      "id": "moza1250",
+      "url": "https://glottolog.org/resource/languoid/id/moza1250"
+    }
+  ],
+  "iso639-3": "mzb"
+}

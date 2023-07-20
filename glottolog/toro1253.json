@@ -1,0 +1,77 @@
+{
+  "pk": 2155,
+  "hid": "dtt",
+  "father_pk": 986,
+  "family_pk": 117,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Toro Tegu Dogon [toro1253][dtt]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3913924",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Toro-tegu_Dogon",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "322840",
+        "long_grammar",
+        2014,
+        435,
+        "Heath, Jeffrey 2014"
+      ],
+      [
+        "44425",
+        "grammar",
+        2007,
+        168,
+        "Heath, Jeffrey 2007"
+      ],
+      [
+        "135358",
+        "wordlist_or_less",
+        2004,
+        9,
+        "Hochstetler, J. Lee and Durieux, J. A. and Durieux-Boon, E. I. K. 2004"
+      ],
+      [
+        "318864",
+        "wordlist_or_less",
+        1921,
+        9,
+        "Robert Arnaud 1921"
+      ]
+    ]
+  },
+  "id": "toro1253",
+  "name": "Toro Tegu Dogon",
+  "description": null,
+  "markup_description": null,
+  "latitude": 15.0644,
+  "longitude": -2.22427,
+  "classification": [
+    {
+      "name": "Dogon",
+      "id": "dogo1299",
+      "url": "https://glottolog.org/resource/languoid/id/dogo1299"
+    },
+    {
+      "name": "Plains Dogon",
+      "id": "plai1257",
+      "url": "https://glottolog.org/resource/languoid/id/plai1257"
+    }
+  ],
+  "iso639-3": "dtt"
+}

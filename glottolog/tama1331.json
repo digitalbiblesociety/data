@@ -1,0 +1,90 @@
+{
+  "pk": 5279,
+  "hid": "tma",
+  "father_pk": 3467,
+  "family_pk": 416,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Girga [girg1242]':1,'Haura [haur1242]':1,'Orra [orra1238]':1,'Tama [tama1332]':1)'Tama {Chad} [tama1331][tma]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_tma",
+        "label": "Tama"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tama_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/tama1331",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q57001",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "27441",
+        "grammar_sketch",
+        2000,
+        33,
+        "Kellermann, Petra 2000"
+      ],
+      [
+        "110406",
+        "wordlist_or_less",
+        1991,
+        21,
+        "Edgar, John T. 1991"
+      ],
+      [
+        "104958",
+        "wordlist_or_less",
+        1955,
+        8,
+        "Bryan, Margaret Arminel 1955"
+      ],
+      [
+        "90217",
+        "wordlist_or_less",
+        1920,
+        3,
+        "MacMichael, H. A. 1920"
+      ]
+    ]
+  },
+  "id": "tama1331",
+  "name": "Tama (Chad)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 14.332,
+  "longitude": 21.9951,
+  "classification": [
+    {
+      "name": "Tamaic",
+      "id": "tama1329",
+      "url": "https://glottolog.org/resource/languoid/id/tama1329"
+    },
+    {
+      "name": "Tama-Sungor-Miisiirii",
+      "id": "tama1330",
+      "url": "https://glottolog.org/resource/languoid/id/tama1330"
+    },
+    {
+      "name": "Tama-Sungor",
+      "id": "tama1368",
+      "url": "https://glottolog.org/resource/languoid/id/tama1368"
+    }
+  ],
+  "iso639-3": "tma"
+}

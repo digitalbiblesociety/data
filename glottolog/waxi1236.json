@@ -1,0 +1,70 @@
+{
+  "pk": 3203,
+  "hid": "wxa",
+  "father_pk": 1663,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Waxianghua [waxi1236][wxa]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q2252191",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Waxiang_Chinese",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "586750",
+        "long_grammar",
+        2017,
+        314,
+        "Deng, Jie 2017"
+      ],
+      [
+        "319173",
+        "grammar_sketch",
+        2010,
+        167,
+        "Wu, Yunji and Shen, Ruiqing 2010"
+      ],
+      [
+        "322297",
+        "grammar_sketch",
+        1999,
+        133,
+        "Yang, Wei 1999"
+      ]
+    ]
+  },
+  "id": "waxi1236",
+  "name": "Waxianghua",
+  "description": null,
+  "markup_description": null,
+  "latitude": 28.644,
+  "longitude": 110.362,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Sinitic",
+      "id": "sini1245",
+      "url": "https://glottolog.org/resource/languoid/id/sini1245"
+    }
+  ],
+  "iso639-3": "wxa"
+}

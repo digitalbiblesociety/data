@@ -1,0 +1,96 @@
+{
+  "pk": 10603,
+  "hid": "hal",
+  "father_pk": 7704,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Halang [hala1252][hal]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56307",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Halang_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_hln",
+        "label": "Halang"
+      }
+    ],
+    "meds": [
+      [
+        "38239",
+        "grammar_sketch",
+        1971,
+        45,
+        "Cooper, James 1971"
+      ],
+      [
+        "107966",
+        "phonology_or_text",
+        1964,
+        0,
+        "Cooper, James S. and Cooper, Nancy 1964"
+      ],
+      [
+        "151548",
+        "wordlist_or_less",
+        1919,
+        12,
+        "Prachakitchakonrachak, Phraya and Thomas, David D. and Sophana Srichampa 1995 [1919]"
+      ],
+      [
+        "444990",
+        "wordlist_or_less",
+        1912,
+        84,
+        "Henri Maitre 1912"
+      ]
+    ]
+  },
+  "id": "hala1252",
+  "name": "Halang",
+  "description": null,
+  "markup_description": null,
+  "latitude": 14.7862,
+  "longitude": 107.457,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Bahnaric",
+      "id": "bahn1264",
+      "url": "https://glottolog.org/resource/languoid/id/bahn1264"
+    },
+    {
+      "name": "North Bahnaric",
+      "id": "nort3150",
+      "url": "https://glottolog.org/resource/languoid/id/nort3150"
+    },
+    {
+      "name": "Kayong-Jeh-Halang",
+      "id": "jehh1244",
+      "url": "https://glottolog.org/resource/languoid/id/jehh1244"
+    },
+    {
+      "name": "Jeh-Halang",
+      "id": "jehh1246",
+      "url": "https://glottolog.org/resource/languoid/id/jehh1246"
+    }
+  ],
+  "iso639-3": "hal"
+}

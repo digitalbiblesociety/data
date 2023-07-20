@@ -1,0 +1,88 @@
+{
+  "pk": 8715,
+  "hid": "tyu",
+  "father_pk": 6201,
+  "family_pk": 171,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Cua {Tshwa} [cuat1240]':1,'Kua [kuaa1239]':1,'Tsua [tsua1234]':1)'Southern Tshwa [kuaa1238][tyu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3832933",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "307128",
+        "grammar_sketch",
+        2013,
+        17,
+        "Rainer Vossen 2013"
+      ],
+      [
+        "57441",
+        "phonology_or_text",
+        2000,
+        15,
+        "Chebanne, Andy M. 2000"
+      ],
+      [
+        "148882",
+        "phonology_or_text",
+        1997,
+        12,
+        "Voßen, Rainer 1997"
+      ],
+      [
+        "51524",
+        "wordlist_or_less",
+        1907,
+        16,
+        "Passarge, Siegfried 1907"
+      ]
+    ]
+  },
+  "id": "kuaa1238",
+  "name": "Southern Tshwa",
+  "description": null,
+  "markup_description": null,
+  "latitude": -22.0237,
+  "longitude": 26.0158,
+  "classification": [
+    {
+      "name": "Khoe-Kwadi",
+      "id": "khoe1240",
+      "url": "https://glottolog.org/resource/languoid/id/khoe1240"
+    },
+    {
+      "name": "Khoe",
+      "id": "khoe1241",
+      "url": "https://glottolog.org/resource/languoid/id/khoe1241"
+    },
+    {
+      "name": "Non-Khoekhoe",
+      "id": "nonk1236",
+      "url": "https://glottolog.org/resource/languoid/id/nonk1236"
+    },
+    {
+      "name": "Ost-Kxoe",
+      "id": "ostk1235",
+      "url": "https://glottolog.org/resource/languoid/id/ostk1235"
+    },
+    {
+      "name": "Tshwa Khoe",
+      "id": "tshw1239",
+      "url": "https://glottolog.org/resource/languoid/id/tshw1239"
+    }
+  ],
+  "iso639-3": "tyu"
+}

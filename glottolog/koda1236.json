@@ -1,0 +1,89 @@
+{
+  "pk": 10608,
+  "hid": "cdz",
+  "father_pk": 7711,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Koda [koda1236][cdz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5623",
+        "label": "Koda"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6425038",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Koda_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "589452",
+        "grammar_sketch",
+        2011,
+        29,
+        "R. Senkuttuvan 2011"
+      ],
+      [
+        "146605",
+        "wordlist_or_less",
+        2010,
+        15,
+        "Seung Kim and Amy Kim and Sayed Ahmad and Mridul Sangma 2010"
+      ],
+      [
+        "304344",
+        "wordlist_or_less",
+        1906,
+        3,
+        "George A. Grierson 1906"
+      ]
+    ]
+  },
+  "id": "koda1236",
+  "name": "Koda",
+  "description": null,
+  "markup_description": null,
+  "latitude": 23.234,
+  "longitude": 87.479,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Mundaic",
+      "id": "mund1335",
+      "url": "https://glottolog.org/resource/languoid/id/mund1335"
+    },
+    {
+      "name": "North Munda",
+      "id": "nort3151",
+      "url": "https://glottolog.org/resource/languoid/id/nort3151"
+    },
+    {
+      "name": "Kherwarian",
+      "id": "kher1245",
+      "url": "https://glottolog.org/resource/languoid/id/kher1245"
+    },
+    {
+      "name": "Mundaric",
+      "id": "mund1336",
+      "url": "https://glottolog.org/resource/languoid/id/mund1336"
+    }
+  ],
+  "iso639-3": "cdz"
+}

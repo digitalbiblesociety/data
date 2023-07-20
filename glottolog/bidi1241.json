@@ -1,0 +1,99 @@
+{
+  "pk": 14285,
+  "hid": "bid",
+  "father_pk": 11214,
+  "family_pk": 114,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bigawguno [biga1242]':1,'Garawgino [gara1267]':1,'Jekkino [jekk1238]':1,'Nalguno [nalg1238]':1,'Oboyguno [oboy1238]':1)'Bidiyo [bidi1241][bid]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 5,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56258",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Bidiyo_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_bid",
+        "label": "Bidiya"
+      }
+    ],
+    "meds": [
+      [
+        "33789",
+        "long_grammar",
+        1987,
+        383,
+        "Alio-Daouchane, Khalil 1987"
+      ],
+      [
+        "15728",
+        "long_grammar",
+        1986,
+        362,
+        "Alio, Khalil 1986"
+      ],
+      [
+        "7670",
+        "grammar_sketch",
+        1949,
+        3,
+        "de Rendinger, R. 1949"
+      ]
+    ]
+  },
+  "id": "bidi1241",
+  "name": "Bidiyo",
+  "description": null,
+  "markup_description": null,
+  "latitude": 11.9204,
+  "longitude": 18.8065,
+  "classification": [
+    {
+      "name": "Afro-Asiatic",
+      "id": "afro1255",
+      "url": "https://glottolog.org/resource/languoid/id/afro1255"
+    },
+    {
+      "name": "Chadic",
+      "id": "chad1250",
+      "url": "https://glottolog.org/resource/languoid/id/chad1250"
+    },
+    {
+      "name": "East Chadic",
+      "id": "east2632",
+      "url": "https://glottolog.org/resource/languoid/id/east2632"
+    },
+    {
+      "name": "East Chadic B",
+      "id": "east2633",
+      "url": "https://glottolog.org/resource/languoid/id/east2633"
+    },
+    {
+      "name": "East Chadic B.1",
+      "id": "east2709",
+      "url": "https://glottolog.org/resource/languoid/id/east2709"
+    },
+    {
+      "name": "Dangla-Mabire-Birgit",
+      "id": "dang1275",
+      "url": "https://glottolog.org/resource/languoid/id/dang1275"
+    },
+    {
+      "name": "Dangla",
+      "id": "dang1276",
+      "url": "https://glottolog.org/resource/languoid/id/dang1276"
+    }
+  ],
+  "iso639-3": "bid"
+}

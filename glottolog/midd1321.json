@@ -1,0 +1,81 @@
+{
+  "pk": 14022,
+  "hid": "dum",
+  "father_pk": 10930,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Middle Dutch [midd1321][dum]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Middle_Dutch",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q178806",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "549380",
+        "long_grammar",
+        1887,
+        552,
+        "van Helten, Willem L. 1887"
+      ]
+    ]
+  },
+  "id": "midd1321",
+  "name": "Middle Dutch",
+  "description": null,
+  "markup_description": null,
+  "latitude": 51.656,
+  "longitude": 5.34,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Germanic",
+      "id": "germ1287",
+      "url": "https://glottolog.org/resource/languoid/id/germ1287"
+    },
+    {
+      "name": "Northwest Germanic",
+      "id": "nort3152",
+      "url": "https://glottolog.org/resource/languoid/id/nort3152"
+    },
+    {
+      "name": "West Germanic",
+      "id": "west2793",
+      "url": "https://glottolog.org/resource/languoid/id/west2793"
+    },
+    {
+      "name": "Macro-Dutch",
+      "id": "macr1270",
+      "url": "https://glottolog.org/resource/languoid/id/macr1270"
+    },
+    {
+      "name": "Middle-Modern Dutch",
+      "id": "midd1347",
+      "url": "https://glottolog.org/resource/languoid/id/midd1347"
+    }
+  ],
+  "iso639-3": "dum"
+}

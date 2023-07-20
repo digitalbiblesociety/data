@@ -1,0 +1,90 @@
+{
+  "pk": 3564,
+  "hid": "tuq",
+  "father_pk": 1906,
+  "family_pk": 16,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kecherda [kech1245]':1)'Tedaga [teda1241][tuq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4831",
+        "label": "Tedaga"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q36639",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Teda_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/teda1241",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "28729",
+        "grammar_sketch",
+        1956,
+        197,
+        "LeCoeur, C. and LeCoeur, M. 1956"
+      ],
+      [
+        "128547",
+        "grammar_sketch",
+        1877,
+        7,
+        "Müller, Friedrich 1877"
+      ],
+      [
+        "657809",
+        "wordlist_or_less",
+        1862,
+        251,
+        "Barth, Heinrich 1862/66"
+      ],
+      [
+        "156414",
+        "wordlist_or_less",
+        1855,
+        2,
+        "Latham, Robert Gordon 1855"
+      ]
+    ]
+  },
+  "id": "teda1241",
+  "name": "Tedaga",
+  "description": null,
+  "markup_description": null,
+  "latitude": 18.0426,
+  "longitude": 14.7717,
+  "classification": [
+    {
+      "name": "Saharan",
+      "id": "saha1256",
+      "url": "https://glottolog.org/resource/languoid/id/saha1256"
+    },
+    {
+      "name": "Western Saharan",
+      "id": "west2505",
+      "url": "https://glottolog.org/resource/languoid/id/west2505"
+    },
+    {
+      "name": "Tebu",
+      "id": "tebu1238",
+      "url": "https://glottolog.org/resource/languoid/id/tebu1238"
+    }
+  ],
+  "iso639-3": "tuq"
+}

@@ -1,0 +1,108 @@
+{
+  "pk": 3666,
+  "hid": "way",
+  "father_pk": 1998,
+  "family_pk": 56,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Rucuyen [rucu1237]':1,'Urucuiana [uruc1241]':1)'Wayana [waya1269][way]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1948",
+        "label": "Wayana"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_wyn",
+        "label": "Wayana"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Wayana_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/waya1269",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5908753",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "22509",
+        "long_grammar",
+        2005,
+        472,
+        "Tavares, Petronila da Silva 2005"
+      ],
+      [
+        "84671",
+        "grammar",
+        1982,
+        0,
+        "Howell, Kenneth J. 1982"
+      ],
+      [
+        "77309",
+        "grammar_sketch",
+        1946,
+        70,
+        "Goeje, Claudius Henricus de 1946"
+      ],
+      [
+        "32545",
+        "phonology_or_text",
+        1909,
+        24,
+        "de Goeje, Claudius Henricus 1909"
+      ],
+      [
+        "116816",
+        "wordlist_or_less",
+        1892,
+        48,
+        "Henri Coudreau 1892"
+      ],
+      [
+        "68869",
+        "wordlist_or_less",
+        1883,
+        0,
+        "Crévaux, Jules Nicolas 1883"
+      ]
+    ]
+  },
+  "id": "waya1269",
+  "name": "Wayana",
+  "description": null,
+  "markup_description": null,
+  "latitude": 2.77537,
+  "longitude": -54.4429,
+  "classification": [
+    {
+      "name": "Cariban",
+      "id": "cari1283",
+      "url": "https://glottolog.org/resource/languoid/id/cari1283"
+    },
+    {
+      "name": "Guianan",
+      "id": "guia1242",
+      "url": "https://glottolog.org/resource/languoid/id/guia1242"
+    },
+    {
+      "name": "Wayanaic",
+      "id": "waya1272",
+      "url": "https://glottolog.org/resource/languoid/id/waya1272"
+    }
+  ],
+  "iso639-3": "way"
+}

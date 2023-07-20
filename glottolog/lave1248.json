@@ -1,0 +1,96 @@
+{
+  "pk": 10580,
+  "hid": "lbo",
+  "father_pk": 7693,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Laven [lave1248][lbo]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6298648",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Jru%27_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_lov",
+        "label": "Loven"
+      }
+    ],
+    "meds": [
+      [
+        "141323",
+        "long_grammar",
+        2001,
+        582,
+        "Jacq, Pascale 2001"
+      ],
+      [
+        "140387",
+        "phonology_or_text",
+        1999,
+        128,
+        "Jacq, Pascale and Sidwell, Paul 1999"
+      ],
+      [
+        "81489",
+        "wordlist_or_less",
+        1949,
+        22,
+        "Bondet de la Bernardie, J. 1949"
+      ],
+      [
+        "588181",
+        "wordlist_or_less",
+        1901,
+        11,
+        "Lavallée, Alfred 1901"
+      ]
+    ]
+  },
+  "id": "lave1248",
+  "name": "Laven",
+  "description": null,
+  "markup_description": null,
+  "latitude": 15.2726,
+  "longitude": 106.322,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Bahnaric",
+      "id": "bahn1264",
+      "url": "https://glottolog.org/resource/languoid/id/bahn1264"
+    },
+    {
+      "name": "West Bahnaric",
+      "id": "west2399",
+      "url": "https://glottolog.org/resource/languoid/id/west2399"
+    },
+    {
+      "name": "Nuclear West Bahnaric",
+      "id": "nucl1299",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1299"
+    },
+    {
+      "name": "Loven-Suq",
+      "id": "love1237",
+      "url": "https://glottolog.org/resource/languoid/id/love1237"
+    }
+  ],
+  "iso639-3": "lbo"
+}

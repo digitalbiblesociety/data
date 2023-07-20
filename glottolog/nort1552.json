@@ -1,0 +1,92 @@
+{
+  "pk": 8790,
+  "hid": "crl",
+  "father_pk": 6287,
+  "family_pk": 178,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Northern East Cree [nort1552][crl]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2165",
+        "label": "East Cree"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12642195",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "586582",
+        "long_grammar",
+        2014,
+        440,
+        "Collette, Vincent 2014"
+      ],
+      [
+        "163403",
+        "grammar_sketch",
+        1980,
+        20,
+        "MacKenzie, Marguerite 1980"
+      ],
+      [
+        "596037",
+        "wordlist_or_less",
+        1979,
+        9,
+        "W. K. Barger 1979"
+      ],
+      [
+        "56948",
+        "wordlist_or_less",
+        1975,
+        0,
+        "Ellis, C. Douglas 1975"
+      ]
+    ]
+  },
+  "id": "nort1552",
+  "name": "Northern East Cree",
+  "description": null,
+  "markup_description": null,
+  "latitude": 55.1928,
+  "longitude": -77.7505,
+  "classification": [
+    {
+      "name": "Algic",
+      "id": "algi1248",
+      "url": "https://glottolog.org/resource/languoid/id/algi1248"
+    },
+    {
+      "name": "Algonquian-Blackfoot",
+      "id": "algo1256",
+      "url": "https://glottolog.org/resource/languoid/id/algo1256"
+    },
+    {
+      "name": "Algonquian",
+      "id": "algo1257",
+      "url": "https://glottolog.org/resource/languoid/id/algo1257"
+    },
+    {
+      "name": "Cree-Montagnais-Naskapi",
+      "id": "cree1271",
+      "url": "https://glottolog.org/resource/languoid/id/cree1271"
+    },
+    {
+      "name": "Cree",
+      "id": "cree1272",
+      "url": "https://glottolog.org/resource/languoid/id/cree1272"
+    }
+  ],
+  "iso639-3": "crl"
+}

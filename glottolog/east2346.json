@@ -1,0 +1,74 @@
+{
+  "pk": 10269,
+  "hid": "tge",
+  "father_pk": 7372,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kasigaon [kasi1252]':1,'Kerounja [kero1242]':1)'Eastern Gorkha Tamang [east2346][tge]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q12953175",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "467702",
+        "wordlist_or_less",
+        2014,
+        28,
+        "Timothy Lipp 2014"
+      ],
+      [
+        "74024",
+        "wordlist_or_less",
+        1996,
+        78,
+        "Varenkamp, Bryan 1996"
+      ]
+    ]
+  },
+  "id": "east2346",
+  "name": "Eastern Gorkha Tamang",
+  "description": null,
+  "markup_description": null,
+  "latitude": 28.2213,
+  "longitude": 84.9451,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "Kaike-Ghale-Tamangic",
+      "id": "kaik1248",
+      "url": "https://glottolog.org/resource/languoid/id/kaik1248"
+    },
+    {
+      "name": "Ghale-Tamangic",
+      "id": "ghal1247",
+      "url": "https://glottolog.org/resource/languoid/id/ghal1247"
+    },
+    {
+      "name": "Tamangic",
+      "id": "tama1367",
+      "url": "https://glottolog.org/resource/languoid/id/tama1367"
+    }
+  ],
+  "iso639-3": "tge"
+}

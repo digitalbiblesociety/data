@@ -1,0 +1,83 @@
+{
+  "pk": 5889,
+  "hid": "efe",
+  "father_pk": 3933,
+  "family_pk": 140,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Efe [efee1239][efe]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56354",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "312795",
+        "long_grammar",
+        1938,
+        351,
+        "Smith, Edwin W. 1938"
+      ],
+      [
+        "102870",
+        "phonology_or_text",
+        1877,
+        0,
+        "Beltrame, D. Giovanni 1877"
+      ],
+      [
+        "56173",
+        "wordlist_or_less",
+        1876,
+        37,
+        "[1876a] 1876"
+      ],
+      [
+        "10869",
+        "wordlist_or_less",
+        1875,
+        0,
+        "Miani, Giovanni 1875"
+      ]
+    ]
+  },
+  "id": "efee1239",
+  "name": "Efe",
+  "description": null,
+  "markup_description": null,
+  "latitude": 1.8798,
+  "longitude": 29.2918,
+  "classification": [
+    {
+      "name": "Central Sudanic",
+      "id": "cent2225",
+      "url": "https://glottolog.org/resource/languoid/id/cent2225"
+    },
+    {
+      "name": "Membi-Mangbutu-Efe",
+      "id": "memb1239",
+      "url": "https://glottolog.org/resource/languoid/id/memb1239"
+    },
+    {
+      "name": "Mangbutu-Efe",
+      "id": "mang1425",
+      "url": "https://glottolog.org/resource/languoid/id/mang1425"
+    },
+    {
+      "name": "Leseic",
+      "id": "lese1245",
+      "url": "https://glottolog.org/resource/languoid/id/lese1245"
+    }
+  ],
+  "iso639-3": "efe"
+}

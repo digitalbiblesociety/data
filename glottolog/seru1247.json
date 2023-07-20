@@ -1,0 +1,62 @@
+{
+  "pk": 594,
+  "hid": "szd",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'Seru [seru1247][szd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "szd",
+      "name": "Seru",
+      "change_request": "2022-014",
+      "effective": "2023-01-20",
+      "reason": "merge",
+      "change_to": [
+        "uki"
+      ],
+      "remedy": "Merged into [umi] Ukit",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7455488",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Seru_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "666876",
+        "wordlist_or_less",
+        2022,
+        0,
+        "ISO 639-3 Registration Authority 2022"
+      ]
+    ]
+  },
+  "id": "seru1247",
+  "name": "Seru",
+  "description": null,
+  "markup_description": null,
+  "latitude": 1.73885,
+  "longitude": 112.133,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "szd"
+}

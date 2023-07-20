@@ -1,0 +1,133 @@
+{
+  "pk": 12854,
+  "hid": "ewe",
+  "father_pk": 9903,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Adan [adan1249]':1,'Agu {Ewe} [aguu1242]':1,'Anlo [angl1262]':1,'Aveno [aven1238]':1,'Be [beee1241]':1,('Gbin {Ewe} [gbin1238]':1,'Ho {Ghana} [hooo1250]':1,'Kpelen [kpel1251]':1,'Vhlin [vlin1238]':1)'Northwestern Gbe [nort3331]':1,'Togo {Ewe} [togo1251]':1)'Ewe [ewee1241][ewe]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 11,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_ewe",
+        "label": "Ewe"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ewe_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/ewee1241",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q30005",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "43229",
+        "long_grammar",
+        1979,
+        1089,
+        "Rongier, Jacques 1979"
+      ],
+      [
+        "98882",
+        "long_grammar",
+        1972,
+        334,
+        "Clements, George N. 1972"
+      ],
+      [
+        "110503",
+        "long_grammar",
+        1968,
+        304,
+        "Warburton, Irene and Prosper Kpotufe and Roland Glover and Catherine Felten 1968"
+      ],
+      [
+        "160839",
+        "grammar",
+        1930,
+        274,
+        "Westermann, Diedrich 1930"
+      ],
+      [
+        "36703",
+        "grammar",
+        1906,
+        204,
+        "Seidel, August 1906"
+      ],
+      [
+        "135109",
+        "grammar",
+        1730,
+        12,
+        "Labat, Jean-Baptiste 1730"
+      ],
+      [
+        "8824",
+        "grammar",
+        1688,
+        0,
+        "Barbot, Jean 1688"
+      ],
+      [
+        "54195",
+        "wordlist_or_less",
+        1479,
+        0,
+        "Fosse, Eustache de la 1479/80"
+      ]
+    ]
+  },
+  "id": "ewee1241",
+  "name": "Ewe",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.46061,
+  "longitude": 0.814975,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Kwa Volta-Congo",
+      "id": "kwav1236",
+      "url": "https://glottolog.org/resource/languoid/id/kwav1236"
+    },
+    {
+      "name": "Gbe",
+      "id": "gbee1241",
+      "url": "https://glottolog.org/resource/languoid/id/gbee1241"
+    },
+    {
+      "name": "Western Gbe",
+      "id": "west2802",
+      "url": "https://glottolog.org/resource/languoid/id/west2802"
+    },
+    {
+      "name": "Eweic",
+      "id": "ewei1234",
+      "url": "https://glottolog.org/resource/languoid/id/ewei1234"
+    }
+  ],
+  "iso639-3": "ewe"
+}

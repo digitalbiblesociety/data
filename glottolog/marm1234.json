@@ -1,0 +1,93 @@
+{
+  "pk": 18404,
+  "hid": "rmz",
+  "father_pk": 15974,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Marma [marm1234][rmz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q21403256",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_akm",
+        "label": "Arakanese (Marma)"
+      }
+    ],
+    "meds": [
+      [
+        "549571",
+        "phonology_or_text",
+        2003,
+        64,
+        "Huziwara, Keisuke 2003"
+      ],
+      [
+        "68303",
+        "phonology_or_text",
+        1957,
+        22,
+        "Bernot, Denise 1957-1958"
+      ]
+    ]
+  },
+  "id": "marm1234",
+  "name": "Marma",
+  "description": null,
+  "markup_description": null,
+  "latitude": 22.759948,
+  "longitude": 92.210748,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Burmo-Qiangic",
+      "id": "burm1265",
+      "url": "https://glottolog.org/resource/languoid/id/burm1265"
+    },
+    {
+      "name": "Lolo-Burmese",
+      "id": "lolo1265",
+      "url": "https://glottolog.org/resource/languoid/id/lolo1265"
+    },
+    {
+      "name": "Burmish",
+      "id": "burm1266",
+      "url": "https://glottolog.org/resource/languoid/id/burm1266"
+    },
+    {
+      "name": "Southern Burmish",
+      "id": "sout3159",
+      "url": "https://glottolog.org/resource/languoid/id/sout3159"
+    },
+    {
+      "name": "Mranmaic",
+      "id": "mran1234",
+      "url": "https://glottolog.org/resource/languoid/id/mran1234"
+    },
+    {
+      "name": "Nuclear Mranmaic",
+      "id": "nucl1811",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1811"
+    },
+    {
+      "name": "Arakanese-Marma",
+      "id": "arak1255",
+      "url": "https://glottolog.org/resource/languoid/id/arak1255"
+    }
+  ],
+  "iso639-3": "rmz"
+}

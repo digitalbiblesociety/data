@@ -1,0 +1,58 @@
+{
+  "pk": 726,
+  "hid": "thx",
+  "father_pk": 39,
+  "family_pk": 39,
+  "level": "language",
+  "bookkeeping": true,
+  "category": "Bookkeeping",
+  "newick": "'The [thee1240][thx]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": {
+      "code": "thx",
+      "name": "The",
+      "change_request": "2014-014",
+      "effective": "2015-01-12",
+      "reason": "duplicate",
+      "change_to": [
+        "oyb"
+      ],
+      "remedy": "Duplicate of Oy [oyb]",
+      "comment": null
+    },
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q25559536",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "500950",
+        "wordlist_or_less",
+        2014,
+        0,
+        "ISO 639-3 Registration Authority 2014"
+      ]
+    ]
+  },
+  "id": "thee1240",
+  "name": "The",
+  "description": null,
+  "markup_description": null,
+  "latitude": 14.6733,
+  "longitude": 106.667,
+  "classification": [
+    {
+      "name": "Bookkeeping",
+      "id": "book1242",
+      "url": "https://glottolog.org/resource/languoid/id/book1242"
+    }
+  ],
+  "iso639-3": "thx"
+}

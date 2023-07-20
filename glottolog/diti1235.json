@@ -1,0 +1,90 @@
+{
+  "pk": 3590,
+  "hid": "dtd",
+  "father_pk": 1920,
+  "family_pk": 28,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ditidaht [diti1235][dtd]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1716",
+        "label": "Diitiidʔaatx̣ (Nitinat)"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q13728042",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ditidaht_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_nit",
+        "label": "Nitinaht"
+      }
+    ],
+    "meds": [
+      [
+        "305043",
+        "grammar_sketch",
+        1981,
+        250,
+        "J. T. Thomas and Thomas Hess 1981"
+      ],
+      [
+        "573536",
+        "phonology_or_text",
+        1978,
+        20,
+        "Terry J. Klokeid 1978"
+      ],
+      [
+        "325596",
+        "phonology_or_text",
+        1977,
+        29,
+        "Bernice Touchie 1977"
+      ],
+      [
+        "413623",
+        "phonology_or_text",
+        1933,
+        14,
+        "Mary Haas Swadesh and Morris Swadesh 1933"
+      ]
+    ]
+  },
+  "id": "diti1235",
+  "name": "Ditidaht",
+  "description": null,
+  "markup_description": null,
+  "latitude": 48.67,
+  "longitude": -124.75,
+  "classification": [
+    {
+      "name": "Wakashan",
+      "id": "waka1280",
+      "url": "https://glottolog.org/resource/languoid/id/waka1280"
+    },
+    {
+      "name": "Southern Wakashan",
+      "id": "sout2981",
+      "url": "https://glottolog.org/resource/languoid/id/sout2981"
+    },
+    {
+      "name": "Makah-Nitinat",
+      "id": "maka1326",
+      "url": "https://glottolog.org/resource/languoid/id/maka1326"
+    }
+  ],
+  "iso639-3": "dtd"
+}

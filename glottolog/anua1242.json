@@ -1,0 +1,109 @@
+{
+  "pk": 7068,
+  "hid": "anu",
+  "father_pk": 4849,
+  "family_pk": 316,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Adoyo [adoy1238]':1,'Coro [coro1246]':1,'Lul [lull1238]':1,'Opëno [open1238]':1)'Anuak [anua1242][anu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56677",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Anuak_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/anua1242",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_any",
+        "label": "Anywa"
+      }
+    ],
+    "meds": [
+      [
+        "67422",
+        "long_grammar",
+        1996,
+        594,
+        "Reh, Mechthild 1996"
+      ],
+      [
+        "128974",
+        "grammar",
+        1994,
+        0,
+        "Reh, Mechthild 1994"
+      ],
+      [
+        "50650",
+        "grammar_sketch",
+        1990,
+        504,
+        "Perner, Conradin 1990"
+      ],
+      [
+        "17313",
+        "grammar_sketch",
+        1976,
+        18,
+        "Lusted, Marie 1976"
+      ],
+      [
+        "114583",
+        "grammar_sketch",
+        1912,
+        8,
+        "Pearson, H.D. [Capt.] 1912"
+      ],
+      [
+        "585624",
+        "wordlist_or_less",
+        1845,
+        14,
+        "d'Abbadie, Antoine 1845"
+      ]
+    ]
+  },
+  "id": "anua1242",
+  "name": "Anuak",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.57714,
+  "longitude": 34.0267,
+  "classification": [
+    {
+      "name": "Nilotic",
+      "id": "nilo1247",
+      "url": "https://glottolog.org/resource/languoid/id/nilo1247"
+    },
+    {
+      "name": "Western Nilotic",
+      "id": "west2493",
+      "url": "https://glottolog.org/resource/languoid/id/west2493"
+    },
+    {
+      "name": "Lwoo",
+      "id": "lwoo1234",
+      "url": "https://glottolog.org/resource/languoid/id/lwoo1234"
+    },
+    {
+      "name": "Northern Lwoo",
+      "id": "nort2814",
+      "url": "https://glottolog.org/resource/languoid/id/nort2814"
+    }
+  ],
+  "iso639-3": "anu"
+}

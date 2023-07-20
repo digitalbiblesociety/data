@@ -1,0 +1,68 @@
+{
+  "pk": 4736,
+  "hid": "nvm",
+  "father_pk": 2996,
+  "family_pk": 290,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Namiae [nami1258][nvm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Namiae_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12952922",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "79964",
+        "phonology_or_text",
+        2004,
+        801,
+        "Rosemary Ewande and Clement Java and Winnyfaith Nai 2004"
+      ],
+      [
+        "469484",
+        "wordlist_or_less",
+        1969,
+        2,
+        "Dutton, Thomas Edward 1969"
+      ]
+    ]
+  },
+  "id": "nami1258",
+  "name": "Namiae",
+  "description": null,
+  "markup_description": null,
+  "latitude": -9.18089,
+  "longitude": 148.166,
+  "classification": [
+    {
+      "name": "Koiarian",
+      "id": "koia1260",
+      "url": "https://glottolog.org/resource/languoid/id/koia1260"
+    },
+    {
+      "name": "Baraic",
+      "id": "bara1376",
+      "url": "https://glottolog.org/resource/languoid/id/bara1376"
+    },
+    {
+      "name": "Barai-Namiae",
+      "id": "bara1377",
+      "url": "https://glottolog.org/resource/languoid/id/bara1377"
+    }
+  ],
+  "iso639-3": "nvm"
+}

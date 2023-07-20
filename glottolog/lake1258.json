@@ -1,0 +1,80 @@
+{
+  "pk": 3898,
+  "hid": "lmw",
+  "father_pk": 2191,
+  "family_pk": 128,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Lake Miwok [lake1258][lmw]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1147",
+        "label": "Lake Miwok"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3216471",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lake_Miwok_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/lake1258",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mwl",
+        "label": "Miwok (Lake)"
+      }
+    ],
+    "meds": [
+      [
+        "108126",
+        "grammar",
+        1963,
+        268,
+        "Catherine Callaghan 1963"
+      ],
+      [
+        "571746",
+        "wordlist_or_less",
+        1922,
+        18,
+        "Gifford, E. W. 1922"
+      ]
+    ]
+  },
+  "id": "lake1258",
+  "name": "Lake Miwok",
+  "description": null,
+  "markup_description": null,
+  "latitude": 39.0021,
+  "longitude": -122.621,
+  "classification": [
+    {
+      "name": "Miwok-Costanoan",
+      "id": "miwo1274",
+      "url": "https://glottolog.org/resource/languoid/id/miwo1274"
+    },
+    {
+      "name": "Miwokan",
+      "id": "miwo1275",
+      "url": "https://glottolog.org/resource/languoid/id/miwo1275"
+    },
+    {
+      "name": "Western Miwokan",
+      "id": "west2633",
+      "url": "https://glottolog.org/resource/languoid/id/west2633"
+    }
+  ],
+  "iso639-3": "lmw"
+}

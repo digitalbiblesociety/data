@@ -1,0 +1,92 @@
+{
+  "pk": 7556,
+  "hid": "emp",
+  "father_pk": 5226,
+  "family_pk": 390,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Northern Emberá [nort2972][emp]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_emb",
+        "label": "Emberá (Northern)"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/5153",
+        "label": "Northern Emberá"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Northern_Embera_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nort2972",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2391297",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "74987",
+        "grammar",
+        1958,
+        295,
+        "Loewen, Jacob Abram 1958"
+      ],
+      [
+        "155652",
+        "grammar_sketch",
+        1876,
+        20,
+        "No Author Stated 1876"
+      ],
+      [
+        "45168",
+        "wordlist_or_less",
+        1850,
+        2,
+        "R. G. Latham 1850"
+      ]
+    ]
+  },
+  "id": "nort2972",
+  "name": "Northern Emberá",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.12761,
+  "longitude": -77.574,
+  "classification": [
+    {
+      "name": "Chocoan",
+      "id": "choc1280",
+      "url": "https://glottolog.org/resource/languoid/id/choc1280"
+    },
+    {
+      "name": "Embera",
+      "id": "embe1258",
+      "url": "https://glottolog.org/resource/languoid/id/embe1258"
+    },
+    {
+      "name": "Atrato",
+      "id": "atra1235",
+      "url": "https://glottolog.org/resource/languoid/id/atra1235"
+    },
+    {
+      "name": "Panama-Baudo-Atrato",
+      "id": "pana1309",
+      "url": "https://glottolog.org/resource/languoid/id/pana1309"
+    }
+  ],
+  "iso639-3": "emp"
+}

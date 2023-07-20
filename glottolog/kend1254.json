@@ -1,0 +1,97 @@
+{
+  "pk": 12244,
+  "hid": "knx",
+  "father_pk": 9323,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Ambawang [amba1264]':1,'Belangin [bela1262]':1,'Nuclear Kendayan [nucl1461]':1)'Kendayan-Belangin [kend1254][knx]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6388963",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kendayan_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "320079",
+        "grammar_sketch",
+        1984,
+        174,
+        "Yoseph, Thomas 1984"
+      ],
+      [
+        "319530",
+        "grammar_sketch",
+        1981,
+        166,
+        "Donatos Lansau 1981"
+      ],
+      [
+        "53688",
+        "phonology_or_text",
+        1949,
+        85,
+        "Donatus Dunselman 1949, 1949, 1950"
+      ],
+      [
+        "144613",
+        "wordlist_or_less",
+        1935,
+        6,
+        "E. H. Elam 1935"
+      ]
+    ]
+  },
+  "id": "kend1254",
+  "name": "Kendayan-Belangin",
+  "description": null,
+  "markup_description": null,
+  "latitude": 1.47957,
+  "longitude": 109.467,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Malayo-Sumbawan",
+      "id": "mala1536",
+      "url": "https://glottolog.org/resource/languoid/id/mala1536"
+    },
+    {
+      "name": "North and East Malayo-Sumbawan",
+      "id": "nort3170",
+      "url": "https://glottolog.org/resource/languoid/id/nort3170"
+    },
+    {
+      "name": "Malayic",
+      "id": "mala1538",
+      "url": "https://glottolog.org/resource/languoid/id/mala1538"
+    },
+    {
+      "name": "Western Malayic Dayak",
+      "id": "west2821",
+      "url": "https://glottolog.org/resource/languoid/id/west2821"
+    }
+  ],
+  "iso639-3": "knx"
+}

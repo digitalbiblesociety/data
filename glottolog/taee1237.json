@@ -1,0 +1,92 @@
+{
+  "pk": 9377,
+  "hid": "rob",
+  "father_pk": 6804,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bua {Indonesia} [buaa1246]':1,'Northeast Luwu [nort2895]':1,'Rongkong [rong1270]':1,'South Luwu [sout2924]':1)'Tae'' [taee1237][rob]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Tae%CA%BC_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12473476",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "572889",
+        "phonology_or_text",
+        2013,
+        28,
+        "Ibrahim, Gufran Ali 2013"
+      ],
+      [
+        "572888",
+        "phonology_or_text",
+        1997,
+        0,
+        "Ibrahim, Gufran Ali 1997"
+      ],
+      [
+        "122191",
+        "wordlist_or_less",
+        1987,
+        3,
+        "Grimes, Charles E. and Grimes, Barbara D. 1987"
+      ],
+      [
+        "472783",
+        "wordlist_or_less",
+        1929,
+        4,
+        "van der Veen, Hendrik 1929"
+      ]
+    ]
+  },
+  "id": "taee1237",
+  "name": "Tae'",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.58205,
+  "longitude": 120.139,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "South Sulawesi",
+      "id": "sout2923",
+      "url": "https://glottolog.org/resource/languoid/id/sout2923"
+    },
+    {
+      "name": "Northern South Sulawesi",
+      "id": "nort2894",
+      "url": "https://glottolog.org/resource/languoid/id/nort2894"
+    },
+    {
+      "name": "Torajic",
+      "id": "tora1260",
+      "url": "https://glottolog.org/resource/languoid/id/tora1260"
+    }
+  ],
+  "iso639-3": "rob"
+}

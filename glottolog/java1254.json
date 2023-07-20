@@ -1,0 +1,95 @@
+{
+  "pk": 6822,
+  "hid": "jav",
+  "father_pk": 4645,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Bagelen [bage1239]':1,'Banyumas [bany1247]':1,'Blora [blor1234]':1,'Eastern North-Coast Javanese [east2801]':1,'Kedu [kedu1234]':1,'Madiunan [madi1264]':1,'Mataraman [temb1273]':1,('Pekalongan [peka1244]':1,'Pemalang [pema1234]':1,'Tegal [tega1246]':1)'Pesisir Lor [pasi1258]':1,'Semarang {Central Javanese} [sema1270]':1,'Solo [solo1259]':1)'Central Javanese [cent2331]':1,(('Malang-Pasuruan [mala1493]':1,'Surabaya [sura1245]':1)'Arekan [arek1234]':1,'Jombang [jomb1234]':1)'East Javanese [east2487]':1,'Jawa Halus [jawa1239]':1,('Banten {West Javanese} [bant1291]':1,'Cirebon Javanese [cire1240]':1,'Indramayu [indr1248]':1)'West Javanese [west2565]':1)'Javanese [java1254][jav]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 24,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_jav",
+        "label": "Javanese"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Javanese_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/java1254",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33549",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "319771",
+        "long_grammar",
+        1855,
+        545,
+        "Taco Roorda 1855"
+      ],
+      [
+        "553213",
+        "grammar_sketch",
+        1830,
+        189,
+        "Gottlob Brückner 1830"
+      ],
+      [
+        "31869",
+        "wordlist_or_less",
+        1820,
+        59,
+        "John Crawfurd 1820"
+      ],
+      [
+        "309459",
+        "wordlist_or_less",
+        1786,
+        20,
+        "Pallas, Peter Simon 1786, 1789"
+      ]
+    ]
+  },
+  "id": "java1254",
+  "name": "Javanese",
+  "description": null,
+  "markup_description": null,
+  "latitude": -7.001,
+  "longitude": 109.287,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Javanesic",
+      "id": "java1253",
+      "url": "https://glottolog.org/resource/languoid/id/java1253"
+    },
+    {
+      "name": "Modern Javanese",
+      "id": "mode1251",
+      "url": "https://glottolog.org/resource/languoid/id/mode1251"
+    }
+  ],
+  "iso639-3": "jav"
+}

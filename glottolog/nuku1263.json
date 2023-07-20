@@ -1,0 +1,86 @@
+{
+  "pk": 8999,
+  "hid": "nuc",
+  "father_pk": 6511,
+  "family_pk": 273,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Cuyanawa [cuya1239]':1)'Nukuini [nuku1263][nuc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10427",
+        "label": "Nukini"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3346231",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nukini_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/nuku1263",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "127771",
+        "phonology_or_text",
+        2004,
+        0,
+        "Okidoi, Aline 2004"
+      ],
+      [
+        "478267",
+        "wordlist_or_less",
+        1914,
+        21,
+        "Tastevin, Constant 1914"
+      ]
+    ]
+  },
+  "id": "nuku1263",
+  "name": "Nukuini",
+  "description": null,
+  "markup_description": null,
+  "latitude": -7.339,
+  "longitude": -73.5044,
+  "classification": [
+    {
+      "name": "Pano-Tacanan",
+      "id": "pano1259",
+      "url": "https://glottolog.org/resource/languoid/id/pano1259"
+    },
+    {
+      "name": "Panoan",
+      "id": "pano1256",
+      "url": "https://glottolog.org/resource/languoid/id/pano1256"
+    },
+    {
+      "name": "Mainline Pano",
+      "id": "main1279",
+      "url": "https://glottolog.org/resource/languoid/id/main1279"
+    },
+    {
+      "name": "Pano Nawa",
+      "id": "pano1257",
+      "url": "https://glottolog.org/resource/languoid/id/pano1257"
+    },
+    {
+      "name": "Poyanawa Subgroup",
+      "id": "poya1240",
+      "url": "https://glottolog.org/resource/languoid/id/poya1240"
+    }
+  ],
+  "iso639-3": "nuc"
+}

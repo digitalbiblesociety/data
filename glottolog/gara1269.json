@@ -1,0 +1,112 @@
+{
+  "pk": 1103,
+  "hid": "wrk",
+  "father_pk": 165,
+  "family_pk": 165,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kunindirri [kuni1269]':1,'Western Garrwa [west2904]':1)'Garrwa [gara1269][wrk]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4190",
+        "label": "Garrwa"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Garrwa_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/gara1269",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_grr",
+        "label": "Garrwa"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2524022",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "314518",
+        "long_grammar",
+        2012,
+        491,
+        "Ilana Mushin 2012"
+      ],
+      [
+        "74988",
+        "grammar",
+        1991,
+        118,
+        "Belfrage, Hugh 1991"
+      ],
+      [
+        "312369",
+        "grammar_sketch",
+        1977,
+        109,
+        "Edward S. Furby and Christine E. Furby 1977"
+      ],
+      [
+        "39112",
+        "phonology_or_text",
+        1974,
+        16,
+        "Furby, Christine E. 1974"
+      ],
+      [
+        "4167",
+        "wordlist_or_less",
+        1940,
+        1,
+        "Arthur Capell 1940, 1940"
+      ],
+      [
+        "3622",
+        "wordlist_or_less",
+        1928,
+        4,
+        "Tindale, Norman B. 1928"
+      ],
+      [
+        "5024",
+        "wordlist_or_less",
+        1910,
+        2,
+        "Roth, Walter Edmund 1910"
+      ],
+      [
+        "1166",
+        "wordlist_or_less",
+        1901,
+        2,
+        "Mathews, Robert Hamilton 1901"
+      ]
+    ]
+  },
+  "id": "gara1269",
+  "name": "Garrwa",
+  "description": null,
+  "markup_description": null,
+  "latitude": -17.4504,
+  "longitude": 137.72014,
+  "classification": [
+    {
+      "name": "Garrwan",
+      "id": "garr1260",
+      "url": "https://glottolog.org/resource/languoid/id/garr1260"
+    }
+  ],
+  "iso639-3": "wrk"
+}

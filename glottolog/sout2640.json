@@ -1,0 +1,112 @@
+{
+  "pk": 18843,
+  "hid": "sdh",
+  "father_pk": 16579,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Badre''i [bayr1238]':1,'Garrusi [garr1245]':1,'Malekshahi [male1280]':1)'Ilami [feyl1238]':1,('Kermanshahi [kerm1244]':1,'Kordali [kord1245]':1)'Lakic Southern Kurdish [laki1247]':1,(('Kalhori [kalh1240]':1,'Sanjabi [sanj1274]':1,'Zangane [zang1256]':1)'Kalhori-Sanjabi-Zangane [kalh1241]':1,'Kolyai [koly1245]':1)'Peripheral Kermanshahic [peri1266]':1)'Southern Kurdish [sout2640][sdh]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 13,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Southern_Kurdish",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q1496597",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "106095",
+        "long_grammar",
+        1988,
+        506,
+        "Fattah, Ismaïl Kamandar 1988"
+      ],
+      [
+        "126565",
+        "grammar",
+        1977,
+        123,
+        "Kedajtene, Ekaterina I. and Mukriani, Kurdistan and Mitrochina, Valentina I. 1977"
+      ],
+      [
+        "62636",
+        "grammar_sketch",
+        1939,
+        24,
+        "F. C. Andreas 1939"
+      ],
+      [
+        "450040",
+        "grammar_sketch",
+        1904,
+        9,
+        "de Morgan, Jacques 1904"
+      ]
+    ]
+  },
+  "id": "sout2640",
+  "name": "Southern Kurdish",
+  "description": null,
+  "markup_description": null,
+  "latitude": 32.8977,
+  "longitude": 46.5976,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Iranian",
+      "id": "iran1269",
+      "url": "https://glottolog.org/resource/languoid/id/iran1269"
+    },
+    {
+      "name": "Central Iranian PBS",
+      "id": "cent2317",
+      "url": "https://glottolog.org/resource/languoid/id/cent2317"
+    },
+    {
+      "name": "Central Iranian PB",
+      "id": "cent2318",
+      "url": "https://glottolog.org/resource/languoid/id/cent2318"
+    },
+    {
+      "name": "Northwestern Iranian",
+      "id": "nort3177",
+      "url": "https://glottolog.org/resource/languoid/id/nort3177"
+    },
+    {
+      "name": "Laki-Kurdish",
+      "id": "laki1246",
+      "url": "https://glottolog.org/resource/languoid/id/laki1246"
+    },
+    {
+      "name": "Kurdish",
+      "id": "kurd1259",
+      "url": "https://glottolog.org/resource/languoid/id/kurd1259"
+    }
+  ],
+  "iso639-3": "sdh"
+}

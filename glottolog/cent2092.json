@@ -1,0 +1,88 @@
+{
+  "pk": 15343,
+  "hid": "sml",
+  "father_pk": 12535,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dilaut-Badjao [dila1238]':1)'Central Sama [cent2092][sml]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 1,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://phoible.org/languages/cent2092",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3470593",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "71511",
+        "grammar_sketch",
+        2001,
+        17,
+        "Drake, Kristi 2001"
+      ],
+      [
+        "152597",
+        "phonology_or_text",
+        1921,
+        83,
+        "F. E. Bartter 1921"
+      ]
+    ]
+  },
+  "id": "cent2092",
+  "name": "Central Sama",
+  "description": null,
+  "markup_description": null,
+  "latitude": 7.004574,
+  "longitude": 118.455978,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Basap-Greater Barito",
+      "id": "basa1291",
+      "url": "https://glottolog.org/resource/languoid/id/basa1291"
+    },
+    {
+      "name": "Greater Barito linkage",
+      "id": "grea1283",
+      "url": "https://glottolog.org/resource/languoid/id/grea1283"
+    },
+    {
+      "name": "Sama-Bajaw",
+      "id": "sama1302",
+      "url": "https://glottolog.org/resource/languoid/id/sama1302"
+    },
+    {
+      "name": "Sulu-Borneo",
+      "id": "sulu1242",
+      "url": "https://glottolog.org/resource/languoid/id/sulu1242"
+    },
+    {
+      "name": "Inner Sulu Sama",
+      "id": "inne1244",
+      "url": "https://glottolog.org/resource/languoid/id/inne1244"
+    }
+  ],
+  "iso639-3": "sml"
+}

@@ -1,0 +1,83 @@
+{
+  "pk": 12184,
+  "hid": "rol",
+  "father_pk": 9281,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Basiq [basi1248]':1,'Romblon [romb1246]':1,'Sibuyan [sibu1251]':1)'Romblomanon [romb1245][rol]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q13202",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Romblomanon_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "320913",
+        "grammar_sketch",
+        1997,
+        60,
+        "Rence S. Law 1997"
+      ],
+      [
+        "305474",
+        "grammar_sketch",
+        1967,
+        20,
+        "David R. Zorc 1967"
+      ]
+    ]
+  },
+  "id": "romb1245",
+  "name": "Romblomanon",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.4047,
+  "longitude": 122.56,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Greater Central Philippine",
+      "id": "grea1284",
+      "url": "https://glottolog.org/resource/languoid/id/grea1284"
+    },
+    {
+      "name": "Central Philippine",
+      "id": "cent2246",
+      "url": "https://glottolog.org/resource/languoid/id/cent2246"
+    },
+    {
+      "name": "Bisayan",
+      "id": "bisa1268",
+      "url": "https://glottolog.org/resource/languoid/id/bisa1268"
+    },
+    {
+      "name": "Central Bisayan",
+      "id": "cent2263",
+      "url": "https://glottolog.org/resource/languoid/id/cent2263"
+    }
+  ],
+  "iso639-3": "rol"
+}

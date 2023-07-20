@@ -1,0 +1,110 @@
+{
+  "pk": 22025,
+  "hid": "nsx",
+  "father_pk": 20238,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Nsongo [nson1238][nsx]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q7067577",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nsongo_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "48409",
+        "wordlist_or_less",
+        1880,
+        38,
+        "Lux, Anton Erwin 1880"
+      ],
+      [
+        "54846",
+        "wordlist_or_less",
+        1862,
+        1,
+        "Latham, Robert Gordon 1862"
+      ],
+      [
+        "66179",
+        "wordlist_or_less",
+        1854,
+        1,
+        "Koelle, Sigismund W. 1854"
+      ]
+    ]
+  },
+  "id": "nson1238",
+  "name": "Nsongo",
+  "description": null,
+  "markup_description": null,
+  "latitude": -10.5166,
+  "longitude": 16.7348,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Narrow Bantu",
+      "id": "narr1281",
+      "url": "https://glottolog.org/resource/languoid/id/narr1281"
+    },
+    {
+      "name": "Central-Western Bantu",
+      "id": "cent2260",
+      "url": "https://glottolog.org/resource/languoid/id/cent2260"
+    },
+    {
+      "name": "Njila",
+      "id": "njil1234",
+      "url": "https://glottolog.org/resource/languoid/id/njil1234"
+    },
+    {
+      "name": "Northern Njila",
+      "id": "nort3257",
+      "url": "https://glottolog.org/resource/languoid/id/nort3257"
+    },
+    {
+      "name": "Mbundu (H.20)",
+      "id": "mbun1247",
+      "url": "https://glottolog.org/resource/languoid/id/mbun1247"
+    }
+  ],
+  "iso639-3": "nsx"
+}

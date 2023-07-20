@@ -1,0 +1,112 @@
+{
+  "pk": 18581,
+  "hid": "kfa",
+  "father_pk": 16326,
+  "family_pk": 404,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Kodava [koda1255][kfa]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/4365",
+        "label": "Kodagu"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33531",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kodava_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/koda1255",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kod",
+        "label": "Kodava"
+      }
+    ],
+    "meds": [
+      [
+        "466533",
+        "long_grammar",
+        1973,
+        524,
+        "Michael Garman 1973"
+      ],
+      [
+        "579181",
+        "grammar",
+        1972,
+        0,
+        "Ramaswami Balakrishnan 1972"
+      ],
+      [
+        "320350",
+        "grammar_sketch",
+        1867,
+        152,
+        "Robert Andrews Cole 1867"
+      ]
+    ]
+  },
+  "id": "koda1255",
+  "name": "Kodava",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.2443,
+  "longitude": 75.9161,
+  "classification": [
+    {
+      "name": "Dravidian",
+      "id": "drav1251",
+      "url": "https://glottolog.org/resource/languoid/id/drav1251"
+    },
+    {
+      "name": "South Dravidian",
+      "id": "sout3133",
+      "url": "https://glottolog.org/resource/languoid/id/sout3133"
+    },
+    {
+      "name": "South Dravidian I",
+      "id": "sout3138",
+      "url": "https://glottolog.org/resource/languoid/id/sout3138"
+    },
+    {
+      "name": "Tamil-Kannada",
+      "id": "tami1291",
+      "url": "https://glottolog.org/resource/languoid/id/tami1291"
+    },
+    {
+      "name": "Tamil-Kota",
+      "id": "tami1292",
+      "url": "https://glottolog.org/resource/languoid/id/tami1292"
+    },
+    {
+      "name": "Tamil-Toda",
+      "id": "tami1293",
+      "url": "https://glottolog.org/resource/languoid/id/tami1293"
+    },
+    {
+      "name": "Tamil-Irula",
+      "id": "tami1294",
+      "url": "https://glottolog.org/resource/languoid/id/tami1294"
+    },
+    {
+      "name": "Tamil-Kodagu",
+      "id": "tami1297",
+      "url": "https://glottolog.org/resource/languoid/id/tami1297"
+    }
+  ],
+  "iso639-3": "kfa"
+}

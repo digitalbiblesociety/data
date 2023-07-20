@@ -1,0 +1,56 @@
+{
+  "pk": 3375,
+  "hid": "gnm",
+  "father_pk": 1801,
+  "family_pk": 384,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Ginuman [ginu1240][gnm]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q11732210",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ginuman_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "157557",
+        "wordlist_or_less",
+        1975,
+        1,
+        "Tom E. Dutton 1975"
+      ]
+    ]
+  },
+  "id": "ginu1240",
+  "name": "Ginuman",
+  "description": null,
+  "markup_description": null,
+  "latitude": -10.0298,
+  "longitude": 149.7,
+  "classification": [
+    {
+      "name": "Dagan",
+      "id": "daga1274",
+      "url": "https://glottolog.org/resource/languoid/id/daga1274"
+    },
+    {
+      "name": "Southeast Dagan",
+      "id": "sout3380",
+      "url": "https://glottolog.org/resource/languoid/id/sout3380"
+    }
+  ],
+  "iso639-3": "gnm"
+}

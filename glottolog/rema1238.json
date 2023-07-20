@@ -1,0 +1,65 @@
+{
+  "pk": 4750,
+  "hid": "bow",
+  "father_pk": 3029,
+  "family_pk": 299,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Rema [rema1238][bow]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10520",
+        "label": "Rema"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7311502",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Rema_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "662195",
+        "wordlist_or_less",
+        2012,
+        0,
+        "Grummitt, John Janell Masters 2012"
+      ]
+    ]
+  },
+  "id": "rema1238",
+  "name": "Rema",
+  "description": null,
+  "markup_description": null,
+  "latitude": -8.41526,
+  "longitude": 141.034,
+  "classification": [
+    {
+      "name": "Yam",
+      "id": "more1255",
+      "url": "https://glottolog.org/resource/languoid/id/more1255"
+    },
+    {
+      "name": "Morehead-Maro",
+      "id": "more1256",
+      "url": "https://glottolog.org/resource/languoid/id/more1256"
+    },
+    {
+      "name": "Tonda",
+      "id": "tond1250",
+      "url": "https://glottolog.org/resource/languoid/id/tond1250"
+    }
+  ],
+  "iso639-3": "bow"
+}

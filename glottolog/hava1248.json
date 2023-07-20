@@ -1,0 +1,96 @@
+{
+  "pk": 7577,
+  "hid": "yuf",
+  "father_pk": 5253,
+  "family_pk": 403,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Havasupai [hava1249]':1,'Walapai [wala1270]':1,'Yavapai [yava1252]':1)'Havasupai-Walapai-Yavapai [hava1248][yuf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/6469",
+        "label": "Upland Yuman"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3565286",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Havasupai%E2%80%93Hualapai_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_hav",
+        "label": "Havasupai"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_hlp",
+        "label": "Hualapai"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_yav",
+        "label": "Yavapai"
+      }
+    ],
+    "meds": [
+      [
+        "130500",
+        "long_grammar",
+        1979,
+        636,
+        "Hardy, Heather Kay 1979"
+      ],
+      [
+        "25014",
+        "long_grammar",
+        1963,
+        336,
+        "Seiden, William 1963"
+      ],
+      [
+        "25989",
+        "grammar_sketch",
+        1892,
+        6,
+        "Albert S. Gatschet 1892"
+      ]
+    ]
+  },
+  "id": "hava1248",
+  "name": "Havasupai-Walapai-Yavapai",
+  "description": null,
+  "markup_description": null,
+  "latitude": 35.6302,
+  "longitude": -113.385,
+  "classification": [
+    {
+      "name": "Cochimi-Yuman",
+      "id": "coch1271",
+      "url": "https://glottolog.org/resource/languoid/id/coch1271"
+    },
+    {
+      "name": "Yuman",
+      "id": "yuma1250",
+      "url": "https://glottolog.org/resource/languoid/id/yuma1250"
+    },
+    {
+      "name": "General Yuman",
+      "id": "gene1244",
+      "url": "https://glottolog.org/resource/languoid/id/gene1244"
+    },
+    {
+      "name": "Pai",
+      "id": "paii1252",
+      "url": "https://glottolog.org/resource/languoid/id/paii1252"
+    }
+  ],
+  "iso639-3": "yuf"
+}

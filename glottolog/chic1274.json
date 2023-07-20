@@ -1,0 +1,102 @@
+{
+  "pk": 19235,
+  "hid": "zpv",
+  "father_pk": 17174,
+  "family_pk": 245,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Chichicapan Zapotec [chic1274][zpv]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/10959",
+        "label": "Central Valley Zapotec"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Chichic%C3%A1pam_Zapotec",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q5096050",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "78551",
+        "phonology_or_text",
+        1992,
+        115,
+        "Benton, Joseph P. 1992"
+      ],
+      [
+        "103699",
+        "wordlist_or_less",
+        1925,
+        2,
+        "Radin, Paul 1925"
+      ]
+    ]
+  },
+  "id": "chic1274",
+  "name": "Chichicapan Zapotec",
+  "description": null,
+  "markup_description": null,
+  "latitude": 16.8459,
+  "longitude": -96.5486,
+  "classification": [
+    {
+      "name": "Otomanguean",
+      "id": "otom1299",
+      "url": "https://glottolog.org/resource/languoid/id/otom1299"
+    },
+    {
+      "name": "Eastern Otomanguean",
+      "id": "east2557",
+      "url": "https://glottolog.org/resource/languoid/id/east2557"
+    },
+    {
+      "name": "Popoloca-Zapotecan",
+      "id": "popo1292",
+      "url": "https://glottolog.org/resource/languoid/id/popo1292"
+    },
+    {
+      "name": "Zapotecan",
+      "id": "zapo1436",
+      "url": "https://glottolog.org/resource/languoid/id/zapo1436"
+    },
+    {
+      "name": "Zapotec",
+      "id": "zapo1437",
+      "url": "https://glottolog.org/resource/languoid/id/zapo1437"
+    },
+    {
+      "name": "Core Zapotec",
+      "id": "nucl1765",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1765"
+    },
+    {
+      "name": "Narrow Core Zapotec",
+      "id": "core1259",
+      "url": "https://glottolog.org/resource/languoid/id/core1259"
+    },
+    {
+      "name": "Central Core Zapotec",
+      "id": "cent2146",
+      "url": "https://glottolog.org/resource/languoid/id/cent2146"
+    },
+    {
+      "name": "Western Valley Zapotec",
+      "id": "west2947",
+      "url": "https://glottolog.org/resource/languoid/id/west2947"
+    }
+  ],
+  "iso639-3": "zpv"
+}

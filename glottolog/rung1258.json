@@ -1,0 +1,75 @@
+{
+  "pk": 4831,
+  "hid": "rou",
+  "father_pk": 3092,
+  "family_pk": 306,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Runga [rung1258][rou]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56793",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_run",
+        "label": "Runga"
+      }
+    ],
+    "meds": [
+      [
+        "143311",
+        "grammar",
+        1990,
+        226,
+        "Nougayrol, Pierre 1990"
+      ],
+      [
+        "15075",
+        "grammar",
+        1989,
+        226,
+        "Nougayrol, Pierre 1989"
+      ],
+      [
+        "41728",
+        "wordlist_or_less",
+        1799,
+        178,
+        "Browne, William George 1799"
+      ]
+    ]
+  },
+  "id": "rung1258",
+  "name": "Runga",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.7154,
+  "longitude": 20.9945,
+  "classification": [
+    {
+      "name": "Maban",
+      "id": "maba1274",
+      "url": "https://glottolog.org/resource/languoid/id/maba1274"
+    },
+    {
+      "name": "Mabang",
+      "id": "maba1275",
+      "url": "https://glottolog.org/resource/languoid/id/maba1275"
+    },
+    {
+      "name": "Runga-Kibet",
+      "id": "rung1257",
+      "url": "https://glottolog.org/resource/languoid/id/rung1257"
+    }
+  ],
+  "iso639-3": "rou"
+}

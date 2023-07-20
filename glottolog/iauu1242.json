@@ -1,0 +1,93 @@
+{
+  "pk": 5250,
+  "hid": "tmu",
+  "father_pk": 3418,
+  "family_pk": 396,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Foi {Iau} [foii1242]':1,'Nuclear Iau [nucl1600]':1,'Turu [turu1251]':1)'Iau [iauu1242][tmu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q56867",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Iau_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_iau",
+        "label": "Iau"
+      }
+    ],
+    "meds": [
+      [
+        "586053",
+        "grammar_sketch",
+        2021,
+        136,
+        "Bateman, Janet 2021"
+      ],
+      [
+        "60394",
+        "grammar_sketch",
+        1986,
+        76,
+        "Janet Bateman 1986"
+      ],
+      [
+        "141968",
+        "phonology_or_text",
+        1982,
+        22,
+        "Bateman, Janet 1982"
+      ],
+      [
+        "126692",
+        "wordlist_or_less",
+        1975,
+        1,
+        "C. L. Voorhoeve 1975"
+      ],
+      [
+        "95108",
+        "wordlist_or_less",
+        1913,
+        1,
+        "Anonymous (Max Moszkowski) 1913"
+      ]
+    ]
+  },
+  "id": "iauu1242",
+  "name": "Iau",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.14537,
+  "longitude": 137.69,
+  "classification": [
+    {
+      "name": "Lakes Plain",
+      "id": "lake1255",
+      "url": "https://glottolog.org/resource/languoid/id/lake1255"
+    },
+    {
+      "name": "Tariku",
+      "id": "tari1255",
+      "url": "https://glottolog.org/resource/languoid/id/tari1255"
+    },
+    {
+      "name": "Central Tariku",
+      "id": "cent2110",
+      "url": "https://glottolog.org/resource/languoid/id/cent2110"
+    }
+  ],
+  "iso639-3": "tmu"
+}

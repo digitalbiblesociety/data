@@ -1,0 +1,108 @@
+{
+  "pk": 3524,
+  "hid": "mto",
+  "father_pk": 1884,
+  "family_pk": 3,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Totontepec Mixe [toto1305][mto]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mtp",
+        "label": "Mixe (Totontepec)"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/7589",
+        "label": "Totontepec Mixe"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Totontepec_Mixe",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/toto1305",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7828400",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "318716",
+        "grammar",
+        2003,
+        175,
+        "Suslak, Daniel 2003"
+      ],
+      [
+        "68854",
+        "grammar_sketch",
+        1976,
+        0,
+        "Van Haitsma, Julia Dieterman and Haitsma, Willard Van 1976"
+      ],
+      [
+        "28086",
+        "phonology_or_text",
+        1965,
+        362,
+        "Schoenhals, Louise C. and Schoenhals, Alvin 1965"
+      ],
+      [
+        "81281",
+        "phonology_or_text",
+        1962,
+        68,
+        "Schoenhals, Alvin 1962"
+      ],
+      [
+        "41259",
+        "phonology_or_text",
+        1959,
+        243,
+        "Crawford, John C. 1959"
+      ],
+      [
+        "568785",
+        "wordlist_or_less",
+        1916,
+        3,
+        "Wilhelm Bauer-Thoma 1916"
+      ]
+    ]
+  },
+  "id": "toto1305",
+  "name": "Totontepec Mixe",
+  "description": null,
+  "markup_description": null,
+  "latitude": 17.2157,
+  "longitude": -96.0179,
+  "classification": [
+    {
+      "name": "Mixe-Zoque",
+      "id": "mixe1284",
+      "url": "https://glottolog.org/resource/languoid/id/mixe1284"
+    },
+    {
+      "name": "Mixe",
+      "id": "mixe1286",
+      "url": "https://glottolog.org/resource/languoid/id/mixe1286"
+    },
+    {
+      "name": "Oaxaca Mixe",
+      "id": "oaxa1241",
+      "url": "https://glottolog.org/resource/languoid/id/oaxa1241"
+    }
+  ],
+  "iso639-3": "mto"
+}

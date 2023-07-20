@@ -1,0 +1,90 @@
+{
+  "pk": 12977,
+  "hid": "aum",
+  "father_pk": 9976,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Asu {Nigeria} [asun1235][aum]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q34798",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Asu_language_(Nigeria)",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "590882",
+        "wordlist_or_less",
+        2021,
+        26,
+        "Ken Decker and Fittokka Gobak and Benard Abraham and Lewinan Andrew and Luther Hon 2021"
+      ],
+      [
+        "552883",
+        "wordlist_or_less",
+        2013,
+        6,
+        "Constanze Weise 2013"
+      ],
+      [
+        "66179",
+        "wordlist_or_less",
+        1854,
+        1,
+        "Koelle, Sigismund W. 1854"
+      ]
+    ]
+  },
+  "id": "asun1235",
+  "name": "Asu (Nigeria)",
+  "description": null,
+  "markup_description": null,
+  "latitude": 10.0849,
+  "longitude": 5.42081,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Ebira-Nupoid",
+      "id": "ebir1244",
+      "url": "https://glottolog.org/resource/languoid/id/ebir1244"
+    },
+    {
+      "name": "Macro-Nupoid",
+      "id": "nupe1252",
+      "url": "https://glottolog.org/resource/languoid/id/nupe1252"
+    },
+    {
+      "name": "Nupoid",
+      "id": "nupo1239",
+      "url": "https://glottolog.org/resource/languoid/id/nupo1239"
+    }
+  ],
+  "iso639-3": "aum"
+}

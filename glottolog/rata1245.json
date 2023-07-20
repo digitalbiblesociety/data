@@ -1,0 +1,97 @@
+{
+  "pk": 17404,
+  "hid": "btn",
+  "father_pk": 15067,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Nuclear Ratagnon [nucl1545]':1,'Santa Teresa [sant1420]':1)'Ratagnon [rata1245][btn]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2850",
+        "label": "Ratagnon"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q13197",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ratagnon_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "301821",
+        "wordlist_or_less",
+        1977,
+        20,
+        "Barbian, Karl-Josef 1977"
+      ],
+      [
+        "320172",
+        "wordlist_or_less",
+        1970,
+        2,
+        "Colin E. Tweddell 1970"
+      ]
+    ]
+  },
+  "id": "rata1245",
+  "name": "Ratagnon",
+  "description": null,
+  "markup_description": null,
+  "latitude": 12.2785,
+  "longitude": 121.187,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Greater Central Philippine",
+      "id": "grea1284",
+      "url": "https://glottolog.org/resource/languoid/id/grea1284"
+    },
+    {
+      "name": "Central Philippine",
+      "id": "cent2246",
+      "url": "https://glottolog.org/resource/languoid/id/cent2246"
+    },
+    {
+      "name": "Bisayan",
+      "id": "bisa1268",
+      "url": "https://glottolog.org/resource/languoid/id/bisa1268"
+    },
+    {
+      "name": "West Bisayan",
+      "id": "west2820",
+      "url": "https://glottolog.org/resource/languoid/id/west2820"
+    },
+    {
+      "name": "Kuyan",
+      "id": "kuya1251",
+      "url": "https://glottolog.org/resource/languoid/id/kuya1251"
+    },
+    {
+      "name": "Datagnon-Santa Teresa-Semirara",
+      "id": "data1234",
+      "url": "https://glottolog.org/resource/languoid/id/data1234"
+    }
+  ],
+  "iso639-3": "btn"
+}

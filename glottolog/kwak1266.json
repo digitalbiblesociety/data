@@ -1,0 +1,107 @@
+{
+  "pk": 18181,
+  "hid": "kwu",
+  "father_pk": 15782,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Baki {Cameroon} [baki1242]':1,'Beten [bete1264]':1,'Nuclear Kwakum [nucl1403]':1,'Til [till1253]':1)'Kwakum [kwak1266][kwu]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q35624",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kwakum_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "575527",
+        "long_grammar",
+        2018,
+        408,
+        "Njantcho Kouagang, Elisabeth 2018"
+      ],
+      [
+        "312991",
+        "grammar",
+        2007,
+        241,
+        "François Belliard 2007"
+      ],
+      [
+        "478486",
+        "wordlist_or_less",
+        2004,
+        1,
+        "Wega, Simeu Abraham 2004"
+      ],
+      [
+        "66179",
+        "wordlist_or_less",
+        1854,
+        1,
+        "Koelle, Sigismund W. 1854"
+      ]
+    ]
+  },
+  "id": "kwak1266",
+  "name": "Kwakum",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.34393,
+  "longitude": 13.6446,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    },
+    {
+      "name": "Narrow Bantu",
+      "id": "narr1281",
+      "url": "https://glottolog.org/resource/languoid/id/narr1281"
+    },
+    {
+      "name": "Bantu A-B10-B20-B30",
+      "id": "bant1295",
+      "url": "https://glottolog.org/resource/languoid/id/bant1295"
+    },
+    {
+      "name": "Makaa-Kako (A.80-90)",
+      "id": "maka1327",
+      "url": "https://glottolog.org/resource/languoid/id/maka1327"
+    }
+  ],
+  "iso639-3": "kwu"
+}

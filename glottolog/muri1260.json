@@ -1,0 +1,76 @@
+{
+  "pk": 3969,
+  "hid": "mtf",
+  "father_pk": 2254,
+  "family_pk": 143,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Murik {Papua New Guinea} [muri1260][mtf]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2274",
+        "label": "Murik"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q7050035",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Nor_language",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mrk",
+        "label": "Murik"
+      }
+    ],
+    "meds": [
+      [
+        "90768",
+        "grammar_sketch",
+        1953,
+        154,
+        "Schmidt, Joseph 1953"
+      ],
+      [
+        "8221",
+        "wordlist_or_less",
+        1923,
+        151,
+        "Joseph Schmidt 1923/1924, 1926, 1933, 1933"
+      ]
+    ]
+  },
+  "id": "muri1260",
+  "name": "Murik (Papua New Guinea)",
+  "description": null,
+  "markup_description": null,
+  "latitude": -3.86959,
+  "longitude": 144.166,
+  "classification": [
+    {
+      "name": "Lower Sepik-Ramu",
+      "id": "lowe1437",
+      "url": "https://glottolog.org/resource/languoid/id/lowe1437"
+    },
+    {
+      "name": "Lower Sepik",
+      "id": "lowe1423",
+      "url": "https://glottolog.org/resource/languoid/id/lowe1423"
+    },
+    {
+      "name": "Nor",
+      "id": "norr1244",
+      "url": "https://glottolog.org/resource/languoid/id/norr1244"
+    }
+  ],
+  "iso639-3": "mtf"
+}

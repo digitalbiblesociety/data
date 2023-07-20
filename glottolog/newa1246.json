@@ -1,0 +1,114 @@
+{
+  "pk": 10175,
+  "hid": "new",
+  "father_pk": 7305,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Bhaktapur-Thimi [bakt1238]':1,'Kathmandu-Kirtipur-Lele [kath1252]':1)'Kathmandu-Patan Newari [kath1254]':1,'Pyangaun Newari [pyan1234]':1,('Baglung [bagl1238]':1,'Citlang [citl1238]':1)'Western Newari [west2965]':1)'Kathmandu Valley Newari [newa1246][new]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_new",
+        "label": "Newari (Kathmandu)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Newar_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/newa1246",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q33979",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "462348",
+        "long_grammar",
+        1984,
+        406,
+        "Joshī, Sunder Krishna 1984"
+      ],
+      [
+        "44211",
+        "grammar",
+        1971,
+        245,
+        "Maskey, Jagan Nath and Hale, Austin and Sresthacharya, Iswaranand 1971"
+      ],
+      [
+        "12900",
+        "grammar",
+        1941,
+        110,
+        "Hans Jørgensen 1941"
+      ],
+      [
+        "157437",
+        "grammar_sketch",
+        1891,
+        35,
+        "Conrady, August 1891"
+      ],
+      [
+        "52757",
+        "wordlist_or_less",
+        1874,
+        9,
+        "Campbell, George 1874"
+      ],
+      [
+        "54846",
+        "wordlist_or_less",
+        1862,
+        1,
+        "Latham, Robert Gordon 1862"
+      ]
+    ]
+  },
+  "id": "newa1246",
+  "name": "Kathmandu Valley Newari",
+  "description": null,
+  "markup_description": null,
+  "latitude": 27.67,
+  "longitude": 85.326,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Himalayish",
+      "id": "hima1249",
+      "url": "https://glottolog.org/resource/languoid/id/hima1249"
+    },
+    {
+      "name": "Mahakiranti",
+      "id": "maha1306",
+      "url": "https://glottolog.org/resource/languoid/id/maha1306"
+    },
+    {
+      "name": "Newaric",
+      "id": "newa1245",
+      "url": "https://glottolog.org/resource/languoid/id/newa1245"
+    },
+    {
+      "name": "Newar",
+      "id": "newa1247",
+      "url": "https://glottolog.org/resource/languoid/id/newa1247"
+    }
+  ],
+  "iso639-3": "new"
+}

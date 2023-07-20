@@ -1,0 +1,115 @@
+{
+  "pk": 3674,
+  "hid": "mch",
+  "father_pk": 2002,
+  "family_pk": 56,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Maitsi [mait1253]':1,'Mayongong [mayo1265]':1)'Ye''kwana [maqu1238][mch]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1637",
+        "label": "Yekuana"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3082027",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Ye%27kuana_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/maqu1238",
+        "label": null
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_cde",
+        "label": "Carib (De'kwana)"
+      }
+    ],
+    "meds": [
+      [
+        "309718",
+        "long_grammar",
+        2011,
+        476,
+        "Cáceres, Natália 2011"
+      ],
+      [
+        "53220",
+        "long_grammar",
+        1988,
+        473,
+        "Katherine L. Hall 1988"
+      ],
+      [
+        "28359",
+        "grammar_sketch",
+        1959,
+        50,
+        "Damián de Escoriaza 1959, 1960"
+      ],
+      [
+        "111533",
+        "wordlist_or_less",
+        1889,
+        17,
+        "J. Chaffanjon 1889"
+      ],
+      [
+        "100539",
+        "wordlist_or_less",
+        1850,
+        7,
+        "Robert Schomburgk 1850"
+      ],
+      [
+        "16438",
+        "wordlist_or_less",
+        1849,
+        1,
+        "Robert H. Schomburgk 1849"
+      ],
+      [
+        "313075",
+        "wordlist_or_less",
+        1848,
+        1,
+        "Robert H. Schomburgk 1848"
+      ]
+    ]
+  },
+  "id": "maqu1238",
+  "name": "Ye'kwana",
+  "description": null,
+  "markup_description": null,
+  "latitude": 4.70705,
+  "longitude": -64.3877,
+  "classification": [
+    {
+      "name": "Cariban",
+      "id": "cari1283",
+      "url": "https://glottolog.org/resource/languoid/id/cari1283"
+    },
+    {
+      "name": "Guianan",
+      "id": "guia1242",
+      "url": "https://glottolog.org/resource/languoid/id/guia1242"
+    },
+    {
+      "name": "Maquiritari-Wayumara",
+      "id": "maqu1239",
+      "url": "https://glottolog.org/resource/languoid/id/maqu1239"
+    }
+  ],
+  "iso639-3": "mch"
+}

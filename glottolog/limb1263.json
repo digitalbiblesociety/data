@@ -1,0 +1,117 @@
+{
+  "pk": 20928,
+  "hid": "lim",
+  "father_pk": 18899,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Getelands [gete1234]':1,('Kleverländisch [klev1234]':1,'Ostbergisch [ostb1234]':1)'Nordniederfränkisch [nord1242]':1,'Ost-Limburgisch [ostl1234]':1,'Südniederfränkisch [sudn1234]':1,'Südost-Limburgisch [sudo1235]':1,'West-Limburgisch [west2917]':1,'Zentral-Limburgisch [zent1234]':1)'Limburgan [limb1263][lim]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 9,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Limburgish",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q102172",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "570815",
+        "grammar",
+        1908,
+        281,
+        "Jozef Dupont 2014 [1908]"
+      ],
+      [
+        "318222",
+        "grammar",
+        1905,
+        160,
+        "Johan Henri Hubert Houben 1905"
+      ],
+      [
+        "550735",
+        "grammar_sketch",
+        1885,
+        64,
+        "Mertens, A. M. 1885"
+      ],
+      [
+        "589301",
+        "phonology_or_text",
+        1877,
+        28,
+        "Röttsches, H. 1877"
+      ]
+    ]
+  },
+  "id": "limb1263",
+  "name": "Limburgan",
+  "description": null,
+  "markup_description": null,
+  "latitude": 51.015,
+  "longitude": 5.87705,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Germanic",
+      "id": "germ1287",
+      "url": "https://glottolog.org/resource/languoid/id/germ1287"
+    },
+    {
+      "name": "Northwest Germanic",
+      "id": "nort3152",
+      "url": "https://glottolog.org/resource/languoid/id/nort3152"
+    },
+    {
+      "name": "West Germanic",
+      "id": "west2793",
+      "url": "https://glottolog.org/resource/languoid/id/west2793"
+    },
+    {
+      "name": "High German",
+      "id": "high1289",
+      "url": "https://glottolog.org/resource/languoid/id/high1289"
+    },
+    {
+      "name": "Middle German",
+      "id": "fran1268",
+      "url": "https://glottolog.org/resource/languoid/id/fran1268"
+    },
+    {
+      "name": "West Middle German",
+      "id": "high1287",
+      "url": "https://glottolog.org/resource/languoid/id/high1287"
+    },
+    {
+      "name": "Middle Franconian",
+      "id": "midd1319",
+      "url": "https://glottolog.org/resource/languoid/id/midd1319"
+    },
+    {
+      "name": "Ripuarian",
+      "id": "ripu1236",
+      "url": "https://glottolog.org/resource/languoid/id/ripu1236"
+    }
+  ],
+  "iso639-3": "lim"
+}

@@ -1,0 +1,102 @@
+{
+  "pk": 6878,
+  "hid": "mhz",
+  "father_pk": 4670,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mor {Mor Islands} [morm1235][mhz]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mor",
+        "label": "Mor"
+      },
+      {
+        "url": "https://endangeredlanguages.com/lang/1460",
+        "label": "Mor (Mor Islands, Indonesia)"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mor_language_(Austronesian)",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2122792",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "112978",
+        "grammar_sketch",
+        1978,
+        32,
+        "Donald C. Laycock 1978"
+      ],
+      [
+        "121185",
+        "wordlist_or_less",
+        1961,
+        4,
+        "Anceaux, Johannes Cornelis 1961"
+      ],
+      [
+        "17111",
+        "wordlist_or_less",
+        1955,
+        1,
+        "Galis, Klaas Wilhelm 1955"
+      ],
+      [
+        "126844",
+        "wordlist_or_less",
+        1953,
+        1,
+        "Cowan, H. K. J. 1953"
+      ],
+      [
+        "109606",
+        "wordlist_or_less",
+        1855,
+        1,
+        "Fabritius, G. J. 1855"
+      ]
+    ]
+  },
+  "id": "morm1235",
+  "name": "Mor (Mor Islands)",
+  "description": null,
+  "markup_description": null,
+  "latitude": -2.87055,
+  "longitude": 135.95,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "South Halmahera-West New Guinea",
+      "id": "sout3229",
+      "url": "https://glottolog.org/resource/languoid/id/sout3229"
+    }
+  ],
+  "iso639-3": "mhz"
+}

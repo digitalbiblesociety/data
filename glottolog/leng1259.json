@@ -1,0 +1,93 @@
+{
+  "pk": 17657,
+  "hid": "lgr",
+  "father_pk": 15258,
+  "family_pk": 289,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Aola [aola1237]':1,'Ghaimuta [ghai1237]':1,'Nuclear Lengo [nucl1472]':1,'Paripao [pari1257]':1)'Lengo [leng1259][lgr]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q3229454",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Lengo_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "161136",
+        "grammar",
+        2008,
+        239,
+        "Unger, Paul 2008"
+      ],
+      [
+        "48733",
+        "grammar_sketch",
+        1977,
+        49,
+        "Simons, Gary F. 1977"
+      ]
+    ]
+  },
+  "id": "leng1259",
+  "name": "Lengo",
+  "description": null,
+  "markup_description": null,
+  "latitude": -9.56425,
+  "longitude": 160.42,
+  "classification": [
+    {
+      "name": "Austronesian",
+      "id": "aust1307",
+      "url": "https://glottolog.org/resource/languoid/id/aust1307"
+    },
+    {
+      "name": "Malayo-Polynesian",
+      "id": "mala1545",
+      "url": "https://glottolog.org/resource/languoid/id/mala1545"
+    },
+    {
+      "name": "Eastern Malayo-Polynesian",
+      "id": "east2712",
+      "url": "https://glottolog.org/resource/languoid/id/east2712"
+    },
+    {
+      "name": "Oceanic",
+      "id": "ocea1241",
+      "url": "https://glottolog.org/resource/languoid/id/ocea1241"
+    },
+    {
+      "name": "Southeast Solomonic",
+      "id": "sout2853",
+      "url": "https://glottolog.org/resource/languoid/id/sout2853"
+    },
+    {
+      "name": "Guadalcanal-Nggelic",
+      "id": "guad1241",
+      "url": "https://glottolog.org/resource/languoid/id/guad1241"
+    },
+    {
+      "name": "Nuclear Guadalcanal-Nggelic",
+      "id": "nucl1470",
+      "url": "https://glottolog.org/resource/languoid/id/nucl1470"
+    },
+    {
+      "name": "North and West Guadalcanal",
+      "id": "nort2832",
+      "url": "https://glottolog.org/resource/languoid/id/nort2832"
+    }
+  ],
+  "iso639-3": "lgr"
+}

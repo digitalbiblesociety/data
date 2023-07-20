@@ -1,0 +1,98 @@
+{
+  "pk": 18820,
+  "hid": "rdb",
+  "father_pk": 16565,
+  "family_pk": 72,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Dogowharani [dogo1301]':1,'Jamshidabadi [jams1240]':1,'Jubanic [juba1243]':1,'Lakei [lake1260]':1,'Oskulaki [osku1234]':1,'Rostamabadi [rost1234]':1,'Sefidrud Rudbari [sefi1234]':1,'Shahrani [shah1263]':1,'Tutkaboni [tutk1234]':1)'Rudbari [rudb1238][rdb]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 9,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/5332",
+        "label": "Rudbari"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q12953072",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "308906",
+        "grammar_sketch",
+        1990,
+        14,
+        "Gilbert Lazard 1990"
+      ],
+      [
+        "160604",
+        "wordlist_or_less",
+        1981,
+        2,
+        "Donald L. Stilo 1981"
+      ]
+    ]
+  },
+  "id": "rudb1238",
+  "name": "Rudbari",
+  "description": null,
+  "markup_description": null,
+  "latitude": 37.0878,
+  "longitude": 49.8801,
+  "classification": [
+    {
+      "name": "Indo-European",
+      "id": "indo1319",
+      "url": "https://glottolog.org/resource/languoid/id/indo1319"
+    },
+    {
+      "name": "Classical Indo-European",
+      "id": "clas1257",
+      "url": "https://glottolog.org/resource/languoid/id/clas1257"
+    },
+    {
+      "name": "Indo-Iranian",
+      "id": "indo1320",
+      "url": "https://glottolog.org/resource/languoid/id/indo1320"
+    },
+    {
+      "name": "Iranian",
+      "id": "iran1269",
+      "url": "https://glottolog.org/resource/languoid/id/iran1269"
+    },
+    {
+      "name": "Central Iranian PBS",
+      "id": "cent2317",
+      "url": "https://glottolog.org/resource/languoid/id/cent2317"
+    },
+    {
+      "name": "Central Iranian PB",
+      "id": "cent2318",
+      "url": "https://glottolog.org/resource/languoid/id/cent2318"
+    },
+    {
+      "name": "Northwestern Iranian",
+      "id": "nort3177",
+      "url": "https://glottolog.org/resource/languoid/id/nort3177"
+    },
+    {
+      "name": "Caspian",
+      "id": "casp1236",
+      "url": "https://glottolog.org/resource/languoid/id/casp1236"
+    },
+    {
+      "name": "Gilaki-Rudbari",
+      "id": "gila1242",
+      "url": "https://glottolog.org/resource/languoid/id/gila1242"
+    }
+  ],
+  "iso639-3": "rdb"
+}

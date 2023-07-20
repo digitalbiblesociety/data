@@ -1,0 +1,79 @@
+{
+  "pk": 5273,
+  "hid": "bco",
+  "father_pk": 3436,
+  "family_pk": 405,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Kugenesi [kuge1238]':1,'Nuclear Kaluli [nucl1582]':1,'Ologo [olog1242]':1,'Walulu [walu1242]':1)'Kaluli [kalu1248][bco]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 4,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_kll",
+        "label": "Kaluli"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kaluli_language",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q6354586",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "130893",
+        "grammar_sketch",
+        2004,
+        106,
+        "Andrew Grosh and Sylvia Grosh 2004"
+      ],
+      [
+        "132861",
+        "grammar_sketch",
+        1985,
+        69,
+        "Bambi B. Schieffelin 1985"
+      ],
+      [
+        "319678",
+        "grammar_sketch",
+        1964,
+        46,
+        "Joan Rule 1964"
+      ]
+    ]
+  },
+  "id": "kalu1248",
+  "name": "Kaluli",
+  "description": null,
+  "markup_description": null,
+  "latitude": -6.45932,
+  "longitude": 142.788,
+  "classification": [
+    {
+      "name": "Bosavi",
+      "id": "bosa1245",
+      "url": "https://glottolog.org/resource/languoid/id/bosa1245"
+    },
+    {
+      "name": "Bosavi Watershed",
+      "id": "bosa1246",
+      "url": "https://glottolog.org/resource/languoid/id/bosa1246"
+    },
+    {
+      "name": "Kaluli-Sunia",
+      "id": "kalu1249",
+      "url": "https://glottolog.org/resource/languoid/id/kalu1249"
+    }
+  ],
+  "iso639-3": "bco"
+}

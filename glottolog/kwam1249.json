@@ -1,0 +1,80 @@
+{
+  "pk": 471,
+  "hid": "kmq",
+  "father_pk": 29,
+  "family_pk": 29,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Highland Gwama [high1291]':1,'Lowland Gwama [lowl1272]':1)'Gwama [kwam1249][kmq]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 2,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/2676",
+        "label": "Kwama"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q2591184",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kwama_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/kwam1249",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "661699",
+        "long_grammar",
+        2021,
+        310,
+        "Andargachew Getu Gebeyehu 2021"
+      ],
+      [
+        "565858",
+        "grammar",
+        2005,
+        0,
+        "Leyew, Zelealem 2005"
+      ],
+      [
+        "39473",
+        "wordlist_or_less",
+        1996,
+        41,
+        "James, Wendy and Baumann, Gerd and Johnson, Douglas H. 1996"
+      ],
+      [
+        "40770",
+        "wordlist_or_less",
+        1883,
+        6,
+        "Kan, C. M. 1883"
+      ]
+    ]
+  },
+  "id": "kwam1249",
+  "name": "Gwama",
+  "description": null,
+  "markup_description": null,
+  "latitude": 9.50836,
+  "longitude": 34.2457,
+  "classification": [
+    {
+      "name": "Koman",
+      "id": "koma1264",
+      "url": "https://glottolog.org/resource/languoid/id/koma1264"
+    }
+  ],
+  "iso639-3": "kmq"
+}

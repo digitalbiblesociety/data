@@ -1,0 +1,75 @@
+{
+  "pk": 9987,
+  "hid": "bju",
+  "father_pk": 7189,
+  "family_pk": 320,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Busuu [busu1244][bju]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/545",
+        "label": "Busuu"
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q35046",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Busuu_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "64818",
+        "wordlist_or_less",
+        1993,
+        3,
+        "Breton, Roland J.L. 1993"
+      ]
+    ]
+  },
+  "id": "busu1244",
+  "name": "Busuu",
+  "description": null,
+  "markup_description": null,
+  "latitude": 6.68152,
+  "longitude": 9.78433,
+  "classification": [
+    {
+      "name": "Atlantic-Congo",
+      "id": "atla1278",
+      "url": "https://glottolog.org/resource/languoid/id/atla1278"
+    },
+    {
+      "name": "Volta-Congo",
+      "id": "volt1241",
+      "url": "https://glottolog.org/resource/languoid/id/volt1241"
+    },
+    {
+      "name": "Benue-Congo",
+      "id": "benu1247",
+      "url": "https://glottolog.org/resource/languoid/id/benu1247"
+    },
+    {
+      "name": "Bantoid",
+      "id": "bant1294",
+      "url": "https://glottolog.org/resource/languoid/id/bant1294"
+    },
+    {
+      "name": "Southern Bantoid",
+      "id": "sout3152",
+      "url": "https://glottolog.org/resource/languoid/id/sout3152"
+    }
+  ],
+  "iso639-3": "bju"
+}

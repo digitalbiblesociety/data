@@ -1,0 +1,78 @@
+{
+  "pk": 10265,
+  "hid": "ght",
+  "father_pk": 7371,
+  "family_pk": 332,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Bihi [bihi1238]':1,'Chak {Nepal} [chak1267]':1,'Rana [rana1247]':1)'Kutang Ghale [kuta1241][ght]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q6448337",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kutang_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "649669",
+        "wordlist_or_less",
+        2022,
+        3,
+        "Webster, Jeff 2022"
+      ],
+      [
+        "46670",
+        "wordlist_or_less",
+        1992,
+        0,
+        "Webster, Jeff 1992"
+      ]
+    ]
+  },
+  "id": "kuta1241",
+  "name": "Kutang Ghale",
+  "description": null,
+  "markup_description": null,
+  "latitude": 28.3808,
+  "longitude": 84.93,
+  "classification": [
+    {
+      "name": "Sino-Tibetan",
+      "id": "sino1245",
+      "url": "https://glottolog.org/resource/languoid/id/sino1245"
+    },
+    {
+      "name": "Bodic",
+      "id": "bodi1256",
+      "url": "https://glottolog.org/resource/languoid/id/bodi1256"
+    },
+    {
+      "name": "Kaike-Ghale-Tamangic",
+      "id": "kaik1248",
+      "url": "https://glottolog.org/resource/languoid/id/kaik1248"
+    },
+    {
+      "name": "Ghale-Tamangic",
+      "id": "ghal1247",
+      "url": "https://glottolog.org/resource/languoid/id/ghal1247"
+    },
+    {
+      "name": "Ghale",
+      "id": "ghal1246",
+      "url": "https://glottolog.org/resource/languoid/id/ghal1246"
+    }
+  ],
+  "iso639-3": "ght"
+}

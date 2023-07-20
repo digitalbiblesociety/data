@@ -1,0 +1,82 @@
+{
+  "pk": 5268,
+  "hid": "kru",
+  "father_pk": 3431,
+  "family_pk": 404,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "(('Inner Barwe [inne1245]':1,'Kisan {Dravidian} [kisa1261][xis]':1,'Nawagarh [nawa1260]':1,'Oraon [orao1238]':1,'Outer Barwe [oute1262]':1)'Indian Kurux [kuru1302]':1,'Nepali Kurux [nepa1253][kxl]':1)'Kurukh [kuru1301][kru]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 7,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://www.wikidata.org/entity/Q33492",
+        "label": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Kurukh_language",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "160059",
+        "long_grammar",
+        1924,
+        320,
+        "André Grignard 1924"
+      ],
+      [
+        "470138",
+        "grammar",
+        1911,
+        176,
+        "Hahn, Ferdinand 1911"
+      ],
+      [
+        "134807",
+        "grammar",
+        1900,
+        132,
+        "Hahn, Ferdinand 1900"
+      ],
+      [
+        "83951",
+        "wordlist_or_less",
+        1872,
+        5,
+        "Dalton, Edward Tuite 1872"
+      ]
+    ]
+  },
+  "id": "kuru1301",
+  "name": "Kurukh",
+  "description": null,
+  "markup_description": null,
+  "latitude": 24.46442,
+  "longitude": 86.46568,
+  "classification": [
+    {
+      "name": "Dravidian",
+      "id": "drav1251",
+      "url": "https://glottolog.org/resource/languoid/id/drav1251"
+    },
+    {
+      "name": "North Dravidian",
+      "id": "nort2698",
+      "url": "https://glottolog.org/resource/languoid/id/nort2698"
+    },
+    {
+      "name": "Kurux-Malto",
+      "id": "kuru1300",
+      "url": "https://glottolog.org/resource/languoid/id/kuru1300"
+    }
+  ],
+  "iso639-3": "kru"
+}

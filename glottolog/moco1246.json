@@ -1,0 +1,101 @@
+{
+  "pk": 3751,
+  "hid": "moc",
+  "father_pk": 2098,
+  "family_pk": 102,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "'Mocoví [moco1246][moc]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 0,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://endangeredlanguages.com/lang/1847",
+        "label": "Mocoví"
+      },
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_mcv",
+        "label": "Mocoví"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Mocov%C3%AD_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/moco1246",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q3027906",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "140712",
+        "long_grammar",
+        1998,
+        329,
+        "Gualdieri, Cecilia Beatriz 1998"
+      ],
+      [
+        "48300",
+        "grammar",
+        1893,
+        272,
+        "Lafone Quevedo, Samuel A. 1893"
+      ],
+      [
+        "123135",
+        "grammar",
+        1890,
+        225,
+        "Lafone Quevedo, Samuel A. 1890, 1890, 1891, 1891, 1891, 1892"
+      ],
+      [
+        "589131",
+        "grammar_sketch",
+        1856,
+        175,
+        "Lafone Quevedo, Samuel A. 1890, 1890, 1891, 1891 [1856]"
+      ],
+      [
+        "667000",
+        "phonology_or_text",
+        1784,
+        20,
+        "Manfred Ringmacher 2011 [1784]]"
+      ]
+    ]
+  },
+  "id": "moco1246",
+  "name": "Mocoví",
+  "description": null,
+  "markup_description": null,
+  "latitude": -28.097,
+  "longitude": -60.4145,
+  "classification": [
+    {
+      "name": "Guaicuruan",
+      "id": "guai1249",
+      "url": "https://glottolog.org/resource/languoid/id/guai1249"
+    },
+    {
+      "name": "Guaicuru del Sur",
+      "id": "guai1250",
+      "url": "https://glottolog.org/resource/languoid/id/guai1250"
+    },
+    {
+      "name": "Qom",
+      "id": "qomm1235",
+      "url": "https://glottolog.org/resource/languoid/id/qomm1235"
+    }
+  ],
+  "iso639-3": "moc"
+}

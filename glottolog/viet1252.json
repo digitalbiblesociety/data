@@ -1,0 +1,90 @@
+{
+  "pk": 5358,
+  "hid": "vie",
+  "father_pk": 3506,
+  "family_pk": 418,
+  "level": "language",
+  "bookkeeping": false,
+  "category": "Spoken L1 Language",
+  "newick": "('Central Vietnamese [cent1988]':1,'Northern Vietnamese [nort2683]':1,'Southern Vietnamese [sout2687]':1)'Vietnamese [viet1252][vie]-l-':1",
+  "child_family_count": 0,
+  "child_language_count": 0,
+  "child_dialect_count": 3,
+  "macroareas": {},
+  "jsondata": {
+    "iso_retirement": null,
+    "ethnologue_comment": null,
+    "links": [
+      {
+        "url": "https://wals.info/languoid/lect/wals_code_vie",
+        "label": "Vietnamese"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Vietnamese_language",
+        "label": null
+      },
+      {
+        "url": "https://phoible.org/languages/viet1252",
+        "label": null
+      },
+      {
+        "url": "https://www.wikidata.org/entity/Q9199",
+        "label": null
+      }
+    ],
+    "meds": [
+      [
+        "312579",
+        "long_grammar",
+        1970,
+        478,
+        "Chinh, Truong Van 1970"
+      ],
+      [
+        "125460",
+        "long_grammar",
+        1908,
+        431,
+        "Alfred Bouchet 1908"
+      ],
+      [
+        "589694",
+        "grammar_sketch",
+        1838,
+        471,
+        "Taberd, Jean Louis 1838"
+      ],
+      [
+        "325335",
+        "grammar_sketch",
+        1651,
+        340,
+        "de Rhodes, Alexandrus 1651"
+      ]
+    ]
+  },
+  "id": "viet1252",
+  "name": "Vietnamese",
+  "description": null,
+  "markup_description": null,
+  "latitude": 20.681188,
+  "longitude": 105.774071,
+  "classification": [
+    {
+      "name": "Austroasiatic",
+      "id": "aust1305",
+      "url": "https://glottolog.org/resource/languoid/id/aust1305"
+    },
+    {
+      "name": "Vietic",
+      "id": "viet1250",
+      "url": "https://glottolog.org/resource/languoid/id/viet1250"
+    },
+    {
+      "name": "Viet-Muong",
+      "id": "viet1251",
+      "url": "https://glottolog.org/resource/languoid/id/viet1251"
+    }
+  ],
+  "iso639-3": "vie"
+}
