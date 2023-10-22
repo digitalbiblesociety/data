@@ -23,7 +23,18 @@
         "script": "Latn",
         "fonts": []
     },
-    "pod": [],
+    "pod": [
+        {
+            "publisher_id": null,
+            "partner_id": null,
+            "description": "",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 331,
+            "print_ready": 0,
+            "print_banned": 0
+        }
+    ],
     "links": [
         {
             "url": "https://app.thedigitalbiblelibrary.org/entry?id=0463cddaa05211e7",
@@ -48,6 +59,15 @@
     ],
     "publishers": [],
     "providers": [],
-    "equivalents": [],
+    "equivalents": [
+        {
+            "organization_id": null,
+            "equivalent_id": "MTJTBLN",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        }
+    ],
     "books": null
 }

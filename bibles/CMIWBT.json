@@ -30,7 +30,7 @@
             "description": "This Bible is copyrighted by Wycliffe Bible Translators (Wycliffe.org) and is printed with permission by the Digital Bible Society (dbs.org) for non-commercial use.<br /><br />This Bible is available for free download in a variety of digital formats at dbs.org/bibles.",
             "trim": "us_trade",
             "scope": "bible",
-            "pages": 506,
+            "pages": 536,
             "print_ready": 0,
             "print_banned": 0
         },
@@ -40,7 +40,7 @@
             "description": "This Bible is copyrighted by Wycliffe Bible Translators (Wycliffe.org) and is printed with permission by the Digital Bible Society (dbs.org) for non-commercial use.<br /><br />This Bible is available for free download in a variety of digital formats at dbs.org/bibles.",
             "trim": "us_letter",
             "scope": "bible",
-            "pages": 442,
+            "pages": 311,
             "print_ready": 0,
             "print_banned": 0
         }
@@ -69,6 +69,15 @@
     ],
     "publishers": [],
     "providers": [],
-    "equivalents": [],
+    "equivalents": [
+        {
+            "organization_id": null,
+            "equivalent_id": "4b1939668af9103b",
+            "site": null,
+            "suffix": null,
+            "type": "DBL",
+            "url": null
+        }
+    ],
     "books": null
 }

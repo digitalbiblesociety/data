@@ -23,7 +23,18 @@
         "script": "Latn",
         "fonts": []
     },
-    "pod": [],
+    "pod": [
+        {
+            "publisher_id": null,
+            "partner_id": null,
+            "description": "",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 240,
+            "print_ready": 0,
+            "print_banned": 0
+        }
+    ],
     "links": [
         {
             "url": "http://live.bible.is/bible/KIJPNG/MRK/1",
@@ -124,6 +135,14 @@
             "suffix": "",
             "type": "",
             "url": "https://bible.com/versions/2062"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "KIJPNGN",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
         }
     ],
     "books": null

@@ -23,10 +23,21 @@
         "script": "Latn",
         "fonts": []
     },
-    "pod": [],
+    "pod": [
+        {
+            "publisher_id": null,
+            "partner_id": null,
+            "description": "",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 653,
+            "print_ready": 0,
+            "print_banned": 0
+        }
+    ],
     "links": [
         {
-            "url": "http://www.bible.is/DLNBIV/Matt/1/D",
+            "url": "https://www.live.bible.is/DLNBIV/Matt/1/D",
             "title": "Full Bible",
             "scope": "",
             "type": "web",
@@ -78,6 +89,31 @@
     ],
     "publishers": [],
     "providers": [],
-    "equivalents": [],
+    "equivalents": [
+        {
+            "organization_id": null,
+            "equivalent_id": "DLNBIVN2ET",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "DLNBIVO",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "DLNBIVO2ET",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        }
+    ],
     "books": null
 }

@@ -7,7 +7,7 @@
         "name": "Tembo (Kitembo)"
     },
     "title": "Tembo Bible",
-    "title_vernacular": "",
+    "title_vernacular": null,
     "description": null,
     "description_short": null,
     "description_vernacular": null,
@@ -27,6 +27,39 @@
     "links": [],
     "publishers": [],
     "providers": [],
-    "equivalents": [],
+    "equivalents": [
+        {
+            "organization_id": null,
+            "equivalent_id": "TBTPTBP",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "TBTPTBP1DA",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "TBTPTBP1ET",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "TBTPTBP2DA",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        }
+    ],
     "books": null
 }

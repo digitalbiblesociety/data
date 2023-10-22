@@ -7,7 +7,7 @@
         "name": "Northwestern Ojibwa"
     },
     "title": "Northwestern Ojibwa 2008 Edition (Syllabic)",
-    "title_vernacular": "",
+    "title_vernacular": null,
     "description": null,
     "description_short": null,
     "description_vernacular": null,
@@ -23,7 +23,18 @@
         "script": "Latn",
         "fonts": []
     },
-    "pod": [],
+    "pod": [
+        {
+            "publisher_id": null,
+            "partner_id": null,
+            "description": "",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 214,
+            "print_ready": 0,
+            "print_banned": 0
+        }
+    ],
     "links": [
         {
             "url": "https://archive.org/download/OJBCBS_DBS_HS/Ojibwa-North-John-(print).pdf",

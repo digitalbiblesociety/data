@@ -36,7 +36,7 @@
             "publisher": null
         },
         {
-            "url": "http://www.bible.is/radio/ARBAKIS2DA",
+            "url": "https://www.live.bible.is/radio/ARBAKIS2DA",
             "title": "Radio",
             "scope": "",
             "type": "audio_web",
@@ -48,6 +48,15 @@
     ],
     "publishers": [],
     "providers": [],
-    "equivalents": [],
+    "equivalents": [
+        {
+            "organization_id": null,
+            "equivalent_id": "ARBAKIS",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        }
+    ],
     "books": null
 }

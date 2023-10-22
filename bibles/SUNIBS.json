@@ -7,7 +7,7 @@
         "name": "Sundanese"
     },
     "title": "Sundanese Formal Version",
-    "title_vernacular": "",
+    "title_vernacular": null,
     "description": null,
     "description_short": null,
     "description_vernacular": null,
@@ -23,7 +23,18 @@
         "script": "Sund",
         "fonts": []
     },
-    "pod": [],
+    "pod": [
+        {
+            "publisher_id": null,
+            "partner_id": null,
+            "description": "",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 214,
+            "print_ready": 0,
+            "print_banned": 0
+        }
+    ],
     "links": [
         {
             "url": "https://app.thedigitalbiblelibrary.org/entry?id=495fd234a08a11e7",
@@ -48,6 +59,15 @@
     ],
     "publishers": [],
     "providers": [],
-    "equivalents": [],
+    "equivalents": [
+        {
+            "organization_id": null,
+            "equivalent_id": "SUNIBSN",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        }
+    ],
     "books": null
 }

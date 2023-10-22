@@ -23,7 +23,18 @@
         "script": "Latn",
         "fonts": []
     },
-    "pod": [],
+    "pod": [
+        {
+            "publisher_id": null,
+            "partner_id": null,
+            "description": "",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 291,
+            "print_ready": 0,
+            "print_banned": 0
+        }
+    ],
     "links": [
         {
             "url": "http://bibles.org/versions/lhu-LHBR",
@@ -152,6 +163,14 @@
             "suffix": "",
             "type": "",
             "url": "https://bible.com/versions/91"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "LHUTBSN",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
         }
     ],
     "books": null

@@ -7,7 +7,7 @@
         "name": "Udmurt"
     },
     "title": "Udmurt New Testament",
-    "title_vernacular": "",
+    "title_vernacular": null,
     "description": null,
     "description_short": null,
     "description_vernacular": null,
@@ -23,10 +23,21 @@
         "script": "Cyrl",
         "fonts": []
     },
-    "pod": [],
+    "pod": [
+        {
+            "publisher_id": null,
+            "partner_id": null,
+            "description": "",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 213,
+            "print_ready": 0,
+            "print_banned": 0
+        }
+    ],
     "links": [
         {
-            "url": "http://www.bible.is/UDMIBT/Matt/1/N/",
+            "url": "https://www.live.bible.is/UDMIBT/Matt/1/N/",
             "title": "NT (Non-Dramatized)",
             "scope": "",
             "type": "web",
@@ -36,7 +47,7 @@
             "publisher": "Faith Comes By Hearing"
         },
         {
-            "url": "http://www.bible.is/UDMIBT/Matt/1/D/",
+            "url": "https://www.live.bible.is/UDMIBT/Matt/1/D/",
             "title": "NT (Dramatized)",
             "scope": "",
             "type": "web",
@@ -68,6 +79,15 @@
     ],
     "publishers": [],
     "providers": [],
-    "equivalents": [],
+    "equivalents": [
+        {
+            "organization_id": null,
+            "equivalent_id": "UDMIBTN",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        }
+    ],
     "books": null
 }

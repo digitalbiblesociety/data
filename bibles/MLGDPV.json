@@ -23,10 +23,21 @@
         "script": "Latn",
         "fonts": []
     },
-    "pod": [],
+    "pod": [
+        {
+            "publisher_id": null,
+            "partner_id": null,
+            "description": "",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 698,
+            "print_ready": 0,
+            "print_banned": 0
+        }
+    ],
     "links": [
         {
-            "url": "http://www.bible.is/MLGDPV/Matt/1/N",
+            "url": "https://www.live.bible.is/MLGDPV/Matt/1/N",
             "title": "Full Bible",
             "scope": "",
             "type": "web",
@@ -56,6 +67,22 @@
             "suffix": "",
             "type": "DBL",
             "url": "https://app.thedigitalbiblelibrary.org/entry?id=9ce0d31e56e411e5"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "MLGDPVN",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "MLGDPVO",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
         }
     ],
     "books": null

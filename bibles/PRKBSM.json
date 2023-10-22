@@ -7,7 +7,7 @@
         "name": "Parauk"
     },
     "title": "Parauk 2012 Edition",
-    "title_vernacular": "",
+    "title_vernacular": null,
     "description": null,
     "description_short": null,
     "description_vernacular": null,
@@ -23,7 +23,18 @@
         "script": "Latn",
         "fonts": []
     },
-    "pod": [],
+    "pod": [
+        {
+            "publisher_id": null,
+            "partner_id": null,
+            "description": "",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 788,
+            "print_ready": 0,
+            "print_banned": 0
+        }
+    ],
     "links": [
         {
             "url": "http://live.bible.is/bible/PRKBSM/MAT/1",
@@ -68,6 +79,23 @@
     ],
     "publishers": [],
     "providers": [],
-    "equivalents": [],
+    "equivalents": [
+        {
+            "organization_id": null,
+            "equivalent_id": "PRKBSMN",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "PRKBSMO",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        }
+    ],
     "books": null
 }

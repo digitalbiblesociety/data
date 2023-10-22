@@ -23,10 +23,21 @@
         "script": "Latn",
         "fonts": []
     },
-    "pod": [],
+    "pod": [
+        {
+            "publisher_id": null,
+            "partner_id": null,
+            "description": "",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 235,
+            "print_ready": 0,
+            "print_banned": 0
+        }
+    ],
     "links": [
         {
-            "url": "http://www.bible.is/ALJOMF/Matt/1/D",
+            "url": "https://www.live.bible.is/ALJOMF/Matt/1/D",
             "title": "NT",
             "scope": "",
             "type": "audio_web",
@@ -68,6 +79,31 @@
     ],
     "publishers": [],
     "providers": [],
-    "equivalents": [],
+    "equivalents": [
+        {
+            "organization_id": null,
+            "equivalent_id": "ALJOMFN",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "ALJOMFN2DA",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "ALJOMFN2ET",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        }
+    ],
     "books": null
 }

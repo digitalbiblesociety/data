@@ -6,7 +6,7 @@
     "language": {
         "name": "Pengo"
     },
-    "title": "New Testament in Pengo (Bible)",
+    "title": "New Testament in Pengo",
     "title_vernacular": "ସତ୍‌ ବଚନ୍‌, ପୁନି ନିୟମ୍‌",
     "description": null,
     "description_short": null,
@@ -23,7 +23,18 @@
         "script": "Orya",
         "fonts": []
     },
-    "pod": [],
+    "pod": [
+        {
+            "publisher_id": null,
+            "partner_id": null,
+            "description": "",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 225,
+            "print_ready": 0,
+            "print_banned": 0
+        }
+    ],
     "links": [
         {
             "url": "https://www.bible.com/versions/2791-ntnoo20-",

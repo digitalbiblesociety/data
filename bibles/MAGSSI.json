@@ -23,10 +23,21 @@
         "script": "Latn",
         "fonts": []
     },
-    "pod": [],
+    "pod": [
+        {
+            "publisher_id": null,
+            "partner_id": null,
+            "description": "",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 154,
+            "print_ready": 0,
+            "print_banned": 0
+        }
+    ],
     "links": [
         {
-            "url": "http://www.bible.is/MAGSSI/Matt/1/D/",
+            "url": "https://www.live.bible.is/MAGSSI/Matt/1/D/",
             "title": "New Testament with Dramatized Audio",
             "scope": "",
             "type": "web",
@@ -36,7 +47,7 @@
             "publisher": "Faith Comes By Hearing"
         },
         {
-            "url": "http://www.bible.is/MAGSSI/Matt/1/N",
+            "url": "https://www.live.bible.is/MAGSSI/Matt/1/N",
             "title": "New Testament with Non-Dramatized Audio",
             "scope": "",
             "type": "web",
@@ -58,6 +69,15 @@
     ],
     "publishers": [],
     "providers": [],
-    "equivalents": [],
+    "equivalents": [
+        {
+            "organization_id": null,
+            "equivalent_id": "MAGSSIN",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        }
+    ],
     "books": null
 }

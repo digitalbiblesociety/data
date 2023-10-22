@@ -26,7 +26,7 @@
     "pod": [],
     "links": [
         {
-            "url": "http://www.bible.is/DOPBSB/Matt/1/D",
+            "url": "https://www.live.bible.is/DOPBSB/Matt/1/D",
             "title": "NT",
             "scope": "",
             "type": "web",
@@ -58,6 +58,15 @@
     ],
     "publishers": [],
     "providers": [],
-    "equivalents": [],
+    "equivalents": [
+        {
+            "organization_id": null,
+            "equivalent_id": "DOPBSBN",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        }
+    ],
     "books": null
 }

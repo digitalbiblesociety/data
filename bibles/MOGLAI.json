@@ -11,8 +11,8 @@
     "description": null,
     "description_short": null,
     "description_vernacular": null,
-    "copyright": "© Indonesian Bible Society, 2016",
-    "copyright_type": null,
+    "copyright": "© 2016 Indonesian Bible Society",
+    "copyright_type": "RESERVED",
     "date": null,
     "country_id": "ID",
     "country": {
@@ -23,7 +23,28 @@
         "script": "Latn",
         "fonts": []
     },
-    "pod": [],
+    "pod": [
+        {
+            "publisher_id": "9a453865-86d7-478d-b8e9-36a7b503c3bb",
+            "partner_id": null,
+            "description": "",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 275,
+            "print_ready": 0,
+            "print_banned": 0
+        },
+        {
+            "publisher_id": "9a453865-86d7-478d-b8e9-36a7b503c3bb",
+            "partner_id": null,
+            "description": "",
+            "trim": "us_trade",
+            "scope": "bible",
+            "pages": 275,
+            "print_ready": 0,
+            "print_banned": 0
+        }
+    ],
     "links": [
         {
             "url": "https://www.bible.com/versions/2874-inomog-alkitab-singog-in-mongondow-masa-in-tanaa",
@@ -104,6 +125,14 @@
             "suffix": "",
             "type": "",
             "url": "https://bible.com/versions/2874"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "MOGLAIN",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
         }
     ],
     "books": null

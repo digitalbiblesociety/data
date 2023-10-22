@@ -22,7 +22,7 @@
     "status_id": "6a",
     "status_notes": null,
     "redirect_to_iso": null,
-    "bibles_count": 0,
+    "bibles_count": 1,
     "films_count": 0,
     "resources_count": 0,
     "translations_count": 3,
@@ -156,7 +156,32 @@
             "name": "Moniga"
         }
     ],
-    "bibles": [],
+    "bibles": [
+        {
+            "id": "f4b98a4a-5255-401a-a7bc-3c25b41acbbe",
+            "abbr": "MHMWBT",
+            "parent_bible_id": null,
+            "title": "The New Testament in Moniga",
+            "title_vernacular": null,
+            "description": null,
+            "description_short": null,
+            "description_vernacular": null,
+            "description_reviewed": 0,
+            "iso": "mhm",
+            "script": "Latn",
+            "versification": null,
+            "numeral_system_id": "default",
+            "year": null,
+            "country_id": "MZ",
+            "copyright": null,
+            "copyright_type": null,
+            "reviewed": 0,
+            "isbn13": null,
+            "back_text": null,
+            "cover": null,
+            "questionable": 0
+        }
+    ],
     "resources": [],
     "films": []
 }

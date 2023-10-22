@@ -1,6 +1,6 @@
 {
     "id": "PAUPOT",
-    "parent_bible_id": null,
+    "parent_bible_id": "",
     "uuid": "001d1a9f-9bac-4b76-a59d-e38f6b9a0388",
     "iso": "pau",
     "language": {
@@ -9,10 +9,10 @@
     "title": "Palauan New Testament",
     "title_vernacular": "A beches el telbiil el mungakl a beches el testament era rubak er kid el osobeled el Jesus Kristus",
     "description": "The first New Testament in Palauan. Translated by Hildegard A.K. Thiem (LM), assisted by Paulus Subris Ermang.",
-    "description_short": null,
-    "description_vernacular": null,
-    "copyright": null,
-    "copyright_type": null,
+    "description_short": "",
+    "description_vernacular": "",
+    "copyright": "© 1964, American Bible Society",
+    "copyright_type": "RESERVED",
     "date": null,
     "country_id": "PW",
     "country": {
@@ -23,7 +23,18 @@
         "script": "Latn",
         "fonts": []
     },
-    "pod": [],
+    "pod": [
+        {
+            "publisher_id": null,
+            "partner_id": null,
+            "description": "",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 236,
+            "print_ready": 0,
+            "print_banned": 0
+        }
+    ],
     "links": [
         {
             "url": "https://podcasts.apple.com/us/podcast/palauan-bible/id496089967",

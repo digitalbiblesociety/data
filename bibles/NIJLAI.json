@@ -23,10 +23,21 @@
         "script": "Latn",
         "fonts": []
     },
-    "pod": [],
+    "pod": [
+        {
+            "publisher_id": null,
+            "partner_id": null,
+            "description": "",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 244,
+            "print_ready": 0,
+            "print_banned": 0
+        }
+    ],
     "links": [
         {
-            "url": "http://www.bible.is/radio/NIJLAIN2DA",
+            "url": "https://www.live.bible.is/radio/NIJLAIN2DA",
             "title": "NT Radio",
             "scope": "",
             "type": "audio_web",
@@ -36,7 +47,7 @@
             "publisher": "Faith Comes By Hearing"
         },
         {
-            "url": "http://www.bible.is/NIJLAI/Matt/1/D",
+            "url": "https://www.live.bible.is/NIJLAI/Matt/1/D",
             "title": "NT",
             "scope": "",
             "type": "web",
@@ -104,6 +115,14 @@
             "suffix": "",
             "type": "",
             "url": "https://bible.com/versions/2879"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "NIJLAIN",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
         }
     ],
     "books": null

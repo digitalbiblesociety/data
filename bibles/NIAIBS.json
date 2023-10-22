@@ -7,7 +7,7 @@
         "name": "Nias"
     },
     "title": "Nias Today's Nias Version, 2006",
-    "title_vernacular": "",
+    "title_vernacular": null,
     "description": null,
     "description_short": null,
     "description_vernacular": null,
@@ -23,7 +23,18 @@
         "script": "Latn",
         "fonts": []
     },
-    "pod": [],
+    "pod": [
+        {
+            "publisher_id": null,
+            "partner_id": null,
+            "description": "",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 217,
+            "print_ready": 0,
+            "print_banned": 0
+        }
+    ],
     "links": [
         {
             "url": "https://archive.org/download/NIAIBS_DBS_HS/Nias-(2006)-New-Testament-(SABDA)-print.pdf",
@@ -56,6 +67,14 @@
             "suffix": "",
             "type": "DBL",
             "url": "https://app.thedigitalbiblelibrary.org/entry?id=68c92f3c57a111e5"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "NIAIBSN",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
         }
     ],
     "books": null

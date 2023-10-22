@@ -7,7 +7,7 @@
         "name": "Kenyan Sign Language"
     },
     "title": "Kenyan Sign Language Bible Portions",
-    "title_vernacular": "",
+    "title_vernacular": null,
     "description": null,
     "description_short": null,
     "description_vernacular": null,
@@ -34,20 +34,19 @@
             "provider": "D.O.O.R International",
             "publisher_id": "0e9f9918-5723-41e6-b829-92563d09d010",
             "publisher": "DOOR International"
-        },
-        {
-            "url": "http://www.bible.is/deaf/XKISLS",
-            "title": "PRTNS",
-            "scope": "",
-            "type": "video_web",
-            "filesize": "0",
-            "provider": "Deaf Bible",
-            "publisher_id": "1efa1684-3ce7-484b-ad60-d8ce91646ced",
-            "publisher": "Deaf Bible Society"
         }
     ],
     "publishers": [],
     "providers": [],
-    "equivalents": [],
+    "equivalents": [
+        {
+            "organization_id": null,
+            "equivalent_id": "XKISLSS",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        }
+    ],
     "books": null
 }

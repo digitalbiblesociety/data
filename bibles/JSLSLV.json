@@ -26,16 +26,6 @@
     "pod": [],
     "links": [
         {
-            "url": "http://www.bible.is/deaf/JSLSLV",
-            "title": "PRTNS",
-            "scope": "",
-            "type": "video_web",
-            "filesize": "0",
-            "provider": "Deaf Bible",
-            "publisher_id": "1efa1684-3ce7-484b-ad60-d8ce91646ced",
-            "publisher": "Deaf Bible Society"
-        },
-        {
             "url": "https://apktume.com/android/us/app/org.apsda_deaf.vibi/",
             "title": "JSL Bible",
             "scope": "",
@@ -48,6 +38,23 @@
     ],
     "publishers": [],
     "providers": [],
-    "equivalents": [],
+    "equivalents": [
+        {
+            "organization_id": null,
+            "equivalent_id": "JSLSLVN",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "JSLSLVO",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        }
+    ],
     "books": null
 }

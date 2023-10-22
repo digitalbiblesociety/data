@@ -7,7 +7,7 @@
         "name": "Malaysian Sign Language"
     },
     "title": "Malaysian Sign Language Bible Portions",
-    "title_vernacular": "",
+    "title_vernacular": null,
     "description": null,
     "description_short": null,
     "description_vernacular": null,
@@ -24,20 +24,18 @@
         "fonts": []
     },
     "pod": [],
-    "links": [
-        {
-            "url": "http://www.bible.is/deaf/XMLSLS",
-            "title": "PRTNS",
-            "scope": "",
-            "type": "video_web",
-            "filesize": "0",
-            "provider": "Deaf Bible",
-            "publisher_id": "1efa1684-3ce7-484b-ad60-d8ce91646ced",
-            "publisher": "Deaf Bible Society"
-        }
-    ],
+    "links": [],
     "publishers": [],
     "providers": [],
-    "equivalents": [],
+    "equivalents": [
+        {
+            "organization_id": null,
+            "equivalent_id": "XMLSLSS",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        }
+    ],
     "books": null
 }

@@ -23,10 +23,21 @@
         "script": "Hant",
         "fonts": []
     },
-    "pod": [],
+    "pod": [
+        {
+            "publisher_id": null,
+            "partner_id": null,
+            "description": "",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 206,
+            "print_ready": 0,
+            "print_banned": 0
+        }
+    ],
     "links": [
         {
-            "url": "http://www.bible.is/HA1THV/Matt/1/D",
+            "url": "https://www.live.bible.is/HA1THV/Matt/1/D",
             "title": "NT",
             "scope": "",
             "type": "audio_web",
@@ -36,7 +47,7 @@
             "publisher": "Faith Comes By Hearing"
         },
         {
-            "url": "http://www.bible.is/HA1THV/Matt/1/D",
+            "url": "https://www.live.bible.is/HA1THV/Matt/1/D",
             "title": "NT (Non-Romanized)",
             "scope": "",
             "type": "web",
@@ -98,6 +109,23 @@
     ],
     "publishers": [],
     "providers": [],
-    "equivalents": [],
+    "equivalents": [
+        {
+            "organization_id": null,
+            "equivalent_id": "HAKTHVN",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "HAKTHVO",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        }
+    ],
     "books": null
 }

@@ -23,7 +23,18 @@
         "script": "Thai",
         "fonts": []
     },
-    "pod": [],
+    "pod": [
+        {
+            "publisher_id": null,
+            "partner_id": null,
+            "description": "",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 207,
+            "print_ready": 0,
+            "print_banned": 0
+        }
+    ],
     "links": [
         {
             "url": "https://apk.fcbh.org/Karen_Pwo_Northern_TBS",
@@ -94,6 +105,14 @@
             "suffix": "",
             "type": "",
             "url": "https://bible.com/versions/1736"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "PWWTBSN",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
         }
     ],
     "books": null

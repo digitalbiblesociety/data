@@ -22,7 +22,7 @@
     "status_id": "5",
     "status_notes": null,
     "redirect_to_iso": null,
-    "bibles_count": 0,
+    "bibles_count": 1,
     "films_count": 1,
     "resources_count": 3,
     "translations_count": 1,
@@ -115,7 +115,32 @@
             "name": "Warli"
         }
     ],
-    "bibles": [],
+    "bibles": [
+        {
+            "id": "32f0ef8d9cbc4d87",
+            "abbr": "VARFMP",
+            "parent_bible_id": null,
+            "title": "Varli New Testament",
+            "title_vernacular": null,
+            "description": null,
+            "description_short": null,
+            "description_vernacular": null,
+            "description_reviewed": 0,
+            "iso": "vav",
+            "script": "Deva",
+            "versification": null,
+            "numeral_system_id": "default",
+            "year": 2023,
+            "country_id": "IN",
+            "copyright": "© Friends Missionary Prayer Band",
+            "copyright_type": null,
+            "reviewed": 0,
+            "isbn13": null,
+            "back_text": null,
+            "cover": null,
+            "questionable": 0
+        }
+    ],
     "resources": [
         {
             "iso": "vav",

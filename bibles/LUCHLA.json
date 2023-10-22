@@ -26,7 +26,7 @@
     "pod": [],
     "links": [
         {
-            "url": "http://www.bible.is/LUCHLA/Matt/1/D/",
+            "url": "https://www.live.bible.is/LUCHLA/Matt/1/D/",
             "title": "NT (Dramatized)",
             "scope": "",
             "type": "audio_web",
@@ -36,7 +36,7 @@
             "publisher": "Faith Comes By Hearing"
         },
         {
-            "url": "http://www.bible.is/LUCHLA/Matt/1/N/",
+            "url": "https://www.live.bible.is/LUCHLA/Matt/1/N/",
             "title": "NT (Non-Dramatized)",
             "scope": "",
             "type": "audio_web",
@@ -46,7 +46,7 @@
             "publisher": "Faith Comes By Hearing"
         },
         {
-            "url": "http://www.bible.is/LUCHLA/Matt/1/N/",
+            "url": "https://www.live.bible.is/LUCHLA/Matt/1/N/",
             "title": "NT",
             "scope": "",
             "type": "web",
@@ -68,6 +68,15 @@
     ],
     "publishers": [],
     "providers": [],
-    "equivalents": [],
+    "equivalents": [
+        {
+            "organization_id": null,
+            "equivalent_id": "LUCHLAN",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        }
+    ],
     "books": null
 }

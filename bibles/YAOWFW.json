@@ -6,13 +6,13 @@
     "language": {
         "name": "Yao"
     },
-    "title": "Yao New Testament (Bible)",
+    "title": "Yao New Testament",
     "title_vernacular": "Lilangano lya Sambano",
     "description": null,
     "description_short": null,
     "description_vernacular": null,
     "copyright": "© The Word for the World Southern Africa and Pioneer Bible Translators, 2018.",
-    "copyright_type": "",
+    "copyright_type": "CCBY",
     "date": null,
     "country_id": "MW",
     "country": {
@@ -23,7 +23,18 @@
         "script": "Latn",
         "fonts": []
     },
-    "pod": [],
+    "pod": [
+        {
+            "publisher_id": null,
+            "partner_id": null,
+            "description": "",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 296,
+            "print_ready": 0,
+            "print_banned": 0
+        }
+    ],
     "links": [
         {
             "url": "https://www.bible.com/versions/2793-ynt2018-lilangano-lya-sambano",

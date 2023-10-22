@@ -23,7 +23,18 @@
         "script": "Latn",
         "fonts": []
     },
-    "pod": [],
+    "pod": [
+        {
+            "publisher_id": null,
+            "partner_id": null,
+            "description": "",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 200,
+            "print_ready": 0,
+            "print_banned": 0
+        }
+    ],
     "links": [
         {
             "url": "https://apk.fcbh.org/Moru_BSO",
@@ -54,6 +65,14 @@
             "suffix": "",
             "type": "DBL",
             "url": "https://app.thedigitalbiblelibrary.org/entry?id=9ba896baa0ca6fdf"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "MGDBSSN",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
         }
     ],
     "books": null

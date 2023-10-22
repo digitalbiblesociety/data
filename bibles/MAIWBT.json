@@ -27,10 +27,20 @@
         {
             "publisher_id": "048ddebe-a8fa-4370-914d-79a119447d49",
             "partner_id": null,
-            "description": "auto-added",
+            "description": " ",
             "trim": "us_trade",
             "scope": "bible",
-            "pages": 0,
+            "pages": 407,
+            "print_ready": 0,
+            "print_banned": 0
+        },
+        {
+            "publisher_id": "048ddebe-a8fa-4370-914d-79a119447d49",
+            "partner_id": null,
+            "description": " ",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 223,
             "print_ready": 0,
             "print_banned": 0
         }
@@ -317,7 +327,7 @@
             "publisher": "Scripture Earth"
         },
         {
-            "url": "http://www.bible.is/MAIWBT/Matt/1/D",
+            "url": "https://www.live.bible.is/MAIWBT/Matt/1/D",
             "title": "NT",
             "scope": "",
             "type": "web",
@@ -451,6 +461,14 @@
             "suffix": "",
             "type": "",
             "url": "https://bible.com/versions/1302"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "MAIWBTN",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
         }
     ],
     "books": null

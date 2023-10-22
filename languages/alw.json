@@ -22,7 +22,7 @@
     "status_id": "4",
     "status_notes": null,
     "redirect_to_iso": null,
-    "bibles_count": 0,
+    "bibles_count": 1,
     "films_count": 1,
     "resources_count": 2,
     "translations_count": 5,
@@ -147,7 +147,32 @@
             "name": "ሀላቢ"
         }
     ],
-    "bibles": [],
+    "bibles": [
+        {
+            "id": "79301eebdc28f621",
+            "abbr": "ALWWFTW",
+            "parent_bible_id": null,
+            "title": "The Halaba New Testament",
+            "title_vernacular": "ሀላቢ ሀዕሮዋአዲ መጻፋ",
+            "description": "The Halaba New Testament – The Word for the World 2015 ",
+            "description_short": null,
+            "description_vernacular": null,
+            "description_reviewed": 0,
+            "iso": "alw",
+            "script": "Ethi",
+            "versification": null,
+            "numeral_system_id": "default",
+            "year": 2015,
+            "country_id": "ET",
+            "copyright": "© The Word for the World 2015 ",
+            "copyright_type": "",
+            "reviewed": 0,
+            "isbn13": null,
+            "back_text": null,
+            "cover": null,
+            "questionable": 0
+        }
+    ],
     "resources": [
         {
             "iso": "alw",

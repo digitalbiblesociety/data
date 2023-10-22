@@ -26,7 +26,7 @@
     "pod": [],
     "links": [
         {
-            "url": "http://www.bible.is/MLGRCV/Matt/1/D",
+            "url": "https://www.live.bible.is/MLGRCV/Matt/1/D",
             "title": "Full Bible",
             "scope": "",
             "type": "web",
@@ -48,6 +48,23 @@
     ],
     "publishers": [],
     "providers": [],
-    "equivalents": [],
+    "equivalents": [
+        {
+            "organization_id": null,
+            "equivalent_id": "MLGRCVN",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "MLGRCVO",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        }
+    ],
     "books": null
 }

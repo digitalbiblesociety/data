@@ -30,7 +30,7 @@
             "description": "This Bible is copyrighted by Wycliffe Bible Translators (Wycliffe.org) and is printed with permission by the Digital Bible Society (dbs.org) for non-commercial use.<br /><br />This Bible is available for free download in a variety of digital formats at dbs.org/bibles.",
             "trim": "us_letter",
             "scope": "bible",
-            "pages": null,
+            "pages": 260,
             "print_ready": 0,
             "print_banned": 0
         },
@@ -40,14 +40,14 @@
             "description": "This Bible is copyrighted by Wycliffe Bible Translators (Wycliffe.org) and is printed with permission by the Digital Bible Society (dbs.org) for non-commercial use.<br /><br />This Bible is available for free download in a variety of digital formats at dbs.org/bibles.",
             "trim": "us_trade",
             "scope": "bible",
-            "pages": 918,
+            "pages": 349,
             "print_ready": 0,
             "print_banned": 0
         }
     ],
     "links": [
         {
-            "url": "http://www.bible.is/KFCKSS/Matt/1/D",
+            "url": "https://www.live.bible.is/KFCKSS/Matt/1/D",
             "title": "NT",
             "scope": "",
             "type": "audio_web",
@@ -145,6 +145,14 @@
             "suffix": "",
             "type": "",
             "url": "https://bible.com/versions/2423"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "KFCKSSN",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
         }
     ],
     "books": null

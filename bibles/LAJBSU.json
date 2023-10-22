@@ -23,7 +23,18 @@
         "script": "Latn",
         "fonts": []
     },
-    "pod": [],
+    "pod": [
+        {
+            "publisher_id": null,
+            "partner_id": null,
+            "description": "",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 179,
+            "print_ready": 0,
+            "print_banned": 0
+        }
+    ],
     "links": [
         {
             "url": "http://bibles.org/versions/laj-B79",
@@ -168,6 +179,14 @@
             "suffix": "",
             "type": "",
             "url": "https://bible.com/versions/1974"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "LAJBSUN",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
         }
     ],
     "books": null

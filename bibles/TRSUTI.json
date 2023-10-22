@@ -7,7 +7,7 @@
         "name": "Chicahuaxtla Triqui"
     },
     "title": "Triqui Chicahuaxtla",
-    "title_vernacular": "",
+    "title_vernacular": null,
     "description": null,
     "description_short": null,
     "description_vernacular": null,
@@ -23,10 +23,31 @@
         "script": "Latn",
         "fonts": []
     },
-    "pod": [],
+    "pod": [
+        {
+            "publisher_id": null,
+            "partner_id": null,
+            "description": "",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 276,
+            "print_ready": 0,
+            "print_banned": 0
+        },
+        {
+            "publisher_id": null,
+            "partner_id": null,
+            "description": "",
+            "trim": "us_trade",
+            "scope": "bible",
+            "pages": 542,
+            "print_ready": 0,
+            "print_banned": 0
+        }
+    ],
     "links": [
         {
-            "url": "http://www.bible.is/TRSUTI/Matt/1/N/",
+            "url": "https://www.live.bible.is/TRSUTI/Matt/1/N/",
             "title": "NT (Non-Dramatized)",
             "scope": "",
             "type": "web",
@@ -36,7 +57,7 @@
             "publisher": "Faith Comes By Hearing"
         },
         {
-            "url": "http://www.bible.is/TRSUTI/Matt/1/D/",
+            "url": "https://www.live.bible.is/TRSUTI/Matt/1/D/",
             "title": "NT (Dramatized)",
             "scope": "",
             "type": "web",
@@ -68,6 +89,15 @@
     ],
     "publishers": [],
     "providers": [],
-    "equivalents": [],
+    "equivalents": [
+        {
+            "organization_id": null,
+            "equivalent_id": "TRSUTIN",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        }
+    ],
     "books": null
 }

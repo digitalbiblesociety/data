@@ -23,7 +23,18 @@
         "script": "Latn",
         "fonts": []
     },
-    "pod": [],
+    "pod": [
+        {
+            "publisher_id": null,
+            "partner_id": null,
+            "description": "",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 208,
+            "print_ready": 0,
+            "print_banned": 0
+        }
+    ],
     "links": [
         {
             "url": "http://live.bible.is/bible/JMCBST/MAT/1",
@@ -142,6 +153,14 @@
             "suffix": "",
             "type": "",
             "url": "https://bible.com/versions/3043"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "JMCBSTN",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
         }
     ],
     "books": null

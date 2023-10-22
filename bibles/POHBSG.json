@@ -27,10 +27,10 @@
         {
             "publisher_id": "048ddebe-a8fa-4370-914d-79a119447d49",
             "partner_id": null,
-            "description": "auto-added",
+            "description": " ",
             "trim": "us_trade",
             "scope": "bible",
-            "pages": 0,
+            "pages": 1015,
             "print_ready": 0,
             "print_banned": 0
         }
@@ -38,6 +38,23 @@
     "links": [],
     "publishers": [],
     "providers": [],
-    "equivalents": [],
+    "equivalents": [
+        {
+            "organization_id": null,
+            "equivalent_id": "POHBSGN",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "POHBSGO",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        }
+    ],
     "books": null
 }

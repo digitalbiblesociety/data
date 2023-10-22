@@ -36,16 +36,6 @@
             "publisher": "DOOR International"
         },
         {
-            "url": "http://www.bible.is/deaf/ASESLV",
-            "title": "PRTNS",
-            "scope": "",
-            "type": "video_web",
-            "filesize": "0",
-            "provider": "Deaf Bible",
-            "publisher_id": "1efa1684-3ce7-484b-ad60-d8ce91646ced",
-            "publisher": "Deaf Bible Society"
-        },
-        {
             "url": "http://listen.bible.is/ASESLV/Matt/1/D",
             "title": "Audio Bible",
             "scope": "",
@@ -58,6 +48,55 @@
     ],
     "publishers": [],
     "providers": [],
-    "equivalents": [],
+    "equivalents": [
+        {
+            "organization_id": null,
+            "equivalent_id": "ASESLSS2DV",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "ASESLVN2DV",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "ASESLVN2ET",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "ASESLVO",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "ASESLVO2DV",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "ASESLVO2ET",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        }
+    ],
     "books": null
 }

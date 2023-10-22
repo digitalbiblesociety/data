@@ -23,10 +23,21 @@
         "script": "Latn",
         "fonts": []
     },
-    "pod": [],
+    "pod": [
+        {
+            "publisher_id": null,
+            "partner_id": null,
+            "description": "",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 221,
+            "print_ready": 0,
+            "print_banned": 0
+        }
+    ],
     "links": [
         {
-            "url": "http://www.bible.is/NNQPBT/Matt/1/D/",
+            "url": "https://www.live.bible.is/NNQPBT/Matt/1/D/",
             "title": "NT",
             "scope": "",
             "type": "web",
@@ -128,6 +139,14 @@
             "suffix": "",
             "type": "",
             "url": "https://bible.com/versions/1674"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "NNQPBTN",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
         }
     ],
     "books": null

@@ -6,7 +6,7 @@
     "language": {
         "name": "Mende (Sierra Leone)"
     },
-    "title": "Mende (Sierra Leone) New Testament ",
+    "title": "Mende (Sierra Leone) Old and New Testament ",
     "title_vernacular": "Ngowili Yekpei Numu Kpɛlɛɛ Va",
     "description": null,
     "description_short": null,
@@ -23,7 +23,18 @@
         "script": "Mend",
         "fonts": []
     },
-    "pod": [],
+    "pod": [
+        {
+            "publisher_id": null,
+            "partner_id": null,
+            "description": "",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 206,
+            "print_ready": 0,
+            "print_banned": 0
+        }
+    ],
     "links": [
         {
             "url": "http://oralbibles.org/content/mende",
@@ -94,6 +105,14 @@
             "suffix": "",
             "type": "",
             "url": "https://bible.com/versions/2951"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "MENBSLN",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
         }
     ],
     "books": null

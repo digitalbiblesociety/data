@@ -26,7 +26,7 @@
     "pod": [],
     "links": [
         {
-            "url": "http://www.bible.is/LATLVR/Matt/1/N",
+            "url": "https://www.live.bible.is/LATLVR/Matt/1/N",
             "title": "NT",
             "scope": "",
             "type": "audio_web",
@@ -58,6 +58,39 @@
     ],
     "publishers": [],
     "providers": [],
-    "equivalents": [],
+    "equivalents": [
+        {
+            "organization_id": null,
+            "equivalent_id": "LATLVRN",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "LATLVRN1DA",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "LATLVRP",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "LATLVRP1DA",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        }
+    ],
     "books": null
 }

@@ -24,20 +24,26 @@
         "fonts": []
     },
     "pod": [],
-    "links": [
-        {
-            "url": "http://www.bible.is/deaf/CSCSLV",
-            "title": "PRTNS",
-            "scope": "",
-            "type": "video_web",
-            "filesize": "0",
-            "provider": "Deaf Bible",
-            "publisher_id": "1efa1684-3ce7-484b-ad60-d8ce91646ced",
-            "publisher": "Deaf Bible Society"
-        }
-    ],
+    "links": [],
     "publishers": [],
     "providers": [],
-    "equivalents": [],
+    "equivalents": [
+        {
+            "organization_id": null,
+            "equivalent_id": "CSCSLVO",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "CSCSLVO2DV",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        }
+    ],
     "books": null
 }

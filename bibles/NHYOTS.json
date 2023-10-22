@@ -7,7 +7,7 @@
         "name": "Northern Oaxaca Nahuatl"
     },
     "title": "Old Testament Portions in Norte de Oaxaca Nahuatl",
-    "title_vernacular": "",
+    "title_vernacular": null,
     "description": null,
     "description_short": null,
     "description_vernacular": null,
@@ -27,6 +27,15 @@
     "links": [],
     "publishers": [],
     "providers": [],
-    "equivalents": [],
+    "equivalents": [
+        {
+            "organization_id": null,
+            "equivalent_id": "NHYOTSS",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        }
+    ],
     "books": null
 }

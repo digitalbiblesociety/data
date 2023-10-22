@@ -1,0 +1,23 @@
+{
+  auto_https off
+}
+
+data.test {
+	root * /home/jon/Sites/data
+	file_server
+
+	# Enable CORS
+	header {
+		# Enable CORS for all origins (change * to your origin if you want to limit it)
+		Access-Control-Allow-Origin *
+
+		# Allowed headers (you can modify as per your requirements)
+		Access-Control-Allow-Headers Content-Type,Authorization
+
+		# Allowed methods
+		Access-Control-Allow-Methods GET,POST,PUT,DELETE,OPTIONS
+
+		# Allow credentials (cookies, http auth, etc.)
+		# Access-Control-Allow-Credentials true
+	}
+}

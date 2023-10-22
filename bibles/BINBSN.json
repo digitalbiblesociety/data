@@ -26,7 +26,7 @@
     "pod": [],
     "links": [
         {
-            "url": "http://www.bible.is/EDOBSN/John/3",
+            "url": "https://www.live.bible.is/EDOBSN/John/3",
             "title": "NT",
             "scope": "",
             "type": "audio_web",
@@ -58,6 +58,23 @@
     ],
     "publishers": [],
     "providers": [],
-    "equivalents": [],
+    "equivalents": [
+        {
+            "organization_id": null,
+            "equivalent_id": "EDOBSNN",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "EDOBSNN2DA",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        }
+    ],
     "books": null
 }

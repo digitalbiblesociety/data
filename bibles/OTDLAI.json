@@ -23,7 +23,18 @@
         "script": "Latn",
         "fonts": []
     },
-    "pod": [],
+    "pod": [
+        {
+            "publisher_id": null,
+            "partner_id": null,
+            "description": "",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 195,
+            "print_ready": 0,
+            "print_banned": 0
+        }
+    ],
     "links": [
         {
             "url": "https://www.bible.com/versions/2883-otd-bowot-bohua",
@@ -84,6 +95,14 @@
             "suffix": "",
             "type": "",
             "url": "https://bible.com/versions/2883"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "OTDLAIN",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
         }
     ],
     "books": null
