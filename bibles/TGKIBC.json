@@ -1,6 +1,6 @@
 {
     "id": "TGKIBC",
-    "parent_bible_id": "",
+    "parent_bible_id": "TGKTCB",
     "uuid": "034cc28c-b8e4-4b5d-b9f5-6f25de5c8601",
     "iso": "tgk",
     "language": {
@@ -32,6 +32,9 @@
             "scope": "bible",
             "pages": 1021,
             "print_ready": 0,
+            "font_size": 10,
+            "font_bold": "NotoSans-Bold.ttf",
+            "font": "NotoSans-Regular.ttf",
             "print_banned": 0
         },
         {
@@ -42,6 +45,9 @@
             "scope": "bible",
             "pages": 1841,
             "print_ready": 0,
+            "font_size": 9,
+            "font_bold": "CrimsonPro-Bold.ttf",
+            "font": "CrimsonPro-Regular.ttf",
             "print_banned": 0
         }
     ],
@@ -79,6 +85,39 @@
     ],
     "publishers": [],
     "providers": [],
-    "equivalents": [],
+    "equivalents": [
+        {
+            "organization_id": null,
+            "equivalent_id": "53ec93105117ad6736d2962c",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "53ec93235117ad673795985b",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "53ec93245117ad6735b02527",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "53ec93505117ad5c4ba64218",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
+        }
+    ],
     "books": null
 }

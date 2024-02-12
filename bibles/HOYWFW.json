@@ -6,7 +6,7 @@
     "language": {
         "name": "Holiya"
     },
-    "title": "New Testament in Holiya (Bible)",
+    "title": "New Testament in Holiya",
     "title_vernacular": "परमेश्‍वर उन खरा वचन, व्‍हाशोद नियम",
     "description": null,
     "description_short": null,
@@ -23,7 +23,21 @@
         "script": "Deva",
         "fonts": []
     },
-    "pod": [],
+    "pod": [
+        {
+            "publisher_id": null,
+            "partner_id": null,
+            "description": "",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 222,
+            "print_ready": 0,
+            "font_size": 10,
+            "font_bold": "NotoSans-Bold.ttf",
+            "font": "NotoSans-Regular.ttf",
+            "print_banned": 0
+        }
+    ],
     "links": [
         {
             "url": "https://www.bible.com/versions/2782-nthaa20-",

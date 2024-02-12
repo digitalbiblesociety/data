@@ -23,7 +23,21 @@
         "script": "Latn",
         "fonts": []
     },
-    "pod": [],
+    "pod": [
+        {
+            "publisher_id": null,
+            "partner_id": null,
+            "description": "",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 303,
+            "print_ready": 0,
+            "font_size": 10,
+            "font_bold": "NotoSans-Bold.ttf",
+            "font": "NotoSans-Regular.ttf",
+            "print_banned": 0
+        }
+    ],
     "links": [
         {
             "url": "https://www.bible.com/versions/1326-mbdnt-kasulatan-to-diyus",
@@ -94,6 +108,22 @@
             "suffix": "",
             "type": "",
             "url": "https://bible.com/versions/1326"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "53eb290e5117ad17968be89c",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "54424daa5117ad0d40090f9c",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
         }
     ],
     "books": null

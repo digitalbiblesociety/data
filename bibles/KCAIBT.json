@@ -23,7 +23,21 @@
         "script": "Cyrl",
         "fonts": []
     },
-    "pod": [],
+    "pod": [
+        {
+            "publisher_id": null,
+            "partner_id": null,
+            "description": "",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 120,
+            "print_ready": 0,
+            "font_size": 10,
+            "font_bold": "NotoSans-Bold.ttf",
+            "font": "NotoSans-Regular.ttf",
+            "print_banned": 0
+        }
+    ],
     "links": [
         {
             "url": "https://live.bible.is/bible/KCAIBT",
@@ -64,6 +78,38 @@
             "suffix": null,
             "type": "api",
             "url": null
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "53ec93255117ad6737959861",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "53ec932c5117ad6737959871",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "53ec93305117ad6735b02543",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "53ec934c5117ad5c4cdf9b2c",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
         }
     ],
     "books": null

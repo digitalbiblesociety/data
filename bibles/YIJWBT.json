@@ -12,7 +12,7 @@
     "description_short": null,
     "description_vernacular": null,
     "copyright": "© 1983 Wycliffe Bible Translators",
-    "copyright_type": "CCBY",
+    "copyright_type": "CCBYSA",
     "date": null,
     "country_id": "AU",
     "country": {
@@ -23,7 +23,21 @@
         "script": "Latn",
         "fonts": []
     },
-    "pod": [],
+    "pod": [
+        {
+            "publisher_id": null,
+            "partner_id": null,
+            "description": "",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 4,
+            "print_ready": 0,
+            "font_size": 10,
+            "font_bold": "NotoSans-Bold.ttf",
+            "font": "NotoSans-Regular.ttf",
+            "print_banned": 0
+        }
+    ],
     "links": [
         {
             "url": "https://www.bible.com/versions/2402-yij-yindjibarndi-luke",

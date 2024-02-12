@@ -32,6 +32,9 @@
             "scope": "bible",
             "pages": 330,
             "print_ready": 0,
+            "font_size": 10,
+            "font_bold": "NotoSans-Bold.ttf",
+            "font": "NotoSans-Regular.ttf",
             "print_banned": 0
         },
         {
@@ -42,6 +45,9 @@
             "scope": "bible",
             "pages": 610,
             "print_ready": 0,
+            "font_size": 9,
+            "font_bold": "CrimsonPro-Bold.ttf",
+            "font": "CrimsonPro-Regular.ttf",
             "print_banned": 0
         }
     ],
@@ -425,6 +431,14 @@
             "suffix": "",
             "type": "",
             "url": "https://bible.com/versions/1132"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "544a69c25117ad10277be52e",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
         }
     ],
     "books": null

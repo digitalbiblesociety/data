@@ -22,7 +22,7 @@
     "status_id": "5",
     "status_notes": null,
     "redirect_to_iso": null,
-    "bibles_count": 0,
+    "bibles_count": 1,
     "films_count": 1,
     "resources_count": 5,
     "translations_count": 10,
@@ -183,7 +183,27 @@
             "name": "Vagaria"
         }
     ],
-    "bibles": [],
+    "bibles": [
+        {
+            "id": "0fb74bba-7fc3-486b-b2f3-f0554880f7c2",
+            "abbr": "GJKPBS",
+            "parent_bible_id": null,
+            "title": "Kachi Gujarati New Testament",
+            "title_vernacular": null,
+            "description": null,
+            "description_short": null,
+            "description_vernacular": null,
+            "description_reviewed": 0,
+            "iso": "gjk",
+            "script": "Gujr",
+            "year": 2022,
+            "country_id": "PK",
+            "copyright": "The Pakistan Bible Society",
+            "copyright_type": null,
+            "reviewed": 0,
+            "questionable": 0
+        }
+    ],
     "resources": [
         {
             "iso": "gjk",

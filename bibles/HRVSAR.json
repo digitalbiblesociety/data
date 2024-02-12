@@ -32,6 +32,9 @@
             "scope": "bible",
             "pages": 1318,
             "print_ready": 0,
+            "font_size": 10,
+            "font_bold": "NotoSans-Bold.ttf",
+            "font": "NotoSans-Regular.ttf",
             "print_banned": 0
         }
     ],
@@ -79,6 +82,39 @@
     ],
     "publishers": [],
     "providers": [],
-    "equivalents": [],
+    "equivalents": [
+        {
+            "organization_id": null,
+            "equivalent_id": "5461dba75117ad184271b222",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "547337535117ad3b5d564f3f",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "547337575117ad3ba9cdf40d",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "547337595117ad3ba9cdf40f",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
+        }
+    ],
     "books": null
 }

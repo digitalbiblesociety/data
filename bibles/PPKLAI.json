@@ -32,6 +32,9 @@
             "scope": "bible",
             "pages": 235,
             "print_ready": 0,
+            "font_size": 10,
+            "font_bold": "NotoSans-Bold.ttf",
+            "font": "NotoSans-Regular.ttf",
             "print_banned": 0
         },
         {
@@ -42,6 +45,9 @@
             "scope": "bible",
             "pages": 452,
             "print_ready": 0,
+            "font_size": 11,
+            "font_bold": "CrimsonPro-Bold.ttf",
+            "font": "CrimsonPro-Regular.ttf",
             "print_banned": 0
         }
     ],
@@ -141,10 +147,10 @@
         {
             "organization_id": "dde7cec9-f63e-4370-b4b6-a841c44adda2",
             "equivalent_id": "Dari",
-            "site": null,
+            "site": "Crosswire",
             "suffix": null,
             "type": null,
-            "url": null
+            "url": "https://www.crosswire.org/sword/modules/ModInfo.jsp?modName=Dari"
         },
         {
             "organization_id": null,

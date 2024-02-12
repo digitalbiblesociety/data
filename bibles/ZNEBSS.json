@@ -32,12 +32,24 @@
             "scope": "bible",
             "pages": 224,
             "print_ready": 0,
+            "font_size": 10,
+            "font_bold": "NotoSans-Bold.ttf",
+            "font": "NotoSans-Regular.ttf",
             "print_banned": 0
         }
     ],
     "links": [],
     "publishers": [],
     "providers": [],
-    "equivalents": [],
+    "equivalents": [
+        {
+            "organization_id": null,
+            "equivalent_id": "54687b705117ad2a1f04454a",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
+        }
+    ],
     "books": null
 }

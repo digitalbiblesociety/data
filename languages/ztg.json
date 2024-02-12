@@ -22,7 +22,7 @@
     "status_id": "6a",
     "status_notes": null,
     "redirect_to_iso": null,
-    "bibles_count": 0,
+    "bibles_count": 1,
     "films_count": 0,
     "resources_count": 4,
     "translations_count": 2,
@@ -127,7 +127,27 @@
             "name": "Zapoteco de Santa Catarina Xanaguía"
         }
     ],
-    "bibles": [],
+    "bibles": [
+        {
+            "id": "544262235117ad369f0dc80a",
+            "abbr": "ZTGWBT",
+            "parent_bible_id": null,
+            "title": "The New Testament in Zapotec San Francisco Ozolotepec",
+            "title_vernacular": "Diidz guun̲ ukëë Marcos xan̲ uyun̲ Jesus",
+            "description": "\"Zapoteco de Santa Catarina Xanaguía.\" Translated by Mary L. Hopkins and Julie N. Olive (SIL).",
+            "description_short": null,
+            "description_vernacular": null,
+            "description_reviewed": 0,
+            "iso": "ztg",
+            "script": "Latn",
+            "year": 1996,
+            "country_id": "MX",
+            "copyright": null,
+            "copyright_type": null,
+            "reviewed": 0,
+            "questionable": 0
+        }
+    ],
     "resources": [
         {
             "iso": "ztg",

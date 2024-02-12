@@ -32,6 +32,9 @@
             "scope": "bible",
             "pages": 691,
             "print_ready": 0,
+            "font_size": 10,
+            "font_bold": "NotoSans-Bold.ttf",
+            "font": "NotoSans-Regular.ttf",
             "print_banned": 0
         },
         {
@@ -42,6 +45,9 @@
             "scope": "bible",
             "pages": 1322,
             "print_ready": 0,
+            "font_size": 9,
+            "font_bold": "CrimsonPro-Bold.ttf",
+            "font": "CrimsonPro-Regular.ttf",
             "print_banned": 0
         }
     ],
@@ -509,10 +515,10 @@
         {
             "organization_id": "dde7cec9-f63e-4370-b4b6-a841c44adda2",
             "equivalent_id": "RusSynodal",
-            "site": null,
+            "site": "Crosswire",
             "suffix": null,
             "type": null,
-            "url": null
+            "url": "https://www.crosswire.org/sword/modules/ModInfo.jsp?modName=RusSynodal"
         },
         {
             "organization_id": null,
@@ -545,6 +551,46 @@
             "suffix": null,
             "type": "api",
             "url": null
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "53ac24385117ad56de235423",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "5464abda5117ad6f74d23aff",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "5464abed5117ad6fc488d232",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "5464abe55117ad6f74d23b06",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "54228d455117ad1a4f4b5614",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
         }
     ],
     "books": null

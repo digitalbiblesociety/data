@@ -1,0 +1,112 @@
+{
+    "id": "KSCWBT",
+    "parent_bible_id": null,
+    "uuid": "d67958db-23dd-4c39-9b12-4efd9e25e1a2",
+    "iso": "ksc",
+    "language": {
+        "name": "Southern Kalinga"
+    },
+    "title": "Southern Kalinga New Testament",
+    "title_vernacular": "Na Ukud Apudyus",
+    "description": null,
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": "© Wycliffe Bible Translators, Inc.",
+    "copyright_type": null,
+    "date": null,
+    "country_id": "PH",
+    "country": {
+        "name": "Philippines"
+    },
+    "alphabet": {
+        "name": "Arabic",
+        "script": "Arab",
+        "fonts": []
+    },
+    "pod": [
+        {
+            "publisher_id": null,
+            "partner_id": null,
+            "description": "",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 287,
+            "print_ready": 0,
+            "font_size": 10,
+            "font_bold": "NotoSans-Bold.ttf",
+            "font": "NotoSans-Regular.ttf",
+            "print_banned": 0
+        }
+    ],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/1328-ksc-na-ukud-apudyus",
+            "title": "Na Ukud Apudyus",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Wycliffe Bible Translators, Inc.",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=0bf129a5f3cc025f",
+            "title": "Bible For Developers",
+            "scope": "NT",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://virtualstorehouse.org/collections/all-available-bibles/products/kalinga-southern-nt-ksc",
+            "title": "Virtual Storehouse",
+            "scope": "NT",
+            "type": "print",
+            "filesize": "0",
+            "provider": "Virtual Storehouse",
+            "publisher_id": "c742690a-2183-48be-872a-5b80585294a3",
+            "publisher": "Virtual Storehouse"
+        },
+        {
+            "url": "https://bible.com/versions/1328",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "0bf129a5f3cc025f",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=0bf129a5f3cc025f"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "1328",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/1328"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "54425d745117ad315ea4b5c5",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
+        }
+    ],
+    "books": null
+}

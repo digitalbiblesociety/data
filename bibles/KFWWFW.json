@@ -6,7 +6,7 @@
     "language": {
         "name": "Kharam Naga"
     },
-    "title": "New Testament in Kharam (Bible)",
+    "title": "New Testament in Kharam",
     "title_vernacular": "Bible Inzootna Kathar",
     "description": null,
     "description_short": null,
@@ -23,7 +23,21 @@
         "script": "Latn",
         "fonts": []
     },
-    "pod": [],
+    "pod": [
+        {
+            "publisher_id": null,
+            "partner_id": null,
+            "description": "",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 300,
+            "print_ready": 0,
+            "font_size": 10,
+            "font_bold": "NotoSans-Bold.ttf",
+            "font": "NotoSans-Regular.ttf",
+            "print_banned": 0
+        }
+    ],
     "links": [
         {
             "url": "https://www.bible.com/versions/2786-khmnt-bible-inzootna-kathar",

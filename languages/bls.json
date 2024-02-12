@@ -22,7 +22,7 @@
     "status_id": "7",
     "status_notes": null,
     "redirect_to_iso": null,
-    "bibles_count": 0,
+    "bibles_count": 1,
     "films_count": 0,
     "resources_count": 0,
     "translations_count": 3,
@@ -126,7 +126,27 @@
             "name": "Pajo"
         }
     ],
-    "bibles": [],
+    "bibles": [
+        {
+            "id": "e3002ccd-7af2-4eb8-9071-35d245ea88c7",
+            "abbr": "BLSTLF",
+            "parent_bible_id": null,
+            "title": "Bilaspuri New Testament",
+            "title_vernacular": "बिलासपुरी नौआं नियम",
+            "description": null,
+            "description_short": null,
+            "description_vernacular": null,
+            "description_reviewed": 0,
+            "iso": "bls",
+            "script": "Latn",
+            "year": 2021,
+            "country_id": "IN",
+            "copyright": "CC-BY-SA-4.0",
+            "copyright_type": "OPEN",
+            "reviewed": 0,
+            "questionable": 0
+        }
+    ],
     "resources": [],
     "films": []
 }

@@ -6,7 +6,7 @@
     "language": {
         "name": "Dawro"
     },
-    "title": "Dawro New Testament (Ethoipic script)",
+    "title": "Ethoipic Dawro New Testament ",
     "title_vernacular": "Ooratha Caaquwaa",
     "description": "New Testament in Dawro (ET:dwr:Dawro)",
     "description_short": null,
@@ -32,6 +32,9 @@
             "scope": "bible",
             "pages": 194,
             "print_ready": 0,
+            "font_size": 10,
+            "font_bold": "NotoSansEthiopic-Regular.ttf",
+            "font": "NotoSansEthiopic-Regular.ttf",
             "print_banned": 0
         },
         {
@@ -42,6 +45,9 @@
             "scope": "bible",
             "pages": 388,
             "print_ready": 0,
+            "font_size": 11,
+            "font_bold": "NotoSansEthiopic-Regular.ttf",
+            "font": "NotoSansEthiopic-Regular.ttf",
             "print_banned": 0
         }
     ],
@@ -257,6 +263,14 @@
             "suffix": null,
             "type": "api",
             "url": null
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "54229cbc5117ad1a4f4b562c",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
         }
     ],
     "books": null

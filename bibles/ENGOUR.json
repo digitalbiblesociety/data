@@ -6,7 +6,7 @@
     "language": {
         "name": "English"
     },
-    "title": "One Unity Resource Bible (2016)",
+    "title": "One Unity Resource Bible",
     "title_vernacular": "One Unity Resource Bible",
     "description": "The One Unity Resource Bible translation of the Holy Bible into American English with some transliterated Hebrew notations",
     "description_short": null,
@@ -32,6 +32,9 @@
             "scope": "bible",
             "pages": 423,
             "print_ready": 0,
+            "font_size": 10,
+            "font_bold": "NotoSans-Bold.ttf",
+            "font": "NotoSans-Regular.ttf",
             "print_banned": 0
         },
         {
@@ -42,6 +45,9 @@
             "scope": "bible",
             "pages": 812,
             "print_ready": 0,
+            "font_size": 9,
+            "font_bold": "CrimsonPro-Bold.ttf",
+            "font": "CrimsonPro-Regular.ttf",
             "print_banned": 0
         }
     ],

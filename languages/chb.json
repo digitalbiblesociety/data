@@ -22,7 +22,7 @@
     "status_id": null,
     "status_notes": null,
     "redirect_to_iso": null,
-    "bibles_count": 0,
+    "bibles_count": 1,
     "films_count": 0,
     "resources_count": 1,
     "translations_count": 62,
@@ -415,7 +415,27 @@
             "name": "Tiếng Chibcha"
         }
     ],
-    "bibles": [],
+    "bibles": [
+        {
+            "id": "f61e8837-78e9-45f8-9006-0e5e77b73a8f",
+            "abbr": "CHBTLF",
+            "parent_bible_id": null,
+            "title": "Chambeali Standard Version New Testament",
+            "title_vernacular": "चम्बयाली नौआ नियम",
+            "description": null,
+            "description_short": null,
+            "description_vernacular": null,
+            "description_reviewed": 0,
+            "iso": "chb",
+            "script": "Latn",
+            "year": 2022,
+            "country_id": "IN",
+            "copyright": "CC-BY-SA-4.0",
+            "copyright_type": "OPEN",
+            "reviewed": 0,
+            "questionable": 0
+        }
+    ],
     "resources": [
         {
             "iso": "chb",

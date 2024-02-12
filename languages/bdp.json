@@ -22,7 +22,7 @@
     "status_id": "6a",
     "status_notes": null,
     "redirect_to_iso": null,
-    "bibles_count": 0,
+    "bibles_count": 1,
     "films_count": 0,
     "resources_count": 0,
     "translations_count": 2,
@@ -163,7 +163,27 @@
             "name": "Si’bende"
         }
     ],
-    "bibles": [],
+    "bibles": [
+        {
+            "id": "64ef61db1f17fd0621f9b8a4",
+            "abbr": "BDPWBT",
+            "parent_bible_id": null,
+            "title": "The Bende Tongwe Gospel of Luke",
+            "title_vernacular": "Silula Sisogha syeke Jheesu Kiliisito kobhe bhosinyeghilwe na Luuka",
+            "description": null,
+            "description_short": null,
+            "description_vernacular": null,
+            "description_reviewed": 0,
+            "iso": "bdp",
+            "script": "Latn",
+            "year": 2021,
+            "country_id": "TZ",
+            "copyright": "",
+            "copyright_type": null,
+            "reviewed": 0,
+            "questionable": 0
+        }
+    ],
     "resources": [],
     "films": []
 }

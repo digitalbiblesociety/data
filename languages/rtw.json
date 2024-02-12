@@ -22,7 +22,7 @@
     "status_id": "5",
     "status_notes": null,
     "redirect_to_iso": null,
-    "bibles_count": 0,
+    "bibles_count": 1,
     "films_count": 1,
     "resources_count": 0,
     "translations_count": 3,
@@ -126,7 +126,27 @@
             "name": "Rathwi"
         }
     ],
-    "bibles": [],
+    "bibles": [
+        {
+            "id": "e0a752f4-8f73-42d7-86f1-d8261b5b4522",
+            "abbr": "RTWTLF",
+            "parent_bible_id": null,
+            "title": "Rathawi New Testament",
+            "title_vernacular": null,
+            "description": null,
+            "description_short": null,
+            "description_vernacular": null,
+            "description_reviewed": 0,
+            "iso": "rtw",
+            "script": "Deva",
+            "year": 2023,
+            "country_id": "IN",
+            "copyright": null,
+            "copyright_type": null,
+            "reviewed": 0,
+            "questionable": 0
+        }
+    ],
     "resources": [],
     "films": [
         {

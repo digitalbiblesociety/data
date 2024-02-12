@@ -32,6 +32,9 @@
             "scope": "bible",
             "pages": 754,
             "print_ready": 0,
+            "font_size": 10,
+            "font_bold": "NotoSansDevanagari-Regular.ttf",
+            "font": "NotoSansDevanagari-Regular.ttf",
             "print_banned": 0
         },
         {
@@ -42,6 +45,9 @@
             "scope": "bible",
             "pages": 1255,
             "print_ready": 0,
+            "font_size": 9,
+            "font_bold": "NotoSansDevanagari-Regular.ttf",
+            "font": "NotoSansDevanagari-Regular.ttf",
             "print_banned": 0
         }
     ],
@@ -839,6 +845,14 @@
             "suffix": null,
             "type": "api",
             "url": null
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "54425da95117ad3108fb052f",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
         }
     ],
     "books": null

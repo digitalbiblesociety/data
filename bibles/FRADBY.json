@@ -32,6 +32,9 @@
             "scope": "bible",
             "pages": 775,
             "print_ready": 0,
+            "font_size": 10,
+            "font_bold": "NotoSans-Bold.ttf",
+            "font": "NotoSans-Regular.ttf",
             "print_banned": 0
         },
         {
@@ -42,6 +45,9 @@
             "scope": "bible",
             "pages": 1509,
             "print_ready": 0,
+            "font_size": 9,
+            "font_bold": "CrimsonPro-Bold.ttf",
+            "font": "CrimsonPro-Regular.ttf",
             "print_banned": 0
         }
     ],
@@ -109,10 +115,10 @@
         {
             "organization_id": "dde7cec9-f63e-4370-b4b6-a841c44adda2",
             "equivalent_id": "FreJND",
-            "site": null,
+            "site": "Crosswire",
             "suffix": null,
             "type": null,
-            "url": null
+            "url": "https://www.crosswire.org/sword/modules/ModInfo.jsp?modName=FreJND"
         },
         {
             "organization_id": null,
@@ -137,6 +143,30 @@
             "suffix": null,
             "type": "api",
             "url": null
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "54741bd45117ad54fb3260fc",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "54741bff5117ad5a26cc86d0",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "54741c015117ad5a26cc86d2",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
         }
     ],
     "books": null

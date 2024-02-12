@@ -1,0 +1,112 @@
+{
+    "id": "MIMWBT",
+    "parent_bible_id": null,
+    "uuid": "e74f2c6b-39ab-40c2-b0dd-03c8dc9c181b",
+    "iso": "mim",
+    "language": {
+        "name": "Alacatlatzala Mixtec"
+    },
+    "title": "New Testament in Mixtec, Alacatlatzala",
+    "title_vernacular": "Alacatlatzala Mixtec New Testament",
+    "description": null,
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": "Wycliffe Bible Translators, Inc.",
+    "copyright_type": null,
+    "date": null,
+    "country_id": "MX",
+    "country": {
+        "name": "Mexico"
+    },
+    "alphabet": {
+        "name": "Latin",
+        "script": "Latn",
+        "fonts": []
+    },
+    "pod": [
+        {
+            "publisher_id": null,
+            "partner_id": null,
+            "description": "",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 9,
+            "print_ready": 0,
+            "font_size": 10,
+            "font_bold": "NotoSans-Bold.ttf",
+            "font": "NotoSans-Regular.ttf",
+            "print_banned": 0
+        }
+    ],
+    "links": [
+        {
+            "url": "https://scriptureearth.org/data/mim/PDF/00-WNTmim-web.pdf",
+            "title": "James",
+            "scope": "",
+            "type": "pdf",
+            "filesize": "0",
+            "provider": "Scripture Earth",
+            "publisher_id": "27b03c18-7a44-4b24-a2a5-3ef3ced8da88",
+            "publisher": "Scripture Earth"
+        },
+        {
+            "url": "https://www.bible.com/versions/2439-mim-alacatlatzala-mixtec-new-testament",
+            "title": "Alacatlatzala Mixtec New Testament",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Wycliffe Bible Translators, Inc.",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=41ce8b44e0f21bdc",
+            "title": "Bible For Developers",
+            "scope": "NTP",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://bible.com/versions/2439",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "41ce8b44e0f21bdc",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=41ce8b44e0f21bdc"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "2439",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/2439"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "MIMWYIN",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        }
+    ],
+    "books": null
+}

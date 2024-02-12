@@ -22,7 +22,7 @@
     "status_id": "6a",
     "status_notes": null,
     "redirect_to_iso": null,
-    "bibles_count": 0,
+    "bibles_count": 1,
     "films_count": 0,
     "resources_count": 6,
     "translations_count": 5,
@@ -151,7 +151,27 @@
             "name": "Potwari"
         }
     ],
-    "bibles": [],
+    "bibles": [
+        {
+            "id": "2bd3bb76-ef67-490f-a97e-a357ab47f2ab",
+            "abbr": "PHRNEK",
+            "parent_bible_id": null,
+            "title": "Mirpuri-Pahari Bible",
+            "title_vernacular": "مِیرپُوری پہاڑی وِچ نبیاں نیاں کہاݨیاں",
+            "description": null,
+            "description_short": null,
+            "description_vernacular": "اللّٰہ تعالیٰ اپݨا فضل تے امن پاک نبیاں نے ذریعے اِنسانیت اپر ظاہر کیتا۔ اساں نا دِلی مقصد اے کہ اِس پیغام کی پھیلایا جائے۔ ساں چاݨے آں کہ تُساں اللّٰہ تعالیٰ نے پیغام کی سُݨی کے برکت حاصل کرو۔ اِس پیغام کی اپݨے دوستاں نال شیئِر کرو۔",
+            "description_reviewed": 0,
+            "iso": "phr",
+            "script": "Arab",
+            "year": 2023,
+            "country_id": "PK",
+            "copyright": "2021 Noor-e-Kashmir",
+            "copyright_type": null,
+            "reviewed": 0,
+            "questionable": 0
+        }
+    ],
     "resources": [
         {
             "iso": "phr",

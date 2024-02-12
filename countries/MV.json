@@ -64,6 +64,34 @@
             "films_count": 1
         },
         {
+            "iso": "eng",
+            "glotto_id": "stan1293",
+            "glotto_family": null,
+            "iso1": "en",
+            "name": "English",
+            "autonym": null,
+            "macroarea": null,
+            "level": "L",
+            "development": null,
+            "location": null,
+            "area": null,
+            "progress": "Full Bible\r",
+            "typology": null,
+            "writing": null,
+            "description": null,
+            "country_id": "GB",
+            "use": null,
+            "latitude": "53.000000",
+            "longitude": "-1.000000",
+            "population": 200,
+            "status_id": null,
+            "status_notes": null,
+            "redirect_to_iso": null,
+            "bibles_count": 242,
+            "resources_count": 320,
+            "films_count": 29
+        },
+        {
             "iso": "guj",
             "glotto_id": "guja1252",
             "glotto_family": null,
@@ -174,34 +202,6 @@
             "bibles_count": 10,
             "resources_count": 280,
             "films_count": 10
-        },
-        {
-            "iso": "eng",
-            "glotto_id": "stan1293",
-            "glotto_family": null,
-            "iso1": "en",
-            "name": "English",
-            "autonym": null,
-            "macroarea": null,
-            "level": "L",
-            "development": null,
-            "location": null,
-            "area": null,
-            "progress": "Full Bible\r",
-            "typology": null,
-            "writing": null,
-            "description": null,
-            "country_id": "GB",
-            "use": null,
-            "latitude": "53.000000",
-            "longitude": "-1.000000",
-            "population": 200,
-            "status_id": null,
-            "status_notes": null,
-            "redirect_to_iso": null,
-            "bibles_count": 244,
-            "resources_count": 320,
-            "films_count": 29
         }
     ],
     "maps": [
@@ -247,11 +247,11 @@
         }
     ],
     "persecution": {
-        "rank": 16,
+        "rank": 15,
         "score": 77,
-        "year": 2022,
+        "year": 2023,
         "country_id": "MV",
         "persecution_type": "Islamic oppression",
-        "url": "https://www.opendoorsusa.org/christian-persecution/world-watch-list/maldives/\r"
+        "url": null
     }
 }

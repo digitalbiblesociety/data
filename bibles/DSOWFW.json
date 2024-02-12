@@ -6,7 +6,7 @@
     "language": {
         "name": "Desiya"
     },
-    "title": "New Testament in Desiya (Bible)",
+    "title": "Desiya New Testament",
     "title_vernacular": "ସତିଅର୍‌ ବାଟ୍‌, ନୁଆ ନିୟମ୍‌, 2020",
     "description": null,
     "description_short": null,
@@ -23,7 +23,21 @@
         "script": "Orya",
         "fonts": []
     },
-    "pod": [],
+    "pod": [
+        {
+            "publisher_id": null,
+            "partner_id": null,
+            "description": "",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 414,
+            "print_ready": 0,
+            "font_size": 10,
+            "font_bold": "NotoSans-Bold.ttf",
+            "font": "NotoSans-Regular.ttf",
+            "print_banned": 0
+        }
+    ],
     "links": [
         {
             "url": "https://www.bible.com/versions/2780-ntsaa20-2020",

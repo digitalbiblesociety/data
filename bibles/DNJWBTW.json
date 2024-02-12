@@ -11,7 +11,7 @@
     "description": "© 1991, Wycliffe Bible Translators, Inc. All rights reserved.(Print version published in cooperation with l’Association Ivoirienne pour la Traduction de la Bible)",
     "description_short": null,
     "description_vernacular": null,
-    "copyright": "© Wycliffe Bible Translators, Inc",
+    "copyright": "© 1991 Wycliffe Bible Translators, Inc.",
     "copyright_type": null,
     "date": null,
     "country_id": "CI",
@@ -23,7 +23,21 @@
         "script": "Latn",
         "fonts": []
     },
-    "pod": [],
+    "pod": [
+        {
+            "publisher_id": null,
+            "partner_id": null,
+            "description": "",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 298,
+            "print_ready": 0,
+            "font_size": 10,
+            "font_bold": "NotoSans-Bold.ttf",
+            "font": "NotoSans-Regular.ttf",
+            "print_banned": 0
+        }
+    ],
     "links": [
         {
             "url": "http://live.bible.is/bible/DNJWST/MRK/1",

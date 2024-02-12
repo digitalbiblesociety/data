@@ -6,12 +6,12 @@
     "language": {
         "name": "Mongolian"
     },
-    "title": "Mongolian Easy-to-read Version",
-    "title_vernacular": null,
+    "title": "Mongolian New Translation",
+    "title_vernacular": "Shine Orchuulga",
     "description": "The New Testament in the Mongolian language.",
     "description_short": null,
     "description_vernacular": null,
-    "copyright": "© 2020, Akihide Kitamura",
+    "copyright": "© 2020, Thrusteppes and the Mongolian Bible Translators' Team",
     "copyright_type": null,
     "date": null,
     "country_id": "MN",
@@ -30,8 +30,11 @@
             "description": "",
             "trim": "us_letter",
             "scope": "bible",
-            "pages": 281,
+            "pages": 250,
             "print_ready": 0,
+            "font_size": 10,
+            "font_bold": "NotoSans-Bold.ttf",
+            "font": "NotoSans-Regular.ttf",
             "print_banned": 0
         },
         {
@@ -42,6 +45,9 @@
             "scope": "bible",
             "pages": 458,
             "print_ready": 0,
+            "font_size": 11,
+            "font_bold": "NotoSans-Bold.ttf",
+            "font": "NotoSans-Regular.ttf",
             "print_banned": 0
         }
     ],

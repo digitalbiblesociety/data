@@ -30,8 +30,11 @@
             "description": "This Bible is translated and copyrighted by SIM (sim.org). This edition is provided with permission at the cost of printing by the Digital Bible Society (dbs.org). This translation is made available to you under the terms of the Creative Commons Attribution-Noncommercial-No Derivatives license 4.0. <br /><br />This Bible, and many others, are available for free download in a variety of digital formats at dbs.org/bibles.",
             "trim": "us_letter",
             "scope": "bible",
-            "pages": 414,
+            "pages": 403,
             "print_ready": 0,
+            "font_size": 10,
+            "font_bold": "NotoSans-Bold.ttf",
+            "font": "NotoSans-Regular.ttf",
             "print_banned": 0
         },
         {
@@ -40,8 +43,11 @@
             "description": "This Bible is translated and copyrighted by SIM (sim.org). This edition is provided with permission at the cost of printing by the Digital Bible Society (dbs.org). This translation is made available to you under the terms of the Creative Commons Attribution-Noncommercial-No Derivatives license 4.0. <br /><br />This Bible, and many others, are available for free download in a variety of digital formats at dbs.org/bibles.",
             "trim": "us_trade",
             "scope": "bible",
-            "pages": 726,
+            "pages": 689,
             "print_ready": 0,
+            "font_size": 10,
+            "font_bold": "CrimsonPro-Bold.ttf",
+            "font": "CrimsonPro-Regular.ttf",
             "print_banned": 0
         }
     ],
@@ -155,6 +161,14 @@
             "suffix": null,
             "type": "api",
             "url": null
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "53eb28e35117ad17968be86f",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
         }
     ],
     "books": null

@@ -1,0 +1,132 @@
+{
+    "id": "MURWBT",
+    "parent_bible_id": null,
+    "uuid": "59b20399-b922-4a7d-88fe-1e2379091798",
+    "iso": "mur",
+    "language": {
+        "name": "Murle"
+    },
+    "title": "Murle 1996 Edition",
+    "title_vernacular": "ZƆƆZ O JOOWO",
+    "description": null,
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": "© Wycliffe Bible Translators, Inc",
+    "copyright_type": null,
+    "date": null,
+    "country_id": "SS",
+    "country": {
+        "name": "South Sudan"
+    },
+    "alphabet": {
+        "name": "Latin",
+        "script": "Latn",
+        "fonts": []
+    },
+    "pod": [
+        {
+            "publisher_id": null,
+            "partner_id": null,
+            "description": "",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 296,
+            "print_ready": 0,
+            "font_size": 10,
+            "font_bold": "NotoSans-Bold.ttf",
+            "font": "NotoSans-Regular.ttf",
+            "print_banned": 0
+        }
+    ],
+    "links": [
+        {
+            "url": "https://apk.fcbh.org/Murle_BLI",
+            "title": "Global Bible App",
+            "scope": "",
+            "type": "app",
+            "filesize": "0",
+            "provider": "Faith Comes By Hearing",
+            "publisher_id": "2c3d2807-1559-4187-a15e-c8bb07ba3c7a",
+            "publisher": "Faith Comes By Hearing"
+        },
+        {
+            "url": "https://www.bible.com/versions/2383-mur-zz-o-joowo",
+            "title": "ZƆƆZ O JOOWO",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Wycliffe Bible Translators, Inc.",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=4d521e7349b06e8b",
+            "title": "Bible For Developers",
+            "scope": "NTP",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://www.bible.com/sr/audio-bible-app-versions/2383",
+            "title": "Murle - 1996 Edition (NT)",
+            "scope": "",
+            "type": "audio",
+            "filesize": "0",
+            "provider": "Youversion",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=59a00e00a05511e7",
+            "title": "Murle - 1996 Edition (NT) Drama",
+            "scope": "NT",
+            "type": "archiveaudio",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "2c3d2807-1559-4187-a15e-c8bb07ba3c7a",
+            "publisher": "Faith Comes By Hearing"
+        },
+        {
+            "url": "https://bible.com/versions/2383",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "4d521e7349b06e8b",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=4d521e7349b06e8b"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "2383",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/2383"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "MURTBLN",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        }
+    ],
+    "books": null
+}

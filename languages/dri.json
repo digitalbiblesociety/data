@@ -22,7 +22,7 @@
     "status_id": "6a",
     "status_notes": null,
     "redirect_to_iso": null,
-    "bibles_count": 0,
+    "bibles_count": 1,
     "films_count": 1,
     "resources_count": 1,
     "translations_count": 9,
@@ -167,7 +167,27 @@
             "name": "Lela"
         }
     ],
-    "bibles": [],
+    "bibles": [
+        {
+            "id": "abf31a59-2155-4f55-a4c4-4b90cba33868",
+            "abbr": "DRIWBT",
+            "parent_bible_id": null,
+            "title": "C'Lela New Testament",
+            "title_vernacular": "Lalks Na'Sila̱ Lalk Gigk Poune C'Lela",
+            "description": null,
+            "description_short": null,
+            "description_vernacular": null,
+            "description_reviewed": 0,
+            "iso": "dri",
+            "script": "Latn",
+            "year": 2019,
+            "country_id": "NG",
+            "copyright": "© 2019 Wycliffe Bible Translators, Inc. and The Nigeria Bible Translation Trust",
+            "copyright_type": null,
+            "reviewed": 0,
+            "questionable": 0
+        }
+    ],
     "resources": [
         {
             "iso": "dri",

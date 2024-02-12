@@ -22,7 +22,7 @@
     "status_id": "6a",
     "status_notes": null,
     "redirect_to_iso": null,
-    "bibles_count": 0,
+    "bibles_count": 1,
     "films_count": 0,
     "resources_count": 0,
     "translations_count": 5,
@@ -112,7 +112,27 @@
             "name": "Northern Ari"
         }
     ],
-    "bibles": [],
+    "bibles": [
+        {
+            "id": "c9a75d42-4d27-4282-9852-aa6e2d8be3fe",
+            "abbr": "GYLWFW",
+            "parent_bible_id": null,
+            "title": "Gayil New Testament Audio Bible",
+            "title_vernacular": null,
+            "description": null,
+            "description_short": null,
+            "description_vernacular": null,
+            "description_reviewed": 0,
+            "iso": "gyl",
+            "script": "Latn",
+            "year": 2023,
+            "country_id": "ET",
+            "copyright": null,
+            "copyright_type": null,
+            "reviewed": 0,
+            "questionable": 0
+        }
+    ],
     "resources": [],
     "films": []
 }

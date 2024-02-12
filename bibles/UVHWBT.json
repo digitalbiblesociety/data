@@ -1,0 +1,102 @@
+{
+    "id": "UVHWBT",
+    "parent_bible_id": "",
+    "uuid": "387f367b-21e8-45d1-9d20-c0bc892b6851",
+    "iso": "uvh",
+    "language": {
+        "name": "Uri"
+    },
+    "title": "Uri New Testament",
+    "title_vernacular": "Anutuning midi totangka ingaʼni",
+    "description": null,
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": "© 2016, Wycliffe Bible Translators, Inc.",
+    "copyright_type": "",
+    "date": null,
+    "country_id": "PG",
+    "country": {
+        "name": "Papua New Guinea"
+    },
+    "alphabet": {
+        "name": "Latin",
+        "script": "Latn",
+        "fonts": []
+    },
+    "pod": [
+        {
+            "publisher_id": null,
+            "partner_id": null,
+            "description": "",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 458,
+            "print_ready": 0,
+            "font_size": 10,
+            "font_bold": "NotoSans-Bold.ttf",
+            "font": "NotoSans-Regular.ttf",
+            "print_banned": 0
+        }
+    ],
+    "links": [
+        {
+            "url": "https://www.bible.com/versions/1650-uvh-anutuning-midi-totangka-ingani",
+            "title": "Anutuning midi totangka ingaʼni",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Wycliffe Bible Translators, Inc.",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=df7e97ad10444eb0",
+            "title": "Bible For Developers",
+            "scope": "NT",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://bible.com/versions/1650",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "df7e97ad10444eb0",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=df7e97ad10444eb0"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "1650",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/1650"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "53e7a0a95117ad38da140ccf",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
+        }
+    ],
+    "books": null
+}

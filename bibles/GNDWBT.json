@@ -1,0 +1,112 @@
+{
+    "id": "GNDWBT",
+    "parent_bible_id": null,
+    "uuid": "cede64f2-ef56-4690-a76c-724db0db7a9b",
+    "iso": "gnd",
+    "language": {
+        "name": "Zulgo-Gemzek"
+    },
+    "title": "Zulgo-Gemzek 1988 Edition",
+    "title_vernacular": null,
+    "description": null,
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": null,
+    "copyright_type": null,
+    "date": null,
+    "country_id": "CM",
+    "country": {
+        "name": "Cameroon"
+    },
+    "alphabet": {
+        "name": "Latin",
+        "script": "Latn",
+        "fonts": []
+    },
+    "pod": [
+        {
+            "publisher_id": null,
+            "partner_id": null,
+            "description": "",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 361,
+            "print_ready": 0,
+            "font_size": 10,
+            "font_bold": "NotoSans-Bold.ttf",
+            "font": "NotoSans-Regular.ttf",
+            "print_banned": 0
+        }
+    ],
+    "links": [
+        {
+            "url": "http://live.bible.is/bible/GNDWYI/MRK/1",
+            "title": "Audio Bible",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Faith Comes By Hearing",
+            "publisher_id": "2c3d2807-1559-4187-a15e-c8bb07ba3c7a",
+            "publisher": "Faith Comes By Hearing"
+        },
+        {
+            "url": "https://live.bible.is/bible/GNDWYI",
+            "title": "NT",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Faith Comes By Hearing",
+            "publisher_id": "2c3d2807-1559-4187-a15e-c8bb07ba3c7a",
+            "publisher": "Faith Comes By Hearing"
+        },
+        {
+            "url": "https://live.bible.is/bible/GNDWYI",
+            "title": "NT",
+            "scope": "",
+            "type": "audio_web",
+            "filesize": "0",
+            "provider": "Faith Comes By Hearing",
+            "publisher_id": "2c3d2807-1559-4187-a15e-c8bb07ba3c7a",
+            "publisher": "Faith Comes By Hearing"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=07c01638a01511e7",
+            "title": "Zulgo - 1988 Edition (Drama-NT)",
+            "scope": "NT",
+            "type": "archiveaudio",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "2c3d2807-1559-4187-a15e-c8bb07ba3c7a",
+            "publisher": "Faith Comes By Hearing"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": null,
+            "equivalent_id": "f6b631eba4a066b5",
+            "site": null,
+            "suffix": null,
+            "type": "DBL",
+            "url": null
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "GNDWYIN",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "544262875117ad3c2ad5c8c6",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
+        }
+    ],
+    "books": null
+}

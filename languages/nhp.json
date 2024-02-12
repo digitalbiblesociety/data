@@ -22,7 +22,7 @@
     "status_id": "6b",
     "status_notes": null,
     "redirect_to_iso": null,
-    "bibles_count": 0,
+    "bibles_count": 1,
     "films_count": 0,
     "resources_count": 3,
     "translations_count": 1,
@@ -116,7 +116,27 @@
             "name": "Náhuat de Pajapan"
         }
     ],
-    "bibles": [],
+    "bibles": [
+        {
+            "id": "544252d95117ad156a0eecd1",
+            "abbr": "NHPWBT",
+            "parent_bible_id": null,
+            "title": "Isthmus-Pajapan Nahuatl",
+            "title_vernacular": "Los evangelios",
+            "description": "The first scripture in Náhuatl, Pajapan. Translated by Christopher L. Hurst and Elaine Hurst (WBT).",
+            "description_short": null,
+            "description_vernacular": "El Evangelio según San Marcos : en el náhuatl de Pajapan, Ver. y en español.",
+            "description_reviewed": 0,
+            "iso": "nhp",
+            "script": "Latn",
+            "year": 1990,
+            "country_id": "MX",
+            "copyright": "Published by WBT, Audio by Audio Scripture Ministries",
+            "copyright_type": null,
+            "reviewed": 0,
+            "questionable": 0
+        }
+    ],
     "resources": [
         {
             "iso": "nhp",

@@ -6,7 +6,7 @@
     "language": {
         "name": "Palya Bareli"
     },
-    "title": "New Testament in Paliya (Bible)",
+    "title": "Paliya New Testament",
     "title_vernacular": "भगवान ना खरला बोल, नवलो नेम",
     "description": null,
     "description_short": null,
@@ -23,7 +23,21 @@
         "script": "Deva",
         "fonts": []
     },
-    "pod": [],
+    "pod": [
+        {
+            "publisher_id": null,
+            "partner_id": null,
+            "description": "",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 30,
+            "print_ready": 0,
+            "font_size": 10,
+            "font_bold": "NotoSans-Bold.ttf",
+            "font": "NotoSans-Regular.ttf",
+            "print_banned": 0
+        }
+    ],
     "links": [
         {
             "url": "https://www.bible.com/versions/2779-ntppt2020-",

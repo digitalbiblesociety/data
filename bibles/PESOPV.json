@@ -32,6 +32,9 @@
             "scope": "bible",
             "pages": 568,
             "print_ready": 0,
+            "font_size": 10,
+            "font_bold": "NotoNaskhArabic-Regular.ttf",
+            "font": "NotoNaskhArabic-Regular.ttf",
             "print_banned": 0
         },
         {
@@ -42,6 +45,9 @@
             "scope": "bible",
             "pages": 1069,
             "print_ready": 0,
+            "font_size": 9,
+            "font_bold": "NotoNaskhArabic-Regular.ttf",
+            "font": "NotoNaskhArabic-Regular.ttf",
             "print_banned": 0
         }
     ],
@@ -219,10 +225,42 @@
         {
             "organization_id": "dde7cec9-f63e-4370-b4b6-a841c44adda2",
             "equivalent_id": "FarOPV",
-            "site": null,
+            "site": "Crosswire",
             "suffix": null,
             "type": null,
-            "url": null
+            "url": "https://www.crosswire.org/sword/modules/ModInfo.jsp?modName=FarOPV"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "54632fe65117ad1caa9c6678",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "54632fe95117ad1caa9c667a",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "54632ff35117ad1c6e2a2198",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "54632fe85117ad1cdc08ebe6",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
         }
     ],
     "books": null

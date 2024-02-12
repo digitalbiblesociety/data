@@ -22,7 +22,7 @@
     "status_id": "4",
     "status_notes": null,
     "redirect_to_iso": null,
-    "bibles_count": 0,
+    "bibles_count": 1,
     "films_count": 1,
     "resources_count": 12,
     "translations_count": 7,
@@ -153,7 +153,27 @@
             "name": "Rere"
         }
     ],
-    "bibles": [],
+    "bibles": [
+        {
+            "id": "aef1e806-825e-452c-9ddb-c1d08e7ba40d",
+            "abbr": "KIBBSS",
+            "parent_bible_id": null,
+            "title": "Koalib New Testament",
+            "title_vernacular": "Waa̳d̲ Wiyan̳.",
+            "description": null,
+            "description_short": null,
+            "description_vernacular": null,
+            "description_reviewed": 0,
+            "iso": "kib",
+            "script": "Latn",
+            "year": 1994,
+            "country_id": "SD",
+            "copyright": null,
+            "copyright_type": null,
+            "reviewed": 0,
+            "questionable": 0
+        }
+    ],
     "resources": [
         {
             "iso": "kib",

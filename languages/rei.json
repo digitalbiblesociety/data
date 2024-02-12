@@ -22,7 +22,7 @@
     "status_id": "6a",
     "status_notes": null,
     "redirect_to_iso": null,
-    "bibles_count": 0,
+    "bibles_count": 1,
     "films_count": 0,
     "resources_count": 1,
     "translations_count": 1,
@@ -116,7 +116,27 @@
             "name": "Relli"
         }
     ],
-    "bibles": [],
+    "bibles": [
+        {
+            "id": "44c44107-6de9-4bc3-b1c7-cf055abf67d8",
+            "abbr": "REIWFW",
+            "parent_bible_id": null,
+            "title": "The New Testament in Relli",
+            "title_vernacular": "సొత్తొ పురువురొ పవిత్రొ కొత",
+            "description": null,
+            "description_short": null,
+            "description_vernacular": null,
+            "description_reviewed": 0,
+            "iso": "rei",
+            "script": "Telu",
+            "year": 2023,
+            "country_id": "IN",
+            "copyright": "© 2023 The Word for the World and Relli Translation Samiti",
+            "copyright_type": null,
+            "reviewed": 0,
+            "questionable": 0
+        }
+    ],
     "resources": [
         {
             "iso": "rei",

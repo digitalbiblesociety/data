@@ -6,7 +6,7 @@
     "language": {
         "name": "Berik"
     },
-    "title": "Berik 1993 New Testament (Bible)",
+    "title": "Berik 1993 New Testament",
     "title_vernacular": "Taterisi Uwa Sanbagirmana Ibirmiserem",
     "description": "If you are interested this text please contact Indonesian Bible Society",
     "description_short": null,
@@ -32,6 +32,9 @@
             "scope": "bible",
             "pages": 404,
             "print_ready": 0,
+            "font_size": 10,
+            "font_bold": "NotoSans-Bold.ttf",
+            "font": "NotoSans-Regular.ttf",
             "print_banned": 0
         }
     ],
@@ -131,6 +134,30 @@
             "suffix": null,
             "type": "api",
             "url": null
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "54717a505117ad2697c266fe",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "54717a4f5117ad26cdc5513d",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "54717a515117ad269643c4a5",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
         }
     ],
     "books": null

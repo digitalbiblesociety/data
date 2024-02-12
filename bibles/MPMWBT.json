@@ -1,0 +1,508 @@
+{
+    "id": "MPMWBT",
+    "parent_bible_id": null,
+    "uuid": "f47f62eb-f11e-46d3-ba09-e4fbd9d58173",
+    "iso": "mpm",
+    "language": {
+        "name": "Yosondúa Mixtec"
+    },
+    "title": "Yosondúa Mixtec New Testament",
+    "title_vernacular": "Nuevo Testamento en mixteco de Yosondúa",
+    "description": null,
+    "description_short": null,
+    "description_vernacular": null,
+    "copyright": "© 1988, Wycliffe Bible Translators, Inc.",
+    "copyright_type": null,
+    "date": null,
+    "country_id": "MX",
+    "country": {
+        "name": "Mexico"
+    },
+    "alphabet": {
+        "name": "Latin",
+        "script": "Latn",
+        "fonts": []
+    },
+    "pod": [
+        {
+            "publisher_id": null,
+            "partner_id": null,
+            "description": "",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 327,
+            "print_ready": 0,
+            "font_size": 10,
+            "font_bold": "NotoSans-Bold.ttf",
+            "font": "NotoSans-Regular.ttf",
+            "print_banned": 0
+        }
+    ],
+    "links": [
+        {
+            "url": "http://bibles.org/versions/mpm-MPMNT",
+            "title": "BibleSearch",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "American Bible Society",
+            "publisher_id": "0c51d6dd-1184-4288-8ead-6b34349693a4",
+            "publisher": "American Bible Society"
+        },
+        {
+            "url": "http://www.scriptureearth.org/data/mpm/PDF/mpm-00-WNT-web.pdf",
+            "title": "WNT",
+            "scope": "",
+            "type": "pdf",
+            "filesize": "0",
+            "provider": "Scripture Earth",
+            "publisher_id": "27b03c18-7a44-4b24-a2a5-3ef3ced8da88",
+            "publisher": "Scripture Earth"
+        },
+        {
+            "url": "http://www.scriptureearth.org/data/mpm/PDF/mpm-41-MAT-web.pdf",
+            "title": "Matthew",
+            "scope": "",
+            "type": "pdf",
+            "filesize": "0",
+            "provider": "Scripture Earth",
+            "publisher_id": "27b03c18-7a44-4b24-a2a5-3ef3ced8da88",
+            "publisher": "Scripture Earth"
+        },
+        {
+            "url": "http://www.scriptureearth.org/data/mpm/PDF/mpm-42-MRK-web.pdf",
+            "title": "Mark",
+            "scope": "",
+            "type": "pdf",
+            "filesize": "0",
+            "provider": "Scripture Earth",
+            "publisher_id": "27b03c18-7a44-4b24-a2a5-3ef3ced8da88",
+            "publisher": "Scripture Earth"
+        },
+        {
+            "url": "http://www.scriptureearth.org/data/mpm/PDF/mpm-43-LUK-web.pdf",
+            "title": "Luke",
+            "scope": "",
+            "type": "pdf",
+            "filesize": "0",
+            "provider": "Scripture Earth",
+            "publisher_id": "27b03c18-7a44-4b24-a2a5-3ef3ced8da88",
+            "publisher": "Scripture Earth"
+        },
+        {
+            "url": "http://www.scriptureearth.org/data/mpm/PDF/mpm-44-JHN-web.pdf",
+            "title": "John",
+            "scope": "",
+            "type": "pdf",
+            "filesize": "0",
+            "provider": "Scripture Earth",
+            "publisher_id": "27b03c18-7a44-4b24-a2a5-3ef3ced8da88",
+            "publisher": "Scripture Earth"
+        },
+        {
+            "url": "http://www.scriptureearth.org/data/mpm/PDF/mpm-45-ACT-web.pdf",
+            "title": "Acts",
+            "scope": "",
+            "type": "pdf",
+            "filesize": "0",
+            "provider": "Scripture Earth",
+            "publisher_id": "27b03c18-7a44-4b24-a2a5-3ef3ced8da88",
+            "publisher": "Scripture Earth"
+        },
+        {
+            "url": "http://www.scriptureearth.org/data/mpm/PDF/mpm-46-ROM-web.pdf",
+            "title": "Romans",
+            "scope": "",
+            "type": "pdf",
+            "filesize": "0",
+            "provider": "Scripture Earth",
+            "publisher_id": "27b03c18-7a44-4b24-a2a5-3ef3ced8da88",
+            "publisher": "Scripture Earth"
+        },
+        {
+            "url": "http://www.scriptureearth.org/data/mpm/PDF/mpm-47-1CO-web.pdf",
+            "title": "1 Corinthians",
+            "scope": "",
+            "type": "pdf",
+            "filesize": "0",
+            "provider": "Scripture Earth",
+            "publisher_id": "27b03c18-7a44-4b24-a2a5-3ef3ced8da88",
+            "publisher": "Scripture Earth"
+        },
+        {
+            "url": "http://www.scriptureearth.org/data/mpm/PDF/mpm-48-2CO-web.pdf",
+            "title": "2 Corinthians",
+            "scope": "",
+            "type": "pdf",
+            "filesize": "0",
+            "provider": "Scripture Earth",
+            "publisher_id": "27b03c18-7a44-4b24-a2a5-3ef3ced8da88",
+            "publisher": "Scripture Earth"
+        },
+        {
+            "url": "http://www.scriptureearth.org/data/mpm/PDF/mpm-49-GAL-web.pdf",
+            "title": "Galatians",
+            "scope": "",
+            "type": "pdf",
+            "filesize": "0",
+            "provider": "Scripture Earth",
+            "publisher_id": "27b03c18-7a44-4b24-a2a5-3ef3ced8da88",
+            "publisher": "Scripture Earth"
+        },
+        {
+            "url": "http://www.scriptureearth.org/data/mpm/PDF/mpm-50-EPH-web.pdf",
+            "title": "Ephesians",
+            "scope": "",
+            "type": "pdf",
+            "filesize": "0",
+            "provider": "Scripture Earth",
+            "publisher_id": "27b03c18-7a44-4b24-a2a5-3ef3ced8da88",
+            "publisher": "Scripture Earth"
+        },
+        {
+            "url": "http://www.scriptureearth.org/data/mpm/PDF/mpm-51-PHP-web.pdf",
+            "title": "Philippians",
+            "scope": "",
+            "type": "pdf",
+            "filesize": "0",
+            "provider": "Scripture Earth",
+            "publisher_id": "27b03c18-7a44-4b24-a2a5-3ef3ced8da88",
+            "publisher": "Scripture Earth"
+        },
+        {
+            "url": "http://www.scriptureearth.org/data/mpm/PDF/mpm-52-COL-web.pdf",
+            "title": "Colossians",
+            "scope": "",
+            "type": "pdf",
+            "filesize": "0",
+            "provider": "Scripture Earth",
+            "publisher_id": "27b03c18-7a44-4b24-a2a5-3ef3ced8da88",
+            "publisher": "Scripture Earth"
+        },
+        {
+            "url": "http://www.scriptureearth.org/data/mpm/PDF/mpm-53-1TH-web.pdf",
+            "title": "1 Thessalonians",
+            "scope": "",
+            "type": "pdf",
+            "filesize": "0",
+            "provider": "Scripture Earth",
+            "publisher_id": "27b03c18-7a44-4b24-a2a5-3ef3ced8da88",
+            "publisher": "Scripture Earth"
+        },
+        {
+            "url": "http://www.scriptureearth.org/data/mpm/PDF/mpm-54-2TH-web.pdf",
+            "title": "2 Thessalonians",
+            "scope": "",
+            "type": "pdf",
+            "filesize": "0",
+            "provider": "Scripture Earth",
+            "publisher_id": "27b03c18-7a44-4b24-a2a5-3ef3ced8da88",
+            "publisher": "Scripture Earth"
+        },
+        {
+            "url": "http://www.scriptureearth.org/data/mpm/PDF/mpm-55-1TI-web.pdf",
+            "title": "1 Timothy",
+            "scope": "",
+            "type": "pdf",
+            "filesize": "0",
+            "provider": "Scripture Earth",
+            "publisher_id": "27b03c18-7a44-4b24-a2a5-3ef3ced8da88",
+            "publisher": "Scripture Earth"
+        },
+        {
+            "url": "http://www.scriptureearth.org/data/mpm/PDF/mpm-56-2TI-web.pdf",
+            "title": "2 Timothy",
+            "scope": "",
+            "type": "pdf",
+            "filesize": "0",
+            "provider": "Scripture Earth",
+            "publisher_id": "27b03c18-7a44-4b24-a2a5-3ef3ced8da88",
+            "publisher": "Scripture Earth"
+        },
+        {
+            "url": "http://www.scriptureearth.org/data/mpm/PDF/mpm-57-TIT-web.pdf",
+            "title": "Titus",
+            "scope": "",
+            "type": "pdf",
+            "filesize": "0",
+            "provider": "Scripture Earth",
+            "publisher_id": "27b03c18-7a44-4b24-a2a5-3ef3ced8da88",
+            "publisher": "Scripture Earth"
+        },
+        {
+            "url": "http://www.scriptureearth.org/data/mpm/PDF/mpm-58-PHM-web.pdf",
+            "title": "Philemon",
+            "scope": "",
+            "type": "pdf",
+            "filesize": "0",
+            "provider": "Scripture Earth",
+            "publisher_id": "27b03c18-7a44-4b24-a2a5-3ef3ced8da88",
+            "publisher": "Scripture Earth"
+        },
+        {
+            "url": "http://www.scriptureearth.org/data/mpm/PDF/mpm-59-HEB-web.pdf",
+            "title": "Hebrews",
+            "scope": "",
+            "type": "pdf",
+            "filesize": "0",
+            "provider": "Scripture Earth",
+            "publisher_id": "27b03c18-7a44-4b24-a2a5-3ef3ced8da88",
+            "publisher": "Scripture Earth"
+        },
+        {
+            "url": "http://www.scriptureearth.org/data/mpm/PDF/mpm-60-JAS-web.pdf",
+            "title": "James",
+            "scope": "",
+            "type": "pdf",
+            "filesize": "0",
+            "provider": "Scripture Earth",
+            "publisher_id": "27b03c18-7a44-4b24-a2a5-3ef3ced8da88",
+            "publisher": "Scripture Earth"
+        },
+        {
+            "url": "http://www.scriptureearth.org/data/mpm/PDF/mpm-61-1PE-web.pdf",
+            "title": "1 Peter",
+            "scope": "",
+            "type": "pdf",
+            "filesize": "0",
+            "provider": "Scripture Earth",
+            "publisher_id": "27b03c18-7a44-4b24-a2a5-3ef3ced8da88",
+            "publisher": "Scripture Earth"
+        },
+        {
+            "url": "http://www.scriptureearth.org/data/mpm/PDF/mpm-62-2PE-web.pdf",
+            "title": "2 Peter",
+            "scope": "",
+            "type": "pdf",
+            "filesize": "0",
+            "provider": "Scripture Earth",
+            "publisher_id": "27b03c18-7a44-4b24-a2a5-3ef3ced8da88",
+            "publisher": "Scripture Earth"
+        },
+        {
+            "url": "http://www.scriptureearth.org/data/mpm/PDF/mpm-63-1JN-web.pdf",
+            "title": "1 John",
+            "scope": "",
+            "type": "pdf",
+            "filesize": "0",
+            "provider": "Scripture Earth",
+            "publisher_id": "27b03c18-7a44-4b24-a2a5-3ef3ced8da88",
+            "publisher": "Scripture Earth"
+        },
+        {
+            "url": "http://www.scriptureearth.org/data/mpm/PDF/mpm-64-2JN-web.pdf",
+            "title": "2 John",
+            "scope": "",
+            "type": "pdf",
+            "filesize": "0",
+            "provider": "Scripture Earth",
+            "publisher_id": "27b03c18-7a44-4b24-a2a5-3ef3ced8da88",
+            "publisher": "Scripture Earth"
+        },
+        {
+            "url": "http://www.scriptureearth.org/data/mpm/PDF/mpm-65-3JN-web.pdf",
+            "title": "3 John",
+            "scope": "",
+            "type": "pdf",
+            "filesize": "0",
+            "provider": "Scripture Earth",
+            "publisher_id": "27b03c18-7a44-4b24-a2a5-3ef3ced8da88",
+            "publisher": "Scripture Earth"
+        },
+        {
+            "url": "http://www.scriptureearth.org/data/mpm/PDF/mpm-66-JUD-web.pdf",
+            "title": "Jude",
+            "scope": "",
+            "type": "pdf",
+            "filesize": "0",
+            "provider": "Scripture Earth",
+            "publisher_id": "27b03c18-7a44-4b24-a2a5-3ef3ced8da88",
+            "publisher": "Scripture Earth"
+        },
+        {
+            "url": "http://www.scriptureearth.org/data/mpm/PDF/mpm-67-REV-web.pdf",
+            "title": "Revelation",
+            "scope": "",
+            "type": "pdf",
+            "filesize": "0",
+            "provider": "Scripture Earth",
+            "publisher_id": "27b03c18-7a44-4b24-a2a5-3ef3ced8da88",
+            "publisher": "Scripture Earth"
+        },
+        {
+            "url": "http://amzn.to/2wo7bX1",
+            "title": "NT",
+            "scope": "",
+            "type": "print",
+            "filesize": "0",
+            "provider": "Amazon Marketplace",
+            "publisher_id": null,
+            "publisher": null
+        },
+        {
+            "url": "http://amzn.to/2wo7bX1",
+            "title": "Print on Demand",
+            "scope": "",
+            "type": "print",
+            "filesize": "0",
+            "provider": "Digital Bible Society",
+            "publisher_id": "93619ca8-7f05-48dc-995c-6f46cdc94918",
+            "publisher": "Digital Bible Society"
+        },
+        {
+            "url": "https://www.bible.com/versions/741-mpmnt-nuevo-testamento-en-mixteco-de-yosondua",
+            "title": "Nuevo Testamento en mixteco de Yosondúa",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "Wycliffe Bible Translators, Inc.",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=b63eaee9ba3ef032",
+            "title": "Bible For Developers",
+            "scope": "NT",
+            "type": "archive",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "publisher": "The Digital Bible Library"
+        },
+        {
+            "url": "https://www.bible.com/sr/audio-bible-app-versions/741",
+            "title": "Mixteco de Santiago Yosundua - 2010 Edition (NT) Drama",
+            "scope": "",
+            "type": "audio",
+            "filesize": "0",
+            "provider": "Youversion",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        },
+        {
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=a4441a12343711e7",
+            "title": "Mixteco de Santiago Yosundua - 2010 Edition (NT) Drama",
+            "scope": "NT",
+            "type": "archiveaudio",
+            "filesize": "0",
+            "provider": "Digital Bible Library",
+            "publisher_id": "2c3d2807-1559-4187-a15e-c8bb07ba3c7a",
+            "publisher": "Faith Comes By Hearing"
+        },
+        {
+            "url": "https://ebible.org/find/details.php?id=mpmtbl",
+            "title": "Simple HTML Bibles",
+            "scope": "",
+            "type": "web",
+            "filesize": "0",
+            "provider": "ebible.org",
+            "publisher_id": "583342a6-6914-4401-b670-83924dd3a1ae",
+            "publisher": "eBible"
+        },
+        {
+            "url": "https://virtualstorehouse.org/collections/all-available-bibles/products/mixteco-de-yosondua-nt-mpm",
+            "title": "Virtual Storehouse",
+            "scope": "NT",
+            "type": "print",
+            "filesize": "0",
+            "provider": "Virtual Storehouse",
+            "publisher_id": "c742690a-2183-48be-872a-5b80585294a3",
+            "publisher": "Virtual Storehouse"
+        },
+        {
+            "url": "https://bible.com/versions/741",
+            "title": "Youversion",
+            "scope": "",
+            "type": "",
+            "filesize": "0",
+            "provider": "",
+            "publisher_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "publisher": "YouVersion"
+        }
+    ],
+    "publishers": [],
+    "providers": [],
+    "equivalents": [
+        {
+            "organization_id": "f4b27cf8-7dbf-4bfb-8cd4-93315e272e2a",
+            "equivalent_id": "b63eaee9ba3ef032",
+            "site": "",
+            "suffix": "",
+            "type": "DBL",
+            "url": "https://app.thedigitalbiblelibrary.org/entry?id=b63eaee9ba3ef032"
+        },
+        {
+            "organization_id": "a4f1fc26-64a5-412f-804d-d91da40aee72",
+            "equivalent_id": "741",
+            "site": "",
+            "suffix": "",
+            "type": "",
+            "url": "https://bible.com/versions/741"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "MPMTBLN",
+            "site": "bible.is",
+            "suffix": null,
+            "type": "api",
+            "url": null
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "53ac243a5117ad56de235b40",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "544262745117ad3c2ad5c8b5",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "544262745117ad3c8352f1c7",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "544262755117ad3c0ddb4e61",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "544262765117ad3c2ad5c8b7",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "544262775117ad3c0ddb4e63",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
+        },
+        {
+            "organization_id": null,
+            "equivalent_id": "544262775117ad3c8352f1c9",
+            "site": null,
+            "suffix": null,
+            "type": "Archive",
+            "url": "globalbiblecatalogue.org"
+        }
+    ],
+    "books": null
+}

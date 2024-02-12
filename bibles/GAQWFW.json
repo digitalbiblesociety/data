@@ -6,7 +6,7 @@
     "language": {
         "name": "Gata'"
     },
-    "title": "New Testament in Gata Didayi (Bible)",
+    "title": "Gata Didayi New Testament",
     "title_vernacular": "ସତ୍‌ ଗାଲି, ଯୀଶୁ ମାପ୍‌ରୁନେ ତ୍ମି ନିଅମ୍",
     "description": null,
     "description_short": null,
@@ -23,7 +23,21 @@
         "script": "Orya",
         "fonts": []
     },
-    "pod": [],
+    "pod": [
+        {
+            "publisher_id": null,
+            "partner_id": null,
+            "description": "",
+            "trim": "us_letter",
+            "scope": "bible",
+            "pages": 250,
+            "print_ready": 0,
+            "font_size": 10,
+            "font_bold": "NotoSansOriya-Regular.ttf",
+            "font": "NotoSansOriya-Regular.ttf",
+            "print_banned": 0
+        }
+    ],
     "links": [
         {
             "url": "https://www.bible.com/versions/2781-ntdaa20-",
